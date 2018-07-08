@@ -1,0 +1,27 @@
+#show > li:nth-child(odd) {
+	background-color: #eee;
+}
+.error {
+	background-color: pink;
+}
+button[type=button] {
+	border-radius: 4px !important;
+	margin: 2px 1px !important;
+	width: 42px;
+}
+form {
+	background-color: #eee;
+}
+span.input-group-btn > button {
+	font-family: monospace;
+}
+@media print {
+	#show > li:nth-child(odd) {
+		background-color: #eee !important;
+		-webkit-print-color-adjust: exact;
+	}
+	.error {
+		background-color: pink !important;
+		-webkit-print-color-adjust: exact;
+	}
+}

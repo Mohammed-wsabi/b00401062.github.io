@@ -1,0 +1,170 @@
+# Renal System & Nephrology
+
+## Hormones Acting on Kidney
+
+|Hormones|Locations|Effect|
+|-|-|-|
+|ANP|Arterioles|Vasodilation|
+|Catecholamine|Arterioles|Vasoconstriction|
+|Prostaglandin|Afferent arteriole|Vasodilation|
+|Angiotensin|Efferent arteriole|Vasoconstriction|
+|Angiotensin|Proximal convoluted tubule|Na reabsorption|
+|Aldosterone|Collecting tubule|Na reabsorption|
+|ADH|Collecting tubule|Water reabsorption|
+|Parathyroid hormone|Proximal convoluted tubule|Phosphate secretion|
+|Parathyroid hormone|Distal convoluted tubule|Ca reabsorption|
+
+## Relative Concentrations Along Proximal Convoluted Tubules
+
+![](../Figures/Relative%20Concentrations%20Along%20Proximal%20Convoluted%20Tubules.png)
+
+## Ion Channels of the Kidney
+
+### Loop of Henle
+
+![](../Figures/Ion%20Channels%20of%20Loop%20of%20Henle.gif)
+
+### Distal Convoluted Tubule (DCT)
+
+![](../Figures/Ion%20Channels%20of%20Distal%20Convoluted%20Tubule%20(DCT).gif)
+
+## Urine Color & Diseases
+
+|Color|Diseases|
+|-|-|
+|Orange|Rifampin|
+|Black|Alkaptonuria|
+|Red|Hematuria & Hemoglobinuria & Myoglobinuria|
+|Brown|Hyperbilirubinemia|
+|Purple|Porphyria|
+
+## Urine Output
+
+|Term|Definition (mL/kg/h)|Definition (mL/d)|
+|-|-|-|
+|Polyuria|> 1.5 mL/kg/h|> 2000 mL/d|
+|Normal|0.5 ~ 1.5 mL/kg/h|800 ~ 2000 mL/d|
+|Oliguria|< 0.5 mL/kg/h|< 500 mL/d|
+|Anuria|0 mL/kg/h|< 100 mL/d|
+
+## Classification of Acute Kidney Injury (AKI)
+
+|Variable|Prerenal|Renal|
+|-|-|-|
+|Urine osmolality|> 500|< 350|
+|Urine Na|< 20|> 40|
+|FE<sub>Na</sub>|< 1%|> 2%|
+|Serum BUN/Cr|> 20|< 15|
+
+## Staging of Acute Kidney Injury (AKI)
+
+### RIFLE
+
+|Stage|Cr|GFR|Urine|
+|-|-|-|-|
+|Risk|1.5x ~ 2x|50 ~ 75%|< 0.5 mL/kg/h for 6 ~ 12 hours|
+|Injury|2x ~ 3x|25 ~ 50%|< 0.5 mL/kg/h for 12 ~ 24 hours|
+|Failure|> 3x / ↑ > 0.5 mg/dL to > 4.0 mg/dL|< 25%|< 0.3 mL/kg/h for > 24 hours / 0 mL/kg/h for > 12 hours|
+|Loss|Failure > 4 weeks|||
+|ESRD|Failure > 3 months|||
+
+### AKIN
+
+|Stage|Cr|Urine|
+|-|-|-|
+|1|1.5x ~ 2x / ↑ > 0.3 mg/dL|< 0.5 mL/kg/h for 6 ~ 12 hours|
+|2|2x ~ 3x|< 0.5 mL/kg/h for 12 ~ 24 hours|
+|3|> 3x / ↑ > 0.5 mg/dL to > 4.0 mg/dL|< 0.3 mL/kg/h for > 24 hours / 0 mL/kg/h for > 12 hours|
+
+## Staging of Chronic Kidney Disease (CKD)
+
+|Stage|GFR|
+|-|-|
+|1|> 90|
+|2|60 ~ 90|
+|3a|45 ~ 60|
+|3b|30 ~ 45|
+|4|15 ~ 30|
+|5|< 15|
+
+## Nephritic & Nephrotic Syndrome
+
+|Nephritis [HHAOP]|Nephrosis [HHELP]|
+|-|-|
+|Hypertension|Hypoalbuminemia|
+|Hematuria|Hyperlipidemia|
+|Azotemia|Edema|
+|Oliguria|Lipiduria|
+|Proteinuria < 3.5 g/dL|Proteinuria > 3.5 g/dL|
+
+## Glomerulopathy [GEM-RAG-AI-MD-MMF-DA]
+
+|Glomerulopathy|Immune Reaction|Microscopy|Nephritic|Nephrotic|
+|-|-|-|-|-|
+|Granulomatosis with polyangiitis (GPA)|PR3-ANCA (c-ANCA)|-|+|-|
+|Eosinophilic granulomatosis with polyangiitis (EGPA)|MPO-ANCA (p-ANCA)|-|+|-|
+|Microscopic polyangiitis|MPO-ANCA (p-ANCA)|-|+|-|
+|Rapidly progressive glomerulonephritis (RPGN)|-|Crescent|+|-|
+|Alport syndrome|-|Basket-weave|+|-|
+|Goodpasture syndrome|Anti-GBM|-|+|-|
+|Acute proliferative glomerulonephritis (APGN)|Subepithelial IC deposit|Lumpy-bumpy & Starry sky|+|-|
+|IgA nephropathy = Berger disease: HSP|Mesangial IC deposit|-|+|-|
+|Membranoproliferative glomerulonephritis (MPGN)|Subendothelial IC deposit|Tram-track|+|+|
+|Diffuse proliferative glomerulonephritis (DPGN): SLE|Subendothelial IC deposit|Wire looping|+|+|
+|Membranous nephropathy (MN): SLE|Subepithelial IC deposit|Spike & dome|-|+|
+|Minimal change disease (MCD)|-|Podocyte effacement|-|+|
+|Focal segmental glomerulosclerosis (FSGS)|-|Podocyte effacement|-|+|
+|Diabetic nephropathy|-|Nodular glomerulosclerosis|-|+|
+|Amyloid nephropathy|-|Nodular amyloidosis|-|+|
+
+## Etiologies of Renal Papillary Necrosis [SAND]
+
+- Sickle cell nephropathy
+- Acute pyelonephritis
+- NSAIDs
+- Diabetic nephropathy
+
+## Renal Tubular Defects
+
+|Mnemonic|Defect|Analog|Serum K|Serum H|Serum Ca|
+|-|-|-|-|-|-|
+|Fasting|Fanconi syndrome|Acetazolamide|↓|↑|-|
+|Blood|Bartter syndrome|Loop diuretics|↓|↓|↓|
+|Glucose|Gitelman syndrome|Thiazide|↓|↓|↑|
+|Level|Liddle syndrome|Aldosterone|↓|↓|-|
+
+## Renal Tubular Acidosis (RTA)
+
+|RTA|Serum K|Serum H|
+|-|-|-|
+|Proximal|↓|↑|
+|Distal|↓|↑|
+|Hyperkalemic|↑|↑|
+
+## Mechanisms of Action of Medications Targeting RAAS
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|Renin inhibitors|Aliskiren|HTN|
+|ACE inhibitors (ACEI)|-Prils|HTN & HF|
+|Angiotensin antagonists (ARB)|-Sartans|HTN & HF|
+|Aldosterone antagonists|Spironolactone|Diuretics|
+||Eplerenone|Diuretics|
+
+## Mechanisms of Action of Diuretics
+
+|Mechanism|Mnemonic|Medication|Indications|Location|Serum K|Serum H|Serum Ca|
+|-|-|-|-|-|-|-|-|
+|Carbonic anhydrase inhibitors|Abnormal|Acetazolamide|Diuretics|Proximal convoluted tubule (PCT)|↓|↑|-|
+|Na-K-2Cl sympoter blockers|Loss|Loop diuretics: Furosemide & Bumetanide|Diuretics|Ascending loop of Henle|↓|↓|↓|
+|Na-Cl sympoter blockers|Through|Thiazide|Diuretics|Distal convoluted tubule (DCT)|↓|↓|↑|
+|Aldosterone antagonists|Kidney|K-sparing diuretics: Spironolactone & Eplerenone|Diuretics|Collecting tubule (CT)|↑|↑|-|
+|Na channel blockers|Kidney|K-sparing diuretics: Amiloride & Triamterene|Diuretics|Collecting tubule (CT)|↑|↑|-|
+
+## Indications for Acute Dialysis [AEIOU]
+
+- Acidosis
+- Electrolyte disturbances
+- Intoxication
+- Overload of volume
+- Uremia
