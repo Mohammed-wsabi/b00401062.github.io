@@ -47,7 +47,7 @@ class Evaluator:
 		xlabel("1-Specificity")
 		ylabel("Sensitivity")
 		axes().set_aspect("equal")
-		savefig("./Downloads/ABMRI/Figures/ROC/ROC %s.png" % self.title)
+		savefig("./Downloads/Researches/ABMRI/Figures/ROC/ROC %s.png" % self.title)
 		close()
 	def __print_confusion_matrix(self, y, prediction):
 		table = confusion_matrix(y, prediction)

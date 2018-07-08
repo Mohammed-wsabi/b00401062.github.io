@@ -83,15 +83,15 @@ class Preprocessor(BaseEstimator, ClassifierMixin):
 		return self
 	def __pvalues(self, X, y):
 		fname = "Pvalues%d.pkl" % hash(tuple(sorted(X.index)))
-		if os.path.isfile("./Downloads/ABMRI/Datasets/Pvalues/%s" % fname):
-			with open("./Downloads/ABMRI/Datasets/Pvalues/%s" % fname, "rb") as fin:
+		if os.path.isfile("./Downloads/Researches/ABMRI/Datasets/Pvalues/%s" % fname):
+			with open("./Downloads/Researches/ABMRI/Datasets/Pvalues/%s" % fname, "rb") as fin:
 				return pickle.load(fin)[isin(FEATURES, self.features)]
 		data = concat((X, y), axis = 1)
 		pvalues = zeros(len(FEATURES))
 		for i, feature in enumerate(FEATURES):
 			formula = "%s ~ Category + Age + Sex + Duration * Dose" % feature
 			pvalues[i] = anova_lm(ols(formula, data).fit()).loc["Category", "PR(>F)"]
-		with open("./Downloads/ABMRI/Datasets/Pvalues/%s" % fname, "wb") as fout:
+		with open("./Downloads/Researches/ABMRI/Datasets/Pvalues/%s" % fname, "wb") as fout:
 			pickle.dump(pvalues, fout, pickle.HIGHEST_PROTOCOL)
 		return pvalues[isin(FEATURES, self.features)]
 	def __segments(self):
@@ -132,7 +132,7 @@ class Preprocessor(BaseEstimator, ClassifierMixin):
 			ylabel("Tract")
 			ylim((0, len(TRACTS)))
 			colorbar(aspect = 10).ax.set_title("-log(p)sign(NR-R)")
-			savefig("./Downloads/ABMRI/Figures/Pvalues/Pvalues %s.png" % self.indices[i].upper())
+			savefig("./Downloads/Researches/ABMRI/Figures/Pvalues/Pvalues %s.png" % self.indices[i].upper())
 			close()
 	def __plot_segments(self, segments):
 		if not self.output: return
@@ -142,7 +142,7 @@ class Preprocessor(BaseEstimator, ClassifierMixin):
 		title("Histogram of Segment Length")
 		xlabel("Length")
 		ylabel("Count")
-		savefig("./Downloads/ABMRI/Figures/Histogram.png")
+		savefig("./Downloads/Researches/ABMRI/Figures/Histogram.png")
 		close()
 	def __print_segments(self, changes):
 		if not self.output: return
@@ -166,7 +166,7 @@ class Preprocessor(BaseEstimator, ClassifierMixin):
 		xlabel("Number of components")
 		ylabel("Percentage")
 		grid()
-		savefig("./Downloads/ABMRI/Figures/Analysis/Analysis Percentage.png")
+		savefig("./Downloads/Researches/ABMRI/Figures/Analysis/Analysis Percentage.png")
 		close()
 	def __plot_weighting(self):
 		if not self.output: return
@@ -179,5 +179,5 @@ class Preprocessor(BaseEstimator, ClassifierMixin):
 		ylim((0, self.analysis.components_.shape[0]))
 		yticks(arange(self.analysis.components_.shape[0]) + .5, arange(self.analysis.components_.shape[0]) + 1)
 		colorbar(aspect = 10).ax.set_title("Weight")
-		savefig("./Downloads/ABMRI/Figures/Analysis/Analysis Weighting.png")
+		savefig("./Downloads/Researches/ABMRI/Figures/Analysis/Analysis Weighting.png")
 		close()
