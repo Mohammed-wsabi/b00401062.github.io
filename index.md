@@ -98,6 +98,7 @@ title: Life Code
 - [grapher](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/grapher): An applet built with [JavaFX](https://en.wikipedia.org/wiki/JavaFX) that plots mathematical function.
 - [leetcode](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/leetcode): Collection of Java programs solving [LeetCode](https://leetcode.com/problemset/all/) problems.
 - [notebook](Packages/notebook): A place where you can take note of trivial things in your life.
+- [okio](Packages/okio): A modern I/O API for Java.
 - [rosalind](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/rosalind): Collection of Java programs solving [ROSALIND](http://rosalind.info/problems/locations/) problems.
 - [struts](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/struts): A server built with [Apache Struts](https://struts.apache.org) that handles basic login.
 - [table2html](Packages/table2html): Convert a delimited text file to a beautiful bootstrap HTML table.
