@@ -14,234 +14,138 @@
  * limitations under the License.
  */
 
-package okio.common
+package okio
 
-import okio.BASE64_URL_SAFE
-import okio.ByteString
-import okio.and
-import okio.arrayRangeEquals
-import okio.arraycopy
-import okio.asUtf8ToByteArray
-import okio.createString
-import okio.decodeBase64ToArray
-import okio.encodeBase64
-import okio.hashCode
-import okio.shr
-import okio.toUtf8String
+/**
+ * An immutable sequence of bytes.
+ *
+ * Byte strings compare lexicographically as a sequence of **unsigned** bytes. That is, the byte
+ * string `ff` sorts after `00`. This is counter to the sort order of the corresponding bytes,
+ * where `-1` sorts before `0`.
+ *
+ * **Full disclosure:** this class provides untrusted input and output streams with raw access to
+ * the underlying byte array. A hostile stream implementation could keep a reference to the mutable
+ * byte string, violating the immutable guarantee of this class. For this reason a byte string's
+ * immutability guarantee cannot be relied upon for security in applets and other environments that
+ * run both trusted and untrusted code in the same process.
+ */
+expect class ByteString
+// Trusted internal constructor doesn't clone data.
+internal constructor(data: ByteArray) : Comparable<ByteString> {
+  internal val data: ByteArray
 
-// TODO Kotlin's expect classes can't have default implementations, so platform implementations
-// have to call these functions. Remove all this nonsense when expect class allow actual code.
+  internal var hashCode: Int
+  internal var utf8: String?
 
-internal fun ByteString.commonUtf8(): String {
-  var result = utf8
-  if (result == null) {
-    // We don't care if we double-allocate in racy code.
-    result = data.toUtf8String()
-    utf8 = result
-  }
-  return result
-}
+  /** Constructs a new `String` by decoding the bytes as `UTF-8`.  */
+  fun utf8(): String
 
-internal fun ByteString.commonBase64(): String = data.encodeBase64()
+  /**
+   * Returns this byte string encoded as [Base64](http://www.ietf.org/rfc/rfc2045.txt). In violation
+   * of the RFC, the returned string does not wrap lines at 76 columns.
+   */
+  fun base64(): String
 
-internal fun ByteString.commonBase64Url() = data.encodeBase64(map = BASE64_URL_SAFE)
+  /** Returns this byte string encoded as [URL-safe Base64](http://www.ietf.org/rfc/rfc4648.txt). */
+  fun base64Url(): String
 
-internal fun ByteString.commonHex(): String {
-  val result = CharArray(data.size * 2)
-  var c = 0
-  for (b in data) {
-    result[c++] = ByteString.HEX_DIGITS[b shr 4 and 0xf]
-    result[c++] = ByteString.HEX_DIGITS[b       and 0xf]
-  }
-  return result.createString()
-}
+  /** Returns this byte string encoded in hexadecimal.  */
+  fun hex(): String
 
-internal fun ByteString.commonToAsciiLowercase(): ByteString {
-  // Search for an uppercase character. If we don't find one, return this.
-  var i = 0
-  while (i < data.size) {
-    var c = data[i]
-    if (c < 'A'.toByte() || c > 'Z'.toByte()) {
-      i++
-      continue
-    }
+  /**
+   * Returns a byte string equal to this byte string, but with the bytes 'A' through 'Z' replaced
+   * with the corresponding byte in 'a' through 'z'. Returns this byte string if it contains no
+   * bytes in 'A' through 'Z'.
+   */
+  fun toAsciiLowercase(): ByteString
 
-    // This string is needs to be lowercased. Create and return a new byte string.
-    val lowercase = data.copyOf()
-    lowercase[i++] = (c - ('A' - 'a')).toByte()
-    while (i < lowercase.size) {
-      c = lowercase[i]
-      if (c < 'A'.toByte() || c > 'Z'.toByte()) {
-        i++
-        continue
-      }
-      lowercase[i] = (c - ('A' - 'a')).toByte()
-      i++
-    }
-    return ByteString(lowercase)
-  }
-  return this
-}
+  /**
+   * Returns a byte string equal to this byte string, but with the bytes 'a' through 'z' replaced
+   * with the corresponding byte in 'A' through 'Z'. Returns this byte string if it contains no
+   * bytes in 'a' through 'z'.
+   */
+  fun toAsciiUppercase(): ByteString
 
-internal fun ByteString.commonToAsciiUppercase(): ByteString {
-  // Search for an lowercase character. If we don't find one, return this.
-  var i = 0
-  while (i < data.size) {
-    var c = data[i]
-    if (c < 'a'.toByte() || c > 'z'.toByte()) {
-      i++
-      continue
-    }
+  /** Returns the byte at `pos`.  */
+  internal fun getByte(pos: Int): Byte
 
-    // This string is needs to be uppercased. Create and return a new byte string.
-    val lowercase = data.copyOf()
-    lowercase[i++] = (c - ('a' - 'A')).toByte()
-    while (i < lowercase.size) {
-      c = lowercase[i]
-      if (c < 'a'.toByte() || c > 'z'.toByte()) {
-        i++
-        continue
-      }
-      lowercase[i] = (c - ('a' - 'A')).toByte()
-      i++
-    }
-    return ByteString(lowercase)
-  }
-  return this
-}
+  /** Returns the byte at `index`.  */
+  @JvmName("getByte")
+  operator fun get(index: Int): Byte
 
-internal fun ByteString.commonSubstring(beginIndex: Int, endIndex: Int): ByteString {
-  require(beginIndex >= 0) { "beginIndex < 0" }
-  require(endIndex <= data.size) { "endIndex > length(${data.size})" }
+  /** Returns the number of bytes in this ByteString. */
+  val size: Int
+    @JvmName("size") get
 
-  val subLen = endIndex - beginIndex
-  require(subLen >= 0) { "endIndex < beginIndex" }
+  // Hack to work around Kotlin's limitation for using JvmName on open/override vals/funs
+  internal fun getSize(): Int
 
-  if (beginIndex == 0 && endIndex == data.size) {
-    return this
-  }
+  /** Returns a byte array containing a copy of the bytes in this `ByteString`. */
+  fun toByteArray(): ByteArray
 
-  val copy = ByteArray(subLen)
-  arraycopy(data, beginIndex, copy, 0, subLen)
-  return ByteString(copy)
-}
+  /** Returns the bytes of this string without a defensive copy. Do not mutate!  */
+  internal fun internalArray(): ByteArray
 
-internal fun ByteString.commonGetByte(pos: Int) = data[pos]
+  /**
+   * Returns true if the bytes of this in `[offset..offset+byteCount)` equal the bytes of `other` in
+   * `[otherOffset..otherOffset+byteCount)`. Returns false if either range is out of bounds.
+   */
+  fun rangeEquals(offset: Int, other: ByteString, otherOffset: Int, byteCount: Int): Boolean
 
-internal fun ByteString.commonGetSize() = data.size
+  /**
+   * Returns true if the bytes of this in `[offset..offset+byteCount)` equal the bytes of `other` in
+   * `[otherOffset..otherOffset+byteCount)`. Returns false if either range is out of bounds.
+   */
+  fun rangeEquals(offset: Int, other: ByteArray, otherOffset: Int, byteCount: Int): Boolean
 
-internal fun ByteString.commonToByteArray() = data.copyOf()
+  fun startsWith(prefix: ByteString): Boolean
 
-internal fun ByteString.commonInternalArray() = data
+  fun startsWith(prefix: ByteArray): Boolean
 
-internal fun ByteString.commonRangeEquals(
-  offset: Int,
-  other: ByteString,
-  otherOffset: Int,
-  byteCount: Int
-): Boolean = other.rangeEquals(otherOffset, this.data, offset, byteCount)
+  fun endsWith(suffix: ByteString): Boolean
 
-internal fun ByteString.commonRangeEquals(
-  offset: Int,
-  other: ByteArray,
-  otherOffset: Int,
-  byteCount: Int
-): Boolean {
-  return (offset >= 0 && offset <= data.size - byteCount
-      && otherOffset >= 0 && otherOffset <= other.size - byteCount
-      && arrayRangeEquals(data, offset, other, otherOffset, byteCount))
-}
+  fun endsWith(suffix: ByteArray): Boolean
 
-internal fun ByteString.commonStartsWith(prefix: ByteString) =
-    rangeEquals(0, prefix, 0, prefix.size)
+  fun indexOf(other: ByteString, fromIndex: Int = 0): Int
 
-internal fun ByteString.commonStartsWith(prefix: ByteArray) =
-    rangeEquals(0, prefix, 0, prefix.size)
+  open fun indexOf(other: ByteArray, fromIndex: Int = 0): Int
 
-internal fun ByteString.commonEndsWith(suffix: ByteString) =
-    rangeEquals(size - suffix.size, suffix, 0, suffix.size)
+  override fun equals(other: Any?): Boolean
 
-internal fun ByteString.commonEndsWith(suffix: ByteArray) =
-    rangeEquals(size - suffix.size, suffix, 0, suffix.size)
+  override fun hashCode(): Int
 
-internal fun ByteString.commonIndexOf(other: ByteArray, fromIndex: Int): Int {
-  val limit = data.size - other.size
-  for (i in maxOf(fromIndex, 0)..limit) {
-    if (arrayRangeEquals(data, i, other, 0, other.size)) {
-      return i
-    }
-  }
-  return -1
-}
+  override fun compareTo(other: ByteString): Int
 
-internal fun ByteString.commonEquals(other: Any?): Boolean {
-  return when {
-    other === this -> true
-    other is ByteString -> other.size == data.size && other.rangeEquals(0, data, 0, data.size)
-    else -> false
-  }
-}
+  /**
+   * Returns a human-readable string that describes the contents of this byte string. Typically this
+   * is a string like `[text=Hello]` or `[hex=0000ffff]`.
+   */
+  override fun toString(): String
 
-internal fun ByteString.commonHashCode(): Int {
-  val result = hashCode
-  if (result != 0) return result
-  hashCode = hashCode(data)
-  return hashCode
-}
+  companion object {
+    internal val HEX_DIGITS: CharArray
 
-internal fun ByteString.commonCompareTo(other: ByteString): Int {
-  val sizeA = size
-  val sizeB = other.size
-  var i = 0
-  val size = minOf(sizeA, sizeB)
-  while (i < size) {
-    val byteA = this[i] and 0xff
-    val byteB = other[i] and 0xff
-    if (byteA == byteB) {
-      i++
-      continue
-    }
-    return if (byteA < byteB) -1 else 1
-  }
-  if (sizeA == sizeB) return 0
-  return if (sizeA < sizeB) -1 else 1
-}
+    /** A singleton empty `ByteString`.  */
+    @JvmField
+    val EMPTY: ByteString
 
-internal val COMMON_HEX_DIGITS =
-    charArrayOf('0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f')
+    /** Returns a new byte string containing a clone of the bytes of `data`. */
+    @JvmStatic
+    fun of(vararg data: Byte): ByteString
 
-internal val COMMON_EMPTY = ByteString.of()
+    /** Returns a new byte string containing the `UTF-8` bytes of this [String].  */
+    @JvmStatic
+    fun String.encodeUtf8(): ByteString
 
-internal fun commonOf(data: ByteArray) = ByteString(data.copyOf())
+    /**
+     * Decodes the Base64-encoded bytes and returns their value as a byte string. Returns null if
+     * this is not a Base64-encoded sequence of bytes.
+     */
+    @JvmStatic
+    fun String.decodeBase64(): ByteString?
 
-internal fun String.commonEncodeUtf8(): ByteString {
-  val byteString = ByteString(asUtf8ToByteArray())
-  byteString.utf8 = this
-  return byteString
-}
-
-internal fun String.commonDecodeBase64(): ByteString? {
-  val decoded = decodeBase64ToArray()
-  return if (decoded != null) ByteString(decoded) else null
-}
-
-internal fun String.commonDecodeHex(): ByteString {
-  require(length % 2 == 0) { "Unexpected hex string: ${this}" }
-
-  val result = ByteArray(length / 2)
-  for (i in result.indices) {
-    val d1 = decodeHexDigit(this[i * 2]) shl 4
-    val d2 = decodeHexDigit(this[i * 2 + 1])
-    result[i] = (d1 + d2).toByte()
-  }
-  return ByteString(result)
-}
-
-private fun decodeHexDigit(c: Char): Int {
-  return when (c) {
-    in '0'..'9' -> c - '0'
-    in 'a'..'f' -> c - 'a' + 10
-    in 'A'..'F' -> c - 'A' + 10
-    else -> throw IllegalArgumentException("Unexpected hex digit: $c")
+      /** Decodes the hex-encoded bytes and returns their value a byte string.  */
+    @JvmStatic
+    fun String.decodeHex(): ByteString
   }
 }
