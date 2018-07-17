@@ -8,7 +8,7 @@ title: Life Code
 - [Clerkship at UPMC Family Medicine](Blogger/Clerkship%20at%20UPMC%20Family%20Medicine.pdf)
 - [Clerkship at UPMC Hematology](Blogger/Clerkship%20at%20UPMC%20Hematology.pdf)
 - [Introduction to Vim](Blogger/Introduction%20to%20Vim.html)
-- [Gene Mutation - Deletion](Blogger/Gene%20Mutation%20-%20Deletion.html)
+- [Gene Deletion](Blogger/Gene%20Deletion.html)
 - [Medical Doctor in Taiwan and the US](Blogger/Medical%20Doctor%20in%20Taiwan%20and%20the%20US.html)
 - [Muscle Strength](Blogger/Muscle%20Strength.html)
 - [Smooth Muscle Movement](Blogger/Smooth%20Muscle%20Movement.html)
