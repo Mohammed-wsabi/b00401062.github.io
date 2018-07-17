@@ -1,4 +1,4 @@
-# Gene Mutation - Deletion
+# Gene Deletion
 
 __Deletion__ is one of the most common events of genetic mutation. It occurs when any portion of genetic information is lost. Deletion can be variable in the number of lost nucleotides, the location within a chromosome, the severity of the disease it ensues, etc. The size of the lost segment can range from a single nucleotide, a codon, a gene, to an entire chromosome. The diversity of deletion makes it a popular topic for scientists. And its tight connection with diseases attracts medical professionals to devote to it. The rest of the article will be organized based on the size of the lost segment and will put emphasis on the correlation between each deletion and its corresponding diseases.
 
