@@ -1,4 +1,4 @@
-# Burn and Rehabilitation
+# Burns and Rehabilitation
 
 PM&R is often consulted to see patients with burn injuries in the hope of improving their functional capacity. However, it is not always the case that the patients can benefit from rehabilitation. From the standpoint of PM&R, patients are expected to tolerate the therapies to improve their range of motion, muscle strength, and independence for ADL. More importantly, patients should not be injured by any therapies on them, like falls, skin tear, etc.
 
