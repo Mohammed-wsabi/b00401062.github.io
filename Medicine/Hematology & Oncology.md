@@ -256,6 +256,10 @@
 - Leukemia
 - Adrenal gland tumor
 
+## Eastern Cooperative Oncology Group (ECOG) Performance Scale
+
+![](../Figures/Eastern%20Cooperative%20Oncology%20Group%20(ECOG)%20Performance%20Scale.png)
+
 ## Mechanisms of Action of Anticoagulants
 
 |Mechanism|Medication|Indications|
