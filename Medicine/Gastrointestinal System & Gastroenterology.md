@@ -162,6 +162,10 @@
 |H|Hypokalemia|
 |A|Achlorhydria|
 
+## Goodsall Rule for Anal Fistula
+
+![](../Figures/Goodsall%20Rule%20for%20Anal%20Fistula.png)
+
 ## Criteria for Liver Transplantation for Hepatocellular Carcinoma
 
 ### Milan Criteria
