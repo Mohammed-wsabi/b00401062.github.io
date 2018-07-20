@@ -95,7 +95,7 @@
 |Francisella|-|-|
 |Pasteurella|-|-|
 
-### Gram-Negative: No Cell Wall [MU]
+### Gram-Negative: w/o Cell Wall [MU]
 
 |Bacteria|Stain|Culture|
 |-|-|-|
@@ -982,7 +982,7 @@
 
 |Patient|Drug|
 |-|-|
-|CAP & ≤ 65 y/o & Healthy & No antibiotic use ≤ 3 months|Macrolide<br>Doxycycline|
+|CAP & ≤ 65 y/o & Healthy & w/o antibiotic use ≤ 3 months|Macrolide<br>Doxycycline|
 |CAP & (> 65 y/o / Commorbid / Antibiotic use ≤ 3 months)|Amoxicillin & (Macrolide / Doxycycline)<br>Fluoroquinolone|
 |CAP & Hospitalization|Anti-pneumococcal β-lactam & Macrolide<br>Fluoroquinolone|
 |CAP & ICU|Anti-pseudomonal β-lactam & (Macrolide / Fluoroquinolone)|
