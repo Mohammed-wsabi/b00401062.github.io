@@ -195,6 +195,10 @@
 	- Child-Pugh score ≤ B: Chemotherapy
 	- Child-Pugh score = C: Supportive care
 
+## Makuuchi Criteria for Hepatectomy
+
+![](../Figures/Makuuchi%20Criteria%20for%20Hepatectomy.png)
+
 ## Mechanisms of Action of Medications for PUD
 
 |Mechanism|Medication|Indications|
