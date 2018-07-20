@@ -170,19 +170,30 @@
 
 ### Milan Criteria
 
-- Tumor:
+- Resectable tumor(s):
 	- 1 tumor: < 5 cm
 	- ≤ 3 tumors: each < 3 cm
 - No vascular invasion
-- No extrahepatic spread
+- No extrahepatic metastasis
 
 ### USCF Criteria
 
-- Tumor:
+- Resectable tumor(s):
 	- 1 tumor: < 6.5 cm
 	- ≤ 3 tumors: each < 4.5 cm & total < 8 cm
 - No vascular invasion
-- No extrahepatic spread
+- No extrahepatic metastasis
+
+## Treatment Algorithm for Hepatocellular Carcinoma (HCC)
+
+- w/o vascular invasion & w/o extrahepatic metastasis
+	- Resectable tumor(s) & Child-Pugh score ≤ B: Resection / RFA ± TACE
+	- Resectable tumor(s): Liver transplant
+	- Non-resectable tumor(s) & Child-Pugh score ≤ B: RFA & TACE
+	- Non-resectable tumor(s) & Child-Pugh score = C: Supportive care
+- w/ vascular invasion / w/ extrahepatic metastasis
+	- Child-Pugh score ≤ B: Chemotherapy
+	- Child-Pugh score = C: Supportive care
 
 ## Mechanisms of Action of Medications for PUD
 
