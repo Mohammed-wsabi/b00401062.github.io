@@ -1,0 +1,7 @@
+# Programming Languages
+
+There are quite a few programming languages, either commercial or open-source, for programmers to choose from. What programming languages is most suitable for a first-time learner is always a pastime dispute among computer engineers. The reason we have that many choices out there is that each language has its irreplaceble niche in the market. From low- to high-level, from static- to strong-typing, from declaritive to imperative languagues, combination of different features along the scale contributes to the diversity of programming languages. Another crucial characteristics about a programming language is its capacity in handling errors/exceptions during the execution of a program, which can vary substantially in different languages. Also, the history of a programming language plays an important role in determining its own niche. In short, A programming language can therefore be regarded as being more friendlier for networks programming, systems programming, database management. 
+
+One misconception I would like to point out is that one programming language is more powerful than another. The turth is every language has the ability to complete a job that another can do. Technically speaking, all eligible programming languages are **Turing-complete**. The programs written in different languages all run on "Turing Machine", which is the common paradigm of modern computers.
+
+Due to my undergraduate major in 
