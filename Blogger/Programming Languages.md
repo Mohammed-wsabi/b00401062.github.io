@@ -20,4 +20,4 @@ Kotlin is an elegant substitute for Java, which is to date the most widely-used 
 
 ## Python
 
-Python is thought of as the only language that can possibly replace the dominance of Java and C in forseeable future. Python incapsulates both low- and high-level functionalities into its repository, and has been largely adapted for both general-purpose programming and data analysis. Large user-base and solid open-source supprts have drawn attention from technology giants to development of Python-compatible APIs.
+Python is thought of as the only language that can possibly replace the dominance of Java and C in forseeable future. Python incapsulates both low- and high-level functionalities into its system library, and has been largely adapted for both general-purpose programming and data analysis. Its intuitive syntax is an attraction for beginners. In addition, its large user-base and solid open-source supprts have drawn attention from technology giants to development of Python-compatible APIs.
