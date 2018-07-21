@@ -162,6 +162,25 @@
 |H|Hypokalemia|
 |A|Achlorhydria|
 
+## Classification of Hemorrhoids
+
+|Grade|Proplase|Reduction|
+|-|-|-|
+|1|-|-|
+|2|+|Spontaneous|
+|3|+|Manual|
+|4|+|Irreducible|
+
+## Triad of Chronic Anal Fissures
+
+- Sentinel pile
+- Hypertrophied papilla
+- Ulcer with scarred edges
+
+## Park Classification of Anal Fistulas
+
+![](../Figures/Park%20Classification%20of%20Anal%20Fistulas.jpg)
+
 ## Goodsall Rule for Anal Fistula
 
 ![](../Figures/Goodsall%20Rule%20for%20Anal%20Fistula.jpg)
