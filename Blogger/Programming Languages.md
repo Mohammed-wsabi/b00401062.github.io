@@ -4,19 +4,19 @@ There are quite a few programming languages, either commercial or open-source, f
 
 Porgramming languages generally support arithmetic operations, conditional expressions, loops, functions. Other advanced design to simplify the codes and reduce the burden on programmers include class, lambda expressions, complex native data structures, etc. One misconception I would like to point out is that one programming language is more powerful than another. The turth is every language has the ability to complete a job that another can do. Technically speaking, all eligible programming languages are **Turing-complete**. The programs written in different languages all run on "Turing Machine", which is the common paradigm of modern computers.
 
-Due to my undergraduate major in computer science, I get a better look at different facets of programming. Some languages that I have adapted to in my day-to-day works include C, R, Kotlin, and Python. Depending on the purpose of a program, I choose a language that is most appropriate for that aim. For example, C and Kotlin may be languages of choice for softwares that have to interact with hardwares and computer networks; on the other hand, R and Python are more frequently-used for data analysis and machine learning.
+Due to my undergraduate major in computer science, I get a better look at different facets of programming. Some languages that I have adapted to in my day-to-day works include C, Kotlin, R, and Python. Depending on the purpose of a program, I choose a language that is most appropriate for that aim. For example, C and Kotlin may be languages of choice for softwares that have to interact with hardwares and computer networks; on the other hand, R and Python are more frequently-used for data analysis and machine learning.
 
 ## C
 
 C has a long history, compared to other newcomers, which can date back to 1970s. It is extremely efficient due not only to less overloading for each instruction but also to direct compilation from human-redable code to Assembly code. C does not provide advanced data structures, which makes it a popular tool for classroom use, since students have to implement each data structure/algorithm from scratches instead of using a black-box without knowing what is inside.
 
-## R
-
-Speaking of statistics, R is arguably the first choice coming to mind. Designed to mitigate the overwhelming pipeline during data analysis, R puts together common functionalities a statistician would need and wraps them into standalone functions. R is regarded as one of the easiest-to-learn languages compared to others that entail steep learning curve.
-
 ## Kotlin
 
 Kotlin is an elegant substitute for Java, which is to date the most widely-used language in industries. Kotlin does not have a solid user base but has been steadily gaining popularity since it was first incorporated into the developement of Android applications. Its intricate grammar gives its flexibility and considerably reduces the verbosity that would otherwise be evident in other languages, which makes it painless to debug the codes.
+
+## R
+
+Speaking of statistics, R is arguably the first choice coming to mind. Designed to mitigate the overwhelming pipeline during data analysis, R puts together common functionalities a statistician would need and wraps them into standalone functions. R is regarded as one of the easiest-to-learn languages compared to others that entail steep learning curve.
 
 ## Python
 
