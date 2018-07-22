@@ -1,6 +1,6 @@
 # Equations & Formula
 
-## Basal Metabolic Rate (BMR) = Basal Energy Expenditure (BEE)
+## Basal Energy Expenditure (BEE)
 
 ### Male
 
