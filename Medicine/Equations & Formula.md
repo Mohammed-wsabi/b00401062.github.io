@@ -1,5 +1,23 @@
 # Equations & Formula
 
+## Basal Metabolic Rate (BMR) = Basal Energy Expenditure (BEE)
+
+### Male
+
+|Parameter|(13.75 × W) + (5.003 × H) - (6.775 × Age) + 66.5|
+|-|-|
+|W|Weight (kg)|
+|H|Height (cm)|
+|Age|Age (year)|
+
+### Female
+
+|Parameter| (9.563 × weight, kg) + (1.850 × height, cm) - (4.676 × age) + 655.1|
+|-|-|
+|W|Weight (kg)|
+|H|Height (cm)|
+|Age|Age (year)|
+
 ## Free Water Deficit (FWD)
 
 |Parameter|0.6 × W × (Na - 140) / 140|
