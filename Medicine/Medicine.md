@@ -272,9 +272,9 @@
 |10 ~ 20|2 mL/kg/h|50 mL/kg/d|
 |> 20|1 mL/kg/h|20 mL/kg/d|
 
-## Nutrition Requirements
+## Harris-Benedict Adjustment for Energy Expenditure
 
-|Condition|Calorie (BMR)|Protein (g/kg)|
+|Condition|Calorie (BEE)|Protein (g/kg)|
 |-|-|-|
 |Healthy|1.2 BMR|0.8 ~ 1 g/kg|
 |Postoperation|1.3 ~ 1.5 BMR|1.2 ~ 1.6 g/kg|
