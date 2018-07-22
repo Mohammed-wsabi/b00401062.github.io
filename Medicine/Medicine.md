@@ -276,9 +276,9 @@
 
 |Condition|Calorie (BEE)|Protein (g/kg)|
 |-|-|-|
-|Healthy|1.2 BMR|0.8 ~ 1 g/kg|
-|Postoperation|1.3 ~ 1.5 BMR|1.2 ~ 1.6 g/kg|
-|Trauma / Burns|1.6 ~ 2.0 BMR|1.5 ~ 2 g/kg|
+|Healthy|1.2 × BEE|0.8 ~ 1 g/kg|
+|Postoperation|1.3 ~ 1.5 × BEE|1.2 ~ 1.6 g/kg|
+|Trauma / Burns|1.6 ~ 2.0 × BEE|1.5 ~ 2 g/kg|
 
 ## Workup of Acid-Base Disturbances
 
