@@ -118,7 +118,6 @@
 
 - Medical:
 - Surgery:
-- Treatments:
 - Allergies:
 
 ---
