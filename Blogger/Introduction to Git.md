@@ -8,11 +8,18 @@ The rationale behind Git as well as all the other version control tools is prett
 
 Git itself is a binary program that usually comes without GUI. Operations have to be done in a terminal window which takes in commands from end users. Thanksfully, software engineers have encapsulated Git with a GUI or ported it onto exisiting IDEs to allow for direct access and abridge the need for typing verbose commands. The basic commands required for creation of a git project and committing changes are briefed in the following paragraphs. Before jumping into the commands, you have to change the working directory into the top level of your project. By the way, it is always a good habit to include a README file as a manual for your audiences.
 
-## Create a project
+## Create
 
 - `git init`: Initiate a new project that is rooted on this currect working directory.
+- `git remote add [URL]`
+
+## Commit
+
+- `git add .`: Add all of the files that have been created/modified/deleted since the last commit. If certain files/folders are meant to be left out, please refer to the configurations mentioned at the end of this article.
+- `git commit -m [comments]`
+- `git push -u origin master`
 
 ## Configurations
 
-- `git add .`: Add all of the folders/files to the git projects. If certain files/folders are meant to be excluded, please refer to the configurations mentioned at the end of this article.
-- `git 
+- `.gitconfig`
+- `.git/info/exclude`
