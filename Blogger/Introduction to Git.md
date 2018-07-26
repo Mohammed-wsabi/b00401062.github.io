@@ -11,15 +11,15 @@ Git itself is a binary program that usually comes without GUI. Operations have t
 ## Create
 
 - `git init`: Initiate a new project that is rooted on this currect working directory.
-- `git remote add [URL]`
+- `git remote add [URL]`: Add a remote repository that you are goind to sync your project with.
 
 ## Commit
 
 - `git add .`: Add all of the files that have been created/modified/deleted since the last commit. If certain files/folders are meant to be left out, please refer to the configurations mentioned at the end of this article.
-- `git commit -m [comments]`
-- `git push -u origin master`
+- `git commit -m [comments]`: Commit all changes and leave commments which is required for each commit.
+- `git push -u origin master`: Push all commits that have yet to be synced with the remote repository.
 
 ## Configurations
 
-- `.gitconfig`
+- `.gitconfig`: 
 - `.git/info/exclude`
