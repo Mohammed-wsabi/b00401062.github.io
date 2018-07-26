@@ -16,5 +16,5 @@ Git itself is a binary program that usually comes without GUI. Operations have t
 ## Commit
 
 - `git add .`: Add all of the files that have been created/modified/deleted since the last commit. If certain files/folders are meant to be left out, please refer to `.git/info/exclude` and append the filenames to be excluded.
-- `git commit -m [comments]`: Commit all changes and leave commments which is required for each commit.
+- `git commit -m [comment]`: Commit all changes and leave a commment which is required for each commit.
 - `git push -u origin master`: Push all commits that have yet to be synced with the remote repository.
