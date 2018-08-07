@@ -60,8 +60,8 @@
 
 |Samples|Confidence Interval|Hypothesis Test|
 |-|-|-|
-|One|$\hat{p} ± z\sqrt{\frac{\hat{p}(1-\hat{p})}{n}}$|$z = (\hat{p}-p)/\sqrt{\frac{p(1-p)}{n}}$|
-|Two|$(\hat{p}_1-\hat{p}_2) ± z\sqrt{\frac{\hat{p}_1(1-\hat{p}_1)}{n_1}+\frac{\hat{p}_2(1-\hat{p}_2)}{n_2}}$|$z = (\hat{p}_1-\hat{p}_2)/\sqrt{p_\textrm{pooled}(1-p_\textrm{pooled})(\frac{1}{n_1}+\frac{1}{n_2})}, p_\textrm{pooled} = \frac{n_1\hat{p}_1+n_2\hat{p}_2}{n_1+n_2}$|
+|One|![](https://latex.codecogs.com/gif.latex?\hat{p}&space;\pm&space;z\sqrt{\frac{\hat{p}(1-\hat{p})}{n}})|![](https://latex.codecogs.com/gif.latex?z&space;=&space;(\hat{p}-p)/\sqrt{\frac{p(1-p)}{n}})|
+|Two|![](https://latex.codecogs.com/gif.latex?(\hat{p}_1-\hat{p}_2)&space;\pm&space;z\sqrt{\frac{\hat{p}_1(1-\hat{p}_1)}{n_1}&plus;\frac{\hat{p}_2(1-\hat{p}_2)}{n_2}})|![](https://latex.codecogs.com/gif.latex?z&space;=&space;(\hat{p}_1-\hat{p}_2)/\sqrt{p_\text{pooled}(1-p_\text{pooled})(\frac{1}{n_1}&plus;\frac{1}{n_2})},&space;p_\text{pooled}&space;=&space;\frac{n_1\hat{p}_1&plus;n_2\hat{p}_2}{n_1&plus;n_2})|
 
 ## Sensitivity & Specificity
 
