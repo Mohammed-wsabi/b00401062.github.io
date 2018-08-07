@@ -49,14 +49,14 @@
 |Continuous|Continuous|Independent|-|Spearman correlation|
 |Continuous|Continuous|Independent|+|Pearson correlation|
 
-## Inferences for Means $\overline{X}$
+## Inferences for Means ![](https://latex.codecogs.com/gif.latex?\overline{X})
 
 |Samples|Confidence Interval|Hypothesis Test|
 |-|-|-|
-|One|$\overline{X} ± t_\textrm{df}\frac{S}{\sqrt{n}}, \textrm{df} = n-1$|$t_\textrm{df} = (\overline{X}-μ)/\frac{S}{\sqrt{n}}, \textrm{df} = n-1$|
-|Two|$(\overline{X}_1-\overline{X}_2) ± t_\textrm{df}\sqrt{\frac{S_1^2}{n_1}+\frac{S_2^2}{n_2}}, \textrm{df} = \min\{n_1-1, n_2-1\}$|$t_\textrm{df} = (\overline{X}_1-\overline{X}_2)/\sqrt{\frac{S_1^2}{n_1}+\frac{S_2^2}{n_2}}, \textrm{df} = \min\{n_1-1, n_2-1\}$|
+|One|![](https://latex.codecogs.com/gif.latex?\overline{X}&space;\pm&space;t_\text{df}\frac{S}{\sqrt{n}},&space;\text{df}&space;=&space;n-1)|![](https://latex.codecogs.com/gif.latex?t_\text{df}&space;=&space;(\overline{X}-\mu)/\frac{S}{\sqrt{n}},&space;\text{df}&space;=&space;n-1)|
+|Two|![](https://latex.codecogs.com/gif.latex?(\overline{X}_1-\overline{X}2)&space;\pm&space;t_\text{df}\sqrt{\frac{S_1^2}{n_1}&plus;\frac{S_2^2}{n_2}},&space;\text{df}&space;=&space;\min\{n_1-1,&space;n_2-1\})|![](https://latex.codecogs.com/gif.latex?t_\text{df}&space;=&space;(\overline{X}_1-\overline{X}_2)/\sqrt{\frac{S_1^2}{n_1}&plus;\frac{S_2^2}{n_2}},&space;\text{df}&space;=&space;\min\{n_1-1,&space;n_2-1\})|
 
-## Inferences for Proportions $\hat{p}$
+## Inferences for Proportions ![](https://latex.codecogs.com/gif.latex?\hat{p})
 
 |Samples|Confidence Interval|Hypothesis Test|
 |-|-|-|
