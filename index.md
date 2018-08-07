@@ -4,7 +4,6 @@ title: Life Code
 
 ## Blogger
 
-- [Burns and Rehabilitation](Blogger/Burns%20and%20Rehabilitation.html)
 - [Clerkship at UPMC Family Medicine](Blogger/Clerkship%20at%20UPMC%20Family%20Medicine.pdf)
 - [Clerkship at UPMC Hematology](Blogger/Clerkship%20at%20UPMC%20Hematology.pdf)
 - [Introduction to Git](Blogger/Introduction%20to%20Git.html)
