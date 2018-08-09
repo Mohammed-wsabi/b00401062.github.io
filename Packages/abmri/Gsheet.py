@@ -1,7 +1,7 @@
 from googleapiclient.discovery import build
 from httplib2 import Http
 from oauth2client import file, client, tools
-from pandas import *
+from pandas import DataFrame
 
 class Gsheet:
 	def __init__(self, sheet: str, range: str):
