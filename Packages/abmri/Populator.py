@@ -59,7 +59,7 @@ class Populator():
 		assert all(isin(dataset[category].File, os.listdir("/Volumes/Transcend/ABMRI/")))
 		## Load MAP-MRI indices
 		for subject in dataset[category].index:
-			print "== Session %s ==" % subject
+			print("== Session %s ==" % subject)
 			dname = "/Volumes/Transcend/ABMRI/%s/lddmm-dsi/" % dataset[category].File[subject]
 			for index in INDICES:
 				matched = filter(re.compile(".*\\.%s_Array\\.mat$" % index.lower()).match, os.listdir(dname))

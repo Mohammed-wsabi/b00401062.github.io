@@ -52,31 +52,31 @@ class Preprocessor(BaseEstimator, ClassifierMixin):
 		return self.estimator.predict(self.transform(X))
 	def preprocess(self, X, y):
 		if not self.output: sys.stdout = open(os.devnull, "w")
-		print "\n## Preprocessing session\n"
+		print("\n## Preprocessing session\n")
 		self.subjects = hash(tuple(sorted(X.index)))
 		## Feature selection: analysis of covariance (ANCOVA)
-		print "- Feature selection: analysis of covariance (ANCOVA)"
+		print("- Feature selection: analysis of covariance (ANCOVA)")
 		self.pvalues = self.__pvalues(X, y)
-		print "\t- %d significant steps (alpha = %.2f) are found." % (sum(self.pvalues < self.alpha), self.alpha)
+		print("\t- %d significant steps (alpha = %.2f) are found." % (sum(self.pvalues < self.alpha), self.alpha))
 		segments = self.__segments()
-		print "\t- %d segments are found." % len(segments)
+		print("\t- %d segments are found." % len(segments))
 		self.__plot_segments(segments)
 		self.segments = self.__select_segments(segments)
-		print "\t- %d significant segments (>= %d steps) are found." % (len(self.segments), min(map(len, self.segments)))
+		print("\t- %d significant segments (>= %d steps) are found." % (len(self.segments), min(map(len, self.segments))))
 		X = X[self.features]
 		self.__plot_pvalues(-sign(X.groupby(y).mean().diff().loc["R", :]))
 		## Feature extraction: average
-		print "- Feature extraction: average"
+		print("- Feature extraction: average")
 		X = self.__extract_average(X)
 		X = self.__normalize(X)
 		changes = -sign(X.groupby(y).mean().diff().loc["R", :])
 		## Feature extraction: principal component analysis (PCA)
-		print "- Feature extraction: principal component analysis (PCA)"
+		print("- Feature extraction: principal component analysis (PCA)")
 		self.__plot_percentage(PCA().fit(X))
 		self.analysis = PCA(n_components = self.n_components).fit(X)
 		X = self.__extract_analysis(X)
 		X = self.__normalize(X)
-		print "\t- %d components explain %.4f of variance." % (self.analysis.components_.shape[0], sum(self.analysis.explained_variance_ratio_))
+		print("\t- %d components explain %.4f of variance." % (self.analysis.components_.shape[0], sum(self.analysis.explained_variance_ratio_)))
 		self.__plot_weighting()
 		self.__print_segments(changes)
 		sys.stdout = sys.__stdout__
@@ -116,7 +116,7 @@ class Preprocessor(BaseEstimator, ClassifierMixin):
 	def __normalize(self, X):
 		pvalues = X.apply(lambda col: kstest(scale(col), "norm").pvalue)
 		if sum(pvalues < self.alpha) != 0:
-			print "\t- %d features do not pass normalization test." % sum(pvalues < self.alpha)
+			print("\t- %d features do not pass normalization test." % sum(pvalues < self.alpha))
 		for feature in where(pvalues < self.alpha)[0]:
 			X[feature] = boxcox(X[feature] - min(X[feature]) + 1)[0]
 		return X.apply(lambda col: scale(col))
@@ -146,16 +146,16 @@ class Preprocessor(BaseEstimator, ClassifierMixin):
 		close()
 	def __print_segments(self, changes):
 		if not self.output: return
-		print "\n## Significant segments\n"
-		print "||Index|NR|Tract|Steps|"
-		print "|-|-|-|-|-|"
+		print("\n## Significant segments\n")
+		print("||Index|NR|Tract|Steps|")
+		print("|-|-|-|-|-|")
 		for i, segment in enumerate(self.segments):
 			elements = self.features[segment[0]].split("_")
 			index = elements[0]
 			change = "↑" if changes[i] > 0 else "↓"
 			tract = TRACTS[int(elements[1][2:])-1]
 			steps = (elements[-1], self.features[segment[-1]].split("_")[-1])
-			print "|%d|%s|%s|%s|%s ~ %s|" % (i+1, index, change, tract.Fullname, steps[0], steps[1])
+			print("|%d|%s|%s|%s|%s ~ %s|" % (i+1, index, change, tract.Fullname, steps[0], steps[1]))
 	def __plot_percentage(self, analysis):
 		if not self.output: return
 		percentages = cumsum(analysis.explained_variance_ratio_)

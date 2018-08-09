@@ -16,7 +16,7 @@ class Evaluator:
 	def fit(self, dataset):
 		assert isinstance(dataset, Category)
 		assert hasattr(self.preprocessor, "decision_function")
-		print "\n## Evaluation session: %s\n" % self.title
+		print("\n## Evaluation session: %s\n" % self.title)
 		X = concat((dataset.NR, dataset.R))
 		y = Series(
 			["NR"] * dataset.NR.shape[0] + ["R"] * dataset.R.shape[0],
@@ -26,11 +26,11 @@ class Evaluator:
 		self.preprocessor.fit(X, y)
 		scores = self.preprocessor.decision_function(X)
 		fpr, tpr, thresholds = roc_curve(y == "R", scores)
-		print "- Receiver operating characteristic (ROC): %f" % auc(fpr, tpr)
+		print("- Receiver operating characteristic (ROC): %f" % auc(fpr, tpr))
 		self.__plot_roc_curve(tpr, fpr)
 		return self
 	def predict(self, dataset, title = None):
-		print "- Confusion matrix: %s" % title
+		print("- Confusion matrix: %s" % title)
 		X = concat((dataset.NR, dataset.R))
 		y = Series(
 			["NR"] * dataset.NR.shape[0] + ["R"] * dataset.R.shape[0],
@@ -65,10 +65,10 @@ class Evaluator:
 		ppv = tp / (tp + fp)
 		npv = tn / (tn + fn)
 		for k, v in Result(acc, sen, spe, ppv, npv)._asdict().iteritems():
-			print "\t- %s: %.4f" % (k, v)
+			print("\t- %s: %.4f" % (k, v))
 		lines = table.to_csv(sep = "|").strip().split("\n")
 		lines.insert(1, ":-:|:-:|:-:")
 		print
-		for line in lines: print "|%s|" % line
+		for line in lines: print("|%s|" % line)
 		print
 		return Result(acc, sen, spe, ppv, npv)

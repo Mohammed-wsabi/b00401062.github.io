@@ -11,9 +11,9 @@ class Demographics:
 	def fit(self, dataset, title):
 		assert isinstance(dataset, Category)
 		self.dataset = dataset
-		print "\n## Demographics: %s\n" % title
-		print "||R (n=%d)|NR (n=%d)|p value|" % (dataset.R.shape[0], dataset.NR.shape[0])
-		print "|-|-|-|-|"
+		print("\n## Demographics: %s\n" % title)
+		print("||R (n=%d)|NR (n=%d)|p value|" % (dataset.R.shape[0], dataset.NR.shape[0]))
+		print("|-|-|-|-|")
 		self.__fit_continuous("Age (year)", ["Age"], "sum")
 		self.__fit_categorical("Sex (% male)")
 		self.__fit_continuous("Duration of illness (year)", ["Duration"], "sum")
@@ -30,19 +30,19 @@ class Demographics:
 		means = Category(NR = groups.NR.mean(), R = groups.R.mean())
 		stds = Category(NR = groups.NR.std(), R = groups.R.std())
 		pvalue = ttest_ind(groups.NR, groups.R).pvalue
-		print "|%s|%.2f±%.2f|%.2f±%.2f|%s%.2f%s|" % (
+		print("|%s|%.2f±%.2f|%.2f±%.2f|%s%.2f%s|" % (
 			title,
 			means.R, stds.R, means.NR, stds.NR,
 			"<" if pvalue < .01 else "",
 			.01 if pvalue < .01 else pvalue,
-			"*" if pvalue < self.alpha else "")
+			"*" if pvalue < self.alpha else ""))
 	def __fit_categorical(self, title):
 		groups = Category(NR = self.dataset.NR.Sex, R = self.dataset.R.Sex)
 		table = [
 			[groups.NR.value_counts().F, groups.R.value_counts().F],
 			[groups.NR.value_counts().M, groups.R.value_counts().M]]
 		pvalue = chi2_contingency(table)[1]
-		print "|%s|%d (%2.0f%%)|%d (%2.0f%%)|%s%.2f%s|" % (
+		print("|%s|%d (%2.0f%%)|%d (%2.0f%%)|%s%.2f%s|" % (
 			title,
 			groups.R.value_counts().M,
 			100 * groups.R.value_counts().M / groups.R.count(),
@@ -50,4 +50,4 @@ class Demographics:
 			100 * groups.NR.value_counts().M / groups.NR.count(),
 			"<" if pvalue < .01 else "",
 			.01 if pvalue < .01 else pvalue,
-			"*" if pvalue < self.alpha else "")
+			"*" if pvalue < self.alpha else ""))

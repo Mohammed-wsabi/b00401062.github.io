@@ -19,7 +19,7 @@ class Validator:
 		self.best = None
 	def fit(self, dataset):
 		assert isinstance(dataset, Category)
-		print "\n## Validation session: %s\n" % self.title
+		print("\n## Validation session: %s\n" % self.title)
 		scores_train, scores_valid = validation_curve(
 			estimator = self.preprocessor, cv = KFold(4, shuffle = True, random_state = 0),
 			X = concat((dataset.NR, dataset.R)),
@@ -31,8 +31,8 @@ class Validator:
 			param_name = self.param_name, param_range = self.param_range)
 		arg = argmax(scores_valid.mean(axis = 1))
 		self.best = Best(arg, self.param_range[arg], scores_valid[arg, :].mean(), scores_valid[arg, :].std())
-		print "- Best parameter: " + ("%d" if self.param_range.dtype == int else "%f") % self.best.Parameter
-		print "- Best mean (sd) of accuracy: %.4f (%.4f)" % (self.best.Mean, self.best.SD)
+		print("- Best parameter: " + ("%d" if self.param_range.dtype == int else "%f") % self.best.Parameter)
+		print("- Best mean (sd) of accuracy: %.4f (%.4f)" % (self.best.Mean, self.best.SD))
 		self.__plot_validation_curve(scores_train, scores_valid)
 		return self
 	def __plot_validation_curve(self, scores_train, scores_valid):
