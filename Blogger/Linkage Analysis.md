@@ -6,6 +6,8 @@
 
 ## Genetic linkage
 
+The **Principle of Independent Assortment**, proposed by Mendel in 1865, describes how different genes independently separate from one another. Independent assortment of genes only applies under the assumption that genes of interest are located on different chromosomes and no translocation of gene from one chromesome to another occurs during meiosis. Most of the time, the interactions and behaviors between genes are far more complex than those described by the princple of independent assortment. And it is the intricacy of chromosome interaction that contriubtes to the diversity of life on the earth.
+
 - **Recombination frequency (RF)**
 - **Centimorgan (cM)**
 - **Logarithm of odds (LOD)**
