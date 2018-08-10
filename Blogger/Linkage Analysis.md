@@ -2,7 +2,7 @@
 
 ## Introduction
 
-**Linkage ananlysis** bases its theory on a number of well-known laws developed by geneticists, of which the earliest and the most reputed one is **Mendel** (1822~1884). Although modern techqnies boast of complexity and accurary, linkage analysis is arguably the most cost-effective tool in detection of culprit genes responsible for certain genetic disorders.
+**Linkage ananlysis** bases its theory on a number of well-known laws developed by geneticists, of which the earliest and the most reputed one is **Mendel** (1822~1884). Although modern techqnies boast of complexity and accurary, linkage analysis is arguably the most cost-effective tool in detection of culprit genes responsible for certain genetic diseases.
 
 ## Genetic Linkage
 
@@ -12,9 +12,11 @@ The **Principle of Independent Assortment**, proposed by Mendel in 1865, describ
 
 ## Linkage Analysis
 
-**Linkage analysis** borrows the concepts of genetic linkage and extends its application to exploration of unknown genetic disorder. It aims to correlate specific gene with a well-described phenotype that is reasonably suspected to be of genetic cause. Linkage analysis is especially advantageous voer other modalities when a significant number of members within a family are involved. In such case, a **pedigree** can be depicted in great detail.
+**Linkage analysis** borrows the concepts of genetic linkage and extends its application to exploration of unknown genetic diseases. It aims to correlate specific gene(s) with a well-described phenotype that can be reasonably suspected to be of genetic etiology. Linkage analysis is especially advantageous over other modalities when a significant number of members within a family are involved. In such case, a **pedigree** can be depicted in great detail, which is the cornerstone of linkage analysis.
 
-Pedigrees lie in the core of linkage analysis. From a pedigree, the geneticist designs genetic markers whose loci are well described. Blood sample is then extracted from members within the pedigree and subsequent DNA is collected. Genetic markers  Logarithm of Odds (LOD)
+From a pedigree, the geneticist designs **genetic markers** whose loci are clearly described. In an ideal circumstance, genetic markers are supposed to be dispersed in the vicinity of the suspected gene, or at least on the same chromosome. Furthermore, a genetic marker should comprise known alleles with non-negligible percentage in the population so that the variation of the same loci within a family can be matched. The design of genetic markers requires tremendous efforts and expertise without doubt. When a high proportion of affected members in the pedigree possess the same allele of one genetic marker, it is reasonable to suspect the culprit gene lies in the vicinity of that genetic marker.
+
+**Logarithm of odds (LOD)** is a measurement that genetists use to compares the likelihood that the two loci are indeed linked, to the likelihood purely by chance. The null hypothesis is that the disease and marker loci are unlinked, i.e., there will be an approximately equal number of recombinant and non-recombinant gametes among the offspring The alternate hypothesis is that the disease and marker loci are linked, i.e., there will be more non-recombinants than recombinants among the offspring [[1]](http://hihg.med.miami.edu/code/http/modules/education/Design/Print.asp?CourseNum=3&LessonNum=3). The formula of LOD is given as below: 
 
 ## Examples
 
