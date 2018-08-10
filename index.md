@@ -9,6 +9,7 @@ title: Life Code
 - [Introduction to Git](Blogger/Introduction%20to%20Git.html)
 - [Introduction to Vim](Blogger/Introduction%20to%20Vim.html)
 - [Gene Deletion](Blogger/Gene%20Deletion.html)
+- [Linkage Analysis](Blogger/Linkage%20Analysis.html)
 - [Medical Doctor in Taiwan and the US](Blogger/Medical%20Doctor%20in%20Taiwan%20and%20the%20US.html)
 - [Muscle Strength](Blogger/Muscle%20Strength.html)
 - [Programming Languages](Blogger/Programming%20Languages.html)
