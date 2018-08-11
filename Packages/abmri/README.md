@@ -16,10 +16,13 @@
 
 ## Execution
 
+```bash
+export PYTHONHASHSEED=0
+export PYTHONPATH=./Documents/Packages/abmri/
+python3 -B
+```
+
 ```python
-import sys
-sys.dont_write_bytecode = True
-sys.path.append("./Documents/Packages/abmri/")
 from Populator import *
 from Demographics import *
 from Pipeline import *
