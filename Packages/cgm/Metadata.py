@@ -3,7 +3,7 @@ from httplib2 import Http
 from oauth2client import file, client, tools
 from pandas import DataFrame
 
-class Gsheet:
+class Metadata:
 	def __init__(self, sheet: str, range: str):
 		self.scope = "https://www.googleapis.com/auth/spreadsheets.readonly"
 		self.sheet = sheet
@@ -18,3 +18,5 @@ class Gsheet:
 		result = service.spreadsheets().values().get(spreadsheetId = self.sheet, range = self.range).execute()
 		values = result.get("values", [])
 		return DataFrame(values, columns = values[header]).drop(header).set_index(values[header][index_col])
+	def load(self, header: int = 0, index_col: int = 0) -> DataFrame:
+		return read(header, index_col)
