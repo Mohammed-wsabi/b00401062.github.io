@@ -62,7 +62,7 @@ class Populator():
 			print("== Session %s ==" % subject)
 			dname = "/Volumes/Transcend/ABMRI/%s/lddmm-dsi/" % dataset[category].File[subject]
 			for index in INDICES:
-				matched = filter(re.compile(".*\\.%s_Array\\.mat$" % index.lower()).match, os.listdir(dname))
+				matched = list(filter(re.compile(".*\\.%s_Array\\.mat$" % index.lower()).match, os.listdir(dname)))
 				assert len(matched) == 1
 				features = ["_".join([index, tract.Nickname, str(step)]) for tract in TRACTS for step in range(100)]
 				dataset[category].loc[subject, features] = loadmat(dname + matched[0])["array"].reshape(7600)

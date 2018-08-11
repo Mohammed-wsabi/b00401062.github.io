@@ -103,9 +103,9 @@ class Preprocessor(BaseEstimator, ClassifierMixin):
 				segments[-1].append(step)
 		return array(segments)
 	def __select_segments(self, segments):
-		length = array(map(len, segments))
-		threshold = percentile(length, 90)
-		return segments[length >= threshold]
+		lens = array(map(len, segments))
+		threshold = percentile(lens, 90)
+		return segments[lens >= threshold]
 	def __extract_average(self, X):
 		predictor = DataFrame()
 		for segment in self.segments:
@@ -136,9 +136,9 @@ class Preprocessor(BaseEstimator, ClassifierMixin):
 			close()
 	def __plot_segments(self, segments):
 		if not self.output: return
-		length = map(len, segments)
-		hist(length, range(min(length), max(length)))
-		axvline(x = percentile(length, 90), color = "red", lw = 2)
+		lens = map(len, segments)
+		hist(lens, range(min(lens), max(lens)))
+		axvline(x = percentile(lens, 90), color = "red", lw = 2)
 		title("Histogram of Segment Length")
 		xlabel("Length")
 		ylabel("Count")
