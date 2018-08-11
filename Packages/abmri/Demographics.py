@@ -1,5 +1,3 @@
-# -*- coding: utf-8 -*-
-from __future__ import division
 from scipy.stats import ttest_ind
 from scipy.stats import chi2_contingency
 from Constants import *

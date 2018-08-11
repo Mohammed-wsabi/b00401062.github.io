@@ -1,4 +1,3 @@
-from __future__ import division
 from matplotlib.pyplot import *
 from numpy import *
 from pandas import *

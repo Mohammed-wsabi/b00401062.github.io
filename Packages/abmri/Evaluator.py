@@ -1,4 +1,3 @@
-from __future__ import division
 from matplotlib.pyplot import *
 from numpy import *
 from pandas import *
@@ -62,11 +61,11 @@ class Evaluator:
 		spe = tn / (tn + fp)
 		ppv = tp / (tp + fp)
 		npv = tn / (tn + fn)
-		for k, v in Result(acc, sen, spe, ppv, npv)._asdict().iteritems():
+		for k, v in Result(acc, sen, spe, ppv, npv)._asdict().items():
 			print("\t- %s: %.4f" % (k, v))
 		lines = table.to_csv(sep = "|").strip().split("\n")
 		lines.insert(1, ":-:|:-:|:-:")
-		print
+		print()
 		for line in lines: print("|%s|" % line)
-		print
+		print()
 		return Result(acc, sen, spe, ppv, npv)

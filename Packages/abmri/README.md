@@ -17,8 +17,9 @@
 ## Execution
 
 ```bash
+export PYTHONHASHSEED=0
 export PYTHONPATH=$HOME/Documents/Packages/abmri/
-python -B
+python3 -B
 ```
 
 ```python
