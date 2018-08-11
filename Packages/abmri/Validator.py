@@ -9,7 +9,6 @@ from Preprocessor import *
 
 class Validator:
 	def __init__(self, preprocessor, param_name, param_range, xlabel, xtickslabels):
-		assert isinstance(preprocessor, Preprocessor)
 		self.preprocessor = preprocessor
 		self.param_name = param_name
 		self.param_range = param_range
@@ -18,7 +17,6 @@ class Validator:
 		self.xtickslabels = xtickslabels
 		self.best = None
 	def fit(self, dataset):
-		assert isinstance(dataset, Category)
 		print("\n## Validation session: %s\n" % self.title)
 		scores_train, scores_valid = validation_curve(
 			estimator = self.preprocessor, cv = KFold(4, shuffle = True, random_state = 0),

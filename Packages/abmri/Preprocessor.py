@@ -103,7 +103,7 @@ class Preprocessor(BaseEstimator, ClassifierMixin):
 				segments[-1].append(step)
 		return array(segments)
 	def __select_segments(self, segments):
-		lens = array(map(len, segments))
+		lens = list(map(len, segments))
 		threshold = percentile(lens, 90)
 		return segments[lens >= threshold]
 	def __extract_average(self, X):
@@ -124,7 +124,7 @@ class Preprocessor(BaseEstimator, ClassifierMixin):
 		if not self.output: return
 		for i in range(len(self.indices)):
 			lower, upper = i * len(TRACTS) * 100, (i+1) * len(TRACTS) * 100
-			data = (-log10(self.pvalues[lower:upper]) * changes[lower:upper]).reshape((len(TRACTS), 100))
+			data = array(-log10(self.pvalues[lower:upper]) * changes[lower:upper]).reshape((len(TRACTS), 100))
 			pcolor(data, cmap = "coolwarm", vmin = log10(self.alpha), vmax = -log10(self.alpha))
 			title("p value maps of %s" % self.indices[i].upper())
 			xlabel("Step")
@@ -136,7 +136,7 @@ class Preprocessor(BaseEstimator, ClassifierMixin):
 			close()
 	def __plot_segments(self, segments):
 		if not self.output: return
-		lens = map(len, segments)
+		lens = list(map(len, segments))
 		hist(lens, range(min(lens), max(lens)))
 		axvline(x = percentile(lens, 90), color = "red", lw = 2)
 		title("Histogram of Segment Length")

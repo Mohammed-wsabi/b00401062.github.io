@@ -9,7 +9,6 @@ class Demographics:
 		self.alpha = alpha
 		self.dataset = None
 	def fit(self, dataset, title):
-		assert isinstance(dataset, Category)
 		self.dataset = dataset
 		print("\n## Demographics: %s\n" % title)
 		print("||R (n=%d)|NR (n=%d)|p value|" % (dataset.R.shape[0], dataset.NR.shape[0]))

@@ -9,12 +9,10 @@ from Preprocessor import *
 
 class Evaluator:
 	def __init__(self, preprocessor):
-		assert isinstance(preprocessor, Preprocessor)
 		self.preprocessor = preprocessor
 		self.title = "".join([c for c in preprocessor.estimator.__class__.__name__ if c.isupper()])
 		self.threshold = None
 	def fit(self, dataset):
-		assert isinstance(dataset, Category)
 		assert hasattr(self.preprocessor, "decision_function")
 		print("\n## Evaluation session: %s\n" % self.title)
 		X = concat((dataset.NR, dataset.R))

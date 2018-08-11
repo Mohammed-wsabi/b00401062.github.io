@@ -7,7 +7,7 @@ from scipy.io import loadmat
 from sklearn.model_selection import train_test_split
 from Constants import *
 
-class Populator():
+class Populator:
 	def __init__(self):
 		self.DATASETS = self.__datasets()
 		self.BESTS = Model(

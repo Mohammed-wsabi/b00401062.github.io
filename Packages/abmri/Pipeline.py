@@ -16,7 +16,6 @@ class Pipeline:
 		self.evaluate = evaluate
 		self.datasets = None
 	def fit(self, datasets):
-		assert isinstance(datasets, Set)
 		self.datasets = datasets
 		self.preprocess(datasets.Training)
 		self.bests = Model(
