@@ -1,9 +1,11 @@
 from collections import namedtuple
 
 Name = namedtuple("Name", ["Nickname", "Fullname"])
-Set = namedtuple("Set", ["Training", "Validation", "Test"])
+Set = namedtuple("Set", ["Training", "Test"])
+Course = namedtuple("Course", ["Chronic", "Early"])
 Category = namedtuple("Category", ["NR", "R"])
 Best = namedtuple("Best", ["Index", "Parameter", "Mean", "SD"])
+Outcome = namedtuple("Outcome", ["Actual", "Predicted"])
 Result = namedtuple("Result", ["Accuracy", "Sensitivity", "Specificity", "PPV", "NPV"])
 Model = namedtuple("Model", [
 	"LinearDiscriminantAnalysis", ## linear discriminant analysis (LDA)

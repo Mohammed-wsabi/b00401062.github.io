@@ -21,33 +21,37 @@ class Populator:
 		if os.path.isfile("./Downloads/Researches/ABMRI/Datasets/Datasets.pkl"):
 			with open("./Downloads/Researches/ABMRI/Datasets/Datasets.pkl", "rb") as fin:
 				return pickle.load(fin)
+		fname = "./Downloads/Researches/ABMRI/Datasets/Subjects/Subjects.xlsx"
 		datasets = {
 			"Training": {
 				"NR": None,
 				"R": DataFrame(columns = COLUMNS)},
-			"Validation": {
-				"NR": read_excel("./Downloads/Researches/ABMRI/Datasets/Subjects/Subjects.xlsx", sheet_name = "Chronic", header = 0, index_col = 0)[COLUMNS + ["Category"]].groupby("Category").get_group("NR").drop(columns = "Category"),
-				"R": read_excel("./Downloads/Researches/ABMRI/Datasets/Subjects/Subjects.xlsx", sheet_name = "Chronic", header = 0, index_col = 0)[COLUMNS + ["Category"]].groupby("Category").get_group("R").drop(columns = "Category")},
 			"Test": {
-				"NR": read_excel("./Downloads/Researches/ABMRI/Datasets/Subjects/Subjects.xlsx", sheet_name = "Early", header = 0, index_col = 0)[COLUMNS + ["Category"]].groupby("Category").get_group("NR").drop(columns = "Category"),
-				"R": read_excel("./Downloads/Researches/ABMRI/Datasets/Subjects/Subjects.xlsx", sheet_name = "Early", header = 0, index_col = 0)[COLUMNS + ["Category"]].groupby("Category").get_group("R").drop(columns = "Category")}}
+				"Chronic": {
+					"NR": read_excel(fname, sheet_name = "Chronic", header = 0, index_col = 0)[COLUMNS + ["Category"]].groupby("Category").get_group("NR").drop(columns = "Category"),
+					"R": read_excel(fname, sheet_name = "Chronic", header = 0, index_col = 0)[COLUMNS + ["Category"]].groupby("Category").get_group("R").drop(columns = "Category")},
+				"Early": {
+					"NR": read_excel(fname, sheet_name = "Early", header = 0, index_col = 0)[COLUMNS + ["Category"]].groupby("Category").get_group("NR").drop(columns = "Category"),
+					"R": read_excel(fname, sheet_name = "Early", header = 0, index_col = 0)[COLUMNS + ["Category"]].groupby("Category").get_group("R").drop(columns = "Category")}}}
 		datasets["Training"]["NR"], datasets["Validation"]["NR"] = train_test_split(datasets["Validation"]["NR"], train_size = 32, random_state = 0)
 		cumulative = Category(
 			NR = datasets["Training"]["NR"][["Duration", "Dose"]].prod(axis = 1).sort_values(),
-			R = datasets["Validation"]["R"][["Duration", "Dose"]].prod(axis = 1).sort_values())
+			R = datasets["Test"]["Chronic"]["R"][["Duration", "Dose"]].prod(axis = 1).sort_values())
 		for dose in cumulative.NR:
 			unicode = cumulative.R.index[abs(cumulative.R - dose).values.argmin()]
-			datasets["Training"]["R"].loc[unicode, :] = datasets["Validation"]["R"].loc[unicode, :]
-			datasets["Validation"]["R"].drop(index = unicode, inplace = True)
+			datasets["Training"]["R"].loc[unicode, :] = datasets["Test"]["Chronic"]["R"].loc[unicode, :]
+			datasets["Test"]["Chronic"]["R"].drop(index = unicode, inplace = True)
 			cumulative.R.drop(unicode, inplace = True)
 		datasets["Training"]["R"] = datasets["Training"]["R"].infer_objects()
-		for set in Set._fields:
-			for category in Category._fields:
-				self.__loadmat(datasets[set], category)
+		for category in Category._fields:
+			self.__loadmat(datasets["Training"], category)
+			self.__loadmat(datasets["Test"]["Chronic"], category)
+			self.__loadmat(datasets["Test"]["Early"], category)
 		datasets = Set(
 			Training = Category(**datasets["Training"]),
-			Validation = Category(**datasets["Validation"]),
-			Test = Category(**datasets["Test"]))
+			Test = Course(
+				Chronic = Category(**datasets["Test"]["Chronic"]),
+				Early = Category(**datasets["Test"]["Early"])))
 		with open("./Downloads/Researches/ABMRI/Datasets/Datasets.pkl", "wb") as fout:
 			pickle.dump(datasets, fout, pickle.HIGHEST_PROTOCOL)
 		return datasets
