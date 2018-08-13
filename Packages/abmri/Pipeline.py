@@ -45,28 +45,28 @@ class Pipeline:
 				param_range = linspace(0, 1, 101),
 				xlabel = "shrinkage",
 				xtickslabels = linspace(0, 1, 11)
-			).fit(self.dataset.Training).best if estimator == LinearDiscriminantAnalysis else self.bests.LinearDiscriminantAnalysis,
+			).fit(self.datasets.Training).best if estimator == LinearDiscriminantAnalysis else self.bests.LinearDiscriminantAnalysis,
 			QuadraticDiscriminantAnalysis = Validator(
 				preprocessor = Preprocessor(QuadraticDiscriminantAnalysis()),
 				param_name = "reg_param",
 				param_range = linspace(0, 1, 101),
 				xlabel = "shrinkage",
 				xtickslabels = linspace(0, 1, 11)
-			).fit(self.dataset.Training).best if estimator == QuadraticDiscriminantAnalysis else self.bests.QuadraticDiscriminantAnalysis,
+			).fit(self.datasets.Training).best if estimator == QuadraticDiscriminantAnalysis else self.bests.QuadraticDiscriminantAnalysis,
 			LogisticRegression = Validator(
 				preprocessor = Preprocessor(LogisticRegression()),
 				param_name = "C",
 				param_range = 2 ** linspace(-10, 10, 201),
 				xlabel = "log2(C)",
 				xtickslabels = arange(21) - 10
-			).fit(self.dataset.Training).best if estimator == LogisticRegression else self.bests.LogisticRegression,
+			).fit(self.datasets.Training).best if estimator == LogisticRegression else self.bests.LogisticRegression,
 			SVC = Validator(
 				preprocessor = Preprocessor(SVC(kernel = "linear")),
 				param_name = "C",
 				param_range = 2 ** linspace(-10, 10, 201),
 				xlabel = "log2(C)",
 				xtickslabels = arange(21) - 10
-			).fit(self.dataset.Training).best if estimator == SVC else self.bests.SVC)
+			).fit(self.datasets.Training).best if estimator == SVC else self.bests.SVC)
 	def __evaluate(self, estimator):
 		if estimator == LinearDiscriminantAnalysis:
 			return Evaluator(
