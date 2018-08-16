@@ -33,9 +33,9 @@
 
 ![](../Figures/Layers%20of%20Gastrointestinal%20Tract.png)
 
-## Layers of Abdominal Wall & Spermatic Chord [PETTIES-CS-TICE-DS]
+## Layers of Abdominal Wall & Spermatic Chord
 
-|Abdominal Wall|Spermatic Chord|
+|Abdominal Wall [PETTIES-CS]|Spermatic Chord [TICE-DS]|
 |-|-|
 |Parietal peritonium|-|
 |Extraperitoneal fascia|Testis|
