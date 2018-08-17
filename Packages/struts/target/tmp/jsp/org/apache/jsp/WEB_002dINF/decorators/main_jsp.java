@@ -74,7 +74,7 @@ public final class main_jsp extends org.apache.jasper.runtime.HttpJspBase
       if (_jspx_meth_decorator_title_0(_jspx_page_context))
         return;
       out.write("</title>\r\n");
-      out.write("    <link href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css\" rel=\"stylesheet\"/>\r\n");
+      out.write("    <link href=\"https://stackpath.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css\" rel=\"stylesheet\"/>\r\n");
       out.write("    <script src=\"https://code.jquery.com/jquery-3.2.1.min.js\"></script>\r\n");
       out.write("    <link href=\"");
       if (_jspx_meth_s_url_0(_jspx_page_context))
