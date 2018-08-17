@@ -62,7 +62,7 @@
 |Shigella|-|-|
 |Yersinia|-|-|
 
-### Gram-Negative: Curved [CHV]
+### Gram-Negative: Curved
 
 |Bacteria|Stain|Culture|
 |-|-|-|
@@ -86,7 +86,7 @@
 |Chlamydia|Giemsa|-|
 |Rickettsia|Giemsa|-|
 
-### Gram-Negative: Zoonotic [BBFP]
+### Gram-Negative: Zoonotic
 
 |Bacteria|Stain|Culture|
 |-|-|-|
@@ -95,7 +95,7 @@
 |Francisella|-|-|
 |Pasteurella|-|-|
 
-### Gram-Negative: w/o Cell Wall [MU]
+### Gram-Negative: w/o Cell Wall
 
 |Bacteria|Stain|Culture|
 |-|-|-|
@@ -326,7 +326,7 @@
 
 - Virus: mononucleosis & hepatitis
 - Drugs
-- Rheumatic fever
+- Rheumatic fever & Rheumatoid arthritis
 - Lupus & Leprosy
 
 ## Classification of Fungi
@@ -671,19 +671,19 @@
 - Serratia marcescens
 - Candida
 
-## Pathogens of Genital Tract Infection [CGNTH]
+## Pathogens of Genital Tract Infection
 
-|Pathogen|Manifestations|
-|-|-|
-|Candida albicans|Discharge: white & curdy|
-|Chlamydia trachomatis|Pelvic inflammatory disease (PID) & Lymphogranuloma venereum|
-|Gardnerella vaginalis|Discharge: grayish & fishy|
-|Neisseria gonorrhoea|Pelvic inflammatory disease (PID)|
-|Trichomonas vaginalis|Discharge: green & frothy|
-|Treponema pallidum|Painless chancre & Condyloma lata|
-|Haemophilus ducreyi|Painful chancroid|
-|HPV|Condyloma accumulata|
-|HSV|Paniful ulcers|
+|Pathogen|Manifestations|Treatments|
+|-|-|-|
+|Gardnerella vaginalis|Discharge: grayish & fishy|-|
+|Neisseria gonorrhoea|Pelvic inflammatory disease (PID)|Ceftriaxone|
+|Haemophilus ducreyi|Painful chancroid|-|
+|Treponema pallidum|Painless chancre & Condyloma lata|Penicillin|
+|Chlamydia trachomatis|Pelvic inflammatory disease (PID) & Lymphogranuloma venereum|Azithromycin / Doxycycline|
+|Candida albicans|Discharge: white & curdy|-|
+|Trichomonas vaginalis|Discharge: green & frothy|Metronidazole|
+|HPV|Condyloma accumulata|-|
+|HSV|Paniful ulcers|-|
 
 ## Pathogens of Meningitis
 
