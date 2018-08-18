@@ -9,9 +9,6 @@ button[type=button] {
 	margin: 2px 1px !important;
 	width: 42px;
 }
-form {
-	background-color: #eee;
-}
 span.input-group-btn > button {
 	font-family: monospace;
 }
