@@ -10,20 +10,20 @@
 	<script src="index.js"></script>
 </head>
 <body class="container-fluid">
-	<div class="card card-default">
+	<div class="card">
 		<div class="card-header">
 			<h1>Note</h1>
 		</div>
 		<div class="card-body">
 			<form>
-				<h2 class="card-title"></h2>
+				<h2 class="card-title">Patient Information</h2>
 				<div class="form-group row">
-					<label class="col-sm-2 col-form-label">Age</label>
-					<input class="col-sm-1 form-control" type="number" placeholder="year" id="year">
-					<input class="col-sm-1 form-control" type="number" placeholder="month" id="month">
+					<label class="col-2 col-form-label">Age</label>
+					<input class="col-1 form-control" type="number" placeholder="year" id="year">
+					<input class="col-1 form-control" type="number" placeholder="month" id="month">
 				</div>
 				<div class="form-group row">
-					<label class="col-sm-2 col-form-label">Gender</label>
+					<label class="col-2 col-form-label">Gender</label>
 					<div class="form-check form-check-inline">
 						<input class="form-check-input" type="radio" name="gender" value="female" id="female">
 						<label class="form-check-label">Female</label>
@@ -33,11 +33,22 @@
 						<label class="form-check-label">Male</label>
 					</div>
 				</div>
+				<h2 class="card-title">Chief Complaints (CC)</h2>
 				<div class="form-group row">
-					<label class="col-sm-2 col-form-label">Chief Complaints</label>
-					<input class="col-sm-4 form-control" type="text" placeholder="management" id="management">
-					<input class="col-sm-4 form-control" type="text" placeholder="problem" id="problem">
+					<label class="col-2 col-form-label">Management</label>
+					<input class="col-6 form-control" type="text" placeholder="management" id="management">
 				</div>
+				<div class="form-group row">
+					<label class="col-2 col-form-label">Problem</label>
+					<input class="col-6 form-control" type="text" placeholder="problem" id="problem">
+				</div>
+				<h2 class="card-title">History of Present Illness (HPI)</h2>
+				<h2 class="card-title">Gynecologic History</h2>
+				<h2 class="card-title">Obstetric History</h2>
+				<h2 class="card-title">Birth History</h2>
+				<h2 class="card-title">Past History (PH)</h2>
+				<h2 class="card-title">Social and Sexual History (SH)</h2>
+				<h2 class="card-title">Family History (FH)</h2>
 				<button class="btn btn-block" type="button" onclick="generate()">Generate</button>
 			</form>
 			<div class="card-body" id="output">
