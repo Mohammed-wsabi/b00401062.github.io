@@ -168,7 +168,7 @@
 |Familial hypocalciuric hypercalcemia (FHH)|↑|↓|↑ (1°)|
 |2° Hyperparathyroidism → renal osteodystrophy|↓ (1°)|↑ (1°)|↑|
 |3° Hyperparathyroidism → renal osteodystrophy|↑|↑|↑|
-|Vitamin D deficiency: osteomalacia & rickets|↓ (1°)|↓|↑|
+|Vitamin D deficiency → osteomalacia & rickets|↓ (1°)|↓|↑|
 |Pseudohypoparathyroidism (PHP) → Albright hereditary osteodystrophy|↓ (1°)|↑ (1°)|↑|
 |Pseudopseudohypoparathyroidism|-|-|-|
 
@@ -189,7 +189,7 @@
 - Tired
 - Intolerance to cold
 - Reflex delayed
-- Edema: myxedema
+- Edema :: myxedema
 - Dry skin
 
 ## Presentations of Hyperthyroidism [SWEATING]
@@ -217,7 +217,7 @@
 ## Presentations of Glucagonoma [4D]
 
 - Depression
-- Dermatitis: necrolytic migratory erythema
+- Dermatitis :: necrolytic migratory erythema
 - Diabetes
 - Deep vein thrombosis (DVT)
 
@@ -260,17 +260,17 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|Insulin: rapid acting|Lispro & Aspart & Glulisine|DM|
-|Insulin: short acting|Regular insulin|DM|
-|Insulin: intermediate acting|NPH insulin|DM|
-|Insulin: long acting|Glargine & Detemir|DM|
-|↑ Insulin release: K channel blockers|1° Sulfonylurea: Tolbutamide|DM type 2|
+|Insulin :: rapid acting|Lispro & Aspart & Glulisine|DM|
+|Insulin :: short acting|Regular insulin|DM|
+|Insulin :: intermediate acting|NPH insulin|DM|
+|Insulin :: long acting|Glargine & Detemir|DM|
+|K channel blockers: ↑ Insulin release|1° Sulfonylurea: Tolbutamide|DM type 2|
 ||1° Sulfonylurea: Chlorpropamide|DM type 2|
 ||2° Sulfonylurea: Glimepiride|DM type 2|
 ||2° Sulfonylurea: Glipizide|DM type 2|
 ||2° Sulfonylurea: Glyburide|DM type 2|
 ||Glinides|DM type 2|
-|↓ Glucagon & ↑ Insulin release: GLP-1 analog|Exenatide|DM type 2|
+|GLP-1 analogs: ↑ Insulin release & ↓ Glucagon|Exenatide|DM type 2|
 ||Liraglutide|DM type 2|
 |↓ Glucagon & ↑ Insulin release: DPP-4 inhibitors|Gliptins|DM type 2|
 |↓ Glucagon release: Amylin analog|Pramlintide|DM|
