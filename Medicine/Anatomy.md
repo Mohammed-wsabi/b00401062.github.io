@@ -129,10 +129,10 @@
 
 |Muscle|Nerve|Function|
 |-|-|-|
-|Cricothyroid|CN 10: superior laryngeal nerve|-|
-|Cricoarytenoid|CN 10: recurrent laryngeal nerve|-|
-|Thyroarytenoid|CN 10: recurrent laryngeal nerve|-|
-|Arytenoid|CN 10: recurrent laryngeal nerve|-|
+|Cricothyroid|CN 10 :: superior laryngeal nerve|-|
+|Cricoarytenoid|CN 10 :: recurrent laryngeal nerve|-|
+|Thyroarytenoid|CN 10 :: recurrent laryngeal nerve|-|
+|Arytenoid|CN 10 :: recurrent laryngeal nerve|-|
 
 ### Tongue
 
@@ -147,8 +147,8 @@
 
 |Muscle|Nerve|Function|
 |-|-|-|
-|Digastric muscle: anterior belly|CN 5|-|
-|Digastric muscle: posterior belly|CN 7|-|
+|Digastric muscle :: anterior belly|CN 5|-|
+|Digastric muscle :: posterior belly|CN 7|-|
 |Mylohyoid|CN 5|-|
 |Stylohyoid|CN 7|-|
 |Geniohyoid|C1|-|
@@ -275,7 +275,7 @@
 |Mnemonic|Muscle|
 |-|-|
 |Chronic|Coracobrachialis|
-|Back|Biceps: short head|
+|Back|Biceps :: short head|
 |Pain|Pectoralis minor|
 
 ## Muscles of Greater Tubercle [TIPS]
@@ -318,8 +318,8 @@
 
 |Muscle|Nerve|
 |-|-|
-|Flexor digitorum profundus: 1st & 2nd|Median nerve|
-|Flexor digitorum profundus: 3rd & 4th|Ulnar nerve|
+|Flexor digitorum profundus :: 1st & 2nd|Median nerve|
+|Flexor digitorum profundus :: 3rd & 4th|Ulnar nerve|
 |Flexor pollicis longus|Median nerve|
 |Pronator quadratus|Median nerve|
 
@@ -358,8 +358,8 @@
 |-|-|
 |Thenar muscle|Median nerve|
 |Hypothenar muscle|Ulnar nerve|
-|Lumbrical muscle: 1st & 2nd|Median nerve|
-|Lumbrical muscle: 3rd & 4th|Ulnar nerve|
+|Lumbrical muscle :: 1st & 2nd|Median nerve|
+|Lumbrical muscle :: 3rd & 4th|Ulnar nerve|
 |Dorsal interossei|Ulnar nerve|
 |Ventral interossei|Ulnar nerve|
 
@@ -396,7 +396,7 @@
 
 ## Splanchnic Nerves
 
-### Sympathetic: T1-L2
+### Sympathetic (T1 ~ L2)
 
 - Cardiopulmonary nerve
 - Greater splanchnic nerve
@@ -405,7 +405,7 @@
 - Lumbar splanchnic nerve
 - Sacral splanchnic nerve
 
-### Parasympathetic: S2-S4
+### Parasympathetic (S2 ~ S4)
 
 - Pelvic splanchnic nerve
 
@@ -446,13 +446,13 @@
 
 ## Contents of Sciatic Foramen
 
-### Greater Sciatic Foramen: Suprapiriform Foramen
+### Greater Sciatic Foramen :: Suprapiriform Foramen
 
 |Nerves|Vessels|Muscles|
 |-|-|-|
 |Superior gluteal nerve|Superior gluteal vessels|-|
 
-### Greater Sciatic Foramen: Infrapiriform foramen
+### Greater Sciatic Foramen :: Infrapiriform foramen
 
 |Nerves|Vessels|Muscles|
 |-|-|-|

@@ -78,23 +78,16 @@
 
 ### Personality Disorder
 
-- Cluster A: Paranoid
-- Cluster A: Schizoid
-- Cluster A: Schizotypal
-- Cluster B: Antisocial
-- Cluster B: Borderline
-- Cluster B: Histrionic
-- Cluster B: Narcissistic
-- Cluster C: Avoidant
-- Cluster C: Obsessive-compulsive
-- Cluster C: Dependent
+- Cluster A: Paranoid & Schizoid & Schizotypal
+- Cluster B: Antisocial & Borderline & Histrionic & Narcissistic
+- Cluster C: Avoidant & Obsessive-compulsive & Dependent
 
 ### Psychotic Disorder
 
 - Delusional disorder
-- Brief psychotic disorder: < 1 month
-- Schizophreniform disorder: 1 ~ 6 months
-- Schizophrenia: > 6 months
+- Brief psychotic disorder (< 1 month)
+- Schizophreniform disorder (1 ~ 6 months)
+- Schizophrenia (> 6 months)
 - Schizoaffective disorder
 
 ### Mood Disorder
