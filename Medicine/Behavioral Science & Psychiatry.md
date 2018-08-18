@@ -37,9 +37,9 @@
 |Item|Score|
 |-|-|
 |Orientation|10|
-|Memory: registration|3|
+|Memory :: registration|3|
 |Attention|5|
-|Memory: recall|3|
+|Memory :: recall|3|
 |Language|8|
 |Construction|1|
 
@@ -65,7 +65,7 @@
 - Communication disorder
 - Autism spectrum disorder
 - Attention-deficit hyperactivity disorder (ADHD)
-- Motor disorder: Tourette disorder
+- Motor disorder :: Tourette disorder
 
 ### Neurocognitive Disorder
 
@@ -78,9 +78,9 @@
 
 ### Personality Disorder
 
-- Cluster A: Paranoid & Schizoid & Schizotypal
-- Cluster B: Antisocial & Borderline & Histrionic & Narcissistic
-- Cluster C: Avoidant & Obsessive-compulsive & Dependent
+- Cluster A :: Paranoid & Schizoid & Schizotypal
+- Cluster B :: Antisocial & Borderline & Histrionic & Narcissistic
+- Cluster C :: Avoidant & Obsessive-compulsive & Dependent
 
 ### Psychotic Disorder
 
@@ -189,11 +189,11 @@
 - Fatigue
 - Depression
 - Anhedonia
-- Appetite changes: anorexia & hyperphagia
+- Appetite changes :: anorexia & hyperphagia
 - Attention deficit
 - Guilt
 - Psychomotor agitation & retardation
-- Sleep disturbance: insomnia & hypersomnia
+- Sleep disturbance :: insomnia & hypersomnia
 - Suicidal ideations
 
 ## Withdrawl Symptoms from Alcohol [PTSD]
@@ -251,12 +251,12 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|1° Antipsychotics: typical|Haloperidol|Psychosis: high potency|
-||Trifluoperazine|Psychosis: high potency|
-||Fluphenazine|Psychosis: high potency|
-||Thioridazine|Psychosis: low potency|
-||Chlorpromazine|Psychosis: low potency|
-|2° Antipsychotics: atypical|Clozapine|Psychosis|
+|1° (Typical) Antipsychotics|Haloperidol|Psychosis :: high potency|
+||Trifluoperazine|Psychosis :: high potency|
+||Fluphenazine|Psychosis :: high potency|
+||Thioridazine|Psychosis :: low potency|
+||Chlorpromazine|Psychosis :: low potency|
+|2° (Atypical) Antipsychotics|Clozapine|Psychosis|
 ||Olanzapine|Psychosis|
 ||Quetiapine|Psychosis|
 ||Risperidone|Psychosis|
@@ -266,10 +266,10 @@
 
 - Anticholinergic symptoms
 - Antiadrenergic symptoms
-- Cardiac: QT prolongation
+- Cardiac :: QT prolongation
 - Extrapyramidal symptoms (EPS)
-- Endocrine: hyperprolactinemia
-- Hematologic: agranulocytosis
+- Endocrine :: hyperprolactinemia
+- Hematologic :: agranulocytosis
 - Metabolic syndrome
 - Neuroleptic malignant syndrome (NMS)
 
@@ -277,9 +277,9 @@
 
 |Onset|Symptoms|
 |-|-|
-|4 hours|Dystonia: muscle spasm & stiffness & oculogyric crisis|
-|4 days|Akathisia: restlessness|
-|4 weeks|Bradykinesia: parkinsonism|
+|4 hours|Dystonia :: muscle spasm & stiffness & oculogyric crisis|
+|4 days|Akathisia :: restlessness|
+|4 weeks|Bradykinesia :: parkinsonism|
 |4 months|Tardive dyskinesia|
 
 ## Presentations of Neuroleptic Malignant Syndrome (NMS) [FEVER]
@@ -287,7 +287,7 @@
 - Fever
 - Encephalopathy
 - Vitals unstable
-- Enzyme elevation: ceatine kinase (CK)
+- Enzyme elevation :: ceatine kinase (CK)
 - Rigidity
 
 ## Mechanisms of Action of Anxiolytics
