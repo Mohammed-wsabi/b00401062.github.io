@@ -141,11 +141,11 @@
 
 |Stage|Waves|
 |-|-|
-|Awake: eyes open|β wave|
-|Awake: eyes closed|α wave|
-|NREM sleep: stage 1|θ wave|
-|NREM sleep: stage 2|Sleep spindles & K complexes|
-|NREM sleep: stage 3 & 4|δ wave|
+|Awake :: eyes open|β wave|
+|Awake :: eyes closed|α wave|
+|NREM sleep :: stage 1|θ wave|
+|NREM sleep :: stage 2|Sleep spindles & K complexes|
+|NREM sleep :: stage 3 & 4|δ wave|
 |REM sleep|β wave|
 
 ![](../Figures/Sleep%20Stage.jpg)
@@ -166,11 +166,11 @@
 |Pathway|Function|1° Neuron|2° Neuron|3° Neuron|
 |-|-|-|-|-|
 |CN 1|SVA|Olfactory epithelium|Olfactory bulb|-|
-|CN 2|SSA|Retina|Thalamus: LGN|-|
-|CN 5|GSA|Trigeminal ganglion|Trigeminal nucleus|Thalamus: VPM|
+|CN 2|SSA|Retina|Thalamus :: LGN|-|
+|CN 5|GSA|Trigeminal ganglion|Trigeminal nucleus|Thalamus :: VPM|
 |CN 7|SVA|Geniculate ganglion|Solitary nucleus|Thalamus|
-|CN 8|SSA|Vestibular ganglion|Vestibular nucleus|Thalamus: MGN|
-|CN 8|SSA|Spiral ganglion|Cochlear nucleus|Thalamus: MGN|
+|CN 8|SSA|Vestibular ganglion|Vestibular nucleus|Thalamus :: MGN|
+|CN 8|SSA|Spiral ganglion|Cochlear nucleus|Thalamus :: MGN|
 |CN 9|GVA|Superior & Inferior ganglion|Solitary nucleus|Thalamus|
 |CN 10|GVA|Superior & Inferior ganglion|Solitary nucleus|Thalamus|
 
@@ -219,9 +219,9 @@
 |Structure|Level|
 |-|-|
 |Cervical enlargement|C5 ~ T1|
-|Lateral horn: sympathetic nerve|T1 ~ L2|
+|Lateral horn :: sympathetic|T1 ~ L2|
 |Lumbosacral enlargement|L2 ~ S2|
-|Lateral horn: parasympathetic nerve|S2 ~ S4|
+|Lateral horn :: parasympathetic|S2 ~ S4|
 |Cervical plexus|C5 ~ T1|
 |Intercostal nerve|T1 ~ T11|
 |Lumbosacral plexus|T12 ~ S4|
@@ -284,7 +284,7 @@
 
 - Miosis
 - Anhidrosis
-- Ptosis: superior tarsal muscle
+- Ptosis :: superior tarsal muscle
 
 ## Brain Lesions & Breathing Patterns
 
@@ -310,9 +310,9 @@
 
 ## Cushing Triad of Increased Intracranial Pressure (IICP)
 
-- Pressure: hypertension & increased pulse pressure
-- Pulse: bradycardia
-- Respiration: pattern change
+- Pressure :: hypertension & increased pulse pressure
+- Pulse :: bradycardia
+- Respiration :: pattern change
 
 ## Triad of Normal Pressure Hydrocephalus (NPH) [3W]
 
@@ -346,10 +346,10 @@
 |Suprascapular nerve|Erb palsy & Waiter's tip|
 |Axillary nerve|Erb palsy & Waiter's tip|
 |Musculocutaneous nerve|Erb palsy & Waiter's tip|
-|Median nerve: proximal|Ape hand & Pope's blessing|
-|Median nerve: distal|Median claw|
-|Ulnar nerve: proximal|OK gesture|
-|Ulnar nerve: distal|Ulnar claw|
+|Median nerve :: proximal|Ape hand & Pope's blessing|
+|Median nerve :: distal|Median claw|
+|Ulnar nerve :: proximal|OK gesture|
+|Ulnar nerve :: distal|Ulnar claw|
 |Radial nerve|Wrist drop & Saturday night palsy|
 
 ## Charcot Triad of Multiple Sclerosis [SIN]
@@ -384,7 +384,7 @@
 ## Presentations of Sturge-Weber Syndrome [STURGE-L]
 
 - Sporadic
-- Stain: nevus flammeus
+- Stain :: nevus flammeus
 - Tram-track calcification
 - Unilateral
 - Retardation
@@ -401,8 +401,8 @@
 
 ## Presentations of Parkinson Disease [TRAPS]
 
-- Tremor: resting & pill-rolling
-- Rigidity: cogwheel
+- Tremor :: resting & pill-rolling
+- Rigidity :: cogwheel
 - Akinesia & Bradykinesia
 - Postural instability
 - Shuffling gait
@@ -419,8 +419,8 @@
 
 |Cell|Origin|Tumors|
 |-|-|-|
-|CNS neuron|Neuroectoderm|PNET: Medulloblastoma|
-|||PNET: Retinoblastoma|
+|CNS neuron|Neuroectoderm|PNET :: Medulloblastoma|
+|||PNET :: Retinoblastoma|
 |Astrocyte|Neuroectoderm|Grade 1: Pilocytic astrocytoma|
 |||Grade 2: Fibrillary astrocytoma|
 |||Grade 3: Anaplastic astrocytoma|
@@ -441,7 +441,7 @@
 ||Benzodiazepine|Seizure|
 |Na channel blockers|Carbamazepine|Seizure & Bipolar|
 ||Phenytoin|Seizure|
-|Ca channel blockers|Ethosuximide|Seizure: absence|
+|Ca channel blockers|Ethosuximide|Seizure :: absence|
 ||Gabapentin|Seizure & Neuropathic pain|
 |↑ GABA|Valproate|Seizure & Bipolar|
 |↑ GABA|Tiagabine|Seizure|

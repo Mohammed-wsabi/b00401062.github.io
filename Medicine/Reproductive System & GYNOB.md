@@ -135,9 +135,9 @@
 ### Preeclampsia
 
 - BP > 140/90 mmHg
-- Proteinuria: ≥ 0.3 g/d
-- Proteinuria: urine protein/creatinine ratio (UPCR) ≥ 0.3
-- Proteinuria: dipstick ≥ 1+
+- Proteinuria :: urine protein ≥ 0.3 g/d
+- Proteinuria :: urine protein/creatinine ratio (UPCR) ≥ 0.3
+- Proteinuria :: dipstick ≥ 1+
 
 ### Severe Features
 
@@ -149,14 +149,14 @@
 - Headache
 - Hemoconcentration
 - Liver enzymes ↑
-- Thrombocytopenia: platelet count ≤ 100,000/µL
+- Thrombocytopenia :: platelet count ≤ 100,000/µL
 - Visual disturbances
 
 ## HELLP Syndrome [HELLP]
 
 |Mnemonic|Presentation|
 |-|-|
-|H|Hemolysis: intravascular|
+|H|Hemolysis :: intravascular|
 |EL|Elevated liver enzymes|
 |LP|Low platelet count|
 
@@ -196,7 +196,7 @@
 - Leiomyoma
 - Malignancy
 - Coagulopathy
-- Ovulation: PCOS
+- Ovulation :: PCOS
 - Endometrium
 - Iatrogenic
 - Not yet classified
@@ -241,8 +241,8 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|GnRH agonists|Leuprolide: pulsatle|Infertility|
-|GnRH antagonists|Leuprolide: continuous|Prostate cancer|
+|GnRH agonists|Leuprolide :: pulsatle|Infertility|
+|GnRH antagonists|Leuprolide :: continuous|Prostate cancer|
 |Estrogen agonists|Diethylstilbestrol (DES)|HRT & OCP|
 ||Mestranol|HRT & OCP|
 |Estrogen modulators|Clomifene|PCOS & Ovulation|

@@ -4,15 +4,15 @@
 
 |Ligament|Connects|Contents|
 |-|-|-|
-|Coronary ligament|Diaphragm ↔ Liver|-|
-|Triangular ligaments|Diaphragm ↔ Liver|-|
-|Falciform ligament|Anterior abdominal wall ↔ Liver|Round ligament|
-|Round ligament|Umbilicus ↔ Liver|Umbilical vein|
-|Hepatogastric ligament: Lesser omentum|Liver ↔ Stomach|Gastric arteries|
-|Hepatoduodenal ligament: Lesser omentum|Liver ↔ Duodenum|Portal triad|
-|Gastrosplenic ligament|Stomach ↔ Spleen|Short gastric artery|
-|Gastrocolic ligament: Greater omentum|Stomach ↔ Transverse colon|Gastroepiploic artery|
-|Splenorenal ligament|Spleen ↔ Kidney|Splenic artery|
+|Coronary ligament|Diaphragm ~ Liver|-|
+|Triangular ligaments|Diaphragm ~ Liver|-|
+|Falciform ligament|Anterior abdominal wall ~ Liver|Round ligament|
+|Round ligament|Umbilicus ~ Liver|Umbilical vein|
+|Hepatogastric ligament: lesser omentum|Liver ~ Stomach|Gastric arteries|
+|Hepatoduodenal ligament: lesser omentum|Liver ~ Duodenum|Portal triad|
+|Gastrosplenic ligament|Stomach ~ Spleen|Short gastric artery|
+|Gastrocolic ligament: greater omentum|Stomach ~ Transverse colon|Gastroepiploic artery|
+|Splenorenal ligament|Spleen ~ Kidney|Splenic artery|
 
 ## Segments of the Liver
 
@@ -154,7 +154,7 @@
 
 ## Triad of Plummer-Vinson Syndrome [DIGS]
 
-- Dysphagia: esophageal web
+- Dysphagia ← esophageal web
 - Iron deficiency anemia
 - Glossitis
 - Squamous cell carcinoma
@@ -227,7 +227,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|H-K pump blockers|Proton pump inhibitors|PUD|
+|H-K pump blockers|Proton pump inhibitors (PPI): -Prazoles|PUD|
 |H<sub>2</sub> antagonists|Cimetidine|PUD|
 ||Ranitidine|PUD|
 ||Famotidine|PUD|
@@ -245,17 +245,17 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|M antagonists|Scopolamine|Emesis: motion sickness|
+|M antagonists|Scopolamine|Emesis :: motion sickness|
 |D<sub>2</sub> antagonists|Metoclopramide|Emesis|
 ||Prochlorperazine|Emesis|
 ||Domperidone|Emesis|
 ||Droperidol|Emesis|
-|5-HT<sub>3</sub> antagonists|Ondansetron|Emesis: chemotherapy|
-|H<sub>1</sub> antagonists|Chlorpheniramine|Emesis: motion sickness|
-||Diphenhydramine|Emesis: motion sickness|
-||Meclizine|Emesis: motion sickness|
-||Promethazine|Emesis: motion sickness|
-|Cannabinoid agonists|Dronabinol|Emesis: chemotherapy|
+|5-HT<sub>3</sub> antagonists|Ondansetron|Emesis :: chemotherapy|
+|H<sub>1</sub> antagonists|Chlorpheniramine|Emesis :: motion sickness|
+||Diphenhydramine|Emesis :: motion sickness|
+||Meclizine|Emesis :: motion sickness|
+||Promethazine|Emesis :: motion sickness|
+|Cannabinoid agonists|Dronabinol|Emesis :: chemotherapy|
 
 ## Mechanisms of Action of Prokinetics
 

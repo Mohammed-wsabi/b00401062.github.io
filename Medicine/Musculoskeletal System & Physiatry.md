@@ -68,17 +68,17 @@
 |-|-|-|
 |PTH agonists|Teriparatide|Osteoporosis|
 |Estrogen modulators|Raloxifene|Osteoporosis|
-|Osteoclast inhibitors|Bisphosphonate: -Dronates|Osteoporosis|
+|Osteoclast inhibitors|Bisphosphonate (-Dronates)|Osteoporosis|
 |RANKL inhibitors|Denosumab|Osteoporosis|
 
 ## Mechanisms of Action of Medications for Gouty Arthritis
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|COX inhibitors|NSAIDs|Gout: acute|
-|Microtubule inhibitors|Colchicine|Gout: acute|
-|Xanthine oxidase inhibitors|Allopurinol|Gout: chronic|
-||Febuxostat|Gout: chronic|
-|Urate transporter inhibitors|Probenecid|Gout: chronic|
-|Urate oxidase (Uricase)|Rasburicase|Gout: chronic|
-||Pegloticase|Gout: chronic|
+|COX inhibitors|NSAIDs|Gout :: acute|
+|Microtubule inhibitors|Colchicine|Gout :: acute|
+|Xanthine oxidase inhibitors|Allopurinol|Gout :: chronic|
+||Febuxostat|Gout :: chronic|
+|Urate transporter inhibitors|Probenecid|Gout :: chronic|
+|Urate oxidase (Uricase)|Rasburicase|Gout :: chronic|
+||Pegloticase|Gout :: chronic|

@@ -106,7 +106,7 @@
 
 |Test|Target|Diagnosis|
 |-|-|-|
-|Cold agglutinin test|Anti-RBC IgM|CLL & Mycoplasma & Mononucleosis: EBV & CMV|
+|Cold agglutinin test|Anti-RBC IgM|CLL & Mycoplasma & Mononucleosis|
 |Congo red stain|Amyloid|Amyloidosis|
 |Leukocyte alkaline phosphatase (LAP) stain|Leukocyte alkaline phosphatase (LAP)|AML & CML|
 |Methylene blue stain|Denatured hemoglobin|G6PD deficiency & Thalassemia|
@@ -133,8 +133,8 @@
 - Numerical mutation
 	- Autosomal monosomy
 	- Autosomal trisomy
-	- Sex chromosome monosomy: Turner syndrome
-	- Sex chromosome trisomy: Klinefelter syndrome
+	- Sex chromosome monosomy :: Turner syndrome
+	- Sex chromosome trisomy :: Klinefelter syndrome
 - Structural mutation
 	- Inversion
 	- Duplication
@@ -313,11 +313,11 @@
 |Mnemonic|Disease|Defects|Hypoglycemia|Hepatomegaly|Myopathy|
 |-|-|-|-|-|-|
 |Viagra|Von Gierke disease|Glucose-6-phosphatase|+|+|-|
-|Pills|Pompe disease|α-1,4-Glucosidase: lysosomal|-|+|+|
+|Pills|Pompe disease|α-1,4-Glucosidase :: lysosomal|-|+|+|
 |Cause|Cori disease|Debranching enzyme|+|+|+|
 |A|Anderson disease|Branching enzyme|-|+|-|
-|Major|McArdle disease|Glycogen phosphorylase: muscle|-|-|+|
-|Hardon|Hers disease|Glycogen phosphorylase: hepatic|+|+|-|
+|Major|McArdle disease|Glycogen phosphorylase :: musclular|-|-|+|
+|Hardon|Hers disease|Glycogen phosphorylase :: hepatic|+|+|-|
 
 ## Lysosomal Storage Diseases (LSD)
 

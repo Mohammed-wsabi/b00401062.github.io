@@ -35,8 +35,8 @@
 |General|Headache & Dizziness & Loss of consciousness (LOC) & Memory loss & Confusion & Seizures|
 |Cortical|Aphasia & Agnosia|
 |Cerebellar|Intention tremor & Ataxia|
-|Motor: extrapyramidal|Resting tremor & Pill-rolling tremor & Akinesia & Bradykinesia & Ataxia|
-|Motor: pyramidal|Weakness & Spasticity|
+|Motor :: extrapyramidal|Resting tremor & Pill-rolling tremor & Akinesia & Bradykinesia & Ataxia|
+|Motor :: pyramidal|Weakness & Spasticity|
 |Sensory|Pain & Numbness|
 |**Psychiatric**|Depression & Psychosis|
 
@@ -68,8 +68,8 @@
 |General|Consciousness & Cognition & GCS|
 |Cortical|Aphasia & Agnosia|
 |Cerebellar|Finger-to-nose & Heel-to-shin & Dysdiadochokinesia & Romberg test & Gait|
-|Motor: extrapyramidal|Cogwheel rigidity & Postural instability & Gait|
-|Motor: pyramidal|Muscle power (MP) & Deep tendon reflex (DTR) & Primitive reflex (PR): Hoffmann sign & Babinski sign|
+|Motor :: extrapyramidal|Cogwheel rigidity & Postural instability & Gait|
+|Motor :: pyramidal|Muscle power (MP) & Deep tendon reflex (DTR) & Primitive reflex (PR) :: Hoffmann sign & Babinski sign|
 |Sensory|Proprioception & Touch & Pressure & Temperature & Pain|
 |**Psychiatric**|MMSE & MSE|
 
@@ -170,12 +170,12 @@
 |Be|Beneficence|
 |Nice|Nonmaleficence|
 
-## Leading Causes of Death In General Population
+## Leading Causes of Death in General Population
 
-- Heart: cardiovascular disease
+- Heart :: cardiovascular disease
 - Cancer
-- Lung: chronic respiratory disease
-- Brain: cerebrovascular disease
+- Lung :: chronic respiratory disease
+- Brain :: cerebrovascular disease
 - Accident
 
 ## Cancer Screening
@@ -205,8 +205,8 @@
 - Hypoxia
 - Tamponade
 - Tension pneumothorax
-- Thrombosis: myocardial infarction
-- Thrombosis: pulmonary embolism
+- Thrombosis :: myocardial infarction
+- Thrombosis :: pulmonary embolism
 - Toxin
 
 ## Causes of Desaturation in Intubated Patients
@@ -306,12 +306,12 @@
 |-|-|-|
 |Endocrine|2° Hyperparathyroidism|2° Hyperparathyroidism|
 |Cardiovascular|Prolonged QT interval & Bradycardia|Shortened QT interval & Tachycardia|
-|Neuromuscular|Muscle spasms: Trousseau sign & Chvostek sign|Muscle weakness|
+|Neuromuscular|Muscle spasms → Trousseau sign & Chvostek sign|Muscle weakness|
 
 ## Workup of Hyponatremia
 
-- Plasma osmolality: hypotonic
-	- Volume status: hypovolemic
+- Plasma osmolality :: hypotonic
+	- Volume status :: hypovolemic
 		- Urine Na < 20 & FE<sub>NA</sub> < 1%
 			- **Burns**
 			- **GI losses**
@@ -319,22 +319,22 @@
 		- Urine Na > 20 & FE<sub>Na</sub> > 1%
 			- **Diuretics**
 			- **Adrenal insufficiency**
-	- Volume status: euvolemic
+	- Volume status :: euvolemic
 		- Urine osmolarity < 100
 			- **Polydipsia**
 		- Urine osmolarity > 100
 			- **SIADH**
 			- **Hypothyroidism**
-	- Volume status: hypervolemic
+	- Volume status :: hypervolemic
 		- Urine Na < 20 & FE<sub>NA</sub> < 1%
 			- **Heart failure**
 			- **Hepatic failure**
 		- Urine Na > 20 & FE<sub>Na</sub> > 1%
 			- **Renal failure**
-- Plasma osmolality: isotonic
+- Plasma osmolality :: isotonic
 	- **Hyperlipidemia**
 	- **Hyperproteinemia**
-- Plasma osmolality: hypertonic
+- Plasma osmolality :: hypertonic
 	- **Hyperglycemia**
 
 ## Etiologies of Hypercalcemia [CHIMPANZEES]

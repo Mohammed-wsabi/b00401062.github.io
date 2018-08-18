@@ -6,7 +6,7 @@
 - Glycoprotein
 - Glycolipid
 - Mucin
-- Membrane: basement membrane
+- Membrane :: basement membrane
 - Mucopolysaccharides
 
 ## Periodic Acid-Schiff (PAS) Stain Positive Diseases

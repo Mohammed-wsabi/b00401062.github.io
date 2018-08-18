@@ -51,8 +51,8 @@
 
 ||α-Globin|Disease|α-Globin Defect|Disease|
 |-|-|-|-|-|
-|β-Globin|α<sub>2</sub>β<sub>2</sub> (HbA)|-|β<sub>4</sub> (HbH)|α-thalassemia: 3 deletion|
-|γ-Globin|α<sub>2</sub>γ<sub>2</sub> (HbF)|β-thalassemia major|γ<sub>4</sub> (Hb Barts)|α-thalassemia: 4 deletion|
+|β-Globin|α<sub>2</sub>β<sub>2</sub> (HbA)|-|β<sub>4</sub> (HbH)|α-thalassemia :: 3 deletion|
+|γ-Globin|α<sub>2</sub>γ<sub>2</sub> (HbF)|β-thalassemia major|γ<sub>4</sub> (Hb Barts)|α-thalassemia :: 4 deletion|
 |δ-Globin|α<sub>2</sub>δ<sub>2</sub> (HbA<sub>2</sub>)|β-thalassemia minor|-|-|
 |s-Globin|α<sub>2</sub>s<sub>2</sub> (HbS)|Sickle cell disease|-|-|
 |c-Globin|α<sub>2</sub>c<sub>2</sub> (HbC)|HbC disease|-|-|
@@ -80,7 +80,7 @@
 |Hemochromatosis|↑ (1°)|↑|↓|↑|
 |Pregnancy & OCP|-|-|↑ (1°)|↓|
 
-## Normocytic Anemia: Hemolytic Anemia
+## Normocytic Anemia :: Hemolytic Anemia
 
 ||Intravascular [TIMP]|Extravascular [PHAGES]|
 |-|-|-|
@@ -113,17 +113,17 @@
 - Encephalopathy
 - Erythrocyte basophilic stippling
 - Abdominal colic
-- Anemia: sideroblastic anemia
-- Drops: wrist & foot drop
+- Anemia :: sideroblastic anemia
+- Drops :: wrist & foot drop
 - Dimercaprol & EDTA & Succimer & Penicillamine
 
 ## Presentations of Acute Intermittent Porphyria (AIP) [5P]
 
-- Pain: abdomen
+- Pain :: abdomen
 - Port wine-colored urine
 - Polyneuropathy
 - Psychological disturbances
-- Precipitation: starvation & alcohol & drugs
+- Precipitation ← starvation & alcohol & drugs
 
 ## Causes of Hypocoagulability
 
@@ -167,10 +167,10 @@
 
 |Mnemonic|Cause|
 |-|-|
-|S|Sepsis: GNB|
+|S|Sepsis :: GNB|
 |T|Trauma|
 |O|Obstetric complications|
-|P|Pancreatitis: acute|
+|P|Pancreatitis :: acute|
 |Making|Malignancy|
 |New|Nephrotic symdrome|
 |Thrombi|Transfusion|
@@ -220,10 +220,10 @@
 |Mantle cell lymphoma|t(11;14)|Cyclin D (CCND)|
 |Follicular lymphoma|t(14;18)|BCL2|
 
-## B Symptoms of Hodgkin Lymphoma [FSW]
+## B Symptoms of Hodgkin Lymphoma
 
-- Fever: low-grade
-- Sweat: night
+- Fever
+- Night sweats
 - Weight loss
 
 ## Presentations of Multiple Myeloma [CRAB]
@@ -233,7 +233,7 @@
 - Rouleaux formation
 - Russell body
 - Anemia
-- Amyloidosis: primary
+- Amyloidosis :: primary
 - Back pain
 - Bone lytic lesions
 - Bence-Jones protein
@@ -266,9 +266,9 @@
 |-|-|-|
 |VKOR inhibitors|Warfarin|Anticoagulant|
 ||Coumadin|Anticoagulant|
-|Antithrombin inducers|UFH: Heparin|Anticoagulant|
-||LMWH: Enoxaparin|Anticoagulant|
-||LMWH: Dalteparin|Anticoagulant|
+|Antithrombin inducers|UFH :: Heparin|Anticoagulant|
+||LMWH :: Enoxaparin|Anticoagulant|
+||LMWH :: Dalteparin|Anticoagulant|
 |Factor 10a inhibitors|Apixaban|Anticoagulant|
 ||Rivaroxaban|Anticoagulant|
 |Factor 2a inhibitors|Hirudin|Anticoagulant|

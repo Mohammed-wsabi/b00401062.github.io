@@ -73,13 +73,13 @@
 |Mechanism|Cell|Cytokines|
 |-|-|-|
 |General|Neutrophil|-|
-|Cellular: adaptive|Th1 cell|IL-2 & IL-3 & IL-12 & TNF-α & IFN-γ|
+|Cellular :: adaptive|Th1 cell|IL-2 & IL-3 & IL-12 & TNF-α & IFN-γ|
 ||Tc cell|IL-2 & IL-3 & TNF-α|
-|Cellular: innate|Macrophage|IL-1 & IL4 & IL-6 & IL-8 & IL-12 & TNF-α|
+|Cellular :: innate|Macrophage|IL-1 & IL4 & IL-6 & IL-8 & IL-12 & TNF-α|
 ||NK cell|IL-2 & TNF-α & IFN-γ|
-|Humoral: adaptive|Th2 cell|IL-2 & IL-3 & IL-4 & IL-5 & IL-6 & IL-10|
+|Humoral :: adaptive|Th2 cell|IL-2 & IL-3 & IL-4 & IL-5 & IL-6 & IL-10|
 ||B cell|-|
-|Humoral: innate|Basophil|IL-4 & IL-5|
+|Humoral :: innate|Basophil|IL-4 & IL-5|
 ||Eosinophil|-|
 
 ## Cytokine Interactions
@@ -87,13 +87,13 @@
 |Mechanism|Cell|Inducers|Inhibitors|
 |-|-|-|-|
 |General|Neutrophil|IL-1 & IL-6 & IL-8|IL-10 & TGF-β|
-|Cellular: adaptive|Th1 cell|IL-2 & IL-12|IL-4 & IL-10|
+|Cellular :: adaptive|Th1 cell|IL-2 & IL-12|IL-4 & IL-10|
 ||Tc cell|IL-2 & IL-12|-|
-|Cellular: innate|Macrophage|IFN-γ|-|
+|Cellular :: innate|Macrophage|IFN-γ|-|
 ||NK cell|IL-2 & IL-12 & IFN-γ|-|
-|Humoral: adaptive|Th2 cell|IL-2 & IL-4|IFN-γ|
+|Humoral :: adaptive|Th2 cell|IL-2 & IL-4|IFN-γ|
 ||B cell|IL-3 & IL-4 & IL-5 & IL-6|-|
-|Humoral: innate|Basophil|IL-3 & IL-5|-|
+|Humoral :: innate|Basophil|IL-3 & IL-5|-|
 ||Eosinophil|IL-5|-|
 
 ## Cell Surface Proteins
@@ -101,13 +101,13 @@
 |Mechanism|Cell|Signal 1|Signal 2|Others|
 |-|-|-|-|-|
 |General|Neutrophil|-|-|-|
-|Cellular: adaptive|Th1 cell|TCR & CD3 & CD4|CD28 & CD40L|-|
+|Cellular :: adaptive|Th1 cell|TCR & CD3 & CD4|CD28 & CD40L|-|
 ||Tc cell|TCR & CD3 & CD8|CD28|-|
-|Cellular: innate|Macrophage|MHC-1 & MHC-2|B7 & CD40|CD14|
+|Cellular :: innate|Macrophage|MHC-1 & MHC-2|B7 & CD40|CD14|
 ||NK cell|-|-|CD16 & CD56|
-|Humoral: adaptive|Th2 cell|TCR & CD3 & CD4|CD28 & CD40L|-|
+|Humoral :: adaptive|Th2 cell|TCR & CD3 & CD4|CD28 & CD40L|-|
 ||B cell|MHC-1 & MHC-2|B7 & CD40|CD19 & CD20 & CD21|
-|Humoral: innate|Basophil|-|-|-|
+|Humoral :: innate|Basophil|-|-|-|
 ||Eosinophil|-|-|-|
 
 ## T Cell and B Cell Activation
@@ -150,8 +150,8 @@
 |Disease|Defects|
 |-|-|
 |Atopy & Allergy & Anaphylaxis|-|
-|Transfusion reaction: allergic|Plasma protein|
-|Transfusion reaction: anaphylactic|Plasma IgA|
+|Transfusion reaction :: allergic|Plasma protein|
+|Transfusion reaction :: anaphylactic|Plasma IgA|
 
 ### Type 2
 
@@ -169,9 +169,9 @@
 |Pemphigus vulgaris|Anti-desmosome|
 |Pernicious anemia|Anti-parietal cell|
 |Rheumatic fever|Anti-M protein|
-|Transfusion reaction: acute hemolytic|Anti-ABO & Anti-Rh|
-|Transfusion reaction: febrile non-hemolytic|Anti-HLA|
-|Transplant reaction: hyperacute|-|
+|Transfusion reaction :: acute hemolytic|Anti-ABO & Anti-Rh|
+|Transfusion reaction :: febrile non-hemolytic|Anti-HLA|
+|Transplant reaction :: hyperacute|-|
 
 ### Type 3
 
@@ -207,7 +207,7 @@
 |Hashimoto thyroiditis|Anti-thyroglobulin & Anti-TPO & Anti-microsome|
 |Multiple sclerosis|-|
 |PPD skin test|-|
-|Transplant reaction: acute & chronic|-|
+|Transplant reaction :: acute & chronic|-|
 
 ## HLA Subtypes Associated With Diseases
 
@@ -246,8 +246,8 @@
 |-|-|-|-|-|-|-|
 |Wiskott-Aldrich syndrome (WAS)|Actin cytoskeleton reorganization|WAS|-|-|↑|↑|
 |Ataxia telangiectasia|Serine/Threonine kinase (STK)|ATM|-|↓|↓|↓|
-|Severe combined immunodeficiency (SCID): AR|Adenosine deaminase|ADA|↓|↓|↓|↓|
-|Severe combined immunodeficiency (SCID): XR|IL-2R|IL-2R|↓|↓|↓|↓|
+|Severe combined immunodeficiency (SCID) :: AR|Adenosine deaminase|ADA|↓|↓|↓|↓|
+|Severe combined immunodeficiency (SCID) :: XR|IL-2R|IL-2R|↓|↓|↓|↓|
 |Hyper-IgM syndrome|CD40L|CD40L|↑|↓|↓|↓|
 
 ## Presentations of Wiskott-Aldrich syndrome (WAS) [WATER]
@@ -255,7 +255,7 @@
 - Wiskott
 - Aldrich
 - Thrombocytopenia
-- Eczema: ↑ IgE & IgA
+- Eczema ← ↑ IgE & IgA
 - Recurrent infection
 
 ## Presentations of Sarcoidosis [SHARING]

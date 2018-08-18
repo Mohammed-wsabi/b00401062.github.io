@@ -54,11 +54,11 @@
 
 ## Presentations of DiGeorge Syndrome [CATCH22]
 
-- Cardiac: truncus arteriosus & tetralogy of Fallot (TOF)
+- Cardiac :: truncus arteriosus & tetralogy of Fallot (TOF)
 - Abnormal facies
 - Thymic aplasia
 - Cleft palate
-- Hypoparathyroidism: hypocalcemia
+- 1° Hypoparathyroidism → Hypocalcemia
 - 22q11 microdeletion
 
 ## New Ballard Score [HAPPSS]

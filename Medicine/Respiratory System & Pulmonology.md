@@ -40,8 +40,8 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|β<sub>2</sub> agonists|Albuterol|Asthma: acute|
-||Salmeterol & Formoterol|Asthma: chronic|
+|β<sub>2</sub> agonists|Albuterol|Asthma :: acute|
+||Salmeterol & Formoterol|Asthma :: chronic|
 |M antagonists|Ipratropium & Tiotropium|Asthma|
 |NF-κB inhibitors|Steroids|Asthma|
 |LOX inhibitors|Zileuton|Asthma|

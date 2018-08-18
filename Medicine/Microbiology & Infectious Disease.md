@@ -22,7 +22,7 @@
 |Listeria|-|-|
 |Mycobacterium|Acid fast|Lowenstein-Jensen|
 
-### Gram-Positive: Branched
+### Gram-Positive :: Branched
 
 |Bacteria|Stain|Culture|
 |-|-|-|
@@ -40,7 +40,7 @@
 |Moraxella|-|-|
 |Neisseria|-|Thayer-Martin|
 
-### Gram-Negative Rods (GNR): Respiratory
+### Gram-Negative Rods (GNR) :: Respiratory
 
 |Bacteria|Stain|Culture|
 |-|-|-|
@@ -48,7 +48,7 @@
 |Haemophilus|-|Chocolate|
 |Legionella|Silver|Charcoal yeast|
 
-### Gram-Negative Rods (GNR): Enteric [SEEK-P-PSSY]
+### Gram-Negative Rods (GNR) :: Enteric [SEEK-P-PSSY]
 
 |Bacteria|Stain|Culture|
 |-|-|-|
@@ -62,7 +62,7 @@
 |Shigella|-|-|
 |Yersinia|-|-|
 
-### Gram-Negative: Curved
+### Gram-Negative :: Curved
 
 |Bacteria|Stain|Culture|
 |-|-|-|
@@ -70,7 +70,7 @@
 |Helicobacter|Silver|-|
 |Vibrio|-|-|
 
-### Gram-Negative: Spirochete [BLT]
+### Gram-Negative :: Spirochete [BLT]
 
 |Bacteria|Stain|Culture|
 |-|-|-|
@@ -78,7 +78,7 @@
 |Leptospira|-|-|
 |Treponema|-|-|
 
-### Gram-Negative: Pleomorphic [CCR]
+### Gram-Negative :: Pleomorphic [CCR]
 
 |Bacteria|Stain|Culture|
 |-|-|-|
@@ -86,7 +86,7 @@
 |Chlamydia|Giemsa|-|
 |Rickettsia|Giemsa|-|
 
-### Gram-Negative: Zoonotic
+### Gram-Negative :: Zoonotic
 
 |Bacteria|Stain|Culture|
 |-|-|-|
@@ -95,7 +95,7 @@
 |Francisella|-|-|
 |Pasteurella|-|-|
 
-### Gram-Negative: w/o Cell Wall
+### Gram-Negative :: w/o Cell Wall
 
 |Bacteria|Stain|Culture|
 |-|-|-|
@@ -110,8 +110,8 @@
 |Staphylococcus saprophyticus|Novobiocin|R|
 |Streptococcus pnuemonia|Optochin|S|
 |Streptococcus viridans|Optochin|R|
-|GAS: Streptococcus pyogenes|Bacitracin|S|
-|GBS: Streptococcus agalactiae|Bacitracin|R|
+|GAS :: Streptococcus pyogenes|Bacitracin|S|
+|GBS :: Streptococcus agalactiae|Bacitracin|R|
 
 ## Classification of Enteric Gram Negative Rods [SEEK-P-PSSY]
 
@@ -204,13 +204,13 @@
 |Pseudomonas aeruginosa|Exotoxin A|Elongation factor (EF-2)|↓ Protein synthesis|
 |Shigella|Shiga toxin|60S ribosome|↓ Protein synthesis|
 |EHEC|Shiga-like toxin|60S ribosome|↓ Protein synthesis|
-|ETEC|Heat-stable toxin (ST)|↑ G<sub>s</sub>PCR|↑ cGMP: ↑ fluid secretion|
-|ETEC|Heat-labile toxin (LT)|↑ G<sub>s</sub>PCR|↑ cAMP: ↑ fluid secretion|
-|Vibrio cholerae|Cholera toxin|↑ G<sub>s</sub>PCR|↑ cAMP: ↑ fluid secretion|
-|Bacillus anthracis|Edema toxin|↑ G<sub>s</sub>PCR|↑ cAMP: ↑ fluid secretion|
-|Bordetella pertussis|Pertussis toxin|↓ G<sub>i</sub>PCR|↑ cAMP: ↓ phagocytosis|
-|Clostridium botulinum|Botulinum toxin|SNARE|↓ Release of ACh|
-|Clostridium tetani|Tetanus toxin|SNARE|↓ Release of GABA & Glycine|
+|ETEC|Heat-stable toxin (ST)|↑ G<sub>s</sub>PCR|↑ cGMP → ↑ fluid secretion|
+|ETEC|Heat-labile toxin (LT)|↑ G<sub>s</sub>PCR|↑ cAMP → ↑ fluid secretion|
+|Vibrio cholerae|Cholera toxin|↑ G<sub>s</sub>PCR|↑ cAMP → ↑ fluid secretion|
+|Bacillus anthracis|Edema toxin|↑ G<sub>s</sub>PCR|↑ cAMP → ↑ fluid secretion|
+|Bordetella pertussis|Pertussis toxin|↓ G<sub>i</sub>PCR|↑ cAMP → ↓ phagocytosis|
+|Clostridium botulinum|Botulinum toxin|SNARE|↓ ACh release|
+|Clostridium tetani|Tetanus toxin|SNARE|↓ GABA & Glycine release|
 
 ## Aerobes & Anaerobes
 
@@ -259,10 +259,10 @@
 - Streptococcus pneumoniae
 - Haemophilus influenzae
 - Neisseria meningitidis
-- Escherichia coli: K capsule
+- Escherichia coli :: K capsule
 - Klebsiella pneumonia
 - Pseudomonas aeruginosa
-- Salmonella typhi: Vi capsule
+- Salmonella typhi :: Vi capsule
 
 ## Catalase Positive Bacteria
 
@@ -302,8 +302,8 @@
 ## β-Hemolytic Bacteria [LABS]
 
 - Listeria monocytogenes
-- GAS: Streptococcus pyogenes
-- GBS: Streptococcus agalactiae
+- GAS :: Streptococcus pyogenes
+- GBS :: Streptococcus agalactiae
 - Staphylococcus aureus
 
 ## Specialized Transduction Through Lysogenic Phages [ABCDE]
@@ -324,7 +324,7 @@
 
 ## VDRL False Positives [VDRL]
 
-- Virus: mononucleosis & hepatitis
+- Virus :: mononucleosis & hepatitis
 - Drugs
 - Rheumatic fever & Rheumatoid arthritis
 - Lupus & Leprosy
@@ -366,7 +366,7 @@
 
 ## Classification of Parasites
 
-### Protozoan Parasites: GI Infections [ECG]
+### Protozoan Parasites :: GI Infections [ECG]
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -374,7 +374,7 @@
 |Cryptosporidium|Watery diarrhea|Nitazoxanide|
 |Giardia lamblia|Giardiasis & Fatty diarrhea|Metronidazole|
 
-### Protozoan Parasites: CNS Infections [ANT]
+### Protozoan Parasites :: CNS Infections [ANT]
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -383,27 +383,27 @@
 |Toxoplasma gondii|Toxoplasmosis|Pyrimethamine & Sulfadiazine|
 |Trypanosoma brucei|African sleeping sickness|Suramin & Melarsoprol|
 
-### Protozoan Parasites: Hematologic Infections [BP]
+### Protozoan Parasites :: Hematologic Infections [BP]
 
 |Parasite|Disease|Treatment|
 |-|-|-|
 |Babesia|Babesiosis|Atovaquone & Azithromycin|
 |Plasmodium|Malaria|Chloroquine & Primaquine|
 
-### Protozoan Parasites: Visceral Infections
+### Protozoan Parasites :: Visceral Infections
 
 |Parasite|Disease|Treatment|
 |-|-|-|
 |Trypanosoma cruzi|Chagas disease|Benznidazole & Nifurtimox|
 |Leishmania donovani|Leishmaniasis|Amphotericin B & Stibogluconate|
 
-### Protozoan Parasites: Sexually Transmitted Diseases (STD)
+### Protozoan Parasites :: Sexually Transmitted Diseases (STD)
 
 |Parasite|Disease|Treatment|
 |-|-|-|
 |Trichomonas vaginalis|Vaginitis|Metronidazole|
 
-### Animalian Parasites: Cestodes = Tapeworms
+### Animalian Parasites :: Cestodes = Tapeworms
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -412,7 +412,7 @@
 |Echinococcus|Hydatid cyst disease|Benzimidazole|
 |Diphyllobothrium latum|Vitamin B12 deficiency|Praziquantel|
 
-### Animalian Parasites: Trematodes = Flukes
+### Animalian Parasites :: Trematodes = Flukes
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -423,7 +423,7 @@
 |Schistosoma mansoni|Portal hypertension|Praziquantel|
 |Schistosoma japonicum|Portal hypertension|Praziquantel|
 
-### Animalian Parasites: Nematodes = Roundworms: Fecal-oral Transmission [EAT]
+### Animalian Parasites :: Nematodes = Roundworms :: Fecal-oral Transmission [EAT]
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -433,7 +433,7 @@
 |Trichinella spiralis|Myalgia & Periorbital edema|Benzimidazole|
 |Toxocara|Visceral larva migrans|Benzimidazole|
 
-### Animalian Parasites: Nematodes = Roundworms: Contact Transmission [SAN]
+### Animalian Parasites :: Nematodes = Roundworms :: Contact Transmission [SAN]
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -441,7 +441,7 @@
 |Ancylostoma duodenale|IDA & Cutaneous larva migrans|Benzimidazole & Pyrantel pamoate|
 |Necator americanus|IDA|Benzimidazole & Pyrantel pamoate|
 
-### Animalian Parasites: Nematodes = Roundworms: Arthropod-Borne [WOLD]
+### Animalian Parasites :: Nematodes = Roundworms :: Arthropod-Borne [WOLD]
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -480,9 +480,9 @@
 |Species|Replication|Enzymes|
 |-|-|-|
 |dsDNA|dsDNA → dsDNA|DNA polymerase|
-|dsDNA: hepadnavirus|dsDNA → RNA → dsDNA|RNA polymerase & Reverse transcriptase|
+|dsDNA :: hepadnavirus|dsDNA → RNA → dsDNA|RNA polymerase & Reverse transcriptase|
 |+ssRNA|+ssRNA → -ssRNA → +ssRNA|RNA polymerase|
-|+ssRNA: retrovirus|+ssRNA → dsDNA → +ssRNA|Reverse transcriptase & RNA polymerase|
+|+ssRNA :: retrovirus|+ssRNA → dsDNA → +ssRNA|Reverse transcriptase & RNA polymerase|
 |-ssRNA|-ssRNA → +ssRNA → -ssRNA|RNA polymerase|
 
 ## Viral Transcription
@@ -490,9 +490,9 @@
 |Species|Transcription|Enzymes|
 |-|-|-|
 |dsDNA|dsDNA → +mRNA|RNA polymerase|
-|dsDNA: hepadnavirus|dsDNA → +mRNA|RNA polymerase|
+|dsDNA :: hepadnavirus|dsDNA → +mRNA|RNA polymerase|
 |+ssRNA|+ssRNA → -ssRNA → +mRNA|RNA polymerase|
-|+ssRNA: retrovirus|+ssRNA → dsDNA → +mRNA|Reverse transcriptase & RNA polymerase|
+|+ssRNA :: retrovirus|+ssRNA → dsDNA → +mRNA|Reverse transcriptase & RNA polymerase|
 |-ssRNA|-ssRNA → +mRNA|RNA polymerase|
 
 ## Classification of DNA Viruses [PAPP-HHP]
@@ -568,7 +568,7 @@
 |Amine whiff test|Gardnerella vaginalis|
 |VDRL & FTA-ABS|Treponema pallidum|
 |Tzanck test|HSV & VZV|
-|Cold agglutinin test|Mycoplasma & Mononucleosis: EBV & CMV|
+|Cold agglutinin test|Mycoplasma & Mononucleosis|
 |Monospot test|EBV|
 |Latex agglutination test|Cryptococcus neoformans|
 |Germ tube test|Candida albicans|
@@ -578,7 +578,7 @@
 |Pathogen|Manifestations|Transmission|
 |-|-|-|
 |Toxoplasma|Intracranial calcifications & Hydrocephalus & Chorioretinitis|Transplacental|
-|Rubella|Cataracts & Deafness & Congenital heart defect: PDA|Transplacental|
+|Rubella|Cataracts & Deafness & Congenital heart defect :: PDA|Transplacental|
 |CMV|Periventricular calcifications & Deafness & Petechial rash|Transplacental|
 |HSV|Encephalitis & Herpetic whitlow|Intrapartum|
 |HIV|AIDS|Intrapartum|
@@ -641,12 +641,12 @@
 
 - Giardia lamblia
 - Bacillus cereus
-- Staphylococcus aureus: heat-stable
+- Staphylococcus aureus :: heat-stable
 - Clostridium difficile
 - Cryptosporidium
 - Adenovirus
 - Vibrio cholerae
-- ETEC: heat-stable & heat-labile
+- ETEC :: heat-stable & heat-labile
 - Rotavirus
 - Norovirus
 
@@ -675,13 +675,13 @@
 
 |Pathogen|Manifestations|Treatments|
 |-|-|-|
-|Gardnerella vaginalis|Discharge: grayish & fishy|-|
+|Gardnerella vaginalis|Discharge :: grayish & fishy|-|
 |Neisseria gonorrhoea|Pelvic inflammatory disease (PID)|Ceftriaxone|
 |Haemophilus ducreyi|Painful chancroid|-|
 |Treponema pallidum|Painless chancre & Condyloma lata|Penicillin|
 |Chlamydia trachomatis|Pelvic inflammatory disease (PID) & Lymphogranuloma venereum|Azithromycin / Doxycycline|
-|Candida albicans|Discharge: white & curdy|-|
-|Trichomonas vaginalis|Discharge: green & frothy|Metronidazole|
+|Candida albicans|Discharge :: white & curdy|-|
+|Trichomonas vaginalis|Discharge :: green & frothy|Metronidazole|
 |HPV|Condyloma accumulata|-|
 |HSV|Paniful ulcers|-|
 
@@ -718,18 +718,18 @@
 
 |Pathogen|Arthropod|Disease|
 |-|-|-|
-|Babesia|Tick: Ixodes|Babesiosis|
-|Borrelia burgdorferi|Tick: Ixodes|Lyme disease|
+|Babesia|Tick :: Ixodes|Babesiosis|
+|Borrelia burgdorferi|Tick :: Ixodes|Lyme disease|
 |Borrelia recurrentis|Louse|Relapsing fever|
-|Francisella tularensis|Tick: Dermacentor|Tularemia|
-|Rickettsia rickettsii|Tick: Dermacentor|Rocky Mountain spotted fever (RMSF)|
+|Francisella tularensis|Tick :: Dermacentor|Tularemia|
+|Rickettsia rickettsii|Tick :: Dermacentor|Rocky Mountain spotted fever (RMSF)|
 |Rickettsia tsutsugamushi|Mite|Scrub fever|
 |Rickettsia prowazekii|Louse|Epidemic typhus|
 |Rickettsia typhi|Flea|Endemic typhus|
 |Yersinia pestis|Flea|Plague|
-|Yellow fever virus|Mosquito: Aedes|Yellow fever|
-|Dengue virus|Mosquito: Aedes|Dengue fever|
-|Japanese encephalitis virus|Mosquito: Culix|Japanese encephalitis|
+|Yellow fever virus|Mosquito :: Aedes|Yellow fever|
+|Dengue virus|Mosquito :: Aedes|Dengue fever|
+|Japanese encephalitis virus|Mosquito :: Culix|Japanese encephalitis|
 |Plasmodium|Mosquito|Malaria|
 |Trypanosoma brucei|Tsetse fly|African sleeping sickness|
 |Trypanosoma cruzi|Reduviid bug = Kissing bug|Chagas disease|
@@ -760,7 +760,7 @@
 
 - Meningitis
 - Otitis media
-- Pneumonia: lobar
+- Pneumonia :: lobar
 - Sinusitis
 
 ## Manifestations of Streptococcus Pyogenes Infection [NIPPLES]
@@ -776,13 +776,13 @@
 |S|Scarlet fever|
 |Taste|Toxic shock-like syndrome|
 |Really|Rheumatic fever|
-|Good|Glomerulonephritis: APGN|
+|Good|Glomerulonephritis :: APGN|
 
 ## Jones Criteria for Rheumatic Fever [JONES]
 
-- Joint: migratory polyarthritis
-- Heart: mitral valve
-- Nodules: subcutaneous nodules
+- Joint :: migratory polyarthritis
+- Heart :: mitral valve
+- Nodules :: subcutaneous nodules
 - Erythema marginatum
 - Sydenham chorea = Chorea minor
 
@@ -794,7 +794,7 @@
 - Diphtheria
 - Elongation
 - Factor 2
-- Granule: metachromatic
+- Granule :: metachromatic
 
 ## Manifestations of Haemophilus Influenzae Infection
 
@@ -807,7 +807,7 @@
 
 - Pneumonia
 - Sepsis
-- Endocarditis: tricuspid valve
+- Endocarditis :: tricuspid valve
 - Ecthyma gangrenosum
 - UTI
 - Drug use
@@ -818,8 +818,8 @@
 ## Manifestations of Lyme Disease [FACE]
 
 - Facial palsy
-- Arthritis: migratory
-- Cardiac: AV nodal block
+- Arthritis :: migratory
+- Cardiac :: AV nodal block
 - Erythema migrans
 
 ## Manifestations of Mumps Virus Infection [MOPS]
@@ -835,23 +835,24 @@
 - Coryza
 - Conjunctivitis
 - Koplik spot
-- Rash: downward
+- Rash :: downward
 
 ## Manifestations of Rubella Virus Infection [RUBELLA]
 
-- Rash: downward
+- Rash :: downward
 - -
 - Blueberry muffin rash
-- Eyes & Ears: cataract & deafness
+- Eyes :: cataract
+- Ears :: deafness
 - Lymphadenopathy
 - -
 - Arthritis
 
-## Infections Causing Rashes Begining on the Palms & Soles [CARS]
+## Infections Causing Rashes Beginning on the Palms & Soles [CARS]
 
-- Coxsackie virus: hand-foot-mouth disease
-- Rickettsia rickettsii: Rocky Mountain spotted fever (RMSF)
-- Treponema pallidum: syphilis
+- Coxsackie virus → hand-foot-mouth disease
+- Rickettsia rickettsii → Rocky Mountain spotted fever (RMSF)
+- Treponema pallidum → syphilis
 
 ## Systemic inflammatory response syndrome (SIRS)
 
@@ -876,12 +877,12 @@
 
 |Mechanism|Targets|Mnemonic|Medication|
 |-|-|-|-|
-|↓ Protein synthesis|30S ribosome: initiation complex|A|Aminoglycoside|
-|↓ Protein synthesis|30S ribosome: tRNA binding|T|Tetracycline|
-|↓ Protein synthesis|50S ribosome: initiation complex|Locations|Linezolid|
-|↓ Protein synthesis|50S ribosome: peptidyl transferase|Causing|Chloramphenicol|
-|↓ Protein synthesis|50S ribosome: mRNA translocation|Major|Macrolide|
-|↓ Protein synthesis|50S ribosome: mRNA translocation|Casualties|Clindamycin|
+|↓ Protein synthesis|30S ribosome :: initiation complex|A|Aminoglycoside|
+|↓ Protein synthesis|30S ribosome :: tRNA binding|T|Tetracycline|
+|↓ Protein synthesis|50S ribosome :: initiation complex|Locations|Linezolid|
+|↓ Protein synthesis|50S ribosome :: peptidyl transferase|Causing|Chloramphenicol|
+|↓ Protein synthesis|50S ribosome :: mRNA translocation|Major|Macrolide|
+|↓ Protein synthesis|50S ribosome :: mRNA translocation|Casualties|Clindamycin|
 
 ### Cell Membrane Inhibitors
 
@@ -974,8 +975,8 @@
 |GPC|1° Cephalosporins|
 |MRSA|Vancomycin|
 |Enterococcus|Ampicillin-Sulbactam = Unasyn|
-|GNR: intestinal|2° Cephalosporins / Aminoglycosides|
-|GNR: urinary|Fluoroquinolones / TMP-SMX|
+|GNR :: intestinal|2° Cephalosporins / Aminoglycosides|
+|GNR :: urinary|Fluoroquinolones / TMP-SMX|
 |Anaerobes|Clindamycin / Metronidazole|
 
 ## Empiric Treatment for Pneumonia
@@ -1004,8 +1005,8 @@
 |Staphylococcus aureus|Penicillinase-resistant penicillin|
 |MRSA|Ceftaroline & Vancomycin & Linezolid & Teicoplanin|
 |Streptococcus pneumoniae|Penicillin & Amoxicillin & 3° Cephalosporin & Macrolide|
-|GAS: Streptococcus pyogenes|Penicillin & Clindamycin|
-|GBS: Streptococcus agalactiae|Penicillin & Clindamycin|
+|GAS :: Streptococcus pyogenes|Penicillin & Clindamycin|
+|GBS :: Streptococcus agalactiae|Penicillin & Clindamycin|
 |Enterococcus|Penicillin & Ampicillin|
 |VRE|Linezolid|
 |Bacillus anthracis|Penicillin|

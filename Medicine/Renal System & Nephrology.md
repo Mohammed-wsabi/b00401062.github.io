@@ -108,10 +108,10 @@
 |Alport syndrome|-|Basket-weave|+|-|
 |Goodpasture syndrome|Anti-GBM|-|+|-|
 |Acute proliferative glomerulonephritis (APGN)|Subepithelial IC deposit|Lumpy-bumpy & Starry sky|+|-|
-|IgA nephropathy = Berger disease: HSP|Mesangial IC deposit|-|+|-|
+|IgA nephropathy (Berger disease) ← HSP|Mesangial IC deposit|-|+|-|
 |Membranoproliferative glomerulonephritis (MPGN)|Subendothelial IC deposit|Tram-track|+|+|
-|Diffuse proliferative glomerulonephritis (DPGN): SLE|Subendothelial IC deposit|Wire looping|+|+|
-|Membranous nephropathy (MN): SLE|Subepithelial IC deposit|Spike & dome|-|+|
+|Diffuse proliferative glomerulonephritis (DPGN) ← SLE|Subendothelial IC deposit|Wire looping|+|+|
+|Membranous nephropathy (MN) ← SLE|Subepithelial IC deposit|Spike & dome|-|+|
 |Minimal change disease (MCD)|-|Podocyte effacement|-|+|
 |Focal segmental glomerulosclerosis (FSGS)|-|Podocyte effacement|-|+|
 |Diabetic nephropathy|-|Nodular glomerulosclerosis|-|+|
@@ -156,7 +156,7 @@
 |Mechanism|Mnemonic|Medication|Indications|Location|Serum K|Serum H|Serum Ca|
 |-|-|-|-|-|-|-|-|
 |Carbonic anhydrase inhibitors|Abnormal|Acetazolamide|Diuretics|Proximal convoluted tubule (PCT)|↓|↑|-|
-|Na-K-2Cl sympoter blockers|Loss|Loop diuretics: Furosemide & Bumetanide|Diuretics|Ascending loop of Henle|↓|↓|↓|
+|Na-K-2Cl sympoter blockers|Loss|Loop diuretics: Furosemide & Bumetanide & Torsemide|Diuretics|Ascending loop of Henle|↓|↓|↓|
 |Na-Cl sympoter blockers|Through|Thiazide|Diuretics|Distal convoluted tubule (DCT)|↓|↓|↑|
 |Aldosterone antagonists|Kidney|K-sparing diuretics: Spironolactone & Eplerenone|Diuretics|Collecting tubule (CT)|↑|↑|-|
 |Na channel blockers|Kidney|K-sparing diuretics: Amiloride & Triamterene|Diuretics|Collecting tubule (CT)|↑|↑|-|

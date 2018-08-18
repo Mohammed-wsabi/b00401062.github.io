@@ -7,7 +7,7 @@
 - Carbamazepine
 - St. John wort
 - Griseofulvin
-- Alcohol: chronic
+- Alcohol :: chronic
 - Rifampin
 - Phenytoin
 - Phenobarbital
@@ -24,7 +24,7 @@
 - Cimetidine
 - Isoniazid
 - Grapefruit
-- Alcohol: acute
+- Alcohol :: acute
 - Ritonavir
 - Macrolide
 - Amiodarone
@@ -51,7 +51,7 @@
 |Na channel activators|Batrachotoxin & Ciguatoxin|-|
 |Na channel blockers|Class 1 antiarrhythmics|Arrhythmia|
 ||Caines|Anesthesia|
-||Amiloride & Triamterene|Diuretics: K-sparing diuretics|
+||Amiloride & Triamterene|Diuretics :: K-sparing diuretics|
 ||Carbamazepine|Seizure & Bipolar|
 ||Phenytoin|Seizure|
 ||Calcium|-|
@@ -64,15 +64,15 @@
 |Ca channel activators|-|-|
 |Ca channel blockers|Class 4 antiarrhythmics|Arrhythmia|
 ||Amlodipine & Nifedipine|Vasodilation|
-||Ethosuximide|Seizure: absence|
+||Ethosuximide|Seizure :: absence|
 ||Gabapentin|Seizure & Neuropathic pain|
 |Na-K pump blockers|Digoxin & Digitalis|Arrhythmia & Inotrope|
 ||Ouabain|-|
-|H-K pump blockers|Proton pump inhibitors|PUD|
+|H-K pump blockers|Proton pump inhibitors (PPI): -Prazoles|PUD|
 |Na-Cl sympoter blockers|Thiazide|Diuretics|
-|Na-K-2Cl sympoter blockers|Furosemide|Diuretics: loop diuretics|
-||Bumetanide|Diuretics: loop diuretics|
-||Torsemide|Diuretics: loop diuretics|
+|Na-K-2Cl sympoter blockers|Loop diuretics :: Furosemide|Diuretics|
+||Loop diuretics :: Bumetanide|Diuretics|
+||Loop diuretics :: Torsemide|Diuretics|
 |Na-I sympoter blockers|Thiocyanate|Hyperthyroidism|
 ||Perchlorate|Hyperthyroidism|
 ||Iodine|Hyperthyroidism|
@@ -159,11 +159,11 @@
 |M antagonists|Atropine & Tropicamide|Mydriatics & Cycloplegia|
 ||Benztropine|Parkinson|
 ||Ipratropium & Tiotropium|Asthma|
-||Scopolamine|Emesis: motion sickness|
+||Scopolamine|Emesis :: motion sickness|
 ||Oxybutynin & Tolterodine|Urinary incontinence|
 ||Glycopyrrolate|Anesthesia|
 ||Antipsychotics|-|
-||Antidepressants: TCA|-|
+||Antidepressants :: TCA|-|
 ||1° Antihistamines|-|
 |N<sub>N</sub> (Ganglionic) blockers|Hexamethonium|-|
 ||Mecamylamine|-|
@@ -182,8 +182,8 @@
 ||Methyldopa|HTN|
 |β<sub>1</sub> agonists|Dopamine (D > β<sub>1</sub> > α<sub>1</sub>)|Inotrope|
 ||Dobutamine (β<sub>1</sub> > β<sub>2</sub>)|Inotrope|
-|β<sub>2</sub> agonists|Albuterol|Asthma: acute|
-||Salmeterol & Formoterol|Asthma: chronic|
+|β<sub>2</sub> agonists|Albuterol|Asthma :: acute|
+||Salmeterol & Formoterol|Asthma :: chronic|
 ||Terbutaline & Ritodrine|Tocolysis|
 |β agonists|Epinephrine (β > α<sub>1</sub>)|Hypotension & Asthma & Shock|
 ||Isoproterenol|-|
@@ -200,7 +200,7 @@
 |α antagonists|Phentolamine|PCC|
 ||Phenoxybenzamine|PCC|
 ||Antipsychotics|-|
-||Antidepressants: TCA|-|
+||Antidepressants :: TCA|-|
 ||1° Antihistamines|-|
 |β<sub>1</sub> antagonists|Acebutolol|Partial agonists|
 ||Atenolol|Arrhythmia|
@@ -261,15 +261,15 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|H<sub>1</sub> antagonists|1° Antihistamine: Chlorpheniramine|Allergy & Emesis: motion sickness|
-||1° Antihistamine: Diphenhydramine|Allergy & Emesis: motion sickness|
-||1° Antihistamine: Meclizine|Allergy & Emesis: motion sickness|
-||1° Antihistamine: Promethazine|Allergy & Emesis: motion sickness|
-||2° Antihistamine: Cetirizine|Allergy|
-||2° Antihistamine: Fexofenadine|Allergy|
-||2° Antihistamine: Loratadine|Allergy|
+|H<sub>1</sub> antagonists|1° Antihistamine :: Chlorpheniramine|Allergy & Emesis :: motion sickness|
+||1° Antihistamine :: Diphenhydramine|Allergy & Emesis :: motion sickness|
+||1° Antihistamine :: Meclizine|Allergy & Emesis :: motion sickness|
+||1° Antihistamine :: Promethazine|Allergy & Emesis :: motion sickness|
+||2° Antihistamine :: Cetirizine|Allergy|
+||2° Antihistamine :: Fexofenadine|Allergy|
+||2° Antihistamine :: Loratadine|Allergy|
 ||Antipsychotics|-|
-||Antidepressants: TCA|-|
+||Antidepressants :: TCA|-|
 |H<sub>2</sub> antagonists|Cimetidine|PUD|
 ||Ranitidine|PUD|
 ||Famotidine|PUD|
@@ -459,12 +459,12 @@
 |Drugs|Mechanism|Targets|Species|
 |-|-|-|-|
 |IFN-α|↓ Protein synthesis|-|Virus|
-|Aminoglycoside|↓ Protein synthesis|30S ribosome: initiation complex|Bacterium|
-|Linezolid|↓ Protein synthesis|50S ribosome: initiation complex|Bacterium|
-|Tetracycline|↓ Protein synthesis|30S ribosome: tRNA binding|Bacterium|
-|Chloramphenicol|↓ Protein synthesis|50S ribosome: peptidyl transferase|Bacterium|
-|Macrolide|↓ Protein synthesis|50S ribosome: mRNA translocation|Bacterium|
-|Clindamycin|↓ Protein synthesis|50S ribosome: mRNA translocation|Bacterium|
+|Aminoglycoside|↓ Protein synthesis|30S ribosome :: initiation complex|Bacterium|
+|Linezolid|↓ Protein synthesis|50S ribosome :: initiation complex|Bacterium|
+|Tetracycline|↓ Protein synthesis|30S ribosome :: tRNA binding|Bacterium|
+|Chloramphenicol|↓ Protein synthesis|50S ribosome :: peptidyl transferase|Bacterium|
+|Macrolide|↓ Protein synthesis|50S ribosome :: mRNA translocation|Bacterium|
+|Clindamycin|↓ Protein synthesis|50S ribosome :: mRNA translocation|Bacterium|
 |Diphtheria toxin|↓ Protein synthesis|Elongation factor (EF-2)|Human|
 |Exotoxin A|↓ Protein synthesis|Elongation factor (EF-2)|Human|
 |Shiga toxin|↓ Protein synthesis|60S ribosome|Human|
@@ -505,11 +505,11 @@
 
 ## Drugs Causing QT Prolongation [ABCDE]
 
-- Antiarrhythmics: class 1A & 3
-- Antibiotics: Macrolide & Fluoroquinolone
+- Antiarrhythmics :: class 1A & 3
+- Antibiotics :: Macrolide & Fluoroquinolone
 - Antipsychotics
-- Antidepressants: TCA
-- Antiemetics: ondansetron
+- Antidepressants :: TCA
+- Antiemetics :: Ondansetron
 
 ## Drugs Causing Agranulocytosis
 
