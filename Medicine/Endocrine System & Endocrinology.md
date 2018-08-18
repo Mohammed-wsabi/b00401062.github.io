@@ -140,14 +140,14 @@
 
 |Diagnosis|GnRH|LH & FSH|SH|
 |-|-|-|-|
+|Klinefelter syndrome|↑|↑|↓ (1°)|
+|Turner syndrome|↑|↑|↓ (1°)|
 |Menopause|↑|↑|↓ (1°)|
 |Hypopituitarism|↑|↓ (1°)|↓|
 |Kallmann syndrome|↓ (1°)|↓|↓|
 |Androgen insensitive syndrome (AIS)|↑ (1°)|↑|↑|
 |Germ cell tumor|↓|↓|↑ (1°)|
 |Exogenous steroid|↓|↓|↑ (1°)|
-|Klinefelter syndrome|↑|↑|↓ (1°)|
-|Turner syndrome|↑|↑|↓ (1°)|
 
 ## Differential Diagnosis of Insulin Disorders
 
@@ -164,11 +164,12 @@
 |-|-|-|-|
 |1° Hypoparathyroidism|↓|↑|↓ (1°)|
 |PTH-independent hypercalcemia|↑ (1°)|↑|↓|
-|1° Hyperparathyroidism: osteitis fibrosa cystica|↑|↓|↑ (1°)|
+|1° Hyperparathyroidism → osteitis fibrosa cystica|↑|↓|↑ (1°)|
 |Familial hypocalciuric hypercalcemia (FHH)|↑|↓|↑ (1°)|
-|2° Hyperparathyroidism: renal osteodystrophy|↓ (1°)|↑ (1°)|↑|
+|2° Hyperparathyroidism → renal osteodystrophy|↓ (1°)|↑ (1°)|↑|
+|3° Hyperparathyroidism → renal osteodystrophy|↑|↑|↑|
 |Vitamin D deficiency: osteomalacia & rickets|↓ (1°)|↓|↑|
-|Pseudohypoparathyroidism (PHP): Albright hereditary osteodystrophy|↓ (1°)|↑ (1°)|↑|
+|Pseudohypoparathyroidism (PHP) → Albright hereditary osteodystrophy|↓ (1°)|↑ (1°)|↑|
 |Pseudopseudohypoparathyroidism|-|-|-|
 
 ## Insensitivity of Endocrine Receptors
