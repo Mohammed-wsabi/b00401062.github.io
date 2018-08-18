@@ -236,7 +236,7 @@
 |Antacids|Aluminum hydroxide|PUD|
 ||Calcium carbonate|PUD|
 ||Magnesium hydroxide|PUD|
-|Antimicrobial|Bismuth|PUD|
+|Antimicrobials|Bismuth|PUD|
 ||Amoxicillin / Metronidazole|PUD|
 ||Clarithromycin|PUD|
 |-|Sucralfate|PUD|
