@@ -10,15 +10,15 @@
 ## Case Discussion
 
 - [Patient Information](#patient-information)
-- [Chief Complaints](#chief-complaints)
-- [History of Present Illness](#history-of-present-illness)
-- [Review of Systems](#review-of-systems)
+- [Chief Complaints (CC)](#chief-complaints-cc)
+- [History of Present Illness (HPI)](#history-of-present-illness-hpi)
+- [Review of Systems (ROS)](#review-of-systems-ros)
 - [Gynecologic History](#gynecologic-history)
 - [Obstetric History](#obstetric-history)
 - [Birth History](#birth-history)
-- [Past History](#past-history)
-- [Social and Sexual History](#social-and-sexual-history)
-- [Family History](#family-history)
+- [Past History (PH)](#past-history-ph)
+- [Social and Sexual History (SH)](#social-and-sexual-history-sh)
+- [Family History (FH)](#family-history-fh)
 - [Physical Examination](#physical-examination)
 - [Differential Diagnosis](#differential-diagnosis)
 - [Laboratory](#laboratory)
@@ -40,11 +40,11 @@
 
 ---
 
-### Chief Complaints
+### Chief Complaints (CC)
 
 ---
 
-### History of Present Illness
+### History of Present Illness (HPI)
 
 - Symptoms:
 	- Location:
@@ -61,7 +61,7 @@
 
 ---
 
-### Review of Systems
+### Review of Systems (ROS)
 
 - General:
 - Integumentary:
@@ -112,7 +112,7 @@
 
 ---
 
-### Past History
+### Past History (PH)
 
 - Medical:
 - Surgery:
@@ -121,7 +121,7 @@
 
 ---
 
-### Social and Sexual History
+### Social and Sexual History (SH)
 
 - Alcohol:
 - Betel nuts:
@@ -137,7 +137,7 @@
 
 ---
 
-### Family History
+### Family History (FH)
 
 ---
 
