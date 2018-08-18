@@ -126,7 +126,7 @@
 |Waterhouse-Friderichsen syndrome|↓|↑|↓ (1°)|
 |Hypertension|↑ (1°)|↓|↓|
 |Liddle syndrome|↑ (1°)|↓|↓|
-|Conn syndrome: 1° hyperaldosteronism|↑|↓|↑ (1°)|
+|Conn syndrome|↑|↓|↑ (1°)|
 |Adrenal tumor|↑|↓|↑ (1°)|
 |CAH :: 17-Hydroxylase deficiency|↑|↓|↑ (1°)|
 |Exogenous steroid|↑|↓|↑ (1°)|
