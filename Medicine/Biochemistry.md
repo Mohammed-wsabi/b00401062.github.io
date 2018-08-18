@@ -189,8 +189,8 @@
 
 |Metabolism|Reaction|Location|
 |-|-|-|
-|Citric acid cycle = Krebs cycle|Acetyl-CoA → Energy|Mitochondria|
-|Lactic acid cycle = Cori cycle|-|-|
+|Citric acid (Krebs) cycle|Acetyl-CoA → Energy|Mitochondria|
+|Lactic acid (Cori) cycle|-|-|
 
 ![](../Figures/Carbohydrate%20Metabolism.png)
 
@@ -437,7 +437,7 @@
 |Metabolism|Reaction|Location|
 |-|-|-|
 |Urea cycle|Ammonia → Urea|Both|
-|Alanine cycle = Cahill cycle|-|-|
+|Alanine (Cahill) cycle|-|-|
 
 ## Amino Acid Catabolism
 

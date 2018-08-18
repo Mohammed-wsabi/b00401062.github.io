@@ -109,7 +109,7 @@
 
 ## Associations with Lead Poisoning [LEAD]
 
-- Lead line = Burton line
+- Lead (Burton) line
 - Encephalopathy
 - Erythrocyte basophilic stippling
 - Abdominal colic

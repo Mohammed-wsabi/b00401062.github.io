@@ -174,19 +174,19 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|α<sub>1</sub> agonists|Norepinephrine (α<sub>1</sub> > β<sub>1</sub>)|Hypotension|
+|α<sub>1</sub> agonists|Norepinephrine: α<sub>1</sub> > β<sub>1</sub>|Hypotension|
 ||Phenylephrine|Hypotension & Decongestant|
 ||Midodrine|Hypotension|
 |α<sub>2</sub> agonists|Clonidine|HTN & Opioid withdrawal|
 ||Brimonidine|Glaucoma|
 ||Methyldopa|HTN|
-|β<sub>1</sub> agonists|Dopamine (D > β<sub>1</sub> > α<sub>1</sub>)|Inotrope|
-||Dobutamine (β<sub>1</sub> > β<sub>2</sub>)|Inotrope|
+|β<sub>1</sub> agonists|Dopamine: D > β<sub>1</sub> > α<sub>1</sub>|Inotrope|
+||Dobutamine: β<sub>1</sub> > β<sub>2</sub>|Inotrope|
 |β<sub>2</sub> agonists|Albuterol|Asthma :: acute|
 ||Salmeterol & Formoterol|Asthma :: chronic|
 ||Terbutaline & Ritodrine|Tocolysis|
-|β agonists|Epinephrine (β > α<sub>1</sub>)|Hypotension & Asthma & Shock|
-||Isoproterenol|-|
+|β agonists|Epinephrine: β > α<sub>1</sub>|Hypotension & Asthma & Shock|
+||Isoproterenol: β|-|
 
 ## Mechanisms of Action of Adrenergic Antagonists
 

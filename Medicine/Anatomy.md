@@ -396,7 +396,7 @@
 
 ## Splanchnic Nerves
 
-### Sympathetic (T1 ~ L2)
+### Sympathetic: T1 ~ L2
 
 - Cardiopulmonary nerve
 - Greater splanchnic nerve
@@ -405,7 +405,7 @@
 - Lumbar splanchnic nerve
 - Sacral splanchnic nerve
 
-### Parasympathetic (S2 ~ S4)
+### Parasympathetic: S2 ~ S4
 
 - Pelvic splanchnic nerve
 

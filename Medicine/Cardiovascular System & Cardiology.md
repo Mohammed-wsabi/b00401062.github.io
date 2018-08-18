@@ -42,11 +42,11 @@
 |α<sub>2</sub>|↓|↓|↓|
 |β<sub>1</sub>|↑ (1°)|-|↑|
 |β<sub>2</sub>|↑|↓ (1°)|↓|
-|Dopamine (D > β<sub>1</sub> > α<sub>1</sub>)|↑ (1°)|↑|↑|
-|Dobutamine (β<sub>1</sub> > β<sub>2</sub>)|↑ (1°)|↓|↑|
-|Norepinephrine (α<sub>1</sub> > β<sub>1</sub>)|-|↑ (1°)|↑|
-|Epinephrine (β > α<sub>1</sub>)|↑ (1°)|↓|↑|
-|Isoproterenol (β)|↑ (1°)|↓ (1°)|↓|
+|Dopamine: D > β<sub>1</sub> > α<sub>1</sub>|↑ (1°)|↑|↑|
+|Dobutamine: β<sub>1</sub> > β<sub>2</sub>|↑ (1°)|↓|↑|
+|Norepinephrine: α<sub>1</sub> > β<sub>1</sub>|-|↑ (1°)|↑|
+|Epinephrine: β > α<sub>1</sub>|↑ (1°)|↓|↑|
+|Isoproterenol: β|↑ (1°)|↓ (1°)|↓|
 
 ## Stroke Volume is Influenced by [CAP]
 
@@ -259,13 +259,13 @@
 
 ## Anginas & Myocardial Infarction
 
-|Types|T Wave|ST Segment|Q Wave|
+|Types|T Wave|ST Segment|Q Wave|Pathologic Significance|
 |-|-|-|-|
-|Stable angina|-|STD|-|
-|Unstable angina|TWI|STD|-|
-|Subendocardial infarction = NSTEMI = NQMI|TWI|STD|-|
-|Variant angina = Prinzmetal angina|HTW|STE|-|
-|Transmural infarction = STEMI = QWMI|HTW|STE|PQW|
+|Stable angina|-|STD|-|Coronary artery thrombosis|
+|Unstable angina|TWI|STD|-|Coronary artery thrombosis|
+|NSTEMI (NQMI)|TWI|STD|-|Subendocardial infarction|
+|Variant (Prinzmetal) angina|HTW|STE|-|Coronary artery spasm|
+|STEMI (QWMI)|HTW|STE|PQW|Transmural infarction|
 
 ## Complications of Myocardial Infarction
 
@@ -351,11 +351,11 @@
 |-|-|-|
 |μ-opioid agonists|Morphine|Venodilation|
 |Nitrate|Nitroglycerin & Isosorbide|Venodilation|
-|β<sub>1</sub> agonists|Dopamine (D > β<sub>1</sub> > α<sub>1</sub>)|Inotrope|
-||Dobutamine (β<sub>1</sub> > β<sub>2</sub>)|Inotrope|
-||Norepinephrine (α<sub>1</sub> > β<sub>1</sub>)|Inotrope|
-||Epinephrine (β > α<sub>1</sub>)|Inotrope|
-||Isoproterenol (β)|Inotrope|
+|β<sub>1</sub> agonists|Dopamine: D > β<sub>1</sub> > α<sub>1</sub>|Inotrope|
+||Dobutamine: β<sub>1</sub> > β<sub>2</sub>|Inotrope|
+||Norepinephrine: α<sub>1</sub> > β<sub>1</sub>|Inotrope|
+||Epinephrine: β > α<sub>1</sub>|Inotrope|
+||Isoproterenol: β|Inotrope|
 |PDE inhibitors|Inamrinone & Milrinone|Inotrope|
 |Na-K pump blockers|Digoxin & Digitalis|Inotrope|
 |α<sub>1</sub> antagonists & α<sub>2</sub> agonists|-|Vasodilation|

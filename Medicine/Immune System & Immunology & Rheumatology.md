@@ -44,7 +44,7 @@
 
 ![](../Figures/Complement%20Systems.png)
 
-## Respiratory Burst (Oxidative Burst)
+## Respiratory (Oxidative) Burst
 
 ![](../Figures/Respiratory%20Burst%20(Oxidative%20Burst).png)
 
@@ -182,7 +182,7 @@
 |Arthus reaction|-|
 |Autoimmune hepatitis|Anti-smooth muscle|
 |Dermatitis herpetiformis|Anti-tissue transglutaminase (Anti-tTG) IgA|
-|Diffuse scleroderma|Anti-Scl-70 = Anti-topoisomerase|
+|Diffuse scleroderma|Anti-Scl-70 (Anti-topoisomerase)|
 |Drug-induced lupus|Anti-histone|
 |Henoch-Schonlein purpura (HSP)|IgA|
 |Limited scleroderma|Anti-centromere|

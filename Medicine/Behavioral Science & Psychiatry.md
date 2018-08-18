@@ -95,7 +95,7 @@
 - Bipolar I/II disorder
 - Cyclothymia
 - Major depressive disorder
-- Persistent depressive disorder = Dysthymia
+- Persistent depressive disorder (Dysthymia)
 - Seasonal affective disorder (SAD)
 
 ### Anxiety Disorder
@@ -214,9 +214,9 @@
 |NE release inducers|Amphetamine|Stimulant|
 |NE reuptake inhibitors|Cocaine|Stimulant|
 |-|LSD|Hallucinogen|
-|-|PCP = Angel dust|Hallucinogen & Stimulant|
-|-|MDMA = Ecstasy|Hallucinogen & Stimulant|
-|-|Cannabis = Marijuana|Hallucinogen|
+|-|PCP (Angel dust)|Hallucinogen & Stimulant|
+|-|MDMA (Ecstasy)|Hallucinogen & Stimulant|
+|-|Cannabis (Marijuana)|Hallucinogen|
 
 ## Mechanisms of Action of Medications for Bipolar Disorder
 
