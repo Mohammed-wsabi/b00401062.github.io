@@ -58,8 +58,6 @@
 - Similar episodes:
 - Sick contacts:
 - Treatments:
-- Compliance:
-- Follow-ups:
 
 ---
 
@@ -118,6 +116,7 @@
 
 - Medical:
 - Surgery:
+- Treatments:
 - Allergies:
 
 ---
