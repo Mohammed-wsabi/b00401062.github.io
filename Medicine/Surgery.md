@@ -46,7 +46,7 @@
 
 ## Acute Physiology and Chronic Health Evaluation (APACHE) II
 
-- Temperature: rectal
+- Temperature :: rectal
 - Heart rate (HR)
 - Mean arterial pressure (MAP)
 - Respiratory rate (RR)

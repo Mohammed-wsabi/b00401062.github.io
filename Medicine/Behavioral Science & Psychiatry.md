@@ -78,9 +78,9 @@
 
 ### Personality Disorder
 
-- Cluster A :: Paranoid & Schizoid & Schizotypal
-- Cluster B :: Antisocial & Borderline & Histrionic & Narcissistic
-- Cluster C :: Avoidant & Obsessive-compulsive & Dependent
+- Cluster A: Paranoid & Schizoid & Schizotypal
+- Cluster B: Antisocial & Borderline & Histrionic & Narcissistic
+- Cluster C: Avoidant & Obsessive-compulsive & Dependent
 
 ### Psychotic Disorder
 

@@ -44,8 +44,8 @@
 |Polytomous|Continuous|Independent|+|ANOVA F-test|
 |Polytomous|Continuous|Dependent|-|Friedman test|
 |Polytomous|Continuous|Dependent|+|Repeated measures ANOVA F-test|
-|Continuous|Dichotomous|Independent|+|Logistic regression: binomial|
-|Continuous|Polytomous|Independent|+|Logistic regression: multinomial|
+|Continuous|Dichotomous|Independent|+|Logistic regression :: binomial|
+|Continuous|Polytomous|Independent|+|Logistic regression :: multinomial|
 |Continuous|Continuous|Independent|-|Spearman correlation|
 |Continuous|Continuous|Independent|+|Pearson correlation|
 
