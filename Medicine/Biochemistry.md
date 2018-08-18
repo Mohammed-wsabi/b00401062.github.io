@@ -13,14 +13,14 @@
 
 |Mnemonic|Vitamin|Derivatives|
 |-|-|-|
-|Try|Thiamin (B1)|Thiamine pyrophosphate (TPP)|
-|Remembering|Riboflavin (B2)|Flavin adenine dinucleotide (FAD) & Flavin mononucleotide (FMN)|
-|Not|Niacin (B3)|Nicotinamide adenine dinucleotide (NAD) & Nicotinamide adenine dinucleotide phosphate (NADP)|
-|P|Pantothenate (B5)|CoA|
-|P|Pyridoxine (B6)|Pyridoxal phosphate (PLP)|
-|But|Biotin (B7)|-|
-|First|Folate (B9)|-|
-|Choice|Cobalamin (B12)|-|
+|Try|Thiamin (B<sub>1</sub>)|Thiamine pyrophosphate (TPP)|
+|Remembering|Riboflavin (B<sub>2</sub>)|Flavin adenine dinucleotide (FAD) & Flavin mononucleotide (FMN)|
+|Not|Niacin (B<sub>3</sub>)|Nicotinamide adenine dinucleotide (NAD) & Nicotinamide adenine dinucleotide phosphate (NADP)|
+|P|Pantothenate (B<sub>5</sub>)|CoA|
+|P|Pyridoxine (B<sub>6</sub>)|Pyridoxal phosphate (PLP)|
+|But|Biotin (B<sub>7</sub>)|-|
+|First|Folate (B<sub>9</sub>)|-|
+|Choice|Cobalamin (B<sub>12</sub>)|-|
 
 ## Vitamin B & Enzymes & Coenzymes
 
@@ -28,55 +28,55 @@
 
 |Mnemonic|Coenzymes|
 |-|-|
-|Tender|TPP (B1)|
+|Tender|TPP (B<sub>1</sub>)|
 |Loving|Lipoid acid|
-|Care|CoA (B5)|
-|For|FAD (B2)|
-|Nancy|NAD (B3)|
+|Care|CoA (B<sub>5</sub>)|
+|For|FAD (B<sub>2</sub>)|
+|Nancy|NAD (B<sub>3</sub>)|
 
 ### Carboxylase [ABC]
 
 |Mnemonic|Coenzymes|
 |-|-|
 |A|ATP|
-|B|Biotin (B7)|
+|B|Biotin (B<sub>7</sub>)|
 |C|CO<sub>2</sub>|
 
 ## Vitamin B & Enzymes & Diseases
 
-|Vitamin|Enzyme|Diseases|
+|Vitamin B|Enzyme|Diseases|
 |-|-|-|
-|B1 & 2 & 3 & 5|Pyruvate dehydrogenase|Pyruvate dehydrogenase deficiency|
+|1 & 2 & 3 & 5|Pyruvate dehydrogenase|Pyruvate dehydrogenase deficiency|
 ||α-Ketoglutarate dehydrogenase|-|
 ||Branched-chain α-ketoacid dehydrogenase|Maple syrup urine disease (MSUD)|
-|B1|Transketolase|-|
-|B2|Succinate dehydrogenase (ETC complex 2)|-|
+|1|Transketolase|-|
+|2|Succinate dehydrogenase (ETC complex 2)|-|
 ||Acyl-CoA dehydrogenase|Acyl-CoA dehydrogenase deficiency|
 ||Retinal dehydrogenase|-|
-|B3|NADH dehydrogenase (ETC complex 1)|-|
-|B6|AST & ALT|-|
+|3|NADH dehydrogenase (ETC complex 1)|-|
+|6|AST & ALT|-|
 ||Aminolevulinate (ALA) synthase|Sideroblastic anemia|
 ||Cystathionine synthase|Homocystinuria|
 ||Dopa decarboxylase|-|
 ||Glycogen phosphorylase|McArdle & Hers disease|
-|B7|Pyruvate carboxylase|-|
+|7|Pyruvate carboxylase|-|
 ||Acetyl-CoA carboxylase|-|
 ||Propionyl-CoA carboxylase|-|
-|B9 & B12|Methionine synthase|Homocystinuria & Megaloblastic anemia|
-|B12|Methylmalonyl-CoA mutase|Methylmalonic acidemia & Subacute combined degeneration|
+|9 & 12|Methionine synthase|Homocystinuria & Megaloblastic anemia|
+|12|Methylmalonyl-CoA mutase|Methylmalonic acidemia & Subacute combined degeneration|
 
-## Presentations of Vitamin Deficiency
+## Presentations of Vitamin B Deficiency
 
 |Deficiency|Presentations|
 |-|-|
-|B1|Dry beriberi & Wet beriberi & Wernicke-Korsakoff syndrome|
-|B2 [2C]|Cheliosis & Corneal vascularization|
-|B3 [3D]|Diarrhea & Dementia & Dermatitis :: pellagra|
-|B6|Homocystinuria & Sideroblastic anemia & Peripheral neuropathy|
-|B9|Homocystinuria & Megaloblastic anemia & Hypersegmented PMN|
-|B12|Homocystinuria & Megaloblastic anemia & Hypersegmented PMN & Methylmalonic acidemia & Subacute combined degeneration|
+|B<sub>1</sub>|Dry beriberi & Wet beriberi & Wernicke-Korsakoff syndrome|
+|B<sub>2</sub> [2C]|Cheliosis & Corneal vascularization|
+|B<sub>3</sub> [3D]|Diarrhea & Dementia & Dermatitis :: pellagra|
+|B<sub>6</sub>|Homocystinuria & Sideroblastic anemia & Peripheral neuropathy|
+|B<sub>9</sub>|Homocystinuria & Megaloblastic anemia & Hypersegmented PMN|
+|B<sub>12</sub>|Homocystinuria & Megaloblastic anemia & Hypersegmented PMN & Methylmalonic acidemia & Subacute combined degeneration|
 
-## Etiologies of Vitamin B9 Deficiency
+## Etiologies of Vitamin B<sub>9</sub> Deficiency
 
 - Alcoholism
 - Crohn's disease
@@ -85,7 +85,7 @@
 - Phenytoin
 - Trimethoprim
 
-## Etiologies of Vitamin B12 Deficiency
+## Etiologies of Vitamin B<sub>12</sub> Deficiency
 
 - Achlorhydria
 - Crohn's disease
@@ -113,7 +113,7 @@
 |Enzyme|Coenzyme|Deficiency|Drug Target|
 |-|-|-|-|
 |Glycogen synthase|-|-|-|
-|Glycogen phosphorylase|Vitamin B6|McArdle & Hers disease|-|
+|Glycogen phosphorylase|Vitamin B<sub>6</sub>|McArdle & Hers disease|-|
 |Aldose reductase|-|-|-|
 |UDP-glucose epimerase|-|-|-|
 |Galactose-1-phosphate uridyltransferase|-|Classic galactosemia|-|
@@ -128,7 +128,7 @@
 |6-Phosphogluconate dehydrogenase (6PGD)|-|6PGD deficiency|-|
 |Phosphofructokinase-2 (PFK-2)|-|-|-|
 |Fructose bisphosphatase-2 (FBPase-2)|-|-|-|
-|Transketolase|Vitamin B1|-|-|
+|Transketolase|Vitamin B<sub>1</sub>|-|-|
 |Aldose reductase|-|-|-|
 |Fructose bisphosphatase-1 (FBPase-1)|-|-|-|
 |Phosphofructokinase-2 (PFK-1)|-|-|-|
@@ -158,7 +158,7 @@
 |Dihydropteroate synthase|-|-|Sulfonamide|
 |Phosphoenolpyruvate carboxykinase|-|-|-|
 |Pyruvate kinase|-|-|Pyruvate kinase deficiency|
-|Alanine transaminase (ALT)|Vitamin B6|-|-|
+|Alanine transaminase (ALT)|Vitamin B<sub>6</sub>|-|-|
 |Lactate dehydrogenase (LDH)|-|-|-|
 
 ![](../Figures/Summary%20of%20Pathways.png)
