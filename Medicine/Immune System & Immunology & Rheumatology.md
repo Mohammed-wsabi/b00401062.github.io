@@ -236,7 +236,7 @@
 |Disease|Defects|Genetics|IgM|IgG|IgE|IgA|
 |-|-|-|-|-|-|-|
 |Chronic mucocutaneous candidiasis|-|-|-|-|-|-|
-|Hyper-IgE syndrome = Job syndrome|-|STAT3|-|-|↑|-|
+|Hyper-IgE (Job) syndrome|-|STAT3|-|-|↑|-|
 |IL-12R deficiency|IL-12R|IL-12R|-|-|-|-|
 |DiGeorge syndrome|Thymus & Parathyroid|22q11|-|-|-|-|
 
@@ -275,7 +275,7 @@
 - Psoriatic arthritis
 - Ankylosing spondylitis
 - Inflammatory bowel disease
-- Reactive arthritis = Reiter syndrome
+- Reactive arthritis (Reiter syndrome)
 
 ## Triad of Reactive Arthritis [AUC]
 

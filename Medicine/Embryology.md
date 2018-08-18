@@ -11,7 +11,7 @@
 
 ## Ectoderm :: Surface Ectoderm
 
-- Anterior pituitary = Adenohypophysis
+- Anterior pituitary (Adenohypophysis)
 - Epidermis
 - Lens
 - Mammary gland
@@ -29,7 +29,7 @@
 - Olfactory nerve
 - Optic nerve
 - Pineal gland
-- Posterior pituitary = Neurohypophysis
+- Posterior pituitary (Neurohypophysis)
 - Retina
 - Skull bone
 

@@ -52,8 +52,8 @@
 
 |Origin|Tumors|Location|
 |-|-|-|
-|Bone|Giant cell tumor = Osteoclastoma|Epiphysis|
-||Osteoid osteoma = Osteoblastoma|Diaphysis|
+|Bone|Giant cell tumor (Osteoclastoma)|Epiphysis|
+||Osteoid osteoma (Osteoblastoma)|Diaphysis|
 ||Osteosarcoma|Metaphysis|
 |Cartilage|Chondroblastoma|Epiphysis|
 ||Enchondroma|Metaphysis|

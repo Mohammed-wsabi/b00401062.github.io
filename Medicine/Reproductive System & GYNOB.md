@@ -98,7 +98,7 @@
 
 |Male|Female|Markers|
 |-|-|-|
-|Leydig cell tumor|Theca cell tumor = Thecoma|-|
+|Leydig cell tumor|Theca cell tumor (Thecoma)|-|
 |Sertoli cell tumor|Granulosa cell tumor|-|
 
 ## Hydatidiform Moles
@@ -223,7 +223,7 @@
 |PCOS|↓|↓|↑|↓|
 |Hypoestrogenism|↑/↓|↑/↓|↓|↓|
 |Ovarian failure|↑|↑|↓|↓|
-|Resistant ovary syndrome = Savage syndrome|↑|↑|↓|↓|
+|Resistant ovary (Savage) syndrome|↑|↑|↓|↓|
 |Hypothyroidism|↓|↓|↓|↓|
 |Hyperprolactinemia|↓|↓|↓|↓|
 |Asherman syndrome|-|-|-|-|

@@ -403,7 +403,7 @@
 |-|-|-|
 |Trichomonas vaginalis|Vaginitis|Metronidazole|
 
-### Animalian Parasites :: Cestodes = Tapeworms
+### Animalian Parasites :: Cestodes (Tapeworms)
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -412,7 +412,7 @@
 |Echinococcus|Hydatid cyst disease|Benzimidazole|
 |Diphyllobothrium latum|Vitamin B12 deficiency|Praziquantel|
 
-### Animalian Parasites :: Trematodes = Flukes
+### Animalian Parasites :: Trematodes (Flukes)
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -423,7 +423,7 @@
 |Schistosoma mansoni|Portal hypertension|Praziquantel|
 |Schistosoma japonicum|Portal hypertension|Praziquantel|
 
-### Animalian Parasites :: Nematodes = Roundworms :: Fecal-oral Transmission [EAT]
+### Animalian Parasites :: Nematodes (Roundworms) :: Fecal-oral Transmission [EAT]
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -433,7 +433,7 @@
 |Trichinella spiralis|Myalgia & Periorbital edema|Benzimidazole|
 |Toxocara|Visceral larva migrans|Benzimidazole|
 
-### Animalian Parasites :: Nematodes = Roundworms :: Contact Transmission [SAN]
+### Animalian Parasites :: Nematodes (Roundworms) :: Contact Transmission [SAN]
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -441,7 +441,7 @@
 |Ancylostoma duodenale|IDA & Cutaneous larva migrans|Benzimidazole & Pyrantel pamoate|
 |Necator americanus|IDA|Benzimidazole & Pyrantel pamoate|
 
-### Animalian Parasites :: Nematodes = Roundworms :: Arthropod-Borne [WOLD]
+### Animalian Parasites :: Nematodes (Roundworms) :: Arthropod-Borne [WOLD]
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -732,7 +732,7 @@
 |Japanese encephalitis virus|Mosquito :: Culix|Japanese encephalitis|
 |Plasmodium|Mosquito|Malaria|
 |Trypanosoma brucei|Tsetse fly|African sleeping sickness|
-|Trypanosoma cruzi|Reduviid bug = Kissing bug|Chagas disease|
+|Trypanosoma cruzi|Reduviid bug (Kissing bug)|Chagas disease|
 |Leishmania donovani|Sandfly|Leishmaniasis|
 
 ## Routes of Infectious Disease Transmission
@@ -784,7 +784,7 @@
 - Heart :: mitral valve
 - Nodules :: subcutaneous nodules
 - Erythema marginatum
-- Sydenham chorea = Chorea minor
+- Sydenham chorea (Chorea minor)
 
 ## Facts About Corynebacterium Diphtheria [ABCDEFG]
 
@@ -974,9 +974,9 @@
 |-|-|
 |GPC|1° Cephalosporins|
 |MRSA|Vancomycin|
-|Enterococcus|Ampicillin-Sulbactam = Unasyn|
+|Enterococcus|Ampicillin-Sulbactam (Unasyn)|
 |GNR :: intestinal|2° Cephalosporins / Aminoglycosides|
-|GNR :: urinary|Fluoroquinolones / TMP-SMX|
+|GNR :: urinary|Fluoroquinolones / TMP-SMX (Co-trimoxazole)|
 |Anaerobes|Clindamycin / Metronidazole|
 
 ## Empiric Treatment for Pneumonia

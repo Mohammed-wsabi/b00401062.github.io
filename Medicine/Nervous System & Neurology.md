@@ -13,7 +13,7 @@
 
 ### Cells
 
-- Horizontal cell = Cajal cell
+- Horizontal (Cajal) cell
 - Granular cell
 - Pyramidal cell
 - Fusiform cell
@@ -294,7 +294,7 @@
 |Midbrain|Tachypnea|
 |Upper pons|Apneustic respiration|
 |Lower pons|Cluster respiration|
-|Medulla|Ataxic respiration = Biot respiration|
+|Medulla|Ataxic (Biot) respiration|
 
 ## Aphasia
 

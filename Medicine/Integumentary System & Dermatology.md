@@ -36,7 +36,7 @@
 
 |Erythema|Disease Associations|
 |-|-|
-|Erythema infectiosum = Fifth disease|Parvovirus B19|
+|Erythema infectiosum (Fifth disease)|Parvovirus B19|
 |Erythema marginatum|Rheumatic Fever|
 |Erythema migrans|Lyme Disease|
 |Erythema multiforme|Stevens-Johnson syndrome & Mycoplasma & HSV|
