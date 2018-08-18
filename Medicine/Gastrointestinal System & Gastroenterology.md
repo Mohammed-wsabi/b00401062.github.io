@@ -233,10 +233,12 @@
 ||Famotidine|PUD|
 ||Nizatidine|PUD|
 |PGE1 agonists|Misoprostol|PUD|
-|Antacid|Aluminum hydroxide|PUD|
+|Antacids|Aluminum hydroxide|PUD|
 ||Calcium carbonate|PUD|
 ||Magnesium hydroxide|PUD|
-|-|Bismuth|PUD|
+|Antimicrobial|Bismuth|PUD|
+||Amoxicillin / Metronidazole|PUD|
+||Clarithromycin|PUD|
 |-|Sucralfate|PUD|
 
 ## Mechanisms of Action of Antiemetics
