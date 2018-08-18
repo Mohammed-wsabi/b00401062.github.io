@@ -3,13 +3,13 @@
 ## Differential Diagnosis [VINDICATE]
 
 - Vascular
-- Infectious & Inflammatory
-- Neoplastic & Nutritional
-- Degenerative & Drug
+- Infection & Inflammation
+- Neoplasia & Nutrition
+- Degeneration & Drugs
 - Idiopathic
 - Congenital
-- Autoimmune
-- Traumatic & Toxin
+- Autoimmunity
+- Trauma & Toxins
 - Endocrine & Exocrine
 
 ## Review of Systems (ROS)
