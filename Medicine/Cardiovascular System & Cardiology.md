@@ -334,7 +334,7 @@
 - Strawberry tongue
 - Conjunctivitis
 - Adenopathy of neck
-- Rashes: desquamating
+- Rashes :: desquamating
 - Edema of limbs
 
 ## CHADS2 Score for Atrial Fibrillation Stroke Risk [CHADS]
@@ -377,7 +377,7 @@
 ||Nitrate|
 |-|Oxygen|
 
-### Heart failure (HF): decompensated [LMNOP]
+### Heart failure (HF) :: decompensated [LMNOP]
 
 |Mechanism|Medication|
 |-|-|
@@ -387,7 +387,7 @@
 |-|Oxygen|
 |-|Position|
 
-### Heart failure (HF): compensated [ABDV]
+### Heart failure (HF) :: compensated [ABDV]
 
 |Mechanism|Medication|
 |-|-|
