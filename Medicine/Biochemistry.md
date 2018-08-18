@@ -49,10 +49,10 @@
 ||α-Ketoglutarate dehydrogenase|-|
 ||Branched-chain α-ketoacid dehydrogenase|Maple syrup urine disease (MSUD)|
 |B1|Transketolase|-|
-|B2|Succinate dehydrogenase: ETC complex 2|-|
+|B2|Succinate dehydrogenase (ETC complex 2)|-|
 ||Acyl-CoA dehydrogenase|Acyl-CoA dehydrogenase deficiency|
 ||Retinal dehydrogenase|-|
-|B3|NADH dehydrogenase: ETC complex 1|-|
+|B3|NADH dehydrogenase (ETC complex 1)|-|
 |B6|AST & ALT|-|
 ||Aminolevulinate (ALA) synthase|Sideroblastic anemia|
 ||Cystathionine synthase|Homocystinuria|
@@ -70,7 +70,7 @@
 |-|-|
 |B1|Dry beriberi & Wet beriberi & Wernicke-Korsakoff syndrome|
 |B2 [2C]|Cheliosis & Corneal vascularization|
-|B3 [3D]|Diarrhea & Dementia & Dermatitis: pellagra|
+|B3 [3D]|Diarrhea & Dementia & Dermatitis :: pellagra|
 |B6|Homocystinuria & Sideroblastic anemia & Peripheral neuropathy|
 |B9|Homocystinuria & Megaloblastic anemia & Hypersegmented PMN|
 |B12|Homocystinuria & Megaloblastic anemia & Hypersegmented PMN & Methylmalonic acidemia & Subacute combined degeneration|
@@ -331,7 +331,7 @@
 
 ## Amino Acids
 
-### Hydrophobic: aliphatic [GAVLIP]
+### Hydrophobic :: aliphatic [GAVLIP]
 
 |Mnemonic|Abbrevation|Amino acid|
 |-|-|-|
@@ -342,7 +342,7 @@
 |I|I|Isoleucine|
 |P|P|Proline|
 
-### Hydrophobic: aromatic
+### Hydrophobic :: aromatic
 
 |Mnemonic|Abbrevation|Amino acid|
 |-|-|-|
@@ -350,7 +350,7 @@
 |For|F|Phenylalanine|
 |You|Y|Tyrosine|
 
-### Hydrophilic: positive
+### Hydrophilic :: positive
 
 |Mnemonic|Abbrevation|Amino acid|
 |-|-|-|
@@ -358,14 +358,14 @@
 |Ren|R|Arginine|
 |Ka|K|Lysine|
 
-### Hydrophilic: negative
+### Hydrophilic :: negative
 
 |Mnemonic|Abbrevation|Amino acid|
 |-|-|-|
 |D|D|Aspartate|
 |E|E|Glutamate|
 
-### Hydrophilic: uncharged
+### Hydrophilic :: uncharged
 
 |Mnemonic|Abbrevation|Amino acid|
 |-|-|-|
@@ -506,8 +506,8 @@
 
 - Hyperuricemia
 - Gout
-- Pissed off: aggression & self-mutilation
-- Retardation: intellectual disability
+- Psychosis :: aggression & self-mutilation
+- Retardation :: intellectual disability
 - Dystonia
 
 ## Cell Cycle Phases
@@ -537,9 +537,9 @@
 
 |Subtype|Functions|
 |-|-|
-|DNA polymerase I|DNA replication: 5' → 3' exonuclease for removing RNA primers|
+|DNA polymerase I: 5' → 3' exonuclease|DNA replication :: RNA primer removal|
 |DNA polymerase II|DNA repair|
-|DNA polymerase III|DNA replication: 3' → 5' exonuclease for proofreading|
+|DNA polymerase III: 3' → 5' exonuclease|DNA replication :: proofreading|
 |DNA polymerase IV|DNA repair|
 |DNA polymerase V|DNA repair|
 |RNA polymerase|rRNA & mRNA & tRNA synthesis|
@@ -548,11 +548,11 @@
 
 |Subtype|Functions|
 |-|-|
-|DNA polymerase α|DNA replication: initiation|
+|DNA polymerase α|DNA replication :: initiation|
 |DNA polymerase β|DNA repair|
-|DNA polymerase γ|DNA replication: in mitochondria|
-|DNA polymerase δ|DNA replication: lagging strand|
-|DNA polymerase ε|DNA replication: leading strand|
+|DNA polymerase γ|DNA replication|
+|DNA polymerase δ|DNA replication :: lagging strand|
+|DNA polymerase ε|DNA replication :: leading strand|
 |RNA polymerase I|rRNA synthesis|
 |RNA polymerase II|mRNA synthesis|
 |RNA polymerase III|tRNA synthesis|
@@ -593,13 +593,13 @@
 
 ## Modifications
 
-### RNA: Co-transcription
+### RNA :: Co-transcription
 
 |Modification|Traget|
 |-|-|
 |7-methylguanosine (7-mG)|-|
 
-### RNA: Post-transcription
+### RNA :: Post-transcription
 
 |Modification|Traget|
 |-|-|
@@ -607,7 +607,7 @@
 |Splicing|-|
 |RNA interference (RNAi)|-|
 
-### Protein: Co-translation
+### Protein :: Co-translation
 
 |Modification|Traget|
 |-|-|
@@ -615,7 +615,7 @@
 |Hydroxylation of collagen|Proline & Lysine|
 |γ-carboxylation of prothrombin|Glutamate|
 
-### Protein: Post-translation
+### Protein :: Post-translation
 
 |Modification|Traget|
 |-|-|

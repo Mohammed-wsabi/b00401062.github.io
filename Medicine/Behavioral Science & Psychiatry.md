@@ -85,9 +85,9 @@
 ### Psychotic Disorder
 
 - Delusional disorder
-- Brief psychotic disorder (< 1 month)
-- Schizophreniform disorder (1 ~ 6 months)
-- Schizophrenia (> 6 months)
+- Brief psychotic disorder: < 1 month
+- Schizophreniform disorder: 1 ~ 6 months
+- Schizophrenia: > 6 months
 - Schizoaffective disorder
 
 ### Mood Disorder

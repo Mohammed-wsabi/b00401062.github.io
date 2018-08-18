@@ -166,7 +166,7 @@
 |-|-|-|-|
 |Stage 1: latent phase|Effacement & Dilation: 0 → 6 cm & Engagement & Descent: high → 0|< 20 hours|< 14 hours|
 |Stage 1: active phase|Dilation: 6 → 10 cm & Descent: 0 → +2|2 cm/h (abnormal if < 0.7 cm/h)|3 cm/h (abnormal if < 1.0 cm/h)|
-|Stage 2|Internal rotation & Extension & External rotation & Expulsion|< 3 hours (+ 1 hour if epidural)|< 2 hours (+ 1 hour if epidural)|
+|Stage 2|Internal rotation & Extension & External rotation & Expulsion|< 3 hours<br>< 4 hours if epidural|< 2 hours<br>< 3 hours if epidural)|
 |Stage 3|Expulsion of the umbilical cord & placenta|< 30 minutes|< 30 minutes|
 
 ## Indications of Intrapartum Prophylaxis Against GBS
