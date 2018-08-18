@@ -21,7 +21,7 @@
             <h1>Struts</h1>
         </div>
         <div id="content" class="card-body">
-            <h3>Login Information</h3><br/>
+            <h2>Login Information</h2><br/>
             <decorator:body/>
         </div>
         <div id="footer" class="card-footer">
