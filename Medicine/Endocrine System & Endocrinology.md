@@ -273,7 +273,7 @@
 |GLP-1 analogs|↑ Insulin & ↓ Glucagon|Exenatide|DM type 2|
 |||Liraglutide|DM type 2|
 |DPP-4 inhibitors|↑ Insulin & ↓ Glucagon|Gliptins|DM type 2|
-|Amylin analog|↓ Glucagon|Pramlintide|DM|
+|Amylin analogs|↓ Glucagon|Pramlintide|DM|
 |AMPK inducers|↑ Insulin sensitivity|Biguanide :: Metformin|DM type 2|
 |PPAR-γ inducers|↑ Insulin sensitivity|Thiazolidinedione (Glitazones)|DM type 2|
 |α-Glucosidase inhibitors|-|Acarbose & Miglitol|DM type 2|
