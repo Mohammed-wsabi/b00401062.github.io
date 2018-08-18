@@ -95,7 +95,7 @@ public final class main_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("            <h1>Struts</h1>\r\n");
       out.write("        </div>\r\n");
       out.write("        <div id=\"content\" class=\"card-body\">\r\n");
-      out.write("            <h3>Login Information</h3><br/>\r\n");
+      out.write("            <h2>Login Information</h2><br/>\r\n");
       out.write("            ");
       if (_jspx_meth_decorator_body_0(_jspx_page_context))
         return;
