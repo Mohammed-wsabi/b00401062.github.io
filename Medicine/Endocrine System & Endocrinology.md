@@ -258,26 +258,26 @@
 
 ## Mechanisms of Action of Medications for Diabetes Mellitus
 
-|Mechanism|Medication|Indications|
+|Mechanism|Effects|Medication|Indications|
 |-|-|-|
-|Insulin :: rapid acting|Lispro & Aspart & Glulisine|DM|
-|Insulin :: short acting|Regular insulin|DM|
-|Insulin :: intermediate acting|NPH insulin|DM|
-|Insulin :: long acting|Glargine & Detemir|DM|
-|K channel blockers: ↑ Insulin release|1° Sulfonylurea: Tolbutamide|DM type 2|
-||1° Sulfonylurea: Chlorpropamide|DM type 2|
-||2° Sulfonylurea: Glimepiride|DM type 2|
-||2° Sulfonylurea: Glipizide|DM type 2|
-||2° Sulfonylurea: Glyburide|DM type 2|
-||Glinides|DM type 2|
-|GLP-1 analogs: ↑ Insulin & ↓ Glucagon|Exenatide|DM type 2|
-||Liraglutide|DM type 2|
-|DPP-4 inhibitors: ↑ insulin & ↓ glucagon|Gliptins|DM type 2|
-|Amylin analog: ↓ glucagon release|Pramlintide|DM|
-|AMPK inducers: ↑ insulin sensitivity|Biguanide: Metformin|DM type 2|
-|PPAR-γ inducers: ↑ insulin sensitivity|Thiazolidinedione: Glitazones|DM type 2|
-|α-Glucosidase inhibitors|Acarbose & Miglitol|DM type 2|
-|SGLT-2 inhibitors|Gliflozins|DM type 2|
+|Insulin :: rapid acting|↑ Insulin|Lispro & Aspart & Glulisine|DM|
+|Insulin :: short acting|↑ Insulin|Regular insulin|DM|
+|Insulin :: intermediate acting|↑ Insulin|NPH insulin|DM|
+|Insulin :: long acting|↑ Insulin|Glargine & Detemir|DM|
+|K channel blockers|↑ Insulin|1° Sulfonylurea :: Tolbutamide|DM type 2|
+|||1° Sulfonylurea :: Chlorpropamide|DM type 2|
+|||2° Sulfonylurea :: Glimepiride|DM type 2|
+|||2° Sulfonylurea :: Glipizide|DM type 2|
+|||2° Sulfonylurea :: Glyburide|DM type 2|
+|||Glinides|DM type 2|
+|GLP-1 analogs|↑ Insulin & ↓ Glucagon|Exenatide|DM type 2|
+|||Liraglutide|DM type 2|
+|DPP-4 inhibitors|↑ insulin & ↓ glucagon|Gliptins|DM type 2|
+|Amylin analog|↓ glucagon|Pramlintide|DM|
+|AMPK inducers|↑ insulin sensitivity|Biguanide :: Metformin|DM type 2|
+|PPAR-γ inducers|↑ insulin sensitivity|Thiazolidinedione :: Glitazones|DM type 2|
+|α-Glucosidase inhibitors|-|Acarbose & Miglitol|DM type 2|
+|SGLT-2 inhibitors|-|Gliflozins|DM type 2|
 
 ## Mechanisms of Action of Medications for Hyperlipidemia [OECSNF]
 
