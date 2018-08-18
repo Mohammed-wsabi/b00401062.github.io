@@ -16,15 +16,15 @@
     <decorator:head/>
 </head>
 <body id="page-home" class="container-fluid">
-    <div id="page" class="card card-default">
-        <div id="header" class="card card-header">
+    <div id="page" class="card">
+        <div id="header" class="card-header">
             <h1>Struts</h1>
         </div>
-        <div id="content" class="card card-body">
+        <div id="content" class="card-body">
             <h3>Login Information</h3><br/>
             <decorator:body/>
         </div>
-        <div id="footer" class="card card-footer">
+        <div id="footer" class="card-footer">
             Please contact <a href="mailto:b00401062@ntu.edu.tw">b00401062@ntu.edu.tw</a> if you have any advice or wish any additional features regarding this app.
         </div>
     </div>
