@@ -10,8 +10,8 @@
 ||LH & FSH & ACTH & TSH|
 ||Calcitonin & PTH & Glucagon|
 |G<sub>i</sub>PCR|D<sub>2</sub>|
-|Receptor tyrosine kinase (RTK): JAK/STAT|PRL & GH & Cytokines|
-|Intrinsic tyrosine kinase (ITK): AMPK|Insulin & GF|
+|Receptor tyrosine kinase (RTK): AMPK pathway|Insulin & GF|
+|Non-receptor tyrosine kinase (NRTK): JAK/STAT pathway|GH & PRL & Cytokines|
 |Steroid receptor|TH & SH & Cortisol & Aldosterone|
 
 ## Hypothalamic-Pituitary Axises

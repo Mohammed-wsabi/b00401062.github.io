@@ -9,7 +9,7 @@
 |Yolk sac|Vitelline duct|Meckel's diverticulum|AFP|
 |Allantois|Allantoic duct|Urachal diverticulum|AFP|
 
-## Ectoderm: Surface Ectoderm
+## Ectoderm :: Surface Ectoderm
 
 - Anterior pituitary = Adenohypophysis
 - Epidermis
@@ -18,9 +18,9 @@
 - Sensory organ
 - Salivary gland
 - Sweat gland
-- Urethra: penile
+- Urethra :: penile
 
-## Ectoderm: Neuroectoderm
+## Ectoderm :: Neuroectoderm
 
 - Astrocyte
 - CNS neuron
@@ -33,7 +33,7 @@
 - Retina
 - Skull bone
 
-## Ectoderm: Neural Crest
+## Ectoderm :: Neural Crest
 
 - Aorticopulmonary septum
 - Adrenal medulla
@@ -70,7 +70,7 @@
 - Thyroid follicular cell
 - Urogenital sinus
 - Urinary bladder
-- Urethra: prostatic & membranous
+- Urethra :: prostatic & membranous
 
 ## Branchial Apparatus [CAP]
 

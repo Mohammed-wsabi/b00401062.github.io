@@ -261,8 +261,8 @@
 |G<sub>q</sub>PCR|M1 & M3 & α<sub>1</sub> & H1|
 |G<sub>s</sub>PCR|β<sub>1</sub> & β<sub>2</sub> & D<sub>1</sub> & H2 & 5-HT|
 |G<sub>i</sub>PCR|M2 & α<sub>2</sub> & D<sub>2</sub> & GABA-B & Opioid|
-|Receptor tyrosine kinase (RTK): JAK/STAT|-|
-|Intrinsic tyrosine kinase (ITK): AMPK|-|
+|Receptor tyrosine kinase (RTK): AMPK pathway|-|
+|Non-receptor tyrosine kinase (NRTK): JAK/STAT pathway|-|
 |Steroid receptor|-|
 
 ## Neurotransmitters & Breakdown Products [AND-SHE-GGGO]
