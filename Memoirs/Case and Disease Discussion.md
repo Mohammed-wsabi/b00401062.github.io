@@ -19,7 +19,7 @@
 - [Past History (PH)](#past-history-ph)
 - [Social and Sexual History (SH)](#social-and-sexual-history-sh)
 - [Family History (FH)](#family-history-fh)
-- [Physical Examination](#physical-examination)
+- [Physical Examination (PE)](#physical-examination-pe)
 - [Differential Diagnosis](#differential-diagnosis)
 - [Laboratory](#laboratory)
 - [Radiology](#radiology)
@@ -141,7 +141,7 @@
 
 ---
 
-### Physical Examination
+### Physical Examination (PE)
 
 - General:
 - Skin:
