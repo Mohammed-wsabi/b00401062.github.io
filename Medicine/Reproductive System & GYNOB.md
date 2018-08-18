@@ -25,15 +25,15 @@
 
 ## Ligaments of Uterus and Ovary
 
-|Ligament|Contents|
+|Ligament|Connects|Contents|
 |-|-|
-|Broad ligament|Fallopian tubes|
-|Round ligament|Gubernaculum|
-|Pubocervical ligament|-|
-|Cardinal ligament = Transverse cervical ligament|Uterine vessels|
-|Uterosacral ligament|Inferior hypogastric plexus|
-|Ovarian ligament|Gubernaculum|
-|Suspensory ligament = Infundibulopelvic ligament|Ovarian vessels|
+|Broad ligament|Uterus ~ Pelvis|-|
+|Round ligament|Uterus ~ Labia majora|Gubernaculum|
+|Ovarian ligament|Uterus ~ Ovary|Gubernaculum|
+|Infundibulopelvic (Suspensory) ligament|Ovary ~ Pelvis :: lateral|Ovarian vessels|
+|Pubocervical ligament|Cervix ~ Pubis|-|
+|Cardinal ligament|Cervix ~ Pelvis :: lateral|Uterine vessels|
+|Uterosacral ligament|Cervix ~ Sacrum|Inferior hypogastric plexus|
 
 ![](../Figures/Ligaments%20of%20Uterus%20and%20Ovary.png)
 
