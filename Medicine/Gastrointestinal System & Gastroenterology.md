@@ -123,15 +123,19 @@
 - Fever
 - Jaundice
 
-## Etiologies of Gastritis
+## Etiologies of Gastritis [BANISH]
 
-||Etiology|Disease|
-|-|-|-|
-|Infectious|Helicobacter pylori|Chronic gastritis type B|
-|Drug|NSAIDs|Acute gastritis|
-|Autoimmune|Autoimmune gastritis|Chronic gastritis type A|
-|Trauma|Burns|Acute gastritis: Curling ulcer|
-|Trauma|Brain injury|Acute gastritis: Cushing ulcer|
+- Biliary reflux
+- Burns → Curling ulcer
+- Brain injury → Cushing ulcer
+- Alcohol
+- Autoimmunity → Autoimmune gastritis
+- NSAIDs
+- Ischemia
+- Steroids
+- Smoking
+- Stress
+- Helicobacter pylori
 
 ## Presentations of Appendicitis [PROM]
 
