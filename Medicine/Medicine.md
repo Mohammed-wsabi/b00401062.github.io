@@ -12,34 +12,6 @@
 - Traumatic & Toxin
 - Endocrine & Exocrine
 
-## History Taking
-
-- Chief complaint (CC)
-- History of present illness (HPI)
-- Review of systems (ROS)
-- GYNOB history
-- Birth history
-- Past history (PH)
-- Social & Sexual history (SH)
-- Family history (FH)
-
-## History of Present Illness (HPI) [SSS-TCF]
-
-- Symptoms [LQQ-OPERA]
-	- Location
-	- Quantity
-	- Quality
-	- Onset
-	- Precipitating
-	- Exacerbating
-	- Relieving
-	- Accompanying
-- Similar episodes
-- Sick contacts
-- Treatments
-- Compliance
-- Follow-ups
-
 ## Review of Systems (ROS)
 
 |System|Symptoms|
