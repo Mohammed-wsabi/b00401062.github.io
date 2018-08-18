@@ -206,18 +206,13 @@ function click_submit() {
 		answer = err.message;
 		err_flag = true;
 	}
-	let li1 = document.createElement("li");
-	li1.className = "list-group-item";
-	li1.innerHTML = line;
-	let li2 = document.createElement("li");
-	li2.className = "list-group-item";
-	li2.innerHTML = answer;
+	let tr = document.createElement("tr");
+	tr.innerHTML = `<td>${line}</td><td>${answer}`;
 	if (err_flag) {
-		li2.className += " error";
+		tr.className = "table-danger";
 	}
-	let show = document.getElementById('show');
-	show.insertBefore(li2, show.childNodes[0]);
-	show.insertBefore(li1, show.childNodes[0]);
+	let table = document.getElementById('table');
+	table.appendChild(tr);
 	document.getElementById("line").value = '';
 }
 
