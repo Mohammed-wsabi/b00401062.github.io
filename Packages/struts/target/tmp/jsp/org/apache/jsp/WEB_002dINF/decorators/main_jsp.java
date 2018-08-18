@@ -90,18 +90,18 @@ public final class main_jsp extends org.apache.jasper.runtime.HttpJspBase
       out.write("\r\n");
       out.write("</head>\r\n");
       out.write("<body id=\"page-home\" class=\"container-fluid\">\r\n");
-      out.write("    <div id=\"page\" class=\"card card-default\">\r\n");
-      out.write("        <div id=\"header\" class=\"card card-header\">\r\n");
+      out.write("    <div id=\"page\" class=\"card\">\r\n");
+      out.write("        <div id=\"header\" class=\"card-header\">\r\n");
       out.write("            <h1>Struts</h1>\r\n");
       out.write("        </div>\r\n");
-      out.write("        <div id=\"content\" class=\"card card-body\">\r\n");
+      out.write("        <div id=\"content\" class=\"card-body\">\r\n");
       out.write("            <h3>Login Information</h3><br/>\r\n");
       out.write("            ");
       if (_jspx_meth_decorator_body_0(_jspx_page_context))
         return;
       out.write("\r\n");
       out.write("        </div>\r\n");
-      out.write("        <div id=\"footer\" class=\"card card-footer\">\r\n");
+      out.write("        <div id=\"footer\" class=\"card-footer\">\r\n");
       out.write("            Please contact <a href=\"mailto:b00401062@ntu.edu.tw\">b00401062@ntu.edu.tw</a> if you have any advice or wish any additional features regarding this app.\r\n");
       out.write("        </div>\r\n");
       out.write("    </div>\r\n");
