@@ -270,12 +270,12 @@
 ||2° Sulfonylurea: Glipizide|DM type 2|
 ||2° Sulfonylurea: Glyburide|DM type 2|
 ||Glinides|DM type 2|
-|GLP-1 analogs: ↑ Insulin release & ↓ Glucagon|Exenatide|DM type 2|
+|GLP-1 analogs: ↑ Insulin & ↓ Glucagon|Exenatide|DM type 2|
 ||Liraglutide|DM type 2|
-|↓ Glucagon & ↑ Insulin release: DPP-4 inhibitors|Gliptins|DM type 2|
-|↓ Glucagon release: Amylin analog|Pramlintide|DM|
-|↑ Insulin sensitivity: AMPK inducers|Biguanide: Metformin|DM type 2|
-|↑ Insulin sensitivity: PPAR-γ inducers|Thiazolidinedione: Glitazones|DM type 2|
+|DPP-4 inhibitors: ↑ insulin & ↓ glucagon|Gliptins|DM type 2|
+|Amylin analog: ↓ glucagon release|Pramlintide|DM|
+|AMPK inducers: ↑ insulin sensitivity|Biguanide: Metformin|DM type 2|
+|PPAR-γ inducers: ↑ insulin sensitivity|Thiazolidinedione: Glitazones|DM type 2|
 |α-Glucosidase inhibitors|Acarbose & Miglitol|DM type 2|
 |SGLT-2 inhibitors|Gliflozins|DM type 2|
 
