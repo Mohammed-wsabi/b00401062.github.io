@@ -126,14 +126,15 @@
 ## Etiologies of Gastritis [BANISH]
 
 - Biliary reflux
-- Burns → Curling ulcer
 - Brain injury → Cushing ulcer
+- Burns → Curling ulcer
+- Achlorhydria
 - Alcohol
 - Autoimmunity → Autoimmune gastritis
 - NSAIDs
 - Ischemia
-- Steroids
 - Smoking
+- Steroids
 - Stress
 - Helicobacter pylori
 
