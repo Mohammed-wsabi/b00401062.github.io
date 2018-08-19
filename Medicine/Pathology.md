@@ -245,8 +245,8 @@
 |BRAF|Melanoma|Serine/Threonine kinase (STK)|
 |BCR-ABL|CML|Tyrosine kinase|
 |C-KIT|Gastrointestinal stromal tumor (GIST)|Tyrosine kinase|
-|HER1 = ERBB1 = EGFR|Colon & Lung cancer|Tyrosine kinase|
-|HER2 = ERBB2 = NEU|Breast cancer|Tyrosine kinase|
+|EGFR (HER1)|Colon & Lung cancer|Tyrosine kinase|
+|HER2 (NEU)|Breast cancer|Tyrosine kinase|
 |RET|MEN 2A & 2B|Tyrosine kinase|
 |C-MYC|Burkitt lymphoma|Transcription factor|
 |L-MYC|Lung cancer|Transcription factor|
