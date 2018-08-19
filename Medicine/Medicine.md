@@ -69,7 +69,7 @@
 |Cortical|Aphasia & Agnosia|
 |Cerebellar|Finger-to-nose & Heel-to-shin & Dysdiadochokinesia & Romberg test & Gait|
 |Motor :: extrapyramidal|Cogwheel rigidity & Postural instability & Gait|
-|Motor :: pyramidal|Muscle power (MP) & Deep tendon reflex (DTR) & Primitive reflex (PR) :: Hoffmann sign & Babinski sign|
+|Motor :: pyramidal|Muscle power (MP) & Deep tendon reflex (DTR) & Primitive reflex (PR): Hoffmann sign & Babinski sign|
 |Sensory|Proprioception & Touch & Pressure & Temperature & Pain|
 |**Psychiatric**|MMSE & MSE|
 
