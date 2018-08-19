@@ -14,8 +14,8 @@
 |Mnemonic|Vitamin|Derivatives|
 |-|-|-|
 |Try|Thiamin (B<sub>1</sub>)|Thiamine pyrophosphate (TPP)|
-|Remembering|Riboflavin (B<sub>2</sub>)|Flavin adenine dinucleotide (FAD) & Flavin mononucleotide (FMN)|
-|Not|Niacin (B<sub>3</sub>)|Nicotinamide adenine dinucleotide (NAD) & Nicotinamide adenine dinucleotide phosphate (NADP)|
+|Remembering|Riboflavin (B<sub>2</sub>)|Flavin adenine dinucleotide (FAD)<br>Flavin mononucleotide (FMN)|
+|Not|Niacin (B<sub>3</sub>)|Nicotinamide adenine dinucleotide (NAD)<br>Nicotinamide adenine dinucleotide phosphate (NADP)|
 |P|Pantothenate (B<sub>5</sub>)|CoA|
 |P|Pyridoxine (B<sub>6</sub>)|Pyridoxal phosphate (PLP)|
 |But|Biotin (B<sub>7</sub>)|-|
@@ -65,16 +65,18 @@
 |9 & 12|Methionine synthase|Homocystinuria & Megaloblastic anemia|
 |12|Methylmalonyl-CoA mutase|Methylmalonic acidemia & Subacute combined degeneration|
 
-## Presentations of Vitamin B Deficiency
+## Presentations of Vitamin Deficiency
 
-|Deficiency|Presentations|
+|Vitamin|Presentations|
 |-|-|
+|A|Night blindness & Xeroderma|
 |B<sub>1</sub>|Dry beriberi & Wet beriberi & Wernicke-Korsakoff syndrome|
 |B<sub>2</sub> [2C]|Cheliosis & Corneal vascularization|
 |B<sub>3</sub> [3D]|Diarrhea & Dementia & Dermatitis :: pellagra|
 |B<sub>6</sub>|Homocystinuria & Sideroblastic anemia & Peripheral neuropathy|
 |B<sub>9</sub>|Homocystinuria & Megaloblastic anemia & Hypersegmented PMN|
 |B<sub>12</sub>|Homocystinuria & Megaloblastic anemia & Hypersegmented PMN & Methylmalonic acidemia & Subacute combined degeneration|
+|C|Scurvy|
 
 ## Etiologies of Vitamin B<sub>9</sub> Deficiency
 
