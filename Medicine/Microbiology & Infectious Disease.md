@@ -259,10 +259,10 @@
 - Streptococcus pneumoniae
 - Haemophilus influenzae
 - Neisseria meningitidis
-- Escherichia coli :: K capsule
+- Escherichia coli: K capsule
 - Klebsiella pneumonia
 - Pseudomonas aeruginosa
-- Salmonella typhi :: Vi capsule
+- Salmonella typhi: Vi capsule
 
 ## Catalase Positive Bacteria
 
@@ -641,12 +641,12 @@
 
 - Giardia lamblia
 - Bacillus cereus
-- Staphylococcus aureus :: heat-stable
+- Staphylococcus aureus: heat-stable
 - Clostridium difficile
 - Cryptosporidium
 - Adenovirus
 - Vibrio cholerae
-- ETEC :: heat-stable & heat-labile
+- ETEC: heat-stable & heat-labile
 - Rotavirus
 - Norovirus
 

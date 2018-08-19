@@ -377,7 +377,7 @@
 ||Nitrate|
 |-|Oxygen|
 
-### Heart failure (HF) :: decompensated [LMNOP]
+### Heart failure (HF) :: Decompensated [LMNOP]
 
 |Mechanism|Medication|
 |-|-|
@@ -387,7 +387,7 @@
 |-|Oxygen|
 |-|Position|
 
-### Heart failure (HF) :: compensated [ABDV]
+### Heart failure (HF) :: Compensated [ABDV]
 
 |Mechanism|Medication|
 |-|-|

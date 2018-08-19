@@ -334,7 +334,7 @@
 
 ## Amino Acids
 
-### Hydrophobic :: aliphatic [GAVLIP]
+### Hydrophobic :: Aliphatic [GAVLIP]
 
 |Mnemonic|Abbrevation|Amino acid|
 |-|-|-|
@@ -345,7 +345,7 @@
 |I|I|Isoleucine|
 |P|P|Proline|
 
-### Hydrophobic :: aromatic
+### Hydrophobic :: Aromatic
 
 |Mnemonic|Abbrevation|Amino acid|
 |-|-|-|
@@ -353,7 +353,7 @@
 |For|F|Phenylalanine|
 |You|Y|Tyrosine|
 
-### Hydrophilic :: positive
+### Hydrophilic :: Positive-charged
 
 |Mnemonic|Abbrevation|Amino acid|
 |-|-|-|
@@ -361,14 +361,14 @@
 |Ren|R|Arginine|
 |Ka|K|Lysine|
 
-### Hydrophilic :: negative
+### Hydrophilic :: Negative-charged
 
 |Mnemonic|Abbrevation|Amino acid|
 |-|-|-|
 |D|D|Aspartate|
 |E|E|Glutamate|
 
-### Hydrophilic :: uncharged
+### Hydrophilic :: Uncharged
 
 |Mnemonic|Abbrevation|Amino acid|
 |-|-|-|

@@ -241,7 +241,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|GnRH agonists|Leuprolide :: pulsatle|Infertility|
+|GnRH agonists|Leuprolide :: pulsatile|Infertility|
 |GnRH antagonists|Leuprolide :: continuous|Prostate cancer|
 |Estrogen agonists|Diethylstilbestrol (DES)|HRT & OCP|
 ||Mestranol|HRT & OCP|
