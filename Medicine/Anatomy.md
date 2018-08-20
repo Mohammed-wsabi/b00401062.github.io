@@ -553,13 +553,13 @@
 |**Superior gluteal artery**|Gluteus & Tensor fascia lata|
 |**Inferior gluteal artery**|Gluteus maximus|
 |**Obturator artery**|Medial compartment of thigh|
-|**Middle rectal artery**|Rectum & Ureter & Prostate & Vagina|
-|**Inferior vesical artery**|Bladder & Ureter & Prostate|
-|**Vaginal artery**|Bladder & Ureter & Vagina|
+|**Uterine artery**|Fallopian tube & Uterus|
 |**Deferential artery**|Vas deferens & Seminal vesicle|
-|**Uterine artery**|Uterine tube & Uterus|
-|**Umbilical artery**||
+|**Umbilical artery**|Medial umbilical ligament|
 |Superior vesical artery|Bladder & Ureter|
+|**Vaginal artery**|Bladder & Ureter & Vagina|
+|**Inferior vesical artery**|Bladder & Ureter & Prostate|
+|**Middle rectal artery**|Rectum & Ureter & Vagina & Prostate|
 |**Internal pudendal artery**||
 |Inferior rectal artery|Rectum|
 |Perineal artery|Perineum & Scrotum & Labia majora|
