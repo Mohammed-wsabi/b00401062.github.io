@@ -42,11 +42,11 @@
 |α<sub>2</sub>|↓|↓|↓|
 |β<sub>1</sub>|↑ (1°)|-|↑|
 |β<sub>2</sub>|↑|↓ (1°)|↓|
-|Dopamine: D > β<sub>1</sub> > α<sub>1</sub>|↑ (1°)|↑|↑|
+|Dopamine: D > β<sub>1</sub> > α<sub>1</sub>|↑ (1°)|-|↑|
 |Dobutamine: β<sub>1</sub> > β<sub>2</sub>|↑ (1°)|↓|↑|
 |Norepinephrine: α<sub>1</sub> > β<sub>1</sub>|-|↑ (1°)|↑|
-|Epinephrine: β > α<sub>1</sub>|↑ (1°)|↓|↑|
-|Isoproterenol: β|↑ (1°)|↓ (1°)|↓|
+|Epinephrine: β > α<sub>1</sub>|↑ (1°)|-|↑|
+|Isoproterenol: β|↑ (1°)|↓ (1°)|-|
 
 ## Stroke Volume is Influenced by [CAP]
 
