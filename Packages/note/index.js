@@ -4,8 +4,9 @@ function generate() {
 	let gender = document.querySelector("input[name='gender']:checked").value;
 	let pronoun = gender == "female" ? "she" : "he";
 	let management = document.getElementById("management").value;
-	let problem = document.getElementById("problem").value;
-	document.getElementById("output").innerHTML = `This is a ${year}-year-old ${gender}. ${capitalize(pronoun)} presents ${management? "for " + management : ""} ${problem? "for " + problem : ""}.`;
+	let complaint = document.getElementById("complaint").value;
+	let diagnosis = document.getElementById("diagnosis").value;
+	document.getElementById("output").innerHTML = `The patient is a ${year? year + "-year-" : ""}${month? month + "-month-" : ""}old ${gender}. ${capitalize(pronoun)} presents${management? " for " + management : ""} for ${complaint? complaint : ""}${complaint && diagnosis? " with " : ""}${diagnosis}.`;
 }
 
 function capitalize(s) {
