@@ -1,27 +1,27 @@
 # Reproductive System & GYNOB
 
-## Urogenital Counterparts in Males & Females
+## Urogenital Embryonic Origins
 
-|Male|Primordial|Female|
+|Primordial|Female|Male|
 |-|-|-|
-|-|Gubernaculum|Ovarian & Round ligament|
-|Tunica vaginalis|Processus vaginalis|-|
-|Testis|Indifferent gonad|Ovary|
-|Leydig cell|Indifferent gonad|Theca cell|
-|Sertoli cell|Indifferent gonad|Granulosa cell|
-|Mesonephric duct|Mesoderm|Paramesonephric duct|
-|Wolffian duct|Mesoderm|Mullerian duct|
-|Epididymis|Wolffian & Mullerian duct|Frimbriae|
-|Vas deferens|Wolffian & Mullerian duct|Fallopian tube|
-|Seminal vesicle|Wolffian & Mullerian duct|Uterus|
-|Ejaculatory duct|Wolffian & Mullerian duct|Upper vagina|
-|Prostatic utricle|Urogenital sinus|Lower vagina|
-|Prostate gland|Urogenital sinus|Paraurethral gland of Skene|
-|Bulbourethral gland of Cowper|Urogenital sinus|Greater vestibular gland of Bartholin|
-|Dorsal penile shaft|Urogenital fold|Mons pubis|
-|Ventral penile shaft|Urogenital fold|Labia minora|
-|Scrotum|Labioscrotal swelling|Labia majora|
-|Penis|Genital tubercle|Clitoris|
+|Gubernaculum|Ovarian & Round ligament|-|
+|Processus vaginalis|-|Tunica vaginalis|
+|Indifferent gonad|Ovary|Testis|
+||Theca cell|Leydig cell|
+||Granulosa cell|Sertoli cell|
+|Mesoderm|Paramesonephric duct|Mesonephric duct|
+||Mullerian duct|Wolffian duct|
+|Mullerian & Wolffian duct|Frimbriae|Epididymis|
+||Fallopian tube|Vas deferens|
+||Uterus|Seminal vesicle|
+||Upper vagina|Ejaculatory duct|
+|Urogenital sinus|Lower vagina|Prostatic utricle|
+||Paraurethral gland of Skene|Prostate gland|
+||Greater vestibular gland of Bartholin|Bulbourethral gland of Cowper|
+|Urogenital fold|Mons pubis|Dorsal penile shaft|
+||Labia minora|Ventral penile shaft|
+|Labioscrotal swelling|Labia majora|Scrotum|
+|Genital tubercle|Clitoris|Penis|
 
 ## Ligaments of Uterus and Ovary
 
