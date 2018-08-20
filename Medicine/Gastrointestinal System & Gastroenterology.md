@@ -43,8 +43,8 @@
 |Transverse abdominal muscle|-|
 |Internal oblique muscle|Cremaster muscle|
 |External oblique muscle|External spermatic fascia|
-|Scarpa's fascia|-|
-|Camper's fascia|Darto's fascia|
+|Scarpa's fascia|Dartos' fascia|
+|Camper's fascia|-|
 |Skin|Skin|
 
 ## Gastrointestinal Secretion
