@@ -303,3 +303,11 @@
 ### Gastric Reconstruction Following Total Gastrectomy
 
 ![](../Figures/Gastric%20Reconstruction%20Following%20Total%20Gastrectomy.jpg)
+
+## Types of Bariatric Surgery
+
+- Vertical banded gastroplasty (VBG)
+- Laparoscopic adjustable gastric band (LAGB)
+- Sleeve gastrectomy
+- Biliopancreatic diversion
+- Roux-en-Y gastric bypass (RYGB)
