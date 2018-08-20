@@ -138,6 +138,12 @@
 - Stress
 - Helicobacter pylori
 
+## Brochardt Triad of Gastric Volvulus
+
+- Intermittent epigastric pain and distention
+- Inability to vomit
+- Difficult passage of nasogastric (NG) tube
+
 ## Presentations of Appendicitis [PROM]
 
 - Psoas sign
