@@ -268,3 +268,30 @@
 ||Droperidol|Prokinetics|
 |5-HT<sub>4</sub> agonists|Cisapride|Prokinetics|
 |Motilin agonists|Erythromycin|Prokinetics|
+
+## Types of Gastrectomy
+
+- Local (Wedge) resection
+- Sleeve gastrectomy
+- Proximal gastrectomy
+- Segmental (Pylorus-preserving) gastrectomy
+- Distal gastrectomy
+- Total gastrectomy
+
+## Gastric Reconstruction Following Gastrectomy
+
+### Gastric Reconstruction Following Proximal Gastrectomy
+
+![](../Figures/Gastric%20Reconstruction%20Following%20Proximal%20Gastrectomy.jpg)
+
+### Gastric Reconstruction Following Segmental Gastrectomy
+
+![](../Figures/Gastric%20Reconstruction%20Following%20Segmental%20Gastrectomy.jpg)
+
+### Gastric Reconstruction Following Distal Gastrectomy
+
+![](../Figures/Gastric%20Reconstruction%20Following%20Distal%20Gastrectomy.jpg)
+
+### Gastric Reconstruction Following Total Gastrectomy
+
+![](../Figures/Gastric%20Reconstruction%20Following%20Total%20Gastrectomy.jpg)
