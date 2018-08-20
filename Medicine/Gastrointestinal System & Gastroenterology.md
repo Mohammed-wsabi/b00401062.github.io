@@ -71,7 +71,7 @@
 - Chemotherapy (CIE)
 - Postoperative (PONY)
 
-## Classification of Diarrhea
+## Etiologies of Diarrhea
 
 - Osmotic
 - Secretory
@@ -102,7 +102,7 @@
 - Ascites
 - Hepatomegaly
 
-## Classification of Hyperbilirubinemia & Jaundice
+## Etiologies of Hyperbilirubinemia & Jaundice
 
 ||Indirect|Direct|Mixed|
 |-|-|-|-|
