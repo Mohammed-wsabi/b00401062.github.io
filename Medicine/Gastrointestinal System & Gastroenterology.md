@@ -196,39 +196,6 @@
 
 ![](../Figures/Goodsall%20Rule%20for%20Anal%20Fistula.jpg)
 
-## Criteria for Liver Transplantation for Hepatocellular Carcinoma
-
-### Milan Criteria
-
-- Resectable tumor(s):
-	- 1 tumor: < 5 cm
-	- ≤ 3 tumors: each < 3 cm
-- No vascular invasion
-- No extrahepatic metastasis
-
-### USCF Criteria
-
-- Resectable tumor(s):
-	- 1 tumor: < 6.5 cm
-	- ≤ 3 tumors: each < 4.5 cm & total < 8 cm
-- No vascular invasion
-- No extrahepatic metastasis
-
-## Treatment Algorithm for Hepatocellular Carcinoma (HCC)
-
-- w/o vascular invasion & w/o extrahepatic metastasis
-	- Resectable tumor(s) & Child-Pugh score ≤ B: Resection / RFA ± TACE
-	- Resectable tumor(s): Liver transplant
-	- Non-resectable tumor(s) & Child-Pugh score ≤ B: RFA & TACE
-	- Non-resectable tumor(s) & Child-Pugh score = C: Supportive care
-- w/ vascular invasion / w/ extrahepatic metastasis
-	- Child-Pugh score ≤ B: Chemotherapy
-	- Child-Pugh score = C: Supportive care
-
-## Makuuchi Criteria for Hepatectomy
-
-![](../Figures/Makuuchi%20Criteria%20for%20Hepatectomy.png)
-
 ## Mechanisms of Action of Medications for PUD
 
 |Mechanism|Medication|Indications|
@@ -274,6 +241,50 @@
 ||Droperidol|Prokinetics|
 |5-HT<sub>4</sub> agonists|Cisapride|Prokinetics|
 |Motilin agonists|Erythromycin|Prokinetics|
+
+## Types of Portosystemic Shunts for Portal Hypertension
+
+|Shunt|Portal|System|
+|-|-|-|
+|Splenorenal (Warren) shunt|Splenic vein|Renal vein|
+|Mesocaval H graft|SMV|IVC|
+|Portacaval H graft|Portal vein|IVC|
+|End-to-side portacaval anastomosis|Portal vein|IVC|
+|Side-to-side portacaval anastomosis|Portal vein|IVC|
+|Transjugular intrahepatic portosystemic shunt (TIPS)|Portal vein|Hepatic vein|
+
+## Criteria for Liver Transplantation for Hepatocellular Carcinoma
+
+### Milan Criteria
+
+- Resectable tumor(s):
+	- 1 tumor: < 5 cm
+	- ≤ 3 tumors: each < 3 cm
+- No vascular invasion
+- No extrahepatic metastasis
+
+### USCF Criteria
+
+- Resectable tumor(s):
+	- 1 tumor: < 6.5 cm
+	- ≤ 3 tumors: each < 4.5 cm & total < 8 cm
+- No vascular invasion
+- No extrahepatic metastasis
+
+## Treatment Algorithm for Hepatocellular Carcinoma (HCC)
+
+- w/o vascular invasion & w/o extrahepatic metastasis
+	- Resectable tumor(s) & Child-Pugh score ≤ B: Resection / RFA ± TACE
+	- Resectable tumor(s): Liver transplant
+	- Non-resectable tumor(s) & Child-Pugh score ≤ B: RFA & TACE
+	- Non-resectable tumor(s) & Child-Pugh score = C: Supportive care
+- w/ vascular invasion / w/ extrahepatic metastasis
+	- Child-Pugh score ≤ B: Chemotherapy
+	- Child-Pugh score = C: Supportive care
+
+## Makuuchi Criteria for Hepatectomy
+
+![](../Figures/Makuuchi%20Criteria%20for%20Hepatectomy.png)
 
 ## Whipple Procedure
 
