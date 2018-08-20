@@ -69,12 +69,12 @@
 
 ## Classification of Shocks
 
-|Shock|PCWP|CO|SVR|Treatments|
-|-|-|-|-|-|
-|Hypovolemic|↓ (1°)|↓|↑|Fluids|
-|Cardiogenic|↑|↓ (1°)|↑|Inotropes & Diuretics & Venodilators|
-|Distributive|-|↑|↓ (1°)|Vasopressors|
-|Neurogenic|↓|↓ (1°)|↓ (1°)|Vasopressors|
+|Shock|PCWP|CO|SVR|MAP|Treatments|
+|-|-|-|-|-|-|
+|Hypovolemic|↓ (1°)|↓|↑|↓|Fluids|
+|Cardiogenic|↑|↓ (1°)|↑|↓|Inotropes & Diuretics & Venodilators|
+|Distributive|-|↑|↓ (1°)|↓|Vasopressors|
+|Neurogenic|↓|↓ (1°)|↓ (1°)|↓|Vasopressors|
 
 ## Classification of Hypovolemic Shock
 
