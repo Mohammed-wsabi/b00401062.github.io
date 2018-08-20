@@ -269,6 +269,14 @@
 |5-HT<sub>4</sub> agonists|Cisapride|Prokinetics|
 |Motilin agonists|Erythromycin|Prokinetics|
 
+## Whipple Procedure
+
+- Pancreaticoduodenectomy
+- Gastrojejunostomy
+- Pancreaticojejunostomy
+- Cholangiojejunostomy
+- ± Roux-en-Y reconstruction
+
 ## Types of Gastrectomy
 
 - Local (Wedge) resection
