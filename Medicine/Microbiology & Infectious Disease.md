@@ -810,7 +810,7 @@
 - Endocarditis :: tricuspid valve
 - Ecthyma gangrenosum
 - UTI
-- Drug use
+- Drugs
 - Diabetes
 - Otitis externa
 - Osteomyelitis
@@ -905,7 +905,7 @@
 |↓ DNA synthesis|Topoisomerase|Fluoroquinolone|
 |↑ DNA intercalation|DNA|Metronidazole|
 
-![](../Figures/Mechanisms%20of%20Action%20of%20Antibacterials.png)
+![](../Figures/Mechanisms%20of%20Action%20of%20Antibiotics.png)
 
 ## Classification of Penicillin
 
@@ -968,39 +968,20 @@
 
 ![](../Figures/Mechanisms%20of%20Action%20of%20Antivirals.png)
 
-## Prophylactic Antibiotics for Procedures
+## Side Effects of Antimicrobials
 
-|Pathogen|Antibiotics|
+|Side Effects|Antibiotics|
 |-|-|
-|GPC|1° Cephalosporins|
-|MRSA|Vancomycin|
-|Enterococcus|Ampicillin-Sulbactam (Unasyn)|
-|GNR :: intestinal|2° Cephalosporins / Aminoglycosides|
-|GNR :: urinary|Fluoroquinolones / TMP-SMX (Co-trimoxazole)|
-|Anaerobes|Clindamycin / Metronidazole|
+|Nephrotoxicity|Cephalosporin & Vancomycin & Aminoglycoside|
+|Ototoxicity|Vancomycin & Aminoglycoside|
+|Photosensitivity|Tetracycline & Sulfonamide|
+|Bone & Cartilage toxicity|Tetracycline & Fluoroquinolone|
+|Marrow toxicity|Chloramphenicol & Trimethoprim|
+|QT prolongation|Macrolide & Fluoroquinolone|
 
-## Empiric Treatment for Pneumonia
+## Targeted Antibiotics
 
-|Patient|Drug|
-|-|-|
-|CAP & ≤ 65 y/o & Healthy & w/o antibiotic use ≤ 3 months|Macrolide<br>Doxycycline|
-|CAP & (> 65 y/o / Commorbid / Antibiotic use ≤ 3 months)|Amoxicillin & (Macrolide / Doxycycline)<br>Fluoroquinolone|
-|CAP & Hospitalization|Anti-pneumococcal β-lactam & Macrolide<br>Fluoroquinolone|
-|CAP & ICU|Anti-pseudomonal β-lactam & (Macrolide / Fluoroquinolone)|
-|HAP|Anti-pseudomonal β-lactam & Fluoroquinolone|
-
-## Empiric Treatment for Meningitis
-
-|Patient|Drug|
-|-|-|
-|≤ 1 month|Ampicillin & (Cefotaxime / Gentamicin)|
-|1 ~ 3 months|3° Cephalosporin & Vancomycin|
-|3 months ~ adulthood|3° Cephalosporin & Vancomycin|
-|≥ 60 years / Alcoholism / Commorbid|Ampicillin & 3° Cephalosporin & Vancomycin|
-
-## Targeted Treatment
-
-|Pathogens|Antibacterials|
+|Pathogens|Antibiotics|
 |-|-|
 |Staphylococcus aureus|Penicillinase-resistant penicillin|
 |MRSA|Ceftaroline & Vancomycin & Linezolid & Teicoplanin|
@@ -1030,32 +1011,40 @@
 |Rickettsia|Tetracycline & Macrolide|
 |Spirochete|Penicillin & Tetracycline|
 
-## Triple Therapy for Helicobacter Pylori Infection [CAP]
+## Triple Therapy for Helicobacter Pylori [CAP]
 
 - Clazithromycin
 - Amoxicillin / Metronidazole
 - Proton pump inhibitors (PPI)
 
-## Side Effects of Antibiotics
+## Prophylactic Antibiotics for Procedures
 
-|Side Effects|Antibacterials|
+|Pathogen|Antibiotics|
 |-|-|
-|Nephrotoxicity|Cephalosporin & Vancomycin & Aminoglycoside|
-|Ototoxicity|Vancomycin & Aminoglycoside|
-|Photosensitivity|Tetracycline & Sulfonamide|
-|Bone & Cartilage toxicity|Tetracycline & Fluoroquinolone|
-|Marrow toxicity|Chloramphenicol & Trimethoprim|
-|QT prolongation|Macrolide & Fluoroquinolone|
+|GPC|1° Cephalosporins|
+|MRSA|Vancomycin|
+|Enterococcus|Ampicillin-Sulbactam (Unasyn)|
+|GNR :: intestinal|2° Cephalosporins / Aminoglycosides|
+|GNR :: urinary|Fluoroquinolones / TMP-SMX (Co-trimoxazole)|
+|Anaerobes|Clindamycin / Metronidazole|
 
-## Antibiotics to Avoid in Pregnancy
+## Empiric Antibiotics for Pneumonia
 
-|Mnemonic|Antibiotics|Adverse Effects|
-|-|-|-|
-|S|Sulfonamide|Kernicterus|
-|A|Aminoglycoside|Ototoxicity|
-|F|Fluoroquinolone|Bone & Cartilage toxicity|
-|Children|Clarithromycin|Embryotoxic|
-|Take|Tetracycline|Bone & Cartilage toxicity|
-|Really|Ribavirin|Teratogenic|
-|Good|Griseofulvin|Teratogenic|
-|Care|Chloramphenicol|Gray baby syndrome|
+|Patient|Antibiotics|
+|-|-|
+|CAP & ≤ 65 y/o & Healthy & w/o antibiotic use ≤ 3 months|Macrolide<br>Doxycycline|
+|CAP & (> 65 y/o / Commorbid / Antibiotic use ≤ 3 months)|Amoxicillin & (Macrolide / Doxycycline)<br>Fluoroquinolone|
+|CAP & Hospitalization|Anti-pneumococcal β-lactam & Macrolide<br>Fluoroquinolone|
+|CAP & ICU|Anti-pseudomonal β-lactam & (Macrolide / Fluoroquinolone)|
+|HAP|Anti-pseudomonal β-lactam & Fluoroquinolone|
+
+## Empiric Antibiotics for Urinary Tract Infection (UTI)
+
+## Empiric Antibiotics for Meningitis
+
+|Patient|Antibiotics|
+|-|-|
+|≤ 1 month|Ampicillin & (Cefotaxime / Gentamicin)|
+|1 ~ 3 months|3° Cephalosporin & Vancomycin|
+|3 months ~ adulthood|3° Cephalosporin & Vancomycin|
+|≥ 60 years / Alcoholism / Commorbid|Ampicillin & 3° Cephalosporin & Vancomycin|
