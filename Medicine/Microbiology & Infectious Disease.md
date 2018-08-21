@@ -48,7 +48,7 @@
 |Haemophilus|-|Chocolate|
 |Legionella|Silver|Charcoal yeast|
 
-### Gram-Negative Rods (GNR) :: Enteric [SEEK-P-PSSY]
+### Gram-Negative Rods (GNR) :: Enteric [SEEK-PA-SSPY]
 
 |Bacteria|Stain|Culture|
 |-|-|-|
@@ -57,9 +57,10 @@
 |Enterobacter|-|MacConkey|
 |Klebsiella|-|MacConkey|
 |Pseudomonas|-|-|
-|Proteus|-|-|
+|Acinetobacter|-|-|
 |Salmonella|-|-|
 |Shigella|-|-|
+|Proteus|-|-|
 |Yersinia|-|-|
 
 ### Gram-Negative :: Curved
@@ -113,7 +114,7 @@
 |GAS :: Streptococcus pyogenes|Bacitracin|S|
 |GBS :: Streptococcus agalactiae|Bacitracin|R|
 
-## Classification of Enteric Gram Negative Rods [SEEK-P-PSSY]
+## Classification of Enteric Gram Negative Rods [SEEK-PA-SSPY]
 
 |Bacteria|Lactose Fermentation|Oxidase|
 |-|-|-|
@@ -122,9 +123,10 @@
 |Enterobacter|+|-|
 |Klebsiella|+|-|
 |Pseudomonas|-|+|
-|Proteus|-|-|
+|Acinetobacter|-|-|
 |Salmonella|-|-|
 |Shigella|-|-|
+|Proteus|-|-|
 |Yersinia|-|-|
 
 ## Stain & Culture Techniques
@@ -863,17 +865,17 @@
 
 ## Mechanisms of Action of Antibiotics
 
-### Cell Wall Inhibitors
+### Cell Wall Inhibitors [PCCMG]
 
 |Mechanism|Targets|Mnemonic|Medication|
 |-|-|-|-|
-|↓ Peptidoglycan crosslinking|Penicillin binding protein|Panacea|Penicillin|
-|↓ Peptidoglycan crosslinking|Penicillin binding protein|Can|Cephalosporin|
-|↓ Peptidoglycan crosslinking|Penicillin binding protein|Murder|Monobactam|
-|↓ Peptidoglycan crosslinking|Penicillin binding protein|Crazy|Carbapenem|
-|↓ Peptidoglycan synthesis|Peptidoglycan|Germs|Glycopeptide|
+|↓ Peptidoglycan crosslinking|Penicillin binding protein|Primary|Penicillin|
+|↓ Peptidoglycan crosslinking|Penicillin binding protein|Critical|Cephalosporin|
+|↓ Peptidoglycan crosslinking|Penicillin binding protein|Care|Carbapenem|
+|↓ Peptidoglycan crosslinking|Penicillin binding protein|Medical|Monobactam|
+|↓ Peptidoglycan synthesis|Peptidoglycan|Group|Glycopeptide|
 
-### Protein Inhibitors
+### Protein Inhibitors [AT-LCMC]
 
 |Mechanism|Targets|Mnemonic|Medication|
 |-|-|-|-|
@@ -927,11 +929,27 @@
 |4°|Cefepime|
 |5°|Ceftaroline|
 
+## Anti-pseudomonal β-Lactams
+
+- Penicillin :: Piperacillin & Ticarcillin
+- Cephalosporin :: Ceftazidime & Cefoperazone & Cefepime
+- Carbapenem :: Imipenem & Meropenem & Doripenem
+- Monobactam
+
 ## β-Lactamase Inhibitors
 
 - Clavulanate
 - Sulbactam
 - Tazobactam
+
+## Combinations of β-Lactam and β-Lactamase Inhibitor
+
+|Brand|β-Lactam|β-Lactamase|
+|-|-|-|
+|Unasyn|Ampicillin|Sulbactam|
+|Augmentin|Amoxicillin|Clavulanate|
+|Tazocin|Piperacillin|Tazobactam|
+|Brosym|Cefoperazone|Sulbactam|
 
 ## Spectrum of Antibiotics (1)
 
@@ -985,7 +1003,7 @@
 |Pathogens|Antibiotics|
 |-|-|
 |Staphylococcus aureus|Penicillinase-resistant penicillin|
-|MRSA|Ceftaroline & Vancomycin & Linezolid & Teicoplanin|
+|MRSA|Ceftaroline & Vancomycin & Linezolid & Polymyxin|
 |Streptococcus pneumoniae|Penicillin & Amoxicillin & 3° Cephalosporin & Macrolide|
 |GAS :: Streptococcus pyogenes|Penicillin & Clindamycin|
 |GBS :: Streptococcus agalactiae|Penicillin & Clindamycin|
@@ -1004,13 +1022,16 @@
 |Bordetella pertussis|Macrolide|
 |Haemophilus influenzae|Amoxicillin & Cefotetan|
 |Legionella pneumophilia|Macrolide|
-|Pseudomonas aeruginosa|Anti-pseudomonal β-lactam & Aztreonam & Carbapenem & Fluoroquinolone|
-|Bacteroides fragilis|Clindamycin & Metronidazole|
-|Intestinal GNR|Cefotetan & Fluoroquinolone & Trimethoprim & Sulfonamide|
+|Pseudomonas aeruginosa|Anti-pseudomonal β-lactams & Fluoroquinolone|
+|Acinetobacter baumannii|Anti-pseudomonal β-lactams|
+|MDRAB|Tigecycline & Polymyxin|
+|GNR :: enteric|Cefotetan & Fluoroquinolone & Trimethoprim & Sulfonamide|
+|ESBL|Carbapenem & Polymyxin|
 |Helicobacter pylori|Amoxicillin & Macrolide & Metronidazole|
 |Chlamydia|Tetracycline & Macrolide|
 |Rickettsia|Tetracycline & Macrolide|
 |Spirochete|Penicillin & Tetracycline|
+|Bacteroides fragilis|Clindamycin & Metronidazole|
 
 ## Triple Therapy for Helicobacter Pylori [CAP]
 
@@ -1025,8 +1046,8 @@
 |GPC|1° Cephalosporins|
 |MRSA|Vancomycin|
 |Enterococcus|Ampicillin-Sulbactam (Unasyn)|
-|GNR :: intestinal|2° Cephalosporins / Aminoglycosides|
-|GNR :: urinary|TMP-SMX (Co-trimoxazole) / Fluoroquinolones|
+|GNR :: GI|2° Cephalosporins / Aminoglycosides|
+|GNR :: GU|TMP-SMX (Co-trimoxazole) / Fluoroquinolones|
 |Anaerobes|Clindamycin / Metronidazole|
 
 ## Empiric Antibiotics for Pneumonia
@@ -1035,9 +1056,9 @@
 |-|-|
 |CAP & Uncomplicated|Macrolide<br>Doxycycline|
 |CAP & Complicated|Amoxicillin & (Macrolide / Doxycycline)<br>Fluoroquinolone|
-|CAP & Inpatient|Anti-pneumococcal β-lactam & Macrolide<br>Fluoroquinolone|
-|CAP & ICU|Anti-pseudomonal β-lactam & (Macrolide / Fluoroquinolone)|
-|HAP|Anti-pseudomonal β-lactam & Fluoroquinolone|
+|CAP & Inpatient|Anti-pneumococcal β-lactams & Macrolide<br>Fluoroquinolone|
+|CAP & ICU|Anti-pseudomonal β-lactams & (Macrolide / Fluoroquinolone)|
+|HAP|Anti-pseudomonal β-lactams & Fluoroquinolone|
 
 ### Complicated Patients
 
@@ -1069,4 +1090,4 @@
 |≤ 1 month|Ampicillin & (Cefotaxime / Gentamicin)|
 |1 ~ 3 months|3° Cephalosporin & Vancomycin|
 |3 months ~ 60 years|3° Cephalosporin & Vancomycin|
-|≥ 60 years / Alcoholism / Commorbid|Ampicillin & 3° Cephalosporin & Vancomycin|
+|≥ 60 years / Complicated|Ampicillin & 3° Cephalosporin & Vancomycin|
