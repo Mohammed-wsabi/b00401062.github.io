@@ -353,7 +353,7 @@
 ||Fomepizole|Methanol antidote|
 |ALDH inhibitors|Disulfiram|Alcohol cessation|
 
-## Mechanisms of Action of Antimicrobial and Anticancer Drugs
+## Mechanisms of Action of Antimicrobial and Anticancer Medications
 
 |Mechanism|Targets|Species|
 |-|-|-|
@@ -371,7 +371,7 @@
 
 ### Cell Wall Inhibitors
 
-|Drugs|Mechanism|Targets|Species|
+|Medication|Mechanism|Targets|Species|
 |-|-|-|-|
 |Penicillin|↓ Peptidoglycan crosslinking|Penicillin binding protein|Bacterium|
 |Cephalosporin|↓ Peptidoglycan crosslinking|Penicillin binding protein|Bacterium|
@@ -384,9 +384,10 @@
 
 ### Cell Membrane Inhibitors
 
-|Drugs|Mechanism|Targets|Species|
+|Medication|Mechanism|Targets|Species|
 |-|-|-|-|
 |Daptomycin|↑ Cell membrane damage|-|Bacterium|
+|Polymyxin|↑ Cell membrane damage|-|Bacterium|
 |Amphotericin B|↑ Cell membrane damage|Ergosterol|Fungus|
 |Nystatin|↑ Cell membrane damage|Ergosterol|Fungus|
 |Terbinafine|↓ Ergosterol synthesis|Squalene epoxidase|Fungus|
@@ -394,7 +395,7 @@
 
 ### Metabolite Inhibitors
 
-|Drugs|Mechanism|Targets|Species|
+|Medication|Mechanism|Targets|Species|
 |-|-|-|-|
 |Ribavirin|↓ Purine synthesis|IMP dehydrogenase|Virus|
 |Mycophenolate|↓ Purine synthesis|IMP dehydrogenase|Human|
@@ -412,7 +413,7 @@
 
 ### Microtubule Inhibitors
 
-|Drugs|Mechanism|Targets|Species|
+|Medication|Mechanism|Targets|Species|
 |-|-|-|-|
 |Benzimidazole|↓ Microtubule assembly|Microtubule|Parasite|
 |Griseofulvin|↓ Microtubule assembly|Microtubule|Fungus|
@@ -422,7 +423,7 @@
 
 ### DNA Inhibitors
 
-|Drugs|Mechanism|Targets|Species|
+|Medication|Mechanism|Targets|Species|
 |-|-|-|-|
 |Fluoroquinolone|↓ DNA synthesis|Topoisomerase|Bacterium|
 |Tecans|↓ DNA synthesis|Topoisomerase 1|Human|
@@ -448,7 +449,7 @@
 
 ### RNA Inhibitors
 
-|Drugs|Mechanism|Targets|Species|
+|Medication|Mechanism|Targets|Species|
 |-|-|-|-|
 |Rifampin|↓ RNA synthesis|RNA polymerase|Mycobacterium|
 |Dactinomycin|↓ RNA synthesis|RNA polymerase|Human|
@@ -456,7 +457,7 @@
 
 ### Protein Inhibitors
 
-|Drugs|Mechanism|Targets|Species|
+|Medication|Mechanism|Targets|Species|
 |-|-|-|-|
 |IFN-α|↓ Protein synthesis|-|Virus|
 |Aminoglycoside|↓ Protein synthesis|30S ribosome :: initiation complex|Bacterium|
@@ -503,7 +504,7 @@
 
 ![](../Figures/Target%20Therapy.png)
 
-## Drugs Causing QT Prolongation [ABCDE]
+## Medications Causing QT Prolongation [ABCDE]
 
 - Antiarrhythmics :: class 1A & 3
 - Antibiotics :: Macrolide & Fluoroquinolone
@@ -511,9 +512,9 @@
 - Antidepressants :: TCA
 - Antiemetics :: Ondansetron
 
-## Drugs Causing Agranulocytosis
+## Medications Causing Agranulocytosis
 
-|Mnemonic|Drug|
+|Mnemonic|Medication|
 |-|-|
 |Cannot|Carbamazepine|
 |Make|Methimazole|
@@ -522,9 +523,9 @@
 |Cytes|Colchicine|
 |Properly|Propylthiouracil|
 
-## Drugs Causing Aplastic Anemia
+## Medications Causing Aplastic Anemia
 
-|Mnemonic|Drug|
+|Mnemonic|Medication|
 |-|-|
 |Cannot|Carbamazepine|
 |Make|Methimazole|
@@ -533,14 +534,14 @@
 |Cells|Chloramphenicol|
 |Properly|Propylthiouracil|
 
-## Drugs Causing Megaloblastic Anemia
+## Medications Causing Megaloblastic Anemia
 
 - Methotrexate
 - Phenytoin
 - Sulfa drugs
 - Trimethoprim
 
-## Drugs Causing Hemolysis in G6PD Deficiency [IS-D-PAIN]
+## Medications Causing Hemolysis in G6PD Deficiency [IS-D-PAIN]
 
 - Isoniazid
 - Sulfonamide
@@ -550,19 +551,19 @@
 - Ibuprofen
 - Nitrofurantoin
 
-## Drugs Causing Osteoporosis
+## Medications Causing Osteoporosis
 
 - Corticosteroid
 - Heparin
 
-## Drugs Causing Photosensitivity
+## Medications Causing Photosensitivity
 
 - Sulfonamide
 - Amiodarone
 - Tetracycline
 - Flucytosine
 
-## Drugs Causing SLE-like Syndrome [HIPPIES]
+## Medications Causing SLE-like Syndrome [HIPPIES]
 
 - Hydralazine
 - Isoniazid
@@ -572,36 +573,36 @@
 - Etanercept
 - Sulfa drugs
 
-## Drugs Causing Seizures
+## Medications Causing Seizures
 
 - Bupropion
 - Enflurane
 - Imipenem
 - Isoniazid
 
-## Drugs Causing Parkinson-like Syndrome [RAM]
+## Medications Causing Parkinson-like Syndrome [RAM]
 
 - Reserpine
 - Antipsychotics
 - Metoclopramide
 
-## Drugs Causing Disulfiram-like Reaction
+## Medications Causing Disulfiram-like Reaction
 
 - Griseofulvin
 - Metronidazole
 - Procarbazine
 - Sulfonylurea
 
-## Drugs Causing Nephrotoxicity & Ototoxicity
+## Medications Causing Nephrotoxicity & Ototoxicity
 
 - Aminoglycoside
 - Cisplatin
 - Loop diuretics
 - Vancomycin
 
-## Drugs Causing Gynecomastia
+## Medications Causing Gynecomastia
 
-|Mnemonic|Drug|
+|Mnemonic|Medication|
 |-|-|
 |Some|Spironolactone|
 |Drugs|Digoxin|
@@ -609,15 +610,15 @@
 |Awesome|Alcohol|
 |Knockers|Ketoconazole|
 
-## Drugs Causing SIADH
+## Medications Causing SIADH
 
-|Mnemonic|Drug|
+|Mnemonic|Medication|
 |-|-|
 |Cannot|Carbamazepine|
 |Concentrate|Cyclophosphamide|
 |Sodium|SSRI|
 
-## Drugs Following Zero-order Elimination [APE]
+## Medications Following Zero-order Elimination [APE]
 
 - Aspirin
 - Phenytoin
