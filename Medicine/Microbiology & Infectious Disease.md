@@ -921,8 +921,8 @@
 |Generation|Penicillin|
 |-|-|
 |1°|Cefazolin & Cephalexin|
-|2°|Cefotetan & Cefoxitin & Cefaclor & Cefuroxime|
-|3°|Ceftriaxone & Cefotaxime & Ceftazidime|
+|2°|Cefotetan & Cefoxitin & Cefaclor & Cefuroxime & Cefmetazole|
+|3°|Ceftriaxone & Cefotaxime & Cefixime & Ceftazidime & Cefoperazone|
 |4°|Cefepime|
 |5°|Ceftaroline|
 
@@ -1022,7 +1022,7 @@
 |Bordetella pertussis|Macrolide|
 |Haemophilus influenzae|Amoxicillin & Cefotetan|
 |Legionella pneumophilia|Macrolide|
-|Pseudomonas aeruginosa|Anti-pseudomonal penicillin & Ceftazidime & Cefepime & Aztreonam & Carbapenem & Fluoroquinolone|
+|Pseudomonas aeruginosa|Anti-pseudomonal penicillin & Ceftazidime & Cefoperazone & Cefepime & Aztreonam & Carbapenem & Fluoroquinolone|
 |Bacteroides fragilis|Clindamycin & Metronidazole|
 |Intestinal GNR|Cefotetan & Fluoroquinolone & Trimethoprim & Sulfonamide|
 |Helicobacter pylori|Amoxicillin & Macrolide & Metronidazole|
