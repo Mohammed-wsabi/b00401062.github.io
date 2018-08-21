@@ -92,11 +92,11 @@ function generate() {
 	h3.innerText = "### Treatments"
 	out.appendChild(h3);
 
-	li = document.createElement("div");
+	li = document.createElement("li");
 	li.innerText = `Chinese medicine: denied`
 	out.appendChild(li);
 
-	li = document.createElement("div");
+	li = document.createElement("li");
 	li.innerText = `Supplements: denied`
 	out.appendChild(li);
 
