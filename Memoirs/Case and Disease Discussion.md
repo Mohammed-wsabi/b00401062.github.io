@@ -185,8 +185,6 @@
 - [Epidemiology](#epidemiology)
 - [Presentation](#presentation)
 - [Etiologies](#etiologies)
-- [Classification](#classification)
-- [Pathology](#pathology)
 - [Assessment](#assessment)
 - [Diagnosis](#diagnosis)
 - [Management](#management)
@@ -203,14 +201,6 @@
 ---
 
 ### Etiologies
-
----
-
-### Classification
-
----
-
-### Pathology
 
 ---
 
