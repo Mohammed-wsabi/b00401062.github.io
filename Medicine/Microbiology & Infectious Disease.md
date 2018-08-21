@@ -662,13 +662,13 @@
 
 ## Pathogens of Urinary Tract Infection (UTI)
 
-- Staphylococcus saprophyticus
+- Serratia marcescens
 - Escherichia coli
 - Enterobacter cloacae
 - Klebsiella pneumoniae
 - Pseudomonas aeruginosa
 - Proteus mirabilis
-- Serratia marcescens
+- Staphylococcus saprophyticus
 - Candida
 
 ## Pathogens of Genital Tract Infection
@@ -1039,6 +1039,11 @@
 |HAP|Anti-pseudomonal β-lactam & Fluoroquinolone|
 
 ## Empiric Antibiotics for Urinary Tract Infection (UTI)
+
+|Patient|Antibiotics|
+|-|-|
+|Uncomplicated|
+|Complicated|
 
 ## Empiric Antibiotics for Meningitis
 
