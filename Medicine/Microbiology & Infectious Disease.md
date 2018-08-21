@@ -921,8 +921,9 @@
 |Generation|Penicillin|
 |-|-|
 |1°|Cefazolin & Cephalexin|
-|2°|Cefotetan & Cefoxitin & Cefaclor & Cefuroxime & Cefmetazole|
-|3°|Ceftriaxone & Cefotaxime & Cefixime & Ceftazidime & Cefoperazone|
+|2°|Cefaclor & Cefotetan & Cefoxitin & Cefuroxime & Cefmetazole|
+|3° :: Non-anti-pseudomonal|Ceftriaxone & Cefotaxime & Cefixime & Cefpodoxime & Ceftibuten|
+|3° :: Anti-pseudomonal|Ceftazidime & Cefoperazone|
 |4°|Cefepime|
 |5°|Ceftaroline|
 
@@ -1003,7 +1004,7 @@
 |Bordetella pertussis|Macrolide|
 |Haemophilus influenzae|Amoxicillin & Cefotetan|
 |Legionella pneumophilia|Macrolide|
-|Pseudomonas aeruginosa|Anti-pseudomonal penicillin & Ceftazidime & Cefoperazone & Cefepime & Aztreonam & Carbapenem & Fluoroquinolone|
+|Pseudomonas aeruginosa|Anti-pseudomonal β-lactam & Aztreonam & Carbapenem & Fluoroquinolone|
 |Bacteroides fragilis|Clindamycin & Metronidazole|
 |Intestinal GNR|Cefotetan & Fluoroquinolone & Trimethoprim & Sulfonamide|
 |Helicobacter pylori|Amoxicillin & Macrolide & Metronidazole|
@@ -1025,25 +1026,41 @@
 |MRSA|Vancomycin|
 |Enterococcus|Ampicillin-Sulbactam (Unasyn)|
 |GNR :: intestinal|2° Cephalosporins / Aminoglycosides|
-|GNR :: urinary|Fluoroquinolones / TMP-SMX (Co-trimoxazole)|
+|GNR :: urinary|TMP-SMX (Co-trimoxazole) / Fluoroquinolones|
 |Anaerobes|Clindamycin / Metronidazole|
 
 ## Empiric Antibiotics for Pneumonia
 
 |Patient|Antibiotics|
 |-|-|
-|CAP & ≤ 65 y/o & Healthy & w/o antibiotic use ≤ 3 months|Macrolide<br>Doxycycline|
-|CAP & (> 65 y/o / Commorbid / Antibiotic use ≤ 3 months)|Amoxicillin & (Macrolide / Doxycycline)<br>Fluoroquinolone|
-|CAP & Hospitalization|Anti-pneumococcal β-lactam & Macrolide<br>Fluoroquinolone|
+|CAP & Uncomplicated|Macrolide<br>Doxycycline|
+|CAP & Complicated|Amoxicillin & (Macrolide / Doxycycline)<br>Fluoroquinolone|
+|CAP & Inpatient|Anti-pneumococcal β-lactam & Macrolide<br>Fluoroquinolone|
 |CAP & ICU|Anti-pseudomonal β-lactam & (Macrolide / Fluoroquinolone)|
 |HAP|Anti-pseudomonal β-lactam & Fluoroquinolone|
+
+### Complicated Patients
+
+- Age > 65 y/o
+- Antibiotics within 3 months
+- Commorbid
 
 ## Empiric Antibiotics for Urinary Tract Infection (UTI)
 
 |Patient|Antibiotics|
 |-|-|
-|Uncomplicated|
-|Complicated|
+|Uncomplicated & Child|3° Cephalosporin|
+|Uncomplicated & Adult|Nitrofurantoin / TMP-SMX / Fluoroquinolone|
+|Uncomplicated & Pregnant|Nitrofurantoin / Amoxicillin|
+|Complicated|Fluoroquinolone|
+|Inpatient|Ceftriaxone / Piperacillin-Tazobactam (Tazocin) / Fluoroquinolones|
+|ICU|Carbapenem & Vancomycin|
+
+### Complicated Patients
+
+- Temperature > 38°C
+- Costovertebral angle tenderness
+- Pain :: pelvic / perineal
 
 ## Empiric Antibiotics for Meningitis
 
@@ -1051,5 +1068,5 @@
 |-|-|
 |≤ 1 month|Ampicillin & (Cefotaxime / Gentamicin)|
 |1 ~ 3 months|3° Cephalosporin & Vancomycin|
-|3 months ~ adulthood|3° Cephalosporin & Vancomycin|
+|3 months ~ 60 years|3° Cephalosporin & Vancomycin|
 |≥ 60 years / Alcoholism / Commorbid|Ampicillin & 3° Cephalosporin & Vancomycin|
