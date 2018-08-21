@@ -17,19 +17,19 @@ function generate() {
 	out.appendChild(div);
 
 	div = document.createElement("div");
-	div.innerText = `He/She complains of **.`
+	div.innerText = `${capitalize(pronoun)} complains of **.`
 	out.appendChild(div);
 
 	div = document.createElement("div");
-	div.innerText = `He/She denies **.`
+	div.innerText = `${capitalize(pronoun)} denies **.`
 	out.appendChild(div);
 
 	div = document.createElement("div");
-	div.innerText = `He/She presented to Dr. **'s outpatient clinic on **.`
+	div.innerText = `${capitalize(pronoun)} presented to Dr. **'s outpatient clinic on **.`
 	out.appendChild(div);
 
 	div = document.createElement("div");
-	div.innerText = `Due to the diagnosis/suspicion of/for **, he/she is admitted for **.`
+	div.innerText = `Due to the ${diagnosis}, ${pronoun} is admitted for ${management}.`
 	out.appendChild(div);
 
 	h2 = document.createElement("h2");
@@ -53,7 +53,7 @@ function generate() {
 	out.appendChild(li);
 
 	li = document.createElement("li");
-	li.innerText = `Vaccinations: as schedule`
+	li.innerText = `Vaccinations: UTD`
 	out.appendChild(li);
 
 	h2 = document.createElement("h2");
@@ -121,7 +121,7 @@ function generate() {
 	out.appendChild(li);
 
 	li = document.createElement("li");
-	li.innerText = `Occupation:`
+	li.innerText = `Occupation: nil`
 	out.appendChild(li);
 
 	h2 = document.createElement("h2");
