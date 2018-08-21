@@ -1030,11 +1030,10 @@
 |Rickettsia|Tetracycline & Macrolide|
 |Spirochete|Penicillin & Tetracycline|
 
-## Triple Therapy for Helicobacter Pylori Infection [MCAP]
+## Triple Therapy for Helicobacter Pylori Infection [CAP]
 
-- Metronidazole
 - Clazithromycin
-- Amoxicillin
+- Amoxicillin / Metronidazole
 - Proton pump inhibitors (PPI)
 
 ## Side Effects of Antibiotics
