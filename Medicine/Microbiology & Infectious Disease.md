@@ -1047,7 +1047,7 @@
 |MRSA|Vancomycin|
 |Enterococcus|Ampicillin-Sulbactam (Unasyn)|
 |GNR :: GI|2° Cephalosporins / Aminoglycosides|
-|GNR :: GU|TMP-SMX (Co-trimoxazole) / Fluoroquinolones|
+|GNR :: GU|TMP-SMX / Fluoroquinolones|
 |Anaerobes|Clindamycin / Metronidazole|
 
 ## Empiric Antibiotics for Pneumonia
