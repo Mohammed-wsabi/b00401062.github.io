@@ -32,18 +32,6 @@ function generate() {
 	div.innerText = `Due to the diagnosis/suspicion of/for **, he/she is admitted for **.`
 	out.appendChild(div);
 
-	h3 = document.createElement("h3");
-	h3.innerText = "### Current Medications"
-	out.appendChild(h3);
-
-	div = document.createElement("div");
-	div.innerText = `Chinese medicine: denied`
-	out.appendChild(div);
-
-	div = document.createElement("div");
-	div.innerText = `Supplements: denied`
-	out.appendChild(div);
-
 	h2 = document.createElement("h2");
 	h2.innerText = "## Birth History"
 	out.appendChild(h2);
@@ -98,6 +86,18 @@ function generate() {
 
 	li = document.createElement("li");
 	li.innerText = `Food: denied`
+	out.appendChild(li);
+
+	h3 = document.createElement("h3");
+	h3.innerText = "### Treatments"
+	out.appendChild(h3);
+
+	li = document.createElement("div");
+	li.innerText = `Chinese medicine: denied`
+	out.appendChild(li);
+
+	li = document.createElement("div");
+	li.innerText = `Supplements: denied`
 	out.appendChild(li);
 
 	h2 = document.createElement("h2");
