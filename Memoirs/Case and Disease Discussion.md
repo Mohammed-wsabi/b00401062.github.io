@@ -19,8 +19,8 @@
 - [Past History (PH)](#past-history-ph)
 - [Social and Sexual History (SH)](#social-and-sexual-history-sh)
 - [Family History (FH)](#family-history-fh)
-- [Physical Examination (PE)](#physical-examination-pe)
 - [Differential Diagnosis](#differential-diagnosis)
+- [Physical Examination (PE)](#physical-examination-pe)
 - [Laboratory](#laboratory)
 - [Radiology](#radiology)
 - [Pathology](#pathology)
@@ -141,6 +141,10 @@
 
 ---
 
+### Differential Diagnosis
+
+---
+
 ### Physical Examination (PE)
 
 - General:
@@ -153,10 +157,6 @@
 - Extremities:
 - Neurological:
 - Psychiatric:
-
----
-
-### Differential Diagnosis
 
 ---
 
@@ -182,13 +182,20 @@
 
 ## Disease Discussion
 
+- [Etiologies](#etiologies)
 - [Epidemiology](#epidemiology)
 - [Presentation](#presentation)
-- [Etiologies](#etiologies)
-- [Assessment](#assessment)
+- [Differential Diagnosis](#differential-diagnosis)
+- [Approach](#approach)
 - [Diagnosis](#diagnosis)
-- [Management](#management)
+- [Workup](#workup)
+- [Treatments](#treatments)
+- [Summary](#summary)
 - [References](#references)
+
+---
+
+### Etiologies
 
 ---
 
@@ -200,11 +207,11 @@
 
 ---
 
-### Etiologies
+### Differential Diagnosis
 
 ---
 
-### Assessment
+### Approach
 
 ---
 
@@ -212,7 +219,15 @@
 
 ---
 
-### Management
+### Workup
+
+---
+
+### Treatments
+
+---
+
+### Summary
 
 ---
 
