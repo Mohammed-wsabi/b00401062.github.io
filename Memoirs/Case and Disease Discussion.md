@@ -185,7 +185,7 @@
 - [Etiologies](#etiologies)
 - [Epidemiology](#epidemiology)
 - [Presentation](#presentation)
-- [Differential Diagnosis](#differential-diagnosis)
+- [Differential Diagnosis](#differential-diagnosis-1)
 - [Approach](#approach)
 - [Diagnosis](#diagnosis)
 - [Workup](#workup)
