@@ -166,9 +166,13 @@
 - Overriding aorta
 - Ventricular septal defect
 
-## Ventricular Septal Defect
+## Atrial Septal Defects (ASD)
 
-![](../Figures/Ventricular%20Septal%20Defect.png)
+![](../Figures/Atrial%20Septal%20Defects%20(ASD).png)
+
+## Ventricular Septal Defects (VSD)
+
+![](../Figures/Ventricular%20Septal%20Defects%20(VSD).png)
 
 ## Heart Failure
 
