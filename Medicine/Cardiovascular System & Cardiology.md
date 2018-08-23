@@ -168,7 +168,7 @@
 
 ## Atrial Septal Defects (ASD)
 
-![](../Figures/Atrial%20Septal%20Defects%20(ASD).png)
+![](../Figures/Atrial%20Septal%20Defects%20(ASD).jpg)
 
 ## Ventricular Septal Defects (VSD)
 
