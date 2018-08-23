@@ -233,8 +233,8 @@
 ## Whipple Triad of Insulinoma
 
 - Symptoms of hypoglycemia
-- Low level of plasma glucose
-- Relief of symptoms under glucose
+- Fasting hypoglycemia :: < 50 mg/dl
+- Relief of symptoms on IV glucose
 
 ## Mechanisms of Action of Medications Targeting Growth Hormones
 
