@@ -39,14 +39,14 @@
 
 ## Sex Hormone Production
 
-|Sites in Male|Hormones|Sites in Females|
+|Hormones|Sites in Males|Sites in Females|
 |-|-|-|
-|Adrenal gland|Androstenedione|Adrenal gland|
-|Leydig cell|Testosterone ← LH|Theca cell|
-|Sertoli cell|Estradiol & Inhibin ← FSH|Granulosa cell|
-|Adipose cell|Estrone|Adipose cell|
-|Peripheral cell|Dihydrotestosterone (DHT)|-|
-|-|Progesterone ← LH|Luteal cell|
+|Androstenedione|Adrenal gland|Adrenal gland|
+|Testosterone ← LH|Leydig cell|Theca cell|
+|Estradiol & Inhibin ← FSH|Sertoli cell|Granulosa cell|
+|Estrone|Adipose cell|Adipose cell|
+|Dihydrotestosterone (DHT)|Peripheral cell|-|
+|Progesterone ← LH|-|Luteal cell|
 
 ## Hormone Change During Pregnancy
 
