@@ -71,13 +71,13 @@
 
 ## Etiologies of Postoperative Fever [5W]
 
-|Mnemonic|Etiology|
-|-|-|
-|Wound|Surgical site infection (SSI)|
-|Wind|Pneumonia & Atelectasis|
-|Water|Sepsis & UTI|
-|Walking|DVT & PE|
-|Wonder|Drugs|
+|Mnemonic|Etiology|POD|
+|-|-|-|
+|Wind|Pneumonia & Atelectasis|1 ~ 3|
+|Water|Sepsis & UTI|3 ~ 5|
+|Wound|Surgical site infection (SSI)|5 ~ 7|
+|Walking|DVT & PE|> 5|
+|Wonder|Drugs|-|
 
 ## Ventilator Modes
 
