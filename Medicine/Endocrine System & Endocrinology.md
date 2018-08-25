@@ -259,7 +259,7 @@
 ## Mechanisms of Action of Medications for Diabetes Mellitus
 
 |Mechanism|Effects|Medication|Indications|
-|-|-|-|
+|-|-|-|-|
 |Insulin :: rapid acting|↑ Insulin|Lispro & Aspart & Glulisine|DM|
 |Insulin :: short acting|↑ Insulin|Regular insulin|DM|
 |Insulin :: intermediate acting|↑ Insulin|NPH insulin|DM|
