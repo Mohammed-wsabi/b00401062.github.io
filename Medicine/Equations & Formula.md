@@ -18,12 +18,38 @@
 |H|Height (cm)|
 |Age|Age (year)|
 
-## Parkland Formula for Burns
+## Harris-Benedict Adjustment of Energy Expenditure
 
-|Parameter|TBSA × W × 4|
+|Condition|Calorie (BEE)|Protein (g/kg)|
+|-|-|-|
+|Healthy|1.2 BEE|0.8 ~ 1 g/kg|
+|Postoperation|1.3 ~ 1.5 BEE|1.2 ~ 1.6 g/kg|
+|Trauma / Burns|1.6 ~ 2.0 BEE|1.5 ~ 2 g/kg|
+
+## Curreri Formula of Energy Expenditure for Burns
+
+|Parameter|25 × W + 40 × TBSA|
 |-|-|
-|TBSA|Total body surface area (%)|
 |W|Weight (kg)|
+|TBSA|Total body surface area (%)|
+
+## Rate of Fluid Administration
+
+|Weight (kg)|Rate (mL/kg/h)|Rate (mL/kg/d)|
+|-|-|-|
+|< 10|4 mL/kg/h|100 mL/kg/d|
+|10 ~ 20|2 mL/kg/h|50 mL/kg/d|
+|> 20|1 mL/kg/h|20 mL/kg/d|
+
+## Parkland Formula of Fluid Requirements for Burns
+
+|Parameter|W × TBSA × 4|
+|-|-|
+|W|Weight (kg)|
+|TBSA|Total body surface area (%)|
+
+- 1/2 in 1st 8 hours
+- 1/2 in next 16 hours
 
 ## Free Water Deficit (FWD)
 
