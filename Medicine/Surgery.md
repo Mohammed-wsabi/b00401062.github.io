@@ -146,3 +146,7 @@
 |3|Osteomyelitits|
 |4|Localized gangrene|
 |5|Extensive gangrene|
+
+## Wallace Rule of Nines
+
+![](../Figures/Wallace%20Rule%20of%20Nines.jpg)
