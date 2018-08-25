@@ -12,11 +12,18 @@
 
 ### Female
 
-|Parameter| (9.563 × weight, kg) + (1.850 × height, cm) - (4.676 × age) + 655.1|
+|Parameter|(9.563 × W) + (1.850 × H) - (4.676 × Age) + 655.1|
 |-|-|
 |W|Weight (kg)|
 |H|Height (cm)|
 |Age|Age (year)|
+
+## Parkland Formula for Burns
+
+|Parameter|TBSA × W × 4|
+|-|-|
+|TBSA|Total body surface area (%)|
+|W|Weight (kg)|
 
 ## Free Water Deficit (FWD)
 
