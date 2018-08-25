@@ -9,7 +9,9 @@
 |Yolk sac|Vitelline duct|Meckel's diverticulum|AFP|
 |Allantois|Allantoic duct|Urachal diverticulum|AFP|
 
-## Ectoderm :: Surface Ectoderm
+## Ectoderm
+
+### Surface Ectoderm
 
 - Anterior pituitary (Adenohypophysis)
 - Epidermis
@@ -20,7 +22,7 @@
 - Sweat gland
 - Urethra :: penile
 
-## Ectoderm :: Neuroectoderm
+### Neuroectoderm
 
 - Astrocyte
 - CNS neuron
@@ -33,7 +35,7 @@
 - Retina
 - Skull bone
 
-## Ectoderm :: Neural Crest
+### Neural Crest
 
 - Aorticopulmonary septum
 - Adrenal medulla
