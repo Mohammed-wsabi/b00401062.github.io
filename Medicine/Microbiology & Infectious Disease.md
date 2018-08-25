@@ -1027,6 +1027,7 @@
 |MDRAB|Tigecycline & Polymyxin|
 |GNR :: enteric|Cefotetan & Fluoroquinolone & Trimethoprim & Sulfonamide|
 |ESBL|Carbapenem & Polymyxin|
+|CRE|Tigecycline & Polymyxin|
 |Helicobacter pylori|Amoxicillin & Macrolide & Metronidazole|
 |Chlamydia|Tetracycline & Macrolide|
 |Rickettsia|Tetracycline & Macrolide|
