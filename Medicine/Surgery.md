@@ -97,6 +97,19 @@
 |PF Ratio = PaO<sub>2</sub> ÷ FiO<sub>2</sub>|> 400|> 200|
 |Max Inspiratory Pressure|< -90 cm H<sub>2</sub>O|< -25 cm H<sub>2</sub>O|
 
+## Surgical Wound Classification
+
+|Wound|Inflammation|Pus|Flora|Spillage|
+|-|-|-|
+|Clean|-|-|-|-|
+|Clean-contaminated|-|-|+|-|
+|Contaminated|+|-|+|+|
+|Dirty|+|+|+|+|
+
+## Types of Wound Healing
+
+![](../Figures/Wound%20Healing.jpg)
+
 ## Wagner Classification for Diabetic Foot Ulcers
 
 |Stage|Description|
