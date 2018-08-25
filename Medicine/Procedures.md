@@ -28,7 +28,7 @@
 - Unpack the package of syringe, lubricating jelly, Foley catheter
 - Place urinary catheterization kit between the legs and expose the sterile field
 - Put on sterile glove for the dominant hand
-- Pour distilled water into the container
+- Pour distilled water into the sterile container
 - Wet cotton balls with Pvidone-iodine solution
 - Put syringe, lubricating jelly, Foley catheter onto the sterile field
 - Put on sterile glove for the non-dominant hand
