@@ -110,6 +110,33 @@
 
 ![](../Figures/Wound%20Healing.jpg)
 
+## Types of Skin Grafts
+
+![](../Figures/Skin%20Grafts.jpg)
+
+## Types of Flaps
+
+### Blood Supply
+
+- Random
+- Axial
+	- Pedicled
+	- Free
+
+### Proximity
+
+- Local
+- Regional
+- Distant
+
+### Composition
+
+- Skin
+- Muscle
+- Musculocutaneous
+- Fasciocutaneous
+- Osteocutaneous
+
 ## Wagner Classification for Diabetic Foot Ulcers
 
 |Stage|Description|
