@@ -35,7 +35,7 @@
 - Fill the syringe with distilled water
 - Lubricate the Foley catheter with the lubricating jelly
 - Hold the penis with sterile hole drape
-- Clean penis with the cotton balls
+- Clean the penis with the cotton balls
 - Insert the Foley catheter
 - Inject distilled water to secure the Foley catheter in place
 - Connect the Foley catheter with the Foley bag
