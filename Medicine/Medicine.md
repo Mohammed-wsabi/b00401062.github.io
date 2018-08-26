@@ -190,13 +190,27 @@
 |||Sigmoidoscopy with barium enema|Every 5 years|
 |||Fecal occult blood testing|Every year|
 
+## Primary Survey for Emergency Medicine [ABCDE]
+
+- Airway
+- Breathing
+- Circulation
+- Disability
+- Exposure
+
 ## Lethal Triad [CAH]
 
 - Coagulopathy
 - Acidosis
 - Hypothermia
 
-## Causes of Cardiopulmonary Arrest [5H5T]
+## Etiologies of Fever
+
+## Workup of Fever
+
+## Etiologies of Shortness of Breath (SOB)
+
+## Etiologies of Cardiopulmonary Arrest [5H5T]
 
 - Hydrogen ion
 - Hypokalemia & Hyperkalemia
@@ -209,22 +223,14 @@
 - Thrombosis :: pulmonary embolism
 - Toxin
 
-## Causes of Desaturation in Intubated Patients
+## Etiologies of Desaturation in Intubated Patients
 
 - Displacement
 - Obstruction
 - Pneumothorax
 - Equipment failure
 
-## Primary Survey for Emergency Medicine [ABCDE]
-
-- Airway
-- Breathing
-- Circulation
-- Disability
-- Exposure
-
-## Causes of Acute Altered Mental Status [AEIOU-TIPS]
+## Etiologies of Acute Altered Mental Status [AEIOU-TIPS]
 
 - Acidosis & Alcohol
 - Electrolyte disturbances & Epilepsy
