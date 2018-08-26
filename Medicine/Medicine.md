@@ -221,6 +221,27 @@
 
 ## Etiologies of Shortness of Breath (SOB)
 
+- Heart
+	- Pericardium
+	- Myocardium
+	- Endocardium
+	- Coronary arteries
+	- Conduction system
+- Chest
+	- Ribs
+	- Pleura
+		- **Pneumothorax**
+		- **Pleural effusions**
+		- **Hemothorax**
+		- 
+	- Alveoli
+		- **Emphysema**
+		- **Pulmonary edema**
+		- **Pneumonia**
+	- Airways
+	- Vessels
+- Blood
+
 ## Etiologies of Cardiopulmonary Arrest [5H5T]
 
 - Hydrogen ion
