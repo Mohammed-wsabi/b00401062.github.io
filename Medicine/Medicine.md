@@ -206,7 +206,18 @@
 
 ## Etiologies of Fever
 
+- Infection
+- Autoimmunity
+- Neoplasm
+- Drug
+
 ## Workup of Fever
+
+- Complete blood count (CBC)
+- Throat swab ± Sputum culture
+- Chest radiography
+- Urinalysis ± Urine culture
+- Wound inspection
 
 ## Etiologies of Shortness of Breath (SOB)
 
