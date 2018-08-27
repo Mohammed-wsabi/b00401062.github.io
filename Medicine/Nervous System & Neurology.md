@@ -280,6 +280,18 @@
 |GABA|Glutamate|-|
 |Opioid|-|-|
 
+## Craniosynostosis
+
+|Type|Premature Suture|
+|-|-|
+|Trigonocephaly|Metopic|
+|Scaphocephaly (Dolichocephaly)|Sagittal|
+|Brachycephaly|Coronal|
+|Plagiocephaly :: anterior|Unilateral coronal|
+|Plagiocephaly :: posterior|Unilateral lambdoid|
+
+![](../Figures/Craniosynostosis.jpg)
+
 ## Presentations of Horner Syndrome [MAP]
 
 - Miosis
