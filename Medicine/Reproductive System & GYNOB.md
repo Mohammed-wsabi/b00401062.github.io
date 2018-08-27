@@ -167,6 +167,12 @@
 
 ## Bishop Score
 
+- Consistency
+- Dilation
+- Effacement
+- Station
+- Position
+
 ![](../Figures/Bishop%20Score.png)
 
 ## Apgar Score
