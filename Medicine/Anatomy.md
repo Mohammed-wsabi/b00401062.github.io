@@ -20,6 +20,10 @@
 - Loose connective tissue
 - Periosteum
 
+## Brain Sutures and Fontanels
+
+![](../Figures/Brain%20Sutures%20and%20Fontanels.jpg)
+
 ## Orbital Bones
 
 |Mnemonic|Bone|Sinus|
