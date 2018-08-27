@@ -26,7 +26,7 @@
 ## Ligaments of Uterus and Ovary
 
 |Ligament|Connects|Contents|
-|-|-|
+|-|-|-|
 |Broad ligament|Uterus ~ Pelvis|-|
 |Round ligament|Uterus ~ Labia majora|Gubernaculum|
 |Ovarian ligament|Uterus ~ Ovary|Gubernaculum|
@@ -68,68 +68,6 @@
 |Estradiol|Testosterone|Theca cell|Aromatase|Granulosa cell|Non-pregnancy|
 |Estriol|Dehydroepiandrosterone-sulfate (DHEAS)|Fetal adrenal gland|Sulfatase|Placenta|Pregnancy|
 
-## Breast Tumors
-
-|Origin|Tumors|Subtype|
-|-|-|-|
-|Nipple|Paget disease|-|
-|Duct|Fibrocystic change|-|
-||Intraductal papilloma|-|
-||Ductal carcinoma in situ (DCIS)|Comedocarcinoma|
-||Invasive ductal carcinoma (IDC)|Medullary carcinoma|
-|Lobule|Lobular carcinoma in situ (LCIS)|-|
-||Invasive lobular carcinoma (ILC)|-|
-|Stroma|Fibroadenoma|-|
-||Phyllodes tumor|-|
-
-## Germ Cell & Non-germ Cell Tumors
-
-### Germ Cell Tumors
-
-|Male|Female|Markers|
-|-|-|-|
-|Seminoma|Dysgerminoma|ALP & LDH|
-|Embryonal carcinoma|Embryonal carcinoma|hCG & AFP|
-|Teratoma|Teratoma|hCG & AFP|
-|Choriocarcinoma|Choriocarcinoma|hCG|
-|Yolk sac tumor|Yolk sac tumor|AFP|
-
-### Non-germ Cell Tumors
-
-|Male|Female|Markers|
-|-|-|-|
-|Leydig cell tumor|Theca cell tumor (Thecoma)|-|
-|Sertoli cell tumor|Granulosa cell tumor|-|
-
-## Hydatidiform Moles
-
-||Complete Mole|Partial Mole|
-|-|-|-|
-|Karyotype|46,XX & 46,XY|69,XXX & 69,XXY & 69,XYY|
-|hCG|↑↑↑↑|↑|
-|Uterine Size|↑|-|
-|Convert to Choriocarcinoma|2%|Rare|
-|Fetal Parts|-|+|
-|Components|2 sperms & 0 egg|2 sperms & 1 egg|
-
-## Complications of Preterm Delivery [RIP-N-RBC]
-
-- Respiratory distress syndrome (RDS)
-- Intraventricular hemorrhage
-- Patent ductus arteriosus (PDA)
-- Necrotizing enterocolitis (NEC)
-- Retinopathy of prematurity
-- Bronchopulmonary dysplasia
-- Cerebral palsy
-
-## Bishop Score
-
-![](../Figures/Bishop%20Score.png)
-
-## Apgar Score
-
-![](../Figures/Apgar%20Score.jpg)
-
 ## Presentations of Preeclampsia
 
 ### Preeclampsia
@@ -160,34 +98,6 @@
 |EL|Elevated liver enzymes|
 |LP|Low platelet count|
 
-## Stages of Labor
-
-|Stage|Mom & Fetus|Duration in primipara|Duration in multipara|
-|-|-|-|-|
-|Stage 1 :: latent phase|Effacement & Dilation: 0 → 6 cm<br>Engagement & Descent: high → 0|< 20 hours|< 14 hours|
-|Stage 1 :: active phase|Dilation: 6 → 10 cm<br>Descent: 0 → +2|0.7 ~ 2 cm/h|1 ~ 3 cm/h|
-|Stage 2|Internal rotation & Extension & External rotation & Expulsion|< 3 hours<br>< 4 hours if epidural|< 2 hours<br>< 3 hours if epidural|
-|Stage 3|Expulsion of the umbilical cord & placenta|< 30 minutes|< 30 minutes|
-
-## Indications of Intrapartum Prophylaxis Against GBS
-
-- Fever
-- History of GBS-affected neonates
-- Preterm labor
-- Rupture of membranes > 18 hours
-- Urine culture
-- Vaginal culture
-
-## Etiologies of Postpartum Fever
-
-|Mnemonic|Etiology|Postpartum|
-|-|-|-|
-|Wind|Atelectasis|Day 0|
-|Water|Urinary tract infection|Day 1 ~ 2|
-|Womb|Endometritis|Day 2 ~ 3|
-|Wound|Wound infection|Day 4 ~ 5|
-|Walk|Septic thrombophlebitis|Day 5 ~ 6|
-
 ## Etiologies of Abnormal Uterine Bleeding (AUB) [PALM-COEIN]
 
 - Pregnancy
@@ -200,6 +110,40 @@
 - Endometrium
 - Iatrogenic
 - Not yet classified
+
+## Indications of Intrapartum Prophylaxis Against GBS
+
+- Fever
+- History of GBS-affected neonates
+- Preterm labor
+- Rupture of membranes > 18 hours
+- Urine culture
+- Vaginal culture
+
+## Biophysical Profile (BPP)
+
+- Nonstress test (NST)
+- Amniotic fluid volume
+- Fetal gross body movements
+- Fetal extremity tone
+- Fetal breathing movements
+
+## Stages of Labor
+
+|Stage|Mom & Fetus|Duration in primipara|Duration in multipara|
+|-|-|-|-|
+|Stage 1 :: latent phase|Effacement & Dilation: 0 → 6 cm<br>Engagement & Descent: high → 0|< 20 hours|< 14 hours|
+|Stage 1 :: active phase|Dilation: 6 → 10 cm<br>Descent: 0 → +2|0.7 ~ 2 cm/h|1 ~ 3 cm/h|
+|Stage 2|Internal rotation & Extension & External rotation & Expulsion|< 3 hours<br>< 4 hours if epidural|< 2 hours<br>< 3 hours if epidural|
+|Stage 3|Expulsion of the umbilical cord & placenta|< 30 minutes|< 30 minutes|
+
+## Bishop Score
+
+![](../Figures/Bishop%20Score.png)
+
+## Apgar Score
+
+![](../Figures/Apgar%20Score.jpg)
 
 ## Etiologies of Primary Amenorrhea
 
@@ -236,6 +180,50 @@
 - Osteoporosis
 - Cardiovascular disease
 - Sleep disturbances
+
+## Breast Tumors
+
+|Origin|Tumors|Subtype|
+|-|-|-|
+|Nipple|Paget disease|-|
+|Duct|Fibrocystic change|-|
+||Intraductal papilloma|-|
+||Ductal carcinoma in situ (DCIS)|Comedocarcinoma|
+||Invasive ductal carcinoma (IDC)|Medullary carcinoma|
+|Lobule|Lobular carcinoma in situ (LCIS)|-|
+||Invasive lobular carcinoma (ILC)|-|
+|Stroma|Fibroadenoma|-|
+||Phyllodes tumor|-|
+
+## Germ Cell & Non-germ Cell Tumors
+
+### Germ Cell Tumors
+
+|Female|Male|Markers|
+|-|-|-|
+|Dysgerminoma|Seminoma|ALP & LDH|
+|Embryonal carcinoma|Embryonal carcinoma|hCG & AFP|
+|Teratoma|Teratoma|hCG & AFP|
+|Choriocarcinoma|Choriocarcinoma|hCG|
+|Yolk sac tumor|Yolk sac tumor|AFP|
+
+### Non-germ Cell Tumors
+
+|Female|Male|Markers|
+|-|-|-|
+|Theca cell tumor (Thecoma)|Leydig cell tumor|-|
+|Granulosa cell tumor|Sertoli cell tumor|-|
+
+## Hydatidiform Moles
+
+||Complete Mole|Partial Mole|
+|-|-|-|
+|Karyotype|46,XX & 46,XY|69,XXX & 69,XXY & 69,XYY|
+|hCG|↑↑↑↑|↑|
+|Uterine Size|↑|-|
+|Convert to Choriocarcinoma|2%|Rare|
+|Fetal Parts|-|+|
+|Components|2 sperms & 0 egg|2 sperms & 1 egg|
 
 ## Mechanisms of Action of Medications Targeting Sex Hormones
 
