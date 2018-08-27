@@ -120,14 +120,6 @@
 - Urine culture
 - Vaginal culture
 
-## Biophysical Profile (BPP)
-
-- Nonstress test (NST)
-- Amniotic fluid volume
-- Fetal breathing movements
-- Fetal movements
-- Fetal tone
-
 ## Fetal Heart Rate (FHR)
 
 - Acceleration: ↑ 15/min for 15 seconds ~ 2 minutes
@@ -135,6 +127,14 @@
 	- Early deceleration: onset to nadir of > 30 seconds after a uterine contraction
 	- Late deceleration: onset to nadir of > 30 seconds during a uterine contraction
 	- Variable deceleration: ↓ 15/min for 15 seconds ~ 2 minutes & onset to nadir of < 30 seconds
+
+## Biophysical Profile (BPP)
+
+- Nonstress test (NST): > 2 accelerations in 20 minutes
+- Amniotic fluid volume: the deepest vertical pool > 2 cm
+- Fetal breathing movements: breathing of > 30 seconds in 30 minutes
+- Fetal movements: > 3 movements in 30 minutes
+- Fetal tone: extension & flexion in 30 minutes
 
 ## Amniotic Fluid Index (AFI)
 
@@ -150,6 +150,12 @@
 |Stage 1 :: active phase|Dilation: 6 → 10 cm<br>Descent: 0 → +2|0.7 ~ 2 cm/h|1 ~ 3 cm/h|
 |Stage 2|Internal rotation & Extension & External rotation & Expulsion|< 3 hours<br>< 4 hours if epidural|< 2 hours<br>< 3 hours if epidural|
 |Stage 3|Expulsion of the umbilical cord & placenta|< 30 minutes|< 30 minutes|
+
+## Factors Affecting the Duration of Labor [3P]
+
+- Power
+- Passenger
+- Pelvis
 
 ## Bishop Score
 
