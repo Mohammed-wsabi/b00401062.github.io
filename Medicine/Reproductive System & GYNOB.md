@@ -143,6 +143,13 @@
 - Normal: 5 ~ 24 cm
 - Polyhydramnios: > 24 cm
 
+## Sterile Speculum Exam
+
+- Pooling
+- Valsalva
+- Ferning
+- Nitrazine
+
 ## Stages of Labor
 
 |Stage|Mom & Fetus|Duration in primipara|Duration in multipara|
