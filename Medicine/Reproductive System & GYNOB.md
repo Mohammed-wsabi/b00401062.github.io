@@ -73,9 +73,10 @@
 ### Preeclampsia
 
 - BP > 140/90 mmHg
-- Proteinuria :: urine protein ≥ 0.3 g/d
-- Proteinuria :: urine protein/creatinine ratio (UPCR) ≥ 0.3
-- Proteinuria :: dipstick ≥ 1+
+- Proteinuria
+	- Urine protein ≥ 0.3 g/d
+	- Urine protein/creatinine ratio (UPCR) ≥ 0.3
+	- Dipstick ≥ 1+
 
 ### Severe Features
 
