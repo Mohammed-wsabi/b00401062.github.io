@@ -124,9 +124,23 @@
 
 - Nonstress test (NST)
 - Amniotic fluid volume
-- Fetal gross body movements
-- Fetal extremity tone
 - Fetal breathing movements
+- Fetal movements
+- Fetal tone
+
+## Fetal Heart Rate (FHR)
+
+- Acceleration: ↑ 15/min for 15 seconds ~ 2 minutes
+- Decelerations
+	- Early deceleration: onset to nadir of > 30 seconds after a uterine contraction
+	- Late deceleration: onset to nadir of > 30 seconds during a uterine contraction
+	- Variable deceleration: ↓ 15/min for 15 seconds ~ 2 minutes & onset to nadir of < 30 seconds
+
+## Amniotic Fluid Index (AFI)
+
+- Oligohydramnios: < 5 cm / the deepest vertical pool < 2 cm
+- Normal: 5 ~ 24 cm
+- Polyhydramnios: > 24 cm
 
 ## Stages of Labor
 
