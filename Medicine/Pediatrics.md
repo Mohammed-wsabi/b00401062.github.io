@@ -1,6 +1,6 @@
 # Pediatrics
 
-## Leading Causes of Death In Newborns
+## Leading Causes of Death in Newborns
 
 - Congenital anomalies
 - Short gestation age (SGA)
@@ -25,6 +25,25 @@
 |Low (LBW)|1500 ~ 2500 g|
 |Normal (NBW)|2500 ~ 4000 g|
 |High (HBW)|> 4000 g|
+
+## New Ballard Score [HAPPSS]
+
+- Heel to ear
+- Arm recoil
+- Popliteal angle
+- Posture
+- Scarf sign
+- Square window
+
+## Complications of Preterm Delivery [RIP-N-RBC]
+
+- Respiratory distress syndrome (RDS)
+- Intraventricular hemorrhage
+- Patent ductus arteriosus (PDA)
+- Necrotizing enterocolitis (NEC)
+- Retinopathy of prematurity
+- Bronchopulmonary dysplasia
+- Cerebral palsy
 
 ## WAGR Syndrome [WAGR]
 
@@ -60,15 +79,6 @@
 - Cleft palate
 - 1° Hypoparathyroidism → Hypocalcemia
 - 22q11 microdeletion
-
-## New Ballard Score [HAPPSS]
-
-- Heel to ear
-- Arm recoil
-- Popliteal angle
-- Posture
-- Scarf sign
-- Square window
 
 ## Vaccines
 
