@@ -27,7 +27,7 @@
 
 |Ligament|Connects|Contents|
 |-|-|-|
-|Broad ligament|Uterus ~ Pelvis|-|
+|Broad ligament|Uterus ~ Pelvis :: lateral|-|
 |Round ligament|Uterus ~ Labia majora|Gubernaculum|
 |Ovarian ligament|Uterus ~ Ovary|Gubernaculum|
 |Infundibulopelvic (Suspensory) ligament|Ovary ~ Pelvis :: lateral|Ovarian vessels|
