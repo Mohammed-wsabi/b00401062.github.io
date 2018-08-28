@@ -211,6 +211,15 @@
 
 ![](../Figures/Apgar%20Score.jpg)
 
+## Classification of Perineal Lacerations
+
+|Degree|Depth|
+|-|-|
+|1|Submucosa|
+|2|Perineal body|
+|3|Anal sphincter|
+|4|Rectal mucosa|
+
 ## Etiologies of Primary Amenorrhea
 
 |Etiology|Breast|Uterus|
