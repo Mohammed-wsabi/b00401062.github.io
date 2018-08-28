@@ -486,7 +486,7 @@
 	- Deep transverse perineal muscle
 	- External urethral sphincter
 - Superficial perineal pouch
-	- Superficial transverse pernieal muscle
+	- Superficial transverse perineal muscle
 	- Ischiocavernosus
 	- Bulbospongiosus
 
