@@ -155,7 +155,7 @@
 |Stage|Mom & Fetus|Duration in primipara|Duration in multipara|
 |-|-|-|-|
 |Stage 1 :: latent phase|Effacement & Dilation: 0 → 6 cm<br>Engagement & Descent: high → 0|< 20 hours|< 14 hours|
-|Stage 1 :: active phase|Dilation: 6 → 10 cm<br>Descent: 0 → +2|0.7 ~ 2 cm/h|1 ~ 3 cm/h|
+|Stage 1 :: active phase|Dilation: 6 → 10 cm<br>Descent: 0 → +2|> 0.7 cm/h|> 1 cm/h|
 |Stage 2|Internal rotation & Extension & External rotation & Expulsion|< 2 hours<br>< 3 hours if epidural|< 1 hours<br>< 2 hours if epidural|
 |Stage 3|Expulsion of the umbilical cord & placenta|< 30 minutes|< 30 minutes|
 
