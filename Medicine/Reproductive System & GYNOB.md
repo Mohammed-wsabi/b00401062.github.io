@@ -68,6 +68,14 @@
 |Estradiol|Testosterone|Theca cell|Aromatase|Granulosa cell|Non-pregnancy|
 |Estriol|Dehydroepiandrosterone-sulfate (DHEAS)|Fetal adrenal gland|Sulfatase|Placenta|Pregnancy|
 
+## Fetal Biometric Parameters on Ultrasound
+
+- Crown-rump length (CRL)
+- Biparietal diameter (BPD)
+- Head circumference (HC)
+- Abdominal circumference (AC)
+- Femur length (FL)
+
 ## Presentations of Preeclampsia
 
 ### Preeclampsia
