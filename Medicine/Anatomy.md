@@ -448,7 +448,7 @@
 - Pubic crest
 - Pubic symphysis
 
-## Contents of Sciatic Foramen
+## Contents of Sciatic Foramens
 
 ### Greater Sciatic Foramen :: Suprapiriform Foramen
 
@@ -464,11 +464,40 @@
 |Pudendal nerve|Internal pudendal vessels|-|
 |Sciatic nerve|-|-|
 
-### Lesser sciatic foramen
+### Lesser Sciatic Foramen
 
 |Nerves|Vessels|Muscles|
 |-|-|-|
 |Pudendal nerve|Internal obturator vessels|Obturator internus|
+
+## Pelvic Diaphragm
+
+- Levator ani
+	- Pubococcygeus
+	- Puborectalis
+	- Iliococcygeus
+- Coccygeus
+
+## Perineum
+
+### Urogenital Triangle
+
+- Deep perineal pouch
+	- Deep transverse perineal muscle
+	- External urethral sphincter
+- Superficial perineal pouch
+	- Superficial transverse pernieal muscle
+	- Ischiocavernosus
+	- Bulbospongiosus
+
+### Middle
+
+- Perineal body
+
+### Anal Triangle
+
+- Internal anal sphincter
+- External anal sphincter
 
 ## Muscles of Thigh
 
