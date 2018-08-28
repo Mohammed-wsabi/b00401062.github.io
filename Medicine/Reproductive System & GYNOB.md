@@ -165,6 +165,30 @@
 - Passenger
 - Pelvis
 
+### Passenger
+
+- Attitude: flexed & neutral & extended
+- Lie: longitudinal & oblique & transverse
+- Presentations
+	- Cephalic: vertex (occiput) & sinciput & brow & face & chin
+	- Breech: frank & complete & incomplete (footling)
+	- Shoulder: arm & shoulder & trunk
+- Positions
+	- Anterior: right anterior & anterior & left anterior
+	- Transverse: right transverse & left transverse
+	- Posterior: right posterior & posterior & left posterior
+
+### Pelvis
+
+|Class|Shape|Ischial Spines|Favored Presentations|
+|-|-|-|-|
+|Gynecoid|Round|Non-prominent|All|
+|Android|Heart|Prominent|None|
+|Anthropoid|Vertical ellipse|Prominent|Vertex :: OP|
+|Platypelloid|Horizontal ellipse|Non-prominent|Tranverse|
+
+![](../Figures/Pelvis%20Shapes.jpg)
+
 ## Bishop Score
 
 - Consistency
