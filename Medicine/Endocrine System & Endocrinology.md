@@ -244,18 +244,6 @@
 |GH antagonists|Pegvisomant|Acromegaly|
 |IGF-1 agonists|Mecasermin|Dwarfism|
 
-## Mechanisms of Action of Medications Targeting Thyroid Hormone
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|Thyroid peroxidase inhibitors|Propylthiouracil (PTU)|Hyperthyroidism|
-||Methimazole|Hyperthyroidism|
-||Iodine & Lugol solution|Hyperthyroidism|
-|Deiodinase inhibitors|Propylthiouracil (PTU)|Hyperthyroidism|
-||Steroids & Propranolol|Hyperthyroidism|
-|TH agonists|Levothyroxine|Hypothyroidism|
-||Triiodothyronine|Hypothyroidism|
-
 ## Mechanisms of Action of Medications for Diabetes Mellitus
 
 |Mechanism|Effects|Medication|Indications|
