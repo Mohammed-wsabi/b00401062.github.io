@@ -338,6 +338,18 @@
 |LTD<sub>4</sub> antagonists|Montelukast|Asthma|
 ||Zafirlukast|Asthma|
 
+## Mechanisms of Action of Medications Targeting Thyroid Hormone
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|Thyroid peroxidase inhibitors|Propylthiouracil (PTU)|Hyperthyroidism|
+||Methimazole|Hyperthyroidism|
+||Iodine & Lugol solution|Hyperthyroidism|
+|Deiodinase inhibitors|Propylthiouracil (PTU)|Hyperthyroidism|
+||Steroids & Propranolol|Hyperthyroidism|
+|TH agonists|Levothyroxine|Hypothyroidism|
+||Triiodothyronine|Hypothyroidism|
+
 ## Mechanisms of Action of Medications Targeting Sex Hormones
 
 |Mechanism|Medication|Indications|
