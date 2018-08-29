@@ -20,4 +20,4 @@
 
 ## International Classification of Vesicoureteral Reflux (VUR)
 
-![](International%20Classification%20of%20Vesicoureteral%20Reflux%20(VUR).jpg)
+![](../Figures/International%20Classification%20of%20Vesicoureteral%20Reflux%20(VUR).jpg)
