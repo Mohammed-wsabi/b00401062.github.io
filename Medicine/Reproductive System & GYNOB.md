@@ -299,31 +299,3 @@
 |Convert to Choriocarcinoma|2%|Rare|
 |Fetal Parts|-|+|
 |Components|2 sperms & 0 egg|2 sperms & 1 egg|
-
-## Mechanisms of Action of Medications Targeting Sex Hormones
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|GnRH agonists|Leuprolide :: pulsatile|Infertility|
-|GnRH antagonists|Leuprolide :: continuous|Prostate cancer|
-|Estrogen agonists|Diethylstilbestrol (DES)|HRT & OCP|
-||Mestranol|HRT & OCP|
-|Estrogen modulators|Clomifene|PCOS & Ovulation|
-||Tamoxifen|Breast cancer|
-||Raloxifene|Breast cancer & Osteoporosis|
-|Progesterone agonists|Progestin|HRT & OCP|
-||Medroxyprogesterone|HRT & OCP|
-||Norethindrone|HRT & OCP|
-||Desogestrel|HRT & OCP|
-|Progesterone antagonists|Mifepristone (RU486)|Abortion|
-|Aromatase inhibitors|Anastrozole|Breast cancer|
-||Letrozole|Breast cancer|
-||Exemestane|Breast cancer|
-|Androgen agonists|Danazol|Hypogonadism & Endometriosis|
-||Methyltestosterone|Hypogonadism|
-|Androgen antagonists|Flutamide|Prostate cancer|
-||Bicalutamide|Prostate cancer|
-||Ketoconazole|PCOS|
-||Spironolactone|PCOS|
-|5α-Reductase inhibitors|Finasteride|BPH & Alopecia|
-||Spironolactone|Hirsutism|
