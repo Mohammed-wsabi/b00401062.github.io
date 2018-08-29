@@ -338,6 +338,14 @@
 |LTD<sub>4</sub> antagonists|Montelukast|Asthma|
 ||Zafirlukast|Asthma|
 
+## Mechanisms of Action of Medications Targeting Growth Hormone
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|Somatostatin agonists|Octreotide|Acromegaly & Esophageal varices & Carcinoid & VIPoma & Gastrinoma & Glucagonoma|
+|GH antagonists|Pegvisomant|Acromegaly|
+|IGF-1 agonists|Mecasermin|Dwarfism|
+
 ## Mechanisms of Action of Medications Targeting Thyroid Hormone
 
 |Mechanism|Medication|Indications|
