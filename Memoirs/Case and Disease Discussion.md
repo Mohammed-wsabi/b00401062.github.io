@@ -10,7 +10,7 @@
 ## Case Discussion
 
 - [Patient Information](#patient-information)
-- [Chief Complaints (CC)](#chief-complaints-cc)
+- [Chief Complaint (CC)](#chief-complaint-cc)
 - [History of Present Illness (HPI)](#history-of-present-illness-hpi)
 - [Review of Systems (ROS)](#review-of-systems-ros)
 - [Gynecologic History](#gynecologic-history)
@@ -40,7 +40,7 @@
 
 ---
 
-### Chief Complaints (CC)
+### Chief Complaint (CC)
 
 ---
 
@@ -105,6 +105,7 @@
 ### Birth History
 
 - Term:
+- Birth weight:
 - Delivery route:
 - Complications:
 - Developmental milestones:
