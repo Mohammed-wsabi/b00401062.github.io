@@ -395,7 +395,7 @@
 ||Sildenafil & Vardenafil|Impotence & Pulmonary HTN|
 ||Dipyridamole & Cilostazol|Antiplatelet & Vasodilation|
 |PLA inhibitors|Steroids|Inflammation|
-|COX inhibitors|NSAIDs|Inflammation|
+|COX inhibitors|NSAIDs|Inflammation & PDA closure|
 |LOX inhibitors|Zileuton|Asthma|
 |ADH inhibitors|Ethanol|Methanol antidote|
 ||Fomepizole|Methanol antidote|
