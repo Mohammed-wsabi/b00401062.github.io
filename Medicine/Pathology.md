@@ -176,10 +176,10 @@
 |Mnemonic|Drinking|Election|Puberty|
 |Chromosome|21|18|13|
 |PAPP-A|↓|↓|↓|
+|hCG|↑|↓|-|
 |AFP|↓|↓|-|
 |Estriol|↓|↓|-|
 |Inhibin A|↑|↓|-|
-|hCG|↑|↓|-|
 
 ## Presentations of Autosomal Trisomies
 
