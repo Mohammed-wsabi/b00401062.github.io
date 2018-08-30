@@ -395,7 +395,15 @@
 ||Sildenafil & Vardenafil|Impotence & Pulmonary HTN|
 ||Dipyridamole & Cilostazol|Antiplatelet & Vasodilation|
 |PLA inhibitors|Steroids|Inflammation|
-|COX inhibitors|NSAIDs|Inflammation & PDA closure|
+|COX inhibitors|Acetaminophen|Inflammation|
+|COX inhibitors :: NSAIDs|Aspirin|Inflammation|
+||Ibuprofen|Inflammation|
+||Naproxen|Inflammation|
+||Ketorolac|Inflammation|
+||Diclofenac|Inflammation|
+||Meloxicam|Inflammation|
+||Indomethacin|Inflammation & PDA closure|
+|COX-2 inhibitors|Celecoxib|Arthritis|
 |LOX inhibitors|Zileuton|Asthma|
 |ADH inhibitors|Ethanol|Methanol antidote|
 ||Fomepizole|Methanol antidote|
