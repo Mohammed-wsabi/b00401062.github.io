@@ -140,7 +140,7 @@
 ## Biophysical Profile (BPP)
 
 - Nonstress test (NST): > 2 accelerations in 20 minutes
-- Amniotic fluid volume: the deepest vertical pool > 2 cm
+- Amniotic fluid volume: AFI > 5 cm / the deepest vertical pool > 2 cm
 - Fetal breathing movements: breathing of > 30 seconds in 30 minutes
 - Fetal movements: > 3 movements in 30 minutes
 - Fetal tone: extension & flexion in 30 minutes
