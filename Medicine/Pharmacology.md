@@ -399,8 +399,8 @@
 |COX inhibitors :: NSAIDs|Aspirin|Inflammation|
 ||Ibuprofen|Inflammation|
 ||Naproxen|Inflammation|
-||Ketorolac|Inflammation|
 ||Diclofenac|Inflammation|
+||Ketorolac|Inflammation|
 ||Meloxicam|Inflammation|
 ||Indomethacin|Inflammation & PDA closure|
 |COX-2 inhibitors|Celecoxib|Arthritis|
