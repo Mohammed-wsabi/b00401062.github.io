@@ -331,7 +331,7 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |PGE1 agonists|Misoprostol|Abortion & PUD|
-||Alprostadil|Impotence & PDA|
+||Alprostadil|Impotence & PDA maintenance|
 |PGF2 agonists|Latanoprost|Glaucoma|
 |PGI2 agonists|Epoprostenol|Pulmonary HTN|
 |TXA2 antagonists|-|-|
