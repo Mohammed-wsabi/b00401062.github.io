@@ -133,8 +133,8 @@
 
 - Acceleration: ↑ 15/min for 15 seconds ~ 2 minutes
 - Decelerations
-	- Early deceleration: onset to nadir of > 30 seconds after a uterine contraction
-	- Late deceleration: onset to nadir of > 30 seconds during a uterine contraction
+	- Early deceleration: onset to nadir of > 30 seconds during a uterine contraction
+	- Late deceleration: onset to nadir of > 30 seconds after a uterine contraction
 	- Variable deceleration: ↓ 15/min for 15 seconds ~ 2 minutes & onset to nadir of < 30 seconds
 
 ## Biophysical Profile (BPP)
