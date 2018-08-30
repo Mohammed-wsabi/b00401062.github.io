@@ -256,6 +256,12 @@
 - Cardiovascular disease
 - Sleep disturbances
 
+## Rotterdam Criteria for Diagnosis of PCOS
+
+- Anovulation
+- Hyperandrogenism
+- Polycystic ovaries
+
 ## Breast Tumors
 
 |Origin|Tumors|Subtype|
