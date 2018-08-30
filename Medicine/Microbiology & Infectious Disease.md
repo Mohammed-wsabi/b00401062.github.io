@@ -1003,7 +1003,7 @@
 |Pathogens|Antibiotics|
 |-|-|
 |Staphylococcus aureus|Penicillinase-resistant penicillin|
-|MRSA|Ceftaroline & Vancomycin & Linezolid & Polymyxin|
+|MRSA|Ceftaroline & Vancomycin & Linezolid & Daptomycin & Polymyxin|
 |Streptococcus pneumoniae|Penicillin & Amoxicillin & 3° Cephalosporin & Macrolide|
 |GAS :: Streptococcus pyogenes|Penicillin & Clindamycin|
 |GBS :: Streptococcus agalactiae|Penicillin & Clindamycin|
