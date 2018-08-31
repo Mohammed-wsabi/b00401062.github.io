@@ -316,3 +316,10 @@
 |MgSO<sub>4</sub>|MgSO<sub>4</sub>|Tocolysis|
 |NO donors|Glyceryl trinitrate|Tocolysis|
 |Oxytocin antagonists|Atosiban|Tocolysis|
+
+## Managements for Late Decelerations [STOP]
+
+- Sterile vaginal exam
+- Tocolysis
+- Oxygen
+- Position :: left lateral recumbent
