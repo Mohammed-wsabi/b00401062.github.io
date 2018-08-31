@@ -354,7 +354,7 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |μ-opioid agonists|Morphine|Venodilation|
-|Nitrate|Nitroglycerin & Isosorbide|Venodilation|
+|NO donors|Nitroglycerin & Isosorbide|Venodilation|
 |β<sub>1</sub> agonists|Dopamine: D > β<sub>1</sub> > α<sub>1</sub>|Inotrope|
 ||Dobutamine: β<sub>1</sub> > β<sub>2</sub>|Inotrope|
 ||Norepinephrine: α<sub>1</sub> > β<sub>1</sub>|Inotrope|
@@ -365,7 +365,7 @@
 |α<sub>1</sub> antagonists & α<sub>2</sub> agonists|-|Vasodilation|
 |Ca channel blockers|Amlodipine & Nifedipine|Vasodilation|
 |K channel activators|Minoxidil & Diazoxide|Vasodilation|
-|Nitrate|Nitroprusside & Hydralazine|Vasodilation|
+|NO donors|Nitroprusside & Hydralazine|Vasodilation|
 |PDE inhibitors|Dipyridamole & Cilostazol|Vasodilation|
 
 ## Combination of Medications for Cardiovascular Diseases
@@ -378,7 +378,7 @@
 |Anticoagulant|-|
 |β<sub>1</sub> antagonists|-|
 |Venodilators|Morphine|
-||Nitrate|
+||NO donors|
 |-|Oxygen|
 
 ### Heart failure (HF) :: Decompensated [LMNOP]
@@ -387,7 +387,7 @@
 |-|-|
 |Diuretics|Lasix|
 |Venodilators|Morphine|
-||Nitrate|
+||NO donors|
 |-|Oxygen|
 |-|Position|
 
@@ -400,7 +400,7 @@
 ||Bisoprolol|
 ||Metoprolol|
 |Diuretics|Spironolactone|
-|Vasodilators|Nitrate|
+|Vasodilators|NO donors|
 
 ### Hypertension [ABDV]
 
