@@ -305,3 +305,14 @@
 |Convert to Choriocarcinoma|2%|Rare|
 |Fetal Parts|-|+|
 |Components|2 sperms & 0 egg|2 sperms & 1 egg|
+
+## Medications for Tocolysis
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|β<sub>2</sub> agonists|Terbutaline & Ritodrine|Tocolysis|
+|COX inhibitors|Indomethacin|Tocolysis|
+|Ca channel blockers|Nifedipine|Tocolysis|
+|MgSO<sub>4</sub>|MgSO<sub>4</sub>|Tocolysis|
+|NO donors|Glyceryl trinitrate|Tocolysis|
+|Oxytocin antagonists|Atosiban|Tocolysis|
