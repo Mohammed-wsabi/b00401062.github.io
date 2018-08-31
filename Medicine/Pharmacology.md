@@ -402,7 +402,7 @@
 ||Diclofenac|Inflammation|
 ||Ketorolac|Inflammation|
 ||Meloxicam|Inflammation|
-||Indomethacin|Inflammation & PDA closure|
+||Indomethacin|Inflammation & Tocolysis & PDA closure|
 |COX-2 inhibitors|Celecoxib|Arthritis|
 |LOX inhibitors|Zileuton|Asthma|
 |ADH inhibitors|Ethanol|Methanol antidote|
