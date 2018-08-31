@@ -299,7 +299,7 @@
 
 ||Complete Mole|Partial Mole|
 |-|-|-|
-|Karyotype|46,XX & 46,XY|69,XXX & 69,XXY & 69,XYY|
+|Karyotype|46,XX / 46,XY|69,XXX / 69,XXY / 69,XYY|
 |hCG|↑↑↑↑|↑|
 |Uterine Size|↑|-|
 |Convert to Choriocarcinoma|2%|Rare|
