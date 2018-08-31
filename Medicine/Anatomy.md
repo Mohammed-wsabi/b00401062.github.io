@@ -473,8 +473,8 @@
 ## Pelvic Diaphragm
 
 - Levator ani
-	- Pubococcygeus
 	- Puborectalis
+	- Pubococcygeus
 	- Iliococcygeus
 - Coccygeus
 
