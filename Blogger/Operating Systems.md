@@ -7,7 +7,3 @@ An **operating system** is like a disinterested intermediary between user applic
 ## Android
 
 ## Windows
-
-## Market Share
-
-
