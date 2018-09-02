@@ -18,6 +18,8 @@ The disputes over the design of the OSes contributes to the diversity of variant
 
 ## Android
 
-With the advent of personal mobile devices, **Android** was initially developed by [Google](https://www.google.com) in 2005 and unveiled in 2007. A newcomer as it is, **Android** boasts of the largest mobile OS plateform, inhabiting in over 3/4 of the mobile phones in the world as of August 2018. Its functionality is tailored to run on mobile devices that are allowed to connect to the Internet. The release of Android, although primarily licensed under the [Apache License](https://www.apache.org/licenses), is dominated by Google as a monopoly.
+**Android** is a monolithic OS with its kernel based on Linux and its user interface programming exclusively written in Java. With the advent of personal mobile devices, Android was initially developed by [Google](https://www.google.com) in 2005 and unveiled in 2007. A newcomer as it is, Android boasts of the largest mobile OS plateform, inhabiting in over 3/4 of the mobile phones in the world as of August 2018. Its functionality is tailored to run on mobile devices that are allowed to connect to the Internet. The release of Android, although primarily licensed under the [Apache License](https://www.apache.org/licenses), is dominated by Google as a monopoly.
 
 ## Windows
+
+**Windows** is undoubtedly the most popular OS in the world and will keep dominating the desktop world in the upcoming years for sure. 
