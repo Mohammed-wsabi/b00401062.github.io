@@ -8,6 +8,8 @@ The OS may come with a graphical user interface or not, but **kernel**, the hear
 
 In contrast to microkernel, **monolithic kernel** implements all components in the kernel space by stacking them up in a hierarchical manner. A user application invokes a system call to use specific functionality provided by the kernel. In this way, the user application is believed to execute more efficiently since these codes run directly in the kernel space without the kernel's coordination.
 
+![](https://en.wikipedia.org/wiki/File:OS-structure.svg)
+
 The disputes over the design of the OSes contributes to the diversity of variants available on the market. The tremendous effort necessitated to bring into being a reliable and faithful system deters half-hearted laymen and shows off its taciturn intricacy and refinement to committed experts. The major OSes in the market are briefed as below.
 
 ## Unix
