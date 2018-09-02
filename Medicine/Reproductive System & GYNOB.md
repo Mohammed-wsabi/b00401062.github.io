@@ -48,6 +48,14 @@
 |Dihydrotestosterone (DHT)|Peripheral cell|-|
 |Progesterone ← LH|-|Luteal cell|
 
+## Estrogens in Females
+
+|Hormone|Precursor|Precursor site|Enzyme|Enzyme site|During|
+|-|-|-|-|-|-|
+|Estrone|Androstenedione|Adrenal gland|Aromatase|Adipose cell|Menopause|
+|Estradiol|Testosterone|Theca cell|Aromatase|Granulosa cell|Non-pregnancy|
+|Estriol|Dehydroepiandrosterone-sulfate (DHEAS)|Fetal adrenal gland|Sulfatase|Placenta|Pregnancy|
+
 ## Hormone Change During Pregnancy
 
 |Item|Hormones|Sources|
@@ -60,13 +68,13 @@
 
 ![](../Figures/Hormone%20Change%20During%20Pregnancy.png)
 
-## Estrogens Throughout a Woman's Life
+## Indicators of Ovarian Reserve
 
-|Hormone|Precursor|Precursor site|Enzyme|Enzyme site|During|
-|-|-|-|-|-|-|
-|Estrone|Androstenedione|Adrenal gland|Aromatase|Adipose cell|Menopause|
-|Estradiol|Testosterone|Theca cell|Aromatase|Granulosa cell|Non-pregnancy|
-|Estriol|Dehydroepiandrosterone-sulfate (DHEAS)|Fetal adrenal gland|Sulfatase|Placenta|Pregnancy|
+|Indicator|Normal|
+|-|-|
+|FSH :: follicular phase|2 ~ 8|
+|Anti-Mullerian hormone (AMH)|1 ~ 5|
+|Antral follicle count (AFC)|5 ~ 10|
 
 ## Fetal Biometric Parameters on Ultrasound
 
@@ -305,6 +313,27 @@
 |Convert to Choriocarcinoma|2%|Rare|
 |Fetal Parts|-|+|
 |Components|2 sperms & 0 egg|2 sperms & 1 egg|
+
+
+## Controlled Ovarian Hyperstimulation
+
+### Suppression of Spontaneous Ovulation
+
+|Protocol|Timing|
+|-|-|
+|GnRH antagonist (short) protocol|Leading follicle > 14 mm|
+|GnRH agonist flare protocol|Menstruation|
+|GnRH agonist (long) protocol|Last luteal phase|
+
+### Triggers for Ovulation
+
+- (Follicles > 18 mm) ≥ 2
+- Estradiol per co-dominant follicle > 200 pg/mL
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|GnRH agonists|Leuprolide :: pulsatile|Infertility|
+|hCG analogs|Choriogonadotropin|Infertility|
 
 ## Medications for Tocolysis
 
