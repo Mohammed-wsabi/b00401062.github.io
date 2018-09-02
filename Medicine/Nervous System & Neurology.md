@@ -320,6 +320,25 @@
 |Transcortical motor|+|+|-|
 |Transcortical sensory|-|+|+|
 
+## Hemorrhage
+
+### Extracranial
+
+|Hemorrhage|Vessels|Cross Sutures|
+|-|-|-|
+|Caput succedaneum|Soft tissues|+|
+|Subgaleal|Subgaleal vessels|+|
+|Cephalohematoma|Subperiosteal vessels|-|
+
+### Intracranial
+
+|Hemorrhage|Vessels|Cross Sutures|
+|-|-|-|
+|Epidural|Middle meningeal artery|-|
+|Subdural|Bridging veins|+|
+|Subarachnoid|Aneurysm / AVM|+|
+|Intraparenchymal|Microaneurysm|+|
+
 ## Cushing Triad of Increased Intracranial Pressure (IICP)
 
 - Pressure :: hypertension & increased pulse pressure
