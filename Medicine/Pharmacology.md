@@ -364,6 +364,10 @@
 |-|-|-|
 |GnRH agonists|Leuprolide :: pulsatile|Infertility|
 |GnRH antagonists|Leuprolide :: continuous|Prostate cancer|
+||Cetrorelix & Ganirelix|Infertility|
+|LH analogs|Lutropin & Menotropin|Infertility|
+|FSH analogs|Follitropin & Menotropin|Infertility|
+|hCG analogs|Choriogonadotropin|Infertility|
 |Estrogen agonists|Diethylstilbestrol (DES)|HRT & OCP|
 ||Mestranol|HRT & OCP|
 |Estrogen modulators|Clomifene|PCOS & Ovulation|
