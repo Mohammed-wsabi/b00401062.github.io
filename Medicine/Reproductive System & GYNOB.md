@@ -286,7 +286,7 @@
 |Embryonal carcinoma|Embryonal carcinoma|hCG & AFP|
 |Teratoma|Teratoma|hCG & AFP|
 |Choriocarcinoma|Choriocarcinoma|hCG|
-|Yolk sac tumor|Yolk sac tumor|AFP|
+|Endodermal sinus tumor (EST)|Endodermal sinus tumor (EST)|AFP|
 
 ### Non-germ Cell Tumors
 
