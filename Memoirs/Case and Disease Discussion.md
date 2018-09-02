@@ -183,24 +183,31 @@
 
 ## Disease Discussion
 
-- [Etiologies](#etiologies)
 - [Epidemiology](#epidemiology)
+- [Pathogenesis](#pathogenesis)
+- [Etiology](#etiology)
 - [Presentation](#presentation)
 - [Differential Diagnosis](#differential-diagnosis-1)
 - [Approach](#approach)
 - [Diagnosis](#diagnosis)
 - [Workup](#workup)
 - [Treatments](#treatments)
+- [Complications](#complications)
+- [Prevention](#prevention)
 - [Summary](#summary)
 - [References](#references)
 
 ---
 
-### Etiologies
+### Epidemiology
 
 ---
 
-### Epidemiology
+### Pathogenesis
+
+---
+
+### Etiology
 
 ---
 
@@ -225,6 +232,14 @@
 ---
 
 ### Treatments
+
+---
+
+### Complications
+
+---
+
+### Prevention
 
 ---
 
