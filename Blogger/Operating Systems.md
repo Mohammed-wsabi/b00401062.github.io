@@ -14,8 +14,10 @@ The disputes over the design of the OSes contributes to the diversity of variant
 
 ## Unix
 
-**Unix** is one the few OSes brought into beings in the early history of conputer science. Its development started at the Bell Labs in 1970s and has evolved tremendously since its inception. Ironically, Unix has never been made avilable on a modern computer. Instead, it is more of a spiritual standard followed by its descendent, often referred to as **Unix-like**. Its standardization is, to a large extent, maintained by [Single UNIX Specification (SUS)](http://www.unix.org). Some of the most well-known examples of so-called Unix-like OSes include [macOS](https://www.apple.com/macos) and [Linux](https://www.kernel.org).
+**Unix** is one the few OSes brought into beings in the early history of conputer science. Its development started at the Bell Labs in 1970s and has evolved tremendously since its inception. Ironically, Unix has never been made avilable on a modern computer. Instead, it is more of a spiritual standard followed by its descendent, often referred to as **Unix-like**. Its standardization is, to a large extent, maintained by [Single UNIX Specification (SUS)](http://www.unix.org). Some of the most well-known examples of so-called Unix-like OSes include [macOS](https://www.apple.com/macos) and [SunOS](https://www.oracle.com/solaris). The architecture of a Unix-like OS is up to respective implementation and the type of kernel it borrows from, e.g., macOS is based on [XNU](https://opensource.apple.com/source/xnu); SunOS is based on [Berkeley Software Distribution (BSD)](https://www.bsd.org)
 
 ## Android
+
+**Android** boasts of the largest mobile OS plateform, inhabiting in over 3/4 of the mobile phones in the world as of August 2018. Its functionality is tailored to run on mobile devices that are allowed to connect to the Internet. The release of Android, although primarily licensed under the [Apache License](https://www.apache.org/licenses), is dominated by [Google](https://www.google.com) as a monopoly. 
 
 ## Windows
