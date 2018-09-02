@@ -664,13 +664,13 @@
 
 ## Pathogens of Urinary Tract Infection (UTI)
 
+- Staphylococcus saprophyticus
 - Serratia marcescens
 - Escherichia coli
 - Enterobacter cloacae
 - Klebsiella pneumoniae
 - Pseudomonas aeruginosa
 - Proteus mirabilis
-- Staphylococcus saprophyticus
 - Candida
 
 ## Pathogens of Genital Tract Infection
