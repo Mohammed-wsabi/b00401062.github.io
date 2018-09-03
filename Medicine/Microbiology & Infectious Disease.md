@@ -933,9 +933,9 @@
 
 - Penicillin :: Piperacillin & Ticarcillin
 - Cephalosporins :: Ceftazidime & Cefoperazone & Cefepime
-- Carbapenems :: Imipenem & Meropenem & Doripenem
+- Carbapenems - Ertapenem :: Doripenem & Imipenem & Meropenem
 - Monobactams
-- Fluoroquinolones :: Ciprofloxacin & Levofloxacin
+- Fluoroquinolones - Moxifloxacin :: Ciprofloxacin & Levofloxacin
 
 ## β-Lactamase Inhibitors
 
@@ -1012,7 +1012,8 @@
 |Enterococcus|Penicillin & Ampicillin|
 |VRE|Linezolid|
 |Bacillus anthracis|Penicillin|
-|Clostridium|Penicillin & Metronidazole|
+|Clostridium perfringens|Penicillin & Clindamycin|
+|Clostridium difficile|Vancomycin & Metronidazole|
 |Corynebacterium|Penicillin & Macrolides|
 |Listeria|Penicillin & Ampicillin|
 |Mycobacterium tuberculosis|Rifampin & Isoniazid & Pyrazinamide & Ethambutol|
@@ -1034,7 +1035,7 @@
 |Chlamydia|Tetracyclines & Macrolides|
 |Rickettsia|Tetracyclines & Macrolides|
 |Spirochete|Penicillin & Tetracyclines|
-|Bacteroides fragilis|Clindamycin & Moxifloxacin & Metronidazole|
+|Bacteroides fragilis|Carbapenems & Metronidazole|
 
 ## Triple Therapy for Helicobacter Pylori [CAP]
 
