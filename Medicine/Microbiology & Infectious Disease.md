@@ -870,20 +870,20 @@
 |Mechanism|Targets|Mnemonic|Medication|
 |-|-|-|-|
 |↓ Peptidoglycan crosslinking|Penicillin binding protein|Primary|Penicillin|
-|↓ Peptidoglycan crosslinking|Penicillin binding protein|Critical|Cephalosporin|
-|↓ Peptidoglycan crosslinking|Penicillin binding protein|Care|Carbapenem|
-|↓ Peptidoglycan crosslinking|Penicillin binding protein|Medical|Monobactam|
-|↓ Peptidoglycan synthesis|Peptidoglycan|Group|Glycopeptide|
+|↓ Peptidoglycan crosslinking|Penicillin binding protein|Critical|Cephalosporins|
+|↓ Peptidoglycan crosslinking|Penicillin binding protein|Care|Carbapenems|
+|↓ Peptidoglycan crosslinking|Penicillin binding protein|Medical|Monobactams|
+|↓ Peptidoglycan synthesis|Peptidoglycan|Group|Glycopeptides|
 
 ### Protein Inhibitors [AT-LCMC]
 
 |Mechanism|Targets|Mnemonic|Medication|
 |-|-|-|-|
-|↓ Protein synthesis|30S ribosome :: initiation complex|A|Aminoglycoside|
-|↓ Protein synthesis|30S ribosome :: tRNA binding|T|Tetracycline|
+|↓ Protein synthesis|30S ribosome :: initiation complex|A|Aminoglycosides|
+|↓ Protein synthesis|30S ribosome :: tRNA binding|T|Tetracyclines|
 |↓ Protein synthesis|50S ribosome :: initiation complex|Locations|Linezolid|
 |↓ Protein synthesis|50S ribosome :: peptidyl transferase|Causing|Chloramphenicol|
-|↓ Protein synthesis|50S ribosome :: mRNA translocation|Major|Macrolide|
+|↓ Protein synthesis|50S ribosome :: mRNA translocation|Major|Macrolides|
 |↓ Protein synthesis|50S ribosome :: mRNA translocation|Casualties|Clindamycin|
 
 ### Cell Membrane Inhibitors
@@ -904,7 +904,7 @@
 
 |Mechanism|Targets|Medication|
 |-|-|-|
-|↓ DNA synthesis|Topoisomerase|Fluoroquinolone|
+|↓ DNA synthesis|Topoisomerase|Fluoroquinolones|
 |↑ DNA intercalation|DNA|Metronidazole|
 
 ![](../Figures/Mechanisms%20of%20Action%20of%20Antibiotics.png)
@@ -918,7 +918,7 @@
 |Penicillinase-resistant|Nafcillin & Oxacillin & Dicloxacillin|
 |Anti-pseudomonal|Piperacillin & Ticarcillin|
 
-## Classification of Cephalosporin
+## Classification of Cephalosporins
 
 |Generation|Penicillin|
 |-|-|
@@ -929,12 +929,13 @@
 |4°|Cefepime|
 |5°|Ceftaroline|
 
-## Anti-pseudomonal β-Lactams
+## Anti-pseudomonal Antibiotics
 
 - Penicillin :: Piperacillin & Ticarcillin
-- Cephalosporin :: Ceftazidime & Cefoperazone & Cefepime
-- Carbapenem :: Imipenem & Meropenem & Doripenem
-- Monobactam
+- Cephalosporins :: Ceftazidime & Cefoperazone & Cefepime
+- Carbapenems :: Imipenem & Meropenem & Doripenem
+- Monobactams
+- Fluoroquinolones :: Ciprofloxacin & Levofloxacin
 
 ## β-Lactamase Inhibitors
 
@@ -992,12 +993,12 @@
 
 |Side Effects|Antibiotics|
 |-|-|
-|Nephrotoxicity|Cephalosporin & Vancomycin & Aminoglycoside|
-|Ototoxicity|Vancomycin & Aminoglycoside|
-|Photosensitivity|Tetracycline & Sulfonamide|
-|Bone & Cartilage toxicity|Tetracycline & Fluoroquinolone|
+|Nephrotoxicity|Cephalosporins & Vancomycin & Aminoglycosides|
+|Ototoxicity|Vancomycin & Aminoglycosides|
+|Photosensitivity|Tetracyclines & Sulfonamide|
+|Bone & Cartilage toxicity|Tetracyclines & Fluoroquinolones|
 |Marrow toxicity|Chloramphenicol & Trimethoprim|
-|QT prolongation|Macrolide & Fluoroquinolone|
+|QT prolongation|Macrolides & Fluoroquinolones|
 
 ## Targeted Antibiotics
 
@@ -1005,35 +1006,35 @@
 |-|-|
 |Staphylococcus aureus|Penicillinase-resistant penicillin|
 |MRSA|Ceftaroline & Vancomycin & Linezolid & Daptomycin & Polymyxin|
-|Streptococcus pneumoniae|Penicillin & Amoxicillin & 3° Cephalosporin & Macrolide|
+|Streptococcus pneumoniae|Penicillin & Amoxicillin & 3° Cephalosporins & Macrolides|
 |GAS :: Streptococcus pyogenes|Penicillin & Clindamycin|
 |GBS :: Streptococcus agalactiae|Penicillin & Clindamycin|
 |Enterococcus|Penicillin & Ampicillin|
 |VRE|Linezolid|
 |Bacillus anthracis|Penicillin|
 |Clostridium|Penicillin & Metronidazole|
-|Corynebacterium|Penicillin & Macrolide|
+|Corynebacterium|Penicillin & Macrolides|
 |Listeria|Penicillin & Ampicillin|
 |Mycobacterium tuberculosis|Rifampin & Isoniazid & Pyrazinamide & Ethambutol|
-|Mycobacterium avium|Macrolide|
+|Mycobacterium avium|Macrolides|
 |Actinomyces|Penicillin|
 |Nocardia|Trimethoprim & Sulfonamide|
 |Neisseria meningitides|Penicillin & Ceftriaxone|
-|Neisseria gonorrhoeae|Ceftriaxone & Macrolide|
-|Bordetella pertussis|Macrolide|
+|Neisseria gonorrhoeae|Ceftriaxone & Macrolides|
+|Bordetella pertussis|Macrolides|
 |Haemophilus influenzae|Amoxicillin & Cefotetan|
-|Legionella pneumophilia|Macrolide|
-|Pseudomonas aeruginosa|Anti-pseudomonal β-lactams & Fluoroquinolone|
+|Legionella pneumophilia|Macrolides|
+|Pseudomonas aeruginosa|Anti-pseudomonal β-lactams & Anti-pseudomonal fluoroquinolones|
 |Acinetobacter baumannii|Anti-pseudomonal β-lactams|
 |MDRAB|Tigecycline & Polymyxin|
-|GNR :: enteric|Cefotetan & Fluoroquinolone & Trimethoprim & Sulfonamide|
-|ESBL|Carbapenem & Polymyxin|
+|GNR :: enteric|Cefotetan & Fluoroquinolones & Trimethoprim & Sulfonamide|
+|ESBL|Carbapenems & Polymyxin|
 |CRE|Tigecycline & Polymyxin|
-|Helicobacter pylori|Amoxicillin & Macrolide & Metronidazole|
-|Chlamydia|Tetracycline & Macrolide|
-|Rickettsia|Tetracycline & Macrolide|
-|Spirochete|Penicillin & Tetracycline|
-|Bacteroides fragilis|Clindamycin & Metronidazole|
+|Helicobacter pylori|Amoxicillin & Macrolides & Metronidazole|
+|Chlamydia|Tetracyclines & Macrolides|
+|Rickettsia|Tetracyclines & Macrolides|
+|Spirochete|Penicillin & Tetracyclines|
+|Bacteroides fragilis|Clindamycin & Moxifloxacin & Metronidazole|
 
 ## Triple Therapy for Helicobacter Pylori [CAP]
 
@@ -1047,7 +1048,7 @@
 |-|-|
 |GPC|1° Cephalosporins|
 |MRSA|Vancomycin|
-|Enterococcus|Ampicillin-Sulbactam (Unasyn)|
+|Enterococcus|Unasyn|
 |GNR :: GI|2° Cephalosporins / Aminoglycosides|
 |GNR :: GU|TMP-SMX / Fluoroquinolones|
 |Anaerobes|Clindamycin / Metronidazole|
@@ -1056,11 +1057,11 @@
 
 |Patient|Antibiotics|
 |-|-|
-|CAP & Uncomplicated|Macrolide<br>Doxycycline|
-|CAP & Complicated|Amoxicillin & (Macrolide / Doxycycline)<br>Fluoroquinolone|
-|CAP & Inpatient|Anti-pneumococcal β-lactams & Macrolide<br>Fluoroquinolone|
-|CAP & ICU|Anti-pseudomonal β-lactams & (Macrolide / Fluoroquinolone)|
-|HAP|Anti-pseudomonal β-lactams & Fluoroquinolone|
+|CAP & Uncomplicated|Macrolides<br>Doxycycline|
+|CAP & Complicated|Amoxicillin & (Macrolides / Doxycycline)<br>Fluoroquinolones|
+|CAP & Inpatient|Anti-pneumococcal β-lactams & Macrolides<br>Fluoroquinolones|
+|CAP & ICU|Anti-pseudomonal β-lactams & (Macrolides / Fluoroquinolones)|
+|HAP|Anti-pseudomonal β-lactams & Fluoroquinolones|
 
 ### Complicated Patients
 
@@ -1072,12 +1073,12 @@
 
 |Patient|Antibiotics|
 |-|-|
-|Uncomplicated & Child|3° Cephalosporin|
-|Uncomplicated & Adult|Nitrofurantoin / TMP-SMX / Fluoroquinolone|
+|Uncomplicated & Child|3° Cephalosporins|
+|Uncomplicated & Adult|Nitrofurantoin / TMP-SMX / Fluoroquinolones|
 |Uncomplicated & Pregnant|Nitrofurantoin / Amoxicillin|
-|Complicated|Fluoroquinolone|
-|Inpatient|Ceftriaxone / Piperacillin-Tazobactam (Tazocin) / Fluoroquinolones|
-|ICU|Carbapenem & Vancomycin|
+|Complicated|Fluoroquinolones|
+|Inpatient|Tazocin / Ceftriaxone / Fluoroquinolones|
+|ICU|Carbapenems & Vancomycin|
 
 ### Complicated Patients
 
@@ -1090,6 +1091,6 @@
 |Patient|Antibiotics|
 |-|-|
 |≤ 1 month|Ampicillin & (Cefotaxime / Gentamicin)|
-|1 ~ 3 months|3° Cephalosporin & Vancomycin|
-|3 months ~ 60 years|3° Cephalosporin & Vancomycin|
-|≥ 60 years / Complicated|Ampicillin & 3° Cephalosporin & Vancomycin|
+|1 ~ 3 months|3° Cephalosporins & Vancomycin|
+|3 months ~ 60 years|3° Cephalosporins & Vancomycin|
+|≥ 60 years / Complicated|Ampicillin & 3° Cephalosporins & Vancomycin|
