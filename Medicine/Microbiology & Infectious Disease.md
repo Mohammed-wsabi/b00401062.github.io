@@ -929,29 +929,39 @@
 |4°|Cefepime|
 |5°|Ceftaroline|
 
-## Anti-pseudomonal Antibiotics
-
-- Penicillin :: Piperacillin & Ticarcillin
-- Cephalosporins :: Ceftazidime & Cefoperazone & Cefepime
-- Carbapenems - Ertapenem :: Doripenem & Imipenem & Meropenem
-- Monobactams
-- Fluoroquinolones - Moxifloxacin :: Ciprofloxacin & Levofloxacin
-
-## β-Lactamase Inhibitors
+## β-lactamase Inhibitors
 
 - Clavulanate
 - Sulbactam
 - Tazobactam
 
-## Combinations of β-Lactams and β-Lactamase Inhibitors
+## Combinations of β-lactams w/ β-lactamase Inhibitors
 
-|Brand|β-Lactam|β-Lactamase Inhibitor|
+|Brand|β-lactam|β-lactamase Inhibitor|
 |-|-|-|
 |Unasyn|Ampicillin|Sulbactam|
 |Augmentin|Amoxicillin|Clavulanate|
 |Tazocin|Piperacillin|Tazobactam|
 |Timentin|Ticarcillin|Clavulanate|
 |Brosym|Cefoperazone|Sulbactam|
+
+## Anti-pseudomonal Antibiotics
+
+- Penicillin :: Piperacillin & Ticarcillin
+- Cephalosporins
+	- 3° :: Anti-pseudomonal: Ceftazidime & Cefoperazone
+	- 4°: Cefepime
+- Carbapenems - Ertapenem
+- Monobactams
+- Fluoroquinolones - Moxifloxacin
+
+## Anti-anaerobic Antibiotics
+
+- β-lactams w/ β-lactamase inhibitors
+- Carbapenems
+- Vancomycin
+- Clindamycin
+- Metronidazole
 
 ## Spectrum of Antibiotics (1)
 
