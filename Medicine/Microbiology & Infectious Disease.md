@@ -923,7 +923,7 @@
 |Generation|Penicillin|
 |-|-|
 |1°|Cefazolin & Cephalexin|
-|2°|Cefaclor & Cefotetan & Cefoxitin & Cefuroxime & Cefmetazole|
+|2°|Cefaclor & Cefoxitin & Cefotetan & Cefuroxime & Cefmetazole|
 |3° :: Non-anti-pseudomonal|Ceftriaxone & Cefotaxime & Cefixime & Cefpodoxime & Ceftibuten|
 |3° :: Anti-pseudomonal|Ceftazidime & Cefoperazone|
 |4°|Cefepime|
@@ -949,6 +949,7 @@
 |Unasyn|Ampicillin|Sulbactam|
 |Augmentin|Amoxicillin|Clavulanate|
 |Tazocin|Piperacillin|Tazobactam|
+|Timentin|Ticarcillin|Clavulanate|
 |Brosym|Cefoperazone|Sulbactam|
 
 ## Spectrum of Antibiotics (1)
