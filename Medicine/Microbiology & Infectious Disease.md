@@ -942,9 +942,9 @@
 - Sulbactam
 - Tazobactam
 
-## Combinations of β-Lactam and β-Lactamase Inhibitor
+## Combinations of β-Lactams and β-Lactamase Inhibitors
 
-|Brand|β-Lactam|β-Lactamase|
+|Brand|β-Lactam|β-Lactamase Inhibitor|
 |-|-|-|
 |Unasyn|Ampicillin|Sulbactam|
 |Augmentin|Amoxicillin|Clavulanate|
