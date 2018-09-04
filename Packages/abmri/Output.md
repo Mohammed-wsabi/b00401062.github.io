@@ -116,28 +116,28 @@
 |Predicted NR|6|7|
 
 - Confusion matrix: Transfer Test 2 Training
-	- Accuracy: 0.7500
-	- Sensitivity: 0.7355
-	- Specificity: 0.7640
-	- PPV: 0.7507
-	- NPV: 0.7493
+	- Accuracy: 0.7636
+	- Sensitivity: 0.7450
+	- Specificity: 0.7799
+	- PPV: 0.7485
+	- NPV: 0.7767
 
 ||True R|True NR|
 |:-:|:-:|:-:|
-|Predicted R|506|168|
-|Predicted NR|182|544|
+|Predicted R|488|164|
+|Predicted NR|167|581|
 
 - Confusion matrix: Transfer Test 2 Test
-	- Accuracy: 0.5911
-	- Sensitivity: 0.5655
-	- Specificity: 0.6127
-	- PPV: 0.5521
-	- NPV: 0.6255
+	- Accuracy: 0.5956
+	- Sensitivity: 0.5326
+	- Specificity: 0.6571
+	- PPV: 0.6031
+	- NPV: 0.5897
 
 ||True R|True NR|
 |:-:|:-:|:-:|
-|Predicted R|233|189|
-|Predicted NR|179|299|
+|Predicted R|237|156|
+|Predicted NR|208|299|
 
 ## Validation session: QDA
 
