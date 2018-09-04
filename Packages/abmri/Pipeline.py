@@ -36,7 +36,7 @@ class Pipeline:
 			evaluator.predict(self.datasets.Test.Chronic, "Test 1")
 			evaluator.predict(self.datasets.Test.Early, "Test 2")
 		if self.transfer:
-			evaluator.transfer(self.datasets.Test.Early, "Test Transfer")
+			evaluator.transfer(self.datasets.Test.Early, "Transfer Test 2")
 	def __validate(self, estimator):
 		return Model(
 			LinearDiscriminantAnalysis = Validator(

@@ -38,7 +38,6 @@ class Evaluator:
 		self.__print_confusion_matrix(y, prediction)
 		return prediction
 	def transfer(self, dataset, title = None):
-		print("- Confusion matrix: %s" % title)
 		X = concat((dataset.NR, dataset.R))
 		y = Series(
 			["NR"] * dataset.NR.shape[0] + ["R"] * dataset.R.shape[0],
@@ -54,7 +53,9 @@ class Evaluator:
 			pool.Training.Predicted.extend(self.preprocessor.estimator.predict(self.preprocessor.transform(X.iloc[train])))
 			pool.Test.Actual.extend(y[test])
 			pool.Test.Predicted.extend(self.preprocessor.estimator.predict(self.preprocessor.transform(X.iloc[test])))
+		print("- Confusion matrix: %s Training" % title)
 		self.__print_confusion_matrix(pool.Training.Actual, pool.Training.Predicted)
+		print("- Confusion matrix: %s Test" % title)
 		self.__print_confusion_matrix(pool.Test.Actual, pool.Test.Predicted)
 	def __plot_roc_curve(self, tpr, fpr):
 		plot(fpr, tpr, lw = 2)

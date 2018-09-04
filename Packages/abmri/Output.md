@@ -115,6 +115,29 @@
 |Predicted R|5|5|
 |Predicted NR|6|7|
 
+- Confusion matrix: Transfer Test 2 Training
+	- Accuracy: 0.7500
+	- Sensitivity: 0.7355
+	- Specificity: 0.7640
+	- PPV: 0.7507
+	- NPV: 0.7493
+
+||True R|True NR|
+|:-:|:-:|:-:|
+|Predicted R|506|168|
+|Predicted NR|182|544|
+
+- Confusion matrix: Transfer Test 2 Test
+	- Accuracy: 0.5911
+	- Sensitivity: 0.5655
+	- Specificity: 0.6127
+	- PPV: 0.5521
+	- NPV: 0.6255
+
+||True R|True NR|
+|:-:|:-:|:-:|
+|Predicted R|233|189|
+|Predicted NR|179|299|
 
 ## Validation session: QDA
 
@@ -160,6 +183,29 @@
 |Predicted R|4|4|
 |Predicted NR|7|8|
 
+- Confusion matrix: Transfer Test 2 Training
+	- Accuracy: 0.8200
+	- Sensitivity: 0.7974
+	- Specificity: 0.8420
+	- PPV: 0.8311
+	- NPV: 0.8100
+
+||True R|True NR|
+|:-:|:-:|:-:|
+|Predicted R|551|112|
+|Predicted NR|140|597|
+
+- Confusion matrix: Transfer Test 2 Test
+	- Accuracy: 0.4967
+	- Sensitivity: 0.4988
+	- Specificity: 0.4949
+	- PPV: 0.4513
+	- NPV: 0.5424
+
+||True R|True NR|
+|:-:|:-:|:-:|
+|Predicted R|204|248|
+|Predicted NR|205|243|
 
 ## Validation session: LR
 
@@ -205,6 +251,29 @@
 |Predicted R|5|5|
 |Predicted NR|6|7|
 
+- Confusion matrix: Transfer Test 2 Training
+	- Accuracy: 0.7521
+	- Sensitivity: 0.7425
+	- Specificity: 0.7609
+	- PPV: 0.7392
+	- NPV: 0.7641
+
+||True R|True NR|
+|:-:|:-:|:-:|
+|Predicted R|496|175|
+|Predicted NR|172|557|
+
+- Confusion matrix: Transfer Test 2 Test
+	- Accuracy: 0.5956
+	- Sensitivity: 0.5579
+	- Specificity: 0.6303
+	- PPV: 0.5821
+	- NPV: 0.6070
+
+||True R|True NR|
+|:-:|:-:|:-:|
+|Predicted R|241|173|
+|Predicted NR|191|295|
 
 ## Validation session: SVC
 
@@ -249,3 +318,27 @@
 |:-:|:-:|:-:|
 |Predicted R|4|5|
 |Predicted NR|7|7|
+
+- Confusion matrix: Transfer Test 2 Training
+	- Accuracy: 0.7443
+	- Sensitivity: 0.7258
+	- Specificity: 0.7618
+	- PPV: 0.7432
+	- NPV: 0.7452
+
+||True R|True NR|
+|:-:|:-:|:-:|
+|Predicted R|495|171|
+|Predicted NR|187|547|
+
+- Confusion matrix: Transfer Test 2 Test
+	- Accuracy: 0.5389
+	- Sensitivity: 0.4952
+	- Specificity: 0.5768
+	- PPV: 0.5036
+	- NPV: 0.5685
+
+||True R|True NR|
+|:-:|:-:|:-:|
+|Predicted R|207|204|
+|Predicted NR|211|278|
