@@ -225,9 +225,9 @@
 
 |Diagnosis|FBG|OGTT|HbA1c|
 |-|-|-|-|
-|Normal|70 ~ 110 mg/dL|50-g 1-hour OGTT < 140 mg/dL|< 6.5%|
-|Gestational|< 125 mg/dL|50-g 1-hour OGTT > 140 mg/dL & 100-g 3-hour OGTT ≥ 2/4|-|
-|Overt|> 125 mg/dL|75-g 2-hour OGTT > 200 mg/dL|> 6.5%|
+|Normal|70 ~ 110 mg/dL|50-g 1-hour < 140 mg/dL|< 6.5%|
+|Gestational|< 125 mg/dL|50-g 1-hour > 140 mg/dL & 100-g 3-hour ≥ 2/4|-|
+|Overt|> 125 mg/dL|75-g 2-hour > 200 mg/dL|> 6.5%|
 
 
 ## Whipple Triad of Insulinoma
