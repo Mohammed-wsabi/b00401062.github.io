@@ -185,7 +185,7 @@
 
 - [Epidemiology](#epidemiology)
 - [Pathogenesis](#pathogenesis)
-- [Etiology](#etiology)
+- [Risk Factors](#risk-factors)
 - [Presentation](#presentation)
 - [Differential Diagnosis](#differential-diagnosis-1)
 - [Approach](#approach)
@@ -207,7 +207,7 @@
 
 ---
 
-### Etiology
+### Risk Factors
 
 ---
 
