@@ -1,7 +1,7 @@
 from matplotlib.pyplot import *
 from numpy import *
 from pandas import *
-from sklearn.model_selection import LeaveOneOut
+from sklearn.model_selection import KFold
 from sklearn.model_selection import validation_curve
 from Constants import *
 from Preprocessor import *
@@ -18,7 +18,7 @@ class Validator:
 	def fit(self, dataset):
 		print("\n## Validation Session: %s\n" % self.title)
 		scores_train, scores_valid = validation_curve(
-			estimator = self.preprocessor, cv = LeaveOneOut(),
+			estimator = self.preprocessor, cv = KFold(4, shuffle = True, random_state = 0),
 			X = concat((dataset.NR, dataset.R)),
 			y = Series(
 				["NR"] * dataset.NR.shape[0] + ["R"] * dataset.R.shape[0],
