@@ -13,7 +13,7 @@ class Evaluator:
 		self.threshold = None
 	def fit(self, dataset):
 		assert hasattr(self.preprocessor, "decision_function")
-		print("\n## Evaluation session: %s\n" % self.title)
+		print("\n## Evaluation Session: %s\n" % self.title)
 		X = concat((dataset.NR, dataset.R))
 		y = Series(
 			["NR"] * dataset.NR.shape[0] + ["R"] * dataset.R.shape[0],

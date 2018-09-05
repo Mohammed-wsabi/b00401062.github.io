@@ -39,7 +39,7 @@
 |N1+N4+N6|4.18±2.04|8.92±2.57|<0.01*|
 |G5+G9|2.09±0.30|4.92±2.23|<0.01*|
 
-## Preprocessing session
+## Preprocessing Session
 
 - Feature selection: analysis of covariance (ANCOVA)
 	- 1061 significant steps (alpha = 0.05) are found.
@@ -49,7 +49,7 @@
 - Feature extraction: principal component analysis (PCA)
 	- 3 components explain 0.6516 of variance.
 
-## Significant segments
+## Significant Segments
 
 ||Index|NR|Tract|Steps|
 |-|-|-|-|-|
@@ -71,12 +71,12 @@
 |16|GFA|↓|Corpus callosum of supplementary motor area|54 ~ 87|
 |17|GFA|↓|Corpus callosum of splenium|2 ~ 21|
 
-## Validation session: LDA
+## Validation Session: LDA
 
 - Best parameter: 0.000000
 - Best mean (sd) of accuracy: 0.6250 (0.1169)
 
-## Evaluation session: LDA
+## Evaluation Session: LDA
 
 - Receiver operating characteristic (ROC): 0.833984
 - Confusion matrix: Training
@@ -139,12 +139,12 @@
 |Predicted R|237|156|
 |Predicted NR|208|299|
 
-## Validation session: QDA
+## Validation Session: QDA
 
 - Best parameter: 0.000000
 - Best mean (sd) of accuracy: 0.6406 (0.1353)
 
-## Evaluation session: QDA
+## Evaluation Session: QDA
 
 - Receiver operating characteristic (ROC): 0.828125
 - Confusion matrix: Training
@@ -207,12 +207,12 @@
 |Predicted R|204|248|
 |Predicted NR|205|243|
 
-## Validation session: LR
+## Validation Session: LR
 
 - Best parameter: 0.000977
 - Best mean (sd) of accuracy: 0.6250 (0.1169)
 
-## Evaluation session: LR
+## Evaluation Session: LR
 
 - Receiver operating characteristic (ROC): 0.833984
 - Confusion matrix: Training
@@ -275,12 +275,12 @@
 |Predicted R|241|173|
 |Predicted NR|191|295|
 
-## Validation session: SVC
+## Validation Session: SVC
 
 - Best parameter: 0.153893
 - Best mean (sd) of accuracy: 0.5938 (0.1127)
 
-## Evaluation session: SVC
+## Evaluation Session: SVC
 
 - Receiver operating characteristic (ROC): 0.826172
 - Confusion matrix: Training

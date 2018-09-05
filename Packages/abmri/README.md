@@ -11,7 +11,7 @@
 - [Validator.py](Validator.py): perform cross validation to select the best hyperparameters and model.
 - [Evaluator.py](Evaluator.py): evaluate the performance the final model.
 
-## Helper functions
+## Helper Functions
 - [RMSEA.py](RMSEA.py): implement root mean square error of approximation (RMSEA).
 
 ## Execution

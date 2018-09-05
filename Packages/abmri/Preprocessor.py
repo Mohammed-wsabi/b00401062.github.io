@@ -40,10 +40,8 @@ class Preprocessor(BaseEstimator, ClassifierMixin):
 		X = X[self.features]
 		## Feature extraction: average
 		X = self.__extract_average(X)
-		X = self.__normalize(X)
 		## Feature extraction: principal component analysis (PCA)
 		X = self.__extract_analysis(X)
-		X = self.__normalize(X)
 		return X
 	def decision_function(self, X):
 		return self.estimator.decision_function(self.transform(X))
@@ -51,7 +49,7 @@ class Preprocessor(BaseEstimator, ClassifierMixin):
 		return self.estimator.predict(self.transform(X))
 	def preprocess(self, X, y):
 		if not self.output: sys.stdout = open(os.devnull, "w")
-		print("\n## Preprocessing session\n")
+		print("\n## Preprocessing Session\n")
 		self.subjects = hash(tuple(sorted(X.index)))
 		## Feature selection: analysis of covariance (ANCOVA)
 		print("- Feature selection: analysis of covariance (ANCOVA)")
@@ -67,14 +65,12 @@ class Preprocessor(BaseEstimator, ClassifierMixin):
 		## Feature extraction: average
 		print("- Feature extraction: average")
 		X = self.__extract_average(X)
-		X = self.__normalize(X)
 		changes = -sign(X.groupby(y).mean().diff().loc["R", :])
 		## Feature extraction: principal component analysis (PCA)
 		print("- Feature extraction: principal component analysis (PCA)")
 		self.__plot_percentage(PCA().fit(X))
 		self.analysis = PCA(n_components = self.n_components).fit(X)
 		X = self.__extract_analysis(X)
-		X = self.__normalize(X)
 		print("\t- %d components explain %.4f of variance." % (self.analysis.components_.shape[0], sum(self.analysis.explained_variance_ratio_)))
 		self.__plot_weighting()
 		self.__print_segments(changes)
@@ -109,9 +105,9 @@ class Preprocessor(BaseEstimator, ClassifierMixin):
 		predictor = DataFrame()
 		for segment in self.segments:
 			predictor[predictor.shape[1]] = X.iloc[:, segment].mean(axis = 1)
-		return predictor
+		return self.__normalize(predictor)
 	def __extract_analysis(self, X):
-		return DataFrame(self.analysis.transform(X))
+		return self.__normalize(DataFrame(self.analysis.transform(X)))
 	def __normalize(self, X):
 		pvalues = X.apply(lambda col: kstest(scale(col), "norm").pvalue)
 		if sum(pvalues < self.alpha) != 0:
@@ -145,7 +141,7 @@ class Preprocessor(BaseEstimator, ClassifierMixin):
 		close()
 	def __print_segments(self, changes):
 		if not self.output: return
-		print("\n## Significant segments\n")
+		print("\n## Significant Segments\n")
 		print("||Index|NR|Tract|Steps|")
 		print("|-|-|-|-|-|")
 		for i, segment in enumerate(self.segments):
