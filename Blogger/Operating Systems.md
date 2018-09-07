@@ -14,7 +14,7 @@ The disputes over the design of the OSes contributes to the diversity of variant
 
 ## Unix
 
-**Unix** is one the few OSes brought into beings in the early history of conputer science. Its development started at the Bell Labs in 1970s and has evolved tremendously since its inception. Ironically, Unix has never been made avilable on a modern computer. Instead, it is more of a spiritual standard followed by its descendent, often referred to as **Unix-like**. Its standardization is, to a large extent, maintained by [Single UNIX Specification (SUS)](http://www.unix.org). Some of the most well-known examples of so-called Unix-like OSes include [Linux](https://www.kernel.org) and [macOS](https://www.apple.com/macos). The architecture of a Unix-like OS is up to individual implementation and the type of kernel it borrows from, e.g., Linux is itself *monolithic*; macOS is built up top of a *hybrid* kernel.
+**Unix** is one the few OSes brought into beings in the early history of conputer science. Its development started at the Bell Labs in 1970s and has evolved tremendously since its inception. Ironically, Unix has never been made avilable on a modern computer. Instead, it is more of a spiritual standard followed by its descendent, often referred to as **Unix-like**. Its standardization is, to a large extent, maintained by [Single UNIX Specification (SUS)](http://www.unix.org). Some of the most well-known examples of so-called Unix-like OSes include [Linux](https://www.kernel.org) and [macOS](https://www.apple.com/macos). The architecture of a Unix-like OS is up to individual implementation and the type of kernel it borrows from, e.g., Linux is itself *monolithic*; macOS is built on top of a *hybrid* kernel.
 
 ## Android
 
