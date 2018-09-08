@@ -79,62 +79,62 @@
 ## Evaluation Session: LDA
 
 - Receiver operating characteristic (ROC): 0.833984
-- Confusion matrix: Training
+- Contingency table: Training
 	- Accuracy: 0.7656
 	- Sensitivity: 0.7812
 	- Specificity: 0.7500
 	- PPV: 0.7576
 	- NPV: 0.7742
 
-||True R|True NR|
+||Actual R|Actual NR|
 |:-:|:-:|:-:|
 |Predicted R|25|8|
 |Predicted NR|7|24|
 
-- Confusion matrix: Test 1
+- Contingency table: Test 1
 	- Accuracy: 0.7500
 	- Sensitivity: 0.8462
 	- Specificity: 0.6667
 	- PPV: 0.6875
 	- NPV: 0.8333
 
-||True R|True NR|
+||Actual R|Actual NR|
 |:-:|:-:|:-:|
 |Predicted R|11|5|
 |Predicted NR|2|10|
 
-- Confusion matrix: Test 2
+- Contingency table: Test 2
 	- Accuracy: 0.5217
 	- Sensitivity: 0.4545
 	- Specificity: 0.5833
 	- PPV: 0.5000
 	- NPV: 0.5385
 
-||True R|True NR|
+||Actual R|Actual NR|
 |:-:|:-:|:-:|
 |Predicted R|5|5|
 |Predicted NR|6|7|
 
-- Confusion matrix: Transfer Test 2 Training
+- Contingency table: Transfer Test 2 Training
 	- Accuracy: 0.7580
 	- Sensitivity: 0.7406
 	- Specificity: 0.7744
 	- PPV: 0.7554
 	- NPV: 0.7605
 
-||True R|True NR|
+||Actual R|Actual NR|
 |:-:|:-:|:-:|
 |Predicted R|2010|651|
 |Predicted NR|704|2235|
 
-- Confusion matrix: Transfer Test 2 Test
+- Contingency table: Transfer Test 2 Test
 	- Accuracy: 0.5931
 	- Sensitivity: 0.5617
 	- Specificity: 0.6207
 	- PPV: 0.5660
 	- NPV: 0.6165
 
-||True R|True NR|
+||Actual R|Actual NR|
 |:-:|:-:|:-:|
 |Predicted R|947|726|
 |Predicted NR|739|1188|
@@ -147,62 +147,62 @@
 ## Evaluation Session: QDA
 
 - Receiver operating characteristic (ROC): 0.828125
-- Confusion matrix: Training
+- Contingency table: Training
 	- Accuracy: 0.7656
 	- Sensitivity: 0.8438
 	- Specificity: 0.6875
 	- PPV: 0.7297
 	- NPV: 0.8148
 
-||True R|True NR|
+||Actual R|Actual NR|
 |:-:|:-:|:-:|
 |Predicted R|27|10|
 |Predicted NR|5|22|
 
-- Confusion matrix: Test 1
+- Contingency table: Test 1
 	- Accuracy: 0.6429
 	- Sensitivity: 0.7692
 	- Specificity: 0.5333
 	- PPV: 0.5882
 	- NPV: 0.7273
 
-||True R|True NR|
+||Actual R|Actual NR|
 |:-:|:-:|:-:|
 |Predicted R|10|7|
 |Predicted NR|3|8|
 
-- Confusion matrix: Test 2
+- Contingency table: Test 2
 	- Accuracy: 0.5217
 	- Sensitivity: 0.3636
 	- Specificity: 0.6667
 	- PPV: 0.5000
 	- NPV: 0.5333
 
-||True R|True NR|
+||Actual R|Actual NR|
 |:-:|:-:|:-:|
 |Predicted R|4|4|
 |Predicted NR|7|8|
 
-- Confusion matrix: Transfer Test 2 Training
+- Contingency table: Transfer Test 2 Training
 	- Accuracy: 0.8277
 	- Sensitivity: 0.8058
 	- Specificity: 0.8482
 	- PPV: 0.8331
 	- NPV: 0.8229
 
-||True R|True NR|
+||Actual R|Actual NR|
 |:-:|:-:|:-:|
 |Predicted R|2187|438|
 |Predicted NR|527|2448|
 
-- Confusion matrix: Transfer Test 2 Test
+- Contingency table: Transfer Test 2 Test
 	- Accuracy: 0.4953
 	- Sensitivity: 0.4810
 	- Specificity: 0.5078
 	- PPV: 0.4626
 	- NPV: 0.5263
 
-||True R|True NR|
+||Actual R|Actual NR|
 |:-:|:-:|:-:|
 |Predicted R|811|942|
 |Predicted NR|875|972|
@@ -215,62 +215,62 @@
 ## Evaluation Session: LR
 
 - Receiver operating characteristic (ROC): 0.830078
-- Confusion matrix: Training
+- Contingency table: Training
 	- Accuracy: 0.7812
 	- Sensitivity: 0.7812
 	- Specificity: 0.7812
 	- PPV: 0.7812
 	- NPV: 0.7812
 
-||True R|True NR|
+||Actual R|Actual NR|
 |:-:|:-:|:-:|
 |Predicted R|25|7|
 |Predicted NR|7|25|
 
-- Confusion matrix: Test 1
+- Contingency table: Test 1
 	- Accuracy: 0.7143
 	- Sensitivity: 0.7692
 	- Specificity: 0.6667
 	- PPV: 0.6667
 	- NPV: 0.7692
 
-||True R|True NR|
+||Actual R|Actual NR|
 |:-:|:-:|:-:|
 |Predicted R|10|5|
 |Predicted NR|3|10|
 
-- Confusion matrix: Test 2
+- Contingency table: Test 2
 	- Accuracy: 0.4783
 	- Sensitivity: 0.4545
 	- Specificity: 0.5000
 	- PPV: 0.4545
 	- NPV: 0.5000
 
-||True R|True NR|
+||Actual R|Actual NR|
 |:-:|:-:|:-:|
 |Predicted R|5|6|
 |Predicted NR|6|6|
 
-- Confusion matrix: Transfer Test 2 Training
+- Contingency table: Transfer Test 2 Training
 	- Accuracy: 0.7639
 	- Sensitivity: 0.7550
 	- Specificity: 0.7721
 	- PPV: 0.7522
 	- NPV: 0.7747
 
-||True R|True NR|
+||Actual R|Actual NR|
 |:-:|:-:|:-:|
 |Predicted R|2022|666|
 |Predicted NR|656|2256|
 
-- Confusion matrix: Transfer Test 2 Test
+- Contingency table: Transfer Test 2 Test
 	- Accuracy: 0.5997
 	- Sensitivity: 0.5552
 	- Specificity: 0.6406
 	- PPV: 0.5861
 	- NPV: 0.6110
 
-||True R|True NR|
+||Actual R|Actual NR|
 |:-:|:-:|:-:|
 |Predicted R|956|675|
 |Predicted NR|766|1203|
@@ -283,62 +283,62 @@
 ## Evaluation Session: SVC
 
 - Receiver operating characteristic (ROC): 0.827148
-- Confusion matrix: Training
+- Contingency table: Training
 	- Accuracy: 0.7656
 	- Sensitivity: 0.7500
 	- Specificity: 0.7812
 	- PPV: 0.7742
 	- NPV: 0.7576
 
-||True R|True NR|
+||Actual R|Actual NR|
 |:-:|:-:|:-:|
 |Predicted R|24|7|
 |Predicted NR|8|25|
 
-- Confusion matrix: Test 1
+- Contingency table: Test 1
 	- Accuracy: 0.7143
 	- Sensitivity: 0.7692
 	- Specificity: 0.6667
 	- PPV: 0.6667
 	- NPV: 0.7692
 
-||True R|True NR|
+||Actual R|Actual NR|
 |:-:|:-:|:-:|
 |Predicted R|10|5|
 |Predicted NR|3|10|
 
-- Confusion matrix: Test 2
+- Contingency table: Test 2
 	- Accuracy: 0.4783
 	- Sensitivity: 0.3636
 	- Specificity: 0.5833
 	- PPV: 0.4444
 	- NPV: 0.5000
 
-||True R|True NR|
+||Actual R|Actual NR|
 |:-:|:-:|:-:|
 |Predicted R|4|5|
 |Predicted NR|7|7|
 
-- Confusion matrix: Transfer Test 2 Training
+- Contingency table: Transfer Test 2 Training
 	- Accuracy: 0.7536
 	- Sensitivity: 0.7364
 	- Specificity: 0.7693
 	- PPV: 0.7453
 	- NPV: 0.7610
 
-||True R|True NR|
+||Actual R|Actual NR|
 |:-:|:-:|:-:|
 |Predicted R|1972|674|
 |Predicted NR|706|2248|
 
-- Confusion matrix: Transfer Test 2 Test
+- Contingency table: Transfer Test 2 Test
 	- Accuracy: 0.5689
 	- Sensitivity: 0.5186
 	- Specificity: 0.6150
 	- PPV: 0.5526
 	- NPV: 0.5822
 
-||True R|True NR|
+||Actual R|Actual NR|
 |:-:|:-:|:-:|
 |Predicted R|893|723|
 |Predicted NR|829|1155|

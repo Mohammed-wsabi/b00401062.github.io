@@ -27,7 +27,7 @@ class Evaluator:
 		self.__plot_roc_curve(tpr, fpr)
 		return self
 	def predict(self, dataset, title = None):
-		print("- Confusion matrix: %s" % title)
+		print("- Contingency table: %s" % title)
 		X = concat((dataset.NR, dataset.R))
 		y = Series(
 			["NR"] * dataset.NR.shape[0] + ["R"] * dataset.R.shape[0],
@@ -54,9 +54,9 @@ class Evaluator:
 			pool.Training.Predicted.extend(self.preprocessor.estimator.predict(self.preprocessor.transform(X.iloc[train])))
 			pool.Test.Actual.extend(y[test])
 			pool.Test.Predicted.extend(self.preprocessor.estimator.predict(self.preprocessor.transform(X.iloc[test])))
-		print("- Confusion matrix: %s Training" % title)
+		print("- Contingency table: %s Training" % title)
 		self.__print_confusion_matrix(pool.Training.Actual, pool.Training.Predicted)
-		print("- Confusion matrix: %s Test" % title)
+		print("- Contingency table: %s Test" % title)
 		self.__print_confusion_matrix(pool.Test.Actual, pool.Test.Predicted)
 	def __plot_roc_curve(self, tpr, fpr):
 		plot(fpr, tpr, lw = 2)
@@ -71,12 +71,12 @@ class Evaluator:
 		table = confusion_matrix(y, prediction)
 		table[0, 0], table[1, 1] = table[1, 1], table[0, 0]
 		table = DataFrame(table)
-		table.columns = ["True R", "True NR"]
+		table.columns = ["Actual R", "Actual NR"]
 		table.index = ["Predicted R", "Predicted NR"]
-		tn = table.loc["Predicted NR", "True NR"]
-		tp = table.loc["Predicted R", "True R"]
-		fn = table.loc["Predicted NR", "True R"]
-		fp = table.loc["Predicted R", "True NR"]
+		tn = table.loc["Predicted NR", "Actual NR"]
+		tp = table.loc["Predicted R", "Actual R"]
+		fn = table.loc["Predicted NR", "Actual R"]
+		fp = table.loc["Predicted R", "Actual NR"]
 		acc = (tp + tn) / (tp + fp + tn + fn)
 		sen = tp / (tp + fn)
 		spe = tn / (tn + fp)
