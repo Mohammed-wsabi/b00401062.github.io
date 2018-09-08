@@ -45,8 +45,8 @@ class Evaluator:
 			dtype = "category"
 		).rename("Category")
 		pool = Set(Training = Outcome(Actual = [], Predicted = []), Test = Outcome(Actual = [], Predicted = []))
-		random.seed(4)
-		for i in range(100):
+		random.seed(0)
+		for i in range(400):
 			train = random.choice(range(y.size), round(y.size * .6), replace = False)
 			test = list(set(range(y.size)) - set(train))
 			self.preprocessor.estimator.fit(self.preprocessor.transform(X.iloc[train]), y[train])

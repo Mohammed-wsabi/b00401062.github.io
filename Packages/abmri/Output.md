@@ -74,7 +74,7 @@
 ## Validation Session: LDA
 
 - Best parameter: 0.000000
-- Best mean (sd) of accuracy: 0.6250 (0.1169)
+- Best mean (sd) of accuracy: 0.0000 (0.0000)
 
 ## Evaluation Session: LDA
 
@@ -116,33 +116,33 @@
 |Predicted NR|6|7|
 
 - Confusion matrix: Transfer Test 2 Training
-	- Accuracy: 0.7636
-	- Sensitivity: 0.7450
-	- Specificity: 0.7799
-	- PPV: 0.7485
-	- NPV: 0.7767
+	- Accuracy: 0.7580
+	- Sensitivity: 0.7406
+	- Specificity: 0.7744
+	- PPV: 0.7554
+	- NPV: 0.7605
 
 ||True R|True NR|
 |:-:|:-:|:-:|
-|Predicted R|488|164|
-|Predicted NR|167|581|
+|Predicted R|2010|651|
+|Predicted NR|704|2235|
 
 - Confusion matrix: Transfer Test 2 Test
-	- Accuracy: 0.5956
-	- Sensitivity: 0.5326
-	- Specificity: 0.6571
-	- PPV: 0.6031
-	- NPV: 0.5897
+	- Accuracy: 0.5931
+	- Sensitivity: 0.5617
+	- Specificity: 0.6207
+	- PPV: 0.5660
+	- NPV: 0.6165
 
 ||True R|True NR|
 |:-:|:-:|:-:|
-|Predicted R|237|156|
-|Predicted NR|208|299|
+|Predicted R|947|726|
+|Predicted NR|739|1188|
 
 ## Validation Session: QDA
 
 - Best parameter: 0.000000
-- Best mean (sd) of accuracy: 0.6406 (0.1353)
+- Best mean (sd) of accuracy: 0.5000 (0.5000)
 
 ## Evaluation Session: QDA
 
@@ -184,116 +184,116 @@
 |Predicted NR|7|8|
 
 - Confusion matrix: Transfer Test 2 Training
-	- Accuracy: 0.8200
-	- Sensitivity: 0.7974
-	- Specificity: 0.8420
-	- PPV: 0.8311
-	- NPV: 0.8100
+	- Accuracy: 0.8277
+	- Sensitivity: 0.8058
+	- Specificity: 0.8482
+	- PPV: 0.8331
+	- NPV: 0.8229
 
 ||True R|True NR|
 |:-:|:-:|:-:|
-|Predicted R|551|112|
-|Predicted NR|140|597|
+|Predicted R|2187|438|
+|Predicted NR|527|2448|
 
 - Confusion matrix: Transfer Test 2 Test
-	- Accuracy: 0.4967
-	- Sensitivity: 0.4988
-	- Specificity: 0.4949
-	- PPV: 0.4513
-	- NPV: 0.5424
+	- Accuracy: 0.4953
+	- Sensitivity: 0.4810
+	- Specificity: 0.5078
+	- PPV: 0.4626
+	- NPV: 0.5263
 
 ||True R|True NR|
 |:-:|:-:|:-:|
-|Predicted R|204|248|
-|Predicted NR|205|243|
+|Predicted R|811|942|
+|Predicted NR|875|972|
 
 ## Validation Session: LR
 
-- Best parameter: 0.000977
-- Best mean (sd) of accuracy: 0.6250 (0.1169)
+- Best parameter: 0.535887
+- Best mean (sd) of accuracy: 0.4219 (0.4939)
 
 ## Evaluation Session: LR
 
-- Receiver operating characteristic (ROC): 0.833984
+- Receiver operating characteristic (ROC): 0.830078
 - Confusion matrix: Training
-	- Accuracy: 0.7656
+	- Accuracy: 0.7812
 	- Sensitivity: 0.7812
-	- Specificity: 0.7500
-	- PPV: 0.7576
-	- NPV: 0.7742
+	- Specificity: 0.7812
+	- PPV: 0.7812
+	- NPV: 0.7812
 
 ||True R|True NR|
 |:-:|:-:|:-:|
-|Predicted R|25|8|
-|Predicted NR|7|24|
+|Predicted R|25|7|
+|Predicted NR|7|25|
 
 - Confusion matrix: Test 1
-	- Accuracy: 0.7500
-	- Sensitivity: 0.8462
+	- Accuracy: 0.7143
+	- Sensitivity: 0.7692
 	- Specificity: 0.6667
-	- PPV: 0.6875
-	- NPV: 0.8333
+	- PPV: 0.6667
+	- NPV: 0.7692
 
 ||True R|True NR|
 |:-:|:-:|:-:|
-|Predicted R|11|5|
-|Predicted NR|2|10|
+|Predicted R|10|5|
+|Predicted NR|3|10|
 
 - Confusion matrix: Test 2
-	- Accuracy: 0.5217
+	- Accuracy: 0.4783
 	- Sensitivity: 0.4545
-	- Specificity: 0.5833
-	- PPV: 0.5000
-	- NPV: 0.5385
+	- Specificity: 0.5000
+	- PPV: 0.4545
+	- NPV: 0.5000
 
 ||True R|True NR|
 |:-:|:-:|:-:|
-|Predicted R|5|5|
-|Predicted NR|6|7|
+|Predicted R|5|6|
+|Predicted NR|6|6|
 
 - Confusion matrix: Transfer Test 2 Training
-	- Accuracy: 0.7521
-	- Sensitivity: 0.7425
-	- Specificity: 0.7609
-	- PPV: 0.7392
-	- NPV: 0.7641
+	- Accuracy: 0.7639
+	- Sensitivity: 0.7550
+	- Specificity: 0.7721
+	- PPV: 0.7522
+	- NPV: 0.7747
 
 ||True R|True NR|
 |:-:|:-:|:-:|
-|Predicted R|496|175|
-|Predicted NR|172|557|
+|Predicted R|2022|666|
+|Predicted NR|656|2256|
 
 - Confusion matrix: Transfer Test 2 Test
-	- Accuracy: 0.5956
-	- Sensitivity: 0.5579
-	- Specificity: 0.6303
-	- PPV: 0.5821
-	- NPV: 0.6070
+	- Accuracy: 0.5997
+	- Sensitivity: 0.5552
+	- Specificity: 0.6406
+	- PPV: 0.5861
+	- NPV: 0.6110
 
 ||True R|True NR|
 |:-:|:-:|:-:|
-|Predicted R|241|173|
-|Predicted NR|191|295|
+|Predicted R|956|675|
+|Predicted NR|766|1203|
 
 ## Validation Session: SVC
 
-- Best parameter: 0.153893
-- Best mean (sd) of accuracy: 0.5938 (0.1127)
+- Best parameter: 0.615572
+- Best mean (sd) of accuracy: 0.4844 (0.4998)
 
 ## Evaluation Session: SVC
 
-- Receiver operating characteristic (ROC): 0.826172
+- Receiver operating characteristic (ROC): 0.827148
 - Confusion matrix: Training
-	- Accuracy: 0.7969
+	- Accuracy: 0.7656
 	- Sensitivity: 0.7500
-	- Specificity: 0.8438
-	- PPV: 0.8276
-	- NPV: 0.7714
+	- Specificity: 0.7812
+	- PPV: 0.7742
+	- NPV: 0.7576
 
 ||True R|True NR|
 |:-:|:-:|:-:|
-|Predicted R|24|5|
-|Predicted NR|8|27|
+|Predicted R|24|7|
+|Predicted NR|8|25|
 
 - Confusion matrix: Test 1
 	- Accuracy: 0.7143
@@ -320,25 +320,25 @@
 |Predicted NR|7|7|
 
 - Confusion matrix: Transfer Test 2 Training
-	- Accuracy: 0.7443
-	- Sensitivity: 0.7258
-	- Specificity: 0.7618
-	- PPV: 0.7432
-	- NPV: 0.7452
+	- Accuracy: 0.7536
+	- Sensitivity: 0.7364
+	- Specificity: 0.7693
+	- PPV: 0.7453
+	- NPV: 0.7610
 
 ||True R|True NR|
 |:-:|:-:|:-:|
-|Predicted R|495|171|
-|Predicted NR|187|547|
+|Predicted R|1972|674|
+|Predicted NR|706|2248|
 
 - Confusion matrix: Transfer Test 2 Test
-	- Accuracy: 0.5389
-	- Sensitivity: 0.4952
-	- Specificity: 0.5768
-	- PPV: 0.5036
-	- NPV: 0.5685
+	- Accuracy: 0.5689
+	- Sensitivity: 0.5186
+	- Specificity: 0.6150
+	- PPV: 0.5526
+	- NPV: 0.5822
 
 ||True R|True NR|
 |:-:|:-:|:-:|
-|Predicted R|207|204|
-|Predicted NR|211|278|
+|Predicted R|893|723|
+|Predicted NR|829|1155|
