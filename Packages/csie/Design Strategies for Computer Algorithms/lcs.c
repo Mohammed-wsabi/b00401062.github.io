@@ -11,7 +11,7 @@ static int COUNT, T[MAX][MAX], TOPS[MAX], PATH[MAXLINES][2];
 static char STR0[MAX], STR1[MAX], BUF[MAX], REC[MAXLINES][MAX], *PTR[MAXLINES];
 
 int cmp(const void *a, const void *b) {
-    return strcmp(*(const char **) a, *(const char **) b);
+	return strcmp(*(const char **) a, *(const char **) b);
 }
 
 bool isin(int level, int i, int j) {
