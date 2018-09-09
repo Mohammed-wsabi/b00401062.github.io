@@ -12,7 +12,7 @@ from sklearn.decomposition import PCA
 from sklearn.preprocessing import scale
 from statsmodels.formula.api import ols
 from statsmodels.stats.anova import anova_lm
-from Constants import *
+from abmri.Constants import *
 
 class Preprocessor(BaseEstimator, ClassifierMixin):
 	def __init__(self, estimator = None, alpha = .05, indices = ["GFA"], n_components = .6, output = False):
