@@ -10,13 +10,13 @@ During my years as a computer science undergraduate student, I had a chance to h
 
 [Java](https://www.java.com) is one of the few languages brought into being in the early history of computer programming. It is characterized by well-structured syntax but solicits inevitable criticism on its verbosity. Equipped with profuse built-in libraries, Java supports native graphical user interface, network programming, database management, etc. It is also powered by a broad community, of which the most well-known one is [Apache](https://www.apache.org). Due to its enduring popularity in the industry, Java will undoubtedly keep evolving at a steady pace to adapt to the ever-changing world.
 
-## C & Python
+## C/Python
 
 C has a long history, compared to other newcomers, which can date back to 1970s. It is extremely efficient due not only to less overloading for each instruction but also to direct compilation from human-readable code to Assembly code. C does not provide advanced data structures, which makes it a popular tool for classroom use, since students have to implement each data structure/algorithm from scratches instead of using a black-box without knowing what is inside.
 
 [Python](https://www.python.org) is thought of as the only language that can possibly replace the dominance of Java and C in foreseeable future. Python encapsulates both low- and high-level functionalities into its coding library, and has been largely adapted for both general-purpose programming and data analysis. Its intuitive syntax is an attraction for beginners. In addition, its large user-base and solid open-source supports have drawn attention from technology giants to development of Python-compatible APIs.
 
-## R & Matlab
+## R/Matlab
 
 Speaking of statistics, [R](https://www.r-project.org) is arguably the first choice coming to mind. Designed to mitigate the overwhelming pipeline during data analysis, R puts together common functionalities a statistician would need and wraps them into standalone functions. R is regarded as one of the easiest-to-learn languages compared to others that entail steep learning curve.
 
