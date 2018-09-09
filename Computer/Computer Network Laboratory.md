@@ -7,7 +7,7 @@
 
 - Note: [Computer Network Laboratory Lab 1.pdf](Computer%20Network%20Laboratory/Computer%20Network%20Laboratory%20Lab%201.pdf)
 - Homework: [2017_Lab1_Firewall_NAT(exeriment).pdf](http://www.pcs.csie.ntu.edu.tw/views/courses/cnl/2017/2017_Lab1_Firewall_NAT(exeriment).pdf)
-- Solutions: [dhcpd.conf](Computer%20Network%20Laboratory/dhcpd.conf), [firewall.sh](Computer%20Network%20Laboratory/firewall.sh), [isc-dhcp-server](Computer%20Network%20Laboratory/isc-dhcp-server), [setup.sh](Computer%20Network%20Laboratory/setup.sh), [Reports1.pdf](Computer%20Network%20Laboratory/Reports1.pdf)
+- Solutions: [Reports1.pdf](Computer%20Network%20Laboratory/Reports1.pdf)
 
 ## 2017-03-22 ~ 2017-04-12
 
