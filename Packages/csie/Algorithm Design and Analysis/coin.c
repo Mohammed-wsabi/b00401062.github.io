@@ -15,8 +15,8 @@ int main(int argc, char *argv[]) {
 		scanf("%d", &coins[n]);
 	qsort(coins, N, sizeof(int), cmpfunc);
 	for (int n = 0; n < N; n++)
-	    for (int i = coins[n]; i <= P; i++)
-	        table[i] = (table[i] + table[i-coins[n]]) % 1000000007;
+		for (int i = coins[n]; i <= P; i++)
+			table[i] = (table[i] + table[i-coins[n]]) % 1000000007;
 	printf("%lld\n", table[P]);
 	return 0;
 }
