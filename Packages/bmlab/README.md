@@ -1,15 +1,20 @@
+# bmlab
+
 ## Excluded Subjects
+
 - Subject 8: age > 30
 - Subject 15: severe head motion
 - Subject 21: severe head motion
 - Subject 48: left-handed
 
 ## Common Analysis Scripts
+
 - [slover_batch.m](slover_batch.m): display overlay of brain slices.
 - [stats_task.m](stats_task.m): compare FC across tasks with ANOVA and post-hoc comparison.
 - [stats_rest.m](stats_rest.m): compare FC across rests with paired t test.
 
 ## ROI Analysis
+
 - [dmn_masks.m](dmn_masks.m): collect subject-specific DMN T1 mask and apply DMN T1 mask to fMRI template.
 - [roi_stats.R](roi_stats.R)/[roi_stats.m](roi_stats.m): statistical analysis of functional connectivity.
 
