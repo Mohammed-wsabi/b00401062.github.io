@@ -4,14 +4,10 @@
 - Subject 21: severe head motion
 - Subject 48: left-handed
 
-## Subject Summary
-- [summary.py](summary.py): summarize the statistics of personal information.
-
 ## Common Analysis Scripts
 - [slover_batch.m](slover_batch.m): display overlay of brain slices.
 - [stats_task.m](stats_task.m): compare FC across tasks with ANOVA and post-hoc comparison.
 - [stats_rest.m](stats_rest.m): compare FC across rests with paired t test.
-- [errplot.py](errplot.py): generate plots with error bars.
 
 ## ROI Analysis
 - [dmn_masks.m](dmn_masks.m): collect subject-specific DMN T1 mask and apply DMN T1 mask to fMRI template.
@@ -32,7 +28,7 @@
 - [filtered.m](filtered.m): filter MNI-space images for GIFT toolbox and save to Filtered folder.
 - [residuals.m](residuals.m): regress task HRF out of filtered images.
 - [converted.m](converted.m): collect regressed filtered resting-state images into Converted folder.
-- [aal_collect.sh](aal_collect.sh): collect targeted DMN regions from AAL cerebrum into AAL_DMN folder.
+- [aal_collect.R](aal_collect.R): collect targeted DMN regions from AAL cerebrum into AAL_DMN folder.
 - [mni_collect.m](mni_collect.m): read and combine images from AAL cerebrum and DMN and apply DMN mask to template.
 - [group_ica.R](group_ica.R): choose components to achieve the most probable spatial distribution of DMN.
 - [dmn_zmaps.R](dmn_zmaps.R): generate z-maps from component images.
