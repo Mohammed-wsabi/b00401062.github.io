@@ -7,12 +7,12 @@
 
 - Note: [Computer Network Laboratory Lab 1.pdf](http://www.pcs.csie.ntu.edu.tw/views/courses/cnl/2017/2017_Lab1_Firewall_NAT(exeriment).pdf)
 - Homework: [2017_Lab1_Firewall_NAT(exeriment).pdf](http://www.pcs.csie.ntu.edu.tw/views/courses/cnl/2017/2017_Lab1_Firewall_NAT(exeriment).pdf)
-- Solutions: [Reports1.pdf](Computer%20Network%20Laboratory/Reports1.pdf)
+- Solutions: [Report1.pdf](Computer%20Network%20Laboratory/Report1.pdf)
 
 ## 2017-03-22 ~ 2017-04-12
 
 - Homework: [2017_Lab2_experiment.pdf](http://www.pcs.csie.ntu.edu.tw/views/courses/cnl/2017/2017_Lab2_experiment.pdf)
-- Solutions: [Reports2.pdf](Computer%20Network%20Laboratory/Reports2.pdf)
+- Solutions: [Report2.pdf](Computer%20Network%20Laboratory/Report2.pdf)
 
 ## 2017-04-26 ~ 2017-05-10
 
