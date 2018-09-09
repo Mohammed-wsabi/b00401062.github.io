@@ -97,6 +97,7 @@ title: Life Code
 - [abmri](Packages/abmri): Standardized pipeline for DTI analysis.
 - [bmlab](Packages/bmlab): Standardized pipeline for fMRI analysis.
 - [calculator](Packages/calculator): A calculator built with postfix algorithm and stacks from scratch.
+- [cgm](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/cgm): Standardized pipeline for metagenomics analysis.
 - [codechef](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/codechef): Collection of Java programs solving [CodeChef](https://www.codechef.com) problems.
 - [csie](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/csie): Collection of code for CSIE undergraduage assignments.
 - [gpa](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/gpa): An applet built with [AWT](https://en.wikipedia.org/wiki/Abstract_Window_Toolkit) and [Swing](https://en.wikipedia.org/wiki/Swing_(Java)) that calculates your average GPA.
