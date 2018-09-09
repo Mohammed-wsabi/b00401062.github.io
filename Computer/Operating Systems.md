@@ -7,10 +7,8 @@
 ## 2017-02-22 ~ 2017-04-19
 
 - Notes: [Operating Systems Midterm.pdf](Operating%20Systems/Operating%20Systems%20Midterm.pdf)
-- Homework: compile Linux kernel on Ubuntu OS
-- Solutions: [kernel.sh](Operating%20Systems/kernel.sh)
 - Homework: [Process Scheduling](http://rswiki.csie.org/dokuwiki/courses:105_2:project_1)
-- Solutions: [scheduler.c](Operating%20Systems/scheduler.c)
+- Solutions: [scheduler.c](../Packages/csie/Operating%20Systems/scheduler.c)
 
 ## 2017-04-26
 
