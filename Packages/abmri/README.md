@@ -1,4 +1,4 @@
-# abmri
+# Advanced Biomedical MRI Lab (ABMRI)
 
 ## Load Data
 
