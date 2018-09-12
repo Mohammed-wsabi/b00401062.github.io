@@ -1,4 +1,4 @@
-# bmlab
+# Brain and Mind Laboratory (BMLab)
 
 ## Excluded Subjects
 
