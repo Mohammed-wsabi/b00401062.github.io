@@ -5,52 +5,54 @@ export CGM=~/Downloads/Researches/CGM/Datasets
 
 source activate qiime
 
-## Import Data
+## Demultiplex
 
 qiime tools import \
-	--type 'SampleData[PairedEndSequencesWithQuality]' \
+	--type "SampleData[PairedEndSequencesWithQuality]" \
 	--input-path $CGM/Manifest.csv \
-	--output-path $CGM/Demux/Demux.qza \
+	--output-path $CGM/Demultiplexed.qza \
 	--input-format PairedEndFastqManifestPhred33
 
 qiime demux summarize \
-	--i-data $CGM/Demux/Demux.qza \
-	--o-visualization $CGM/Demux/Demux.qzv
+	--i-data $CGM/Demultiplexed.qza \
+	--o-visualization $CGM/Demultiplexed.qzv
 
-## Quality Analysis
+## Filter
 
 qiime quality-filter q-score \
-	--i-demux $CGM/Demux/Demux.qza \
-	--o-filtered-sequences $CGM/QA/Sequences.qza \
-	--o-filter-stats $CGM/QA/Stats.qza
+	--i-demux $CGM/Demultiplexed.qza \
+	--o-filtered-sequences $CGM/Filtered.qza \
+	--o-filter-stats $CGM/Filter.qza
 
-## Denoise: DATA2
-
-qiime dada2 denoise-single \
-	--i-demultiplexed-seqs $CGM/Demux/Sequences.qza \
-	--p-trim-left 0 \
-	--p-trunc-len 200 \
-	--o-representative-sequences $CGM/DADA2/Representative.qza \
-	--o-table $CGM/DADA2/Table.qza \
-	--o-denoising-stats $CGM/DADA2/Stats.qza
+qiime demux summarize \
+	--i-data $CGM/Filtered.qza \
+	--o-visualization $CGM/Filtered.qzv
 
 qiime metadata tabulate \
-	--m-input-file $CGM/DADA2/Stats.qza \
-	--o-visualization $CGM/DADA2/Stats.qzv
+	--m-input-file $CGM/Filter.qza \
+	--o-visualization $CGM/Filter.qzv
 
-## Denoise: Deblur
+## Denoise
 
-qiime deblur denoise-16S \
-	--i-demultiplexed-seqs $CGM/Deblur/Filtered.qza \
-	--p-trim-length 200 \
-	--o-representative-sequences $CGM/Deblur/Representative.qza \
-	--o-table $CGM/Deblur/Table.qza \
-	--p-sample-stats \
-	--o-stats $CGM/Deblur/Stats.qza
+qiime dada2 denoise-single \
+	--i-demultiplexed-seqs $CGM/Demultiplexed.qza \
+	--p-trim-left 0 \
+	--p-trunc-len 200 \
+	--o-representative-sequences $CGM/Representative.qza \
+	--o-table $CGM/Features.qza \
+	--o-denoising-stats $CGM/Denoise.qza
 
-qiime deblur visualize-stats \
-	--i-deblur-stats $CGM/Deblur/Stats.qza \
-	--o-visualization $CGM/Deblur/Stats.qzv
+qiime feature-table tabulate-seqs \
+	--i-data $CGM/Representative.qza \
+	--o-visualization $CGM/Representative.qzv
+
+qiime feature-table summarize \
+	--i-table $CGM/Features.qza \
+	--o-visualization $CGM/Features.qzv \
+
+qiime metadata tabulate \
+	--m-input-file $CGM/Denoise.qza \
+	--o-visualization $CGM/Denoise.qzv
 
 source deactivate
 
