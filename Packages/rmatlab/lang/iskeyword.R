@@ -18,7 +18,10 @@ iskeyword <- function(txt) {
 		"NA_integer_",
 		"NA_real_",
 		"NA_complex_",
-		"NA_character_"
+		"NA_character_",
+		"...",
+		"..1",
+		"..2"
 	)
 	if (missing(txt)) {
 		return(keywords)
