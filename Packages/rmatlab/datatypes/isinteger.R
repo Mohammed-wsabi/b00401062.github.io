@@ -1,1 +1,1 @@
-isinteger <- function(A) typeof(A) == "integer"
+isinteger <- is.integer

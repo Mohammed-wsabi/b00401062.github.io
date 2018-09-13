@@ -1,1 +1,1 @@
-isreal <- function(A) typeof(A) %in% c("integer", "double")
+isreal <- function(A) is.integer(A) | is.double(A)

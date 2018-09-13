@@ -1,1 +1,1 @@
-isfloat <- function(A) typeof(A) == "double"
+isfloat <- is.double

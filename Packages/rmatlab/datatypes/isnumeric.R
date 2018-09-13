@@ -1,1 +1,1 @@
-isnumeric <- function(A) typeof(A) %in% c("integer", "double", "complex")
+isnumeric <- function(A) is.integer(A) | is.double(A) | is.complex(A)
