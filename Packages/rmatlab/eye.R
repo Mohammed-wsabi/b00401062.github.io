@@ -1,11 +1,10 @@
 eye <- function(n, m, typename = "double") {
-	stopifnot(class(typename) == "character")
 	stopifnot(typename %in% c("integer", "double"))
 	one <- ifelse(typename == "integer", 1L, 1)
 	if (missing(n)) {
 		return(one)
 	}
-	stopifnot(typeof(n) == "integer" && length(n) <= 2)
+	stopifnot(length(n) <= 2)
 	if (length(n) == 1) {
 		if (missing(m)) {
 			return(diag(one, n))

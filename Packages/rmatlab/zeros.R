@@ -1,12 +1,9 @@
 zeros <- function(sz, ..., typename = "double") {
-	stopifnot(class(typename) == "character")
 	stopifnot(typename %in% c("integer", "double"))
 	zero <- ifelse(typename == "integer", 1L, 1)
 	if (missing(sz)) {
 		return(zero)
 	}
-	stopifnot(typeof(sz) == "integer")
-	stopifnot(all(sapply(list(...), typeof) == "integer"))
 	if (length(sz) == 1) {
 		if (...length() == 0) {
 			return(array(zero, c(sz, sz)))
