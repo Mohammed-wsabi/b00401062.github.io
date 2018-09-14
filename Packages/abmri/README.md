@@ -1,6 +1,6 @@
 # Advanced Biomedical MRI Lab (ABMRI)
 
-## Load Data
+## Importing Data
 
 - [Constants.py](Constants.py): define a list of constants including tracts and features.
 - [Populator.py](Populator.py): load diffusion indices of chronic and first-episode patients.
