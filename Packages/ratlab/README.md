@@ -1,18 +1,18 @@
 # Ratlab
 
-- [eye.R](eye.R)
-- [false.R](false.R)
-- [find.R](find.R)
-- [ind2sub.R](ind2sub.R)
-- [linspace.R](linspace.R)
-- [logspace.R](logspace.R)
-- [meshgrid.R](meshgrid.R)
-- [ndims.R](ndims.R)
-- [numel.R](numel.R)
-- [ones.R](ones.R)
-- [rand.R](rand.R)
-- [repelem.R](repelem.R)
-- [size.R](size.R)
-- [sub2ind.R](sub2ind.R)
-- [true.R](true.R)
-- [zeros.R](zeros.R)
+- [eye.R](eye.R): Identity matrix.
+- [false.R](false.R): Logical 0 (false).
+- [find.R](find.R): Find indices and values of nonzero elements.
+- [ind2sub.R](ind2sub.R): Subscripts from linear index.
+- [linspace.R](linspace.R): Generate linearly spaced vector.
+- [logspace.R](logspace.R): Generate logarithmically spaced vector.
+- [meshgrid.R](meshgrid.R): 2-D grids.
+- [ndims.R](ndims.R): Number of array dimensions.
+- [numel.R](numel.R): Number of array elements.
+- [ones.R](ones.R): Create array of all ones.
+- [rand.R](rand.R): Uniformly distributed random numbers.
+- [repelem.R](repelem.R): Repeat copies of array elements.
+- [size.R](size.R): Array size.
+- [sub2ind.R](sub2ind.R): Convert subscripts to linear indices.
+- [true.R](true.R): Logical 1 (true).
+- [zeros.R](zeros.R): Create array of all zeros.
