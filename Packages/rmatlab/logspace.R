@@ -1,4 +1,4 @@
-logspace <- function(a, b, n = 100) {
+logspace <- function(a, b, n = 50) {
 	stopifnot(length(n) == 1 && n >= 0)
 	if (n == 0) {
 		return(numeric())
