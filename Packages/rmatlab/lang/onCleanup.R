@@ -1,0 +1,1 @@
+onCleanup <- on.exit
