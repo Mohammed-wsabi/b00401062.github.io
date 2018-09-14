@@ -1,6 +1,6 @@
 zeros <- function(sz, ..., typename = "double") {
 	stopifnot(typename %in% c("integer", "double"))
-	zero <- ifelse(typename == "integer", 1L, 1)
+	zero <- ifelse(typename == "integer", 0L, 0)
 	if (missing(sz)) {
 		return(zero)
 	}

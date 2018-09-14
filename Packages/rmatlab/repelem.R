@@ -1,5 +1,5 @@
 repelem <- function(v, n) {
-	if (length(n) == 1L) {
+	if (length(n) == 1) {
 		return(rep(v, each = n))
 	} else {
 		stopifnot(length(v) == length(n))

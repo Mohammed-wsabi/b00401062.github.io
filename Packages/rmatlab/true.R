@@ -2,15 +2,15 @@ true <- function(sz, ...) {
 	if (missing(sz)) {
 		return(TRUE)
 	}
-	if (length(sz) == 1L) {
-		if (...length() == 0L) {
+	if (length(sz) == 1) {
+		if (...length() == 0) {
 			return(array(TRUE, c(sz, sz)))
 		} else {
-			stopifnot(all(sapply(list(...), length) == 1L))
+			stopifnot(all(sapply(list(...), length) == 1))
 			return(array(TRUE, c(sz, ...)))
 		}
 	} else {
-		stopifnot(...length() == 0L)
+		stopifnot(...length() == 0)
 		return(array(TRUE, sz))
 	}
 }
