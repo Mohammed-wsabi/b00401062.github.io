@@ -1,1 +1,0 @@
-ans <- function() .Last.value
