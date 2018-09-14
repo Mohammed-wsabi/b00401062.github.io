@@ -1,1 +1,0 @@
-isinteger <- is.integer

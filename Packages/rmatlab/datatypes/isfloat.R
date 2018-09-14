@@ -1,1 +1,0 @@
-isfloat <- is.double

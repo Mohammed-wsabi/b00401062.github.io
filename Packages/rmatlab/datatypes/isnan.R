@@ -1,1 +1,0 @@
-isnan <- is.nan

@@ -1,1 +1,0 @@
-double <- .Primitive("as.double")
