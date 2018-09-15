@@ -66,11 +66,11 @@ mv $CGM/tree.nwk $CGM/RootedTree.nwk
 ## Diversity Analysis
 
 qiime diversity core-metrics-phylogenetic \
-	--i-phylogeny rooted-tree.qza \
-	--i-table table.qza \
-	--p-sampling-depth 1109 \
-	--m-metadata-file sample-metadata.tsv \
-	--output-dir core-metrics-results
+	--i-phylogeny $CGM/RootedTree.qza \
+	--i-table $CGM/FeatureTable.qza \
+	--p-sampling-depth 32025 \
+	--m-metadata-file $CGM/Metadata.tsv \
+	--output-dir $CGM/DiversityMetrics
 
 ### Alpha Diversity Analysis
 
