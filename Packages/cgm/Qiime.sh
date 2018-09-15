@@ -25,7 +25,7 @@ qiime dada2 denoise-single \
 	--p-trunc-len 200 \
 	--o-representative-sequences $CGM/Representative.qza \
 	--o-table $CGM/Features.qza \
-	--o-denoising-stats $CGM/DenoiseStats.qza
+	--o-denoising-stats $CGM/DenoisingStats.qza
 
 qiime feature-table tabulate-seqs \
 	--i-data $CGM/Representative.qza \
@@ -36,8 +36,8 @@ qiime feature-table summarize \
 	--o-visualization $CGM/Features.qzv \
 
 qiime metadata tabulate \
-	--m-input-file $CGM/DenoiseStats.qza \
-	--o-visualization $CGM/DenoiseStats.qzv
+	--m-input-file $CGM/DenoisingStats.qza \
+	--o-visualization $CGM/DenoisingStats.qzv
 
 ## Phylogeny
 
