@@ -11,119 +11,120 @@ qiime tools import \
 	--type "SampleData[PairedEndSequencesWithQuality]" \
 	--input-path $CGM/Manifest.csv \
 	--input-format PairedEndFastqManifestPhred33 \
-	--output-path $CGM/Demultiplexed.qza
+	--output-path $CGM/demux.qza
 
 qiime demux summarize \
-	--i-data $CGM/Demultiplexed.qza \
-	--o-visualization $CGM/Demultiplexed.qzv
+	--i-data $CGM/demux.qza \
+	--o-visualization $CGM/demux.qzv
 
 ## Denoising
 
 qiime dada2 denoise-paired \
-	--i-demultiplexed-seqs $CGM/Demultiplexed.qza \
+	--i-demultiplexed-seqs $CGM/demux.qza \
 	--p-trim-left-f 0 \
 	--p-trim-left-r 0 \
 	--p-trunc-len-f 200 \
 	--p-trunc-len-r 200 \
 	--p-n-threads 0 \
-	--o-representative-sequences $CGM/Representative.qza \
-	--o-table $CGM/FeatureTable.qza \
-	--o-denoising-stats $CGM/DenoisingStats.qza
+	--o-representative-sequences $CGM/rep-seqs.qza \
+	--o-table $CGM/table.qza \
+	--o-denoising-stats $CGM/stats.qza
 
 qiime feature-table tabulate-seqs \
-	--i-data $CGM/Representative.qza \
-	--o-visualization $CGM/Representative.qzv
+	--i-data $CGM/rep-seqs.qza \
+	--o-visualization $CGM/rep-seqs.qzv
 
 qiime feature-table summarize \
-	--i-table $CGM/FeatureTable.qza \
-	--o-visualization $CGM/FeatureTable.qzv
+	--i-table $CGM/table.qza \
+	--o-visualization $CGM/table.qzv
+	--m-sample-metadata-file $CGM/Metadata.tsv
 
 qiime metadata tabulate \
-	--m-input-file $CGM/DenoisingStats.qza \
-	--o-visualization $CGM/DenoisingStats.qzv
+	--m-input-file $CGM/stats.qza \
+	--o-visualization $CGM/stats.qzv
 
 ## Phylogenetic Diversity Analyses
 
 qiime phylogeny align-to-tree-mafft-fasttree \
-	--i-sequences $CGM/Representative.qza \
-	--o-alignment $CGM/Alignement.qza \
-	--o-masked-alignment $CGM/MaskedAlignment.qza \
-	--o-tree $CGM/UnrootedTree.qza \
-	--o-rooted-tree $CGM/RootedTree.qza
+	--i-sequences $CGM/rep-seqs.qza \
+	--o-alignment $CGM/aligned-rep-seqs.qza \
+	--o-masked-alignment $CGM/masked-aligned-rep-seqs.qza \
+	--o-tree $CGM/unrooted-tree.qza \
+	--o-rooted-tree $CGM/rooted-tree.qza
 
 qiime tools export \
-	--input-path $CGM/UnrootedTree.qza \
+	--input-path $CGM/unrooted-tree.qza \
 	--output-path $CGM
 
-mv $CGM/tree.nwk $CGM/UnrootedTree.nwk
+mv $CGM/tree.nwk $CGM/unrooted-tree.nwk
 
 qiime tools export \
-	--input-path $CGM/RootedTree.qza \
+	--input-path $CGM/rooted-tree.qza \
 	--output-path $CGM
 
-mv $CGM/tree.nwk $CGM/RootedTree.nwk
+mv $CGM/tree.nwk $CGM/rooted-tree.nwk
 
 ## Diversity Analysis
 
 qiime diversity core-metrics-phylogenetic \
-	--i-phylogeny $CGM/RootedTree.qza \
-	--i-table $CGM/FeatureTable.qza \
+	--i-phylogeny $CGM/rooted-tree.qza \
+	--i-table $CGM/table.qza \
 	--p-sampling-depth 152 \
-	--m-metadata-file $CGM/metadata.tsv \
-	--output-dir $CGM/DiversityMetrics
+	--m-metadata-file $CGM/Metadata.tsv \
+	--output-dir $CGM/core-metrics-results
 
 ### Alpha Diversity
 
 qiime diversity alpha-group-significance \
-	--i-alpha-diversity $CGM/DiversityMetrics/faith_pd_vector.qza \
-	--m-metadata-file $CGM/metadata.tsv \
-	--o-visualization $CGM/DiversityMetrics/faith-pd-group-significance.qzv
+	--i-alpha-diversity $CGM/core-metrics-results/faith_pd_vector.qza \
+	--m-metadata-file $CGM/Metadata.tsv \
+	--o-visualization $CGM/core-metrics-results/faith-pd-group-significance.qzv
 
 qiime diversity alpha-group-significance \
-	--i-alpha-diversity $CGM/DiversityMetrics/evenness_vector.qza \
-	--m-metadata-file $CGM/metadata.tsv \
-	--o-visualization $CGM/DiversityMetrics/evenness-group-significance.qzv
+	--i-alpha-diversity $CGM/core-metrics-results/evenness_vector.qza \
+	--m-metadata-file $CGM/Metadata.tsv \
+	--o-visualization $CGM/core-metrics-results/evenness-group-significance.qzv
 
 ### Beta Diversity
 
 qiime diversity beta-group-significance \
-	--i-distance-matrix $CGM/DiversityMetrics/unweighted_unifrac_distance_matrix.qza \
-	--m-metadata-file $CGM/metadata.tsv \
+	--i-distance-matrix $CGM/core-metrics-results/unweighted_unifrac_distance_matrix.qza \
+	--m-metadata-file $CGM/Metadata.tsv \
 	--m-metadata-column Subject \
-	--o-visualization $CGM/DiversityMetrics/unweighted-unifrac-subject-significance.qzv \
+	--o-visualization $CGM/core-metrics-results/unweighted-unifrac-subject-significance.qzv \
 	--p-pairwise
 
 qiime diversity beta-group-significance \
-	--i-distance-matrix $CGM/DiversityMetrics/unweighted_unifrac_distance_matrix.qza \
-	--m-metadata-file $CGM/metadata.tsv \
+	--i-distance-matrix $CGM/core-metrics-results/unweighted_unifrac_distance_matrix.qza \
+	--m-metadata-file $CGM/Metadata.tsv \
 	--m-metadata-column Tissue \
-	--o-visualization $CGM/DiversityMetrics/unweighted-unifrac-tissue-significance.qzv \
+	--o-visualization $CGM/core-metrics-results/unweighted-unifrac-tissue-significance.qzv \
 	--p-pairwise
 
 ## Alpha Rarefaction
 
 qiime diversity alpha-rarefaction \
-	--i-table $CGM/FeatureTable.qza \
-	--i-phylogeny $CGM/RootedTree.qza \
+	--i-table $CGM/table.qza \
+	--i-phylogeny $CGM/rooted-tree.qza \
 	--p-max-depth 22682 \
-	--m-metadata-file $CGM/metadata.tsv \
-	--o-visualization $CGM/AlphaRarefaction.qzv
+	--m-metadata-file $CGM/Metadata.tsv \
+	--o-visualization $CGM/alpha-rarefaction.qzv
 
 ## Taxonomic Analysis
 
 qiime feature-classifier classify-sklearn \
 	--i-classifier $CGM/gg-13-8-99-515-806-nb-classifier.qza \
-	--i-reads $CGM/Representative.qza \
-	--o-classification $CGM/Taxonomy.qza
+	--i-reads $CGM/rep-seqs.qza \
+	--o-classification $CGM/taxonomy.qza
 
 qiime metadata tabulate \
-	--m-input-file $CGM/Taxonomy.qza \
-	--o-visualization $CGM/Taxonomy.qzv
+	--m-input-file $CGM/taxonomy.qza \
+	--o-visualization $CGM/taxonomy.qzv
 
 qiime taxa barplot \
-	--i-table $CGM/FeatureTable.qza \
-	--i-taxonomy $CGM/Taxonomy.qza \
-	--m-metadata-file $CGM/metadata.tsv \
+	--i-table $CGM/table.qza \
+	--i-taxonomy $CGM/taxonomy.qza \
+	--m-metadata-file $CGM/Metadata.tsv \
 	--o-visualization $CGM/taxa-bar-plots.qzv
 
 ## Differential Abundance Testing
