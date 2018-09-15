@@ -19,10 +19,13 @@ qiime demux summarize \
 
 ## Denoising
 
-qiime dada2 denoise-single \
+qiime dada2 denoise-paired \
 	--i-demultiplexed-seqs $CGM/Demultiplexed.qza \
-	--p-trim-left 0 \
-	--p-trunc-len 200 \
+	--p-trim-left-f 0 \
+	--p-trim-left-r 0 \
+	--p-trunc-len-f 200 \
+	--p-trunc-len-r 200 \
+	--p-n-threads 0 \
 	--o-representative-sequences $CGM/Representative.qza \
 	--o-table $CGM/Features.qza \
 	--o-denoising-stats $CGM/DenoisingStats.qza
