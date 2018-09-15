@@ -68,11 +68,11 @@ mv $CGM/tree.nwk $CGM/RootedTree.nwk
 qiime diversity core-metrics-phylogenetic \
 	--i-phylogeny $CGM/RootedTree.qza \
 	--i-table $CGM/FeatureTable.qza \
-	--p-sampling-depth 32025 \
+	--p-sampling-depth 152 \
 	--m-metadata-file $CGM/Metadata.tsv \
 	--output-dir $CGM/DiversityMetrics
 
-### Alpha Diversity Analysis
+### Alpha Diversity
 
 qiime diversity alpha-group-significance \
 	--i-alpha-diversity $CGM/DiversityMetrics/faith_pd_vector.qza \
@@ -84,7 +84,7 @@ qiime diversity alpha-group-significance \
 	--m-metadata-file $CGM/Metadata.tsv \
 	--o-visualization $CGM/DiversityMetrics/evenness-group-significance.qzv
 
-### Beta Diversity Analysis
+### Beta Diversity
 
 qiime diversity beta-group-significance \
 	--i-distance-matrix $CGM/DiversityMetrics/unweighted_unifrac_distance_matrix.qza \
@@ -105,7 +105,7 @@ qiime diversity beta-group-significance \
 qiime diversity alpha-rarefaction \
 	--i-table $CGM/FeatureTable.qza \
 	--i-phylogeny $CGM/RootedTree.qza \
-	--p-max-depth 59591 \
+	--p-max-depth 22682 \
 	--m-metadata-file $CGM/Metadata.tsv \
 	--o-visualization $CGM/AlphaRarefaction.qzv
 
