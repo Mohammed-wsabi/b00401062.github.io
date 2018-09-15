@@ -5,7 +5,7 @@ export CGM=~/Downloads/Researches/CGM/Datasets
 
 source activate qiime
 
-## Demultiplex
+## Importing Data
 
 qiime tools import \
 	--type "SampleData[PairedEndSequencesWithQuality]" \
@@ -17,22 +17,7 @@ qiime demux summarize \
 	--i-data $CGM/Demultiplexed.qza \
 	--o-visualization $CGM/Demultiplexed.qzv
 
-## Filter
-
-qiime quality-filter q-score \
-	--i-demux $CGM/Demultiplexed.qza \
-	--o-filtered-sequences $CGM/FilteredDemultiplexed.qza \
-	--o-filter-stats $CGM/FilterStats.qza
-
-qiime demux summarize \
-	--i-data $CGM/Filtered.qza \
-	--o-visualization $CGM/Filtered.qzv
-
-qiime metadata tabulate \
-	--m-input-file $CGM/FilterStats.qza \
-	--o-visualization $CGM/FilterStats.qzv
-
-## Denoise
+## Denoising
 
 qiime dada2 denoise-single \
 	--i-demultiplexed-seqs $CGM/Demultiplexed.qza \
@@ -60,8 +45,20 @@ qiime phylogeny align-to-tree-mafft-fasttree \
 	--i-sequences $CGM/Representative.qza \
 	--o-alignment $CGM/Alignement.qza \
 	--o-masked-alignment $CGM/MaskedAlignment.qza \
-	--o-tree $CGM/Tree.qza \
+	--o-tree $CGM/UnrootedTree.qza \
 	--o-rooted-tree $CGM/RootedTree.qza
+
+qiime tools export \
+	--input-path $CGM/UnrootedTree.qza \
+	--output-path $CGM
+
+mv $CGM/tree.nwk $CGM/UnrootedTree.nwk
+
+qiime tools export \
+	--input-path $CGM/RootedTree.qza \
+	--output-path $CGM
+
+mv $CGM/tree.nwk $CGM/RootedTree.nwk
 
 source deactivate
 
