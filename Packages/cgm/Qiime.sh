@@ -10,8 +10,8 @@ source activate qiime
 qiime tools import \
 	--type "SampleData[PairedEndSequencesWithQuality]" \
 	--input-path $CGM/Manifest.csv \
-	--input-format PairedEndFastqManifestPhred33
-	--output-path $CGM/Demultiplexed.qza \
+	--input-format PairedEndFastqManifestPhred33 \
+	--output-path $CGM/Demultiplexed.qza
 
 qiime demux summarize \
 	--i-data $CGM/Demultiplexed.qza \
