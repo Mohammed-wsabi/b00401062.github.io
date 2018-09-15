@@ -100,20 +100,6 @@ qiime diversity beta-group-significance \
 	--o-visualization $CGM/DiversityMetrics/unweighted-unifrac-tissue-significance.qzv \
 	--p-pairwise
 
-### Emperor Plots
-
-qiime emperor plot \
-	--i-pcoa core-metrics-results/unweighted_unifrac_pcoa_results.qza \
-	--m-metadata-file sample-metadata.tsv \
-	--p-custom-axes DaysSinceExperimentStart \
-	--o-visualization core-metrics-results/unweighted-unifrac-emperor-DaysSinceExperimentStart.qzv
-
-qiime emperor plot \
-	--i-pcoa core-metrics-results/bray_curtis_pcoa_results.qza \
-	--m-metadata-file sample-metadata.tsv \
-	--p-custom-axes DaysSinceExperimentStart \
-	--o-visualization core-metrics-results/bray-curtis-emperor-DaysSinceExperimentStart.qzv
-
 ## Alpha Rarefaction Plotting
 
 qiime diversity alpha-rarefaction \
