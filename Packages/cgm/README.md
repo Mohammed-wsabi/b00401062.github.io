@@ -7,3 +7,7 @@
 ## Analysis
 
 - [Qiime.sh](Qiime.sh): Metagenomics analysis using Qiime.
+
+## Visualization
+
+- [DenoisingStats.py](DenoisingStats.py): Visualize denoising statistics.

@@ -27,7 +27,7 @@ qiime dada2 denoise-paired \
 	--p-trunc-len-r 200 \
 	--p-n-threads 0 \
 	--o-representative-sequences $CGM/Representative.qza \
-	--o-table $CGM/Features.qza \
+	--o-table $CGM/FeatureTable.qza \
 	--o-denoising-stats $CGM/DenoisingStats.qza
 
 qiime feature-table tabulate-seqs \
@@ -35,8 +35,8 @@ qiime feature-table tabulate-seqs \
 	--o-visualization $CGM/Representative.qzv
 
 qiime feature-table summarize \
-	--i-table $CGM/Features.qza \
-	--o-visualization $CGM/Features.qzv \
+	--i-table $CGM/FeatureTable.qza \
+	--o-visualization $CGM/FeatureTable.qzv \
 
 qiime metadata tabulate \
 	--m-input-file $CGM/DenoisingStats.qza \
