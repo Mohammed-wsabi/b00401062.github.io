@@ -100,31 +100,31 @@ qiime diversity beta-group-significance \
 	--o-visualization $CGM/DiversityMetrics/unweighted-unifrac-tissue-significance.qzv \
 	--p-pairwise
 
-## Alpha Rarefaction Plotting
+## Alpha Rarefaction
 
 qiime diversity alpha-rarefaction \
-	--i-table table.qza \
-	--i-phylogeny rooted-tree.qza \
-	--p-max-depth 4000 \
-	--m-metadata-file sample-metadata.tsv \
-	--o-visualization alpha-rarefaction.qzv
+	--i-table $CGM/FeatureTable.qza \
+	--i-phylogeny $CGM/RootedTree.qza \
+	--p-max-depth 59591 \
+	--m-metadata-file $CGM/Metadata.tsv \
+	--o-visualization $CGM/AlphaRarefaction.qzv
 
 ## Taxonomic Analysis
 
 qiime feature-classifier classify-sklearn \
-	--i-classifier gg-13-8-99-515-806-nb-classifier.qza \
-	--i-reads rep-seqs.qza \
-	--o-classification taxonomy.qza
+	--i-classifier $CGM/gg-13-8-99-515-806-nb-classifier.qza \
+	--i-reads $CGM/Representative.qza \
+	--o-classification $CGM/Taxonomy.qza
 
 qiime metadata tabulate \
-	--m-input-file taxonomy.qza \
-	--o-visualization taxonomy.qzv
+	--m-input-file $CGM/Taxonomy.qza \
+	--o-visualization $CGM/Taxonomy.qzv
 
 qiime taxa barplot \
-	--i-table table.qza \
-	--i-taxonomy taxonomy.qza \
-	--m-metadata-file sample-metadata.tsv \
-	--o-visualization taxa-bar-plots.qzv
+	--i-table $CGM/FeatureTable.qza \
+	--i-taxonomy $CGM/Taxonomy.qza \
+	--m-metadata-file $CGM/Metadata.tsv \
+	--o-visualization $CGM/taxa-bar-plots.qzv
 
 ## Differential Abundance Testing
 
