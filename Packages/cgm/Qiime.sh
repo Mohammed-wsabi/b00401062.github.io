@@ -36,7 +36,7 @@ qiime feature-table tabulate-seqs \
 
 qiime feature-table summarize \
 	--i-table $CGM/FeatureTable.qza \
-	--o-visualization $CGM/FeatureTable.qzv \
+	--o-visualization $CGM/FeatureTable.qzv
 
 qiime metadata tabulate \
 	--m-input-file $CGM/DenoisingStats.qza \
