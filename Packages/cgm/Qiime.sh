@@ -69,33 +69,33 @@ qiime diversity core-metrics-phylogenetic \
 	--i-phylogeny $CGM/RootedTree.qza \
 	--i-table $CGM/FeatureTable.qza \
 	--p-sampling-depth 152 \
-	--m-metadata-file $CGM/Metadata.tsv \
+	--m-metadata-file $CGM/metadata.tsv \
 	--output-dir $CGM/DiversityMetrics
 
 ### Alpha Diversity
 
 qiime diversity alpha-group-significance \
 	--i-alpha-diversity $CGM/DiversityMetrics/faith_pd_vector.qza \
-	--m-metadata-file $CGM/Metadata.tsv \
+	--m-metadata-file $CGM/metadata.tsv \
 	--o-visualization $CGM/DiversityMetrics/faith-pd-group-significance.qzv
 
 qiime diversity alpha-group-significance \
 	--i-alpha-diversity $CGM/DiversityMetrics/evenness_vector.qza \
-	--m-metadata-file $CGM/Metadata.tsv \
+	--m-metadata-file $CGM/metadata.tsv \
 	--o-visualization $CGM/DiversityMetrics/evenness-group-significance.qzv
 
 ### Beta Diversity
 
 qiime diversity beta-group-significance \
 	--i-distance-matrix $CGM/DiversityMetrics/unweighted_unifrac_distance_matrix.qza \
-	--m-metadata-file $CGM/Metadata.tsv \
+	--m-metadata-file $CGM/metadata.tsv \
 	--m-metadata-column Subject \
 	--o-visualization $CGM/DiversityMetrics/unweighted-unifrac-subject-significance.qzv \
 	--p-pairwise
 
 qiime diversity beta-group-significance \
 	--i-distance-matrix $CGM/DiversityMetrics/unweighted_unifrac_distance_matrix.qza \
-	--m-metadata-file $CGM/Metadata.tsv \
+	--m-metadata-file $CGM/metadata.tsv \
 	--m-metadata-column Tissue \
 	--o-visualization $CGM/DiversityMetrics/unweighted-unifrac-tissue-significance.qzv \
 	--p-pairwise
@@ -106,7 +106,7 @@ qiime diversity alpha-rarefaction \
 	--i-table $CGM/FeatureTable.qza \
 	--i-phylogeny $CGM/RootedTree.qza \
 	--p-max-depth 22682 \
-	--m-metadata-file $CGM/Metadata.tsv \
+	--m-metadata-file $CGM/metadata.tsv \
 	--o-visualization $CGM/AlphaRarefaction.qzv
 
 ## Taxonomic Analysis
@@ -123,7 +123,7 @@ qiime metadata tabulate \
 qiime taxa barplot \
 	--i-table $CGM/FeatureTable.qza \
 	--i-taxonomy $CGM/Taxonomy.qza \
-	--m-metadata-file $CGM/Metadata.tsv \
+	--m-metadata-file $CGM/metadata.tsv \
 	--o-visualization $CGM/taxa-bar-plots.qzv
 
 ## Differential Abundance Testing
