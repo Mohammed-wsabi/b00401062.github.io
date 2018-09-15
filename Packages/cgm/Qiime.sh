@@ -87,17 +87,17 @@ qiime diversity alpha-group-significance \
 ### Beta Diversity Analysis
 
 qiime diversity beta-group-significance \
-	--i-distance-matrix core-metrics-results/unweighted_unifrac_distance_matrix.qza \
-	--m-metadata-file sample-metadata.tsv \
-	--m-metadata-column BodySite \
-	--o-visualization core-metrics-results/unweighted-unifrac-body-site-significance.qzv \
+	--i-distance-matrix $CGM/DiversityMetrics/unweighted_unifrac_distance_matrix.qza \
+	--m-metadata-file $CGM/Metadata.tsv \
+	--m-metadata-column Subject \
+	--o-visualization $CGM/DiversityMetrics/unweighted-unifrac-subject-significance.qzv \
 	--p-pairwise
 
 qiime diversity beta-group-significance \
-	--i-distance-matrix core-metrics-results/unweighted_unifrac_distance_matrix.qza \
-	--m-metadata-file sample-metadata.tsv \
-	--m-metadata-column Subject \
-	--o-visualization core-metrics-results/unweighted-unifrac-subject-group-significance.qzv \
+	--i-distance-matrix $CGM/DiversityMetrics/unweighted_unifrac_distance_matrix.qza \
+	--m-metadata-file $CGM/Metadata.tsv \
+	--m-metadata-column Tissue \
+	--o-visualization $CGM/DiversityMetrics/unweighted-unifrac-tissue-significance.qzv \
 	--p-pairwise
 
 ### Emperor Plots
