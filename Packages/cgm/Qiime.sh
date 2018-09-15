@@ -63,7 +63,7 @@ qiime tools export \
 
 mv $CGM/tree.nwk $CGM/RootedTree.nwk
 
-## Alpha and Beta Diversity Analysis
+## Diversity Analysis
 
 qiime diversity core-metrics-phylogenetic \
 	--i-phylogeny rooted-tree.qza \
@@ -71,6 +71,8 @@ qiime diversity core-metrics-phylogenetic \
 	--p-sampling-depth 1109 \
 	--m-metadata-file sample-metadata.tsv \
 	--output-dir core-metrics-results
+
+### Alpha Diversity Analysis
 
 qiime diversity alpha-group-significance \
 	--i-alpha-diversity core-metrics-results/faith_pd_vector.qza \
@@ -81,6 +83,8 @@ qiime diversity alpha-group-significance \
 	--i-alpha-diversity core-metrics-results/evenness_vector.qza \
 	--m-metadata-file sample-metadata.tsv \
 	--o-visualization core-metrics-results/evenness-group-significance.qzv
+
+### Beta Diversity Analysis
 
 qiime diversity beta-group-significance \
 	--i-distance-matrix core-metrics-results/unweighted_unifrac_distance_matrix.qza \
@@ -95,6 +99,8 @@ qiime diversity beta-group-significance \
 	--m-metadata-column Subject \
 	--o-visualization core-metrics-results/unweighted-unifrac-subject-group-significance.qzv \
 	--p-pairwise
+
+### Emperor Plots
 
 qiime emperor plot \
 	--i-pcoa core-metrics-results/unweighted_unifrac_pcoa_results.qza \
