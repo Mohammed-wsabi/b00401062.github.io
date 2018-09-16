@@ -12,5 +12,5 @@ class Denoising:
 			plot(stats.iloc[i, [1, 2, 4, 5]])
 		ylabel("Number of sequences")
 		subplots_adjust(left = .15)
-		savefig("./Downloads/Researches/CGM/Figures/DenoisingStats.png")
+		savefig("./Downloads/Researches/CGM/Figures/Denoising.png")
 		show()
