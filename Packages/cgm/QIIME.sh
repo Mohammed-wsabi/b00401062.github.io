@@ -78,7 +78,7 @@ qiime diversity core-metrics-phylogenetic \
 qiime diversity alpha-rarefaction \
 	--i-table $CGM/table.qza \
 	--i-phylogeny $CGM/rooted-tree.qza \
-	--p-max-depth 5000 \
+	--p-max-depth 4784 \
 	--m-metadata-file $CGM/Metadata.tsv \
 	--o-visualization $CGM/alpha-rarefaction.qzv
 
