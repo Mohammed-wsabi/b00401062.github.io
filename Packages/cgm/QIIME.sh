@@ -23,8 +23,8 @@ qiime dada2 denoise-paired \
 	--i-demultiplexed-seqs $CGM/demux.qza \
 	--p-trim-left-f 0 \
 	--p-trim-left-r 0 \
-	--p-trunc-len-f 200 \
-	--p-trunc-len-r 200 \
+	--p-trunc-len-f 120 \
+	--p-trunc-len-r 120 \
 	--p-n-threads 0 \
 	--o-representative-sequences $CGM/rep-seqs.qza \
 	--o-table $CGM/table.qza \
@@ -36,7 +36,7 @@ qiime feature-table tabulate-seqs \
 
 qiime feature-table summarize \
 	--i-table $CGM/table.qza \
-	--o-visualization $CGM/table.qzv
+	--o-visualization $CGM/table.qzv \
 	--m-sample-metadata-file $CGM/Metadata.tsv
 
 qiime metadata tabulate \
@@ -69,9 +69,18 @@ mv $CGM/tree.nwk $CGM/rooted-tree.nwk
 qiime diversity core-metrics-phylogenetic \
 	--i-phylogeny $CGM/rooted-tree.qza \
 	--i-table $CGM/table.qza \
-	--p-sampling-depth 152 \
+	--p-sampling-depth 482 \
 	--m-metadata-file $CGM/Metadata.tsv \
 	--output-dir $CGM/core-metrics-results
+
+### Alpha Rarefaction
+
+qiime diversity alpha-rarefaction \
+	--i-table $CGM/table.qza \
+	--i-phylogeny $CGM/rooted-tree.qza \
+	--p-max-depth 5000 \
+	--m-metadata-file $CGM/Metadata.tsv \
+	--o-visualization $CGM/alpha-rarefaction.qzv
 
 ### Alpha Diversity
 
@@ -100,15 +109,6 @@ qiime diversity beta-group-significance \
 	--m-metadata-column Tissue \
 	--o-visualization $CGM/core-metrics-results/unweighted-unifrac-tissue-significance.qzv \
 	--p-pairwise
-
-## Alpha Rarefaction
-
-qiime diversity alpha-rarefaction \
-	--i-table $CGM/table.qza \
-	--i-phylogeny $CGM/rooted-tree.qza \
-	--p-max-depth 22682 \
-	--m-metadata-file $CGM/Metadata.tsv \
-	--o-visualization $CGM/alpha-rarefaction.qzv
 
 ## Taxonomic Analysis
 
