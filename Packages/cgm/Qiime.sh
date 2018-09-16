@@ -28,7 +28,7 @@ qiime dada2 denoise-paired \
 	--p-n-threads 0 \
 	--o-representative-sequences $CGM/rep-seqs.qza \
 	--o-table $CGM/table.qza \
-	--o-denoising-stats $CGM/stats.qza
+	--o-denoising-stats $CGM/denoising.qza
 
 qiime feature-table tabulate-seqs \
 	--i-data $CGM/rep-seqs.qza \
@@ -40,8 +40,8 @@ qiime feature-table summarize \
 	--m-sample-metadata-file $CGM/Metadata.tsv
 
 qiime metadata tabulate \
-	--m-input-file $CGM/stats.qza \
-	--o-visualization $CGM/stats.qzv
+	--m-input-file $CGM/denoising.qza \
+	--o-visualization $CGM/denoising.qzv
 
 ## Phylogenetic Diversity Analyses
 
