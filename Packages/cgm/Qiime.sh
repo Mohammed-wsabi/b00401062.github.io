@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-export PATH="~/Library/Conda/bin/:$PATH"
+export PATH=~/Library/Conda/bin/:$PATH
 export CGM=~/Downloads/Researches/CGM/Datasets
 
 source activate qiime
