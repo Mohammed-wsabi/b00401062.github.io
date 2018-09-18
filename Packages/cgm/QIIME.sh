@@ -129,37 +129,31 @@ qiime taxa barplot \
 
 ## Differential Abundance Testing
 
-qiime feature-table filter-samples \
-	--i-table $CGM/table.qza \
-	--m-metadata-file $CGM/metadata.tsv \
-	--p-where "BodySite='gut'" \
-	--o-filtered-table gut-table.qza
-
 qiime composition add-pseudocount \
-	--i-table gut-table.qza \
-	--o-composition-table comp-gut-table.qza
+	--i-table $CGM/table.qza \
+	--o-composition-table $CGM/comp-table.qza
 
 qiime composition ancom \
-	--i-table comp-gut-table.qza \
-	--m-metadata-file sample-metadata.tsv \
-	--m-metadata-column Subject \
-	--o-visualization ancom-Subject.qzv
+	--i-table $CGM/comp-table.qza \
+	--m-metadata-file $CGM/metadata.tsv \
+	--m-metadata-column Tissue \
+	--o-visualization $CGM/ancom-tissue.qzv
 
 qiime taxa collapse \
-	--i-table gut-table.qza \
-	--i-taxonomy taxonomy.qza \
+	--i-table $CGM/table.qza \
+	--i-taxonomy $CGM/taxonomy.qza \
 	--p-level 6 \
-	--o-collapsed-table gut-table-l6.qza
+	--o-collapsed-table $CGM/table-l6.qza
 
 qiime composition add-pseudocount \
-	--i-table gut-table-l6.qza \
-	--o-composition-table comp-gut-table-l6.qza
+	--i-table $CGM/table-l6.qza \
+	--o-composition-table $CGM/comp-table-l6.qza
 
 qiime composition ancom \
-	--i-table comp-gut-table-l6.qza \
-	--m-metadata-file sample-metadata.tsv \
-	--m-metadata-column Subject \
-	--o-visualization l6-ancom-Subject.qzv
+	--i-table $CGM/comp-table-l6.qza \
+	--m-metadata-file $CGM/metadata.tsv \
+	--m-metadata-column Tissue \
+	--o-visualization $CGM/ancom-tissue-l6.qzv
 
 ## Cleanup
 
