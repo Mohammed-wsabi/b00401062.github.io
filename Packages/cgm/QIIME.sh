@@ -155,6 +155,41 @@ qiime composition ancom \
 	--m-metadata-column Tissue \
 	--o-visualization $CGM/ancom-tissue-l6.qzv
 
+for subject in 180810TB A00504C A00518C A00599C A00640C A00650C A00740C A00841C
+do
+	qiime feature-table filter-samples \
+		--i-table $CGM/table.qza \
+		--m-metadata-file $CGM/metadata.tsv \
+		--p-where "Subject='$subject'" \
+		--o-filtered-table $CGM/ancom-tissue-subject/$subject-table.qza
+
+	qiime composition add-pseudocount \
+		--i-table $CGM/ancom-tissue-subject/$subject-table.qza \
+		--o-composition-table $CGM/ancom-tissue-subject/comp-$subject-table.qza
+
+	qiime composition ancom \
+		--i-table $CGM/ancom-tissue-subject/comp-$subject-table.qza \
+		--m-metadata-file $CGM/metadata.tsv \
+		--m-metadata-column Tissue \
+		--o-visualization $CGM/ancom-tissue-subject/ancom-tissue-$subject.qzv
+
+	qiime taxa collapse \
+		--i-table $CGM/table.qza \
+		--i-taxonomy $CGM/taxonomy.qza \
+		--p-level 6 \
+		--o-collapsed-table $CGM/ancom-tissue-subject/$subject-table-l6.qza
+
+	qiime composition add-pseudocount \
+		--i-table $CGM/ancom-tissue-subject/$subject-table-l6.qza \
+		--o-composition-table $CGM/ancom-tissue-subject/comp-$subject-table-l6.qza
+
+	qiime composition ancom \
+		--i-table $CGM/ancom-tissue-subject/comp-$subject-table-l6.qza \
+		--m-metadata-file $CGM/metadata.tsv \
+		--m-metadata-column Tissue \
+		--o-visualization $CGM/ancom-tissue-subject/ancom-tissue-$subject-l6.qzv
+done
+
 ## Cleanup
 
 source deactivate
