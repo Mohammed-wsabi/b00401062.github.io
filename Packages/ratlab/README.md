@@ -1,5 +1,6 @@
 # Ratlab
 
+- [cd.R](cd.R): Change current folder.
 - [eye.R](eye.R): Identity matrix.
 - [false.R](false.R): Logical 0 (false).
 - [find.R](find.R): Find indices and values of nonzero elements.
@@ -7,11 +8,14 @@
 - [linspace.R](linspace.R): Generate linearly spaced vector.
 - [logspace.R](logspace.R): Generate logarithmically spaced vector.
 - [meshgrid.R](meshgrid.R): 2-D grids.
+- [mkdir.R](mkdir.R): Make new folder.
 - [ndims.R](ndims.R): Number of array dimensions.
 - [numel.R](numel.R): Number of array elements.
 - [ones.R](ones.R): Create array of all ones.
+- [pwd.R](pwd.R): Identify current folder.
 - [rand.R](rand.R): Uniformly distributed random numbers.
 - [repelem.R](repelem.R): Repeat copies of array elements.
+- [rmdir.R](rmdir.R): Remove folder.
 - [size.R](size.R): Array size.
 - [sub2ind.R](sub2ind.R): Convert subscripts to linear indices.
 - [true.R](true.R): Logical 1 (true).
