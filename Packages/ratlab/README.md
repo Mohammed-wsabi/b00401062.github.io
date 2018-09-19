@@ -1,16 +1,24 @@
 # Ratlab
 
+- [ans.R](ans.R): Most recent answer.
+- [assert.R](assert.R): Throw error if condition false.
 - [cd.R](cd.R): Change current folder.
+- [clc.R](clc.R): Clear command window.
+- [error.R](error.R): Throw error and display message.
 - [eye.R](eye.R): Identity matrix.
 - [false.R](false.R): Logical 0 (false).
 - [find.R](find.R): Find indices and values of nonzero elements.
 - [ind2sub.R](ind2sub.R): Subscripts from linear index.
+- [iskeyword.R](iskeyword.R): Determine whether input is R keyword.
+- [isvarname.R](isvarname.R): Determine if input is valid variable name.
+- [lastwarn.R](lastwarn.R): Last warning message.
 - [linspace.R](linspace.R): Generate linearly spaced vector.
 - [logspace.R](logspace.R): Generate logarithmically spaced vector.
 - [meshgrid.R](meshgrid.R): 2-D grids.
 - [mkdir.R](mkdir.R): Make new folder.
 - [ndims.R](ndims.R): Number of array dimensions.
 - [numel.R](numel.R): Number of array elements.
+- [onCleanup.R](onCleanup.R): Cleanup tasks upon function completion.
 - [ones.R](ones.R): Create array of all ones.
 - [pwd.R](pwd.R): Identify current folder.
 - [rand.R](rand.R): Uniformly distributed random numbers.
