@@ -34,6 +34,11 @@ qiime feature-table tabulate-seqs \
 	--i-data $CGM/rep-seqs.qza \
 	--o-visualization $CGM/rep-seqs.qzv
 
+qiime feature-table filter-features \
+	--i-table $CGM/table.qza \
+	--p-min-frequency 10 \
+	--o-filtered-table $CGM/table.qza
+
 qiime feature-table summarize \
 	--i-table $CGM/table.qza \
 	--o-visualization $CGM/table.qzv \
@@ -69,7 +74,7 @@ mv $CGM/tree.nwk $CGM/rooted-tree.nwk
 qiime diversity core-metrics-phylogenetic \
 	--i-phylogeny $CGM/rooted-tree.qza \
 	--i-table $CGM/table.qza \
-	--p-sampling-depth 482 \
+	--p-sampling-depth 533 \
 	--m-metadata-file $CGM/metadata.tsv \
 	--output-dir $CGM/core-metrics-results
 
@@ -78,7 +83,7 @@ qiime diversity core-metrics-phylogenetic \
 qiime diversity alpha-rarefaction \
 	--i-table $CGM/table.qza \
 	--i-phylogeny $CGM/rooted-tree.qza \
-	--p-max-depth 4784 \
+	--p-max-depth 4685 \
 	--m-metadata-file $CGM/metadata.tsv \
 	--o-visualization $CGM/alpha-rarefaction.qzv
 
@@ -127,7 +132,7 @@ qiime taxa barplot \
 	--m-metadata-file $CGM/metadata.tsv \
 	--o-visualization $CGM/taxa-bar-plots.qzv
 
-## Differential Abundance Testing
+## Differential Abundance Analysis With ANCOM
 
 qiime composition add-pseudocount \
 	--i-table $CGM/table.qza \
@@ -189,6 +194,21 @@ do
 		--m-metadata-column Tissue \
 		--o-visualization $CGM/ancom-tissue-subject/ancom-tissue-$subject-l6.qzv
 done
+
+## Differential Abundance Analysis With Gneiss
+
+qiime gneiss ilr-phylogenetic \
+	--i-table $CGM/table.qza \
+	--i-tree $CGM/rooted-tree.qza \
+	--o-balances $CGM/balances.qza \
+	--o-hierarchy $CGM/hierarchy.qza
+
+qiime gneiss ols-regression \
+	--p-formula "Tissue" \
+	--i-table $CGM/balances.qza \
+	--i-tree $CGM/hierarchy.qza \
+	--m-metadata-file $CGM/metadata.tsv \
+	--o-visualization $CGM/regression_summary.qzv
 
 ## Cleanup
 
