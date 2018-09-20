@@ -26,23 +26,28 @@ qiime dada2 denoise-paired \
 	--p-trunc-len-f 120 \
 	--p-trunc-len-r 120 \
 	--p-n-threads 0 \
-	--o-representative-sequences $CGM/rep-seqs.qza \
-	--o-table $CGM/table.qza \
+	--o-table $CGM/table-raw.qza \
+	--o-representative-sequences $CGM/rep-seqs-raw.qza \
 	--o-denoising-stats $CGM/denoising.qza
+
+qiime feature-table filter-features \
+	--i-table $CGM/table-raw.qza \
+	--p-min-frequency 2 \
+	--o-filtered-table $CGM/table.qza
+
+qiime feature-table filter-seqs \
+	--i-data $CGM/rep-seqs-raw.qza \
+	--i-table $CGM/table.qza \
+	--o-filtered-data $CGM/rep-seqs.qza
+
+qiime feature-table summarize \
+	--i-table $CGM/table.qza \
+	--m-sample-metadata-file $CGM/metadata.tsv \
+	--o-visualization $CGM/table.qzv
 
 qiime feature-table tabulate-seqs \
 	--i-data $CGM/rep-seqs.qza \
 	--o-visualization $CGM/rep-seqs.qzv
-
-qiime feature-table filter-features \
-	--i-table $CGM/table.qza \
-	--p-min-frequency 10 \
-	--o-filtered-table $CGM/table.qza
-
-qiime feature-table summarize \
-	--i-table $CGM/table.qza \
-	--o-visualization $CGM/table.qzv \
-	--m-sample-metadata-file $CGM/metadata.tsv
 
 qiime metadata tabulate \
 	--m-input-file $CGM/denoising.qza \
