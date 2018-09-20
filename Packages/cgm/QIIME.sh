@@ -155,7 +155,7 @@ qiime composition ancom \
 	--m-metadata-column Tissue \
 	--o-visualization $CGM/ancom-tissue-l6.qzv
 
-for subject in 180810TB A00504C A00518C A00599C A00640C A00650C A00740C A00841C
+for subject in A00034C A00504C A00518C A00599C A00640C A00650C A00740C A00841C
 do
 	qiime feature-table filter-samples \
 		--i-table $CGM/table.qza \
