@@ -76,21 +76,23 @@ mv $CGM/tree.nwk $CGM/rooted-tree.nwk
 
 ## Diversity Analysis
 
-qiime diversity core-metrics-phylogenetic \
-	--i-phylogeny $CGM/rooted-tree.qza \
-	--i-table $CGM/table.qza \
-	--p-sampling-depth 533 \
-	--m-metadata-file $CGM/metadata.tsv \
-	--output-dir $CGM/core-metrics-results
-
 ### Alpha Rarefaction
 
 qiime diversity alpha-rarefaction \
 	--i-table $CGM/table.qza \
 	--i-phylogeny $CGM/rooted-tree.qza \
-	--p-max-depth 4685 \
+	--p-max-depth 4778 \
 	--m-metadata-file $CGM/metadata.tsv \
 	--o-visualization $CGM/alpha-rarefaction.qzv
+
+### Preprocessing
+
+qiime diversity core-metrics-phylogenetic \
+	--i-phylogeny $CGM/rooted-tree.qza \
+	--i-table $CGM/table.qza \
+	--p-sampling-depth 2035 \
+	--m-metadata-file $CGM/metadata.tsv \
+	--output-dir $CGM/core-metrics-results
 
 ### Alpha Diversity
 
