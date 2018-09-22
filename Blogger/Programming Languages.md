@@ -6,7 +6,7 @@ Programming languages generally support arithmetic operations, conditional expre
 
 ## Java
 
-[Java](https://www.java.com) is one of the few languages brought into being in the early history of computer programming. It is characterized by well-structured syntax but solicits inevitable criticism on its verbosity. Equipped with profuse built-in libraries, Java supports native graphical user interface, network programming, database management, etc. It is also powered by a broad community, of which the most well-known one is [Apache](https://www.apache.org). Due to its enduring popularity in the industry, Java will undoubtedly keep evolving at a steady pace to adapt to the ever-changing world.
+[Java](https://www.java.com) is one of the few languages brought into being in the early history of computer programming. It is characterized by well-structured syntax but solicits inevitable criticism over its verbosity. Equipped with abundant built-in libraries, Java dominates in all but every field of computer science, including graphical user interface, network programming, database management, etc. It is also powered by a handful of open-source communities, of which the most well-known is [Apache](https://www.apache.org). The dominance of Java in the industry is unlikely to be chanllenged in the years to come. Java will undoubtedly keep evolving at a steady pace to adapt to the ever-changing world and the needs of its immense proponents.
 
 ## Coconut
 
