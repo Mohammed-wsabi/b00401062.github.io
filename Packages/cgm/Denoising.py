@@ -27,10 +27,11 @@ class Denoising:
 			)
 			plot(Figure(data = data, layout = layout), filename = "./Downloads/Researches/CGM/Figures/denoising")
 		else:
-			from matplotlib.pyplot import plot, ylabel, subplots_adjust, savefig, show
+			from matplotlib.pyplot import plot, yscale, ylabel, subplots_adjust, savefig, show
 			for i in range(16):
-				plot(self.stats.iloc[i, [1, 2, 4, 5]])
-			ylabel("#Sequences")
+				plot(self.stats.iloc[i])
+			yscale("log")
+			ylabel("log(#Sequences)")
 			subplots_adjust(left = .15)
 			savefig("./Downloads/Researches/CGM/Figures/denoising.png")
 			show()
