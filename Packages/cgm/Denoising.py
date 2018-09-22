@@ -10,7 +10,6 @@ class Denoising:
 	def plot(self):
 		if self.tool == "plotly":
 			from plotly.graph_objs import Scatter, Layout, Figure
-			from plotly.io import write_image
 			from plotly.offline import plot
 			data = [Scatter(y = self.stats.iloc[i], name = self.stats.index[i]) for i in range(self.stats.shape[0])]
 			layout = Layout(
