@@ -107,7 +107,6 @@ title: Life Code
 - [notebook](Packages/notebook): Place where you can take note of trivial things in your life.
 - [ratlab](Packages/ratlab): Native implementation of [Matlab](https://www.mathworks.com) functions in [R](https://www.r-project.org) in an attempt to be a [Cython](http://cython.org) counterpart.
 - [rosalind](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/rosalind): Collection of Java programs solving [ROSALIND](http://rosalind.info/problems/locations/) problems.
-- [struts](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/struts): Server built with [Apache Struts](https://struts.apache.org) that handles basic login.
 - [table2html](Packages/table2html): Convert a delimited text file to a beautiful bootstrap HTML table.
 - [timer](Packages/timer): Timer that goes off after 25 minutes for USMLE Step 2 CS.
 - [usaco](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/usaco): Collection of Java programs solving [USACO](http://train.usaco.org/usacogate) problems.
