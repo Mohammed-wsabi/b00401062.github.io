@@ -1,9 +1,0 @@
-#title {
-	-fx-font-weight: bold;
-	-fx-font-size: 20;
-}
-
-VBox {
-	-fx-padding: 10;
-	-fx-spacing: 10;
-}
