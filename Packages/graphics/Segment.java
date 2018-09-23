@@ -6,19 +6,17 @@ public class Segment {
 		this.p = p;
 	}
 	public int dim() {
-		return this.p[0].length;
+		return this.p[0].dim();
 	}
 	public boolean contains(Point p) {
 		assert(this.dim() == p.dim());
-		// TODO
-		return false;
+		Vector[] v = new Vector[] {
+			new Vector(this.p[0].c).minus(new Vector(p.c)),
+			new Vector(this.p[1].c).minus(new Vector(p.c))
+		};
+		return v[0].angle(v[1]) == Math.PI;
 	}
 	public double length() {
-		return this.vector().length();
-	}
-	public static double length(Point[] p) {
-		assert(p.length == 2);
-		assert(p[0].dim() == p[1].dim());
-		return new Segment(p).length();
+		return new Vector(this.p[1].c).minus(new Vector(this.p[0].c)).length();
 	}
 }

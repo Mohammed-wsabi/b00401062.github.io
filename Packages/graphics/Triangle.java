@@ -6,10 +6,10 @@ public class Triangle {
 	}
 	public double area() {
 		Vector[] v = new Vector[] {
-			Vector.minus(new Vector(this.p[1].c), new Vector(this.p[0].c)),
-			Vector.minus(new Vector(this.p[2].c), new Vector(this.p[0].c))
+			new Vector(this.p[1].c).minus(new Vector(this.p[0].c)),
+			new Vector(this.p[2].c).minus(new Vector(this.p[0].c))
 		};
-		return (v[0].length() * v[1].length()) * Math.sin(Vector.angle(v)) / 2;
+		return (v[0].length() * v[1].length()) * Math.sin(v[0].angle(v[1])) / 2;
 	}
 	public double[] sides() {
 		return new double[] {
@@ -20,18 +20,9 @@ public class Triangle {
 	}
 	public double[] angles() {
 		return new double[] {
-			Vector.angle(new Vector[] {
-				Vector.minus(new Vector(this.p[1].c), new Vector(this.p[0].c)),
-				Vector.minus(new Vector(this.p[2].c), new Vector(this.p[0].c))
-			}),
-			Vector.angle(new Vector[] {
-				Vector.minus(new Vector(this.p[0].c), new Vector(this.p[1].c)),
-				Vector.minus(new Vector(this.p[2].c), new Vector(this.p[1].c))
-			}),
-			Vector.angle(new Vector[] {
-				Vector.minus(new Vector(this.p[0].c), new Vector(this.p[2].c)),
-				Vector.minus(new Vector(this.p[1].c), new Vector(this.p[2].c))
-			})
+			new Vector(this.p[1].c).minus(new Vector(this.p[0].c)).angle(new Vector(this.p[2].c).minus(new Vector(this.p[0].c))),
+			new Vector(this.p[0].c).minus(new Vector(this.p[1].c)).angle(new Vector(this.p[2].c).minus(new Vector(this.p[1].c))),
+			new Vector(this.p[0].c).minus(new Vector(this.p[2].c)).angle(new Vector(this.p[1].c).minus(new Vector(this.p[2].c)))
 		};
 	}
 }

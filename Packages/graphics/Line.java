@@ -9,26 +9,37 @@ public class Line {
 	Line(Point[] p) {
 		assert(p.length == 2);
 		assert(p[0].dim() == p[1].dim());
-		this.p = p;
-		this.v = Vector.minus(new Vector(p[1].c), new Vector(p[0].c)).unit();
+		this.p = p[0];
+		this.v = new Vector(p[1].c).minus(new Vector(p[0].c)).unit();
 	}
 	public int dim() {
-		return this.p[0].length;
+		return this.p.dim();
 	}
 	public boolean contains(Point p) {
 		assert(this.dim() == p.dim());
-		// TODO
-		return false;
+		Vector v = new Vector(p.c).minus(new Vector(this.p.c));
+		return this.v.parallel(v);
+	}
+	public boolean parallel(Line that) {
+		return this.v.parallel(that.v);
+	}
+	public Point project(Point p) {
+		assert(this.dim() == p.dim());
+		Vector v = new Vector(p.c).minus(new Vector(this.p.c));
+		Vector e = this.v.project(v);
+		return new Point(new Vector(this.p.c).plus(e).c);
+	}
+	public double distance(Point p) {
+		assert(this.dim() == p.dim());
+		Vector v = new Vector(p.c).minus(new Vector(this.p.c));
+		Vector e = this.v.project(v);
+		return v.minus(e).length();
 	}
 	public double distance(Line that) {
 		assert(this.dim() == that.dim());
-		// TODO
-		return 0;
-	}
-	public static double distance(Line[] l) {
-		assert(l.length == 2);
-		assert(l[0].dim() == l[1].dim());
-		// TODO
-		return 0;
+		assert(this.parallel(that));
+		Vector v = new Vector(that.p.c).minus(new Vector(this.p.c));
+		Vector e = this.v.project(v);
+		return v.minus(e).length();
 	}
 }
