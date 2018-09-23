@@ -96,17 +96,18 @@ title: Life Code
 
 - [abmri](Packages/abmri): Standardized pipeline for DTI analysis.
 - [bmlab](Packages/bmlab): Standardized pipeline for fMRI analysis.
-- [calculator](Packages/calculator): A calculator built with postfix algorithm and stacks from scratch.
+- [calculator](Packages/calculator): Calculator built with postfix algorithm and stacks from scratch.
 - [cgm](Packages/cgm): Standardized pipeline for metagenomics analysis.
 - [codechef](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/codechef): Collection of Java programs solving [CodeChef](https://www.codechef.com) problems.
 - [csie](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/csie): Collection of code for CSIE undergraduage assignments.
-- [gpa](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/gpa): An applet built with [AWT](https://en.wikipedia.org/wiki/Abstract_Window_Toolkit) and [Swing](https://en.wikipedia.org/wiki/Swing_(Java)) that calculates your average GPA.
-- [grapher](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/grapher): An applet built with [JavaFX](https://en.wikipedia.org/wiki/JavaFX) that plots mathematical function.
+- [gpa](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/gpa): Applet built with [AWT](https://en.wikipedia.org/wiki/Abstract_Window_Toolkit) and [Swing](https://en.wikipedia.org/wiki/Swing_(Java)) that calculates your average GPA.
+- [grapher](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/grapher): Applet built with [JavaFX](https://en.wikipedia.org/wiki/JavaFX) that plots mathematical function.
+- [graphics](Packages/graphics): Collection of geometric shapes and demostration of their elegance with algorithms.
 - [leetcode](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/leetcode): Collection of Java programs solving [LeetCode](https://leetcode.com/problemset/all/) problems.
-- [notebook](Packages/notebook): A place where you can take note of trivial things in your life.
+- [notebook](Packages/notebook): Place where you can take note of trivial things in your life.
 - [ratlab](Packages/ratlab): Native implementation of [Matlab](https://www.mathworks.com) functions in [R](https://www.r-project.org) in an attempt to be a [Cython](http://cython.org) counterpart.
 - [rosalind](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/rosalind): Collection of Java programs solving [ROSALIND](http://rosalind.info/problems/locations/) problems.
-- [struts](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/struts): A server built with [Apache Struts](https://struts.apache.org) that handles basic login.
+- [struts](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/struts): Server built with [Apache Struts](https://struts.apache.org) that handles basic login.
 - [table2html](Packages/table2html): Convert a delimited text file to a beautiful bootstrap HTML table.
-- [timer](Packages/timer): A timer that goes off after 25 minutes for USMLE Step 2 CS.
+- [timer](Packages/timer): Timer that goes off after 25 minutes for USMLE Step 2 CS.
 - [usaco](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/usaco): Collection of Java programs solving [USACO](http://train.usaco.org/usacogate) problems.
