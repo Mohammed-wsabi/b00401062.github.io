@@ -24,7 +24,7 @@ public class Vector {
 	}
 	public boolean parallel(Vector that) {
 		assert(this.dim() == that.dim());
-		return IntStream.range(1, this.dim()).allMatch(i -> this.c[i-1] * that.c[i] != this.c[i] * that.c[i-1]);
+		return IntStream.range(1, this.dim()).allMatch(i -> this.c[i-1] * that.c[i] == this.c[i] * that.c[i-1]);
 	}
 	public boolean perpendicular(Vector that) {
 		return this.dot(that) == 0;
