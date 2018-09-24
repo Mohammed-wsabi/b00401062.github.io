@@ -81,7 +81,7 @@ title: Life Code
 
 - [Case and Disease Discussion](Memoirs/Case%20and%20Disease%20Discussion.html)
 - [Literature Review](Memoirs/Literature%20Review.html)
-- [The Only EKG Book You'll Ever Need](Memoirs/The%20Only%20EKG%20Book%20You'll%20Ever%20Need.pdf)
+- [Thaler's The Only EKG Book You'll Ever Need](Memoirs/Thaler's%20The%20Only%20EKG%20Book%20You'll%20Ever%20Need.pdf)
 - [Thompson's Type Theory & Functional Programming](Memoirs/Thompson's%20Type%20Theory%20&%20Functional%20Programming.html)
 
 ## Packages
