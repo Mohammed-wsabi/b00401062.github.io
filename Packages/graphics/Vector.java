@@ -1,17 +1,17 @@
 public class Vector {
-	public double[] c;
-	Vector(double[] c) {
-		this.c = c;
+	public double[] x;
+	Vector(double[] x) {
+		this.x = x;
 	}
 	public int dim() {
-		return this.c.length;
+		return this.x.length;
 	}
 	public double dot(Vector that) {
 		assert(this.dim() == that.dim());
-		return IntStream.range(0, this.dim()).mapToDouble(i -> this.c[i] * that.c[i]).sum();
+		return IntStream.range(0, this.dim()).mapToDouble(i -> this.x[i] * that.x[i]).sum();
 	}
 	public Vector scale(double s) {
-		return new Vector(Arrays.stream(this.c).map(x -> s * x).toArray());
+		return new Vector(Arrays.stream(this.x).map(x -> s * x).toArray());
 	}
 	public Vector unit() {
 		return this.scale(1/this.length());
@@ -24,7 +24,7 @@ public class Vector {
 	}
 	public boolean parallel(Vector that) {
 		assert(this.dim() == that.dim());
-		return IntStream.range(1, this.dim()).allMatch(i -> this.c[i-1] * that.c[i] == this.c[i] * that.c[i-1]);
+		return IntStream.range(1, this.dim()).allMatch(i -> this.x[i-1] * that.x[i] == this.x[i] * that.x[i-1]);
 	}
 	public boolean perpendicular(Vector that) {
 		return this.dot(that) == 0;
@@ -34,10 +34,10 @@ public class Vector {
 	}
 	public Vector plus(Vector that) {
 		assert(this.dim() == that.dim());
-		return new Vector(IntStream.range(0, this.dim()).mapToDouble(i -> this.c[i] + that.c[i]).toArray());
+		return new Vector(IntStream.range(0, this.dim()).mapToDouble(i -> this.x[i] + that.x[i]).toArray());
 	}
 	public Vector minus(Vector that) {
 		assert(this.dim() == that.dim());
-		return new Vector(IntStream.range(0, this.dim()).mapToDouble(i -> this.c[i] - that.c[i]).toArray());
+		return new Vector(IntStream.range(0, this.dim()).mapToDouble(i -> this.x[i] - that.x[i]).toArray());
 	}
 }

@@ -11,12 +11,12 @@ public class Segment {
 	public boolean contains(Point p) {
 		assert(this.dim() == p.dim());
 		Vector[] v = new Vector[] {
-			new Vector(this.p[0].c).minus(new Vector(p.c)),
-			new Vector(this.p[1].c).minus(new Vector(p.c))
+			new Vector(this.p[0].x).minus(new Vector(p.x)),
+			new Vector(this.p[1].x).minus(new Vector(p.x))
 		};
 		return v[0].angle(v[1]) == Math.PI;
 	}
 	public double length() {
-		return new Vector(this.p[1].c).minus(new Vector(this.p[0].c)).length();
+		return new Vector(this.p[1].x).minus(new Vector(this.p[0].x)).length();
 	}
 }
