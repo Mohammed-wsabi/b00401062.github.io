@@ -53,15 +53,15 @@
 
 |Samples|Confidence Interval|Hypothesis Test|
 |-|-|-|
-|One|![](https://latex.codecogs.com/gif.latex?\overline{X}&space;\pm&space;t_\text{df}\frac{S}{\sqrt{n}},&space;\text{df}&space;=&space;n-1)|![](https://latex.codecogs.com/gif.latex?t_\text{df}&space;=&space;(\overline{X}-\mu)/\frac{S}{\sqrt{n}},&space;\text{df}&space;=&space;n-1)|
-|Two|![](https://latex.codecogs.com/gif.latex?(\overline{X}_1-\overline{X}2)&space;\pm&space;t_\text{df}\sqrt{\frac{S_1^2}{n_1}&plus;\frac{S_2^2}{n_2}},&space;\text{df}&space;=&space;\min\{n_1-1,&space;n_2-1\})|![](https://latex.codecogs.com/gif.latex?t_\text{df}&space;=&space;(\overline{X}_1-\overline{X}_2)/\sqrt{\frac{S_1^2}{n_1}&plus;\frac{S_2^2}{n_2}},&space;\text{df}&space;=&space;\min\{n_1-1,&space;n_2-1\})|
+|One|![][1]|![][2]|
+|Two|![][3]|![][4]|
 
 ## Inferences for Proportions ![](https://latex.codecogs.com/gif.latex?\hat{p})
 
 |Samples|Confidence Interval|Hypothesis Test|
 |-|-|-|
-|One|![](https://latex.codecogs.com/gif.latex?\hat{p}&space;\pm&space;z\sqrt{\frac{\hat{p}(1-\hat{p})}{n}})|![](https://latex.codecogs.com/gif.latex?z&space;=&space;(\hat{p}-p)/\sqrt{\frac{p(1-p)}{n}})|
-|Two|![](https://latex.codecogs.com/gif.latex?(\hat{p}_1-\hat{p}_2)&space;\pm&space;z\sqrt{\frac{\hat{p}_1(1-\hat{p}_1)}{n_1}&plus;\frac{\hat{p}_2(1-\hat{p}_2)}{n_2}})|![](https://latex.codecogs.com/gif.latex?z&space;=&space;(\hat{p}_1-\hat{p}_2)/\sqrt{p_\text{pooled}(1-p_\text{pooled})(\frac{1}{n_1}&plus;\frac{1}{n_2})},&space;p_\text{pooled}&space;=&space;\frac{n_1\hat{p}_1&plus;n_2\hat{p}_2}{n_1&plus;n_2})|
+|One|![][5]|![][6]|
+|Two|![][7]|![][8]|
 
 ## Sensitivity & Specificity
 
@@ -82,3 +82,12 @@
 - Validation
 - Evaluation
 - Prediction
+
+[1]: https://latex.codecogs.com/gif.latex?\overline{X}&space;\pm&space;t_\text{df}\frac{S}{\sqrt{n}},&space;\text{df}&space;=&space;n-1
+[2]: https://latex.codecogs.com/gif.latex?t_\text{df}&space;=&space;(\overline{X}-\mu)/\frac{S}{\sqrt{n}},&space;\text{df}&space;=&space;n-1
+[3]: https://latex.codecogs.com/gif.latex?(\overline{X}_1-\overline{X}2)&space;\pm&space;t_\text{df}\sqrt{\frac{S_1^2}{n_1}&plus;\frac{S_2^2}{n_2}},&space;\text{df}&space;=&space;\min\{n_1-1,&space;n_2-1\}
+[4]: https://latex.codecogs.com/gif.latex?t_\text{df}&space;=&space;(\overline{X}_1-\overline{X}_2)/\sqrt{\frac{S_1^2}{n_1}&plus;\frac{S_2^2}{n_2}},&space;\text{df}&space;=&space;\min\{n_1-1,&space;n_2-1\}
+[5]: https://latex.codecogs.com/gif.latex?\hat{p}&space;\pm&space;z\sqrt{\frac{\hat{p}(1-\hat{p})}{n}}
+[6]: https://latex.codecogs.com/gif.latex?z&space;=&space;(\hat{p}-p)/\sqrt{\frac{p(1-p)}{n}}
+[7]: https://latex.codecogs.com/gif.latex?(\hat{p}_1-\hat{p}_2)&space;\pm&space;z\sqrt{\frac{\hat{p}_1(1-\hat{p}_1)}{n_1}&plus;\frac{\hat{p}_2(1-\hat{p}_2)}{n_2}}
+[8]: https://latex.codecogs.com/gif.latex?z&space;=&space;(\hat{p}_1-\hat{p}_2)/\sqrt{p_\text{pooled}(1-p_\text{pooled})(\frac{1}{n_1}&plus;\frac{1}{n_2})},&space;p_\text{pooled}&space;=&space;\frac{n_1\hat{p}_1&plus;n_2\hat{p}_2}{n_1&plus;n_2}
