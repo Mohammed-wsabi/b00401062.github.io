@@ -80,7 +80,7 @@
 - Backus-Naur form: $`e::=x|ee|λx.e`$.
 - An expression is **closed** if it contains no free variables, otherwise it is **open**.
 - The **substitution** of $`x'`$ for the free occurrences of $`x`$ in $`e`$ is written $`e[x'/x]`$.
-- **β-reduction**: For all $`x`$, $`e`$ and $`e'`$, we can reduce the application $`(λx.e)e'→_{β}e[e'/x]`$.
+- **β-reduction**: For all $`x`$, $`e`$ and $`e'`$, we can reduce the application $`(λx.e)e'\rightarrow_{β}e[e'/x]`$.
 - **β-redex**: A sub-expression of a lambda expression of the form $`(λx.e)e'`$.
 
 ---
