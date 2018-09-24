@@ -41,8 +41,8 @@
 ### Propositional Logic
 
 - **Propositions** (φ) are made up of **propositional variable** (p) and **logical connectives**.
-- Backus-Naur form: φ ::= p∣(¬φ)∣(φ∧φ)∣(φ∨φ)∣(φ⇒φ)
-- Natural deduction rules: (∧|∨|⇒|¬|⊥) (introduction|elimination)
+- Backus-Naur form: φ ::= p\|(¬φ)\|(φ∧φ)\|(φ∨φ)\|(φ⇒φ)
+- Natural deduction rules: (∧\|∨\|⇒\|¬\|⊥) (introduction|elimination)
 
 ---
 
