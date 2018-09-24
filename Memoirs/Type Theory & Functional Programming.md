@@ -50,8 +50,10 @@
 ### Predicate Logic
 
 - Predicate **formula** (`φ`) are made up of **terms**, **predicates** (`P`), **quantifiers** (`∀|∃`), and **connectives** (`∧|∨|⇒`).
-	- Terms: **variables** (`x`), **constants** (`c`), **functions** (`f`).
-- Backus-Naur form: `φ::=P(...)|∀xφ|∃xφ|(¬φ)|(φ∧φ)|(φ∨φ)|(φ⇒φ)`
+	- Terms (`t`): **variables** (`x`), **constants** (`c`), **functions** (`f`).
+- Backus-Naur form: `φ::=P(t...)|∀xφ|∃xφ|(¬φ)|(φ∧φ)|(φ∨φ)|(φ⇒φ)`
+- Natural deduction rules: (`∀|∃|∧|∨|⇒|¬|⊥`) (introduction\|elimination)
+- In a sense, `∀` is a combination of infinite `∧`, while `∃` is a combination of infinite `∨`.
 
 ---
 
