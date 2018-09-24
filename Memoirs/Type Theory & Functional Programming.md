@@ -5,14 +5,14 @@
 ## Contents
 
 - [Introduction to Logic](#Introduction-to-Logic)
---[Functional Programming and λ-Calculi](#Functional-Programming-and-λ-Calculi)
+- [Functional Programming and λ-Calculi](#Functional-Programming-and-λ-Calculi)
 - [Constructive Mathematics](#Constructive-Mathematics)
---[Introduction-to Type Theory](#Introduction-to-Type-Theory)
+- [Introduction-to Type Theory](#Introduction-to-Type-Theory)
 - [Exploring Type Theory](#Exploring-Type-Theory)
---[Applying Type Theory](#Applying-Type-Theory)
---[Augmenting Type Theory](#Augmenting-Type-Theory)
---[Foundations](#Foundations)
---[Conclusions](#Conclusions)
+- [Applying Type Theory](#Applying-Type-Theory)
+- [Augmenting Type Theory](#Augmenting-Type-Theory)
+- [Foundations](#Foundations)
+- [Conclusions](#Conclusions)
 
 ---
 
