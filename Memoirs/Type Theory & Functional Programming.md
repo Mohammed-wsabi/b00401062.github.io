@@ -33,6 +33,21 @@
 
 ## Introduction to Logic
 
+- [Propositional Logic](#propositional-logic)
+- [Predicate Logic](#predicate-logic)
+
+---
+
+### Propositional Logic
+
+- **Propositions** (φ) are made up of **propositional variable** (p) and **logical connectives**.
+- Backus-Naur form: φ ::= p∣(¬φ)∣(φ∧φ)∣(φ∨φ)∣(φ⇒φ)
+- Natural deduction rules: (∧|∨|⇒|¬|⊥) (introduction|elimination)
+
+---
+
+### Predicate Logic
+
 ---
 
 ## Functional Programming and λ-Calculi
