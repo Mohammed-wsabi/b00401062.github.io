@@ -24,7 +24,7 @@
 - **Curry Howard isomorphism**: the propositions-as-types notion.
 - $`p:P`$: $`p`$ is of type $`P`$. $`p`$ is a proof of proposition $`P`$.
 - Functions defined by recursion have their properties proved by induction.
-- $`(a,b):(∃x:A).B(x)`$: $`a`$ of type $`A`$ meets the specification $`B(x)`$, as proved by $`b:B(a)`$.
+- $`(a,b):(\exists{x}:A).B(x)`$: $`a`$ of type $`A`$ meets the specification $`B(x)`$, as proved by $`b:B(a)`$.
 - The logic is an extension of many-sorted, first-order predicate logic.
 - The system here integrates the process of program development and proof: to show that a program meets a specification we provide the program/proof pair.
 
