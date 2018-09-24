@@ -79,18 +79,10 @@ title: Life Code
 
 ## Memoirs
 
-- [A review of group ICA for fMRI data and ICA for joint inference of imaging, genetic, and ERP data](Memoirs/A%20review%20of%20group%20ICA%20for%20fMRI%20data%20and%20ICA%20for%20joint%20inference%20of%20imaging,%20genetic,%20and%20ERP%20data.pdf)
 - [Case and Disease Discussion](Memoirs/Case%20and%20Disease%20Discussion.html)
-- [Diffusion MRI Theory Methods and Applications Anisotropic Diffusion](Memoirs/Diffusion%20MRI%20Theory%20Methods%20and%20Applications%20Anisotropic%20Diffusion.pdf)
-- [Diffusion MRI Theory Methods and Applications Magnetic Resonance Diffusion Imaging](Memoirs/Diffusion%20MRI%20Theory%20Methods%20and%20Applications%20Magnetic%20Resonance%20Diffusion%20Imaging.pdf)
-- [Diffusion MRI Theory Methods and Applications Physics of Diffusion](Memoirs/Diffusion%20MRI%20Theory%20Methods%20and%20Applications%20Physics%20of%20Diffusion.pdf)
-- [Exploring the brain network A review on resting-state fMRI functional connectivity](Memoirs/Exploring%20the%20brain%20network%20A%20review%20on%20resting-state%20fMRI%20functional%20connectivity.pdf)
-- [Identifying sparse connectivity patterns in the brain using resting-state fMRI](Memoirs/Identifying%20sparse%20connectivity%20patterns%20in%20the%20brain%20using%20resting-state%20fMRI.pdf)
 - [Literature Review](Memoirs/Literature%20Review.html)
-- [Magnetic Resonance Fingerprinting](Memoirs/Magnetic%20Resonance%20Fingerprinting.pdf)
-- [Network Analysis of Intrinsic Functional Brain Connectivity in Alzheimer's Disease](Memoirs/Network%20Analysis%20of%20Intrinsic%20Functional%20Brain%20Connectivity%20in%20Alzheimer's%20Disease.pdf)
 - [The Only EKG Book You'll Ever Need](Memoirs/The%20Only%20EKG%20Book%20You'll%20Ever%20Need.pdf)
-- [The organization of the human cerebral cortex estimated by intrinsic functional connectivity](Memoirs/The%20organization%20of%20the%20human%20cerebral%20cortex%20estimated%20by%20intrinsic%20functional%20connectivity.pdf)
+- [Type Theory & Functional Programming](Type%20Theory%20&%20Functional%20Programming.html)
 
 ## Packages
 
