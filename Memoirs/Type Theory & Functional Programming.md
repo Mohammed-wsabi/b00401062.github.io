@@ -40,13 +40,18 @@
 
 ### Propositional Logic
 
-- **Propositional formula** (φ) are made up of **propositional atoms** (p) and **logical connectives**.
-- Backus-Naur form: φ ::= p\|(¬φ)\|(φ∧φ)\|(φ∨φ)\|(φ⇒φ)
+- Propositional **formula** ($`φ`$) are made up of propositional **atoms** ($`P`$) and **connectives** (∧\|∨\|⇒).
+- Backus-Naur form: $`φ::=P|(¬φ)|(φ∧φ)|(φ∨φ)|(φ⇒φ)`$
 - Natural deduction rules: (∧\|∨\|⇒\|¬\|⊥) (introduction\|elimination)
+- Propositional logic is a subset of the predicate logic.
 
 ---
 
 ### Predicate Logic
+
+- Predicate **formula** ($`φ`$) are made up of **terms**, **predicates** ($`P`$), **quantifiers** (∀\|∃), and **connectives** (∧\|∨\|⇒).
+	- Terms: **variables** ($`x`$), **constants** ($`c`$), **functions** ($`f`$).
+- Backus-Naur form: $`φ::=P(...)|∀xφ|∃xφ|(¬φ)|(φ∧φ)|(φ∨φ)|(φ⇒φ)`$
 
 ---
 
