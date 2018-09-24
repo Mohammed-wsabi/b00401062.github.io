@@ -50,8 +50,8 @@
 ### Predicate Logic
 
 - Predicate **formula** ($`φ`$) are made up of **terms**, **predicates** ($`P`$), **quantifiers** ($`\forall|\exists`$), and **connectives** ($`\land|\lor|\implies`$).
-	- Terms ($`t`$): **variables** ($`v`$), **constants** ($`c`$), **functions** ($`f`$).
-- Backus-Naur form: $`φ::=P(t...)|\forall{v}.φ|\exists{v}.φ|(\lnotφ)|(φ\landφ)|(φ\lorφ)|(φ\impliesφ)`$.
+	- Terms ($`t`$): **variables** ($`x`$), **constants** ($`c`$), **functions** ($`f`$).
+- Backus-Naur form: $`φ::=P(t...)|\forall{x}.φ|\exists{x}.φ|(\lnotφ)|(φ\landφ)|(φ\lorφ)|(φ\impliesφ)`$.
 - Natural deduction rules: ($`\forall|\exists|\land|\lor|\implies|\lnot|\bot`$) (introduction\|elimination)
 - In a sense, $`\forall`$ is a combination of infinite $`\land`$, while $`\exists`$ is a combination of infinite $`\lor`$.
 
@@ -74,10 +74,22 @@
 
 ### The Untyped λ-Calculus
 
-- Three kinds of λ-expression: variables, applications, and abstractions.
-	- **Variables**
+- **λ-expression** is made up of **variables** ($`x`$), **applications**, and **abstractions**.
 	- **Applications** ($`e_1e_2`$): The application of expression $`e_1`$ to $`e_2`$.
 	- **Abstractions** ($`λx.e`$): The function which returns the value $`e`$ when given formal parameter $`x`$.
+- Backus-Naur form: $`e::=x|ee|λx.e`$.
+- An expression is **closed** if it contains no free variables, otherwise it is **open**.
+- The **substitution** of $`x'`$ for the free occurrences of $`x`$ in $`e`$ is written $`e[x'/x]`$.
+- **β-reduction**: For all $`x`$, $`e`$ and $`e'`$, we can reduce the application $`(λx.e)e'→_{β}e[e'/x]`$.
+- **β-redex**: A sub-expression of a lambda expression of the form $`(λx.e)e'`$.
+
+---
+
+### Evaluation
+
+- **Normal form**: An expression is in normal form if it contains no redexes.
+- **Head normal form**: All expressions of the form $`λx_1...λx_n.ye_1...e_m`$ where $`x`$ and $`y`$ are variables and $`e`$ are expressions.
+- **Weak head normal form**: All expressions which are either abstractions or of the form $`ye_1...e_m`$.
 
 ---
 
