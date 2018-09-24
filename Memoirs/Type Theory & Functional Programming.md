@@ -40,7 +40,7 @@
 
 ### Propositional Logic
 
-- **Propositions** (φ) are made up of **propositional atoms** (p) and **logical connectives**.
+- **Propositional formula** (φ) are made up of **propositional atoms** (p) and **logical connectives**.
 - Backus-Naur form: φ ::= p\|(¬φ)\|(φ∧φ)\|(φ∨φ)\|(φ⇒φ)
 - Natural deduction rules: (∧\|∨\|⇒\|¬\|⊥) (introduction\|elimination)
 
