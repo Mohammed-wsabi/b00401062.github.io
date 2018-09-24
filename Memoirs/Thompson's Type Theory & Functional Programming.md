@@ -3,7 +3,8 @@
 - **Publisher**: Addison-Wesley
 - **Author**: Simon Thompson
 - **Presenter**: Wen-Bin Luo
-- **Link**: https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/
+- **Link**: [https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
+
 ---
 
 ## Contents
