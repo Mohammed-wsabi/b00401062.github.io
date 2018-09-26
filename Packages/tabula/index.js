@@ -4,10 +4,10 @@ function convert() {
 	let delimiter = document.getElementById("delimiter").value;
 	let hHeader = document.getElementById("hHeader").checked;
 	let vHeader = document.getElementById("vHeader").checked;
-	table2html(caption, content, delimiter, hHeader, vHeader);
+	tabula(caption, content, delimiter, hHeader, vHeader);
 }
 
-function table2html(caption, content, delimiter, hHeader, vHeader) {
+function tabula(caption, content, delimiter, hHeader, vHeader) {
 	let lines = content.trim().split(/\n/);
 	for (let i in lines) {
 		let line = lines[i].split(delimiter);
@@ -22,7 +22,6 @@ function table2html(caption, content, delimiter, hHeader, vHeader) {
 			.map((line) => line.replace("</td>", "</th>"));
 	}
 	let table = document.getElementById("table");
-	table.innerHTML = "";
-	table.innerHTML += `<caption>${caption}</caption>`;
-	table.innerHTML += lines.join("\n");
+	table.caption.innerText = caption;
+	table.tBodies[0].innerHTML = lines.join("\n");
 }
