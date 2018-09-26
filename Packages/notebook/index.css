@@ -1,6 +1,0 @@
-input[type=checkbox] {
-	margin-right: 10px;
-}
-#notebook > li:nth-child(odd) {
-	background-color: #eee;
-}
