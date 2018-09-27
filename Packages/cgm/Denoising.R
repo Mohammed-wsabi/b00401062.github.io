@@ -16,6 +16,7 @@ Denoising <- R6Class(
 			for (i in 1:dim(private$stats)[1]) {
 				pyplot$plot(unlist(private$stats[i, ]))
 			}
+			pyplot$xticks(0:4, colnames(private$stats))
 			pyplot$yscale("log")
 			pyplot$ylabel("log(#Sequences)")
 			pyplot$savefig("./Downloads/Researches/CGM/Figures/denoising.png")
