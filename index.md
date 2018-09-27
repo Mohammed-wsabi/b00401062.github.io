@@ -93,7 +93,6 @@ title: Life Code
 - [codechef](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/codechef): Collection of Java programs solving [CodeChef](https://www.codechef.com) problems.
 - [csie](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/csie): Collection of code for CSIE undergraduage assignments.
 - [gpa](Packages/gpa): Applet that calculates your average GPA.
-- [graphics](Packages/graphics): Collection of geometric shapes and demostration of their elegance with algorithms.
 - [leetcode](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/leetcode): Collection of Java programs solving [LeetCode](https://leetcode.com/problemset/all/) problems.
 - [notebook](Packages/notebook): Place where you can take note of trivial things in your life.
 - [ratlab](Packages/ratlab): Collection of [Matlab](https://www.mathworks.com) functions implemented natively in [R](https://www.r-project.org) in an attempt to be a [Cython](http://cython.org) counterpart.
