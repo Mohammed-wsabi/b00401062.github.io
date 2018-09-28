@@ -1,3 +1,4 @@
+library(magrittr)
 library(R6)
 library(reticulate)
 
@@ -14,7 +15,7 @@ Denoising <- R6Class(
 			use_python(system("which python3", intern = TRUE))
 			pyplot <- import("matplotlib.pyplot")
 			for (i in 1:dim(private$stats)[1]) {
-				pyplot$plot(unlist(private$stats[i, ]))
+				pyplot$plot(private$stats[i, ] %>% unlist)
 			}
 			pyplot$xticks(0:4, colnames(private$stats))
 			pyplot$yscale("log")
