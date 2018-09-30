@@ -1,4 +1,4 @@
-# Reproductive System & GYNOB
+# Reproductive System & OBGYN
 
 ## Urogenital Embryonic Origins
 
