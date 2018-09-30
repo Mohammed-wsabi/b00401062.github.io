@@ -57,7 +57,7 @@ title: Life Code
 - [Procedures](Medicine/Procedures.html)
 - [Radiology & Nuclear Medicine](Medicine/Radiology%20&%20Nuclear%20Medicine.html)
 - [Renal System & Nephrology](Medicine/Renal%20System%20&%20Nephrology.html)
-- [Reproductive System & GYNOB](Medicine/Reproductive%20System%20&%20GYNOB.html)
+- [Reproductive System & OBGYN](Medicine/Reproductive%20System%20&%20OBGYN.html)
 - [Respiratory System & Pulmonology](Medicine/Respiratory%20System%20&%20Pulmonology.html)
 - [Special Senses & Ophthalmology & Otolaryngology](Medicine/Special%20Senses%20&%20Ophthalmology%20&%20Otolaryngology.html)
 - [Surgery](Medicine/Surgery.html)
