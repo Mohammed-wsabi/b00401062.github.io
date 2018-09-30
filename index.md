@@ -2,21 +2,6 @@
 title: Life Code
 ---
 
-## Blogger
-
-- [Clerkship at UPMC Family Medicine](Blogger/Clerkship%20at%20UPMC%20Family%20Medicine.pdf)
-- [Clerkship at UPMC Hematology](Blogger/Clerkship%20at%20UPMC%20Hematology.pdf)
-- [Introduction to Git](Blogger/Introduction%20to%20Git.html)
-- [Introduction to Vim](Blogger/Introduction%20to%20Vim.html)
-- [Gene Deletion](Blogger/Gene%20Deletion.html)
-- [Linkage Analysis](Blogger/Linkage%20Analysis.html)
-- [Medical Doctor in Taiwan and the US](Blogger/Medical%20Doctor%20in%20Taiwan%20and%20the%20US.html)
-- [Muscle Strength](Blogger/Muscle%20Strength.html)
-- [Operating Systems](Blogger/Operating%20Systems.html)
-- [Programming Languages](Blogger/Programming%20Languages.html)
-- [Smooth Muscle Movement](Blogger/Smooth%20Muscle%20Movement.html)
-- [USCE Clinical Electives](Blogger/USCE%20Clinical%20Electives.html)
-
 ## Computer
 
 - [Algorithm Design and Analysis](Computer/Algorithm%20Design%20and%20Analysis.html)
