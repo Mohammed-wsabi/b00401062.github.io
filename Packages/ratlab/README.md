@@ -10,6 +10,9 @@
 - [find.R](find.R): Find indices and values of nonzero elements.
 - [ind2sub.R](ind2sub.R): Subscripts from linear index.
 - [iskeyword.R](iskeyword.R): Determine whether input is R keyword.
+- [isletter.R](isletter.R): Determine which characters are letters.
+- [isspace.R](isspace.R): Determine which characters are space characters.
+- [isstrprop.R](isstrprop.R): Determine if string is of specified category.
 - [isvarname.R](isvarname.R): Determine if input is valid variable name.
 - [lastwarn.R](lastwarn.R): Last warning message.
 - [linspace.R](linspace.R): Generate linearly spaced vector.
@@ -25,6 +28,8 @@
 - [repelem.R](repelem.R): Repeat copies of array elements.
 - [rmdir.R](rmdir.R): Remove folder.
 - [size.R](size.R): Array size.
+- [strcat.R](strcat.R): Concatenate strings horizontally.
+- [strlength.R](strlength.R): Length of strings in string array.
 - [sub2ind.R](sub2ind.R): Convert subscripts to linear indices.
 - [true.R](true.R): Logical 1 (true).
 - [zeros.R](zeros.R): Create array of all zeros.
