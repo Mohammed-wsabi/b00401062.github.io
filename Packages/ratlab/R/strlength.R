@@ -1,1 +1,0 @@
-strlength <- nchar
