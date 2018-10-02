@@ -28,6 +28,8 @@
 - [pwd.R](pwd.R): Identify current folder.
 - [rand.R](rand.R): Uniformly distributed random numbers.
 - [repelem.R](repelem.R): Repeat copies of array elements.
+- [replace.R](replace.R): Find and replace substrings in string array.
+- [replaceBetween.R](replaceBetween.R): Replace substrings identified by indicators that mark their starts and ends.
 - [rmdir.R](rmdir.R): Remove folder.
 - [size.R](size.R): Array size.
 - [strcat.R](strcat.R): Concatenate strings horizontally.
