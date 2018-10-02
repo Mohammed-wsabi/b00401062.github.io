@@ -1,0 +1,10 @@
+Package: ratlab
+Type: Package
+Title: Collection of Matlab functions implemented natively in R in an attempt to be a Cython counterpart.
+Version: 0.1.0
+Author: Wen-Bin Luo
+Maintainer: Wen-Bin Luo <b00401062@ntu.edu.tw>
+Description: Collection of Matlab functions implemented natively in R in an attempt to be a Cython counterpart.
+License: MIT
+Encoding: UTF-8
+LazyData: true
