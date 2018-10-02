@@ -1,14 +1,5 @@
 # Ratlab
 
-## lang
-
-- [ans](https://www.mathworks.com/help/matlab/ref/ans.html?s_tid=doc_ta): Most recent answer.
-- [assert](https://www.mathworks.com/help/matlab/ref/assert.html?s_tid=doc_ta): Throw error if condition false.
-- [error](https://www.mathworks.com/help/matlab/ref/error.html?s_tid=doc_ta): Throw error and display message.
-- [iskeyword](https://www.mathworks.com/help/matlab/ref/iskeyword.html?s_tid=doc_ta): Determine whether input is R keyword.
-- [isvarname](https://www.mathworks.com/help/matlab/ref/isvarname.html?s_tid=doc_ta): Determine if input is valid variable name.
-- [lastwarn](https://www.mathworks.com/help/matlab/ref/lastwarn.html?s_tid=doc_ta): Last warning message.
-
 ## elmat
 
 - [eye](https://www.mathworks.com/help/matlab/ref/eye.html?s_tid=doc_ta): Identity matrix.
@@ -31,13 +22,22 @@
 
 - [cd](https://www.mathworks.com/help/matlab/ref/cd.html?s_tid=doc_ta): Change current folder.
 - [mkdir](https://www.mathworks.com/help/matlab/ref/mkdir.html?s_tid=doc_ta): Make new folder.
-- [onCleanup](https://www.mathworks.com/help/matlab/ref/onCleanup.html?s_tid=doc_ta): Cleanup tasks upon function completion.
+- [onCleanup](https://www.mathworks.com/help/matlab/ref/oncleanup.html?s_tid=doc_ta): Cleanup tasks upon function completion.
 - [pwd](https://www.mathworks.com/help/matlab/ref/pwd.html?s_tid=doc_ta): Identify current folder.
 - [rmdir](https://www.mathworks.com/help/matlab/ref/rmdir.html?s_tid=doc_ta): Remove folder.
 
 ## iofun
 
 - [clc](https://www.mathworks.com/help/matlab/ref/clc.html?s_tid=doc_ta): Clear command window.
+
+## lang
+
+- [ans](https://www.mathworks.com/help/matlab/ref/ans.html?s_tid=doc_ta): Most recent answer.
+- [assert](https://www.mathworks.com/help/matlab/ref/assert.html?s_tid=doc_ta): Throw error if condition false.
+- [error](https://www.mathworks.com/help/matlab/ref/error.html?s_tid=doc_ta): Throw error and display message.
+- [iskeyword](https://www.mathworks.com/help/matlab/ref/iskeyword.html?s_tid=doc_ta): Determine whether input is R keyword.
+- [isvarname](https://www.mathworks.com/help/matlab/ref/isvarname.html?s_tid=doc_ta): Determine if input is valid variable name.
+- [lastwarn](https://www.mathworks.com/help/matlab/ref/lastwarn.html?s_tid=doc_ta): Last warning message.
 
 ## randfun
 
@@ -51,6 +51,6 @@
 - [isspace](https://www.mathworks.com/help/matlab/ref/isspace.html?s_tid=doc_ta): Determine which characters are space characters.
 - [isstrprop](https://www.mathworks.com/help/matlab/ref/isstrprop.html?s_tid=doc_ta): Determine if string is of specified category.
 - [replace](https://www.mathworks.com/help/matlab/ref/replace.html?s_tid=doc_ta): Find and replace substrings in string array.
-- [replaceBetween](https://www.mathworks.com/help/matlab/ref/replaceBetween.html?s_tid=doc_ta): Replace substrings identified by indicators that mark their starts and ends.
+- [replaceBetween](https://www.mathworks.com/help/matlab/ref/replacebetween.html?s_tid=doc_ta): Replace substrings identified by indicators that mark their starts and ends.
 - [strcat](https://www.mathworks.com/help/matlab/ref/strcat.html?s_tid=doc_ta): Concatenate strings horizontally.
 - [strlength](https://www.mathworks.com/help/matlab/ref/strlength.html?s_tid=doc_ta): Length of strings in string array.
