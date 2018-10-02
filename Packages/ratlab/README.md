@@ -4,6 +4,8 @@
 - [assert.R](assert.R): Throw error if condition false.
 - [cd.R](cd.R): Change current folder.
 - [clc.R](clc.R): Clear command window.
+- [contains.R](contains.R): Determine if pattern is in string.
+- [count.R](count.R): Count occurrences of pattern in string.
 - [error.R](error.R): Throw error and display message.
 - [eye.R](eye.R): Identity matrix.
 - [false.R](false.R): Logical 0 (false).
