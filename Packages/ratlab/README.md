@@ -21,10 +21,22 @@
 ## general
 
 - [cd](https://www.mathworks.com/help/matlab/ref/cd.html?s_tid=doc_ta): Change current folder.
+- [clearvars](https://www.mathworks.com/help/matlab/ref/clearvars.html?s_tid=doc_ta): Clear variables from memory.
+- [dir](https://www.mathworks.com/help/matlab/ref/dir.html?s_tid=doc_ta): List folder contents.
+- [copyfile](https://www.mathworks.com/help/matlab/ref/copyfile.html?s_tid=doc_ta): Copy file or folder.
+- [getenv](https://www.mathworks.com/help/matlab/ref/getenv.html?s_tid=doc_ta): Environment variable.
+- [isfolder](https://www.mathworks.com/help/matlab/ref/isfolder.html?s_tid=doc_ta): Determine if input is folder.
 - [mkdir](https://www.mathworks.com/help/matlab/ref/mkdir.html?s_tid=doc_ta): Make new folder.
+- [movefile](https://www.mathworks.com/help/matlab/ref/movefile.html?s_tid=doc_ta): Move or rename file or folder.
 - [onCleanup](https://www.mathworks.com/help/matlab/ref/oncleanup.html?s_tid=doc_ta): Cleanup tasks upon function completion.
+- [path](https://www.mathworks.com/help/matlab/ref/path.html?s_tid=doc_ta): View or change search path.
 - [pwd](https://www.mathworks.com/help/matlab/ref/pwd.html?s_tid=doc_ta): Identify current folder.
 - [rmdir](https://www.mathworks.com/help/matlab/ref/rmdir.html?s_tid=doc_ta): Remove folder.
+- [setenv](https://www.mathworks.com/help/matlab/ref/setenv.html?s_tid=doc_ta): Set environment variable.
+- [system](https://www.mathworks.com/help/matlab/ref/system.html?s_tid=doc_ta): Execute operating system command and return output.
+- [ver](https://www.mathworks.com/help/matlab/ref/ver.html?s_tid=doc_ta): Version information for R products.
+- [which](https://www.mathworks.com/help/matlab/ref/which.html?s_tid=doc_ta): Locate functions and filescollapse.
+- [whos](https://www.mathworks.com/help/matlab/ref/whos.html?s_tid=doc_ta): List variables in workspace, with sizes and types.
 
 ## iofun
 
