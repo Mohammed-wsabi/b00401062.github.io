@@ -79,7 +79,7 @@
 
 ### The Untyped λ-Calculus
 
-- **λ-expression** is made up of **variables** ($`x`$), **applications**, and **abstractions**.
+- **λ-expression** ($`e`$) is made up of **variables** ($`x`$), **applications**, and **abstractions**.
 	- **Applications** ($`e_1e_2`$): The application of expression $`e_1`$ to $`e_2`$.
 	- **Abstractions** ($`λx.e`$): The function which returns the value $`e`$ when given formal parameter $`x`$.
 - Backus-Naur form: $`e::=x|ee|λx.e`$.
@@ -95,6 +95,8 @@
 - **Normal form**: An expression is in normal form if it contains no redexes.
 - **Head normal form**: All expressions of the form $`λx_1...λx_n.ye_1...e_m`$ where $`x`$ and $`y`$ are variables and $`e`$ are expressions.
 - **Weak head normal form**: All expressions which are either abstractions or of the form $`ye_1...e_m`$.
+- A normal form can be thought of as the result of a computation.
+- There are expressions whose evaluation fails to terminate: no sequence of reductions ends in a week head normal form.
 
 ---
 
