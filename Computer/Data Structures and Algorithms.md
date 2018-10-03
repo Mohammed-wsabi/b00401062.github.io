@@ -11,11 +11,9 @@
 - Homework: [http://www.csie.ntu.edu.tw/~hsinmu/courses/_media/dsa_17spring/r1.pdf](http://www.csie.ntu.edu.tw/~hsinmu/courses/_media/dsa_17spring/r1.pdf)
 - Homework: [dsa_2017_hw1_3.pdf](http://www.csie.ntu.edu.tw/~hsinmu/courses/_media/dsa_17spring/dsa_2017_hw1_3.pdf)
 - Solutions: [Solutions1.pdf](Data%20Structures%20and%20Algorithms/Solutions1.pdf)
-- Programming: [calculator.c](../Packages/csie/Data%20Structures%20and%20Algorithms/calculator.c), [good_string.c](../Packages/csie/Data%20Structures%20and%20Algorithms/good_string.c)
 - Homework: [http://goo.gl/qifrq2](http://goo.gl/qifrq2)
 - Homework: [dsa_2017_hw2_1.pdf](http://www.csie.ntu.edu.tw/~hsinmu/courses/_media/dsa_17spring/dsa_2017_hw2_1.pdf)
 - Solutions: [b00401062_hw2.pdf](Data%20Structures%20and%20Algorithms/b00401062_hw2.pdf)
-- Programming: [string_pair.c](../Packages/csie/Data%20Structures%20and%20Algorithms/string_pair.c), [secret_code.c](../Packages/csie/Data%20Structures%20and%20Algorithms/secret_code.c)
 
 ## 2017-04-25 ~ 2017-06-20
 
@@ -23,7 +21,5 @@
 - Homework: [0425_reading](http://140.112.91.212/judge/index.php/assignments/pdf/10)
 - Homework: [dsa_2017_hw3_3.pdf](http://www.csie.ntu.edu.tw/~hsinmu/courses/_media/dsa_17spring/dsa_2017_hw3_3.pdf)
 - Solutions: [b00401062_hw3.pdf](Data%20Structures%20and%20Algorithms/b00401062_hw3.pdf)
-- Programming: [manager.c](../Packages/csie/Data%20Structures%20and%20Algorithms/manager.c), [router.c](../Packages/csie/Data%20Structures%20and%20Algorithms/router.c)
 - Homework: [dsa_2017_hw4.pdf](http://www.csie.ntu.edu.tw/~hsinmu/courses/_media/dsa_17spring/dsa_2017_hw4.pdf)
 - Solutions: [b00401062_hw4.pdf](Data%20Structures%20and%20Algorithms/b00401062_hw4.pdf)
-- Programming: [tcwbgo.c](../Packages/csie/Data%20Structures%20and%20Algorithms/tcwbgo.c), [portal.c](../Packages/csie/Data%20Structures%20and%20Algorithms/portal.c)
