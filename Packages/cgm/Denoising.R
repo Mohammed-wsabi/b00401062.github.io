@@ -1,5 +1,5 @@
-library(magrittr)
 library(R6)
+library(magrittr)
 library(reticulate)
 
 Denoising <- R6Class(
