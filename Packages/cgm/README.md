@@ -6,4 +6,4 @@
 
 ## Visualization
 
-- [Denoising.R](Denoising.R): Visualize denoising statistics.
+- [Denoising.py](Denoising.py): Visualize denoising statistics.
