@@ -21,19 +21,23 @@ class Populator:
 		if os.path.isfile("./Downloads/Researches/ABMRI/Datasets/Datasets.pkl"):
 			with open("./Downloads/Researches/ABMRI/Datasets/Datasets.pkl", "rb") as fin:
 				return pickle.load(fin)
-		fname = "./Downloads/Researches/ABMRI/Datasets/Subjects/Subjects.xlsx"
+		fname = "./Downloads/Researches/ABMRI/Datasets/Subjects.csv"
+		table = read_csv(fname, header = 0, index_col = 0)[COLUMNS + ["Category"]]
 		datasets = {
 			"Training": {
 				"NR": None,
 				"R": DataFrame(columns = COLUMNS)},
 			"Test": {
 				"Chronic": {
-					"NR": read_excel(fname, sheet_name = "Chronic", header = 0, index_col = 0)[COLUMNS + ["Category"]].groupby("Category").get_group("NR").drop(columns = "Category"),
-					"R": read_excel(fname, sheet_name = "Chronic", header = 0, index_col = 0)[COLUMNS + ["Category"]].groupby("Category").get_group("R").drop(columns = "Category")},
+					"NR": table[table.Duration > 2].groupby("Category").get_group("NR").drop(columns = "Category"),
+					"R": table[table.Duration > 2].groupby("Category").get_group("R").drop(columns = "Category")},
 				"Early": {
-					"NR": read_excel(fname, sheet_name = "Early", header = 0, index_col = 0)[COLUMNS + ["Category"]].groupby("Category").get_group("NR").drop(columns = "Category"),
-					"R": read_excel(fname, sheet_name = "Early", header = 0, index_col = 0)[COLUMNS + ["Category"]].groupby("Category").get_group("R").drop(columns = "Category")}}}
-		datasets["Training"]["NR"], datasets["Validation"]["NR"] = train_test_split(datasets["Validation"]["NR"], train_size = 32, random_state = 0)
+					"NR": table[table.Duration <= 2].groupby("Category").get_group("NR").drop(columns = "Category"),
+					"R": table[table.Duration <= 2].groupby("Category").get_group("R").drop(columns = "Category")}}}
+		datasets["Training"]["NR"], datasets["Test"]["Chronic"]["NR"] = train_test_split(
+			datasets["Test"]["Chronic"]["NR"],
+			train_size = 32,
+			random_state = 0)
 		cumulative = Category(
 			NR = datasets["Training"]["NR"][["Duration", "Dose"]].prod(axis = 1).sort_values(),
 			R = datasets["Test"]["Chronic"]["R"][["Duration", "Dose"]].prod(axis = 1).sort_values())
