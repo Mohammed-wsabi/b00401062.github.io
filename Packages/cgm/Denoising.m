@@ -1,16 +1,34 @@
-#!/usr/bin/evn python3
-
-class Denoising:
-	def __init__(self, filepath):
-		from pandas import read_table
-		self.filepath = filepath
-		self.stats = read_table(self.filepath, index_col = 0, skiprows = [1])
-	def plot(self):
-		from matplotlib.pyplot import plot, yscale, ylabel, subplots_adjust, savefig, show
-		for i in range(self.stats.shape[0]):
-			plot(self.stats.iloc[i])
-		yscale("log")
-		ylabel("log(#Sequences)")
-		subplots_adjust(left = .15)
-		savefig("./Downloads/Researches/CGM/Figures/denoising.png")
-		show()
+classdef Denoising
+	properties
+		infile
+		outfile
+		table
+	end
+	methods
+		function this = Denoising(infile, outfile)
+			this.infile = infile;
+			this.outfile = outfile;
+			this.table = readtable( ...
+				this.infile, ...
+				"ReadRowNames", true, ...
+				"Filetype", "text", ...
+				"Delimiter", "\t", ...
+				"CommentStyle", "#" ...
+			);
+		end
+		function plot(this)
+			hold("on")
+			for i = 1:height(this.table)
+				plot(this.table{i, :})
+			end
+			set(gca, "YScale", "log")
+			set(gca, "TickLabelInterpreter", "none")
+			xticks(1:5)
+			xticklabels(this.table.Properties.VariableNames)
+			ylabel("log(#Sequences)")
+			legend(this.table.Properties.RowNames, "Location", "southwest",	"Box", "off")
+			saveas(gcf, this.outfile)
+			hold("off")
+		end
+	end
+end
