@@ -23,7 +23,7 @@ classdef Denoising
 			end
 			set(gca, "YScale", "log")
 			set(gca, "TickLabelInterpreter", "none")
-			xticks(1:5)
+			xticks(1:width(this.table))
 			xticklabels(this.table.Properties.VariableNames)
 			ylabel("log(#Sequences)")
 			legend(this.table.Properties.RowNames, "Location", "southwest",	"Box", "off")
