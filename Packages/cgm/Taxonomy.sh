@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 qiime feature-classifier classify-sklearn \
-	--i-classifier $CGM/gg-13-8-99-515-806-nb-classifier.qza \
+	--i-classifier $CGM/gg-13-8-99-nb-classifier.qza \
 	--i-reads $CGM/rep-seqs.qza \
 	--o-classification $CGM/taxonomy.qza
 

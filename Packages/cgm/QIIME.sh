@@ -9,6 +9,7 @@ source activate qiime
 ./Documents/Packages/cgm/Denoising.sh
 ./Documents/Packages/cgm/Phylogeny.sh
 ./Documents/Packages/cgm/Diversity.sh
+./Documents/Packages/cgm/Classifier.sh
 ./Documents/Packages/cgm/Taxonomy.sh
 ./Documents/Packages/cgm/ANCOM.sh
 ./Documents/Packages/cgm/Gneiss.sh

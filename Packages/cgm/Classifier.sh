@@ -1,24 +1,23 @@
 #!/usr/bin/env bash
 
 qiime tools import \
-	--type 'FeatureData[Sequence]' \
-	--input-path $CGM/85_otus.fasta \
-	--output-path $CGM/85_otus.qza
+	--type "FeatureData[Sequence]" \
+	--input-path $CGM/99_otus.fasta \
+	--output-path $CGM/99_otus.qza
 
 qiime tools import \
-	--type 'FeatureData[Taxonomy]' \
+	--type "FeatureData[Taxonomy]" \
 	--input-format HeaderlessTSVTaxonomyFormat \
-	--input-path $CGM/85_otu_taxonomy.txt \
-	--output-path $CGM/ref-taxonomy.qza
+	--input-path $CGM/99_otu_taxonomy.txt \
+	--output-path $CGM/99_otu_taxonomy.qza
 
 qiime feature-classifier extract-reads \
-	--i-sequences $CGM/85_otus.qza \
+	--i-sequences $CGM/99_otus.qza \
 	--p-f-primer CCTACGGGNGGCWGCAG \
 	--p-r-primer GACTACHVGGGTATCTAATCC \
-	--p-trunc-len 120 \
-	--o-reads $CGM/ref-seqs.qza
+	--o-reads $CGM/99_otus_ref_seqs.qza
 
 qiime feature-classifier fit-classifier-naive-bayes \
-	--i-reference-reads $CGM/ref-seqs.qza \
-	--i-reference-taxonomy $CGM/ref-taxonomy.qza \
-	--o-classifier $CGM/classifier.qza
+	--i-reference-reads $CGM/99_otus_ref_seqs.qza \
+	--i-reference-taxonomy $CGM/99_otu_taxonomy.qza \
+	--o-classifier $CGM/gg-13-8-99-nb-classifier.qza
