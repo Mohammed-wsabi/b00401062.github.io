@@ -26,7 +26,9 @@ classdef Denoising
 			xticks(1:width(this.table))
 			xticklabels(this.table.Properties.VariableNames)
 			ylabel("log(#Sequences)")
-			legend(this.table.Properties.RowNames, "Location", "southwest",	"Box", "off")
+			legend(this.table.Properties.RowNames)
+			legend("Location", "southwest", "Box", "off")
+			set(findobj(gcf, "Type", "Line"), "LineWidth", 2);
 			saveas(gcf, this.outfile)
 			hold("off")
 		end
