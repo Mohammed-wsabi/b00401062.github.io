@@ -2,10 +2,10 @@
 
 qiime tools import \
 	--type "SampleData[PairedEndSequencesWithQuality]" \
-	--input-path $CGM/manifest.csv \
+	--input-path $DATASETS/manifest.csv \
 	--input-format PairedEndFastqManifestPhred33 \
-	--output-path $CGM/demux.qza
+	--output-path $DATASETS/demux.qza
 
 qiime demux summarize \
-	--i-data $CGM/demux.qza \
-	--o-visualization $CGM/demux.qzv
+	--i-data $DATASETS/demux.qza \
+	--o-visualization $DATASETS/demux.qzv

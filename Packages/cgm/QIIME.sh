@@ -1,16 +1,18 @@
 #!/usr/bin/env bash
 
 export PATH=~/Library/Conda/bin/:$PATH
-export CGM=~/Downloads/Researches/CGM/Datasets
+export CGMPATH=~/Documents/Packages/cgm
+export DATASETS=~/Downloads/Researches/CGM/Datasets
 
 source activate qiime
 
-for step in $@
+for FILE in $@
 do
-	./Documents/Packages/cgm/$step.sh
+	$CGMPATH/$FILE.sh
 done
 
 source deactivate
 
-unset CGM
 unset PATH
+unset CGMPATH
+unset DATASETS
