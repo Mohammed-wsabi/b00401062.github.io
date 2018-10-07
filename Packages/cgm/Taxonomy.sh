@@ -13,4 +13,4 @@ qiime taxa barplot \
 	--i-table $DATASETS/FeatureTable[Frequency]/table.qza \
 	--i-taxonomy $DATASETS/FeatureData[Taxonomy]/taxonomy.qza \
 	--m-metadata-file $DATASETS/Metadata/metadata.tsv \
-	--o-visualization $DATASETS/taxa-barplot/taxa-bar-plots.qzv
+	--o-visualization $DATASETS/taxa-barplot/taxa-barplots.qzv
