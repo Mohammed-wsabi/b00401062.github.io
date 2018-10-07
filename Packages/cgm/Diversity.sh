@@ -5,7 +5,7 @@
 qiime diversity alpha-rarefaction \
 	--i-table $DATASETS/table.qza \
 	--i-phylogeny $DATASETS/rooted-tree.qza \
-	--p-max-depth 4778 \
+	--p-max-depth 10635 \
 	--m-metadata-file $DATASETS/metadata.tsv \
 	--o-visualization $DATASETS/alpha-rarefaction.qzv
 
@@ -14,7 +14,7 @@ qiime diversity alpha-rarefaction \
 qiime diversity core-metrics-phylogenetic \
 	--i-phylogeny $DATASETS/rooted-tree.qza \
 	--i-table $DATASETS/table.qza \
-	--p-sampling-depth 2035 \
+	--p-sampling-depth 1006 \
 	--m-metadata-file $DATASETS/metadata.tsv \
 	--output-dir $DATASETS/core-metrics-results
 
