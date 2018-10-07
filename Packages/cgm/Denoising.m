@@ -21,14 +21,14 @@ classdef Denoising
 			for i = 1:height(this.table)
 				plot(this.table{i, :})
 			end
-			set(gca, "YScale", "log")
-			set(gca, "TickLabelInterpreter", "none")
+			legend(this.table.Properties.RowNames)
+			ylabel("log(#Sequences)")
 			xticks(1:width(this.table))
 			xticklabels(this.table.Properties.VariableNames)
-			ylabel("log(#Sequences)")
-			legend(this.table.Properties.RowNames)
 			legend("Location", "southwest", "Box", "off")
-			set(findobj(gcf, "Type", "Line"), "LineWidth", 2);
+			set(gca, "YScale", "log")
+			set(gca, "TickLabelInterpreter", "none")
+			set(findobj(gcf, "Type", "Line"), "LineWidth", 1.5);
 			saveas(gcf, this.outfile)
 			hold("off")
 		end

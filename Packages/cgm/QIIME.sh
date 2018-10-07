@@ -13,6 +13,5 @@ done
 
 source deactivate
 
-unset PATH
 unset CGMPATH
 unset DATASETS

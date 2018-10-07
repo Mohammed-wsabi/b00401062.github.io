@@ -9,12 +9,12 @@ qiime phylogeny align-to-tree-mafft-fasttree \
 
 qiime tools export \
 	--input-path $DATASETS/unrooted-tree.qza \
-	--output-path $DATASET
+	--output-path $DATASETS
 
 mv $DATASETS/tree.nwk $DATASETS/unrooted-tree.nwk
 
 qiime tools export \
 	--input-path $DATASETS/rooted-tree.qza \
-	--output-path $DATASET
+	--output-path $DATASETS
 
 mv $DATASETS/tree.nwk $DATASETS/rooted-tree.nwk
