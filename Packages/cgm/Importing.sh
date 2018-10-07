@@ -4,8 +4,8 @@ qiime tools import \
 	--type "SampleData[PairedEndSequencesWithQuality]" \
 	--input-path $DATASETS/manifest.csv \
 	--input-format PairedEndFastqManifestPhred33 \
-	--output-path $DATASETS/demux.qza
+	--output-path $DATASETS/SampleData[PairedEndSequencesWithQuality]/demux.qza
 
 qiime demux summarize \
-	--i-data $DATASETS/demux.qza \
-	--o-visualization $DATASETS/demux.qzv
+	--i-data $DATASETS/SampleData[PairedEndSequencesWithQuality]/demux.qza \
+	--o-visualization $DATASETS/SampleData[PairedEndSequencesWithQuality]/demux.qzv

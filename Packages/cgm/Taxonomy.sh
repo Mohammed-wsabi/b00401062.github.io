@@ -1,16 +1,16 @@
 #!/usr/bin/env bash
 
 qiime feature-classifier classify-sklearn \
-	--i-classifier $DATASETS/gg-13-8-99-nb-classifier.qza \
-	--i-reads $DATASETS/rep-seqs.qza \
-	--o-classification $DATASETS/taxonomy.qza
+	--i-classifier $DATASETS/TaxonomicClassifier/gg-13-8-99-nb-classifier.qza \
+	--i-reads $DATASETS/FeatureData[Sequence]/rep-seqs.qza \
+	--o-classification $DATASETS/FeatureData[Taxonomy]/taxonomy.qza
 
 qiime metadata tabulate \
-	--m-input-file $DATASETS/taxonomy.qza \
-	--o-visualization $DATASETS/taxonomy.qzv
+	--m-input-file $DATASETS/FeatureData[Taxonomy]/taxonomy.qza \
+	--o-visualization $DATASETS/FeatureData[Taxonomy]/taxonomy.qzv
 
 qiime taxa barplot \
-	--i-table $DATASETS/table.qza \
-	--i-taxonomy $DATASETS/taxonomy.qza \
-	--m-metadata-file $DATASETS/metadata.tsv \
-	--o-visualization $DATASETS/taxa-bar-plots.qzv
+	--i-table $DATASETS/FeatureTable[Frequency]/table.qza \
+	--i-taxonomy $DATASETS/FeatureData[Taxonomy]/taxonomy.qza \
+	--m-metadata-file $DATASETS/Metadata/metadata.tsv \
+	--o-visualization $DATASETS/taxa-barplot/taxa-bar-plots.qzv
