@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
 qiime tools import \
-	--type "SampleData[PairedEndSequencesWithQuality]" \
-	--input-path $DATASETS/Manifest/manifest.csv \
+	--type "demux" \
+	--input-path $DATASETS/metadata/manifest.csv \
 	--input-format PairedEndFastqManifestPhred33 \
-	--output-path $DATASETS/SampleData[PairedEndSequencesWithQuality]/demux.qza
+	--output-path $DATASETS/tools-import/demux.qza
 
 qiime demux summarize \
-	--i-data $DATASETS/SampleData[PairedEndSequencesWithQuality]/demux.qza \
-	--o-visualization $DATASETS/SampleData[PairedEndSequencesWithQuality]/demux.qzv
+	--i-data $DATASETS/tools-import/demux.qza \
+	--o-visualization $DATASETS/visualization/demux-summarize.qzv

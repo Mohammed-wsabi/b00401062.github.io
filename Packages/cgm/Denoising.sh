@@ -1,24 +1,24 @@
 #!/usr/bin/env bash
 
 qiime dada2 denoise-paired \
-	--i-demultiplexed-seqs $DATASETS/SampleData[PairedEndSequencesWithQuality]/demux.qza \
+	--i-demultiplexed-seqs $DATASETS/tools-import/demux.qza \
 	--p-trunc-len-f 0 \
 	--p-trunc-len-r 0 \
 	--p-trunc-q 20 \
 	--p-n-threads 0 \
-	--o-table $DATASETS/FeatureTable[Frequency]/table.qza \
-	--o-representative-sequences $DATASETS/FeatureData[Sequence]/rep-seqs.qza \
-	--o-denoising-stats $DATASETS/SampleData[DADA2Stats]/stats-dada2.qza
+	--o-table $DATASETS/dada2-denoise-paired/table.qza \
+	--o-representative-sequences $DATASETS/dada2-denoise-paired/rep-seqs.qza \
+	--o-denoising-stats $DATASETS/dada2-denoise-paired/denoising-stats.qza
 
 qiime feature-table summarize \
-	--i-table $DATASETS/FeatureTable[Frequency]/table.qza \
-	--m-sample-metadata-file $DATASETS/Metadata/metadata.tsv \
-	--o-visualization $DATASETS/FeatureTable[Frequency]/table.qzv
+	--i-table $DATASETS/dada2-denoise-paired/table.qza \
+	--m-sample-metadata-file $DATASETS/metadata/metadata.tsv \
+	--o-visualization $DATASETS/visualization/feature-table-summarize.qzv
 
 qiime feature-table tabulate-seqs \
-	--i-data $DATASETS/FeatureData[Sequence]/rep-seqs.qza \
-	--o-visualization $DATASETS/FeatureData[Sequence]/rep-seqs.qzv
+	--i-data $DATASETS/dada2-denoise-paired/rep-seqs.qza \
+	--o-visualization $DATASETS/visualization/feature-table-tabulate-seqs.qzv
 
 qiime metadata tabulate \
-	--m-input-file $DATASETS/SampleData[DADA2Stats]/stats-dada2.qza \
-	--o-visualization $DATASETS/SampleData[DADA2Stats]/stats-dada2.qzv
+	--m-input-file $DATASETS/dada2-denoise-paired/denoising-stats.qza \
+	--o-visualization $DATASETS/visualization/denoising-stats.qzv

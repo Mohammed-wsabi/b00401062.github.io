@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 
 qiime gneiss ilr-phylogenetic \
-	--i-table $DATASETS/FeatureTable[Frequency]/table.qza \
-	--i-tree $DATASETS/Phylogeny[Rooted]/rooted-tree.qza \
-	--o-balances $DATASETS/FeatureTable[Balance]/balances.qza \
-	--o-hierarchy $DATASETS/Hierarchy/hierarchy.qza
+	--i-table $DATASETS/dada2-denoise-paired/table.qza \
+	--i-tree $DATASETS/phylogeny-align-to-tree-mafft-fasttree/rooted-tree.qza \
+	--o-balances $DATASETS/gneiss-ilr-phylogenetic/balances.qza \
+	--o-hierarchy $DATASETS/gneiss-ilr-phylogenetic/hierarchy.qza
 
 qiime gneiss ols-regression \
 	--p-formula Tissue \
-	--i-table $DATASETS/FeatureTable[Balance]/balances.qza \
-	--i-tree $DATASETS/Hierarchy/hierarchy.qza \
-	--m-metadata-file $DATASETS/Metadata/metadata.tsv \
-	--o-visualization $DATASETS/gneiss-ols-regression/regression_summary.qzv
+	--i-table $DATASETS/gneiss-ilr-phylogenetic/balances.qza \
+	--i-tree $DATASETS/gneiss-ilr-phylogenetic/hierarchy.qza \
+	--m-metadata-file $DATASETS/metadata/metadata.tsv \
+	--o-visualization $DATASETS/visualization/gneiss-ols-regression.qzv

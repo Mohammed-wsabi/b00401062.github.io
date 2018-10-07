@@ -2,22 +2,22 @@
 
 qiime tools import \
 	--type "FeatureData[Sequence]" \
-	--input-path $DATASETS/OTU/99_otus.fasta \
-	--output-path $DATASETS/OTU/99_otus.qza
+	--input-path $DATASETS/fasta/otus.fasta \
+	--output-path $DATASETS/tools-import/otus.qza
 
 qiime tools import \
 	--type "FeatureData[Taxonomy]" \
 	--input-format HeaderlessTSVTaxonomyFormat \
-	--input-path $DATASETS/OTU/99_otu_taxonomy.txt \
-	--output-path $DATASETS/OTU/99_otu_taxonomy.qza
+	--input-path $DATASETS/metadata/ref-taxonomy.tsv \
+	--output-path $DATASETS/tools-import/ref-taxonomy.qza
 
 qiime feature-classifier extract-reads \
-	--i-sequences $DATASETS/OTU/99_otus.qza \
+	--i-sequences $DATASETS/tools-import/otus.qza \
 	--p-f-primer CCTACGGGNGGCWGCAG \
 	--p-r-primer GACTACHVGGGTATCTAATCC \
-	--o-reads $DATASETS/OTU/99_otus_ref_seqs.qza
+	--o-reads $DATASETS/feature-classifier-extract-reads/ref-seqs.qza
 
 qiime feature-classifier fit-classifier-naive-bayes \
-	--i-reference-reads $DATASETS/OTU/99_otus_ref_seqs.qza \
-	--i-reference-taxonomy $DATASETS/OTU/99_otu_taxonomy.qza \
-	--o-classifier $DATASETS/TaxonomicClassifier/gg-13-8-99-nb-classifier.qza
+	--i-reference-reads $DATASETS/feature-classifier-extract-reads/ref-seqs.qza \
+	--i-reference-taxonomy $DATASETS/tools-import/ref-taxonomy.qza \
+	--o-classifier $DATASETS/feature-classifier-fit-classifier-naive-bayes/classifier.qza

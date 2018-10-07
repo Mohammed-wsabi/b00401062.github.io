@@ -1,27 +1,27 @@
 #!/usr/bin/env bash
 
 qiime composition add-pseudocount \
-	--i-table $DATASETS/FeatureTable[Frequency]/table.qza \
-	--o-composition-table $DATASETS/FeatureTable[Composition]/comp-table.qza
+	--i-table $DATASETS/dada2-denoise-paired/table.qza \
+	--o-composition-table $DATASETS/composition-add-pseudocount/comp-table.qza
 
 qiime composition ancom \
-	--i-table $DATASETS/FeatureTable[Composition]/comp-table.qza \
-	--m-metadata-file $DATASETS/Metadata/metadata.tsv \
+	--i-table $DATASETS/composition-add-pseudocount/comp-table.qza \
+	--m-metadata-file $DATASETS/metadata/metadata.tsv \
 	--m-metadata-column Tissue \
-	--o-visualization $DATASETS/composition-ancom/ancom-tissue.qzv
+	--o-visualization $DATASETS/visualization/composition-ancom-tissue.qzv
 
 qiime taxa collapse \
-	--i-table $DATASETS/FeatureTable[Frequency]/table.qza \
-	--i-taxonomy $DATASETS/FeatureData[Taxonomy]/taxonomy.qza \
+	--i-table $DATASETS/dada2-denoise-paired/table.qza \
+	--i-taxonomy $DATASETS/feature-classifier-classify-sklearn/taxonomy.qza \
 	--p-level 6 \
-	--o-collapsed-table $DATASETS/FeatureTable[Frequency]/table-l6.qza
+	--o-collapsed-table $DATASETS/taxa-collapse/table-l6.qza
 
 qiime composition add-pseudocount \
-	--i-table $DATASETS/FeatureTable[Frequency]/table-l6.qza \
-	--o-composition-table $DATASETS/FeatureTable[Composition]/comp-table-l6.qza
+	--i-table $DATASETS/taxa-collapse/table-l6.qza \
+	--o-composition-table $DATASETS/composition-add-pseudocount/comp-table-l6.qza
 
 qiime composition ancom \
-	--i-table $DATASETS/FeatureTable[Composition]/comp-table-l6.qza \
-	--m-metadata-file $DATASETS/Metadata/metadata.tsv \
+	--i-table $DATASETS/composition-add-pseudocount/comp-table-l6.qza \
+	--m-metadata-file $DATASETS/metadata/metadata.tsv \
 	--m-metadata-column Tissue \
-	--o-visualization $DATASETS/composition-ancom/ancom-tissue-l6.qzv
+	--o-visualization $DATASETS/visualization/composition-ancom-tissue-l6.qzv

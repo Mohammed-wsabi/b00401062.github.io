@@ -1,16 +1,16 @@
 #!/usr/bin/env bash
 
 qiime feature-classifier classify-sklearn \
-	--i-classifier $DATASETS/TaxonomicClassifier/gg-13-8-99-nb-classifier.qza \
-	--i-reads $DATASETS/FeatureData[Sequence]/rep-seqs.qza \
-	--o-classification $DATASETS/FeatureData[Taxonomy]/taxonomy.qza
+	--i-classifier $DATASETS/feature-classifier-fit-classifier-naive-bayes/classifier.qza \
+	--i-reads $DATASETS/dada2-denoise-paired/rep-seqs.qza \
+	--o-classification $DATASETS/feature-classifier-classify-sklearn/taxonomy.qza
 
 qiime metadata tabulate \
-	--m-input-file $DATASETS/FeatureData[Taxonomy]/taxonomy.qza \
-	--o-visualization $DATASETS/FeatureData[Taxonomy]/taxonomy.qzv
+	--m-input-file $DATASETS/feature-classifier-classify-sklearn/taxonomy.qza \
+	--o-visualization $DATASETS/visualization/metadata-tabulate-taxonomy.qzv
 
 qiime taxa barplot \
-	--i-table $DATASETS/FeatureTable[Frequency]/table.qza \
-	--i-taxonomy $DATASETS/FeatureData[Taxonomy]/taxonomy.qza \
-	--m-metadata-file $DATASETS/Metadata/metadata.tsv \
-	--o-visualization $DATASETS/taxa-barplot/taxa-barplots.qzv
+	--i-table $DATASETS/dada2-denoise-paired/table.qza \
+	--i-taxonomy $DATASETS/feature-classifier-classify-sklearn/taxonomy.qza \
+	--m-metadata-file $DATASETS/metadata/metadata.tsv \
+	--o-visualization $DATASETS/visualization/taxa-barplot.qzv
