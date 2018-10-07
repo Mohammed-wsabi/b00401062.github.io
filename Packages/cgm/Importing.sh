@@ -2,7 +2,7 @@
 
 qiime tools import \
 	--type "SampleData[PairedEndSequencesWithQuality]" \
-	--input-path $DATASETS/manifest.csv \
+	--input-path $DATASETS/Manifest/manifest.csv \
 	--input-format PairedEndFastqManifestPhred33 \
 	--output-path $DATASETS/SampleData[PairedEndSequencesWithQuality]/demux.qza
 
