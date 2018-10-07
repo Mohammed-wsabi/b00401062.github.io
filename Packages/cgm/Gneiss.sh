@@ -7,7 +7,7 @@ qiime gneiss ilr-phylogenetic \
 	--o-hierarchy $DATASETS/hierarchy.qza
 
 qiime gneiss ols-regression \
-	--p-formula "Tissue" \
+	--p-formula Tissue \
 	--i-table $DATASETS/balances.qza \
 	--i-tree $DATASETS/hierarchy.qza \
 	--m-metadata-file $DATASETS/metadata.tsv \

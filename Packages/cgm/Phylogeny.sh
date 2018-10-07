@@ -4,17 +4,17 @@ qiime phylogeny align-to-tree-mafft-fasttree \
 	--i-sequences $DATASETS/rep-seqs.qza \
 	--o-alignment $DATASETS/aligned-rep-seqs.qza \
 	--o-masked-alignment $DATASETS/masked-aligned-rep-seqs.qza \
-	--o-tree $DATASETS/unrooted-tree.qza \
-	--o-rooted-tree $DATASETS/rooted-tree.qza
+	--o-tree $DATASETS/tree/unrooted-tree.qza \
+	--o-rooted-tree $DATASETS/tree/rooted-tree.qza
 
 qiime tools export \
-	--input-path $DATASETS/unrooted-tree.qza \
-	--output-path $DATASETS
+	--input-path $DATASETS/tree/unrooted-tree.qza \
+	--output-path $DATASETS/tree
 
-mv $DATASETS/tree.nwk $DATASETS/unrooted-tree.nwk
+mv $DATASETS/tree/tree.nwk $DATASETS/tree/unrooted-tree.nwk
 
 qiime tools export \
-	--input-path $DATASETS/rooted-tree.qza \
-	--output-path $DATASETS
+	--input-path $DATASETS/tree/rooted-tree.qza \
+	--output-path $DATASETS/tree
 
-mv $DATASETS/tree.nwk $DATASETS/rooted-tree.nwk
+mv $DATASETS/tree/tree.nwk $DATASETS/tree/rooted-tree.nwk
