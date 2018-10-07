@@ -21,4 +21,4 @@ qiime feature-table tabulate-seqs \
 
 qiime metadata tabulate \
 	--m-input-file $DATASETS/dada2-denoise-paired/denoising-stats.qza \
-	--o-visualization $DATASETS/visualization/denoising-stats.qzv
+	--o-visualization $DATASETS/visualization/metadata-tabulate-denoising-stats.qzv
