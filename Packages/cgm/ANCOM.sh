@@ -8,7 +8,7 @@ qiime composition ancom \
 	--i-table $DATASETS/composition-add-pseudocount/comp-table.qza \
 	--m-metadata-file $DATASETS/metadata/metadata.tsv \
 	--m-metadata-column Tissue \
-	--o-visualization $DATASETS/visualization/composition-ancom-tissue/composition-ancom-tissue.qzv
+	--o-visualization $DATASETS/visualization/composition-ancom-tissue.qzv
 
 for l in {1..7}
 do
@@ -26,5 +26,5 @@ do
 		--i-table $DATASETS/composition-add-pseudocount/comp-table-l$l.qza \
 		--m-metadata-file $DATASETS/metadata/metadata.tsv \
 		--m-metadata-column Tissue \
-		--o-visualization $DATASETS/visualization/composition-ancom-tissue/composition-ancom-tissue-l$l.qzv
+		--o-visualization $DATASETS/visualization/composition-ancom-tissue-l$l.qzv
 done
