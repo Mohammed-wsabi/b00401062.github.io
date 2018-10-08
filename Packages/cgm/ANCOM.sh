@@ -7,8 +7,14 @@ qiime composition add-pseudocount \
 qiime composition ancom \
 	--i-table $DATASETS/composition-add-pseudocount/comp-table.qza \
 	--m-metadata-file $DATASETS/metadata/metadata.tsv \
-	--m-metadata-column Tissue \
-	--o-visualization $DATASETS/visualization/composition-ancom-tissue.qzv
+	--m-metadata-column Subject \
+	--o-visualization $DATASETS/visualization/composition-ancom-subject.qzv
+
+	qiime composition ancom \
+		--i-table $DATASETS/composition-add-pseudocount/comp-table.qza \
+		--m-metadata-file $DATASETS/metadata/metadata.tsv \
+		--m-metadata-column Tissue \
+		--o-visualization $DATASETS/visualization/composition-ancom-tissue.qzv
 
 for l in {1..7}
 do
@@ -25,6 +31,12 @@ do
 	qiime composition ancom \
 		--i-table $DATASETS/composition-add-pseudocount/comp-table-l$l.qza \
 		--m-metadata-file $DATASETS/metadata/metadata.tsv \
+		--m-metadata-column Subject \
+		--o-visualization $DATASETS/visualization/composition-ancom-subject/composition-ancom-subject-l$l.qzv
+
+	qiime composition ancom \
+		--i-table $DATASETS/composition-add-pseudocount/comp-table-l$l.qza \
+		--m-metadata-file $DATASETS/metadata/metadata.tsv \
 		--m-metadata-column Tissue \
-		--o-visualization $DATASETS/visualization/composition-ancom-tissue-l$l.qzv
+		--o-visualization $DATASETS/visualization/composition-ancom-tissue/composition-ancom-tissue-l$l.qzv
 done

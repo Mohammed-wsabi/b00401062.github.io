@@ -7,8 +7,15 @@ qiime gneiss ilr-phylogenetic \
 	--o-hierarchy $DATASETS/gneiss-ilr-phylogenetic/hierarchy.qza
 
 qiime gneiss ols-regression \
+	--p-formula Subject \
+	--i-table $DATASETS/gneiss-ilr-phylogenetic/balances.qza \
+	--i-tree $DATASETS/gneiss-ilr-phylogenetic/hierarchy.qza \
+	--m-metadata-file $DATASETS/metadata/metadata.tsv \
+	--o-visualization $DATASETS/visualization/gneiss-ols-regression-subject.qzv
+
+qiime gneiss ols-regression \
 	--p-formula Tissue \
 	--i-table $DATASETS/gneiss-ilr-phylogenetic/balances.qza \
 	--i-tree $DATASETS/gneiss-ilr-phylogenetic/hierarchy.qza \
 	--m-metadata-file $DATASETS/metadata/metadata.tsv \
-	--o-visualization $DATASETS/visualization/gneiss-ols-regression.qzv
+	--o-visualization $DATASETS/visualization/gneiss-ols-regression-tissue.qzv
