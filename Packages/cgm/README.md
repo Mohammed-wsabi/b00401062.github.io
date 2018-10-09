@@ -14,4 +14,4 @@
 
 ## Visualization
 
-- [Denoising.m](Denoising.m): Visualize denoising statistics.
+- [Visualization.py](Visualization.py): Visualize denoising statistics.
