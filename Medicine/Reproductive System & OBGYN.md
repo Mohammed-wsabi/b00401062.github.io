@@ -89,9 +89,7 @@
 ### Preeclampsia
 
 - BP > 140/90 mmHg
-- Proteinuria
-	- Dipstick ≥ 1+
-	- Urine protein > 0.3 g/d
+- Proteinuria :: Dipstick ≥ 1+ / Urine protein > 0.3 g/d
 
 ### Severe Preeclampsia
 
@@ -99,7 +97,6 @@
 - Epigastric pain
 - Liver enzymes ↑
 - Proteinuria :: Urine protein > 5.0 g/d
-- Creatinine > 1.1 mg/dL
 - Edema
 - Headache
 - Visual disturbances
