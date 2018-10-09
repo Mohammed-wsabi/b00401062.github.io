@@ -580,7 +580,7 @@
 |Pathogen|Manifestations|Transmission|
 |-|-|-|
 |Toxoplasma|Intracranial calcifications & Hydrocephalus & Chorioretinitis|Transplacental|
-|Rubella|Cataracts & Deafness & Congenital heart defect :: PDA|Transplacental|
+|Rubella|Cataracts & Deafness & PDA|Transplacental|
 |CMV|Periventricular calcifications & Deafness & Petechial rash|Transplacental|
 |HSV|Encephalitis & Herpetic whitlow|Intrapartum|
 |HIV|AIDS|Intrapartum|
