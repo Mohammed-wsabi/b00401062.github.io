@@ -584,7 +584,7 @@
 |CMV|Periventricular calcifications & Deafness & Petechial rash|Transplacental|
 |HSV|Encephalitis & Herpetic whitlow|Intrapartum|
 |HIV|AIDS|Intrapartum|
-|Syphilis|Hutchinson teeth &	Saddle nose & Saber shins & Deafness|Transplacental|
+|Syphilis|Deafness & Saddle nose & Hutchinson teeth & Saber shins|Transplacental|
 |Parvovirus B19|Hydrops fetalis|Transplacental|
 |Group B streptococcus (GBS)|Pneumonia & Meningitis|Intrapartum|
 |Escherichia coli|Pneumonia & Meningitis|Intrapartum|
