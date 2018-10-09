@@ -222,6 +222,15 @@
 |3|Anal sphincter|
 |4|Rectal mucosa|
 
+## Etiologies of Postpartum Hemorrhage (PPH) [CARPIT]
+
+- Coagulopathy
+- Atonic uterus
+- Ruptured uterus
+- Plancental retention
+- Implantation site bleeding
+- Trauma to the GU tract
+
 ## Etiologies of Primary Amenorrhea
 
 |Etiology|Breast|Uterus|
