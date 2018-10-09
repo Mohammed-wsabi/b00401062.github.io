@@ -97,12 +97,12 @@
 ### Severe Features
 
 - BP > 160/110 mmHg
-- Headache
-- Visual disturbances
 - Epigastric pain
 - Liver enzymes ↑
 - Creatinine ≥ 1.1 mg/dL
 - Edema
+- Headache
+- Visual disturbances
 - Thrombocytopenia :: platelet count ≤ 100,000/µL
 - Disseminated Intravascular Coagulation (DIC)
 
