@@ -971,34 +971,6 @@
 
 ![](../Figures/Spectrum%20of%20Antibiotics%20(2).png)
 
-## Mechanisms of Action of Antifungals
-
-![](../Figures/Mechanisms%20of%20Action%20of%20Antifungals.png)
-
-## Mechanisms of Action of Antivirals
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|Attachment inhibitors|Maraviroc|HIV|
-|Penetration inhibitors|Enfuvirtide|HIV|
-|Uncoating inhibitors|Amantadine|Influenza|
-||Rimantadine|Influenza|
-|Assembly inhibitors|-|-|
-|Release inhibitors|Oseltamivir|Influenza|
-||Zanamivir|Influenza|
-|Integrase inhibitors|Raltegravir|HIV|
-|Purine synthesis inhibitors|Ribavirin|RSV & HCV|
-|DNA polymerase inhibitors|Acyclovir|HSV & VZV|
-||Famciclovir|HSV & VZV|
-||Ganciclovir|CMV|
-||Cidofovir|CMV & HSV|
-||Foscarnet|CMV & HSV|
-|Reverse transcriptase inhibitors|NRTI & NNRTI|HBV & HIV|
-|Protein synthesis inhibitors|IFN-α|HBV & HCV|
-|Protease inhibitors|Navirs|HIV|
-
-![](../Figures/Mechanisms%20of%20Action%20of%20Antivirals.png)
-
 ## Side Effects of Antimicrobials
 
 |Side Effects|Antibiotics|
@@ -1105,3 +1077,42 @@
 |1 ~ 3 months|3° Cephalosporins & Vancomycin|
 |3 months ~ 60 years|3° Cephalosporins & Vancomycin|
 |≥ 60 years / Complicated|Ampicillin & 3° Cephalosporins & Vancomycin|
+
+## Mechanisms of Action of Antifungals
+
+![](../Figures/Mechanisms%20of%20Action%20of%20Antifungals.png)
+
+## Mechanisms of Action of Antivirals
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|Attachment inhibitors|Maraviroc|HIV|
+|Penetration inhibitors|Enfuvirtide|HIV|
+|Uncoating inhibitors|Amantadine|Influenza|
+||Rimantadine|Influenza|
+|Assembly inhibitors|-|-|
+|Integrase inhibitors|Gravirs|HIV|
+|Release inhibitors|Oseltamivir|Influenza|
+||Zanamivir|Influenza|
+|Purine synthesis inhibitors|Ribavirin|RSV & HCV|
+|DNA polymerase inhibitors|Acyclovir|HSV & VZV|
+||Famciclovir|HSV & VZV|
+||Ganciclovir|CMV|
+||Cidofovir|HSV & CMV|
+||Foscarnet|HSV & CMV|
+|Reverse transcriptase inhibitors :: nucleoside (NRTI)|Abacavir|HIV|
+||Entecavir|HBV|
+||Didanosine|HIV|
+||Lamivudine|HBV & HIV|
+||Stavudine|HIV|
+||Telbivudine|HBV|
+||Zidovudine|HIV|
+||Adefovir|HBV|
+||Tenofovir|HBV & HIV|
+|Reverse transcriptase inhibitors :: non-nucleoside (NNRTI)|Delavirdine|HIV|
+||Efavirenz|HIV|
+||Nevirapine|HIV|
+|Protein synthesis inhibitors|IFN-α|HBV & HCV|
+|Protease inhibitors (PI)|Navirs|HIV|
+
+![](../Figures/Mechanisms%20of%20Action%20of%20Antivirals.png)
