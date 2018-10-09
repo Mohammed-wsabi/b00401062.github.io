@@ -372,3 +372,12 @@
 - Excess vitamin A
 - Excess vitamin D
 - Sarcoidosis
+
+## Management of Hyperkalemia
+
+- Insulin & Glucose
+- β agonists :: Albuterol
+- Calcium gluconate
+- Sodium bicarbonate
+- Polystyrene sulfonate: Kalimate / Kayexalate
+- Diuretics :: Loop diuretics
