@@ -97,15 +97,14 @@
 ### Severe Features
 
 - BP > 160/110 mmHg
-- Creatinine ≥ 1.1 mg/dL
-- Disseminated Intravascular Coagulation (DIC)
-- Edema
-- Epigastric pain
 - Headache
-- Hemoconcentration
-- Liver enzymes ↑
-- Thrombocytopenia :: platelet count ≤ 100,000/µL
 - Visual disturbances
+- Epigastric pain
+- Liver enzymes ↑
+- Creatinine ≥ 1.1 mg/dL
+- Edema
+- Thrombocytopenia :: platelet count ≤ 100,000/µL
+- Disseminated Intravascular Coagulation (DIC)
 
 ## HELLP Syndrome [HELLP]
 
