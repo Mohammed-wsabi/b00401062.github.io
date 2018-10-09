@@ -677,7 +677,7 @@
 
 |Pathogen|Manifestations|Treatments|
 |-|-|-|
-|Gardnerella vaginalis|Discharge :: grayish & fishy|-|
+|Gardnerella vaginalis|Discharge :: grayish & fishy|Metronidazole|
 |Neisseria gonorrhoea|Pelvic inflammatory disease (PID)|Ceftriaxone|
 |Haemophilus ducreyi|Painful chancroid|-|
 |Treponema pallidum|Painless chancre & Condyloma lata|Penicillin|
