@@ -90,16 +90,16 @@
 
 - BP > 140/90 mmHg
 - Proteinuria
-	- Urine protein ≥ 0.3 g/d
-	- Urine protein/creatinine ratio (UPCR) ≥ 0.3
 	- Dipstick ≥ 1+
+	- Urine protein > 0.3 g/d
 
-### Severe Features
+### Severe Preeclampsia
 
 - BP > 160/110 mmHg
 - Epigastric pain
 - Liver enzymes ↑
-- Creatinine ≥ 1.1 mg/dL
+- Proteinuria :: Urine protein > 5.0 g/d
+- Creatinine > 1.1 mg/dL
 - Edema
 - Headache
 - Visual disturbances
