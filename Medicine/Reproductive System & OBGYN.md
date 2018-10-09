@@ -106,13 +106,11 @@
 - Thrombocytopenia :: platelet count ≤ 100,000/µL
 - Disseminated Intravascular Coagulation (DIC)
 
-## HELLP Syndrome [HELLP]
+### HELLP Syndrome
 
-|Mnemonic|Presentation|
-|-|-|
-|H|Hemolysis :: intravascular|
-|EL|Elevated liver enzymes|
-|LP|Low platelet count|
+- Hemolysis :: intravascular
+- Elevated liver enzymes
+- Low platelet count
 
 ## Etiologies of Abnormal Uterine Bleeding (AUB) [PALM-COEIN]
 
