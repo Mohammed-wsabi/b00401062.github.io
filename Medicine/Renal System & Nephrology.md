@@ -101,14 +101,14 @@
 
 |Glomerulopathy|Immune Reaction|Microscopy|Nephritic|Nephrotic|
 |-|-|-|-|-|
-|Granulomatosis with polyangiitis (GPA)|PR3-ANCA (c-ANCA)|-|+|-|
-|Eosinophilic granulomatosis with polyangiitis (EGPA)|MPO-ANCA (p-ANCA)|-|+|-|
-|Microscopic polyangiitis|MPO-ANCA (p-ANCA)|-|+|-|
+|Granulomatosis with polyangiitis (GPA)|PR3-ANCA [c-ANCA]|-|+|-|
+|Eosinophilic granulomatosis with polyangiitis (EGPA)|MPO-ANCA [p-ANCA]|-|+|-|
+|Microscopic polyangiitis|MPO-ANCA [p-ANCA]|-|+|-|
 |Rapidly progressive glomerulonephritis (RPGN)|-|Crescent|+|-|
 |Alport syndrome|-|Basket-weave|+|-|
 |Goodpasture syndrome|Anti-GBM|-|+|-|
 |Acute proliferative glomerulonephritis (APGN)|Subepithelial IC deposit|Lumpy-bumpy & Starry sky|+|-|
-|IgA nephropathy (Berger disease) ← HSP|Mesangial IC deposit|-|+|-|
+|IgA nephropathy [Berger disease] ← HSP|Mesangial IC deposit|-|+|-|
 |Membranoproliferative glomerulonephritis (MPGN)|Subendothelial IC deposit|Tram-track|+|+|
 |Diffuse proliferative glomerulonephritis (DPGN) ← SLE|Subendothelial IC deposit|Wire looping|+|+|
 |Membranous nephropathy (MN) ← SLE|Subepithelial IC deposit|Spike & dome|-|+|

@@ -30,7 +30,7 @@
 |Broad ligament|Uterus ~ Pelvis :: lateral|-|
 |Round ligament|Uterus ~ Labia majora|Gubernaculum|
 |Ovarian ligament|Uterus ~ Ovary|Gubernaculum|
-|Infundibulopelvic (Suspensory) ligament|Ovary ~ Pelvis :: lateral|Ovarian vessels|
+|Infundibulopelvic [Suspensory] ligament|Ovary ~ Pelvis :: lateral|Ovarian vessels|
 |Pubocervical ligament|Cervix ~ Pubis|-|
 |Cardinal ligament|Cervix ~ Pelvis :: lateral|Uterine vessels|
 |Uterosacral ligament|Cervix ~ Sacrum|Inferior hypogastric plexus|
@@ -191,8 +191,8 @@
 - Attitude: flexed & neutral & extended
 - Lie: longitudinal & oblique & transverse
 - Presentations
-	- Cephalic: vertex (occiput) & sinciput & brow & face & chin
-	- Breech: frank & complete & incomplete (footling)
+	- Cephalic: vertex [occiput] & sinciput & brow & face & chin
+	- Breech: frank & complete & incomplete [footling]
 	- Shoulder: arm & shoulder & trunk
 - Positions
 	- Anterior: right anterior & anterior & left anterior
@@ -264,7 +264,7 @@
 |PCOS|↓|↓|↑|↓|
 |Hypoestrogenism|↑/↓|↑/↓|↓|↓|
 |Ovarian failure|↑|↑|↓|↓|
-|Resistant ovary (Savage) syndrome|↑|↑|↓|↓|
+|Resistant ovary [Savage] syndrome|↑|↑|↓|↓|
 |Hypothyroidism|↓|↓|↓|↓|
 |Hyperprolactinemia|↓|↓|↓|↓|
 |Asherman syndrome|-|-|-|-|
@@ -314,7 +314,7 @@
 
 |Female|Male|Markers|
 |-|-|-|
-|Theca cell tumor (Thecoma)|Leydig cell tumor|-|
+|Theca cell tumor [Thecoma]|Leydig cell tumor|-|
 |Granulosa cell tumor|Sertoli cell tumor|-|
 
 ## Hydatidiform Moles
@@ -335,9 +335,9 @@
 
 |Protocol|Timing|
 |-|-|
-|GnRH antagonist (short) protocol|Leading follicle > 14 mm|
+|GnRH antagonist [short] protocol|Leading follicle > 14 mm|
 |GnRH agonist flare protocol|Menstruation|
-|GnRH agonist (long) protocol|Last luteal phase|
+|GnRH agonist [long] protocol|Last luteal phase|
 
 ### Triggers for Ovulation
 

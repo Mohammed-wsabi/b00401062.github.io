@@ -44,7 +44,7 @@
 
 ![](../Figures/Complement%20Systems.png)
 
-## Respiratory (Oxidative) Burst
+## Respiratory [Oxidative] Burst
 
 ![](../Figures/Respiratory%20Burst%20(Oxidative%20Burst).png)
 
@@ -58,7 +58,7 @@
 |C5b ~ C9b|Membrane attack complex (MAC)|
 |IL-1|Fever|
 |IL-2|T cell growth|
-|IL-3|Bone marrow growth (GM-CSF)|
+|IL-3|Bone marrow growth|
 |IL-4|IgE production|
 |IL-5|IgA production|
 |IL-6|Acute-phase protein production|
@@ -177,12 +177,12 @@
 
 |Disease|Defects|
 |-|-|
-|ANCA-associated vasculitis|MPO-ANCA (p-ANCA) & PR3-ANCA (c-ANCA)|
+|ANCA-associated vasculitis|MPO-ANCA [p-ANCA] & PR3-ANCA [c-ANCA]|
 |Antiphospholipid syndrome (APS)|Anti-cardiolipin & Lupus anticoagulant|
 |Arthus reaction|-|
 |Autoimmune hepatitis|Anti-smooth muscle|
 |Dermatitis herpetiformis|Anti-tissue transglutaminase (Anti-tTG) IgA|
-|Diffuse scleroderma|Anti-Scl-70 (Anti-topoisomerase)|
+|Diffuse scleroderma|Anti-Scl-70 [Anti-topoisomerase]|
 |Drug-induced lupus|Anti-histone|
 |Henoch-Schonlein purpura (HSP)|IgA|
 |Limited scleroderma|Anti-centromere|
@@ -191,10 +191,10 @@
 |Polyarteritis nodosa|-|
 |Polymyositis & Dermatomyositis|Anti-Jo-1 & Anti-Mi-2 & Anti-SRP|
 |Primary biliary cirrhosis (PBC)|Anti-mitochondrium|
-|Rheumatoid arthritis|Rheumatoid factor (Anti-IgG) & Anti-CCP|
+|Rheumatoid arthritis|Rheumatoid factor [Anti-IgG] & Anti-CCP|
 |Serum sickness|-|
-|Sjogren syndrome|Anti-Ro (Anti-SSA) & Anti-La (Anti-SSB)|
-|Systemic lupus erythematosus (SLE)|Anti-dsDNA & Anti-Smith (Anti-snRNP)|
+|Sjogren syndrome|Anti-Ro [Anti-SSA] & Anti-La [Anti-SSB]|
+|Systemic lupus erythematosus (SLE)|Anti-dsDNA & Anti-Smith [Anti-snRNP]|
 
 ### Type 4
 
@@ -236,7 +236,7 @@
 |Disease|Defects|Genetics|IgM|IgG|IgE|IgA|
 |-|-|-|-|-|-|-|
 |Chronic mucocutaneous candidiasis|-|-|-|-|-|-|
-|Hyper-IgE (Job) syndrome|-|STAT3|-|-|↑|-|
+|Hyper-IgE [Job] syndrome|-|STAT3|-|-|↑|-|
 |IL-12R deficiency|IL-12R|IL-12R|-|-|-|-|
 |DiGeorge syndrome|Thymus & Parathyroid|22q11|-|-|-|-|
 
@@ -275,7 +275,7 @@
 - Psoriatic arthritis
 - Ankylosing spondylitis
 - Inflammatory bowel disease
-- Reactive arthritis (Reiter syndrome)
+- Reactive arthritis [Reiter syndrome]
 
 ## Triad of Reactive Arthritis {AUC}
 

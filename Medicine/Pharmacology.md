@@ -68,7 +68,7 @@
 ||Gabapentin|Seizure & Neuropathic pain|
 |Na-K pump blockers|Digoxin & Digitalis|Arrhythmia & Inotrope|
 ||Ouabain|-|
-|H-K pump blockers|Proton pump inhibitors (PPI): -Prazoles|PUD|
+|H-K pump blockers|Proton pump inhibitors (PPI): Prazoles|PUD|
 |Na-Cl sympoter blockers|Thiazide|Diuretics|
 |Na-K-2Cl sympoter blockers|Loop diuretics :: Furosemide|Diuretics|
 ||Loop diuretics :: Bumetanide|Diuretics|
@@ -165,9 +165,9 @@
 ||Antipsychotics|-|
 ||Antidepressants :: TCA|-|
 ||1° Antihistamines|-|
-|N<sub>N</sub> (Ganglionic) blockers|Hexamethonium|-|
+|N<sub>N</sub> [Ganglionic] blockers|Hexamethonium|-|
 ||Mecamylamine|-|
-|N<sub>M</sub> (Neuromuscular) blockers|Atracurium|Muscle relaxant|
+|N<sub>M</sub> [Neuromuscular] blockers|Atracurium|Muscle relaxant|
 ||Rocuronium|Muscle relaxant|
 
 ## Mechanisms of Action of Adrenergic Agonists
@@ -377,7 +377,7 @@
 ||Medroxyprogesterone|HRT & OCP|
 ||Norethindrone|HRT & OCP|
 ||Desogestrel|HRT & OCP|
-|Progesterone antagonists|Mifepristone (RU486)|Abortion|
+|Progesterone antagonists|Mifepristone [RU486]|Abortion|
 |Aromatase inhibitors|Anastrozole|Breast cancer|
 ||Letrozole|Breast cancer|
 ||Exemestane|Breast cancer|
@@ -419,7 +419,7 @@
 |-|-|-|
 |Cell wall inhibitors|Peptidoglycan|Bacterium|
 ||Mycolate|Mycobacterium|
-||Arabinogalactan (AG)|Mycobacterium|
+||Arabinogalactan|Mycobacterium|
 ||β-glucan|Fungus|
 |Cell membrane inhibitors|Ergosterol|Fungus|
 ||Cholesterol|Human|

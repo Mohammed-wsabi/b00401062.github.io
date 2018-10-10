@@ -51,11 +51,11 @@
 
 ||α-Globin|Disease|α-Globin Defect|Disease|
 |-|-|-|-|-|
-|β-Globin|α<sub>2</sub>β<sub>2</sub> (HbA)|-|β<sub>4</sub> (HbH)|α-thalassemia :: 3 deletion|
-|γ-Globin|α<sub>2</sub>γ<sub>2</sub> (HbF)|β-thalassemia major|γ<sub>4</sub> (Hb Barts)|α-thalassemia :: 4 deletion|
-|δ-Globin|α<sub>2</sub>δ<sub>2</sub> (HbA<sub>2</sub>)|β-thalassemia minor|-|-|
-|s-Globin|α<sub>2</sub>s<sub>2</sub> (HbS)|Sickle cell disease|-|-|
-|c-Globin|α<sub>2</sub>c<sub>2</sub> (HbC)|HbC disease|-|-|
+|β-Globin|α<sub>2</sub>β<sub>2</sub> [HbA]|-|β<sub>4</sub> [HbH]|α-thalassemia :: 3 deletion|
+|γ-Globin|α<sub>2</sub>γ<sub>2</sub> [HbF]|β-thalassemia major|γ<sub>4</sub> [Hb Barts]|α-thalassemia :: 4 deletion|
+|δ-Globin|α<sub>2</sub>δ<sub>2</sub> [HbA<sub>2</sub>]|β-thalassemia minor|-|-|
+|s-Globin|α<sub>2</sub>s<sub>2</sub> [HbS]|Sickle cell disease|-|-|
+|c-Globin|α<sub>2</sub>c<sub>2</sub> [HbC]|HbC disease|-|-|
 
 ## Differential Diagnosis of Target Cells {HALT}
 
@@ -70,7 +70,7 @@
 
 ## Microcytic Anemia {TAILS}
 
-|Anemia|Fe|Ferritin|Transferrin (TIBC)|Saturation = Fe ÷ TIBC|
+|Anemia|Fe|Ferritin|Transferrin [TIBC]|Saturation = Fe ÷ TIBC|
 |-|-|-|-|-|
 |Thalassemia|-|-|-|-|
 |Anemia of chronic disorders|↓|↑ (1°)|↓|-|
@@ -109,7 +109,7 @@
 
 ## Associations with Lead Poisoning {LEAD}
 
-- Lead (Burton) line
+- Lead [Burton] line
 - Encephalopathy
 - Erythrocyte basophilic stippling
 - Abdominal colic

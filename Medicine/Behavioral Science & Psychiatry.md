@@ -95,7 +95,7 @@
 - Bipolar I/II disorder
 - Cyclothymia
 - Major depressive disorder
-- Persistent depressive disorder (Dysthymia)
+- Persistent depressive disorder [Dysthymia]
 - Seasonal affective disorder (SAD)
 
 ### Anxiety Disorder
@@ -214,9 +214,9 @@
 |NE release inducers|Amphetamine|Stimulant|
 |NE reuptake inhibitors|Cocaine|Stimulant|
 |-|LSD|Hallucinogen|
-|-|PCP (Angel dust)|Hallucinogen & Stimulant|
-|-|MDMA (Ecstasy)|Hallucinogen & Stimulant|
-|-|Cannabis (Marijuana)|Hallucinogen|
+|-|PCP [Angel dust]|Hallucinogen & Stimulant|
+|-|MDMA [Ecstasy]|Hallucinogen & Stimulant|
+|-|Cannabis [Marijuana]|Hallucinogen|
 
 ## Mechanisms of Action of Medications for Bipolar Disorder
 
@@ -251,12 +251,12 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|1° (Typical) Antipsychotics|Haloperidol|Psychosis :: high potency|
+|1° [Typical] Antipsychotics|Haloperidol|Psychosis :: high potency|
 ||Trifluoperazine|Psychosis :: high potency|
 ||Fluphenazine|Psychosis :: high potency|
 ||Thioridazine|Psychosis :: low potency|
 ||Chlorpromazine|Psychosis :: low potency|
-|2° (Atypical) Antipsychotics|Clozapine|Psychosis|
+|2° [Atypical] Antipsychotics|Clozapine|Psychosis|
 ||Olanzapine|Psychosis|
 ||Quetiapine|Psychosis|
 ||Risperidone|Psychosis|
@@ -287,7 +287,7 @@
 - Fever
 - Encephalopathy
 - Vitals unstable
-- Enzyme elevation :: ceatine kinase (CK)
+- Enzyme elevation :: creatine kinase (CK)
 - Rigidity
 
 ## Mechanisms of Action of Anxiolytics

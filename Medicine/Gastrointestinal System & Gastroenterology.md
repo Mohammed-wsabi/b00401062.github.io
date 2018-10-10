@@ -67,9 +67,9 @@
 ## Etiologies of Nausea and Vomiting
 
 - Motion sickness
-- Radiation (RIE)
-- Chemotherapy (CIE)
-- Postoperative (PONY)
+- Radiation-induced emesis (RIE)
+- Chemotherapy-induced emesis (CIE)
+- Postoperative nausea and vomiting (PONV)
 
 ## Etiologies of Diarrhea
 
@@ -200,7 +200,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|H-K pump blockers|Proton pump inhibitors (PPI): -Prazoles|PUD|
+|H-K pump blockers|Proton pump inhibitors (PPI): Prazoles|PUD|
 |H<sub>2</sub> antagonists|Cimetidine|PUD|
 ||Ranitidine|PUD|
 ||Famotidine|PUD|
@@ -246,7 +246,7 @@
 
 |Shunt|Portal|System|
 |-|-|-|
-|Splenorenal (Warren) shunt|Splenic vein|Renal vein|
+|Splenorenal [Warren] shunt|Splenic vein|Renal vein|
 |Mesocaval H graft|SMV|IVC|
 |Portacaval H graft|Portal vein|IVC|
 |End-to-side portacaval anastomosis|Portal vein|IVC|
@@ -296,10 +296,10 @@
 
 ## Types of Gastrectomy
 
-- Local (Wedge) resection
+- Local [Wedge] resection
 - Sleeve gastrectomy
 - Proximal gastrectomy
-- Segmental (Pylorus-preserving) gastrectomy
+- Segmental [Pylorus-preserving] gastrectomy
 - Distal gastrectomy
 - Total gastrectomy
 

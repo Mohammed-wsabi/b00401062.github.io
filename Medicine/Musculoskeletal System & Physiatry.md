@@ -52,8 +52,8 @@
 
 |Origin|Tumors|Location|
 |-|-|-|
-|Bone|Giant cell tumor (Osteoclastoma)|Epiphysis|
-||Osteoid osteoma (Osteoblastoma)|Diaphysis|
+|Bone|Giant cell tumor [Osteoclastoma]|Epiphysis|
+||Osteoid osteoma [Osteoblastoma]|Diaphysis|
 ||Osteosarcoma|Metaphysis|
 |Cartilage|Chondroblastoma|Epiphysis|
 ||Enchondroma|Metaphysis|
@@ -68,7 +68,7 @@
 |-|-|-|
 |PTH agonists|Teriparatide|Osteoporosis|
 |Estrogen modulators|Raloxifene|Osteoporosis|
-|Osteoclast inhibitors|Bisphosphonate (-Dronates)|Osteoporosis|
+|Osteoclast inhibitors|Bisphosphonate: Dronates|Osteoporosis|
 |RANKL inhibitors|Denosumab|Osteoporosis|
 
 ## Mechanisms of Action of Medications for Gouty Arthritis
@@ -80,5 +80,5 @@
 |Xanthine oxidase inhibitors|Allopurinol|Gout :: chronic|
 ||Febuxostat|Gout :: chronic|
 |Urate transporter inhibitors|Probenecid|Gout :: chronic|
-|Urate oxidase (Uricase)|Rasburicase|Gout :: chronic|
+|Urate oxidase [Uricase]|Rasburicase|Gout :: chronic|
 ||Pegloticase|Gout :: chronic|

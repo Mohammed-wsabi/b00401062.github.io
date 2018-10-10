@@ -13,7 +13,7 @@
 
 ### Cells
 
-- Horizontal (Cajal) cell
+- Horizontal [Cajal] cell
 - Granular cell
 - Pyramidal cell
 - Fusiform cell
@@ -285,7 +285,7 @@
 |Type|Premature Suture|
 |-|-|
 |Trigonocephaly|Metopic|
-|Scaphocephaly (Dolichocephaly)|Sagittal|
+|Scaphocephaly [Dolichocephaly]|Sagittal|
 |Brachycephaly|Coronal|
 |Plagiocephaly :: anterior|Unilateral coronal|
 |Plagiocephaly :: posterior|Unilateral lambdoid|
@@ -306,7 +306,7 @@
 |Midbrain|Tachypnea|
 |Upper pons|Apneustic respiration|
 |Lower pons|Cluster respiration|
-|Medulla|Ataxic (Biot) respiration|
+|Medulla|Ataxic [Biot] respiration|
 
 ## Aphasia
 

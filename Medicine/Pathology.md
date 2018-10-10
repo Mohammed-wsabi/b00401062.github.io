@@ -150,7 +150,7 @@
 |Hunting|Huntington disease|AD|Huntingtin|CAG|
 |For|Friedreich ataxia|AR|Frataxin|GAA|
 |My|Myotonic dystrophy|AD|Myotonic dystrophy protein kinase (MDPK)|CTG|
-|Sexy|Spinobulbar muscular atrophy (SBMA)|XR|Androgen receptor (AR)|CAG|
+|Sexy|Spinobulbar muscular atrophy (SBMA)|XR|Androgen receptor|CAG|
 |X|Fragile X syndrome|XD|Fragile X mental retardation 1 (FMR1)|CGG|
 
 ## Microdeletion Disorders
@@ -245,8 +245,8 @@
 |BRAF|Melanoma|Serine/Threonine kinase (STK)|
 |BCR-ABL|CML|Tyrosine kinase|
 |C-KIT|Gastrointestinal stromal tumor (GIST)|Tyrosine kinase|
-|EGFR (HER1)|Colon & Lung cancer|Tyrosine kinase|
-|HER2 (NEU)|Breast cancer|Tyrosine kinase|
+|EGFR [HER1]|Colon & Lung cancer|Tyrosine kinase|
+|HER2 [NEU]|Breast cancer|Tyrosine kinase|
 |RET|MEN 2A & 2B|Tyrosine kinase|
 |C-MYC|Burkitt lymphoma|Transcription factor|
 |L-MYC|Lung cancer|Transcription factor|
