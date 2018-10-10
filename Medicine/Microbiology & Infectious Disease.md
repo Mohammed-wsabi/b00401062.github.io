@@ -1114,5 +1114,6 @@
 ||Nevirapine|HIV|
 |Protein synthesis inhibitors|IFN-α|HBV & HCV|
 |Protease inhibitors (PI)|Navirs|HIV|
+||Previrs|HCV|
 
 ![](../Figures/Mechanisms%20of%20Action%20of%20Antivirals.png)
