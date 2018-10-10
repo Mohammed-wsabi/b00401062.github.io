@@ -231,8 +231,8 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|TCA|-Triptylines|Depression|
-||-Pramines|Depression|
+|TCA|Triptylines|Depression|
+||Pramines|Depression|
 |SNRI|Venlafaxine|Depression|
 ||Duloxetine|Depression|
 |SSRI|Fluoxetine|Depression|
