@@ -214,7 +214,7 @@
 - Psychiatric overtones
 - Depression
 
-## Presentations of Glucagonoma [4D]
+## Presentations of Glucagonoma {4D}
 
 - Depression
 - Dermatitis :: necrolytic migratory erythema

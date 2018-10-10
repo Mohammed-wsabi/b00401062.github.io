@@ -71,7 +71,7 @@
 - Extremity defects
 - Renal failure
 
-## Presentations of DiGeorge Syndrome [CATCH22]
+## Presentations of DiGeorge Syndrome {CATCH22}
 
 - Cardiac :: truncus arteriosus & tetralogy of Fallot (TOF)
 - Abnormal facies

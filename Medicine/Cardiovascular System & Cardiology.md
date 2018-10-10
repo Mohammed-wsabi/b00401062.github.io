@@ -136,7 +136,7 @@
 ||Opening snap|Volume overload|HF & DCMP & MR & TR|
 |S4|Atrial kick|Diastolic dysfunction|HF & HCMP|
 
-## Cyanotic Heart Defects [5T1H]
+## Cyanotic Heart Defects {5T1H}
 
 - Truncus arteriosus
 - Transposition of great artery (TGA)

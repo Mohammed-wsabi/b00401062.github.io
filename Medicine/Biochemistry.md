@@ -71,8 +71,8 @@
 |-|-|
 |A|Night blindness & Xeroderma|
 |B<sub>1</sub>|Dry beriberi & Wet beriberi & Wernicke-Korsakoff syndrome|
-|B<sub>2</sub> [2C]|Cheliosis & Corneal vascularization|
-|B<sub>3</sub> [3D]|Diarrhea & Dementia & Dermatitis :: pellagra|
+|B<sub>2</sub> {2C}|Cheliosis & Corneal vascularization|
+|B<sub>3</sub> {3D}|Diarrhea & Dementia & Dermatitis :: pellagra|
 |B<sub>6</sub>|Homocystinuria & Sideroblastic anemia & Peripheral neuropathy|
 |B<sub>9</sub>|Homocystinuria & Megaloblastic anemia & Hypersegmented PMN|
 |B<sub>12</sub>|Homocystinuria & Megaloblastic anemia & Hypersegmented PMN & Methylmalonic acidemia & Subacute combined degeneration|

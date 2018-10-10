@@ -831,7 +831,7 @@
 - Parotitis
 - Sterility
 
-## Manifestations of Measle Virus Infection [3C1K1R]
+## Manifestations of Measle Virus Infection {3C1K1R}
 
 - Cough
 - Coryza

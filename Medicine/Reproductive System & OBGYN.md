@@ -180,7 +180,7 @@
 |Stage 2|Expulsion of the fetus|< 2 hours<br>< 3 hours if epidural|< 1 hours<br>< 2 hours if epidural|
 |Stage 3|Expulsion of the umbilical cord & placenta|< 30 minutes|< 30 minutes|
 
-## Factors Affecting the Duration of Labor [3P]
+## Factors Affecting the Duration of Labor {3P}
 
 - Power
 - Passenger

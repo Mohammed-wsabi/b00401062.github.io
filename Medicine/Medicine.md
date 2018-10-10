@@ -233,7 +233,7 @@
 		- **Pneumothorax**
 		- **Pleural effusions**
 		- **Hemothorax**
-		- 
+		-
 	- Alveoli
 		- **Emphysema**
 		- **Pulmonary edema**
@@ -242,7 +242,7 @@
 	- Vessels
 - Blood
 
-## Etiologies of Cardiopulmonary Arrest [5H5T]
+## Etiologies of Cardiopulmonary Arrest {5H5T}
 
 - Hydrogen ion
 - Hypokalemia & Hyperkalemia

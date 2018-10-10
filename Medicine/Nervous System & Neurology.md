@@ -345,7 +345,7 @@
 - Pulse :: bradycardia
 - Respiration :: pattern change
 
-## Triad of Normal Pressure Hydrocephalus (NPH) [3W]
+## Triad of Normal Pressure Hydrocephalus (NPH) {3W}
 
 |Mnemonic|Presentation|
 |-|-|

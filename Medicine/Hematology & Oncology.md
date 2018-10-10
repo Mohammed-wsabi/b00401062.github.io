@@ -117,7 +117,7 @@
 - Drops :: wrist & foot drop
 - Dimercaprol & EDTA & Succimer & Penicillamine
 
-## Presentations of Acute Intermittent Porphyria (AIP) [5P]
+## Presentations of Acute Intermittent Porphyria (AIP) {5P}
 
 - Pain :: abdomen
 - Port wine-colored urine

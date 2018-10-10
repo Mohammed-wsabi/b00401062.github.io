@@ -1,6 +1,6 @@
 # Histology
 
-## Periodic Acid-Schiff (PAS) Stain [3G3M]
+## Periodic Acid-Schiff (PAS) Stain {3G3M}
 
 - Glycogen
 - Glycoprotein

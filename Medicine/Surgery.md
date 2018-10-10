@@ -69,7 +69,7 @@
 |5% dextrose in water (D5W)|0|0|0|0|5|3.5 ~ 6.5|
 |5% dextrose in normal saline (D5NS)|154|0|0|154|5|3.5 ~ 6.5|
 
-## Etiologies of Postoperative Fever [5W]
+## Etiologies of Postoperative Fever {5W}
 
 |Mnemonic|Etiology|POD|
 |-|-|-|
