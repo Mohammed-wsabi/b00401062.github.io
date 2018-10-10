@@ -68,6 +68,17 @@
 
 ![](../Figures/Hormone%20Change%20During%20Pregnancy.png)
 
+## Differential Diagnoses for Size/Date Discrepancy
+
+- Uncertain LMP
+- Molar pregnancy
+- Multiple pregnancy
+- Macrosomia
+- Hydramnios
+- Obesity
+- Distended bladder
+- Adnexal mass
+
 ## Indicators of Ovarian Reserve
 
 |Indicator|Normal|
