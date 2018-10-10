@@ -1100,7 +1100,7 @@
 ||Ganciclovir|CMV|
 ||Cidofovir|HSV & CMV|
 ||Foscarnet|HSV & CMV|
-|Reverse transcriptase inhibitors :: nucleoside (NRTI)|Abacavir|HIV|
+|Reverse transcriptase inhibitors<br>:: nucleoside (NRTI)|Abacavir|HIV|
 ||Entecavir|HBV|
 ||Didanosine|HIV|
 ||Lamivudine|HBV & HIV|
@@ -1109,7 +1109,7 @@
 ||Zidovudine|HIV|
 ||Adefovir|HBV|
 ||Tenofovir|HBV & HIV|
-|Reverse transcriptase inhibitors :: non-nucleoside (NNRTI)|Delavirdine|HIV|
+|Reverse transcriptase inhibitors<br>:: non-nucleoside (NNRTI)|Delavirdine|HIV|
 ||Efavirenz|HIV|
 ||Nevirapine|HIV|
 |Protein synthesis inhibitors|IFN-α|HBV & HCV|
