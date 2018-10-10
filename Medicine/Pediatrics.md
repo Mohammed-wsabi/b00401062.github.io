@@ -26,7 +26,7 @@
 |Normal (NBW)|2500 ~ 4000 g|
 |High (HBW)|> 4000 g|
 
-## New Ballard Score [HAPPSS]
+## New Ballard Score {HAPPSS}
 
 - Heel to ear
 - Arm recoil
@@ -35,7 +35,7 @@
 - Scarf sign
 - Square window
 
-## Complications of Preterm Delivery [RIP-N-RBC]
+## Complications of Preterm Delivery {RIP-N-RBC}
 
 - Respiratory distress syndrome (RDS)
 - Intraventricular hemorrhage
@@ -45,14 +45,14 @@
 - Bronchopulmonary dysplasia
 - Cerebral palsy
 
-## WAGR Syndrome [WAGR]
+## WAGR Syndrome {WAGR}
 
 - Wilms tumor
 - Aniridia
 - Genitourinary anomaly
 - Retardation
 
-## VACTERL Association [VACTERL]
+## VACTERL Association {VACTERL}
 
 - Vertebral anomalies
 - Anorectal malformation
@@ -62,7 +62,7 @@
 - Renal anomalies
 - Limb anomalies
 
-## Presentations of Potter Sequence [POTTER]
+## Presentations of Potter Sequence {POTTER}
 
 - Pulmonary hypoplasia
 - Oligohydramnios

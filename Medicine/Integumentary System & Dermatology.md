@@ -10,7 +10,7 @@
 |String|Stratum spinosum|
 |Bikinis|Stratum basalis|
 
-## Epithelial Cell Junctions [TAGDH]
+## Epithelial Cell Junctions {TAGDH}
 
 |Type|Synonym|Units|
 |-|-|-|
@@ -44,7 +44,7 @@
 |Erythema toxicum|Neonates|
 |Necrolytic migratory erythema|Glucagonoma|
 
-## ABCDE of Melanoma [ABCDE]
+## ABCDE of Melanoma {ABCDE}
 
 - Asymmetry
 - Border irregularity

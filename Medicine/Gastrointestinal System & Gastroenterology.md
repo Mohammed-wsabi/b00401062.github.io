@@ -22,7 +22,7 @@
 
 ![](../Figures/Biliary%20Structures.png)
 
-## Layers of Gastrointestinal Tract [MSMS]
+## Layers of Gastrointestinal Tract {MSMS}
 
 - Mucosa layer
 - Submucosa layer
@@ -35,7 +35,7 @@
 
 ## Layers of Abdominal Wall & Spermatic Chord
 
-|Abdominal Wall [PETTIES-CS]|Spermatic Chord [TICE-DS]|
+|Abdominal Wall {PETTIES-CS}|Spermatic Chord {TICE-DS}|
 |-|-|
 |Parietal peritonium|-|
 |Extraperitoneal fascia|Testis|
@@ -88,7 +88,7 @@
 - Serum-Ascites albumin gradient (SAAG)
 - Total ascites protein (TAP)
 
-## Child-Pugh Score for Cirrhosis [ABATE]
+## Child-Pugh Score for Cirrhosis {ABATE}
 
 - Ascites
 - Bilirubin
@@ -123,7 +123,7 @@
 - Fever
 - Jaundice
 
-## Etiologies of Gastritis [BANISH]
+## Etiologies of Gastritis {BANISH}
 
 - Biliary reflux
 - Brain injury → Cushing ulcer
@@ -144,7 +144,7 @@
 - Inability to vomit
 - Difficult passage of nasogastric (NG) tube
 
-## Presentations of Appendicitis [PROM]
+## Presentations of Appendicitis {PROM}
 
 - Psoas sign
 - Rovsing sign
@@ -158,14 +158,14 @@
 - Onset a/w frequency of stool
 - Onset a/w appearance of stool
 
-## Triad of Plummer-Vinson Syndrome [DIGS]
+## Triad of Plummer-Vinson Syndrome {DIGS}
 
 - Dysphagia ← esophageal web
 - Iron deficiency anemia
 - Glossitis
 - Squamous cell carcinoma
 
-## Presentations of VIPoma [WDHA]
+## Presentations of VIPoma {WDHA}
 
 |Mnemonic|Presentation|
 |-|-|

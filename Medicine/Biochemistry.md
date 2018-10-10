@@ -34,7 +34,7 @@
 |For|FAD (B<sub>2</sub>)|
 |Nancy|NAD (B<sub>3</sub>)|
 
-### Carboxylase [ABC]
+### Carboxylase {ABC}
 
 |Mnemonic|Coenzymes|
 |-|-|
@@ -197,7 +197,7 @@
 
 ![](../Figures/Carbohydrate%20Metabolism.png)
 
-## Glycolysis Enzymes & Products [KI-KAI-DK-MEK]
+## Glycolysis Enzymes & Products {KI-KAI-DK-MEK}
 
 |Enzyme|Substrates|
 |-|-|
@@ -334,7 +334,7 @@
 
 ## Amino Acids
 
-### Hydrophobic :: Aliphatic [GAVLIP]
+### Hydrophobic :: Aliphatic {GAVLIP}
 
 |Mnemonic|Abbrevation|Amino acid|
 |-|-|-|
@@ -505,7 +505,7 @@
 
 ![](../Figures/Purine%20Salvage.png)
 
-## Symptoms of Lesch-Nyhan Syndrome [HGPRT]
+## Symptoms of Lesch-Nyhan Syndrome {HGPRT}
 
 - Hyperuricemia
 - Gout
@@ -634,7 +634,7 @@
 |Annealing|55°C|
 |Elongation|72°C|
 
-## Blotting Techniques [SNOW-DROP]
+## Blotting Techniques {SNOW-DROP}
 
 |Mnemonic|Blot|Mnemonic|Target|
 |-|-|-|-|

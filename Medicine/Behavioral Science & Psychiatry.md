@@ -1,6 +1,6 @@
 # Behavioral Science & Psychiatry
 
-## Freud's Psychosexual Development [OAPLG]
+## Freud's Psychosexual Development {OAPLG}
 
 - Oral
 - Anal
@@ -8,14 +8,14 @@
 - Latency
 - Genital
 
-## Mature Ego Defences [SASH]
+## Mature Ego Defences {SASH}
 
 - Suppression
 - Altruism
 - Sublimation
 - Humor
 
-## Kubler-Ross Model [DABDA]
+## Kubler-Ross Model {DABDA}
 
 - Denial
 - Anger
@@ -32,7 +32,7 @@
 - Maintenance
 - Relapse
 
-## Mini-Mental State Examination (MMSE) [OMAMLC]
+## Mini-Mental State Examination (MMSE) {OMAMLC}
 
 |Item|Score|
 |-|-|
@@ -50,7 +50,7 @@
 - Mental status
 - Thinking
 
-## CAGE Question for Alcoholisms [CAGE]
+## CAGE Question for Alcoholisms {CAGE}
 
 - Cut down on alcohol
 - Anger
@@ -174,7 +174,7 @@
 - Catatonia
 - Negative symptoms
 
-## Presentations of Manic Episode [DIG-FAST]
+## Presentations of Manic Episode {DIG-FAST}
 
 - Distractibility
 - Irresponsibility
@@ -184,7 +184,7 @@
 - Sleep deprivation
 - Talkativeness
 
-## Presentations of Major Depressive Episode [FDA-GPS]
+## Presentations of Major Depressive Episode {FDA-GPS}
 
 - Fatigue
 - Depression
@@ -196,7 +196,7 @@
 - Sleep disturbance :: insomnia & hypersomnia
 - Suicidal ideations
 
-## Withdrawl Symptoms from Alcohol [PTSD]
+## Withdrawl Symptoms from Alcohol {PTSD}
 
 - Psychosis
 - Tremors
@@ -282,7 +282,7 @@
 |4 weeks|Bradykinesia :: parkinsonism|
 |4 months|Tardive dyskinesia|
 
-## Presentations of Neuroleptic Malignant Syndrome (NMS) [FEVER]
+## Presentations of Neuroleptic Malignant Syndrome (NMS) {FEVER}
 
 - Fever
 - Encephalopathy

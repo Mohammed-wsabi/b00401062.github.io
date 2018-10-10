@@ -124,7 +124,7 @@
 ![](../Figures/T%20Cell%20Development.png)
 ![](../Figures/B%20Cell%20Development.png)
 
-## Immunoglobulins [MDGEA]
+## Immunoglobulins {MDGEA}
 
 |Immunoglobulin|Members|
 |-|-|
@@ -221,9 +221,9 @@
 |DR4|Rheumatoid arthritis & DM type 1|
 |DR5|Pernicious anemia & Hashimoto thyroiditis|
 
-## Immunodeficiency [CBS-CHILD-WASH]
+## Immunodeficiency {CBS-CHILD-WASH}
 
-### B Cell Deficiency [CBS]
+### B Cell Deficiency {CBS}
 
 |Disease|Defects|Genetics|IgM|IgG|IgE|IgA|
 |-|-|-|-|-|-|-|
@@ -231,7 +231,7 @@
 |Bruton agammaglobulinemia|Bruton tyrosine kinase|BTK|↓|↓|↓|↓|
 |Selective IgA deficiency|-|-|-|-|-|↓|
 
-### T Cell Deficiency [CHILD]
+### T Cell Deficiency {CHILD}
 
 |Disease|Defects|Genetics|IgM|IgG|IgE|IgA|
 |-|-|-|-|-|-|-|
@@ -240,7 +240,7 @@
 |IL-12R deficiency|IL-12R|IL-12R|-|-|-|-|
 |DiGeorge syndrome|Thymus & Parathyroid|22q11|-|-|-|-|
 
-### Combined Deficiency [WASH]
+### Combined Deficiency {WASH}
 
 |Disease|Defects|Genetics|IgM|IgG|IgE|IgA|
 |-|-|-|-|-|-|-|
@@ -250,7 +250,7 @@
 |Severe combined immunodeficiency (SCID) :: XR|IL-2R|IL-2R|↓|↓|↓|↓|
 |Hyper-IgM syndrome|CD40L|CD40L|↑|↓|↓|↓|
 
-## Presentations of Wiskott-Aldrich syndrome (WAS) [WATER]
+## Presentations of Wiskott-Aldrich syndrome (WAS) {WATER}
 
 - Wiskott
 - Aldrich
@@ -258,7 +258,7 @@
 - Eczema ← ↑ IgE & IgA
 - Recurrent infection
 
-## Presentations of Sarcoidosis [SHARING]
+## Presentations of Sarcoidosis {SHARING}
 
 - Schaumann body
 - Hypercalcemia
@@ -270,20 +270,20 @@
 - Noncaseating granuloma
 - γ globulinemia
 
-## Seronegative Spondyloarthropathy [PAIR]
+## Seronegative Spondyloarthropathy {PAIR}
 
 - Psoriatic arthritis
 - Ankylosing spondylitis
 - Inflammatory bowel disease
 - Reactive arthritis (Reiter syndrome)
 
-## Triad of Reactive Arthritis [AUC]
+## Triad of Reactive Arthritis {AUC}
 
 - Arthritis
 - Urethritis
 - Conjunctivitis
 
-## SLICC Diagnostic Criteria of SLE [MD-SOAP-BRAIN]
+## SLICC Diagnostic Criteria of SLE {MD-SOAP-BRAIN}
 
 - Malar rash
 - Discoid rash
@@ -297,7 +297,7 @@
 - Immunologic disorders
 - Neurologic disorders
 
-## Presentations of Limited Scleroderma [CREST]
+## Presentations of Limited Scleroderma {CREST}
 
 - Calcinosis
 - Raynaud syndrome

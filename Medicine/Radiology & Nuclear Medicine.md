@@ -9,7 +9,7 @@
 |SPECT|γ-ray|γ-ray|Tc 99m|
 |PET|Positron|γ-ray|FDG|
 
-## Systematic Analysis of CXR [ABCDEFG]
+## Systematic Analysis of CXR {ABCDEFG}
 
 - Airway & Adenopathy
 - Bone & Breast

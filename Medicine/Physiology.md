@@ -44,7 +44,7 @@
 |Ca-induced Ca release (CICR)|↓|↑|
 |PTH|↑|↓|
 
-## Potassium Shifts [I-DO-LABS]
+## Potassium Shifts {I-DO-LABS}
 
 |Factor|Serum K|
 |-|-|
@@ -69,7 +69,7 @@
 ||Kidney|↑ Reabsorption of Ca & phosphate|
 ||Intestine|↑ Absorption of Ca & phosphate|
 
-## Right Shift of Oxygen-Hemoglobin Dissociation Curve [BAT-ACE]
+## Right Shift of Oxygen-Hemoglobin Dissociation Curve {BAT-ACE}
 
 - 2,3-BPG
 - Altitude

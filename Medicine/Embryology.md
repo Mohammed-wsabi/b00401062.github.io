@@ -1,6 +1,6 @@
 # Embryology
 
-## Extraembryonic Membranes [CAYA]
+## Extraembryonic Membranes {CAYA}
 
 |Membrane|Derivatives|Remnant|Markers|
 |-|-|-|-|
@@ -74,7 +74,7 @@
 - Urinary bladder
 - Urethra :: prostatic & membranous
 
-## Branchial Apparatus [CAP]
+## Branchial Apparatus {CAP}
 
 |Component|Origin|
 |-|-|

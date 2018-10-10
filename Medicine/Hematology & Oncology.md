@@ -57,7 +57,7 @@
 |s-Globin|α<sub>2</sub>s<sub>2</sub> (HbS)|Sickle cell disease|-|-|
 |c-Globin|α<sub>2</sub>c<sub>2</sub> (HbC)|HbC disease|-|-|
 
-## Differential Diagnosis of Target Cells [HALT]
+## Differential Diagnosis of Target Cells {HALT}
 
 - HbC disease
 - Asplenia
@@ -68,7 +68,7 @@
 
 ![](../Figures/Differential%20Diagnosis%20of%20Anemia.png)
 
-## Microcytic Anemia [TAILS]
+## Microcytic Anemia {TAILS}
 
 |Anemia|Fe|Ferritin|Transferrin (TIBC)|Saturation = Fe ÷ TIBC|
 |-|-|-|-|-|
@@ -82,7 +82,7 @@
 
 ## Normocytic Anemia :: Hemolytic Anemia
 
-||Intravascular [TIMP]|Extravascular [PHAGES]|
+||Intravascular {TIMP}|Extravascular {PHAGES}|
 |-|-|-|
 |Peripheral smear|Schistocyte|Spherocyte|
 |Haptoglobin|↓|-|
@@ -107,7 +107,7 @@
 
 ![](../Figures/Heme%20Synthesis%20and%20Diseases.png)
 
-## Associations with Lead Poisoning [LEAD]
+## Associations with Lead Poisoning {LEAD}
 
 - Lead (Burton) line
 - Encephalopathy
@@ -157,7 +157,7 @@
 - Neurologic symptoms
 - Fever
 
-## Triad of Hemolytic Uremic Syndrome (HUS) [RAT]
+## Triad of Hemolytic Uremic Syndrome (HUS) {RAT}
 
 - Renal symptoms
 - Anemia
@@ -202,14 +202,14 @@
 |Chronic lymphocytic leukemia (CLL)|-|-|
 |Hairy cell leukemia|-|-|
 
-### T-cell Lymphoma [AM]
+### T-cell Lymphoma {AM}
 
 |Tumors|Translocation|Gene|
 |-|-|-|
 |Adult T-cell lymphoma|-|-|
 |Mycosis fungoides & Sezary syndrome|-|-|
 
-### B-cell Lymphoma [HBD-MMF]
+### B-cell Lymphoma {HBD-MMF}
 
 |Tumors|Translocation|Gene|
 |-|-|-|
@@ -226,7 +226,7 @@
 - Night sweats
 - Weight loss
 
-## Presentations of Multiple Myeloma [CRAB]
+## Presentations of Multiple Myeloma {CRAB}
 
 - Hypercalcemia
 - Renal failure
@@ -249,7 +249,7 @@
 - Rashes
 - Splenomegaly
 
-## Tumors Associated with Li-Fraumeni Syndrome [SBLA]
+## Tumors Associated with Li-Fraumeni Syndrome {SBLA}
 
 - Sarcoma
 - Breast tumor

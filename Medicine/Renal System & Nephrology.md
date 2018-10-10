@@ -89,7 +89,7 @@
 
 ## Nephritic & Nephrotic Syndrome
 
-|Nephritis [HHAOP]|Nephrosis [HHELP]|
+|Nephritis {HHAOP}|Nephrosis {HHELP}|
 |-|-|
 |Hypertension|Hypoalbuminemia|
 |Hematuria|Hyperlipidemia|
@@ -97,7 +97,7 @@
 |Oliguria|Lipiduria|
 |Proteinuria < 3.5 g/dL|Proteinuria > 3.5 g/dL|
 
-## Glomerulopathy [GEM-RAG-AI-MD-MMF-DA]
+## Glomerulopathy {GEM-RAG-AI-MD-MMF-DA}
 
 |Glomerulopathy|Immune Reaction|Microscopy|Nephritic|Nephrotic|
 |-|-|-|-|-|
@@ -117,7 +117,7 @@
 |Diabetic nephropathy|-|Nodular glomerulosclerosis|-|+|
 |Amyloid nephropathy|-|Nodular amyloidosis|-|+|
 
-## Etiologies of Renal Papillary Necrosis [SAND]
+## Etiologies of Renal Papillary Necrosis {SAND}
 
 - Sickle cell nephropathy
 - Acute pyelonephritis
@@ -161,7 +161,7 @@
 |Aldosterone antagonists|Kidney|K-sparing diuretics: Spironolactone & Eplerenone|Diuretics|Collecting tubule (CT)|↑|↑|-|
 |Na channel blockers|Kidney|K-sparing diuretics: Amiloride & Triamterene|Diuretics|Collecting tubule (CT)|↑|↑|-|
 
-## Indications for Acute Dialysis [AEIOU]
+## Indications for Acute Dialysis {AEIOU}
 
 - Acidosis
 - Electrolyte disturbances

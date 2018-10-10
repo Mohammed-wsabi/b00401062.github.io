@@ -27,7 +27,7 @@
 |Of|Oxytocin|-|-|
 |Viscera|Vasopressin|↑ ACTH|-|
 
-## Endocrine Glands & Hormone Regulation [HP-TP-LP-KAG]
+## Endocrine Glands & Hormone Regulation {HP-TP-LP-KAG}
 
 |Endocrine Gland|1° Hormones|2° Stimulation|3° Stimulation|Effect|
 |-|-|-|-|-|
@@ -68,7 +68,7 @@
 
 ![](../Figures/Steroid%20Synthesis%20of%20Adrenal%20Gland.png)
 
-## Thyroid Hormone Synthesis [OOCD]
+## Thyroid Hormone Synthesis {OOCD}
 
 |Step|Enzyme|
 |-|-|
@@ -181,7 +181,7 @@
 |Androgen|Androgen insensitive syndrome (AIS)|
 |PTH|Pseudohypoparathyroidism (PHP)|
 
-## Presentations of Hypothyroidism [WAS-TIRED]
+## Presentations of Hypothyroidism {WAS-TIRED}
 
 - Weight gain
 - Ataxia
@@ -192,7 +192,7 @@
 - Edema :: myxedema
 - Dry skin
 
-## Presentations of Hyperthyroidism [SWEATING]
+## Presentations of Hyperthyroidism {SWEATING}
 
 - Sweating
 - Weight loss
@@ -259,7 +259,7 @@
 |α-Glucosidase inhibitors|-|Acarbose & Miglitol|DM type 2|
 |SGLT-2 inhibitors|-|Gliflozins|DM type 2|
 
-## Mechanisms of Action of Medications for Hyperlipidemia [OECSNF]
+## Mechanisms of Action of Medications for Hyperlipidemia {OECSNF}
 
 |Mechanism|Medication|LDL|HDL|Triglyceride|
 |-|-|-|-|-|

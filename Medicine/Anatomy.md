@@ -4,7 +4,7 @@
 
 ![](../Figures/Types%20of%20Joints.png)
 
-## Vertebral Ligaments [SIFPA]
+## Vertebral Ligaments {SIFPA}
 
 - Supraspinous ligament
 - Interspinous ligament
@@ -12,7 +12,7 @@
 - Posterior longitudinal ligament
 - Anterior longitudinal ligament
 
-## Layers of Scalp [SCALP]
+## Layers of Scalp {SCALP}
 
 - Skin
 - Connective tissue
@@ -161,7 +161,7 @@
 |Sternohyoid|AC|-|
 |Omohyoid|AC|-|
 
-## Laryngeal Cartilages [EAT-CCC]
+## Laryngeal Cartilages {EAT-CCC}
 
 - Epiglottis cartilage
 - Arytenoid cartilage
@@ -235,7 +235,7 @@
 |Medical|Maxillary artery|
 |Students|Superficial temporal artery|
 
-## Branches of Subclavian Artery [VIT-CD]
+## Branches of Subclavian Artery {VIT-CD}
 
 - Vertebral artery
 - Internal thoracic artery
@@ -282,7 +282,7 @@
 |Back|Biceps :: short head|
 |Pain|Pectoralis minor|
 
-## Muscles of Greater Tubercle [TIPS]
+## Muscles of Greater Tubercle {TIPS}
 
 - Teres minor
 - Infraspinatus
@@ -297,7 +297,7 @@
 |Like|Latissimus dorsi|
 |Toxin|Teres major|
 
-## Rotator Cuff Muscles & Nerves [SITS]
+## Rotator Cuff Muscles & Nerves {SITS}
 
 |Muscle|Nerve|Functions|
 |-|-|-|
@@ -440,7 +440,7 @@
 |Perineal nerve|Perineum|-|
 |Dorsal nerve of penis & clitoris|Penis & Clitoris|-|
 
-## Pelvic Inlet [PAPPP]
+## Pelvic Inlet {PAPPP}
 
 - Promontory
 - Arcuate line

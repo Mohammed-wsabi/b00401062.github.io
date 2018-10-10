@@ -2,7 +2,7 @@
 
 ## Cytochrome P-450 (CYP450) Interactions
 
-### Inducers [CSGAR-PP]
+### Inducers {CSGAR-PP}
 
 - Carbamazepine
 - St. John wort
@@ -12,14 +12,14 @@
 - Phenytoin
 - Phenobarbital
 
-### Substrates [ATWO]
+### Substrates {ATWO}
 
 - Anticonvulsants
 - Theophylline
 - Warfarin
 - OCP
 
-### Inhibitors [CIGAR-MASK-QQ]
+### Inhibitors {CIGAR-MASK-QQ}
 
 - Cimetidine
 - Isoniazid
@@ -33,7 +33,7 @@
 - Quinolone
 - Quinidine
 
-## Sulfa Drugs [P-FACTSSS]
+## Sulfa Drugs {P-FACTSSS}
 
 - Probenecid
 - Furosemide
@@ -215,7 +215,7 @@
 |αβ antagonists|Carvedilol|Arrhythmia & HF|
 ||Labetalol|Hypertension|
 
-## Cholinergic & Adrenergic Effects [DUMBBEELSS]
+## Cholinergic & Adrenergic Effects {DUMBBEELSS}
 
 |Cholingeric|Adrenergic|
 |-|-|
@@ -564,7 +564,7 @@
 
 ![](../Figures/Target%20Therapy.png)
 
-## Medications Causing QT Prolongation [ABCDE]
+## Medications Causing QT Prolongation {ABCDE}
 
 - Antiarrhythmics :: class 1A & 3
 - Antibiotics :: Macrolide & Fluoroquinolone
@@ -601,7 +601,7 @@
 - Sulfa drugs
 - Trimethoprim
 
-## Medications Causing Hemolysis in G6PD Deficiency [IS-D-PAIN]
+## Medications Causing Hemolysis in G6PD Deficiency {IS-D-PAIN}
 
 - Isoniazid
 - Sulfonamide
@@ -623,7 +623,7 @@
 - Tetracycline
 - Flucytosine
 
-## Medications Causing SLE-like Syndrome [HIPPIES]
+## Medications Causing SLE-like Syndrome {HIPPIES}
 
 - Hydralazine
 - Isoniazid
@@ -640,7 +640,7 @@
 - Imipenem
 - Isoniazid
 
-## Medications Causing Parkinson-like Syndrome [RAM]
+## Medications Causing Parkinson-like Syndrome {RAM}
 
 - Reserpine
 - Antipsychotics
@@ -678,7 +678,7 @@
 |Concentrate|Cyclophosphamide|
 |Sodium|SSRI|
 
-## Medications Following Zero-order Elimination [APE]
+## Medications Following Zero-order Elimination {APE}
 
 - Aspirin
 - Phenytoin

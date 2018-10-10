@@ -48,7 +48,7 @@
 |Haemophilus|-|Chocolate|
 |Legionella|Silver|Charcoal yeast|
 
-### Gram-Negative Rods (GNR) :: Enteric [SEEK-PA-SSPY]
+### Gram-Negative Rods (GNR) :: Enteric {SEEK-PA-SSPY}
 
 |Bacteria|Stain|Culture|
 |-|-|-|
@@ -71,7 +71,7 @@
 |Helicobacter|Silver|-|
 |Vibrio|-|-|
 
-### Gram-Negative :: Spirochete [BLT]
+### Gram-Negative :: Spirochete {BLT}
 
 |Bacteria|Stain|Culture|
 |-|-|-|
@@ -79,7 +79,7 @@
 |Leptospira|-|-|
 |Treponema|-|-|
 
-### Gram-Negative :: Pleomorphic [CCR]
+### Gram-Negative :: Pleomorphic {CCR}
 
 |Bacteria|Stain|Culture|
 |-|-|-|
@@ -114,7 +114,7 @@
 |GAS :: Streptococcus pyogenes|Bacitracin|S|
 |GBS :: Streptococcus agalactiae|Bacitracin|R|
 
-## Classification of Enteric Gram Negative Rods [SEEK-PA-SSPY]
+## Classification of Enteric Gram Negative Rods {SEEK-PA-SSPY}
 
 |Bacteria|Lactose Fermentation|Oxidase|
 |-|-|-|
@@ -225,7 +225,7 @@
 |Must|Mycobacterium|
 |Breathe|Bordetella|
 
-### Obligate Anaerobes [ABC]
+### Obligate Anaerobes {ABC}
 
 |Mnemonic|Bacteria|
 |-|-|
@@ -256,7 +256,7 @@
 |L|Legionella|
 |Y|Yersinia pestis|
 
-## Encapsulated Bacteria [SHNE-KPS]
+## Encapsulated Bacteria {SHNE-KPS}
 
 - Streptococcus pneumoniae
 - Haemophilus influenzae
@@ -279,7 +279,7 @@
 |S|Staphylococcus|
 |S|Serratia|
 
-## Oxidase Positive Bacteria [PVNCH]
+## Oxidase Positive Bacteria {PVNCH}
 
 - Pseudomonas
 - Vibrio
@@ -287,7 +287,7 @@
 - Campylobacter
 - Helicobacter
 
-## Urease Positive Bacteria [PUNCH-KS]
+## Urease Positive Bacteria {PUNCH-KS}
 
 - Proteus
 - Ureaplasma
@@ -301,14 +301,14 @@
 
 ![](../Figures/Hemolysis.png)
 
-## β-Hemolytic Bacteria [LABS]
+## β-Hemolytic Bacteria {LABS}
 
 - Listeria monocytogenes
 - GAS :: Streptococcus pyogenes
 - GBS :: Streptococcus agalactiae
 - Staphylococcus aureus
 
-## Specialized Transduction Through Lysogenic Phages [ABCDE]
+## Specialized Transduction Through Lysogenic Phages {ABCDE}
 
 |Toxin|Bacteria|
 |-|-|
@@ -324,7 +324,7 @@
 - Clostridium
 - Coxiella
 
-## VDRL False Positives [VDRL]
+## VDRL False Positives {VDRL}
 
 - Virus :: mononucleosis & hepatitis
 - Drugs
@@ -359,7 +359,7 @@
 |A|Aspergillus|
 |D|Dermatophyte|
 
-## Sporotrichoid Lymphocutaneous Infection [LMNS]
+## Sporotrichoid Lymphocutaneous Infection {LMNS}
 
 - Leishmania brasiliensis
 - Mycobacterium
@@ -368,7 +368,7 @@
 
 ## Classification of Parasites
 
-### Protozoan Parasites :: GI Infections [ECG]
+### Protozoan Parasites :: GI Infections {ECG}
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -376,7 +376,7 @@
 |Cryptosporidium|Watery diarrhea|Nitazoxanide|
 |Giardia lamblia|Giardiasis & Fatty diarrhea|Metronidazole|
 
-### Protozoan Parasites :: CNS Infections [ANT]
+### Protozoan Parasites :: CNS Infections {ANT}
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -385,7 +385,7 @@
 |Toxoplasma gondii|Toxoplasmosis|Pyrimethamine & Sulfadiazine|
 |Trypanosoma brucei|African sleeping sickness|Suramin & Melarsoprol|
 
-### Protozoan Parasites :: Hematologic Infections [BP]
+### Protozoan Parasites :: Hematologic Infections {BP}
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -425,7 +425,7 @@
 |Schistosoma mansoni|Portal hypertension|Praziquantel|
 |Schistosoma japonicum|Portal hypertension|Praziquantel|
 
-### Animalian Parasites :: Nematodes (Roundworms) :: Fecal-oral Transmission [EAT]
+### Animalian Parasites :: Nematodes (Roundworms) :: Fecal-oral Transmission {EAT}
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -435,7 +435,7 @@
 |Trichinella spiralis|Myalgia & Periorbital edema|Benzimidazole|
 |Toxocara|Visceral larva migrans|Benzimidazole|
 
-### Animalian Parasites :: Nematodes (Roundworms) :: Contact Transmission [SAN]
+### Animalian Parasites :: Nematodes (Roundworms) :: Contact Transmission {SAN}
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -443,7 +443,7 @@
 |Ancylostoma duodenale|IDA & Cutaneous larva migrans|Benzimidazole & Pyrantel pamoate|
 |Necator americanus|IDA|Benzimidazole & Pyrantel pamoate|
 
-### Animalian Parasites :: Nematodes (Roundworms) :: Arthropod-Borne [WOLD]
+### Animalian Parasites :: Nematodes (Roundworms) :: Arthropod-Borne {WOLD}
 
 |Parasite|Disease|Treatment|
 |-|-|-|
@@ -468,7 +468,7 @@
 - Trichomona vaginalis
 - Dientamoeba fragilis
 
-## Life Cycle of Viruses [APUSAR]
+## Life Cycle of Viruses {APUSAR}
 
 - Attachment
 - Penetration
@@ -497,7 +497,7 @@
 |+ssRNA :: retrovirus|+ssRNA → dsDNA → +mRNA|Reverse transcriptase & RNA polymerase|
 |-ssRNA|-ssRNA → +mRNA|RNA polymerase|
 
-## Classification of DNA Viruses [PAPP-HHP]
+## Classification of DNA Viruses {PAPP-HHP}
 
 |Viruses|Strand|Nucleic Acid|Capsid|Envelope|
 |-|-|-|-|-|
@@ -529,7 +529,7 @@
 |Fail|Filovirus|-|Linear|Helical|+|
 |Replication|Rhabdovirus|-|Linear|Helical|+|
 
-## Segmented RNA Viruses [BOAR]
+## Segmented RNA Viruses {BOAR}
 
 - Bunyavirus
 - Orthomyxovirus
@@ -549,7 +549,7 @@
 |HHV7|Roseolovirus|
 |HHV8|Kaposi's sarcoma-associated herpesvirus (KSHV)|
 
-## Subspecies of Picornavirus [PERCH]
+## Subspecies of Picornavirus {PERCH}
 
 - Poliovirus
 - Echovirus
@@ -575,7 +575,7 @@
 |Latex agglutination test|Cryptococcus neoformans|
 |Germ tube test|Candida albicans|
 
-## Pathogens of Perinatal Infection [TORCH-BEL]
+## Pathogens of Perinatal Infection {TORCH-BEL}
 
 |Pathogen|Manifestations|Transmission|
 |-|-|-|
@@ -592,7 +592,7 @@
 |Neisseria gonorrhoea|Conjunctivitis|Intrapartum|
 |Chlamydia trachomatis|Conjunctivitis|Intrapartum|
 
-## Pathogens of Otitis Media [SHM]
+## Pathogens of Otitis Media {SHM}
 
 - Streptococcus pneumonia
 - Haemophilus influenzae
@@ -639,7 +639,7 @@
 - Pseudomonas aeruginosa
 - Anaerobes
 
-## Pathogens of Watery Diarrhea [GBS-CAVERN]
+## Pathogens of Watery Diarrhea {GBS-CAVERN}
 
 - Giardia lamblia
 - Bacillus cereus
@@ -652,7 +652,7 @@
 - Rotavirus
 - Norovirus
 
-## Pathogens of Bloody Diarrhea [SYCE]
+## Pathogens of Bloody Diarrhea {SYCE}
 
 - Salmonella
 - Shigella
@@ -709,7 +709,7 @@
 |Fungal & TB|↑|Lymphocyte|↓|↑|
 |Viral|↑|Lymphocyte|-|↑|
 
-## Pathogens of Osteomyelitis [SNPP]
+## Pathogens of Osteomyelitis {SNPP}
 
 - Staphylococcus aureus
 - Neisseria gonorrhoea
@@ -746,7 +746,7 @@
 - Fecal-oral
 - Vector-borne
 
-## Manifestations of Staphylococcus Aureus Infection [SOFT-PENIS]
+## Manifestations of Staphylococcus Aureus Infection {SOFT-PENIS}
 
 - Staphylococcal scalded skin syndrome (SSSS)
 - Osteomyelitis
@@ -758,14 +758,14 @@
 - Infectious arthritis
 - Sepsis
 
-## Manifestations of Streptococcus Pneumonia Infection [MOPS]
+## Manifestations of Streptococcus Pneumonia Infection {MOPS}
 
 - Meningitis
 - Otitis media
 - Pneumonia :: lobar
 - Sinusitis
 
-## Manifestations of Streptococcus Pyogenes Infection [NIPPLES]
+## Manifestations of Streptococcus Pyogenes Infection {NIPPLES}
 
 |Mnemonic|Manifestation|
 |-|-|
@@ -780,7 +780,7 @@
 |Really|Rheumatic fever|
 |Good|Glomerulonephritis :: APGN|
 
-## Jones Criteria for Rheumatic Fever [JONES]
+## Jones Criteria for Rheumatic Fever {JONES}
 
 - Joint :: migratory polyarthritis
 - Heart :: mitral valve
@@ -788,7 +788,7 @@
 - Erythema marginatum
 - Sydenham chorea (Chorea minor)
 
-## Facts About Corynebacterium Diphtheria [ABCDEFG]
+## Facts About Corynebacterium Diphtheria {ABCDEFG}
 
 - ADP-ribosylation
 - β prophage
@@ -805,7 +805,7 @@
 - Otitis media
 - Pneumonia
 
-## Associations with Pseudomonas Aeruginosa Infection [PSEUDO]
+## Associations with Pseudomonas Aeruginosa Infection {PSEUDO}
 
 - Pneumonia
 - Sepsis
@@ -817,14 +817,14 @@
 - Otitis externa
 - Osteomyelitis
 
-## Manifestations of Lyme Disease [FACE]
+## Manifestations of Lyme Disease {FACE}
 
 - Facial palsy
 - Arthritis :: migratory
 - Cardiac :: AV nodal block
 - Erythema migrans
 
-## Manifestations of Mumps Virus Infection [MOPS]
+## Manifestations of Mumps Virus Infection {MOPS}
 
 - Meningitis
 - Orchitis
@@ -839,7 +839,7 @@
 - Koplik spot
 - Rash :: downward
 
-## Manifestations of Rubella Virus Infection [RUBELLA]
+## Manifestations of Rubella Virus Infection {RUBELLA}
 
 - Rash :: downward
 - -
@@ -850,7 +850,7 @@
 - -
 - Arthritis
 
-## Infections Causing Rashes Beginning on the Palms & Soles [CARS]
+## Infections Causing Rashes Beginning on the Palms & Soles {CARS}
 
 - Coxsackie virus → hand-foot-mouth disease
 - Rickettsia rickettsii → Rocky Mountain spotted fever (RMSF)
@@ -865,7 +865,7 @@
 
 ## Mechanisms of Action of Antibiotics
 
-### Cell Wall Inhibitors [PCCMG]
+### Cell Wall Inhibitors {PCCMG}
 
 |Mechanism|Targets|Mnemonic|Medication|
 |-|-|-|-|
@@ -875,7 +875,7 @@
 |↓ Peptidoglycan crosslinking|Penicillin binding protein|Medical|Monobactams|
 |↓ Peptidoglycan synthesis|Peptidoglycan|Group|Glycopeptides|
 
-### Protein Inhibitors [AT-LCMC]
+### Protein Inhibitors {AT-LCMC}
 
 |Mechanism|Targets|Mnemonic|Medication|
 |-|-|-|-|
@@ -1019,7 +1019,7 @@
 |Spirochete|Penicillin & Tetracyclines|
 |Bacteroides fragilis|Carbapenems & Metronidazole|
 
-## Triple Therapy for Helicobacter Pylori [CAP]
+## Triple Therapy for Helicobacter Pylori {CAP}
 
 - Clazithromycin
 - Amoxicillin / Metronidazole

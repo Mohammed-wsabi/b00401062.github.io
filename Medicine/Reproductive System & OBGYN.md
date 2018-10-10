@@ -120,7 +120,7 @@
 - Elevated liver enzymes
 - Low platelet count
 
-## Etiologies of Abnormal Uterine Bleeding (AUB) [PALM-COEIN]
+## Etiologies of Abnormal Uterine Bleeding (AUB) {PALM-COEIN}
 
 - Pregnancy
 - Polyps
@@ -233,7 +233,7 @@
 |3|Anal sphincter|
 |4|Rectal mucosa|
 
-## Etiologies of Postpartum Hemorrhage (PPH) [CARPIT]
+## Etiologies of Postpartum Hemorrhage (PPH) {CARPIT}
 
 - Coagulopathy
 - Atonic uterus
@@ -270,7 +270,7 @@
 |Asherman syndrome|-|-|-|-|
 |Outflow tract obstruction|-|-|-|-|
 
-## Presentations of Menopause [HAVOCS]
+## Presentations of Menopause {HAVOCS}
 
 - Hot flashes
 - Atrophy of the vagina
@@ -360,7 +360,7 @@
 |NO donors|Glyceryl trinitrate|Tocolysis|
 |Oxytocin antagonists|Atosiban|Tocolysis|
 
-## Managements for Late Decelerations [STOP]
+## Managements for Late Decelerations {STOP}
 
 - Sterile vaginal exam
 - Tocolysis

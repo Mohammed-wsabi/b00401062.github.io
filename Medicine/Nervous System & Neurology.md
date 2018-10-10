@@ -238,7 +238,7 @@
 
 ## Innervations of Sympathetic & Parasympathetic Systems
 
-### Sympathetic [ABSDE]
+### Sympathetic {ABSDE}
 
 - Adrenal gland
 - Blood vessels
@@ -246,7 +246,7 @@
 - Dilator muscle of pupil
 - Ejaculation
 
-### Parasympathetic [CES]
+### Parasympathetic {CES}
 
 - Ciliary muscle
 - Erection
@@ -265,7 +265,7 @@
 |Non-receptor tyrosine kinase (NRTK): JAK/STAT pathway|-|
 |Steroid receptor|-|
 
-## Neurotransmitters & Breakdown Products [AND-SHE-GGGO]
+## Neurotransmitters & Breakdown Products {AND-SHE-GGGO}
 
 |Neurotransmitter|Precursor|Breakdown Products|
 |-|-|-|
@@ -292,7 +292,7 @@
 
 ![](../Figures/Craniosynostosis.jpg)
 
-## Presentations of Horner Syndrome [MAP]
+## Presentations of Horner Syndrome {MAP}
 
 - Miosis
 - Anhidrosis
@@ -383,7 +383,7 @@
 |Ulnar nerve :: distal|Ulnar claw|
 |Radial nerve|Wrist drop & Saturday night palsy|
 
-## Charcot Triad of Multiple Sclerosis [SIN]
+## Charcot Triad of Multiple Sclerosis {SIN}
 
 - Scanning speech
 - Intention tremor & Incontinence & Internuclear ophthalmoplegia
@@ -399,7 +399,7 @@
 - Neurofibromas
 - Optic nerve glioma
 
-## Presentations of Tuberous Sclerosis [HAMARTOMAS]
+## Presentations of Tuberous Sclerosis {HAMARTOMAS}
 
 - Hamartoma
 - Angiofibroma
@@ -412,7 +412,7 @@
 - Angiomyolipoma of kidney
 - Seizure & Shagreen patch
 
-## Presentations of Sturge-Weber Syndrome [STURGE-L]
+## Presentations of Sturge-Weber Syndrome {STURGE-L}
 
 - Sporadic
 - Stain :: nevus flammeus
@@ -430,7 +430,7 @@
 - Renal cell carcinoma (RCC)
 - Pheochromocytoma
 
-## Presentations of Parkinson Disease [TRAPS]
+## Presentations of Parkinson Disease {TRAPS}
 
 - Tremor :: resting & pill-rolling
 - Rigidity :: cogwheel

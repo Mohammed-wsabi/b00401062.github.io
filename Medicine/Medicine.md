@@ -1,6 +1,6 @@
 # Medicine
 
-## Differential Diagnosis [VINDICATE]
+## Differential Diagnosis {VINDICATE}
 
 - Vascular
 - Infection & Inflammation
@@ -92,7 +92,7 @@
 |3|6 mm|1 ~ 2 minutes|
 |4|8 mm|≥ 2 minutes|
 
-## Levels of Consciousness [ALOSC]
+## Levels of Consciousness {ALOSC}
 
 - Alert
 - Lethargic
@@ -153,7 +153,7 @@
 |Extension to pain|2|
 |Absent|1|
 
-## Activities of Daily Living (ADL) [DEATH]
+## Activities of Daily Living (ADL) {DEATH}
 
 - Dressing
 - Eating
@@ -190,7 +190,7 @@
 |||Sigmoidoscopy with barium enema|Every 5 years|
 |||Fecal occult blood testing|Every year|
 
-## Primary Survey for Emergency Medicine [ABCDE]
+## Primary Survey for Emergency Medicine {ABCDE}
 
 - Airway
 - Breathing
@@ -198,7 +198,7 @@
 - Disability
 - Exposure
 
-## Lethal Triad [CAH]
+## Lethal Triad {CAH}
 
 - Coagulopathy
 - Acidosis
@@ -262,7 +262,7 @@
 - Pneumothorax
 - Equipment failure
 
-## Etiologies of Acute Altered Mental Status [AEIOU-TIPS]
+## Etiologies of Acute Altered Mental Status {AEIOU-TIPS}
 
 - Acidosis & Alcohol
 - Electrolyte disturbances & Epilepsy
@@ -285,7 +285,7 @@
 
 ## Metabolic Acidosis
 
-### High Anion Gap [MUDIPLES]
+### High Anion Gap {MUDIPLES}
 
 - Methanol
 - Uremia
@@ -296,7 +296,7 @@
 - Ethanol & Ethylene glycol
 - Salicylate
 
-### Normal Anion Gap [HARD-ASS]
+### Normal Anion Gap {HARD-ASS}
 
 - Hyperalimentation
 - Addison disease
@@ -359,7 +359,7 @@
 - Plasma osmolality :: hypertonic
 	- **Hyperglycemia**
 
-## Etiologies of Hypercalcemia [CHIMPANZEES]
+## Etiologies of Hypercalcemia {CHIMPANZEES}
 
 - Calcium supplementation
 - Hyperparathyroidism / Hyperthyroidism

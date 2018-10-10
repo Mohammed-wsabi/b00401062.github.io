@@ -48,7 +48,7 @@
 |Epinephrine: β > α<sub>1</sub>|↑ (1°)|-|↑|
 |Isoproterenol: β|↑ (1°)|↓ (1°)|-|
 
-## Stroke Volume is Influenced by [CAP]
+## Stroke Volume is Influenced by {CAP}
 
 - Contractility
 - Afterload
@@ -94,7 +94,7 @@
 |Transudate|Hydrostatic pressure|+|
 ||Oncotic pressure|+|
 
-## Virchow Triad [SHE]
+## Virchow Triad {SHE}
 
 - Stasis of blood flow
 - Hypercoagulability
@@ -159,7 +159,7 @@
 |Eisenmenger syndrome of VSD|-|Non-differential|
 |Eisenmenger syndrome of PDA|-|Differential|
 
-## Tetralogy of Fallot (TOF) [PROV]
+## Tetralogy of Fallot (TOF) {PROV}
 
 - Pulmonary stenosis
 - RV hypertrophy
@@ -185,7 +185,7 @@
 |Dysfunction|Systolic|Diastolic|
 |Causes|ACS & DCMP|HCMP & RCMP|
 
-## Etiologies of Dilated Cardiomyopathy (DCMP) [ABCD]
+## Etiologies of Dilated Cardiomyopathy (DCMP) {ABCD}
 
 - Alcohol
 - Beriberi & Vitamin B1 deficiency
@@ -195,7 +195,7 @@
 - Doxorubicin
 - Duchenne muscular dystrophy
 
-## Causes of Arrhythmia [HIS-BEDS]
+## Causes of Arrhythmia {HIS-BEDS}
 
 - Hypoxia
 - Ischemia & Irritability
@@ -318,7 +318,7 @@
 - Jugular vein distension (JVD) & Kussmaul sign
 - Distant heart sound
 
-## Presentations of Bacterial Endocarditis [FROM-JANE]
+## Presentations of Bacterial Endocarditis {FROM-JANE}
 
 - Fever
 - Roth spots
@@ -333,7 +333,7 @@
 
 ![](../Figures/Vasculitis.png)
 
-## Presentations of Kawasaki Disease [SCARE]
+## Presentations of Kawasaki Disease {SCARE}
 
 - Strawberry tongue
 - Conjunctivitis
@@ -341,7 +341,7 @@
 - Rashes :: desquamating
 - Edema of limbs
 
-## CHADS2 Score for Atrial Fibrillation Stroke Risk [CHADS]
+## CHADS2 Score for Atrial Fibrillation Stroke Risk {CHADS}
 
 - CHF
 - Hypertension history
@@ -370,7 +370,7 @@
 
 ## Combination of Medications for Cardiovascular Diseases
 
-### Acute coronary syndrome (ACS) [MONA]
+### Acute coronary syndrome (ACS) {MONA}
 
 |Mechanism|Medication|
 |-|-|
@@ -381,7 +381,7 @@
 ||NO donors|
 |-|Oxygen|
 
-### Heart failure (HF) :: Decompensated [LMNOP]
+### Heart failure (HF) :: Decompensated {LMNOP}
 
 |Mechanism|Medication|
 |-|-|
@@ -391,7 +391,7 @@
 |-|Oxygen|
 |-|Position|
 
-### Heart failure (HF) :: Compensated [ABDV]
+### Heart failure (HF) :: Compensated {ABDV}
 
 |Mechanism|Medication|
 |-|-|
@@ -402,7 +402,7 @@
 |Diuretics|Spironolactone|
 |Vasodilators|NO donors|
 
-### Hypertension [ABDV]
+### Hypertension {ABDV}
 
 |Mechanism|Medication|
 |-|-|
