@@ -298,9 +298,9 @@
 |Stroma|Fibroadenoma|-|
 ||Phyllodes tumor|-|
 
-## Germ Cell & Non-germ Cell Tumors
+## Reproductive Tumors
 
-### Germ Cell Tumors
+### Germ Cell Tumors (GCT)
 
 |Female|Male|Markers|
 |-|-|-|
@@ -310,12 +310,20 @@
 |Choriocarcinoma|Choriocarcinoma|hCG|
 |Endodermal sinus tumor (EST)|Endodermal sinus tumor (EST)|AFP|
 
-### Non-germ Cell Tumors
+### Stromal Tumors
 
 |Female|Male|Markers|
 |-|-|-|
 |Theca cell tumor [Thecoma]|Leydig cell tumor|-|
 |Granulosa cell tumor|Sertoli cell tumor|-|
+
+### Epithelial Tumors
+
+- Serous
+- Mucinous
+- Endometrioid
+- Clear cell
+- Transitional cell [Brenner]
 
 ## Hydatidiform Moles
 
