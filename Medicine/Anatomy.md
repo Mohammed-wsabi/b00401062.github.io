@@ -456,7 +456,7 @@
 |-|-|-|
 |Superior gluteal nerve|Superior gluteal vessels|-|
 
-### Greater Sciatic Foramen :: Infrapiriform foramen
+### Greater Sciatic Foramen :: Infrapiriform Foramen
 
 |Nerves|Vessels|Muscles|
 |-|-|-|
