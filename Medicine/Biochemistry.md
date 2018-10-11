@@ -560,16 +560,16 @@
 |RNA polymerase II|mRNA synthesis|
 |RNA polymerase III|tRNA synthesis|
 
-## DNA Damage & Repair
+## DNA Repair
 
-|Mechanism|Damage|Diseases|
-|-|-|-|
-|BER|Deamination|-|
-||Single-stranded break|-|
-|NER|Pyrimidine dimer|Xeroderma pigmentosum|
-|MMR|Mismatch|Lynch syndrome (HNPCC)|
-|NHEJ & HR|Double-stranded break|Ataxia telangiectasia|
-||Interstrand crosslinking|Fanconi anemia|
+|Mechanism|Gene|Damage|Diseases|
+|-|-|-|-|
+|Base excision repair (BER)|-|Deamination|-|
+||-|Single-stranded break|-|
+|Nucleotide excision repair (NER)|ERCC|Pyrimidine dimer|Xeroderma pigmentosum|
+|Mismatch repair (MMR)|MLH1 & MSH2|Mismatch|Lynch syndrome [HNPCC]|
+|Non-homologous end joining (NHEJ) & Homologous recombination (HR)|ATM|Double-stranded break|Ataxia telangiectasia|
+||FANC|Interstrand crosslinking|Fanconi anemia|
 
 ## Specific Transcription Factors
 
