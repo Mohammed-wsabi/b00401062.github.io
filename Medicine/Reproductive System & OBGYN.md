@@ -50,10 +50,10 @@
 
 ## Estrogens in Females
 
-|Hormone|Precursor|Precursor site|Enzyme|Enzyme site|During|
+|Hormone|Precursor|Precursor Site|Enzyme|Enzyme Site|During|
 |-|-|-|-|-|-|
-|Estrone|Androstenedione|Adrenal gland|Aromatase|Adipose cell|Menopause|
-|Estradiol|Testosterone|Theca cell|Aromatase|Granulosa cell|Non-pregnancy|
+|Estrone|Androstenedione|Adrenal gland|Aromatase|Adipose cells|Menopause|
+|Estradiol|Testosterone|Theca cells|Aromatase|Granulosa cells|Non-pregnancy|
 |Estriol|Dehydroepiandrosterone-sulfate (DHEAS)|Fetal adrenal gland|Sulfatase|Placenta|Pregnancy|
 
 ## Hormone Change During Pregnancy
@@ -173,7 +173,7 @@
 
 ## Stages of Labor
 
-|Stage|Mom & Fetus|Duration in primipara|Duration in multipara|
+|Stage|Mom & Fetus|Primipara|Multipara|
 |-|-|-|-|
 |Stage 1 :: latent phase|Effacement & Dilation: 0 → 6 cm<br>Engagement & Descent: high → 0|< 20 hours|< 14 hours|
 |Stage 1 :: active phase|Dilation: 6 → 10 cm<br>Descent: 0 → +2|> 0.7 cm/h|> 1 cm/h|
