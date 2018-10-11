@@ -568,7 +568,7 @@
 ||-|Single-stranded break|-|
 |Nucleotide excision repair (NER)|ERCC|Pyrimidine dimer|Xeroderma pigmentosum|
 |Mismatch repair (MMR)|MLH1 & MSH2|Mismatch|Lynch syndrome [HNPCC]|
-|Non-homologous end joining (NHEJ)<br>Homologous recombination (HR)|ATM|Double-stranded break|Ataxia telangiectasia|
+|Homologous recombination (HR)<br>Non-homologous end joining (NHEJ)|ATM|Double-stranded break|Ataxia telangiectasia|
 ||FANC|Interstrand crosslinking|Fanconi anemia|
 
 ## Specific Transcription Factors
