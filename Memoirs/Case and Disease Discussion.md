@@ -13,8 +13,8 @@
 - [Chief Complaint (CC)](#chief-complaint-cc)
 - [History of Present Illness (HPI)](#history-of-present-illness-hpi)
 - [Review of Systems (ROS)](#review-of-systems-ros)
-- [Gynecologic History](#gynecologic-history)
 - [Obstetric History](#obstetric-history)
+- [Gynecologic History](#gynecologic-history)
 - [Birth History](#birth-history)
 - [Past History (PH)](#past-history-ph)
 - [Social and Sexual History (SH)](#social-and-sexual-history-sh)
@@ -76,6 +76,17 @@
 
 ---
 
+### Obstetric History
+
+- Gravidity:
+- Parity:
+- Abortions:
+- Complications:
+- Ultrasound:
+- Prenatal screening:
+
+---
+
 ### Gynecologic History
 
 - LMP:
@@ -87,18 +98,6 @@
 	- Amount:
 - Mammography:
 - Pap smear:
-
----
-
-### Obstetric History
-
-- Gravidity:
-- Parity:
-- Artificial abortions:
-- Spontaneous abortions:
-- Complications:
-- Ultrasound:
-- Prenatal screening:
 
 ---
 
