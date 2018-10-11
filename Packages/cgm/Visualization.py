@@ -8,8 +8,7 @@ class Visualization:
 		self.table = read_table(self.infile, index_col = 0, skiprows = [1])
 	def plot(self):
 		from matplotlib.pyplot import plot, yscale, ylabel, savefig, show
-		for i in range(self.table.shape[0]):
-			plot(self.table.iloc[i])
+		self.table.apply(plot, axis = 1)
 		ylabel("log(#Sequences)")
 		yscale("log")
 		savefig(self.outfile)
