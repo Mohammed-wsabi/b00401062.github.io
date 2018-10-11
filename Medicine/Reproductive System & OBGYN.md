@@ -319,11 +319,13 @@
 
 ### Epithelial Tumors
 
-- Serous
-- Mucinous
-- Endometrioid
-- Clear cell
-- Transitional cell [Brenner]
+- Serous carcinoma
+- Mucinous carcinoma
+- Endometrioid carcinoma
+- Clear cell carcinoma
+- Mixed cell carcinoma
+- Transitional cell carcinoma [Brenner tumor] 
+- Carcinosarcoma [Malignant mixed müllerian tumor (MMMT)]
 
 ## Hydatidiform Moles
 
