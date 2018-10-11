@@ -68,6 +68,14 @@
 
 ![](../Figures/Hormone%20Change%20During%20Pregnancy.png)
 
+## Indicators of Ovarian Reserve
+
+|Indicator|Normal|
+|-|-|
+|FSH :: follicular phase|2 ~ 8|
+|Anti-Mullerian hormone (AMH)|1 ~ 5|
+|Antral follicle count (AFC)|5 ~ 10|
+
 ## Differential Diagnoses for Size/Date Discrepancy
 
 - Uncertain LMP
@@ -79,13 +87,31 @@
 - Distended bladder
 - Adnexal mass
 
-## Indicators of Ovarian Reserve
+## Prenatal Care
 
-|Indicator|Normal|
-|-|-|
-|FSH :: follicular phase|2 ~ 8|
-|Anti-Mullerian hormone (AMH)|1 ~ 5|
-|Antral follicle count (AFC)|5 ~ 10|
+### First Trimester
+
+- Dating
+- Ultrasonagraphy for HR & EBW & Anatomy
+- Blood pressure & Urinalysis
+- Blood type and crossmatch
+- Infection panel for TORCH & HIV & HBV
+- Blood testing for Down Syndrome
+- Genetic screening for Carrier screening
+- Chorionic villus sampling if indicated
+
+### Second Trimester
+
+- Ultrasonagraphy for HR & EBW & Anatomy
+- Blood pressure & Urinalysis
+- Blood glucose: 100-g 3-hour OGTT
+- Amniocentesis if indicated
+
+### Third Trimester
+
+- Ultrasonagraphy for HR & EBW & Presentation
+- Blood pressure & Urinalysis
+- Group B Streptococcus (GBS)
 
 ## Fetal Biometric Parameters on Ultrasound
 
@@ -119,19 +145,6 @@
 - Hemolysis :: intravascular
 - Elevated liver enzymes
 - Low platelet count
-
-## Etiologies of Abnormal Uterine Bleeding (AUB) {PALM-COEIN}
-
-- Pregnancy
-- Polyps
-- Adenomyosis
-- Leiomyoma
-- Malignancy
-- Coagulopathy
-- Ovulation :: PCOS
-- Endometrium
-- Iatrogenic
-- Not yet classified
 
 ## Indications of Intrapartum Prophylaxis Against GBS
 
@@ -241,6 +254,19 @@
 - Plancental retention
 - Implantation site bleeding
 - Trauma to the GU tract
+
+## Etiologies of Abnormal Uterine Bleeding (AUB) {PALM-COEIN}
+
+- Pregnancy
+- Polyps
+- Adenomyosis
+- Leiomyoma
+- Malignancy
+- Coagulopathy
+- Ovulation :: PCOS
+- Endometrium
+- Iatrogenic
+- Not yet classified
 
 ## Etiologies of Primary Amenorrhea
 
