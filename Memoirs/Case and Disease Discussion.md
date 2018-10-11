@@ -78,12 +78,10 @@
 
 ### Obstetric History
 
-- Gravidity:
-- Parity:
-- Abortions:
+- Gestational age (GA):
+- Gravidity & Parity & Abortions (GPA):
 - Complications:
-- Ultrasound:
-- Prenatal screening:
+- Prenatal care:
 
 ---
 
@@ -92,7 +90,7 @@
 - LMP:
 - Menarche:
 - Menopause:
-- Menstrual periods:
+- Menstrual cycle:
 	- Frequency:
 	- Duration:
 	- Amount:
