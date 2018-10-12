@@ -43,7 +43,7 @@
 |-|-|-|
 |Androstenedione|Adrenal gland|Adrenal gland|
 |Testosterone ← LH|Theca cells|Leydig cells|
-|Estradiol & Inhibin ← FSH|Granulosa cells|Sertoli cells|
+|Estradiol & Inhibin & AMH ← FSH|Granulosa cells|Sertoli cells|
 |Progesterone ← LH|Luteal cells|-|
 |Dihydrotestosterone (DHT)|-|Peripheral cells|
 |Estrone|Adipose cells|Adipose cells|
