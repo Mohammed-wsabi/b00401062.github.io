@@ -246,14 +246,16 @@
 |3|Anal sphincter|
 |4|Rectal mucosa|
 
-## Etiologies of Postpartum Hemorrhage (PPH) {CARPIT}
+## Etiologies of Postpartum Hemorrhage (PPH) {4T} {CARPIT}
 
-- Coagulopathy
-- Atonic uterus
-- Ruptured uterus
-- Plancental retention
-- Implantation site bleeding
-- Trauma to the GU tract
+|Mnemonic|Etiology|
+|-|-|
+|Thrombin|Coagulopathy|
+|Tone|Atonic uterus|
+|-|Ruptured uterus|
+|Tissue|Plancental retention|
+|-|Implantation site bleeding|
+|Trauma|Trauma to the GU tract|
 
 ## Etiologies of Abnormal Uterine Bleeding (AUB) {PALM-COEIN}
 
