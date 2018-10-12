@@ -133,7 +133,8 @@
 - BP > 160/110 mmHg
 - Epigastric pain
 - Liver enzymes ↑
-- Proteinuria :: Urine protein > 5.0 g/d
+- Proteinuria :: urine protein > 5.0 g/d
+- Creatinine > 1.1 mg/dL
 - Edema
 - Headache
 - Visual disturbances
