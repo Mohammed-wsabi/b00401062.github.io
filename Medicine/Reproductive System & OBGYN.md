@@ -97,7 +97,7 @@
 - Blood type and crossmatch
 - Infection panel for TORCH & HIV & HBV
 - Blood testing for Down Syndrome
-- Genetic screening for Carrier screening
+- Genetic screening for carrier screening
 - Chorionic villus sampling if indicated
 
 ### Second Trimester
