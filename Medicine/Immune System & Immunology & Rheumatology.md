@@ -283,7 +283,7 @@
 - Urethritis
 - Conjunctivitis
 
-## SLICC Diagnostic Criteria of SLE {MD-SOAP-BRAIN}
+## SLICC Diagnostic Criteria for SLE {MD-SOAP-BRAIN}
 
 - Malar rash
 - Discoid rash
