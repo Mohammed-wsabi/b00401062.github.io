@@ -321,7 +321,7 @@
 ## Diagnostic Criteria for Antiphospholipid Syndrome
 
 - Clinical criteria ≥ 1
- 	- Vascular thrombosis
+	- Vascular thrombosis
 	- Pregnancy morbidity
 		- Unexplained fetal death > 10 weeks of gestation
 		- Premature births of due to eclampsia / placental insufficiency
