@@ -247,6 +247,17 @@
 |3|Anal sphincter|
 |4|Rectal mucosa|
 
+## Indications for Cesarean Delivery
+
+- Cephalopelvic disproportion
+- Non-reassuring fetal status
+- Malpresentation
+- Cord prolapse
+- Abnormal placentation :: placenta previa / vasa previa / placenta accreta
+- Uterine rupture
+- Prior uterine surgery
+- Mechanical obstruction to vaginal birth
+
 ## Etiologies of Postpartum Hemorrhage (PPH) {4T} {CARPIT}
 
 |Mnemonic|Etiology|
