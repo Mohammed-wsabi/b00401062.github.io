@@ -318,6 +318,19 @@
 - Gower sign
 - Proximal muscle weakness
 
+## Diagnostic Criteria for Antiphospholipid Syndrome
+
+- Clinical criteria ≥ 1
+ 	- Vascular thrombosis
+	- Pregnancy morbidity
+		- Unexplained fetal death > 10 weeks of gestation
+		- Premature births of due to eclampsia / placental insufficiency
+		- Three unexplained consecutive spontaneous abortions < 10 weeks of gestation
+- Laboratory criteria ≥ 1
+	- Lupus anticoagulant at least twice > 12 weeks apart
+	- Anti-cardiolipin at least twice > 12 weeks apart
+	- Anti-β<sub>2</sub> glycoprotein at least twice > 12 weeks apart
+
 ## Presentations of Adult-onset Still's Disease
 
 - Arthralgia
