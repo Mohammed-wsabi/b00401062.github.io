@@ -616,12 +616,12 @@
 - Corticosteroid
 - Heparin
 
-## Medications Causing Photosensitivity
+## Medications Causing Photosensitivity {FAST}
 
-- Sulfonamide
-- Amiodarone
-- Tetracycline
 - Flucytosine
+- Amiodarone
+- Sulfonamide
+- Tetracycline
 
 ## Medications Causing SLE-like Syndrome {HIPPIES}
 
