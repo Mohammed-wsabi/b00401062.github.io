@@ -73,7 +73,7 @@
 ### Functional Programming
 
 - FP is characterized by first-class functions, strong type systems, polymorphic types, algebraic types, and modularity.
-	- **First-class functions**: Functions may be passed as arguments to and re- turned as results of other functions.
+	- **First-class functions**: Functions may be passed as arguments to and returned as results of other functions.
 	- **Algebraic types**: Algebraic types generalizes enumerated types, (variant) records, certain sorts of pointer type definitions, and also permits type definitions to be parametrized over types.
 
 ---
@@ -97,8 +97,7 @@
 - **Head normal form**: All expressions of the form $`λx_1...λx_n.ye_1...e_m`$ where $`x`$ and $`y`$ are variables and $`e`$ are expressions.
 - **Weak head normal form**: All expressions which are either abstractions or of the form $`ye_1...e_m`$.
 - A normal form can be thought of as the result of a computation.
-- Not every functional expression has a head normal form.
-- There are expressions whose evaluation fails to terminate: no sequence of reductions ends in a week head normal form.
+- Evaluation of an expression fails to terminate if no sequence of reductions ends in a weak head normal form.
 - **Church-Rosser Theorem**: For all expressions $`e`$, $`f`$, and $`g`$, if $`e\twoheadrightarrow f`$ and $`e\twoheadrightarrow g`$, then there exists an expression $`h`$ such that $`f\twoheadrightarrow h`$ and $`g\twoheadrightarrow h`$.
 - The method of **structural induction**: To prove the result $`P(x)`$ for all λ-expressions $`e`$, it is sufficient to prove
 	- $`\forall{x}.P(x)`$ holds.
@@ -106,6 +105,14 @@
 	- If $`P(e)`$ holds, then $`P(λx.e)`$ holds.
 - **Theorem**: If a term has a normal form, then it is unique.
 - If an expression contains more than one redex, then we say that the **leftmost outermost** redex is that found by searching the parse tree top-down, going down the left hand subtree of a non-redex application before the right.
+- **Normalization Theorem**: The reduction sequence formed by choosing for reduction at each stage the leftmost-outermost redex will result in a normal form, head normal form or weak head normal form if any exists.
+- **Lazy** evaluation mechanism:
+	- Corresponds to the strategy of choosing the leftmost-outermost redex at each stage.
+	- Avoids duplication of evaluation caused by duplication of redexes.
+- The strict or applicative order discipline will not always lead to termination, even when it is possible.
+- **η-reduction**: For all $`x`$ and $`e`$, if $`x`$ is not free in $`e`$, then we can perform the reduction $`λx.(ex)\rightarrow_{η}e`$.
+- It is not clear that η-reduction is strictly a rule of computation.
+- The η-reduction rule identifies certain (terms for) functions which have the same behavior, yet which are represented in different ways.
 
 ---
 
