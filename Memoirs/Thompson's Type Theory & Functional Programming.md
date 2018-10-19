@@ -66,6 +66,7 @@
 
 - [Functional Programming](#functional-programming)
 - [The Untyped λ-Calculus](#the-untyped–λ-calculus)
+- [Evaluation](#evaluation)
 
 ---
 
