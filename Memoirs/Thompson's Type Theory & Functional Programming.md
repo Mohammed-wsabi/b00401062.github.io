@@ -97,7 +97,15 @@
 - **Head normal form**: All expressions of the form $`λx_1...λx_n.ye_1...e_m`$ where $`x`$ and $`y`$ are variables and $`e`$ are expressions.
 - **Weak head normal form**: All expressions which are either abstractions or of the form $`ye_1...e_m`$.
 - A normal form can be thought of as the result of a computation.
+- Not every functional expression has a head normal form.
 - There are expressions whose evaluation fails to terminate: no sequence of reductions ends in a week head normal form.
+- **Church-Rosser Theorem**: For all expressions $`e`$, $`f`$, and $`g`$, if $`e\twoheadrightarrow f`$ and $`e\twoheadrightarrow g`$, then there exists an expression $`h`$ such that $`f\twoheadrightarrow h`$ and $`g\twoheadrightarrow h`$.
+- The method of **structural induction**: To prove the result $`P(x)`$ for all λ-expressions $`e`$, it is sufficient to prove
+	- $`\forall{x}.P(x)`$ holds.
+	- If $`P(e_1)`$ and $`P(e_2)`$ hold, then $`P(e_1e_2)`$ holds.
+	- If $`P(e)`$ holds, then $`P(λx.e)`$ holds.
+- **Theorem**: If a term has a normal form, then it is unique.
+- If an expression contains more than one redex, then we say that the **leftmost outermost** redex is that found by searching the parse tree top-down, going down the left hand subtree of a non-redex application before the right.
 
 ---
 
