@@ -67,6 +67,9 @@
 - [Functional Programming](#functional-programming)
 - [The Untyped λ-Calculus](#the-untyped–λ-calculus)
 - [Evaluation](#evaluation)
+- [Convertibility](#convertibility)
+- [Expressiveness](#expressiveness)
+- [Typed λ-Calculus](#typed-λ-calculus)
 
 ---
 
@@ -115,6 +118,28 @@
 - The η-reduction rule identifies certain (terms for) functions which have the same behavior, yet which are represented in different ways.
 
 ---
+
+### Convertibility
+
+- **Convertibility** relations: equivalence relations which are also substitutive.
+- **Definition**: $`e\leftrightarrow f`$ if and only if there is a sequence $`e_0,...,e_n`$ such that $`e\equiv e_0`$, $`e_n\equiv f`$ and for each $`i<n`$, $`e_i\twoheadrightarrow e_{i+1}`$ or $`e_{i+1}\twoheadrightarrow e_i`$.
+- $`\leftrightarrow`$ is the smallest equivalence relation extending $`\twoheadrightarrow`$.
+- As a consequence of the Church-Rosser theorems, two expressions $`e`$ and $`f`$ will be (βη-)convertible if and only if there exists a common (βη-)reduct of $`e`$ and $`f`$.
+- Two functions with normal forms are convertible if and only if they have the *same* normal form.
+- The convertibility relations are not necessary to explain the computational behavior of λ-expressions.
+
+---
+
+### Expressiveness
+
+- The untyped λ-calculus is Turing-complete.
+- Objects such as the natural numbers, booleans and so forth can be represented as λ-terms.
+- To derive recursive functions, we need to be able to solve equations of the form $`f:=Rf`$ where $`R`$ is a λ-terms.
+- **Fixed-point combinators** ($`F`$) solve the equation $`f:=Rf`$. Thus, $`FR\twoheadrightarrow R(FR)`$.
+
+---
+
+### Typed λ-Calculus
 
 ## Constructive Mathematics
 
