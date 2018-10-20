@@ -101,9 +101,10 @@
 
 ### Evaluation
 
-- **Normal form**: An expression is in normal form if it contains no redexes.
-- **Head normal form**: All expressions of the form $`λx_1...λx_n.ye_1...e_m`$ where $`x`$ and $`y`$ are variables and $`e`$ are expressions.
-- **Weak head normal form**: All expressions which are either abstractions or of the form $`ye_1...e_m`$.
+- Normal form variants:
+	- **Normal form**: An expression is in normal form if it contains no redexes.
+	- **Head normal form**: All expressions of the form $`λx_1...λx_n.ye_1...e_m`$ where $`x`$ and $`y`$ are variables and $`e`$ are expressions.
+	- **Weak head normal form**: All expressions which are either abstractions or of the form $`ye_1...e_m`$.
 - A normal form can be thought of as the result of a computation.
 - Evaluation of an expression fails to terminate if no sequence of reductions ends in a weak head normal form.
 - **Church-Rosser Theorem**: For all expressions $`e`$, $`f`$, and $`g`$, if $`e\twoheadrightarrow f`$ and $`e\twoheadrightarrow g`$, then there exists an expression $`h`$ such that $`f\twoheadrightarrow h`$ and $`g\twoheadrightarrow h`$.
@@ -145,6 +146,10 @@
 ---
 
 ### Typed λ-Calculus
+
+- The untyped λ-calculus is characterized by
+	- Powerful representatives of all the common base types and their combinations under standard type-forming operations.
+	- The presence of non-termination since not every term has even a weak head normal form.
 
 ---
 
