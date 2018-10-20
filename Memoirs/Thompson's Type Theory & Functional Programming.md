@@ -70,6 +70,11 @@
 - [Convertibility](#convertibility)
 - [Expressiveness](#expressiveness)
 - [Typed λ-Calculus](#typed-λ-calculus)
+- [Strong Normalization](#strong-normalization)
+- [Further Type Constructors: The Product](#further-type-constructors-the-product)
+- [Base Types: Natural Numbers](#base-types-natural-numbers)
+- [General Recursion](#general-recursion)
+- [Evaluation Revisited](#evaluation-revisited)
 
 ---
 
@@ -140,6 +145,28 @@
 ---
 
 ### Typed λ-Calculus
+
+---
+
+### Strong Normalization
+
+---
+
+### Further Type Constructors: The Product
+
+---
+
+### Base Types: Natural Numbers
+
+---
+
+### General Recursion
+
+---
+
+### Evaluation Revisited
+
+---
 
 ## Constructive Mathematics
 
