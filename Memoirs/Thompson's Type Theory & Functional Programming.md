@@ -166,6 +166,21 @@
 
 ### Strong Normalization
 
+- **Reducibility** method involves an induction over the complexity of the types, rather than over syntactic complexity.
+- **Strong Normalization Theorem**: For all expressions $`e`$ of the simply typed λ-calculus, all reduction sequences beginning with $`e`$ are finite.
+- The method of **induction over types** states that prove the result $`P(τ)`$ for all types $`τ`$ it is sufficient to prove
+	- *Base step*: For all base types $`σ\in B`$, $`P(σ)`$ holds.
+	- *Induction step*: If $`P(σ)`$ and $`P(τ)`$ hold, then $`P(σ\Rightarrow τ)`$ holds.
+- An expression $`e`$ of type $`τ`$ is **stable** (denoted by $`e\in\|τ\|`$) if either
+	- $`e`$ is of base type and $`e`$ is strongly normalizing.
+	- $`e`$ is of type $`σ\Rightarrow τ`$ and for all $`e\in\|σ\|`$, $`(ee)\in\|τ\|`$.
+- Stability is defined for a function type in terms of stability for its domain and range types.
+- **Lemma**: If $`x`$ is a variable, then
+	- $`x\in\text{SN}`$.
+	- If $`e_1,...,e_k\in\text{SN}`$, then $`xe_1...e_k\in\text{SN}`$.
+	- If $`ex\in\text{SN}`$, then $`e\in\text{SN}`$.
+	- If $`e\in\text{SN}`$, then $`(λx.e)\in\text{SN}`$.
+
 ---
 
 ### Further Type Constructors: The Product
