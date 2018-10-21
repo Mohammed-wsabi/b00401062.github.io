@@ -174,7 +174,7 @@
 - An expression $`e`$ of type $`τ`$ is **stable** (denoted by $`e\in\|τ\|`$) if either
 	- $`e`$ is of base type and $`e`$ is strongly normalizing.
 	- $`e`$ is of type $`σ\Rightarrow τ`$ and for all $`e\in\|σ\|`$, $`(ee)\in\|τ\|`$.
-- Stability is defined for a function type in terms of stability for its domain and range types.
+- Stability for a function type is defined in terms of stability for its domain and range types.
 - **Lemma**: If $`x`$ is a variable, then
 	- $`x\in\text{SN}`$.
 	- If $`e_1,...,e_k\in\text{SN}`$, then $`xe_1...e_k\in\text{SN}`$.
