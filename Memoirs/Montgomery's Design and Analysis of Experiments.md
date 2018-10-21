@@ -19,6 +19,8 @@
 - [Some Typical Applications of Experimental Design](#some-typical-applications-of-experimental-design)
 - [Basic Principles](#basic-principles)
 - [Guidelines for Designing Experiments](#guidelines-for-designing-experiments)
+- [A Brief History of Statistical Design](#a-brief-history-of-statistical-design)
+- [Summary: Using Statistical Techniques in Experimentation](#summary-using-statistical-techniques-in-experimentation)
 
 ---
 
@@ -81,8 +83,24 @@
 	- In *factor screening*, the range over which the factors are varied should be broad.
 	- The **cause-and-effect diagram (fishbone diagram)** is useful for organizing some of the information generated in pre-experimental planning.
 - Choice of experimental design
+	- Consideration of sample size (number of replicates).
+	- Selection of a suitable run order for the experimental trials.
+	- Determination of whether or not blocking or other randomization restrictions are involved.
+	- Selecting a tentative empirical model to describe the results.
 - Performing the experiment
+	- Prior to conducting the experiment a few trial runs (**pilot runs**) are often helpful.
 - Statistical analysis of the data
+	- Results and conclusions are objective rather than judgmental in nature.
+	- Cannot prove that a factor (or factors) has a particular effect but provide guidelines as to the reliability and validity of results.
 - Conclusions and recommendations
+	- Experimentation is *iterative* - formulate new hypotheses on the basis of the results.
+
+---
+
+### A Brief History of Statistical Design
+
+---
+
+### Summary: Using Statistical Techniques in Experimentation
 
 ---
