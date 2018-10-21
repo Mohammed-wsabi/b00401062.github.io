@@ -156,6 +156,11 @@
 	- **Variables** ($`x`$)
 	- **Applications**: If $`e_1:(σ\Rightarrow τ)`$ and $`e_2:σ`$, then $`(e_1e_2):τ`$.
 	- **Abstractions**: If $`x:σ`$ and $`e:τ`$, then $`(λx.e):(σ\Rightarrow τ)`$.
+- **Strong Normalization Theorem**: Every reduction sequence terminates.
+	- The system is less expressive than the untyped calculus.
+- **Type assumption (declaration)**: When a variable is used, it is associated with a type.
+- **Type context** (Γ): Types are assigned to expressions in the type context of a number of type assumption.
+- All contexts Γ are *consistent* in containing at most one occurrence of each variable.
 
 ---
 
