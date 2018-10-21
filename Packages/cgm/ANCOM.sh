@@ -10,11 +10,11 @@ qiime composition ancom \
 	--m-metadata-column Subject \
 	--o-visualization $DATASETS/visualization/composition-ancom-subject.qzv
 
-	qiime composition ancom \
-		--i-table $DATASETS/composition-add-pseudocount/comp-table.qza \
-		--m-metadata-file $DATASETS/metadata/metadata.tsv \
-		--m-metadata-column Tissue \
-		--o-visualization $DATASETS/visualization/composition-ancom-tissue.qzv
+qiime composition ancom \
+	--i-table $DATASETS/composition-add-pseudocount/comp-table.qza \
+	--m-metadata-file $DATASETS/metadata/metadata.tsv \
+	--m-metadata-column Tissue \
+	--o-visualization $DATASETS/visualization/composition-ancom-tissue.qzv
 
 for l in {1..7}
 do
