@@ -88,7 +88,8 @@
 
 ### The Untyped λ-Calculus
 
-- **λ-expression** ($`e`$) is made up of **variables** ($`x`$), **applications**, and **abstractions**.
+- **λ-expression** ($`e`$) is made up of *variables*, *applications*, and *abstractions*.
+	- **Variables** ($`x`$)
 	- **Applications** ($`e_1e_2`$): The application of expression $`e_1`$ to $`e_2`$.
 	- **Abstractions** ($`λx.e`$): The function which returns the value $`e`$ when given formal parameter $`x`$.
 - Backus-Naur form: $`e::=x|ee|λx.e`$.
@@ -150,6 +151,11 @@
 - The untyped λ-calculus is characterized by
 	- Powerful representatives of all the common base types and their combinations under standard type-forming operations.
 	- The presence of non-termination since not every term has even a weak head normal form.
+- Given a set $`B`$ of base types, we form the set $`S`$ of **simple types** closing under the rule of function type formation - If $`σ`$ and $`τ`$ are types, then so is $`(σ\Rightarrow τ)`$.
+- The expressions ($`e`$) of the typed λ-calculus have three forms:
+	- **Variables** ($`x`$)
+	- **Applications**: If $`e_1:(σ\Rightarrow τ)`$ and $`e_2:σ`$, then $`(e_1e_2):τ`$.
+	- **Abstractions**: If $`x:σ`$ and $`e:τ`$, then $`(λx.e):(σ\Rightarrow τ)`$.
 
 ---
 
