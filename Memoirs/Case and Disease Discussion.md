@@ -79,8 +79,7 @@
 ### Past History (PH)
 
 - Medical:
-- Surgery:
-- Treatments:
+- Surgical:
 - Allergies:
 
 ---
