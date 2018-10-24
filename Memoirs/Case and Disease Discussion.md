@@ -13,10 +13,10 @@
 - [Chief Complaint (CC)](#chief-complaint-cc)
 - [History of Present Illness (HPI)](#history-of-present-illness-hpi)
 - [Review of Systems (ROS)](#review-of-systems-ros)
+- [Past History (PH)](#past-history-ph)
+- [Pediatric History](#pediatric-history)
 - [Obstetric History](#obstetric-history)
 - [Gynecologic History](#gynecologic-history)
-- [Birth History](#birth-history)
-- [Past History (PH)](#past-history-ph)
 - [Social and Sexual History (SH)](#social-and-sexual-history-sh)
 - [Family History (FH)](#family-history-fh)
 - [Differential Diagnosis](#differential-diagnosis)
@@ -76,6 +76,27 @@
 
 ---
 
+### Past History (PH)
+
+- Medical:
+- Surgery:
+- Treatments:
+- Allergies:
+
+---
+
+### Pediatric History
+
+- Term:
+- Birth weight:
+- Delivery route:
+- Complications:
+- Diet:
+- Developmental milestones:
+- Immunizations:
+
+---
+
 ### Obstetric History
 
 - Gestational age (GA):
@@ -96,26 +117,6 @@
 	- Amount:
 - Mammography:
 - Pap smear:
-
----
-
-### Birth History
-
-- Term:
-- Birth weight:
-- Delivery route:
-- Complications:
-- Developmental milestones:
-- Vaccinations:
-
----
-
-### Past History (PH)
-
-- Medical:
-- Surgery:
-- Treatments:
-- Allergies:
 
 ---
 
