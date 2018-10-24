@@ -182,7 +182,7 @@
 ## Disease Discussion
 
 - [Epidemiology](#epidemiology)
-- [Pathogenesis](#pathogenesis)
+- [Etiologies](#etiologies)
 - [Risk Factors](#risk-factors)
 - [Presentation](#presentation)
 - [Differential Diagnosis](#differential-diagnosis-1)
