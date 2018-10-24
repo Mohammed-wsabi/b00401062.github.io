@@ -387,7 +387,7 @@
 |-|-|
 |GnRH antagonist [short] protocol|Leading follicle > 14 mm|
 |GnRH agonist flare protocol|Menstruation|
-|GnRH agonist [long] protocol|Last luteal phase|
+|GnRH agonist long protocol|Last luteal phase|
 
 ### Triggers for Ovulation
 
