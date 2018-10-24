@@ -181,19 +181,30 @@
 
 ## Disease Discussion
 
+- [Introduction](#introduction)
+- [Definition](#definition)
 - [Epidemiology](#epidemiology)
 - [Etiologies](#etiologies)
 - [Risk Factors](#risk-factors)
+- [Associations](#associations)
 - [Presentation](#presentation)
 - [Differential Diagnosis](#differential-diagnosis-1)
 - [Approach](#approach)
 - [Diagnosis](#diagnosis)
 - [Workup](#workup)
 - [Treatments](#treatments)
-- [Complications](#complications)
+- [Prognosis](#prognosis)
 - [Prevention](#prevention)
 - [Summary](#summary)
 - [References](#references)
+
+---
+
+### Introduction
+
+---
+
+### Definition
 
 ---
 
@@ -206,6 +217,10 @@
 ---
 
 ### Risk Factors
+
+---
+
+### Associations
 
 ---
 
@@ -233,7 +248,7 @@
 
 ---
 
-### Complications
+### Prognosis
 
 ---
 
