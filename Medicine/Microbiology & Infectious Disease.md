@@ -1121,4 +1121,4 @@
 ### Highly Active Antiretroviral Therapy (HAART) for HIV Infection
 
 - 2 NRTI
-- NNRTI/INSTI/PI
+- NNRTI / INSTI / PI
