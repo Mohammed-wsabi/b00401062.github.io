@@ -1086,8 +1086,8 @@
 
 |Mechanism|Target|Medication|Indications|
 |-|-|-|-|
-|↓ Attachment|GP120|Maraviroc|HIV|
-|↓ Penetration|GP41|Enfuvirtide|HIV|
+|↓ Attachment|Gp120|Maraviroc|HIV|
+|↓ Penetration|Gp41|Enfuvirtide|HIV|
 |↓ Uncoating|-|Amantadine|Influenza|
 ||-|Rimantadine|Influenza|
 |↓ Systhesis|Purine & DNA & Protein|-|-|
@@ -1095,7 +1095,7 @@
 |||Previrs|HCV|
 |↓ Release|Neuraminidase|Oseltamivir|Influenza|
 |||Zanamivir|Influenza|
-|↓ Purine synthesis|-|Ribavirin|RSV & HCV|
+|↓ Purine synthesis|IMP dehydrogenase|Ribavirin|RSV & HCV|
 |↓ DNA synthesis|Reverse transcriptase<br>:: nucleoside (NRTI)|Abacavir|HIV|
 |||Entecavir|HBV|
 |||Didanosine|HIV|
