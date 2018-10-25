@@ -1084,36 +1084,36 @@
 
 ## Mechanisms of Action of Antivirals
 
-|Mechanism|Medication|Indications|
-|-|-|-|
-|Attachment inhibitors|Maraviroc|HIV|
-|Penetration inhibitors|Enfuvirtide|HIV|
-|Uncoating inhibitors|Amantadine|Influenza|
-||Rimantadine|Influenza|
-|Assembly inhibitors|-|-|
-|Integrase inhibitors|Gravirs|HIV|
-|Release inhibitors|Oseltamivir|Influenza|
-||Zanamivir|Influenza|
-|Purine synthesis inhibitors|Ribavirin|RSV & HCV|
-|DNA polymerase inhibitors|Acyclovir|HSV & VZV|
-||Famciclovir|HSV & VZV|
-||Ganciclovir|CMV|
-||Cidofovir|HSV & CMV|
-||Foscarnet|HSV & CMV|
-|Reverse transcriptase inhibitors<br>:: nucleoside (NRTI)|Abacavir|HIV|
-||Entecavir|HBV|
-||Didanosine|HIV|
-||Lamivudine|HBV & HIV|
-||Stavudine|HIV|
-||Telbivudine|HBV|
-||Zidovudine|HIV|
-||Adefovir|HBV|
-||Tenofovir|HBV & HIV|
-|Reverse transcriptase inhibitors<br>:: non-nucleoside (NNRTI)|Delavirdine|HIV|
-||Efavirenz|HIV|
-||Nevirapine|HIV|
-|Protein synthesis inhibitors|IFN-α|HBV & HCV|
-|Protease inhibitors (PI)|Navirs|HIV|
-||Previrs|HCV|
+|Mechanism|Target|Medication|Indications|
+|-|-|-|-|
+|↓ Attachment|GP120|Maraviroc|HIV|
+|↓ Penetration|GP41|Enfuvirtide|HIV|
+|↓ Uncoating|-|Amantadine|Influenza|
+||-|Rimantadine|Influenza|
+|↓ Systhesis|Purine & DNA & Protein|-|-|
+|↓ Assembly|Protease :: Pol|Navirs|HIV|
+|||Previrs|HCV|
+|↓ Release|Neuraminidase|Oseltamivir|Influenza|
+|||Zanamivir|Influenza|
+|↓ Purine synthesis|-|Ribavirin|RSV & HCV|
+|↓ DNA synthesis|Reverse transcriptase<br>:: nucleoside (NRTI)|Abacavir|HIV|
+|||Entecavir|HBV|
+|||Didanosine|HIV|
+|||Lamivudine|HBV & HIV|
+|||Stavudine|HIV|
+|||Telbivudine|HBV|
+|||Zidovudine|HIV|
+|||Adefovir|HBV|
+|||Tenofovir|HBV & HIV|
+||Reverse transcriptase<br>:: non-nucleoside (NNRTI)|Delavirdine|HIV|
+|||Efavirenz|HIV|
+|||Nevirapine|HIV|
+||Integrase|Gravirs|HIV|
+||DNA polymerase|Acyclovir|HSV & VZV|
+|||Famciclovir|HSV & VZV|
+|||Ganciclovir|CMV|
+|||Cidofovir|HSV & CMV|
+|||Foscarnet|HSV & CMV|
+|↓ Protein synthesis|-|IFN-α|HBV & HCV|
 
 ![](../Figures/Mechanisms%20of%20Action%20of%20Antivirals.png)
