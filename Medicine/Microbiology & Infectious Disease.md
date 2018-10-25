@@ -1091,8 +1091,7 @@
 |↓ Uncoating|-|Amantadine|Influenza|
 ||-|Rimantadine|Influenza|
 |↓ Systhesis|Purine & DNA & Protein|-|-|
-|↓ Assembly|Protease :: Pol|Navirs|HIV|
-|||Previrs|HCV|
+|↓ Assembly|Protease (PI) :: Pol|Navirs|HIV|
 |↓ Release|Neuraminidase|Oseltamivir|Influenza|
 |||Zanamivir|Influenza|
 |↓ Purine synthesis|IMP dehydrogenase|Ribavirin|RSV & HCV|
@@ -1109,6 +1108,7 @@
 |||Efavirenz|HIV|
 |||Nevirapine|HIV|
 ||Integrase|Gravirs|HIV|
+||Protease (PI) :: NS3/4A|Previrs|HCV|
 ||DNA polymerase|Acyclovir|HSV & VZV|
 |||Famciclovir|HSV & VZV|
 |||Ganciclovir|CMV|
