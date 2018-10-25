@@ -1107,7 +1107,7 @@
 ||Reverse transcriptase<br>:: non-nucleoside (NNRTI)|Delavirdine|HIV|
 |||Efavirenz|HIV|
 |||Nevirapine|HIV|
-||Integrase|Gravirs|HIV|
+||Integrase (INSTI)|Gravirs|HIV|
 ||Protease (PI) :: NS3/4A|Previrs|HCV|
 ||DNA polymerase|Acyclovir|HSV & VZV|
 |||Famciclovir|HSV & VZV|
@@ -1117,3 +1117,8 @@
 |↓ Protein synthesis|-|IFN-α|HBV & HCV|
 
 ![](../Figures/Mechanisms%20of%20Action%20of%20Antivirals.png)
+
+### Highly Active Antiretroviral Therapy (HAART) for HIV Infection
+
+- 2 NRTI
+- NNRTI/INSTI/PI
