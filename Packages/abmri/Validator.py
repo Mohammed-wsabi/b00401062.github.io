@@ -18,14 +18,16 @@ class Validator:
 	def fit(self, dataset):
 		print("\n## Validation Session: %s\n" % self.title)
 		scores_train, scores_valid = validation_curve(
-			estimator = self.preprocessor, cv = LeaveOneOut(),
+			estimator = self.preprocessor,
+			cv = LeaveOneOut(),
 			X = concat((dataset.NR, dataset.R)),
 			y = Series(
 				["NR"] * dataset.NR.shape[0] + ["R"] * dataset.R.shape[0],
 				index = dataset.NR.index.append(dataset.R.index),
 				dtype = "category"
 			).rename("Category"),
-			param_name = self.param_name, param_range = self.param_range)
+			param_name = self.param_name,
+			param_range = self.param_range)
 		arg = argmax(scores_valid.mean(axis = 1))
 		self.best = Best(arg, self.param_range[arg], scores_valid[arg, :].mean(), scores_valid[arg, :].std())
 		print("- Best parameter: " + ("%d" if self.param_range.dtype == int else "%f") % self.best.Parameter)

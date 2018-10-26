@@ -21,10 +21,6 @@ class Evaluator:
 			dtype = "category"
 		).rename("Category")
 		self.preprocessor.fit(X, y)
-		scores = self.preprocessor.decision_function(X)
-		fpr, tpr, thresholds = roc_curve(y == "R", scores)
-		print("- Receiver operating characteristic (ROC): %f" % auc(fpr, tpr))
-		self.__plot_roc_curve(tpr, fpr)
 		return self
 	def predict(self, dataset, title = None):
 		print("- Contingency table: %s" % title)
@@ -58,15 +54,6 @@ class Evaluator:
 		self.__print_confusion_matrix(pool.Training.Actual, pool.Training.Predicted)
 		print("- Contingency table: %s Test" % title)
 		self.__print_confusion_matrix(pool.Test.Actual, pool.Test.Predicted)
-	def __plot_roc_curve(self, tpr, fpr):
-		plot(fpr, tpr, lw = 2)
-		plot([0, 1], [0, 1], lw = 2, linestyle = "--")
-		title("%s ROC Curve (area = %.4f)" % (self.title, auc(fpr, tpr)))
-		xlabel("1-Specificity")
-		ylabel("Sensitivity")
-		axes().set_aspect("equal")
-		savefig("./Downloads/Researches/ABMRI/Figures/ROC/ROC %s.png" % self.title)
-		close()
 	def __print_confusion_matrix(self, y, prediction):
 		table = confusion_matrix(y, prediction)
 		table[0, 0], table[1, 1] = table[1, 1], table[0, 0]

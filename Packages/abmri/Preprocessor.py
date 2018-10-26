@@ -109,12 +109,12 @@ class Preprocessor(BaseEstimator, ClassifierMixin):
 	def __extract_analysis(self, X):
 		return self.__normalize(DataFrame(self.analysis.transform(X)))
 	def __normalize(self, X):
-		pvalues = X.apply(lambda col: kstest(scale(col), "norm").pvalue)
+		pvalues = X.apply(lambda col: kstest(scale(list(col)), "norm").pvalue)
 		if sum(pvalues < self.alpha) != 0:
 			print("\t- %d features do not pass normalization test." % sum(pvalues < self.alpha))
 		for feature in where(pvalues < self.alpha)[0]:
 			X[feature] = boxcox(X[feature] - min(X[feature]) + 1)[0]
-		return X.apply(lambda col: scale(col))
+		return X.apply(lambda col: scale(list(col)))
 	def __plot_pvalues(self, changes):
 		if not self.output: return
 		for i in range(len(self.indices)):

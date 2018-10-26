@@ -10,7 +10,7 @@ from abmri.Validator import *
 from abmri.Evaluator import *
 
 class Pipeline:
-	def __init__(self, bests, validate = True, evaluate = True, transfer = True):
+	def __init__(self, bests, validate = False, evaluate = True, transfer = True):
 		self.bests = bests
 		self.validate = validate
 		self.evaluate = evaluate
