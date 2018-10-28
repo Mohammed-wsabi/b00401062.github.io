@@ -70,10 +70,10 @@
 
 ## Packages
 
-- [abmri](Packages/abmri): Standardized pipeline for DTI analysis.
-- [bmlab](Packages/bmlab): Standardized pipeline for fMRI analysis.
+- [abmri](Packages/abmri): Pipeline for DSI analysis to predict antipsychotic treatment response.
+- [bmlab](Packages/bmlab): Pipeline for fMRI analysis to study the default mode network.
 - [calculator](Packages/calculator): Calculator built with postfix algorithm and stacks from scratch.
-- [cgm](Packages/cgm): Standardized pipeline for metagenomics analysis.
+- [cgm](Packages/cgm): Pipeline for metagenomics analysis to study association between microbiota and cancer.
 - [codechef](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/codechef): Collection of Java programs solving [CodeChef](https://www.codechef.com) problems.
 - [csie](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/csie): Collection of code for CSIE undergraduage assignments.
 - [gpa](Packages/gpa): Applet that calculates your average GPA.
