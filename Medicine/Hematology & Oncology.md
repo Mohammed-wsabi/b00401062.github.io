@@ -180,7 +180,6 @@
 |Tumors|Genetics|RBC|WBC|PLT|
 |-|-|-|-|-|
 |Polycythemia vera|JAK2|↑|↑|↑|
-|Acute myelogenous leukemia (AML)|t(15;17)|↓|↑|↑|
 |Chronic myelogenous leukemia (CML)|t(9;22)|↓|↑|↑|
 |Essential thrombocytosis|JAK2|-|-|↑|
 |Myelofibrosis|JAK2|↓|?|?|
