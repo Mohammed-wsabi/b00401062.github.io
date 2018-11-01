@@ -30,13 +30,6 @@ qiime diversity alpha-group-significance \
 qiime diversity beta-group-significance \
 	--i-distance-matrix $DATASETS/diversity-core-metrics-phylogenetic/unweighted_unifrac_distance_matrix.qza \
 	--m-metadata-file $DATASETS/metadata/metadata.tsv \
-	--m-metadata-column Subject \
-	--o-visualization $DATASETS/visualization/diversity-beta-group-significance-subject.qzv \
-	--p-pairwise
-
-qiime diversity beta-group-significance \
-	--i-distance-matrix $DATASETS/diversity-core-metrics-phylogenetic/unweighted_unifrac_distance_matrix.qza \
-	--m-metadata-file $DATASETS/metadata/metadata.tsv \
 	--m-metadata-column Tissue \
-	--o-visualization $DATASETS/visualization/diversity-beta-group-significance-tissue.qzv \
+	--o-visualization $DATASETS/visualization/diversity-beta-group-significance.qzv \
 	--p-pairwise

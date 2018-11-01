@@ -11,6 +11,7 @@
 - [Taxonomy.sh](Taxonomy.sh): Taxonomic Analysis.
 - [ANCOM.sh](ANCOM.sh): Differential abundance analysis with ANCOM.
 - [Gneiss.sh](Gneiss.sh): Differential abundance analysis with Gneiss.
+- [LefSe.sh](LefSe): Export frequency table for [LefSe](https://bitbucket.org/biobakery/biobakery/wiki/lefse).
 
 ## Visualization
 
