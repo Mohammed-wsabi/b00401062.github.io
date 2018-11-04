@@ -285,26 +285,25 @@
 
 ## Etiologies of Metabolic Acidosis
 
-### High Anion Gap {MUDIPLES}
-
-- Methanol
-- Uremia
-- DKA
-- Iron & Isoniazid
-- Propylene glycol
-- Lactate
-- Ethanol & Ethylene glycol
-- Salicylate
-
-### Normal Anion Gap {HARD-ASS}
-
-- Hyperalimentation
-- Addison disease
-- Renal tubular acidosis
-- Diarrhea
-- Acetazolamide
-- Spironolactone
-- Saline infusion
+- Anion gap :: high {MUDIPLES}
+	- Methanol
+	- Uremia
+	- DKA
+	- Iron & Isoniazid
+	- Propylene glycol
+	- Lactate
+	- Ethanol & Ethylene glycol
+	- Salicylate
+- Anion gap :: normal {HARD-ASS}
+	- Urine anion gap :: high
+		- Renal tubular acidosis
+		- Acetazolamide
+		- Spironolactone
+	- Urine anion gap :: normal
+		- Hyperalimentation
+		- Addison disease
+		- Diarrhea
+		- Saline infusion
 
 ## Manifestations of Electrolyte Disturbances
 
