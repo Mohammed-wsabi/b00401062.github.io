@@ -72,7 +72,7 @@
 |Type|Causes|
 |-|-|
 |Normal|-|
-|Wide|Pulmonic stenosis & RBBB|
+|Wide|Pulmonary stenosis & RBBB|
 |Fixed|ASD|
 |Paradoxical|Aortic stenosis & LBBB|
 
@@ -161,7 +161,7 @@
 
 ## Tetralogy of Fallot (TOF) {PROV}
 
-- Pulmonic stenosis
+- Pulmonary stenosis
 - RV hypertrophy
 - Overriding aorta
 - Ventricular septal defect
