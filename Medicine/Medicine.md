@@ -211,7 +211,7 @@
 - Neoplasm
 - Drug
 
-## Workup of Fever
+## Workup for Fever
 
 - Complete blood count (CBC)
 - Throat swab ± Sputum culture
@@ -274,7 +274,7 @@
 - Poisoning & Psychosis
 - Stroke
 
-## Workup of Acid-Base Disturbances
+## Workup for Acid-Base Disturbances
 
 |Disturbance|pH|HCO<sub>3</sub>|PaCO<sub>2</sub>|
 |-|-|-|-|
@@ -330,7 +330,7 @@
 |Cardiovascular|Prolonged QT interval & Bradycardia|Shortened QT interval & Tachycardia|
 |Neuromuscular|Muscle spasms → Trousseau sign & Chvostek sign|Muscle weakness|
 
-## Workup of Hyponatremia
+## Workup for Hyponatremia
 
 - Plasma osmolality :: hypotonic
 	- Volume status :: hypovolemic
