@@ -67,6 +67,15 @@
 
 ![](../Figures/Cardiac%20and%20Vascular%20Function%20Curves.png)
 
+## Splitting
+
+|Type|Causes|
+|-|-|
+|Normal|-|
+|Wide|Pulmonic stenosis & RBBB|
+|Fixed|ASD|
+|Paradoxical|Aortic stenosis & LBBB|
+
 ## Classification of Shocks
 
 |Shock|PCWP|CO|SVR|MAP|Treatments|
@@ -161,7 +170,7 @@
 
 ## Tetralogy of Fallot (TOF) {PROV}
 
-- Pulmonary stenosis
+- Pulmonic stenosis
 - RV hypertrophy
 - Overriding aorta
 - Ventricular septal defect
