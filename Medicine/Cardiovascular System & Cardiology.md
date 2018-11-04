@@ -150,8 +150,8 @@
 |CHD|Obligatory Shunt|Cyanosis|
 |-|-|-|
 |Truncus arteriosus|-|Non-differential|
-|Transposition of great artery (TGA)|ASD / VSD / PDA|Reverse differential|
-|Tricuspid atresia|ASD & VSD / PDA|Non-differential|
+|Transposition of great artery (TGA)|(ASD / VSD) & PDA|Reverse differential|
+|Tricuspid atresia|ASD & (VSD / PDA)|Non-differential|
 |Tetralogy of Fallot (TOF)|VSD & PDA|Non-differential|
 |Total anomalous pulmonary venous return (TAPVR)|ASD / VSD / PDA|Non-differential|
 |Hypoplastic left heart syndrome (HLHS)|ASD & PDA|Non-differential|
