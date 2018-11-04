@@ -145,25 +145,16 @@
 ||Opening snap|Volume overload|HF & DCMP & MR & TR|
 |S4|Atrial kick|Diastolic dysfunction|HF & HCMP|
 
-## Cyanotic Heart Defects {5T1H}
+## Cyanotic Congenital Heart Defects (CHD) {5T-HE}
 
-- Truncus arteriosus
-- Transposition of great artery (TGA)
-- Tricuspid atresia
-- Tetralogy of Fallot (TOF)
-- Total anomalous pulmonary venous return (TAPVR)
-- Hypoplastic left heart syndrome (HLHS)
-
-## Congenital Heart Defect & Central Cyanosis
-
-||Obligatory Shunt|Cyanosis|
+|CHD|Obligatory Shunt|Cyanosis|
 |-|-|-|
 |Truncus arteriosus|-|Non-differential|
 |Transposition of great artery (TGA)|ASD / VSD / PDA|Reverse differential|
 |Tricuspid atresia|ASD & VSD / PDA|Non-differential|
 |Tetralogy of Fallot (TOF)|VSD & PDA|Non-differential|
-|Total anomalous pulmonary venous return|ASD / VSD / PDA|Non-differential|
-|Hypoplastic left heart syndrome|ASD & PDA|Non-differential|
+|Total anomalous pulmonary venous return (TAPVR)|ASD / VSD / PDA|Non-differential|
+|Hypoplastic left heart syndrome (HLHS)|ASD & PDA|Non-differential|
 |Eisenmenger syndrome of ASD|-|Non-differential|
 |Eisenmenger syndrome of VSD|-|Non-differential|
 |Eisenmenger syndrome of PDA|-|Differential|
