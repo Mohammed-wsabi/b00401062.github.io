@@ -283,7 +283,7 @@
 |Respiratory acidosis|↓|↑ 0.1 ~ 0.4 ΔPaCO<sub>2</sub>|↑ (1°)|
 |Respiratory alkalosis|↑|↓ 0.2 ~ 0.4 ΔPaCO<sub>2</sub>|↓ (1°)|
 
-## Metabolic Acidosis
+## Etiologies of Metabolic Acidosis
 
 ### High Anion Gap {MUDIPLES}
 
