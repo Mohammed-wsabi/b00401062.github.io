@@ -3,8 +3,8 @@ from numpy import *
 from pandas import *
 from sklearn.model_selection import LeaveOneOut
 from sklearn.model_selection import validation_curve
-from abmri.Constants import *
-from abmri.Preprocessor import *
+from strpml.Constants import *
+from strpml.Preprocessor import *
 
 class Validator:
 	def __init__(self, preprocessor, param_name, param_range, xlabel, xtickslabels):

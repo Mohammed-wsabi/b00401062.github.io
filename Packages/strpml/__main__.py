@@ -1,6 +1,6 @@
-from abmri.Populator import *
-from abmri.Demographics import *
-from abmri.Pipeline import *
+from strpml.Populator import *
+from strpml.Demographics import *
+from strpml.Pipeline import *
 
 if __name__ == "__main__":
     DATASETS, BESTS = Populator().populate()

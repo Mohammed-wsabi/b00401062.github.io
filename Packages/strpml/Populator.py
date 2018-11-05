@@ -5,7 +5,7 @@ from numpy import *
 from pandas import *
 from scipy.io import loadmat
 from sklearn.model_selection import train_test_split
-from abmri.Constants import *
+from strpml.Constants import *
 
 class Populator:
 	def __init__(self):

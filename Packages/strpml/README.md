@@ -1,4 +1,4 @@
-# Advanced Biomedical MRI Lab (ABMRI)
+# Schizophrenia Treatment Response Prediction Machine Learning (STRPML)
 
 ## Importing Data
 
@@ -21,5 +21,5 @@
 ```bash
 export PYTHONHASHSEED=0
 export PYTHONPATH=$HOME/Documents/Packages/
-python3 -B -m abmri
+python3 -B -m strpml
 ```

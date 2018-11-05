@@ -1,6 +1,6 @@
 from scipy.stats import ttest_ind
 from scipy.stats import chi2_contingency
-from abmri.Constants import *
+from strpml.Constants import *
 
 class Demographics:
 	def __init__(self, alpha = .05):
