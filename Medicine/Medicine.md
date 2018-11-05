@@ -295,13 +295,13 @@
 	- **Ethanol & Ethylene glycol**
 	- **Salicylate**
 - Anion gap :: normal {HARD-ASS}
-	- Urine anion gap :: high
-		- **Renal tubular acidosis**
+	- Urine anion gap :: positive
+		- **Addison disease**
 		- **Acetazolamide**
+		- **Renal tubular acidosis**
 		- **Spironolactone**
 	- Urine anion gap :: normal
 		- **Hyperalimentation**
-		- **Addison disease**
 		- **Diarrhea**
 		- **Saline infusion**
 
