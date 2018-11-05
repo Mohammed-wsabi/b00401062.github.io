@@ -72,17 +72,17 @@ title: Life Code
 
 ## Packages
 
-- [abmri](Packages/abmri): Pipeline for DSI analysis to predict antipsychotic treatment response.
 - [bmlab](Packages/bmlab): Pipeline for fMRI analysis to study the default mode network.
 - [calculator](Packages/calculator): Calculator built with postfix algorithm and stacks from scratch.
-- [cgm](Packages/cgm): Pipeline for metagenomics analysis to study association between microbiota and cancer.
 - [codechef](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/codechef): Collection of Java programs solving [CodeChef](https://www.codechef.com) problems.
 - [csie](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/csie): Collection of code for CSIE undergraduage assignments.
 - [gpa](Packages/gpa): Applet that calculates your average GPA.
 - [leetcode](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/leetcode): Collection of Java programs solving [LeetCode](https://leetcode.com/problemset/all/) problems.
 - [notebook](Packages/notebook): Place where you can take note of trivial things in your life.
+- [osccm](Packages/osccm): Pipeline for metagenomics analysis to study association between microbiota and cancer.
 - [ratlab](Packages/ratlab): Collection of [Matlab](https://www.mathworks.com) functions implemented natively in [R](https://www.r-project.org) in an attempt to be a [Cython](http://cython.org) counterpart.
 - [rosalind](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/rosalind): Collection of Java programs solving [ROSALIND](http://rosalind.info/problems/locations/) problems.
+- [strpml](Packages/strpml): Pipeline for DSI analysis to predict antipsychotic treatment response.
 - [tabula](Packages/tabula): Conversion of a delimited text file into a beautiful [Bootstrap](http://getbootstrap.com) table.
 - [timer](Packages/timer): Timer that goes off after 25 minutes for USMLE Step 2 CS.
 - [usaco](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/usaco): Collection of Java programs solving [USACO](http://train.usaco.org/usacogate) problems.
