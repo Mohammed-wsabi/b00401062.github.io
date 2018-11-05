@@ -294,7 +294,7 @@
 	- **Lactate**
 	- **Ethanol & Ethylene glycol**
 	- **Salicylate**
-- Anion gap :: normal {HARD-ASS}
+- Anion gap :: normal {HAARDSS}
 	- Urine anion gap :: positive
 		- **Addison disease**
 		- **Acetazolamide**
