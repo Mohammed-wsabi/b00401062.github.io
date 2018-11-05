@@ -1,4 +1,4 @@
-# Center of Genomic Medicine (CGM)
+# Oral Squamous Cell Carcinoma Metagenomics (OSCCM)
 
 ## Analysis
 

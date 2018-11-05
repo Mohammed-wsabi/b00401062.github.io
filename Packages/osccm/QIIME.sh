@@ -1,17 +1,17 @@
 #!/usr/bin/env bash
 
 export PATH=~/Library/Conda/bin/:$PATH
-export CGMPATH=~/Documents/Packages/cgm
-export DATASETS=~/Downloads/Researches/CGM/Datasets
+export OSCCMPATH=~/Documents/Packages/osccm
+export DATASETS=~/Downloads/Researches/OSCCM/Datasets
 
 source activate qiime
 
 for FILE in $@
 do
-	$CGMPATH/$FILE.sh
+	$OSCCMPATH/$FILE.sh
 done
 
 source deactivate
 
-unset CGMPATH
+unset OSCCMPATH
 unset DATASETS
