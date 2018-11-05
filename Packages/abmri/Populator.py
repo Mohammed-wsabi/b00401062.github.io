@@ -21,7 +21,7 @@ class Populator:
 		if os.path.isfile("./Downloads/Researches/ABMRI/Datasets/Datasets.pkl"):
 			with open("./Downloads/Researches/ABMRI/Datasets/Datasets.pkl", "rb") as fin:
 				return pickle.load(fin)
-		fname = "./Downloads/Researches/ABMRI/Datasets/Subjects.csv"
+		fname = "./Downloads/Researches/ABMRI/Datasets/Metadata/Response.csv"
 		table = read_csv(fname, header = 0, index_col = 0)[COLUMNS + ["Category"]]
 		datasets = {
 			"Training": {
