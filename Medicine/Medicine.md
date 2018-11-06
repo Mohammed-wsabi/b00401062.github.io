@@ -283,7 +283,7 @@
 |Respiratory acidosis|↓|↑ 0.1 ~ 0.4 ΔPaCO<sub>2</sub>|↑ (1°)|
 |Respiratory alkalosis|↑|↓ 0.2 ~ 0.4 ΔPaCO<sub>2</sub>|↓ (1°)|
 
-## Etiologies of Metabolic Acidosis
+## Workup for Metabolic Acidosis
 
 - Anion gap :: high {MUDIPLES}
 	- **Methanol**
@@ -304,6 +304,16 @@
 		- **Hyperalimentation**
 		- **Diarrhea**
 		- **Saline infusion**
+
+## Workup for Metabolic Alkalosis
+
+- Urine Cl > 20 [Saline-resistant]
+	- **Vomiting**
+	- **Loop diuretics**
+	- **Thiazide**
+- Urine Cl < 20 [Saline-responsive]
+	- Hypertensive
+	- Normotensive
 
 ## Manifestations of Electrolyte Disturbances
 
