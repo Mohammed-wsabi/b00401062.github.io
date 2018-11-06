@@ -477,10 +477,10 @@
 |↑ GABA|Valproate|Seizure & Bipolar|
 |↑ GABA|Tiagabine|Seizure|
 |↑ GABA|Vigabatrin|Seizure|
+|↓ Glutamate|Levetiracetam|Seizure|
 |-|Felbamate|Seizure|
 |-|Topiramate|Seizure|
 |-|Lamotrigine|Seizure|
-|-|Levetiracetam|Seizure|
 
 ## Mechanisms of Action of Medications for Huntington Disease
 
