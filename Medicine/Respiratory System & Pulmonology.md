@@ -10,7 +10,7 @@
 |Store|Saccular|
 |Air|Alveolar|
 
-## Lung volumes
+## Lung Volumes
 
 ![](../Figures/Lung%20Volumes.png)
 
@@ -35,6 +35,19 @@
 |-|-|-|-|
 |Transudate|< 0.5|< 0.6|< 2/3 Serum LDH upper limit|
 |Exudate|> 0.5|> 0.6|> 2/3 Serum LDH upper limit|
+
+## Classification of Asthma Severity
+
+|Asthma|Attacks|Awakenings|SABA Uses|Activity Limitation|FEV<sub>1</sub>|FEV<sub>1</sub>/FVC|
+|-|-|-|-|-|-|-|
+|Intermittent|< 2 days/week|≤ 2/month|≤2 days/week|None|Normal|Normal|
+|Mild persistent|2 ~ 7 days/week|3 ~ 4/month|2 ~ 7 days/week|Minor|> 80%|Normal|
+|Moderate persistent|Daily|> 1/week|Daily|Some|60 ~ 80%|↓ < 5%|
+|Severe persistent|Throughout|Daily|Throughout|Extreme|< 60%|↓ > 5%|
+
+## Management of Asthma
+
+![](../Figures/Management%20%of%20%Asthma.gif)
 
 ## Mechanisms of Action of Medications for Asthma
 
