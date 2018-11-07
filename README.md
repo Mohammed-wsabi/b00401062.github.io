@@ -62,7 +62,7 @@
 
 ## Memoirs
 
-- [Alpaydin's Introduction to Machine Learning.md](Memoirs/Alpaydin's%20Introduction%20to%20Machine%20Learning.md)
+- [Alpaydin's Introduction to Machine Learning](Memoirs/Alpaydin's%20Introduction%20to%20Machine%20Learning.html)
 - [Case and Disease Discussion](Memoirs/Case%20and%20Disease%20Discussion.html)
 - [Literature Review](Memoirs/Literature%20Review.html)
 - [Montgomery's Design and Analysis of Experiments](Memoirs/Montgomery's%20Design%20and%20Analysis%20of%20Experiments.html)
