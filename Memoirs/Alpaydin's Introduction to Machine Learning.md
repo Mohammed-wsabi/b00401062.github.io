@@ -22,5 +22,7 @@
 
 ### Vapnik-Chervonenkis Dimension
 
+- Given a dataset containing $`N`$ points. A hypothesis $`H`$ shatters $`N`$ points if it separates the positive examples from the negative.
+- **Vapnik-Chervonenkis (VC) dimension** of a hypothesis $`H`$ (denoted by $`\text{VC}(H)`$): The maximum number of points that can be shattered by $`H`$.
 
 ---
