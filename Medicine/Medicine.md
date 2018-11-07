@@ -294,12 +294,11 @@
 	- **Lactate**
 	- **Ethanol & Ethylene glycol**
 	- **Salicylate**
-- Anion gap :: normal {HAARDSS}
+- Anion gap :: normal {HARDDS}
 	- Urine anion gap :: positive
 		- **Addison disease**
-		- **Acetazolamide**
 		- **Renal tubular acidosis**
-		- **Spironolactone**
+		- **Diuretics** :: Acetazolamide & K-sparing diuretics
 	- Urine anion gap :: normal
 		- **Hyperalimentation**
 		- **Diarrhea**
@@ -308,12 +307,18 @@
 ## Workup for Metabolic Alkalosis
 
 - Urine Cl > 20 [Saline-resistant]
-	- **Vomiting**
-	- **Loop diuretics**
-	- **Thiazide**
-- Urine Cl < 20 [Saline-responsive]
 	- Hypertensive
+		- **Hyperaldosteronism**
+		- **Liddle syndrome**
 	- Normotensive
+		- **Hypokalemia**
+		- **Bartter syndrome**
+		- **Gitelman syndrome**
+- Urine Cl < 20 [Saline-responsive]
+	- **Vomiting**
+	- **Laxatives**
+	- **Diuretics** :: Loop diuretics & Thiazide
+	- **Cystic fibrosis**
 
 ## Manifestations of Electrolyte Disturbances
 
