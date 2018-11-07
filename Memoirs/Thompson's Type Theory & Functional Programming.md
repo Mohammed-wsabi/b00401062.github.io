@@ -108,7 +108,7 @@
 	- **Weak head normal form**: All expressions which are either abstractions or of the form $`ye_1...e_m`$.
 - A normal form can be thought of as the result of a computation.
 - Evaluation of an expression fails to terminate if no sequence of reductions ends in a weak head normal form.
-- **Church-Rosser Theorem**: For all expressions $`e`$, $`f`$, and $`g`$, if $`e\twoheadrightarrow f`$ and $`e\twoheadrightarrow g`$, then there exists an expression $`h`$ such that $`f\twoheadrightarrow h`$ and $`g\twoheadrightarrow h`$.
+- **Church-Rosser Theorem**: For all expressions $`e`$, $`e_1`$, and $`e_2`$, if $`e\twoheadrightarrow e_1`$ and $`e\twoheadrightarrow e_2`$, then there exists an expression $`e'`$ such that $`e_1\twoheadrightarrow e'`$ and $`e_2\twoheadrightarrow e'`$.
 - The method of **structural induction**: To prove the result $`P(x)`$ for all λ-expressions $`e`$, it is sufficient to prove
 	- $`\forall{x}.P(x)`$ holds.
 	- If $`P(e_1)`$ and $`P(e_2)`$ hold, then $`P(e_1e_2)`$ holds.
@@ -131,7 +131,7 @@
 - **Convertibility** relations: equivalence relations which are also substitutive.
 - **Definition**: $`e\leftrightarrow f`$ if and only if there is a sequence $`e_0,...,e_n`$ such that $`e\equiv e_0`$, $`e_n\equiv f`$ and for each $`i<n`$, $`e_i\twoheadrightarrow e_{i+1}`$ or $`e_{i+1}\twoheadrightarrow e_i`$.
 - $`\leftrightarrow`$ is the smallest equivalence relation extending $`\twoheadrightarrow`$.
-- As a consequence of the Church-Rosser theorems, two expressions $`e`$ and $`f`$ will be (βη-)convertible if and only if there exists a common (βη-)reduct of $`e`$ and $`f`$.
+- As a consequence of the Church-Rosser theorems, two expressions $`e_1`$ and $`e_2`$ will be (βη-)convertible if and only if there exists a common (βη-)reduct of $`e_1`$ and $`e_2`$.
 - Two functions with normal forms are convertible if and only if they have the *same* normal form.
 - The convertibility relations are not necessary to explain the computational behavior of λ-expressions.
 
@@ -159,8 +159,8 @@
 - **Strong Normalization Theorem**: Every reduction sequence terminates.
 	- The system is less expressive than the untyped calculus.
 - **Type assumption (declaration)**: When a variable is used, it is associated with a type.
-- **Type context** (Γ): Types are assigned to expressions in the type context of a number of type assumption.
-- All contexts Γ are *consistent* in containing at most one occurrence of each variable.
+- **Type context** ($`Γ`$): Types are assigned to expressions in the type context of a number of type assumption.
+- All contexts $`Γ`$ are *consistent* in containing at most one occurrence of each variable.
 
 ---
 
@@ -168,61 +168,153 @@
 
 - **Reducibility** method involves an induction over the complexity of the types, rather than over syntactic complexity.
 - **Strong Normalization Theorem**: For all expressions $`e`$ of the simply typed λ-calculus, all reduction sequences beginning with $`e`$ are finite.
-- The method of **induction over types** states that prove the result $`P(τ)`$ for all types $`τ`$ it is sufficient to prove
-	- *Base step*: For all base types $`σ\in B`$, $`P(σ)`$ holds.
+- The method of **induction over types** states that to prove the result $`P(τ)`$ for all types $`τ`$ it is sufficient to prove
+	- *Base case*: For all base types $`σ\in B`$, $`P(σ)`$ holds.
 	- *Induction step*: If $`P(σ)`$ and $`P(τ)`$ hold, then $`P(σ\Rightarrow τ)`$ holds.
 - An expression $`e`$ of type $`τ`$ is **stable** (denoted by $`e\in\|τ\|`$) if either
 	- $`e`$ is of base type and $`e`$ is strongly normalizing.
 	- $`e`$ is of type $`σ\Rightarrow τ`$ and for all $`e\in\|σ\|`$, $`(ee)\in\|τ\|`$.
 - Stability for a function type is defined in terms of stability for its domain and range types.
-- **Lemma**: If $`x`$ is a variable, then
+- **Lemma**:
 	- $`x\in\text{SN}`$.
-	- If $`e_1,...,e_k\in\text{SN}`$, then $`xe_1...e_k\in\text{SN}`$.
+	- If $`e_1,...,e_n\in\text{SN}`$, then $`xe_1...e_n\in\text{SN}`$.
 	- If $`ex\in\text{SN}`$, then $`e\in\text{SN}`$.
 	- If $`e\in\text{SN}`$, then $`(λx.e)\in\text{SN}`$.
+- **Lemma**:
+	- If $`e\in\|τ\|`$, then $`e\in\text{SN}`$.
+	- If $`xe_1...e_n:τ`$ and $`e_1,...,e_n\in\text{SN}`$, then $`xe_1...e_n\in\|τ\|`$.
+	- If $`x:τ`$, then $`x\in\|τ\|`$.
+- **s-instance**: A **s-instance** $`e'`$ of an expression $`e`$ is a substitution instance $`e'\equiv e[e_1/x_1,...,e_n/x_n]`$ where $`e_1,...,e_n`$ are stable expressions.
+- **Lemma**:
+	- If $`e_1`$ and $`e_2`$ are stable, then so is $`(e_1e_2)`$.
+	- For all $`n≥0`$, if $`e[e'/x]e_1...e_n\in\|τ\|`$ and $`e'\in\text{SN}`$, then $`(λx.e)e'e_1...e_n\in\|τ\|`$.
+	- All s-instances $`e'`$ of expressions $`e`$ are stable.
 
 ---
 
 ### Further Type Constructors: The Product
 
+- **Product**:
+	- $`σ\times τ`$ is a type if $`σ`$ and $`τ`$ are.
+	- **Pairs**: If $`x:σ`$ and $`y:τ`$, then $`(x,y):σ\times τ`$.
+- **Projections**: If $`p:σ\times τ`$, then
+	- $`\text{first}\ p:σ`$ where $`\text{first}`$ returns the first element of $`p`$.
+	- $`\text{second}\ p:τ`$ where $`\text{second}`$ returns the second element of $`p`$.
+- The rules of reduction:
+	- *Computation (β-reduction) rules*: $`\text{first}(x,y)\rightarrow x`$ and $`\text{second}(x,y)\rightarrow y`$.
+	- *Equivalence (η-reduction) rules*: $`(\text{first}\ p,\text{second}\ p)\rightarrow p`$.
+- **Extensionality**: An element of a product type is characterized by its components.
+- The operations $`\text{first}`$ and $`\text{second}`$ as primitives:
+	- $`\text{first}:(σ\times τ)\Rightarrow σ`$.
+	- $`\text{second}:(σ\times τ)\Rightarrow τ`$.
+
 ---
 
 ### Base Types: Natural Numbers
+
+- **Numbers**:
+	- $`\mathbb{N}`$ is in the set of base types $`B`$.
+	- $`0:\mathbb{N}`$, and if $`n:\mathbb{N}`$, then $`\text{successor}\ n:\mathbb{N}`$.
+- **Primitive recursion**: For all types $`τ`$, if $`e_0:τ`$ and $`f:(\mathbb{N}\Rightarrow τ\Rightarrow τ)`$, then $`Re_0f:\mathbb{N}\Rightarrow τ`$ where $`R`$ is the **primitive recursor**.
+- The rules of reduction:
+	- $`Re_0f0\rightarrow e_0`$.
+	- $`Re_0f(n+1)\rightarrow fn(Re_0fn)`$.
+- $`R`$ that represents a natural number $`n:\mathbb{N}`$ is a function that maps any function $`f`$ to its $`n`$-fold composition.
 
 ---
 
 ### General Recursion
 
+- **General recursion**: A **general recursor** $`R`$ also has the property that $`Rf\rightarrow f(Rf)`$.
+- $`Rf`$ is a *fixed point* of the functional $`f`$.
+
 ---
 
 ### Evaluation Revisited
+
+- Final results of programs are non-functional.
+- **Order** ($`∂`$) of a type $`τ`$ (denoted as $`∂(τ)`$) is defined as:
+	- $`∂(τ)=0`$ if $`τ\in B`$.
+	- $`∂(σ\times τ)=\max(∂(σ),∂(τ))`$.
+	- $`∂(σ\Rightarrow τ)=\max(∂(σ)+1,∂(τ))`$.
+- The terms we evaluate are not only zeroth-order (**ground types**), they also have the second property of being closed containing as they do no free variables. The results will thus be closed (β-)normal forms of zeroth-order type. It is these that we call the *printable* values.
 
 ---
 
 ## Constructive Mathematics
 
+- [Existence and Logic](#existence-and-logic)
+- [Mathematical Objects](#mathematical-objects)
+- Formalizing Constructive Mathematics
+- [Conclusion](#conclusion)
+
+---
+
+### Existence and Logic
+
+- Systems of constructive logic do not include the *law of the excluded middle* and *double negation elimination*.
+- Sanction for proof by contradiction is given by the *law of the excluded middle*.
+- An idealistic view of truth: every statement is seen as true or false, independently of any evidence either way.
+- Bishops states that the classical theorem that every bounded non-empty set of reals has a least upper bound not only seems to depend for its proof upon non-constructive reasoning, it implies certain cases of the law of the excluded middle which are *not* constructively valid.
+- Not only will a constructive mathematics depend upon a different logic, but also it will not consist of the same results.
+- The negation of a formula $`\lnot A`$ can be defined to be an implication $`A\Rightarrow\bot`$.
+- A proof of a negated formula has no computational content.
+- To give a proof of an existential statement $`\exists x.P(x)`$, we have to give a **witness** $`a`$ and the proof of $`P(a)`$.
+- A constructive proof of $`\exists x.P(x)\lor\lnot\exists x.P(x)`$ constitutes a demonstration of the *limited principle of omniscience*.
+
+---
+
+### Mathematical Objects
+
+- The nature of objects in classical mathematics is simple: everything is a set.
+- Every object in constructive mathematics is either finite or has a finitary description.
+- Constructive mathematics is naturally typed.
+- Two algorithms are deemed equal if they give the same results on every input (the *extensional* equality on the function space).
+- **Principle of Complete Presentation**: If an object is supposed to have a certain type, then that object should contain sufficient witnessing information so that the assertion can be verified.
+- Negative assertions should be replaced by positive assertions whenever possible.
+
+---
+
+### Conclusion
+
+- Objects are given by rules, and the validity of an assertion is guaranteed by a proof from which we can extract relevant computational information, rather than on idealist semantic principles.
+
 ---
 
 ## Introduction to Type Theory
 
----
-
-## Exploring Type Theory
-
----
-
-## Applying Type Theory
-
----
-
-## Augmenting Type Theory
-
----
-
-## Foundations
+- [Propositional Logic: An Informal View](#propositional-logic-an-informal-view)
+- [Judgements, Proofs and Derivations](#judgements-proofs-and-derivations)
+- [The Rules for Propositional Calculus](#the-rules-for-propositional-calculus)
+- [The Curry Howard Isomorphism](#the-curry-howard-isomorphism)
+- [Some Examples](#some-examples)
+- [Quantifiers](#quantifiers)
+- [Base Types](#base-types)
+- [The Natural Numbers](#the-natural-numbers)
+- [Well-founded Types: Trees](#well-founded-types-trees)
+- [Equality](#equality)
+- [Convertibility](#convertibility)
 
 ---
 
-## Conclusions
+- Central to type theory is the duality between propositions and types, proofs and elements: a proof of a proposition $`T`$ can be seen as a member of the type $`T`$, and conversely.
+- Infinite data types are characterized by principles of definition by recursion and proof by induction.
+- A proof by induction is nothing other than a proof object defined using recursion.
+- Our system gives an *integrated* treatment of programming and verification.
+
+---
+
+### Propositional Logic: An Informal View
+
+- $`A\land B`$: A proof of $`A\land B`$ will be a pair of proofs $`p`$ and $`q`$, $`p:A`$ and $`q:B`$.
+- $`A\lor B`$: A proof of $`A\lor B`$ will either be a proof of $`A`$ or be a proof of $`B`$, together with an indication of which formula the proof is of.
+- $`A\Rightarrow B`$: A proof of $`A\Rightarrow B`$ consists of a method or function which transforms any proof of $`A`$ into a proof of $`B`$.
+
+---
+
+### The Rules for Propositional Calculus
+
+- Given a dataset containing $`N`$ points. A hypothesis $`H`$ shatters $`N`$ points if it separates the positive examples from the negative.
+- **Vapnik-Chervonenkis (VC) dimension** of a hypothesis $`H`$ (denoted by $`\text{VC}(H)`$): The maximum number of points that can be shattered by $`H`$.
 
 ---
