@@ -13,7 +13,7 @@
 - [Introduction to Logic](#introduction-to-logic)
 - [Functional Programming and λ-Calculi](#functional-programming-and-λ-calculi)
 - [Constructive Mathematics](#constructive-mathematics)
-- [Introduction-to Type Theory](#introduction-to-type-theory)
+- [Introduction to Type Theory](#introduction-to-type-theory)
 - [Exploring Type Theory](#exploring-type-theory)
 - [Applying Type Theory](#applying-type-theory)
 - [Augmenting Type Theory](#augmenting-type-theory)
