@@ -10,7 +10,8 @@
 ## Contents
 
 - Introduction
-- Supervised Learning
+- [Supervised Learning](#supervised-learning)
+- [Bayesian Decision Theory](#bayesian-decision-theory)
 
 ---
 
@@ -82,5 +83,58 @@
 	- **Model**: Denoted as $`g(x|θ)`$ where $`g`$ is the model, $`x`$ is the input, and $`θ`$ are the parameters.
 	- **Loss function** ($`L`$): To compute the difference between the desired output and our approximation to it.
 	- **Optimization procedure**: To find $`θ^*`$ that minimizes the total error.
+
+---
+
+## Bayesian Decision Theory
+
+- Introduction
+- [Classification](#classification)
+- [Losses and Risks](#losses-and-risks)
+- [Discriminant Functions](#discriminant-functions)
+- [Association Rules](#association-rules)
+- Notes
+
+---
+
+### Classification
+
+- **Bayes' rule**: $`P(y=i|x) = P(y=i)P(x|y=i)/P(x)`$ where
+	- $`P(y=i|x)`$ is the **posterior probability**.
+	- $`P(y=i)`$ is the **prior probability**.
+	- $`P(x|y=i)`$ is the **likelihood**.
+	- $`P(x)`$ is the **evidence**.
+- **Bayesian classifier**: Given an observation $`x`$, the predicted class $`\hat{y}=\text{argmax}_iP(y=i|x)`$.
+
+---
+
+### Losses and Risks
+
+- Let $`λ_{ik}`$ be the loss incurred for falsely assuming $`\hat{y}=i`$ when the input actually belongs to $`y=k`$.
+- The *expected loss* for misclassification is $`L(y=i|x)=\sum_{k=1}^Kλ_{ik}P(y=k|x)`$.
+- The class with the least expected loss is $`\text{argmin}_iL(y=i|x)`$.
+- In Bayesian classifier, $`λ_{ik}`$ is 0 if $`i=k`$, or 1 if $`i≠k`$.
+- $`\hat{y}`$ = $`\text{argmin}_iL(y=i|x)`$ = $`\text{argmin}_i\sum_{k=1}^Kλ_{ik}P(y=k|x)`$ = $`\text{argmin}_i1-P(y=i|x)`$ = $`\text{argmax}_iP(y=i|x)`$.
+
+---
+
+### Discriminant Functions
+
+- Classification can be seen as implementing a set of *discriminant functions*, $`g_i(x)`$, $`i=1,...,K`$, such that $`\hat{y}=\text{argmax}_ig_i(x)`$.
+- This divides the feature space into $`K`$ *decision regions* $`R_1,...,R_K`$.
+- The regions are separated by *decision boundaries*.
+
+---
+
+### Association Rules
+
+- An association rule is an implication of the form $`X→Y`$ where $`X`$ is the **antecedent** and $`Y`$ is the **consequent** of the rule.
+- **Lift**, also known as **interest** of the association rule $`X→Y`$: $`\text{lift}(X→Y)=\frac{P(X,Y)}{P(X)P(Y)}=\frac{P(Y|X)}{P(Y)}`$.
+- **Confidence** is the conditional probability, $`P(Y|X)`$.
+- Two steps of **Apriori** algorithm:
+	1. Find frequent item sets, that is, those which have enough *support*.
+	2. Convert them to rules with enough *confidence* by splitting the items into two, as items in the *antecedent* and items in the *consequent*.
+- A rule $`X→Y`$ need not imply causality but just an association.
+- In a problem, there may also be *hidden variables* whose values are never known through evidence.
 
 ---
