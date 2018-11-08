@@ -381,3 +381,22 @@
 - Rule of Assumption: If $`A`$ is a type, then $`x:A`$.
 
 ---
+
+### Quantifiers
+
+- Rules for $`\forall`$:
+	- Formation: If $`A`$ is a formula and from the assumption $`x:A`$ the conclusion $`P`$ is a formula, then $`(\forall x:A).P`$ is a formula.
+	- Introduction: If from the assumption $`x:A`$ the conclusion $`p:P`$ is derived, then $`(λx:A)e:(\forall x:A).P`$.
+	- Elimination: If $`a:A`$ and $`f:(\forall x:A).P`$, then $`fa:P[a/x]`$.
+	- Computation: $`((λx:A)p)a→p[a/x]`$.
+- Rules for $`\exists`$:
+	- Formation: If $`A`$ is a formula and from the assumption $`x:A`$ the conclusion $`P`$ is a formula, then $`(\exists x:A).P`$ is a formula.
+	- Introduction: If $`a:A`$ and $`p:P[a/x]`$, then $`(a,p):(\exists x:A).P`$.
+	- Elimination:
+		- If $`p:(\exists x:A).P`$, then $`\text{first}\ p:A`$.
+		- If $`p:(\exists x:A).P`$, then $`\text{second}\ p:P[\text{first}\ p/x]`$.
+	- Computation:
+		- $`\text{first}(p,q) → p`$.
+		- $`\text{second}(p,q) → q`$.
+
+---
