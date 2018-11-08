@@ -316,7 +316,7 @@
 
 - Each connective has its formation, introduction, elimination, and computation rule.
 - Rules for $`\land`$:
-	- Formation: If $`A`$ is a formula $`B`$ is a formula, then $`(A\land B)`$ is a formula.
+	- Formation: If $`A`$ is a formula and $`B`$ is a formula, then $`(A\land B)`$ is a formula.
 	- Introduction: If $`p:A`$ and $`q:B`$, then $`(p,q):(A\land B)`$.
 	- Elimination:
 		- If $`r:(A\land B)`$, then $`\text{first}\ r:A`$.
@@ -325,7 +325,7 @@
 		- $`\text{first}(p,q) → p`$.
 		- $`\text{second}(p,q) → q`$.
 - Rules for $`\lor`$:
-	- Formation: If $`A`$ is a formula $`B`$ is a formula, then $`(A\lor B)`$ is a formula.
+	- Formation: If $`A`$ is a formula and $`B`$ is a formula, then $`(A\lor B)`$ is a formula.
 	- Introduction:
 		- If $`q:A`$, then $`\text{inl}\ q:(A\lor B)`$.
 		- If $`r:B`$, then $`\text{inr}\ r:(A\lor B)`$.
@@ -334,7 +334,7 @@
 		- $`\text{cases}(\text{inl}\ q)fg→fq`$.
 		- $`\text{cases}(\text{inr}\ r)fg→gr`$.
 - Rules for $`\implies`$:
-	- Formation: If $`A`$ is a formula $`B`$ is a formula, then $`(A\implies B)`$ is a formula.
+	- Formation: If $`A`$ is a formula and $`B`$ is a formula, then $`(A\implies B)`$ is a formula.
 	- Introduction: If from the assumption $`x:A`$ the conclusion $`e:B`$ is derived, then $`(λx:A)e:(A\implies B)`$.
 	- Elimination: If $`q:(A\implies B)`$ and $`a:A`$, then $`(qa):B`$.
 	- Computation: $`((λx:A)e)a→e[a/x]`$.
@@ -353,7 +353,7 @@
 	- Introduction and Elimination rules: Which expressions are members of which types.
 	- Computation rule: How these objects can be reduced to simpler forms, i.e. how we can evaluate expressions.
 - Rules for $`\land`$:
-	- Formation: If $`A`$ is a type $`B`$ is a type, then $`(A\land B)`$ is a type.
+	- Formation: If $`A`$ is a type and $`B`$ is a type, then $`(A\land B)`$ is a type.
 	- Introduction: If $`p:A`$ and $`q:B`$, then $`(p,q):(A\land B)`$.
 	- Elimination:
 		- If $`r:(A\land B)`$, then $`\text{first}\ r:A`$.
@@ -362,7 +362,7 @@
 		- $`\text{first}(p,q) → p`$.
 		- $`\text{second}(p,q) → q`$.
 - Rules for $`\lor`$:
-	- Formation: If $`A`$ is a type $`B`$ is a type, then $`(A\lor B)`$ is a type.
+	- Formation: If $`A`$ is a type and $`B`$ is a type, then $`(A\lor B)`$ is a type.
 	- Introduction:
 		- If $`q:A`$, then $`\text{inl}\ q:(A\lor B)`$.
 		- If $`r:B`$, then $`\text{inr}\ r:(A\lor B)`$.
@@ -371,7 +371,7 @@
 		- $`\text{cases}(\text{inl}\ q)fg→fq`$.
 		- $`\text{cases}(\text{inr}\ r)fg→gr`$.
 - Rules for $`\implies`$:
-	- Formation: If $`A`$ is a type $`B`$ is a type, then $`(A\implies B)`$ is a type.
+	- Formation: If $`A`$ is a type and $`B`$ is a type, then $`(A\implies B)`$ is a type.
 	- Introduction: If from the assumption $`x:A`$ the conclusion $`e:B`$ is derived, then $`(λx:A)e:(A\implies B)`$.
 	- Elimination: If $`q:(A\implies B)`$ and $`a:A`$, then $`(qa):B`$.
 	- Computation: $`((λx:A)e)a→e[a/x]`$.
