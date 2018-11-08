@@ -284,7 +284,7 @@
 ## Introduction to Type Theory
 
 - [Propositional Logic: An Informal View](#propositional-logic-an-informal-view)
-- [Judgements, Proofs and Derivations](#judgements-proofs-and-derivations)
+- Judgements, Proofs and Derivations
 - [The Rules for Propositional Calculus](#the-rules-for-propositional-calculus)
 - [The Curry Howard Isomorphism](#the-curry-howard-isomorphism)
 - [Some Examples](#some-examples)
@@ -313,5 +313,17 @@
 ---
 
 ### The Rules for Propositional Calculus
+
+- Each connective has its formation, introduction, elimination, and computation rule.
+
+---
+
+### The Curry Howard Isomorphism
+
+- Under the isomorphism, types correspond to propositions and members of those types to proofs.
+- The rules are seen to explain:
+	- Formation rule: What the types of the system are.
+	- Introduction and Elimination rules: Which expressions are members of which types.
+	- Computation rule: How these objects can be reduced to simpler forms, i.e. how we can evaluate expressions.
 
 ---
