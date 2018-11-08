@@ -60,5 +60,5 @@ class Validator:
 		xlabel(self.xlabel)
 		ylabel("Accuracy")
 		legend(frameon = False)
-		savefig("./Downloads/Researches/ABMRI/Figures/Validation/Validation %s.png" % self.title)
+		savefig("./Downloads/Researches/STRPML/Figures/Validation/Validation %s.png" % self.title)
 		close()
