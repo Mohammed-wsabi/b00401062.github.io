@@ -129,8 +129,9 @@
 ### Association Rules
 
 - An association rule is an implication of the form $`X→Y`$ where $`X`$ is the **antecedent** and $`Y`$ is the **consequent** of the rule.
-- **Lift**, also known as **interest** of the association rule $`X→Y`$: $`\text{lift}(X→Y)=\frac{P(X,Y)}{P(X)P(Y)}=\frac{P(Y|X)}{P(Y)}`$.
-- **Confidence** is the conditional probability, $`P(Y|X)`$.
+- **Support**: $`\text{support}(X→Y):=P(X,Y)`$.
+- **Confidence**: $`\text{confidence}(X→Y):=P(Y|X)`$.
+- **Lift** (or **interest**): $`\text{lift}(X→Y):=\frac{P(X,Y)}{P(X)P(Y)}=\frac{P(Y|X)}{P(Y)}`$.
 - Two steps of **Apriori** algorithm:
 	1. Find frequent item sets, that is, those which have enough *support*.
 	2. Convert them to rules with enough *confidence* by splitting the items into two, as items in the *antecedent* and items in the *consequent*.
