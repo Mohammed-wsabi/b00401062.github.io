@@ -12,6 +12,7 @@
 - Introduction
 - [Supervised Learning](#supervised-learning)
 - [Bayesian Decision Theory](#bayesian-decision-theory)
+- [Parametric Methods](#parametric-methods)
 
 ---
 
@@ -104,7 +105,7 @@
 	- $`P(y=i)`$ is the **prior probability**.
 	- $`P(x|y=i)`$ is the **likelihood**.
 	- $`P(x)`$ is the **evidence**.
-- **Bayesian classifier**: Given an observation $`x`$, the predicted class $`\hat{y}=\text{argmax}_iP(y=i|x)`$.
+- **Bayes' classifier**: Given an observation $`x`$, the predicted class $`\hat{y}`$ = $`\text{argmax}_iP(y=i|x)`$.
 
 ---
 
@@ -129,13 +130,58 @@
 ### Association Rules
 
 - An association rule is an implication of the form $`X→Y`$ where $`X`$ is the **antecedent** and $`Y`$ is the **consequent** of the rule.
-- **Support**: $`\text{support}(X→Y):=P(X,Y)`$.
-- **Confidence**: $`\text{confidence}(X→Y):=P(Y|X)`$.
-- **Lift** (or **interest**): $`\text{lift}(X→Y):=\frac{P(X,Y)}{P(X)P(Y)}=\frac{P(Y|X)}{P(Y)}`$.
+- **Support**: $`\text{support}(X→Y)`$ := $`P(X,Y)`$.
+- **Confidence**: $`\text{confidence}(X→Y)`$ := $`P(Y|X)`$.
+- **Lift** (or **interest**): $`\text{lift}(X→Y)`$ := $`\frac{P(X,Y)}{P(X)P(Y)}`$ = $`\frac{P(Y|X)}{P(Y)}`$.
 - Two steps of **Apriori** algorithm:
 	1. Find frequent item sets, that is, those which have enough *support*.
 	2. Convert them to rules with enough *confidence* by splitting the items into two, as items in the *antecedent* and items in the *consequent*.
 - A rule $`X→Y`$ need not imply causality but just an association.
 - In a problem, there may also be *hidden variables* whose values are never known through evidence.
+
+---
+
+## Parametric Methods
+
+- Introduction
+- [Maximum Likelihood Estimation](#maximum-likelihood-estimation)
+- [Evaluating an Estimator: Bias and Variance](#evaluating-an-estimator-bias-and-variance)
+
+---
+
+### Maximum Likelihood Estimation
+
+- Let $`X=\{x_i\}_{i=1}^N`$ be a set of $`N`$ independent and identically distributed (iid) samples drawn from some known probability density family, $`P(x|θ)`$.
+- The **likelihood** of parameter $`θ`$ given sample $`X`$ is the product of the likelihoods of the individual points: $`I(θ|X)`$ = $`P(X|θ)`$ = $`\prod_{i=1}^NP(x_i|θ)`$.
+- **Maximum likelihood estimation**: $`\hat{θ}`$ = $`\text{argmax}_θI(θ|X)`$.
+- **Log likelihood**: $`L(θ|X)`$ = $`\log I(θ|X)`$.
+- **Bernoulli density**:
+	- $`X\sim B(N,θ)`$.
+	- $`P(x_i|θ)=θ^{x_i}(1-θ)^{1-x_i}`$.
+	- $`L(θ|X)`$ =  $`\log\prod_{i=1}^Nθ^{x_i}(1-θ)^{1-x_i}`$ = $`\sum_ix_i\logθ+(N-\sum_ix_i)\log(1-θ)`$.
+	- $`\hat{θ}`$ = $`\sum_ix_i/N`$.
+- **Multinomial density**:
+	- $`X\sim\text{multinomial}(N,θ_1,...θ_K)`$.
+	- $`P(x_i|θ_1,...,θ_K)`$ = $`\prod_{k=1}^Kθ_i^{x_{ik}}`$ where $`x_{ik}`$ is 1 if $`x_i=k`$, or 0 if $`x_i≠k`$.
+	- $`\hat{θ_k}`$ = $`\sum_ix_{ik}/N`$, $`k=1,...,K`$.
+- **Gaussian density**:
+	- $`X\sim N(μ,σ^2)`$.
+	- $`P(x_i|μ,σ^2)`$ = $`\frac{1}{\sqrt{2πσ^2}}\exp(-\frac{(x_i-μ)^2}{2σ^2})`$.
+	- $`\hat{μ}`$ = $`\sum_ix_i/N`$.
+	- $`\hat{σ^2}`$ = $`\sum_i(x_i-\hat{μ})^2/N`$.
+
+---
+
+### Evaluating an Estimator: Bias and Variance
+
+- Let $`\hat{θ}`$ be an estimator of $`θ`$ based on $`n`$ observations.
+- The *bias* of an estimator: $`b_θ(\hat{θ})`$ := $`E[\hat{θ}-θ]`$.
+- The *mean square error (MLE)* of the estimator: $`r_θ(\hat{θ})`$ := $`E[(\hat{θ}-θ)^2]`$.
+- **Unbiased estimator**: $`\hat{θ}`$ is an *unbiased* estimator of $`θ`$ if $`b_θ(\hat{θ})=0`$ or $`E[\hat{θ}]=θ`$.
+- **Consistent estimator**: $`\hat{θ}`$ is a *consistent* estimator of $`θ`$ if $`r_θ(\hat{θ})→0`$ as $`n→0`$.
+- $`m=\sum_i{x_i}/n`$ is an unbiased and consistent estimator of $`μ`$.
+- $`s^2=\sum{(x_i-m)^2}/n`$ is a biased but consistent estimator of $`σ^2`$ since $`E[s^2]=\frac{n-1}{n}σ^2≠σ^2`$.
+- **Asymptotically unbiased estimator**:  $`\hat{θ}`$ is an *asymptotically unbiased* estimator if $`b_θ(\hat{θ})→0`$ or $`E[\hat{θ}]→θ`$ as $`n→0`$.
+- $`r_θ(\hat{θ})=\text{variance}(\hat{θ})+b_θ^2(\hat{θ})`$.
 
 ---
