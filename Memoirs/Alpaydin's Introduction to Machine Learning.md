@@ -181,7 +181,7 @@
 - **Consistent estimator**: $`\hat{θ}`$ is a *consistent* estimator of $`θ`$ if $`r_θ(\hat{θ})→0`$ as $`n→0`$.
 - $`m=\sum_i{x_i}/n`$ is an unbiased and consistent estimator of $`μ`$.
 - $`s^2=\sum{(x_i-m)^2}/n`$ is a biased but consistent estimator of $`σ^2`$ since $`E[s^2]=\frac{n-1}{n}σ^2≠σ^2`$.
-- **Asymptotically unbiased estimator**:  $`\hat{θ}`$ is an *asymptotically unbiased* estimator if $`b_θ(\hat{θ})→0`$ or $`E[\hat{θ}]→θ`$ as $`n→0`$.
+- **Asymptotically unbiased estimator**:  $`\hat{θ}`$ is an *asymptotically unbiased* estimator of $`θ`$ if $`b_θ(\hat{θ})→0`$ or $`E[\hat{θ}]→θ`$ as $`n→0`$.
 - $`r_θ(\hat{θ})=\text{variance}(\hat{θ})+b_θ^2(\hat{θ})`$.
 
 ---
