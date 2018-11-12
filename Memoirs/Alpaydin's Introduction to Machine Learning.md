@@ -1,7 +1,7 @@
 # Alpaydin's Introduction to Machine Learning
 
 - **Publisher**: The MIT Press
-- **Author**: Ethem Alpaydın
+- **Author**: Ethem Alpaydin
 - **Presenter**: Wen-Bin Luo
 - **Link**: [https://mitpress.mit.edu/books/introduction-machine-learning-third-edition](https://mitpress.mit.edu/books/introduction-machine-learning-third-edition)
 
@@ -161,7 +161,7 @@
 	- $`L(θ|X)`$ =  $`\log\prod_{i=1}^Nθ^{x_i}(1-θ)^{1-x_i}`$ = $`\sum_ix_i\logθ+(N-\sum_ix_i)\log(1-θ)`$.
 	- $`\hat{θ}`$ = $`\sum_ix_i/N`$.
 - **Multinomial density**:
-	- $`X\sim\text{multinomial}(N,θ_1,...θ_K)`$.
+	- $`X\sim\text{multinomial}(N,θ_1,...,θ_K)`$.
 	- $`P(x_i|θ_1,...,θ_K)`$ = $`\prod_{k=1}^Kθ_i^{x_{ik}}`$ where $`x_{ik}`$ is 1 if $`x_i=k`$, or 0 if $`x_i≠k`$.
 	- $`\hat{θ_k}`$ = $`\sum_ix_{ik}/N`$, $`k=1,...,K`$.
 - **Gaussian density**:
@@ -174,14 +174,14 @@
 
 ### Evaluating an Estimator: Bias and Variance
 
-- Let $`\hat{θ}`$ be an estimator of $`θ`$ based on $`n`$ observations.
+- Let $`\hat{θ}`$ be an estimator of $`θ`$ based on $`N`$ observations.
 - The *bias* of an estimator: $`b_θ(\hat{θ})`$ := $`E[\hat{θ}-θ]`$.
 - The *mean square error (MLE)* of the estimator: $`r_θ(\hat{θ})`$ := $`E[(\hat{θ}-θ)^2]`$.
 - **Unbiased estimator**: $`\hat{θ}`$ is an *unbiased* estimator of $`θ`$ if $`b_θ(\hat{θ})=0`$ or $`E[\hat{θ}]=θ`$.
-- **Consistent estimator**: $`\hat{θ}`$ is a *consistent* estimator of $`θ`$ if $`r_θ(\hat{θ})→0`$ as $`n→0`$.
-- $`m=\sum_i{x_i}/n`$ is an unbiased and consistent estimator of $`μ`$.
-- $`s^2=\sum{(x_i-m)^2}/n`$ is a biased but consistent estimator of $`σ^2`$ since $`E[s^2]=\frac{n-1}{n}σ^2≠σ^2`$.
-- **Asymptotically unbiased estimator**:  $`\hat{θ}`$ is an *asymptotically unbiased* estimator of $`θ`$ if $`b_θ(\hat{θ})→0`$ or $`E[\hat{θ}]→θ`$ as $`n→0`$.
+- **Consistent estimator**: $`\hat{θ}`$ is a *consistent* estimator of $`θ`$ if $`r_θ(\hat{θ})→0`$ as $`N→0`$.
+- $`m=\sum_i{x_i}/N`$ is an unbiased and consistent estimator of $`μ`$.
+- $`s^2=\sum{(x_i-m)^2}/N`$ is a biased but consistent estimator of $`σ^2`$ since $`E[s^2]=\frac{N-1}{N}σ^2≠σ^2`$.
+- **Asymptotically unbiased estimator**:  $`\hat{θ}`$ is an *asymptotically unbiased* estimator of $`θ`$ if $`b_θ(\hat{θ})→0`$ or $`E[\hat{θ}]→θ`$ as $`N→0`$.
 - $`r_θ(\hat{θ})=\text{variance}(\hat{θ})+b_θ^2(\hat{θ})`$.
 
 ---
