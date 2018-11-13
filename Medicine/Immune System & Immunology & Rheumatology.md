@@ -244,7 +244,7 @@
 
 |Disease|Defects|Genetics|IgM|IgG|IgE|IgA|
 |-|-|-|-|-|-|-|
-|Wiskott-Aldrich syndrome (WAS)|Actin cytoskeleton reorganization|WAS|-|-|↑|↑|
+|Wiskott-Aldrich syndrome (WAS)|Actin cytoskeleton reorganization|WAS|↓|-|↑|↑|
 |Ataxia telangiectasia|Serine/Threonine kinase (STK)|ATM|-|↓|↓|↓|
 |Severe combined immunodeficiency (SCID) :: AR|Adenosine deaminase|ADA|↓|↓|↓|↓|
 |Severe combined immunodeficiency (SCID) :: XR|IL-2R|IL-2R|↓|↓|↓|↓|
