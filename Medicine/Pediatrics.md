@@ -35,6 +35,24 @@
 - Scarf sign
 - Square window
 
+## Vaccines
+
+|Vaccine|Month|
+|-|-|
+|BCG|0|
+|HBV|0 & 1 & 6|
+|Rotavirus|2 & 4 & 6|
+|Pneumococcus (PCV)|2 & 4 & 6 & 12|
+|Haemophilus influenzae type B (Hib)|2 & 4 & 6 & 12|
+|Poliovirus (IPV)|2 & 4 & 6 & 48|
+|Diphtheria & Tetanus & Poliovirus (DTaP)|2 & 4 & 6 & 15 & 48|
+|Measle & Mumps & Rubella (MMR)|12 & 48|
+|VZV|12 & 48|
+|HAV|12 & 18|
+|Japanese encephalitis (JE)|15 & 27|
+
+![](../Figures/Childhood%20Immunization.gif)
+
 ## Complications of Preterm Delivery {RIP-N-RBC}
 
 - Respiratory distress syndrome (RDS)
@@ -80,20 +98,10 @@
 - 1° Hypoparathyroidism → Hypocalcemia
 - 22q11 microdeletion
 
-## Vaccines
+## Presentations of Kawasaki Disease {CRASH}
 
-|Vaccine|Month|
-|-|-|
-|BCG|0|
-|HBV|0 & 1 & 6|
-|Rotavirus|2 & 4 & 6|
-|Pneumococcus (PCV)|2 & 4 & 6 & 12|
-|Haemophilus influenzae type B (Hib)|2 & 4 & 6 & 12|
-|Poliovirus (IPV)|2 & 4 & 6 & 48|
-|Diphtheria & Tetanus & Poliovirus (DTaP)|2 & 4 & 6 & 15 & 48|
-|Measle & Mumps & Rubella (MMR)|12 & 48|
-|VZV|12 & 48|
-|HAV|12 & 18|
-|Japanese encephalitis (JE)|15 & 27|
-
-![](../Figures/Childhood%20Immunization.gif)
+- Conjunctivitis
+- Rashes :: trunk
+- Adenopathy :: unilateral
+- Strawberry tongue / lips
+- High fever
