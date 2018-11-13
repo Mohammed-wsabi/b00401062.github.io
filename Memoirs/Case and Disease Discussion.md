@@ -183,6 +183,7 @@
 - [Introduction](#introduction)
 - [Definition](#definition)
 - [Epidemiology](#epidemiology)
+- [Pathogenesis](#pathogenesis)
 - [Etiologies](#etiologies)
 - [Risk Factors](#risk-factors)
 - [Associations](#associations)
@@ -212,6 +213,10 @@
 ---
 
 ### Pathogenesis
+
+---
+
+### Etiologies
 
 ---
 
