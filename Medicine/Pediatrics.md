@@ -45,7 +45,7 @@
 |Pneumococcus (PCV)|2 & 4 & 6 & 12|
 |Haemophilus influenzae type B (Hib)|2 & 4 & 6 & 12|
 |Poliovirus (IPV)|2 & 4 & 6 & 48|
-|Diphtheria & Tetanus & Poliovirus (DTaP)|2 & 4 & 6 & 15 & 48|
+|Diphtheria & Tetanus & Pertussis (DTaP)|2 & 4 & 6 & 15 & 48|
 |Measle & Mumps & Rubella (MMR)|12 & 48|
 |VZV|12 & 48|
 |HAV|12 & 18|
