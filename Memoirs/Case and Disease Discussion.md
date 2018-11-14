@@ -188,11 +188,12 @@
 - [Risk Factors](#risk-factors)
 - [Associations](#associations)
 - [Presentation](#presentation)
+- [Complication](#complication)
 - [Differential Diagnosis](#differential-diagnosis-1)
 - [Approach](#approach)
 - [Diagnosis](#diagnosis)
 - [Workup](#workup)
-- [Treatments](#treatments)
+- [Treatment](#treatment)
 - [Prognosis](#prognosis)
 - [Prevention](#prevention)
 - [Summary](#summary)
@@ -232,6 +233,10 @@
 
 ---
 
+### Complication
+
+---
+
 ### Differential Diagnosis
 
 ---
@@ -248,7 +253,7 @@
 
 ---
 
-### Treatments
+### Treatment
 
 ---
 
