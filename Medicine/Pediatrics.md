@@ -104,4 +104,4 @@
 - Rashes :: trunk
 - Adenopathy :: unilateral
 - Strawberry tongue / lips
-- High fever
+- High fever :: > 40°C
