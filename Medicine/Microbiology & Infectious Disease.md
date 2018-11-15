@@ -1042,8 +1042,8 @@
 |-|-|
 |CAP & Uncomplicated|Macrolides<br>Doxycycline|
 |CAP & Complicated|Amoxicillin & (Macrolides / Doxycycline)<br>Fluoroquinolones|
-|CAP & Inpatient|Anti-pneumococcal β-lactams & Macrolides<br>Fluoroquinolones|
-|CAP & ICU|Anti-pseudomonal β-lactams & (Macrolides / Fluoroquinolones)|
+|CAP & Inpatient|Anti-pneumococcal β-lactams & (Macrolides / Doxycycline)<br>Fluoroquinolones|
+|CAP & ICU|Anti-pseudomonal β-lactams & (Macrolides / Doxycycline / Fluoroquinolones)|
 |HAP|Anti-pseudomonal β-lactams & Fluoroquinolones|
 
 ### Complicated Patients
