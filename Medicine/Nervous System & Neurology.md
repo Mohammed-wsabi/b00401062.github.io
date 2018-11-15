@@ -501,6 +501,7 @@
 |COMT inhibitors|Capones|Parkinson|
 |Dopa|Levodopa|Parkinson|
 |Dopa decarboxylase inhibitors|Carbidopa|Parkinson|
+||Benserazide|Parkinson|
 
 ## Mechanisms of Action of Medications for Alzheimer Disease
 
