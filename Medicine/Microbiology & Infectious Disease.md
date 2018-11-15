@@ -592,6 +592,28 @@
 |Neisseria gonorrhoea|Conjunctivitis|Intrapartum|
 |Chlamydia trachomatis|Conjunctivitis|Intrapartum|
 
+## Pathogens of Meningitis
+
+|Mnemonic|Pathogen|
+|-|-|
+|S|Streptococcus pneumonia|
+|H|Haemophilus influenzae|
+|N|Neisseria meningitidis|
+|E|Escherichia coli|
+|Elicits|Enterovirus|
+|Hazardous|HSV & HIV|
+|Consciousness|Cryptococcus|
+
+## CSF Findings in Meningitis
+
+||Pressure|Cell|Glucose|Protein|
+|-|-|-|-|-|
+|Mnemonic|Please|Check|Groaning|Patients|
+|Healthy|50 ~ 180 mmH<sub>2</sub>O|< 5/mm<sup>3</sup>|40 ~ 70 mg/dL|20 ~ 45 mg/dL|
+|Bacterial|↑|PMN|↓|↑|
+|Fungal & TB|↑|Lymphocyte|↓|↑|
+|Viral|↑|Lymphocyte|-|↑|
+
 ## Pathogens of Otitis Media {SHM}
 
 - Streptococcus pneumonia
@@ -603,9 +625,18 @@
 - Group A streptococcus (GAS)
 - Adenovirus
 - HSV
+- EBV
 - Parainfluenza virus
 - Influenza virus
-- EBV
+
+## Pathogens of Bronchiolitis
+
+- Adenovirus
+- RSV
+- Rhinovirus
+- Coronavirus
+- Parainfluenza virus
+- Influenza virus
 
 ## Pathogens of Pneumonia
 
@@ -686,28 +717,6 @@
 |Trichomonas vaginalis|Discharge :: green & frothy|Metronidazole|
 |HPV|Condyloma accumulata|-|
 |HSV|Paniful ulcers|-|
-
-## Pathogens of Meningitis
-
-|Mnemonic|Pathogen|
-|-|-|
-|S|Streptococcus pneumonia|
-|H|Haemophilus influenzae|
-|N|Neisseria meningitidis|
-|E|Escherichia coli|
-|Elicits|Enterovirus|
-|Hazardous|HSV & HIV|
-|Consciousness|Cryptococcus|
-
-## CSF Findings in Meningitis
-
-||Pressure|Cell|Glucose|Protein|
-|-|-|-|-|-|
-|Mnemonic|Please|Check|Groaning|Patients|
-|Healthy|50 ~ 180 mmH<sub>2</sub>O|< 5/mm<sup>3</sup>|40 ~ 70 mg/dL|20 ~ 45 mg/dL|
-|Bacterial|↑|PMN|↓|↑|
-|Fungal & TB|↑|Lymphocyte|↓|↑|
-|Viral|↑|Lymphocyte|-|↑|
 
 ## Pathogens of Osteomyelitis {SNPP}
 
