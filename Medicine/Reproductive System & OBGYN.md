@@ -308,6 +308,7 @@
 |Pregnancy|↓|↓|↑|↑|
 |PCOS|↓|↓|↑|↓|
 |Hypoestrogenism|↑/↓|↑/↓|↓|↓|
+|Menopause|↑|↑|↓|↓|
 |Ovarian failure|↑|↑|↓|↓|
 |Resistant ovary [Savage] syndrome|↑|↑|↓|↓|
 |Hypothyroidism|↓|↓|↓|↓|
