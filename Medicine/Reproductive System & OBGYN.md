@@ -258,7 +258,7 @@
 - Prior uterine surgery
 - Mechanical obstruction to vaginal birth
 
-## Etiologies of Postpartum Hemorrhage (PPH) {4T} {CARPIT}
+## Etiology of Postpartum Hemorrhage (PPH) {4T} {CARPIT}
 
 |Mnemonic|Etiology|
 |-|-|
@@ -269,7 +269,7 @@
 |-|Implantation site bleeding|
 |Trauma|Trauma to the GU tract|
 
-## Etiologies of Abnormal Uterine Bleeding (AUB) {PALM-COEIN}
+## Etiology of Abnormal Uterine Bleeding (AUB) {PALM-COEIN}
 
 - Pregnancy
 - Polyps
@@ -282,7 +282,12 @@
 - Iatrogenic
 - Not yet classified
 
-## Etiologies of Primary Amenorrhea
+## Classification of Amenorrhea
+
+- Primary: no menarche by age 15 years
+- Secondary: no menses for ≥ 3 cycles / ≥ 6 months
+
+## Etiology of Primary Amenorrhea
 
 |Etiology|Breast|Uterus|
 |-|-|-|
@@ -296,7 +301,7 @@
 |Turner syndrome|-|+|
 |Gonadal dysgenesis|-|+|
 
-## Etiologies of Secondary Amenorrhea
+## Etiology of Secondary Amenorrhea
 
 |Etiology|GnRH|LH & FSH|Estrogen|Progesterone|
 |-|-|-|-|-|
@@ -310,7 +315,7 @@
 |Asherman syndrome|-|-|-|-|
 |Outflow tract obstruction|-|-|-|-|
 
-## Presentations of Menopause {HAVOCS}
+## Presentation of Menopause {HAVOCS}
 
 - Hot flashes
 - Atrophy of the vagina
@@ -410,7 +415,7 @@
 |NO donors|Glyceryl trinitrate|Tocolysis|
 |Oxytocin antagonists|Atosiban|Tocolysis|
 
-## Managements for Late Decelerations {STOP}
+## Management for Late Decelerations {STOP}
 
 - Sterile vaginal exam
 - Tocolysis
