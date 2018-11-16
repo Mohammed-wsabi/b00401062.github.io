@@ -299,7 +299,7 @@
 		- **Addison disease**
 		- **Renal tubular acidosis**
 		- **Diuretics** :: Acetazolamide & K-sparing diuretics
-	- Urine anion gap :: normal
+	- Urine anion gap :: negative
 		- **Hyperalimentation**
 		- **Diarrhea**
 		- **Saline infusion**
