@@ -184,11 +184,11 @@
 - [Definition](#definition)
 - [Epidemiology](#epidemiology)
 - [Pathogenesis](#pathogenesis)
-- [Etiologies](#etiologies)
+- [Etiology](#etiology)
 - [Risk Factors](#risk-factors)
 - [Associations](#associations)
 - [Presentation](#presentation)
-- [Complication](#complication)
+- [Complications](#complications)
 - [Differential Diagnosis](#differential-diagnosis-1)
 - [Approach](#approach)
 - [Diagnosis](#diagnosis)
@@ -217,7 +217,7 @@
 
 ---
 
-### Etiologies
+### Etiology
 
 ---
 
@@ -233,7 +233,7 @@
 
 ---
 
-### Complication
+### Complications
 
 ---
 
