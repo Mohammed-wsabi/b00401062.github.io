@@ -616,20 +616,17 @@
 - Parainfluenza virus
 - Influenza virus
 
-## Pathogens of Pneumonia {SHM-PEK}
+## Pathogens of Pneumonia
 
-|Mnemonic|Pathogen|
-|-|-|
-|S|Streptococcus pneumonia|
-|H|Haemophilus influenzae|
-|M|Moraxella catarrhalis|
-|P|Pseudomonas aeruginosa|
-|E|Escherichia coli|
-|K|Klebsiella pneumoniae|
-|Runts|RSV|
-|May|Mycoplasma|
-|Cough|Chlamydia|
-|Loudly|Legionella|
+- Streptococcus pneumonia
+- Haemophilus influenzae
+- Moraxella catarrhalis
+- Pseudomonas aeruginosa
+- Klebsiella pneumoniae
+- Legionella
+- Mycoplasma
+- Chlamydia
+- RSV
 
 ## Pathogens of Endocarditis
 
@@ -696,17 +693,14 @@
 |HPV|Condyloma accumulata|-|
 |HSV|Paniful ulcers|-|
 
-## Pathogens of Meningitis {SHNE}
+## Pathogens of Meningitis {SHN-HEC}
 
-|Mnemonic|Pathogen|
-|-|-|
-|S|Streptococcus pneumonia|
-|H|Haemophilus influenzae|
-|N|Neisseria meningitidis|
-|E|Escherichia coli|
-|Elicits|Enterovirus|
-|Hazardous|HSV & HIV|
-|Consciousness|Cryptococcus|
+- Streptococcus pneumonia
+- Haemophilus influenzae
+- Neisseria meningitidis
+- HSV & HIV
+- Enterovirus
+- Cryptococcus
 
 ## CSF Findings in Meningitis
 
