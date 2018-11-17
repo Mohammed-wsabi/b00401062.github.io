@@ -48,19 +48,19 @@
 |Haemophilus|-|Chocolate|
 |Legionella|Silver|Charcoal yeast|
 
-### Gram-Negative Rods (GNR) :: Enteric {SEEK-PA-SSPY}
+### Gram-Negative Rods (GNR) :: Enteric {P-SEEK-SS-PAY}
 
 |Bacteria|Stain|Culture|
 |-|-|-|
+|Pseudomonas|-|-|
 |Serratia|-|MacConkey|
 |Escherichia|-|MacConkey & EMB|
 |Enterobacter|-|MacConkey|
 |Klebsiella|-|MacConkey|
-|Pseudomonas|-|-|
-|Acinetobacter|-|-|
 |Salmonella|-|-|
 |Shigella|-|-|
 |Proteus|-|-|
+|Acinetobacter|-|-|
 |Yersinia|-|-|
 
 ### Gram-Negative :: Curved
@@ -114,19 +114,19 @@
 |GAS :: Streptococcus pyogenes|Bacitracin|S|
 |GBS :: Streptococcus agalactiae|Bacitracin|R|
 
-## Classification of Enteric Gram Negative Rods {SEEK-PA-SSPY}
+## Classification of Enteric Gram Negative Rods {P-SEEK-SS-PAY}
 
 |Bacteria|Lactose Fermentation|Oxidase|
 |-|-|-|
+|Pseudomonas|-|+|
 |Serratia|+|-|
 |Escherichia|+|-|
 |Enterobacter|+|-|
 |Klebsiella|+|-|
-|Pseudomonas|-|+|
-|Acinetobacter|-|-|
 |Salmonella|-|-|
 |Shigella|-|-|
 |Proteus|-|-|
+|Acinetobacter|-|-|
 |Yersinia|-|-|
 
 ## Stain & Culture Techniques
@@ -256,14 +256,14 @@
 |L|Legionella|
 |Y|Yersinia pestis|
 
-## Encapsulated Bacteria {SHNE-KPS}
+## Encapsulated Bacteria {SHN-PEKS}
 
 - Streptococcus pneumoniae
 - Haemophilus influenzae
 - Neisseria meningitidis
+- Pseudomonas aeruginosa
 - Escherichia coli: K capsule
 - Klebsiella pneumonia
-- Pseudomonas aeruginosa
 - Salmonella typhi: Vi capsule
 
 ## Catalase Positive Bacteria
@@ -592,28 +592,6 @@
 |Neisseria gonorrhoea|Conjunctivitis|Intrapartum|
 |Chlamydia trachomatis|Conjunctivitis|Intrapartum|
 
-## Pathogens of Meningitis
-
-|Mnemonic|Pathogen|
-|-|-|
-|S|Streptococcus pneumonia|
-|H|Haemophilus influenzae|
-|N|Neisseria meningitidis|
-|E|Escherichia coli|
-|Elicits|Enterovirus|
-|Hazardous|HSV & HIV|
-|Consciousness|Cryptococcus|
-
-## CSF Findings in Meningitis
-
-||Pressure|Cell|Glucose|Protein|
-|-|-|-|-|-|
-|Mnemonic|Please|Check|Groaning|Patients|
-|Healthy|50 ~ 180 mmH<sub>2</sub>O|< 5/mm<sup>3</sup>|40 ~ 70 mg/dL|20 ~ 45 mg/dL|
-|Bacterial|↑|PMN|↓|↑|
-|Fungal & TB|↑|Lymphocyte|↓|↑|
-|Viral|↑|Lymphocyte|-|↑|
-
 ## Pathogens of Otitis Media {SHM}
 
 - Streptococcus pneumonia
@@ -638,16 +616,16 @@
 - Parainfluenza virus
 - Influenza virus
 
-## Pathogens of Pneumonia
+## Pathogens of Pneumonia {SHM-PEK}
 
 |Mnemonic|Pathogen|
 |-|-|
 |S|Streptococcus pneumonia|
 |H|Haemophilus influenzae|
 |M|Moraxella catarrhalis|
+|P|Pseudomonas aeruginosa|
 |E|Escherichia coli|
 |K|Klebsiella pneumoniae|
-|P|Pseudomonas aeruginosa|
 |Runts|RSV|
 |May|Mycoplasma|
 |Cough|Chlamydia|
@@ -718,12 +696,33 @@
 |HPV|Condyloma accumulata|-|
 |HSV|Paniful ulcers|-|
 
-## Pathogens of Osteomyelitis {SNPP}
+## Pathogens of Meningitis {SHNE}
+
+|Mnemonic|Pathogen|
+|-|-|
+|S|Streptococcus pneumonia|
+|H|Haemophilus influenzae|
+|N|Neisseria meningitidis|
+|E|Escherichia coli|
+|Elicits|Enterovirus|
+|Hazardous|HSV & HIV|
+|Consciousness|Cryptococcus|
+
+## CSF Findings in Meningitis
+
+||Pressure|Cell|Glucose|Protein|
+|-|-|-|-|-|
+|Mnemonic|Please|Check|Groaning|Patients|
+|Healthy|50 ~ 180 mmH<sub>2</sub>O|< 5/mm<sup>3</sup>|40 ~ 70 mg/dL|20 ~ 45 mg/dL|
+|Bacterial|↑|PMN|↓|↑|
+|Fungal & TB|↑|Lymphocyte|↓|↑|
+|Viral|↑|Lymphocyte|-|↑|
+
+## Pathogens of Osteomyelitis {SNP}
 
 - Staphylococcus aureus
 - Neisseria gonorrhoea
 - Pseudomonas aeruginosa
-- Pasteurella multocida
 
 ## Arthropod-Borne Pathogens
 
