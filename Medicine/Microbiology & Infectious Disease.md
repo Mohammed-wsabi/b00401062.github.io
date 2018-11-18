@@ -854,7 +854,7 @@
 
 ## Infections Causing Rashes Beginning on the Palms & Soles {CARS}
 
-- Coxsackie virus → hand-foot-mouth disease
+- Coxsackie A virus → hand-foot-mouth disease
 - Rickettsia rickettsii → Rocky Mountain spotted fever (RMSF)
 - Treponema pallidum → syphilis
 
