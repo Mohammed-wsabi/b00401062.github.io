@@ -32,17 +32,39 @@
 |Spongiosis|Fluid in epidermis|Eczema|
 |Exocytosis|Leukocyte in epidermis|-|
 
-## Types of Erythema & Diseaase Associations
+## Rashes Associated with Infection
 
-|Erythema|Disease Associations|
-|-|-|
-|Erythema infectiosum [Fifth disease]|Parvovirus B19|
-|Erythema marginatum|Rheumatic Fever|
-|Erythema migrans|Lyme Disease|
-|Erythema multiforme|Stevens-Johnson syndrome & Mycoplasma & HSV|
-|Erythema nodosum|Inflammatory bowel disease & Sarcoidosis & Non-Hodgkins lymphoma|
-|Erythema toxicum|Neonates|
-|Necrolytic migratory erythema|Glucagonoma|
+|Rash|Pathogens|Location|
+|-|-|-|
+|Scarlet fever|Group A streptococcus (GAS)|Upper trunk|
+|Erythema marginatum ← Rheumatic fever|Group A streptococcus (GAS)|Trunk|
+|Erythema migrans ← Lyme disease|Borrelia burgdorferi|Anywhere|
+|Erythema multiforme|Mycoplasma & HSV|Anywhere|
+|Condyloma lata|Treponema pallidum|Genitals|
+|Condyloma accumulata|HPV|Genitals|
+|Verruca vulgaris|HPV|Face & Extremities|
+|Molluscum contagiosum|Poxvirus|Anywhere|
+|Erythema infectiosum ← Fifth disease|Parvovirus B19|Face → Thigh|
+|Herpes simplex|HSV1 & HSV2|
+|Herpes zoster [Shingles]|VZV|Dermatome|
+|Varicella [Chickenpox]|VZV|Face & Trunk → Extremities|
+|Roseola infantum|Roseolovirus|Trunk → Face & Extremities|
+|Measles|Measles virus|Head → Toe|
+|Rubella|Rubella virus|Head → Toe|
+|Hand-foot-mouth disease|Coxsackie A virus|Extremities → Trunk|
+|Tinea [Dermatophytosis]|Microsporum & Epidermophyton & Trichophyton|Anywhere|
+|Tinea versicolor|Malassezia|Trunk|
+
+## Rashes Associated with Autoimmunity & Malignancy
+
+|Rash|Associations|Location|
+|-|-|-|
+|Atopic dermatitis|-|Joints|
+|Erythema toxicum|Neonates|Anywhere|
+|Erythema multiforme|Stevens-Johnson syndrome|Anywhere|
+|Erythema marginatum ← Rheumatic fever|Group A streptococcus (GAS)|Trunk|
+|Erythema nodosum|Inflammatory bowel disease & Sarcoidosis & Non-Hodgkins lymphoma|Anywhere|
+|Necrolytic migratory erythema|Glucagonoma|Face & Extremities|
 
 ## ABCDE of Melanoma {ABCDE}
 
