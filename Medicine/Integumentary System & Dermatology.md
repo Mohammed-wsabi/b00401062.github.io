@@ -45,8 +45,8 @@
 |Condyloma accumulata|HPV|Genitals|
 |Verruca vulgaris|HPV|Face & Extremities|
 |Molluscum contagiosum|Poxvirus|Anywhere|
-|Erythema infectiosum ← Fifth disease|Parvovirus B19|Face → Thigh|
-|Herpes simplex|HSV1 & HSV2|
+|Erythema infectiosum ← Fifth disease|Parvovirus B19|Face → Thighs|
+|Herpes simplex|HSV1 & HSV2|Mouth & Genitals|
 |Herpes zoster [Shingles]|VZV|Dermatome|
 |Varicella [Chickenpox]|VZV|Face & Trunk → Extremities|
 |Roseola infantum|Roseolovirus|Trunk → Face & Extremities|
