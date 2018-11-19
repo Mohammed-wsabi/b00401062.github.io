@@ -2,17 +2,17 @@
 
 ## Basal Energy Expenditure (BEE)
 
-### Male
+### Female
 
-|Parameter|(13.75 × W) + (5.003 × H) - (6.775 × Age) + 66.5|
+|Parameter|(9.563 × W) + (1.850 × H) - (4.676 × Age) + 655.1|
 |-|-|
 |W|Weight (kg)|
 |H|Height (cm)|
 |Age|Age (year)|
 
-### Female
+### Male
 
-|Parameter|(9.563 × W) + (1.850 × H) - (4.676 × Age) + 655.1|
+|Parameter|(13.75 × W) + (5.003 × H) - (6.775 × Age) + 66.5|
 |-|-|
 |W|Weight (kg)|
 |H|Height (cm)|
