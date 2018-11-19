@@ -35,7 +35,7 @@
 - Scarf sign
 - Square window
 
-## Vaccines
+## Vaccination
 
 |Vaccine|Month|
 |-|-|
