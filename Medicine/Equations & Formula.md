@@ -171,19 +171,17 @@
 |Ca|Serum calcium (mmol/L)|
 |Albumin|Serum albumin (g/dL)|
 
-## Filtration Fraction
+## Filtration Fraction (FF)
 
 |Parameter|FF = GFR ÷ RPF|
 |-|-|
-|FF|Filtration fraction (%)|
 |GFR|Glomerular filtration rate (mL/min)|
 |RPF|Renal plasma flow (mL/min)|
 
-## Fractional Excretion
+## Fractional Excretion (FE)
 
 |Parameter|FE<sub>X</sub> = (U<sub>X</sub> ÷ P<sub>X</sub>) ÷ (U<sub>Cr</sub> ÷ P<sub>Cr</sub>)|
 |-|-|
-|FE<sub>X</sub>|Fractional excretion of X|
 |U<sub>X</sub>|Urine concentration of X|
 |P<sub>X</sub>|Plasma concentration of X|
 |U<sub>Cr</sub>|Urine concentration of creatinine|
@@ -197,7 +195,7 @@
 |-|-|
 |Age|Age (year)|
 |W|Weight (kg)|
-|Cr|Serum creatinine|
+|Cr|Serum creatinine (mg/dL)|
 
 ### Male
 
@@ -205,4 +203,13 @@
 |-|-|
 |Age|Age (year)|
 |W|Weight (kg)|
-|Cr|Serum creatinine|
+|Cr|Serum creatinine (mg/dL)|
+
+## Trans-tubular Potassium Gradient (TTKG)
+
+|Parameter|TTKG = (U<sub>K</sub> ÷ P<sub>K</sub>) ÷ (U<sub>Osmolality</sub> ÷ P<sub>Osmolality</sub>)|
+|-|-|
+|U<sub>X</sub>|Urine potassium (mEq/L)|
+|P<sub>X</sub>|Plasma potassium (mEq/L)|
+|U<sub>Osmolality</sub>|Urine osmolality|
+|P<sub>Osmolality</sub>|Plasma osmolality|
