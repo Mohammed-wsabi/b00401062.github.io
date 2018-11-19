@@ -48,8 +48,8 @@
 |W|Weight (kg)|
 |TBSA|Total body surface area (%)|
 
-- 1/2 in 1st 8 hours
-- 1/2 in next 16 hours
+- 1/2 in the 1st 8 hours
+- 1/2 in the next 16 hours
 
 ## Free Water Deficit (FWD)
 
@@ -99,6 +99,13 @@
 |VO<sub>2</sub>|O<sub>2</sub> consumption rate (mL-O<sub>2</sub>/min)|
 |CaO<sub>2</sub>|Arterial O<sub>2</sub> content (mL-O<sub>2</sub>/dL)|
 |CvO<sub>2</sub>|Venous O<sub>2</sub> content (mL-O<sub>2</sub>/dL)|
+
+## Bazett's Formula for Corrected QT Interval (QTc)
+
+|Parameter|QTc = QT ÷ √RR|
+|-|-|
+|QT|QT interval|
+|RR|RR interval|
 
 ## Inotropic Equivalent (IE)
 
