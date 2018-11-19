@@ -100,7 +100,7 @@
 |CaO<sub>2</sub>|Arterial O<sub>2</sub> content (mL-O<sub>2</sub>/dL)|
 |CvO<sub>2</sub>|Venous O<sub>2</sub> content (mL-O<sub>2</sub>/dL)|
 
-## Bazett's Formula for Corrected QT Interval (QTc)
+## Bazett's Formula of Corrected QT Interval (QTc)
 
 |Parameter|QTc = QT ÷ √RR|
 |-|-|
@@ -189,7 +189,7 @@
 |U<sub>Cr</sub>|Urine concentration of creatinine|
 |P<sub>Cr</sub>|Plasma concentration of creatinine|
 
-## Cockcroft-Gault Equation for Creatinine Clearance
+## Cockcroft-Gault Equation of Creatinine Clearance
 
 ### Female
 
