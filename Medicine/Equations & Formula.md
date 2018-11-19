@@ -181,3 +181,21 @@
 |P<sub>X</sub>|Plasma concentration of X|
 |U<sub>Cr</sub>|Urine concentration of creatinine|
 |P<sub>Cr</sub>|Plasma concentration of creatinine|
+
+## Cockcroft-Gault Equation for Creatinine Clearance
+
+### Female
+
+|Parameter|0.85 × (140 – Age) × W ÷ (72 × Cr)|
+|-|-|
+|Age|Age (year)|
+|W|Weight (kg)|
+|Cr|Serum creatinine|
+
+### Male
+
+|Parameter|(140 – Age) × W ÷ (72 × Cr)|
+|-|-|
+|Age|Age (year)|
+|W|Weight (kg)|
+|Cr|Serum creatinine|
