@@ -97,9 +97,9 @@
 |Oliguria|Lipiduria|
 |Proteinuria < 3.5 g/dL|Proteinuria > 3.5 g/dL|
 
-## Glomerulopathy {RAGGEM-AI-AMD-MMF-DA}
+## Glomerulopathy {RAGGEM-AAMDI-MMF-DA}
 
-|Glomerulopathy|Immune Reaction|Microscopy|Nephritic|Nephrotic|
+|Glomerulopathy|Immune Reaction|Microscopy|Nephritis|Nephrosis|
 |-|-|-|-|-|
 |Rapidly progressive glomerulonephritis (RPGN)|-|Crescent|+|-|
 |Anti-GBM disease|Anti-GBM|Crescent|+|-|
@@ -108,10 +108,10 @@
 |Eosinophilic granulomatosis with polyangiitis (EGPA)|MPO-ANCA [p-ANCA]|Crescent|+|-|
 |Microscopic polyangiitis|MPO-ANCA [p-ANCA]|Crescent|+|-|
 |Alport syndrome|-|Basket-weave|+|-|
-|IgA nephropathy [Berger disease] ← HSP|Mesangial IC deposit|Mesangial proliferation|+|-|
 |Acute proliferative glomerulonephritis (APGN)|Subepithelial IC deposit|Lumpy-bumpy & Starry sky|+|-|
 |Membranoproliferative glomerulonephritis (MPGN)|Subendothelial IC deposit|Tram-track|+|+|
 |Diffuse proliferative glomerulonephritis (DPGN) ← SLE|Subendothelial IC deposit|Wire looping|+|+|
+|IgA nephropathy [Berger disease] ← HSP|Mesangial IC deposit|Mesangial proliferation|+|+|
 |Membranous nephropathy (MN) ← SLE|Subepithelial IC deposit|Spike & dome|-|+|
 |Minimal change disease (MCD)|-|Podocyte effacement|-|+|
 |Focal segmental glomerulosclerosis (FSGS)|-|Podocyte effacement|-|+|
