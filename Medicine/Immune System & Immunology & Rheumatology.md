@@ -221,24 +221,7 @@
 |DR4|Rheumatoid arthritis & DM type 1|
 |DR5|Pernicious anemia & Hashimoto thyroiditis|
 
-## Immunodeficiency {CBS-CHILD-WASH}
-
-### B Cell Deficiency {CBS}
-
-|Disease|Defects|Genetics|IgM|IgG|IgE|IgA|
-|-|-|-|-|-|-|-|
-|Common variable immunodeficiency (CVID)|-|-|↓|↓|↓|↓|
-|Bruton agammaglobulinemia|Bruton tyrosine kinase|BTK|↓|↓|↓|↓|
-|Selective IgA deficiency|-|-|-|-|-|↓|
-
-### T Cell Deficiency {CHILD}
-
-|Disease|Defects|Genetics|IgM|IgG|IgE|IgA|
-|-|-|-|-|-|-|-|
-|Chronic mucocutaneous candidiasis|-|-|-|-|-|-|
-|Hyper-IgE [Job] syndrome|-|STAT3|-|-|↑|-|
-|IL-12R deficiency|IL-12R|IL-12R|-|-|-|-|
-|DiGeorge syndrome|Thymus & Parathyroid|22q11|-|-|-|-|
+## Immunodeficiency {WASH-CHILD-CBS}
 
 ### Combined Deficiency {WASH}
 
@@ -249,6 +232,23 @@
 |Severe combined immunodeficiency (SCID) :: AR|Adenosine deaminase|ADA|↓|↓|↓|↓|
 |Severe combined immunodeficiency (SCID) :: XR|IL-2R|IL-2R|↓|↓|↓|↓|
 |Hyper-IgM syndrome|CD40L|CD40L|↑|↓|↓|↓|
+
+### T Cell Deficiency {CHILD}
+
+|Disease|Defects|Genetics|IgM|IgG|IgE|IgA|
+|-|-|-|-|-|-|-|
+|Chronic mucocutaneous candidiasis|-|-|-|-|-|-|
+|Hyper-IgE [Job] syndrome|-|STAT3|-|-|↑|-|
+|IL-12R deficiency|IL-12R|IL-12R|-|-|-|-|
+|DiGeorge syndrome|Thymus & Parathyroid|22q11|-|-|-|-|
+
+### B Cell Deficiency {CBS}
+
+|Disease|Defects|Genetics|IgM|IgG|IgE|IgA|
+|-|-|-|-|-|-|-|
+|Common variable immunodeficiency (CVID)|-|-|↓|↓|↓|↓|
+|Bruton agammaglobulinemia|Bruton tyrosine kinase|BTK|↓|↓|↓|↓|
+|Selective IgA deficiency|-|-|-|-|-|↓|
 
 ## Presentations of Wiskott-Aldrich syndrome (WAS) {WATER}
 
