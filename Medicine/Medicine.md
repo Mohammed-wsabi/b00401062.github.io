@@ -314,10 +314,10 @@
 		- **Hypokalemia**
 		- **Bartter syndrome**
 		- **Gitelman syndrome**
+		- **Diuretics** :: Loop diuretics & Thiazide
 - Urine Cl < 20 [Saline-responsive]
 	- **Vomiting**
 	- **Laxatives**
-	- **Diuretics** :: Loop diuretics & Thiazide
 	- **Cystic fibrosis**
 
 ## Manifestations of Electrolyte Disturbances
