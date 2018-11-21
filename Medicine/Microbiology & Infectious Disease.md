@@ -48,15 +48,15 @@
 |Haemophilus|-|Chocolate|
 |Legionella|Silver|Charcoal yeast|
 
-### Gram-Negative Rods (GNR) :: Enteric {P-SEEK-SS-PAY}
+### Gram-Negative Rods (GNR) :: Enteric {SEEK-P-SSPAY}
 
 |Bacteria|Stain|Culture|
 |-|-|-|
-|Pseudomonas|-|-|
 |Serratia|-|MacConkey|
 |Escherichia|-|MacConkey & EMB|
 |Enterobacter|-|MacConkey|
 |Klebsiella|-|MacConkey|
+|Pseudomonas|-|-|
 |Salmonella|-|-|
 |Shigella|-|-|
 |Proteus|-|-|
@@ -114,15 +114,15 @@
 |GAS :: Streptococcus pyogenes|Bacitracin|S|
 |GBS :: Streptococcus agalactiae|Bacitracin|R|
 
-## Classification of Enteric Gram Negative Rods {P-SEEK-SS-PAY}
+## Classification of Enteric Gram Negative Rods {SEEK-P-SSPAY}
 
 |Bacteria|Lactose Fermentation|Oxidase|
 |-|-|-|
-|Pseudomonas|-|+|
 |Serratia|+|-|
 |Escherichia|+|-|
 |Enterobacter|+|-|
 |Klebsiella|+|-|
+|Pseudomonas|-|+|
 |Salmonella|-|-|
 |Shigella|-|-|
 |Proteus|-|-|
@@ -256,14 +256,14 @@
 |L|Legionella|
 |Y|Yersinia pestis|
 
-## Encapsulated Bacteria {SHN-PEKS}
+## Encapsulated Bacteria
 
 - Streptococcus pneumoniae
 - Haemophilus influenzae
 - Neisseria meningitidis
-- Pseudomonas aeruginosa
 - Escherichia coli: K capsule
 - Klebsiella pneumonia
+- Pseudomonas aeruginosa
 - Salmonella typhi: Vi capsule
 
 ## Catalase Positive Bacteria
@@ -621,8 +621,8 @@
 - Streptococcus pneumonia
 - Haemophilus influenzae
 - Moraxella catarrhalis
-- Pseudomonas aeruginosa
 - Klebsiella pneumoniae
+- Pseudomonas aeruginosa
 - Legionella
 - Mycoplasma
 - Chlamydia
@@ -693,13 +693,13 @@
 |HPV|Condyloma accumulata|-|
 |HSV|Paniful ulcers|-|
 
-## Pathogens of Meningitis {SHN-HEC}
+## Pathogens of Meningitis
 
 - Streptococcus pneumonia
 - Haemophilus influenzae
 - Neisseria meningitidis
-- HSV & HIV
 - Enterovirus
+- HSV & HIV
 - Cryptococcus
 
 ## CSF Findings in Meningitis
