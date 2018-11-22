@@ -47,7 +47,7 @@
 
 ## Management of Asthma
 
-![](../Figures/Management%20of%20%Asthma.gif)
+![](../Figures/Management%20of%20Asthma.gif)
 
 ## Mechanisms of Action of Medications for Asthma
 
