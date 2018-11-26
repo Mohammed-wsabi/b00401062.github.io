@@ -81,7 +81,7 @@
 ### Dimensions of a Supervised Machine Learning Algorithm
 
 - There are three decisions we must make:
-	- **Model**: Denoted as $`g(x|θ)`$ where $`g`$ is the model, $`x`$ is the input, and $`θ`$ are the parameters.
+	- **Model**: Denoted as $`\hat{f}(x|θ)`$ where $`\hat{f}`$ is the model, $`x`$ is the input, and $`θ`$ are the parameters.
 	- **Loss function** ($`L`$): To compute the difference between the desired output and our approximation to it.
 	- **Optimization procedure**: To find $`θ^*`$ that minimizes the total error.
 
@@ -100,29 +100,29 @@
 
 ### Classification
 
-- **Bayes' rule**: $`P(y=i|x)=P(y=i)P(x|y=i)/P(x)`$ where
+- **Bayes' rule**: $`P(y=i|x)`$ = $`P(y=i)P(x|y=i)/P(x)`$ where
 	- $`P(y=i|x)`$ is the **posterior probability**.
 	- $`P(y=i)`$ is the **prior probability**.
 	- $`P(x|y=i)`$ is the **likelihood**.
 	- $`P(x)`$ is the **evidence**.
-- **Bayes' classifier**: Given an observation $`x`$, the predicted class $`\hat{y}=\text{argmax}_iP(y=i|x)`$.
+- **Bayes' classifier**: Given an observation $`x`$, the predicted class $`\hat{y}`$ = $`\text{argmax}_iP(y=i|x)`$.
 
 ---
 
 ### Losses and Risks
 
-- Let $`λ_{ik}`$ be the loss incurred for falsely assuming $`\hat{y}=i`$ when the input actually belongs to $`y=k`$.
-- The *expected loss* for misclassification is $`L(y=i|x)=\sum_{k=1}^Kλ_{ik}P(y=k|x)`$.
+- Let $`λ_{ik}`$ be the loss incurred for falsely assuming $`\hat{y}`$ = $`i`$ when the input actually belongs to $`y`$ = $`k`$.
+- The *expected loss* for misclassification is $`L(y=i|x)`$ = $`\sum_{k=1}^Kλ_{ik}P(y=k|x)`$.
 - The class with the least expected loss is $`\text{argmin}_iL(y=i|x)`$.
-- In Bayesian classifier, $`λ_{ik}`$ is 0 if $`i=k`$, or 1 if $`i≠k`$.
-- $`\hat{y}=\text{argmin}_iL(y=i|x)=\text{argmin}_i\sum_{k=1}^Kλ_{ik}P(y=k|x)=\text{argmin}_i1-P(y=i|x)=\text{argmax}_iP(y=i|x)`$.
+- In Bayesian classifier, $`λ_{ik}`$ is 0 if $`i`$ = $`k`$, or 1 if $`i`$ ≠ $`k`$.
+- $`\hat{y}`$ = $`\text{argmin}_iL(y=i|x)`$ = $`\text{argmin}_i\sum_{k=1}^Kλ_{ik}P(y=k|x)`$ = $`\text{argmin}_i1-P(y=i|x)`$ = $`\text{argmax}_iP(y=i|x)`$.
 
 ---
 
 ### Discriminant Functions
 
-- Classification can be seen as implementing a set of *discriminant functions*, $`g_i(x)`$, $`i=1,...,K`$, such that $`\hat{y}=\text{argmax}_ig_i(x)`$.
-- This divides the feature space into $`K`$ *decision regions* $`R_1,...,R_K`$.
+- Classification can be seen as implementing a set of *discriminant functions*, $`g_i(x)`$, $`i\in\{1,...,K\}`$, such that $`\hat{y}`$ = $`\text{argmax}_ig_i(x)`$.
+- This divides the feature space into $`K`$ *decision regions* $`R_i`$, $`i\in\{1,...,K\}`$.
 - The regions are separated by *decision boundaries*.
 
 ---
@@ -132,7 +132,7 @@
 - An association rule is an implication of the form $`X→Y`$ where $`X`$ is the **antecedent** and $`Y`$ is the **consequent** of the rule.
 - **Support**: $`\text{support}(X→Y)`$ := $`P(X,Y)`$.
 - **Confidence**: $`\text{confidence}(X→Y)`$ := $`P(Y|X)`$.
-- **Lift** (or **interest**): $`\text{lift}(X→Y)`$ := $`\frac{P(X,Y)}{P(X)P(Y)}=\frac{P(Y|X)}{P(Y)}`$.
+- **Lift** (or **interest**): $`\text{lift}(X→Y)`$ := $`\frac{P(X,Y)}{P(X)P(Y)}`$ = $`\frac{P(Y|X)}{P(Y)}`$.
 - Two steps of **Apriori** algorithm:
 	1. Find frequent item sets, that is, those which have enough *support*.
 	2. Convert them to rules with enough *confidence* by splitting the items into two, as items in the *antecedent* and items in the *consequent*.
@@ -148,61 +148,97 @@
 - [Evaluating an Estimator: Bias and Variance](#evaluating-an-estimator-bias-and-variance)
 - [The Bayes' Estimator](#the-bayes-estimator)
 - [Parametric Classification](#parametric-classification)
+- [Regression](#regression)
+- [Tuning Model Complexity: Bias/Variance Dilemma](#tuning-model-complexity-biasvariance-dilemma)
+- [Model Selection Procedures](#model-selection-procedures)
 
 ---
 
 ### Maximum Likelihood Estimation
 
-- Let $`X=\{x_i\}_{i=1}^N`$ be a set of $`N`$ independent and identically distributed (iid) samples drawn from some known probability density family, $`P(x|θ)`$.
-- The **likelihood** of parameter $`θ`$ given sample $`X`$ is the product of the likelihoods of the individual points: $`I(θ|X)=P(X|θ)=\prod_{i=1}^NP(x_i|θ)`$.
-- **Maximum likelihood estimation (MLE)**: $`\hat{θ}=\text{argmax}_θI(θ|X)`$.
-- **Log likelihood**: $`L(θ|X)=\log I(θ|X)`$.
+- Let $`X`$ = $`\{x_i\}_{i=1}^N`$ be a set of $`N`$ independent and identically distributed (iid) samples drawn from some known probability density family.
+- The **likelihood** of parameter $`θ`$ given sample $`X`$ is the product of the likelihoods of the individual points: $`I(θ|X)`$ = $`P(X|θ)`$ = $`\prod_{i=1}^NP(x_i|θ)`$.
+- **Log likelihood**: $`L(θ|X)`$ = $`\log I(θ|X)`$ = $`\log P(X|θ)`$ = $`\sum_{i=1}^NP(x_i|θ)`$.
+- **Maximum likelihood estimation (MLE)**: $`\hat{θ}`$ = $`\text{argmax}_θI(θ|X)`$ = $`\text{argmax}_θL(θ|X)`$.
 - **Bernoulli density**:
 	- $`X\sim B(N,θ)`$.
-	- $`P(x_i|θ)=θ^{x_i}(1-θ)^{1-x_i}`$.
-	- $`L(θ|X)`$ =  $`\log\prod_{i=1}^Nθ^{x_i}(1-θ)^{1-x_i}=\sum_ix_i\logθ+(N-\sum_ix_i)\log(1-θ)`$.
-	- $`\hat{θ}=\sum_ix_i/N`$.
+	- $`P(x_i|θ)`$ = $`θ^{x_i}(1-θ)^{1-x_i}`$.
+	- $`L(θ|X)`$ = $`\log\prod_{i=1}^Nθ^{x_i}(1-θ)^{1-x_i}`$ = $`\sum_ix_i\logθ+(N-\sum_ix_i)\log(1-θ)`$.
+	- $`\hat{θ}`$ = $`\sum_ix_i/N`$.
 - **Multinomial density**:
-	- $`X\sim\text{multinomial}(N,θ_1,...,θ_K)`$.
-	- $`P(x_i|θ_1,...,θ_K)=\prod_{k=1}^Kθ_i^{x_{ik}}`$ where $`x_{ik}`$ is 1 if $`x_i=k`$, or 0 if $`x_i≠k`$.
-	- $`\hat{θ_k}=\sum_ix_{ik}/N`$, $`k=1,...,K`$.
+	- $`X\sim\text{multinomial}(N,θ)`$, where $`θ`$ = $`\{θ_i|i=1,...,K\}`$.
+	- $`P(x_i|θ)`$ = $`\prod_{k=1}^Kθ_i^{x_{ik}}`$ where $`x_{ik}`$ is 1 if $`x_i`$ = $`k`$, or 0 if $`x_i`$ ≠ $`k`$.
+	- $`\hat{θ_k}`$ = $`\sum_ix_{ik}/N`$, $`k\in\{1,...,K\}`$.
 - **Gaussian density**:
 	- $`X\sim N(μ,σ^2)`$.
-	- $`P(x_i|μ,σ^2)=\frac{1}{\sqrt{2πσ^2}}\exp(-\frac{(x_i-μ)^2}{2σ^2})`$.
-	- $`\hat{μ}=\sum_ix_i/N`$.
-	- $`\hat{σ^2}=\sum_i(x_i-\hat{μ})^2/N`$.
+	- $`P(x_i|μ,σ^2)`$ = $`\frac{1}{\sqrt{2πσ^2}}\exp(-\frac{(x_i-μ)^2}{2σ^2})`$.
+	- $`\hat{μ}`$ = $`\sum_ix_i/N`$.
+	- $`\hat{σ^2}`$ = $`\sum_i(x_i-\hat{μ})^2/N`$.
 
 ---
 
 ### Evaluating an Estimator: Bias and Variance
 
 - Let $`\hat{θ}`$ be an estimator of $`θ`$ based on $`N`$ observations.
-- The *bias* of an estimator: $`b_θ(\hat{θ})`$ := $`E[\hat{θ}-θ]`$.
-- The *mean square error (MSE)* of the estimator: $`r_θ(\hat{θ})`$ := $`E[(\hat{θ}-θ)^2]`$.
-- **Unbiased estimator**: $`\hat{θ}`$ is an *unbiased* estimator of $`θ`$ if $`b_θ(\hat{θ})=0`$ or $`E[\hat{θ}]=θ`$.
+- **Bias**: $`b_θ(\hat{θ})`$ := $`E[\hat{θ}-θ]`$.
+- **Mean square error (MSE)**: $`r_θ(\hat{θ})`$ := $`E[(\hat{θ}-θ)^2]`$.
+- **Unbiased estimator**: $`\hat{θ}`$ is an *unbiased* estimator of $`θ`$ if $`b_θ(\hat{θ})`$ = $`0`$ or $`E[\hat{θ}]`$ = $`θ`$.
 - **Consistent estimator**: $`\hat{θ}`$ is a *consistent* estimator of $`θ`$ if $`r_θ(\hat{θ})→0`$ as $`N→0`$.
-- $`m=\sum_i{x_i}/N`$ is an unbiased and consistent estimator of $`μ`$.
-- $`s^2=\sum{(x_i-m)^2}/N`$ is a biased but consistent estimator of $`σ^2`$ since $`E[s^2]=\frac{N-1}{N}σ^2≠σ^2`$.
-- **Asymptotically unbiased estimator**:  $`\hat{θ}`$ is an *asymptotically unbiased* estimator of $`θ`$ if $`b_θ(\hat{θ})→0`$ or $`E[\hat{θ}]→θ`$ as $`N→0`$.
-- $`r_θ(\hat{θ})=\text{variance}(\hat{θ})+b_θ^2(\hat{θ})`$.
+- $`m`$ = $`\sum_i{x_i}/N`$ is an unbiased and consistent estimator of $`μ`$.
+- $`s^2`$ = $`\sum{(x_i-m)^2}/N`$ is a biased but consistent estimator of $`σ^2`$ since $`E[s^2]`$ = $`\frac{N-1}{N}σ^2≠σ^2`$.
+- **Asymptotically unbiased estimator**: $`\hat{θ}`$ is an *asymptotically unbiased* estimator of $`θ`$ if $`b_θ(\hat{θ})→0`$ or $`E[\hat{θ}]→θ`$ as $`N→0`$.
+- $`r_θ(\hat{θ})`$ = $`\text{variance}(\hat{θ})+b_θ^2(\hat{θ})`$.
 
 ---
 
 ### The Bayes' Estimator
 
 - The estimation of $`θ`$ can be exploited by prior information on the distribution of $`θ`$.
-- **Bayes' rule**: $`P(θ|X)=P(θ)P(X|θ)/P(X)`$ where
+- **Bayes' rule**: $`P(θ|X)`$ = $`P(θ)P(X|θ)/P(X)`$ where
 	- **Posterior density** $`P(θ|X)`$: the likely $`θ`$ values after looking at the sample.
 	- **Prior density** $`P(θ)`$: the likely values that $`θ`$ may take before looking at the sample.
-	- **Likelihood** $`P(X|θ)`$:
-	- The **density** at $`x`$: $`P(X)=\int P(X|θ)P(θ)dθ`$.
-- **Maximum likelihood estimate (MLE)**: $`\hat{θ}=\text{argmax}_θP(X|θ)`$.
-- **Maximum a posteriori (MAP) estimate**: $`\hat{θ}=\text{argmax}_θP(θ|X)`$.
-- **Bayes' estimate**: $`\hat{θ}=E[θ|X]=\int θP(θ|X)dθ`$.
-- The Bayes' estimator for posterior mean $`\hat{μ}`$ is a weighted average of the prior mean $`μ` and the sample mean $`m`$.
+- **Maximum likelihood estimate (MLE)**: $`\hat{θ}`$ = $`\text{argmax}_θP(X|θ)`$.
+- **Maximum a posteriori (MAP) estimate**: $`\hat{θ}`$ = $`\text{argmax}_θP(θ|X)`$.
+- **Bayes' estimate**: $`\hat{θ}`$ = $`E[θ|X]`$ = $`\int θP(θ|X)dθ`$.
+- The Bayes' estimator for posterior mean $`\hat{μ}`$ is a weighted average of the prior mean $`μ`$ and the sample mean $`m`$.
 
 ---
 
 ### Parametric Classification
+
+- In the case of *Bayes' classification*, the discriminant function for class $`i\in\{1,...,K\}`$ is<br>$`g_i(x)`$ = $`P(x|y=i)P(y=i)`$, or $`g_i(x)`$ = $`\log P(x|y=i)+\log P(y=i)`$.
+- In the case of *Gaussian Bayes' classification*:
+	- $`P(x|y=i)`$ = $`\frac{1}{\sqrt{2πσ_i^2}}\exp(-\frac{(x-μ_i)^2}{2σ_i^2})`$.
+	- $`g_i(x)`$ = $`-\frac{1}{2}\log2π-\logσ_i-\frac{(x-μ_i)^2}{2σ_i^2}+\log P(y=i)`$.
+	- $`μ_i`$ and $`σ_i^2`$ are estimated based on $`N`$ observations.
+	- If the priors and the variance are equal, then $`\text{argmax}_ig_i(x)`$ = $`\text{argmax}_i-(x-μ_i)^2`$ = $`\text{argmin}_i|x-μ_i|`$.
+	- The threshold of decision is the midpoint between the two means.
+
+---
+
+### Regression
+
+- $`y`$ = $`f(x)+ε`$: The numeric output is the sum of a deterministic function of the input and random noise.
+- $`f(x)`$, the unknown function, is approximated by the estimator $`\hat{f}(x|θ)`$.
+- Assume that $`ε`$ is zero mean Gaussian with constant variance $`σ^2`$, namely, $`ε\sim N(0,σ^2)`$.
+- By placing $`\hat{f}(x|θ)`$ in place of $`f(x)`$, we have $`P(y|x)\sim N(\hat{f}(x|θ),σ^2)`$.
+- $`P(x,y)`$ = $`P(y|x)P(x)`$, where $`P(y|x)`$ is the output given the input, and $`P(x)`$ is the input density.
+- $`L(θ|X)`$ = $`\log \prod_{i=1}^NP(x_i,y_i)`$ = $`\log\prod_{i=1}^NP(y_i|x_i)+\log\prod_{i=1}^NP(x_i)`$.
+- In the case of *linear regression*:
+	- $`\hat{f}(x|w_0,w_1)`$ = $`w_0+w_1x`$.
+	- $`\text{argmax}_{w_0,w_1}L(w_0,w_1|X)`$ = $`\text{argmax}_{w_0,w_1}\log\prod_{i=1}^NP(y_i|x_i)`$ = $`\text{argmax}_{w_0,w_1}\sum_{i=1}^N(y_i-\hat{f}(x|w_0,w_1))^2`$.
+	- Assuming Gaussian distributed error and maximizing likelihood corresponds to minimizing the sum of squared errors.
+- **Relative square error (RSE)**: RSE = Residual sum of squares / Total sum of squares = $`\sum_i(y_i-\hat{y}_i)^2/\sum_i(y_i-\bar{y})^2`$.
+- **Coefficient of determination**: $`R^2`$ = 1 - RSE.
+
+---
+
+### Tuning Model Complexity: Bias/Variance Dilemma
+
+- **Bias/variance dilemma**
+
+---
+
+### Model Selection Procedures
 
 ---
