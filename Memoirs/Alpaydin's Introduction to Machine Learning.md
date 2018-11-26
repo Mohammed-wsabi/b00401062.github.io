@@ -180,14 +180,14 @@
 ### Evaluating an Estimator: Bias and Variance
 
 - Let $`\hat{θ}`$ be an estimator of $`θ`$ based on $`N`$ observations.
-- **Bias**: $`b_θ(\hat{θ})`$ := $`E[\hat{θ}-θ]`$.
-- **Mean square error (MSE)**: $`r_θ(\hat{θ})`$ := $`E[(\hat{θ}-θ)^2]`$.
+- **Bias** of an estimator: $`b_θ(\hat{θ})`$ := $`E[θ-\hat{θ}]`$.
+- **Mean square error (MSE)** of an estimator: $`r_θ(\hat{θ})`$ := $`E[(θ-\hat{θ})^2]`$.
 - **Unbiased estimator**: $`\hat{θ}`$ is an *unbiased* estimator of $`θ`$ if $`b_θ(\hat{θ})`$ = $`0`$ or $`E[\hat{θ}]`$ = $`θ`$.
 - **Consistent estimator**: $`\hat{θ}`$ is a *consistent* estimator of $`θ`$ if $`r_θ(\hat{θ})→0`$ as $`N→0`$.
 - $`m`$ = $`\sum_i{x_i}/N`$ is an unbiased and consistent estimator of $`μ`$.
-- $`s^2`$ = $`\sum{(x_i-m)^2}/N`$ is a biased but consistent estimator of $`σ^2`$ since $`E[s^2]`$ = $`\frac{N-1}{N}σ^2≠σ^2`$.
+- $`s^2`$ = $`\sum{(x_i-m)^2}/N`$ is a biased but consistent estimator of $`σ^2`$ since $`E[s^2]`$ = $`\frac{N-1}{N}σ^2`$ ≠ $`σ^2`$.
 - **Asymptotically unbiased estimator**: $`\hat{θ}`$ is an *asymptotically unbiased* estimator of $`θ`$ if $`b_θ(\hat{θ})→0`$ or $`E[\hat{θ}]→θ`$ as $`N→0`$.
-- $`r_θ(\hat{θ})`$ = $`\text{variance}(\hat{θ})+b_θ^2(\hat{θ})`$.
+- MSE = $`r_θ(\hat{θ})`$ = $`b_θ^2(\hat{θ})+\text{variance}(\hat{θ})`$ = bias<sup>2</sup> + variance.
 
 ---
 
@@ -228,17 +228,34 @@
 	- $`\hat{f}(x|w_0,w_1)`$ = $`w_0+w_1x`$.
 	- $`\text{argmax}_{w_0,w_1}L(w_0,w_1|X)`$ = $`\text{argmax}_{w_0,w_1}\log\prod_{i=1}^NP(y_i|x_i)`$ = $`\text{argmax}_{w_0,w_1}\sum_{i=1}^N(y_i-\hat{f}(x|w_0,w_1))^2`$.
 	- Assuming Gaussian distributed error and maximizing likelihood corresponds to minimizing the sum of squared errors.
-- **Relative square error (RSE)**: RSE = Residual sum of squares / Total sum of squares = $`\sum_i(y_i-\hat{y}_i)^2/\sum_i(y_i-\bar{y})^2`$.
+- **Relative square error (RSE)**: RSE = residual sum of squares (RSS) / total sum of squares (TSS) = $`\sum_i(y_i-\hat{y}_i)^2/\sum_i(y_i-\bar{y})^2`$.
 - **Coefficient of determination**: $`R^2`$ = 1 - RSE.
 
 ---
 
 ### Tuning Model Complexity: Bias/Variance Dilemma
 
-- **Bias/variance dilemma**
+- Consider $`y`$ = $`f(x)+ε`$, where $`ε\sim N(0,σ^2)`$ and $`\hat{f}`$ is an estimator of $`f`$.
+- **Mean square error (MSE)** of a model: $`E[(y-\hat{f})^2]`$ = $`E[(f-\hat{f}+ε)^2]`$ = $`E[(f-\hat{f})^2]+2E[(f-\hat{f})ε]+E[ε^2]`$ = $`E[(f-\hat{f})^2]+E[ε^2]`$ = $`b_f(\hat{f})^2+r_f(\hat{f})+σ^2`$ = bias<sup>2</sup> + variance + noise.
+- **Bias/variance dilemma**: Models with a lower bias in parameter estimation have a higher variance of the parameter estimates across samples, and vice versa.
+- In a sense, high bias implies **underfitting** and high variance implies **overfitting**.
 
 ---
 
 ### Model Selection Procedures
+
+- In practice, we cannot calculate the bias and variance for a model, but we can calculate the total error.
+- **Cross-validation**:
+	- The validation error is an estimate of the total error except that it also contains the variance of the noise.
+	- Cross-validation makes no prior assumption about the model or parameters.
+- **Regularization** introduce an **augmented error function** to penalizes complex models with large variance.
+- The augmented error function can be seen as an **optimism** estimating the discrepancy between training and test error.
+- The weight of the penalty $`λ`$ is optimized using cross-validation.
+- **Akaike’s information criterion (AIC)** and **Bayesian information criterion (BIC)** work by estimating the optimism and adding it to the training error to estimate test error, without any need for validation.
+- **Structural risk minimization (SRM)** uses a set of models ordered in terms of their complexities.
+- **Minimum description length (MDL)** is based on an information theoretic measure.
+- **Bayesian model selection** is used when we have some prior knowledge about the appropriate class of approximating functions.
+
+![](https://www.kdnuggets.com/wp-content/uploads/bias-variance-total-error.jpg)
 
 ---
