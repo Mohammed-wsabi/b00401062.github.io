@@ -67,7 +67,7 @@
 - [Literature Review](Memoirs/Literature%20Review.html)
 - [Montgomery's Design and Analysis of Experiments](Memoirs/Montgomery's%20Design%20and%20Analysis%20of%20Experiments.html)
 - [Thaler's The Only EKG Book You'll Ever Need](Memoirs/Thaler's%20The%20Only%20EKG%20Book%20You'll%20Ever%20Need.pdf)
-- [Thompson's Type Theory & Functional Programming](Memoirs/Thompson's%20Type%20Theory%20&%20Functional%20Programming.html)
+- [Thompson's Type Theory & Functional Programming](Memoirs/Thompson's%20Type%20Theory%20&%20Functional%20Programming.pdf)
 
 ## Packages
 
