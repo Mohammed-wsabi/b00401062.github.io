@@ -5,7 +5,7 @@ from numpy import *
 from pandas import *
 from scipy.io import loadmat
 from sklearn.model_selection import train_test_split
-from strpml.Constants import *
+from strp.Constants import *
 
 class Populator:
 	def __init__(self):
@@ -18,10 +18,10 @@ class Populator:
 	def populate(self):
 		return (self.DATASETS, self.BESTS)
 	def __datasets(self):
-		if os.path.isfile("./Downloads/Researches/STRPML/Datasets/Datasets.pkl"):
-			with open("./Downloads/Researches/STRPML/Datasets/Datasets.pkl", "rb") as fin:
+		if os.path.isfile("./Downloads/Researches/STRP/Datasets/Datasets.pkl"):
+			with open("./Downloads/Researches/STRP/Datasets/Datasets.pkl", "rb") as fin:
 				return pickle.load(fin)
-		fname = "./Downloads/Researches/STRPML/Datasets/Metadata/Response.csv"
+		fname = "./Downloads/Researches/STRP/Datasets/Metadata/Response.csv"
 		table = read_csv(fname, header = 0, index_col = 0)[COLUMNS + ["Category"]]
 		datasets = {
 			"Training": {
@@ -56,7 +56,7 @@ class Populator:
 			Test = Course(
 				Chronic = Category(**datasets["Test"]["Chronic"]),
 				Early = Category(**datasets["Test"]["Early"])))
-		with open("./Downloads/Researches/STRPML/Datasets/Datasets.pkl", "wb") as fout:
+		with open("./Downloads/Researches/STRP/Datasets/Datasets.pkl", "wb") as fout:
 			pickle.dump(datasets, fout, pickle.HIGHEST_PROTOCOL)
 		return datasets
 	def __loadmat(self, dataset, category):
@@ -64,11 +64,11 @@ class Populator:
 		dataset[category].Sex = dataset[category].Sex.astype("category")
 		dataset[category] = dataset[category].reindex(columns = COLUMNS + FEATURES)
 		## Check folder integrity
-		assert all(isin(dataset[category].File, os.listdir("/Volumes/Transcend/STRPML/")))
+		assert all(isin(dataset[category].File, os.listdir("/Volumes/Transcend/STRP/")))
 		## Load MAP-MRI indices
 		for subject in dataset[category].index:
 			print("== Session %s ==" % subject)
-			dname = "/Volumes/Transcend/STRPML/%s/lddmm-dsi/" % dataset[category].File[subject]
+			dname = "/Volumes/Transcend/STRP/%s/lddmm-dsi/" % dataset[category].File[subject]
 			for index in INDICES:
 				matched = list(filter(re.compile(".*\\.%s_Array\\.mat$" % index.lower()).match, os.listdir(dname)))
 				assert len(matched) == 1

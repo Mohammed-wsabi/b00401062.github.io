@@ -4,10 +4,10 @@ from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
 from sklearn.linear_model import LogisticRegression
 from sklearn.svm import SVC
-from strpml.Constants import *
-from strpml.Preprocessor import *
-from strpml.Validator import *
-from strpml.Evaluator import *
+from strp.Constants import *
+from strp.Preprocessor import *
+from strp.Validator import *
+from strp.Evaluator import *
 
 class Pipeline:
 	def __init__(self, bests, validate = False, evaluate = True, transfer = True):

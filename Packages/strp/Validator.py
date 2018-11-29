@@ -3,8 +3,8 @@ from numpy import *
 from pandas import *
 from sklearn.model_selection import LeaveOneOut
 from sklearn.model_selection import validation_curve
-from strpml.Constants import *
-from strpml.Preprocessor import *
+from strp.Constants import *
+from strp.Preprocessor import *
 
 class Validator:
 	def __init__(self, preprocessor, param_name, param_range, xlabel, xtickslabels):
@@ -60,5 +60,5 @@ class Validator:
 		xlabel(self.xlabel)
 		ylabel("Accuracy")
 		legend(frameon = False)
-		savefig("./Downloads/Researches/STRPML/Figures/Validation/Validation %s.png" % self.title)
+		savefig("./Downloads/Researches/STRP/Figures/Validation/Validation %s.png" % self.title)
 		close()

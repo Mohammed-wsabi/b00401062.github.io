@@ -1,6 +1,6 @@
-from strpml.Populator import *
-from strpml.Demographics import *
-from strpml.Pipeline import *
+from strp.Populator import *
+from strp.Demographics import *
+from strp.Pipeline import *
 
 if __name__ == "__main__":
     DATASETS, BESTS = Populator().populate()

@@ -1,4 +1,4 @@
-# Schizophrenia Treatment Response Prediction Machine Learning (STRPML)
+# Schizophrenia Treatment Response Prediction (STRP)
 
 ## Importing Data
 
@@ -21,5 +21,5 @@
 ```bash
 export PYTHONHASHSEED=0
 export PYTHONPATH=$HOME/Documents/Packages/
-python3 -B -m strpml
+python3 -B -m strp
 ```

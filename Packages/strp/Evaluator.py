@@ -3,8 +3,8 @@ from numpy import *
 from pandas import *
 from sklearn.metrics import roc_curve, auc
 from sklearn.metrics import confusion_matrix
-from strpml.Constants import *
-from strpml.Preprocessor import *
+from strp.Constants import *
+from strp.Preprocessor import *
 
 class Evaluator:
 	def __init__(self, preprocessor):
