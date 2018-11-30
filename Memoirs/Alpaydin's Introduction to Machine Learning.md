@@ -226,7 +226,7 @@
 - $`L(θ|X)`$ = $`\log \prod_{i=1}^NP(x_i,y_i)`$ = $`\log\prod_{i=1}^NP(y_i|x_i)+\log\prod_{i=1}^NP(x_i)`$.
 - In the case of *linear regression*:
 	- $`\hat{f}(x|w_0,w_1)`$ = $`w_0+w_1x`$.
-	- $`\text{argmax}_{w_0,w_1}L(w_0,w_1|X)`$ = $`\text{argmax}_{w_0,w_1}\log\prod_{i=1}^NP(y_i|x_i)`$ = $`\text{argmax}_{w_0,w_1}\sum_{i=1}^N(y_i-\hat{f}(x|w_0,w_1))^2`$.
+	- $`\text{argmax}_{w_0,w_1}L(w_0,w_1|X)`$ = $`\text{argmax}_{w_0,w_1}\log\prod_{i=1}^NP(y_i|x_i)`$ = $`\text{argmax}_{w_0,w_1}\sum_{i=1}^N(y_i-\hat{f}(x_i|w_0,w_1))^2`$.
 	- Assuming Gaussian distributed error and maximizing likelihood corresponds to minimizing the sum of squared errors.
 - **Relative square error (RSE)**: RSE = residual sum of squares (RSS) / total sum of squares (TSS) = $`\sum_i(y_i-\hat{y}_i)^2/\sum_i(y_i-\bar{y})^2`$.
 - **Coefficient of determination**: $`R^2`$ = 1 - RSE.
