@@ -86,3 +86,4 @@
 - [tabula](Packages/tabula): Conversion of a delimited text file into a beautiful [Bootstrap](http://getbootstrap.com) table.
 - [timer](Packages/timer): Timer that goes off after 25 minutes for USMLE Step 2 CS.
 - [usaco](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/usaco): Collection of Java programs solving [USACO](http://train.usaco.org/usacogate) problems.
+- [wmtc](Packages/wmtc): Pipeline for white matter tract clustering using DSI data.
