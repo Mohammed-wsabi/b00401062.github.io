@@ -7,8 +7,8 @@ from sklearn.gaussian_process import GaussianProcessRegressor
 from sklearn.gaussian_process.kernels import RBF
 from sklearn.gaussian_process.kernels import WhiteKernel
 
-df = read_csv("/Users/luo/Downloads/Projects/WMTC/Datasets/Demographics.csv", index_col = 0)
-with open("/Users/luo/Downloads/Projects/WMTC/Datasets/Indices/GFA.pkl", "rb") as fin:
+df = read_csv("/Users/luo/Downloads/Projects/NDWMT/Datasets/Demographics.csv", index_col = 0)
+with open("/Users/luo/Downloads/Projects/NDWMT/Datasets/Indices/GFA.pkl", "rb") as fin:
 	gfa = pickle.load(fin)
 
 kernel = 1.0 * RBF() + WhiteKernel()
@@ -22,5 +22,5 @@ for i in range(76):
 	plot(x, y_mean)
 	fill_between(x, y_mean - sqrt(diag(y_cov)), y_mean + sqrt(diag(y_cov)), alpha = 0.5)
 	ylim([0, 1])
-	savefig("/Users/luo/Downloads/Projects/WMTC/Figures/Scatters/{}".format(TRACTS[i].Nickname))
+	savefig("/Users/luo/Downloads/Projects/NDWMT/Figures/Scatters/{}".format(TRACTS[i].Nickname))
 	clf()
