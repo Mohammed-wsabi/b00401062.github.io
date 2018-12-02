@@ -80,6 +80,7 @@ title: Life Code
 - [gpa](Packages/gpa): Applet that calculates your average GPA.
 - [hpaic](Packages/hpaic): Human protein atlas image classification.
 - [leetcode](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/leetcode): Collection of Java programs solving [LeetCode](https://leetcode.com/problemset/all/) problems.
+- [ndwmt](Packages/ndwmt): Pipeline for normative model of white matter tracts using DSI data.
 - [notebook](Packages/notebook): Place where you can take note of trivial things in your life.
 - [osccm](Packages/osccm): Pipeline for metagenomics analysis to study association between microbiota and cancer.
 - [ratlab](Packages/ratlab): Collection of [Matlab](https://www.mathworks.com) functions implemented natively in [R](https://www.r-project.org) in an attempt to be a [Cython](http://cython.org) counterpart.
@@ -88,4 +89,3 @@ title: Life Code
 - [tabula](Packages/tabula): Conversion of a delimited text file into a beautiful [Bootstrap](http://getbootstrap.com) table.
 - [timer](Packages/timer): Timer that goes off after 25 minutes for USMLE Step 2 CS.
 - [usaco](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/usaco): Collection of Java programs solving [USACO](http://train.usaco.org/usacogate) problems.
-- [ndwmt](Packages/ndwmt): Pipeline for normative model of white matter tracts using DSI data.
