@@ -1,1 +1,1 @@
-# White Matter Tract Clustering (WMTC)
+# Normative Development of White Matter Tract (NDWMT)
