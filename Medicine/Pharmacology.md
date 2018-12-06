@@ -499,8 +499,7 @@
 |Metronidazole|↑ DNA intercalation|DNA|Bacterium|
 |Streptomycin|↑ DNA intercalation|DNA|Mycobacterium|
 |Bleomycin|↑ DNA intercalation|DNA|Human|
-|Dactinomycin|↑ DNA intercalation|DNA|Human|
-|Doxorubicin|↑ DNA intercalation|DNA|Human|
+|Anthracyclines|↑ DNA intercalation|DNA|Human|
 |Daunorubicin|↑ DNA intercalation|DNA|Human|
 |Nitrosourea|↑ DNA crosslinking|DNA|Human|
 |Busulfan|↑ DNA crosslinking|DNA|Human|
