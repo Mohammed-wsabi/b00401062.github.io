@@ -264,6 +264,8 @@
 	- Child-Pugh score ≤ B: Chemotherapy
 	- Child-Pugh score = C: Supportive care
 
+![](../Figures/Barcelona%20Clinic%20Liver%20Cancer%20(BCLC)%20Staging.gif)
+
 ## Liver Transplantation for Hepatocellular Carcinoma (HCC)
 
 ### Milan Criteria
