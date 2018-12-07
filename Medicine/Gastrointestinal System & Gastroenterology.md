@@ -256,7 +256,7 @@
 ## Treatment Algorithm for Hepatocellular Carcinoma (HCC)
 
 - w/o vascular invasion / extrahepatic metastasis
-	- Resectable tumor(s) & Child-Pugh score ≤ B: (Resection / RFA) ± TACE
+	- Resectable tumor(s) & Child-Pugh score ≤ B: Resection / (RFA ± TACE)
 	- Resectable tumor(s): Liver transplantation
 	- Non-resectable tumor(s) & Child-Pugh score ≤ B: RFA & TACE
 	- Non-resectable tumor(s) & Child-Pugh score = C: Supportive care
