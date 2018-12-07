@@ -253,7 +253,22 @@
 |Side-to-side portacaval anastomosis|Portal vein|IVC|
 |Transjugular intrahepatic portosystemic shunt (TIPS)|Portal vein|Hepatic vein|
 
-## Criteria for Liver Transplantation for Hepatocellular Carcinoma
+## Treatment Algorithm for Hepatocellular Carcinoma (HCC)
+
+- w/o vascular invasion / extrahepatic metastasis
+	- Resectable tumor(s) & Child-Pugh score ≤ B: Resection / RFA ± TACE
+	- Resectable tumor(s): Liver transplantation
+	- Non-resectable tumor(s) & Child-Pugh score ≤ B: RFA & TACE
+	- Non-resectable tumor(s) & Child-Pugh score = C: Supportive care
+- w/ vascular invasion / extrahepatic metastasis
+	- Child-Pugh score ≤ B: Chemotherapy
+	- Child-Pugh score = C: Supportive care
+
+## Makuuchi Criteria for Hepatectomy
+
+![](../Figures/Makuuchi%20Criteria%20for%20Hepatectomy.png)
+
+## Liver Transplantation for Hepatocellular Carcinoma (HCC)
 
 ### Milan Criteria
 
@@ -270,21 +285,6 @@
 	- ≤ 3 tumors: each < 4.5 cm & total < 8 cm
 - No vascular invasion
 - No extrahepatic metastasis
-
-## Treatment Algorithm for Hepatocellular Carcinoma (HCC)
-
-- w/o vascular invasion & w/o extrahepatic metastasis
-	- Resectable tumor(s) & Child-Pugh score ≤ B: Resection / RFA ± TACE
-	- Resectable tumor(s): Liver transplant
-	- Non-resectable tumor(s) & Child-Pugh score ≤ B: RFA & TACE
-	- Non-resectable tumor(s) & Child-Pugh score = C: Supportive care
-- w/ vascular invasion / w/ extrahepatic metastasis
-	- Child-Pugh score ≤ B: Chemotherapy
-	- Child-Pugh score = C: Supportive care
-
-## Makuuchi Criteria for Hepatectomy
-
-![](../Figures/Makuuchi%20Criteria%20for%20Hepatectomy.png)
 
 ## Whipple Procedure
 
