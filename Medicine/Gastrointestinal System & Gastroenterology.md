@@ -264,10 +264,6 @@
 	- Child-Pugh score ≤ B: Chemotherapy
 	- Child-Pugh score = C: Supportive care
 
-## Makuuchi Criteria for Hepatectomy
-
-![](../Figures/Makuuchi%20Criteria%20for%20Hepatectomy.png)
-
 ## Liver Transplantation for Hepatocellular Carcinoma (HCC)
 
 ### Milan Criteria
@@ -285,6 +281,10 @@
 	- ≤ 3 tumors: each < 4.5 cm & total < 8 cm
 - No vascular invasion
 - No extrahepatic metastasis
+
+## Makuuchi Criteria for Hepatectomy
+
+![](../Figures/Makuuchi%20Criteria%20for%20Hepatectomy.png)
 
 ## Whipple Procedure
 
