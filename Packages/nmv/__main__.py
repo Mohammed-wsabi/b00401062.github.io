@@ -27,5 +27,6 @@ if __name__ == "__main__":
 			index = [model.__class__.__name__ for model in MODELS]
 		)
 		for model in MODELS:
+			Diagnostics(tract, model.fit(x, y)).metrics(x, y)
 			Diagnostics(tract, model.fit(x, y)).scatter(x, y)
 			Diagnostics(tract, model.fit(x, y)).residual(x, y)
