@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
 
 from numpy import *
-from sklearn.metrics import r2_score
-from sklearn.metrics import mean_squared_error
-from scipy.stats import normaltest, norm
 from sklearn.model_selection import ShuffleSplit
 from matplotlib.pyplot import *
 
@@ -11,14 +8,11 @@ class Diagnostics:
 	def __init__(self, tract, model):
 		self.tract = tract
 		self.model = model
-	r2_score = r2_score
-	mean_squared_error = mean_squared_error
 	def metrics(self, x, y):
 		y_hat = self.model.predict(x)
 		cod = r2_score(y, y_hat)
 		mse = mean_squared_error(y, y_hat)
-		ks = self.normaltest(y, y_hat)
-		return (cod, mse, ks)
+		return (cod, mse)
 	def scatter(self, x, y):
 		scatter(x, y, s = 4)
 		plot(range(18, 89), self.model.y_mean)
