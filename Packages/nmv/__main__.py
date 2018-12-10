@@ -9,7 +9,7 @@ from sklearn.preprocessing import MinMaxScaler
 if __name__ == "__main__":
 	DF, GFA = Sample.load()
 	Sample.plot(DF)
-	Normality().fit(DF, GFA).plot()
+	print(sum(Normality().fit(DF, GFA).p < 0.01)/5396)
 	MODELS = [PE(), LLSR(), QLSR(), GPR()]
 	models = [model.__class__.__name__ for model in MODELS]
 	SCORES = DataFrame(
