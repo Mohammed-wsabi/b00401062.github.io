@@ -1,21 +1,24 @@
 #!/usr/bin/env python3
 
+from numpy import *
+from pandas import DataFrame
 from sklearn.model_selection import cross_validate
 from sklearn.model_selection import KFold
-from pandas import DataFrame
+from sklearn.preprocessing import MinMaxScaler
 
 if __name__ == "__main__":
 	DF, GFA = Sample.load()
 	Sample.plot(DF)
 	Normality().fit(DF, GFA).plot()
 	MODELS = [PE(), LLSR(), QLSR(), GPR()]
+	models = [model.__class__.__name__ for model in MODELS]
 	SCORES = DataFrame(
-		index = [repeat(arange(76), 4), tile([model.__class__.__name__ for model in MODELS], 76)],
+		index = [repeat(arange(76), 4), tile(models, 76)],
 		columns = scores.columns,
 		dtype = "float"
 	)
 	QUANTILES = DataFrame(
-		index = [repeat(arange(76), 4), tile([model.__class__.__name__ for model in MODELS], 76)],
+		index = [repeat(arange(76), 4), tile(models, 76)],
 		columns = range(1, 4),
 		dtype = "float"
 	)
@@ -35,3 +38,6 @@ if __name__ == "__main__":
 			Diagnostics(tract, model.fit(x, y)).scatter(x, y)
 			Diagnostics(tract, model.fit(x, y)).residual(x, y)
 	Sample.dump(SCORES, QUANTILES)
+	Selection.barplot(SCORES)
+	Selection.errorbar(SCORES)
+	QUANTILES.xs(Selection.best(SCORES), level = 1).mean(axis = 0)
