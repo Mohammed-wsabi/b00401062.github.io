@@ -28,16 +28,18 @@ if __name__ == "__main__":
 		y = GFA[i].mean(axis = 0)
 		SCORES.loc[i] = [DataFrame(cross_validate(
 			model, x, y,
-			cv = KFold(5, True),
+			cv = KFold(5, True, 0),
 			scoring = ("r2", "neg_mean_squared_error"),
 			return_train_score = True
 		)).mean(axis = 0) for model in MODELS]
-		QUANTILES.loc[i] = [Diagnostics(tract, model).quantile(x, y) for model in MODELS]
-		for model in MODELS:
-			Diagnostics(tract, model.fit(x, y)).metrics(x, y)
-			Diagnostics(tract, model.fit(x, y)).scatter(x, y)
-			Diagnostics(tract, model.fit(x, y)).residual(x, y)
+		machines = [Diagnostics(tract, model).fit(x, y) for model in MODELS]
+		[machine.residual() for machine in machines]
+		QUANTILES.loc[i] = [machine.quantile() for machine in machines]
+		for machine in machines:
+			machine.metrics()
+			machine.scatter()
 	Sample.dump(SCORES, QUANTILES)
 	Selection.barplot(SCORES)
 	Selection.errorbar(SCORES)
-	QUANTILES.xs(Selection.best(SCORES), level = 1).mean(axis = 0)
+	best = Selection.best(SCORES)
+	QUANTILES.loc[list(zip(best.index, best))].mean(axis = 0)

@@ -5,7 +5,7 @@ from matplotlib.pyplot import *
 class Selection:
 	@staticmethod
 	def best(SCORES):
-		return SCORES.test_neg_mean_squared_error.unstack().mean(axis = 0).idxmax()
+		return SCORES.test_neg_mean_squared_error.unstack().idxmax(axis = 1)
 	@staticmethod
 	def barplot(SCORES):
 		models = ["PE", "LLSR", "QLSR", "GPR"]
