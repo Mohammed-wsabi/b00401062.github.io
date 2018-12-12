@@ -36,8 +36,8 @@ if __name__ == "__main__":
 		[machine.residual() for machine in machines]
 		QUANTILES.loc[i] = [machine.quantile() for machine in machines]
 		for machine in machines:
-			machine.metrics()
 			machine.scatter()
+			machine.metrics()
 	Sample.dump(SCORES, QUANTILES)
 	Selection.barplot(SCORES)
 	Selection.errorbar(SCORES)
