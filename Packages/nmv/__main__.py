@@ -4,7 +4,6 @@ from numpy import *
 from pandas import DataFrame
 from sklearn.model_selection import cross_validate
 from sklearn.model_selection import KFold
-from sklearn.preprocessing import MinMaxScaler
 
 if __name__ == "__main__":
 	DF, GFA = Sample.load()
@@ -31,7 +30,7 @@ if __name__ == "__main__":
 	)
 	QUANTILES = DataFrame(
 		index = [repeat(range(76), 4), tile(models, 76)],
-		columns = range(1, 4),
+		columns = arange(3) + 1,
 		dtype = "float"
 	)
 	x = DF.Age
@@ -56,4 +55,7 @@ if __name__ == "__main__":
 	best = Selection.best(SCORES)
 	m = QUANTILES.loc[list(zip(best.index, best))].mean(axis = 0)
 	s = QUANTILES.loc[list(zip(best.index, best))].std(axis = 0) / sqrt(76)
-	print(m - s, m + s)
+	DataFrame(array([m - s, m + s]).T, index = arange(3) + 1, columns = ["lower", "upper"])
+	m = QUANTILES.xs("PE", level = 1).mean(axis = 0)
+	s = QUANTILES.xs("PE", level = 1).std(axis = 0) / sqrt(76)
+	DataFrame(array([m - s, m + s]).T, index = arange(3) + 1, columns = ["lower", "upper"])

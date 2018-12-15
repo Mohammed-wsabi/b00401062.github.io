@@ -21,7 +21,7 @@ class Diagnostics:
 			y_hat = self.model.predict(x[test])
 			self.xs.extend(x[test])
 			self.rs.extend(y[test] - y_hat)
-			self.zs.extend((y[test] - y_hat) / self.model.y_std[x[test] - 18])
+			self.zs.extend((y[test] - y_hat) / self.model.s[x[test] - 18])
 		return self
 	def residual(self):
 		scatter(self.xs, self.rs, s = 4, alpha = .5)
@@ -40,8 +40,8 @@ class Diagnostics:
 		return [sum(absolute(self.zs) < i) / len(self.zs) for i in range(1, 4)]
 	def scatter(self):
 		scatter(self.x, self.y, s = 4, alpha = .5)
-		plot(range(18, 89), self.model.y_mean)
-		fill_between(range(18, 89), self.model.y_mean - self.model.y_std, self.model.y_mean + self.model.y_std, alpha = .5)
+		plot(range(18, 89), self.model.m)
+		fill_between(range(18, 89), self.model.m - self.model.s, self.model.m + self.model.s, alpha = .5)
 		xlabel("Age")
 		ylabel("Mean GFA")
 		savefig("./Downloads/Projects/NMV/Figures/Scatter/{}/{}".format(self.tract, self.model.__class__.__name__))
