@@ -12,7 +12,7 @@ class Sample:
 			GFA = pickle.load(fin)
 		return DF, GFA
 	@staticmethod
-	def plot(DF):
+	def hist(DF):
 		hist(DF.Age, bins = range(18, 89))
 		xlabel("Age")
 		ylabel("Frequency")
@@ -20,8 +20,10 @@ class Sample:
 		savefig("./Downloads/Projects/NMV/Figures/Sample")
 		show()
 	@staticmethod
-	def dump(SCORES, QUANTILES):
+	def dump(SCORES, RESIDUALS, QUANTILES):
 		with open("./Downloads/Projects/NMV/Datasets/Scores.pkl", "wb") as fout:
 			pickle.dump(SCORES, fout, pickle.HIGHEST_PROTOCOL)
+		with open("./Downloads/Projects/NMV/Datasets/Residuals.pkl", "wb") as fout:
+			pickle.dump(RESIDUALS, fout, pickle.HIGHEST_PROTOCOL)
 		with open("./Downloads/Projects/NMV/Datasets/Quantiles.pkl", "wb") as fout:
 			pickle.dump(QUANTILES, fout, pickle.HIGHEST_PROTOCOL)
