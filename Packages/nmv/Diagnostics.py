@@ -39,7 +39,7 @@ class Diagnostics:
 		show()
 		return self.zs
 	def quantile(self):
-		return [sum(absolute(self.zs) < i) / len(self.zs) for i in range(1, 4)]
+		return [sum(absolute(self.zs) < i) / len(self.zs) for i in arange(3) + 1]
 	def scatter(self):
 		scatter(self.x, self.y, s = 4, alpha = .5)
 		plot(range(18, 89), self.model.m)
