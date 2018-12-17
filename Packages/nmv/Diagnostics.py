@@ -3,7 +3,7 @@
 from numpy import *
 from sklearn.metrics import mean_squared_error
 from sklearn.metrics import r2_score
-from sklearn.model_selection import ShuffleSplit
+from sklearn.model_selection import KFold
 from matplotlib.pyplot import *
 
 class Diagnostics:
@@ -16,7 +16,7 @@ class Diagnostics:
 		self.xs = []
 		self.rs = []
 		self.zs = []
-		for train, test in ShuffleSplit(n_splits = 100, test_size = .2).split(x):
+		for train, test in KFold(5, True, 0).split(x):
 			self.model.fit(x[train], y[train])
 			y_hat = self.model.predict(x[test])
 			self.xs.extend(x[test])
@@ -30,13 +30,15 @@ class Diagnostics:
 		ylabel("Residual")
 		savefig("./Downloads/Projects/NMV/Figures/Residual/{}/{}".format(self.tract, self.model.__class__.__name__))
 		show()
-		return mean(self.rs)
-	def quantile(self):
+		return self.rs
+	def standard(self):
 		hist(array(self.zs)[isfinite(self.zs)], bins = linspace(-10, 10, 100))
 		xlabel("Z-score")
 		ylabel("Frequency")
-		savefig("./Downloads/Projects/NMV/Figures/Quantile/{}/{}".format(self.tract, self.model.__class__.__name__))
+		savefig("./Downloads/Projects/NMV/Figures/Standard/{}/{}".format(self.tract, self.model.__class__.__name__))
 		show()
+		return self.zs
+	def quantile(self):
 		return [sum(absolute(self.zs) < i) / len(self.zs) for i in range(1, 4)]
 	def scatter(self):
 		scatter(self.x, self.y, s = 4, alpha = .5)

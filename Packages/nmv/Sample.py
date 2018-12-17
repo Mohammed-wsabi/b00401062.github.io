@@ -20,10 +20,12 @@ class Sample:
 		savefig("./Downloads/Projects/NMV/Figures/Sample")
 		show()
 	@staticmethod
-	def dump(SCORES, RESIDUALS, QUANTILES):
+	def dump(SCORES, RESIDUALS, STANDARDS, QUANTILES):
 		with open("./Downloads/Projects/NMV/Datasets/Scores.pkl", "wb") as fout:
 			pickle.dump(SCORES, fout, pickle.HIGHEST_PROTOCOL)
 		with open("./Downloads/Projects/NMV/Datasets/Residuals.pkl", "wb") as fout:
 			pickle.dump(RESIDUALS, fout, pickle.HIGHEST_PROTOCOL)
+		with open("./Downloads/Projects/NMV/Datasets/Standards.pkl", "wb") as fout:
+			pickle.dump(STANDARDS, fout, pickle.HIGHEST_PROTOCOL)
 		with open("./Downloads/Projects/NMV/Datasets/Quantiles.pkl", "wb") as fout:
 			pickle.dump(QUANTILES, fout, pickle.HIGHEST_PROTOCOL)

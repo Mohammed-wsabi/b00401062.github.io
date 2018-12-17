@@ -4,6 +4,7 @@ from numpy import *
 from pandas import DataFrame
 from sklearn.model_selection import cross_validate
 from sklearn.model_selection import KFold
+from scipy.stats import kstest
 
 if __name__ == "__main__":
 	DF, GFA = Sample.load()
@@ -24,8 +25,13 @@ if __name__ == "__main__":
 		dtype = "float"
 	)
 	RESIDUALS = DataFrame(
-		index = range(76),
-		columns = models,
+		index = [repeat(range(76), 4), tile(models, 76)],
+		columns = range(616),
+		dtype = "float"
+	)
+	STANDARDS = DataFrame(
+		index = [repeat(range(76), 4), tile(models, 76)],
+		columns = range(616),
 		dtype = "float"
 	)
 	QUANTILES = DataFrame(
@@ -45,17 +51,24 @@ if __name__ == "__main__":
 		)).mean(axis = 0) for model in MODELS]
 		machines = [Diagnostics(tract, model).fit(x, y) for model in MODELS]
 		RESIDUALS.loc[i] = [machine.residual() for machine in machines]
+		STANDARDS.loc[i] = [machine.standard() for machine in machines]
 		QUANTILES.loc[i] = [machine.quantile() for machine in machines]
 		for machine in machines:
 			machine.scatter()
 			machine.metrics()
-	Sample.dump(SCORES, RESIDUALS, QUANTILES)
+	Sample.dump(SCORES, RESIDUALS, STANDARDS, QUANTILES)
 	Selection.barplot(SCORES)
 	Selection.errorbar(SCORES)
 	best = Selection.best(SCORES)
+	p = DataFrame(STANDARDS.apply(lambda x: kstest(x, "norm").pvalue, axis = 1))
+	p.columns = p.columns.droplevel()
+	## Best models
 	m = QUANTILES.loc[list(zip(best.index, best))].mean(axis = 0)
 	s = QUANTILES.loc[list(zip(best.index, best))].std(axis = 0) / sqrt(76)
-	DataFrame(array([m - s, m + s]).T, index = arange(3) + 1, columns = ["lower", "upper"])
+	print(DataFrame(array([m - s, m + s]).T, index = arange(3) + 1, columns = ["lower", "upper"]))
+	print(p.loc[list(zip(best.index, best))].mean())
+	## Point estimation
 	m = QUANTILES.xs("PE", level = 1).mean(axis = 0)
 	s = QUANTILES.xs("PE", level = 1).std(axis = 0) / sqrt(76)
-	DataFrame(array([m - s, m + s]).T, index = arange(3) + 1, columns = ["lower", "upper"])
+	print(DataFrame(array([m - s, m + s]).T, index = arange(3) + 1, columns = ["lower", "upper"]))
+	print(p.xs("PE", level=1).mean())
