@@ -78,7 +78,6 @@ title: Life Code
 - [codechef](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/codechef): Collection of Java programs solving [CodeChef](https://www.codechef.com) problems.
 - [csie](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/csie): Collection of code for CSIE undergraduage assignments.
 - [gpa](Packages/gpa): Applet that calculates your average GPA.
-- [hpaic](Packages/hpaic): Human protein atlas image classification.
 - [leetcode](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/leetcode): Collection of Java programs solving [LeetCode](https://leetcode.com/problemset/all/) problems.
 - [nmv](Packages/nmv): Pipeline to validate normative model of the white matter tracts.
 - [notebook](Packages/notebook): Place where you can take note of trivial things in your life.
