@@ -5,8 +5,8 @@ from sklearn.base import BaseEstimator
 ## Point estimation
 class PE(BaseEstimator):
 	def fit(self, x, y):
-		self.m = array([y[bitwise_and(age - 2 <= x, x <= age + 2)].mean() for age in range(18, 89)])
-		self.s = array([y[bitwise_and(age - 2 <= x, x <= age + 2)].std() for age in range(18, 89)])
+		self.m = array([y[bitwise_and(age - 1 <= x, x <= age + 1)].mean() for age in range(18, 89)])
+		self.s = array([y[bitwise_and(age - 1 <= x, x <= age + 1)].std() for age in range(18, 89)])
 		return self
 	def predict(self, x):
 		return self.m[x - 18]

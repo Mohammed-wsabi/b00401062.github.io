@@ -29,14 +29,14 @@ class Diagnostics:
 		xlabel("Age")
 		ylabel("Residual")
 		savefig("./Downloads/Projects/NMV/Figures/Residual/{}/{}".format(self.tract, self.model.__class__.__name__))
-		show()
+		clf()
 		return self.rs
 	def standard(self):
 		hist(array(self.zs)[isfinite(self.zs)], bins = linspace(-10, 10, 100))
 		xlabel("Z-score")
 		ylabel("Frequency")
 		savefig("./Downloads/Projects/NMV/Figures/Standard/{}/{}".format(self.tract, self.model.__class__.__name__))
-		show()
+		clf()
 		return self.zs
 	def quantile(self):
 		return [sum(absolute(self.zs) < i) / len(self.zs) for i in arange(3) + 1]
@@ -47,7 +47,7 @@ class Diagnostics:
 		xlabel("Age")
 		ylabel("Mean GFA")
 		savefig("./Downloads/Projects/NMV/Figures/Scatter/{}/{}".format(self.tract, self.model.__class__.__name__))
-		show()
+		clf()
 	def metrics(self):
 		y_hat = self.model.predict(self.x)
 		mse = mean_squared_error(self.y, y_hat)

@@ -4,12 +4,13 @@ from numpy import *
 from pandas import DataFrame
 from sklearn.model_selection import cross_validate
 from sklearn.model_selection import KFold
-from scipy.stats import kstest
 
 if __name__ == "__main__":
-	DF, GFA = Sample.load()
+	(DF, GFA) = Sample.load()
 	Sample.hist(DF)
-	print(sum(Normality().fit(DF, GFA).p < 0.01)/5396)
+	print(sum(Normality().fit(DF, GFA).p < 0.01) / 5396)
+	Normality().fit(DF, GFA).hist()
+	Normality().fit(DF, GFA).pcolor()
 	MODELS = [PE(), LLSR(), QLSR(), GPR()]
 	models = [model.__class__.__name__ for model in MODELS]
 	SCORES = DataFrame(
@@ -56,19 +57,9 @@ if __name__ == "__main__":
 		for machine in machines:
 			machine.scatter()
 			machine.metrics()
-	Sample.dump(SCORES, RESIDUALS, STANDARDS, QUANTILES)
-	Selection.barplot(SCORES)
-	Selection.errorbar(SCORES)
-	best = Selection.best(SCORES)
-	p = DataFrame(STANDARDS.apply(lambda x: kstest(x, "norm").pvalue, axis = 1))
-	p.columns = p.columns.droplevel()
-	## Best models
-	m = QUANTILES.loc[list(zip(best.index, best))].mean(axis = 0)
-	s = QUANTILES.loc[list(zip(best.index, best))].std(axis = 0) / sqrt(76)
-	print(DataFrame(array([m - s, m + s]).T, index = arange(3) + 1, columns = ["lower", "upper"]))
-	print(p.loc[list(zip(best.index, best))].mean())
-	## Point estimation
-	m = QUANTILES.xs("PE", level = 1).mean(axis = 0)
-	s = QUANTILES.xs("PE", level = 1).std(axis = 0) / sqrt(76)
-	print(DataFrame(array([m - s, m + s]).T, index = arange(3) + 1, columns = ["lower", "upper"]))
-	print(p.xs("PE", level=1).mean())
+	Selection.dump(SCORES, RESIDUALS, STANDARDS, QUANTILES)
+	(SCORES, RESIDUALS, STANDARDS, QUANTILES) = Selection.load()
+	Selection.score(SCORES)
+	Selection.standard(STANDARDS)
+	Selection.quantile(QUANTILES)
+	print(Selection.best(SCORES))
