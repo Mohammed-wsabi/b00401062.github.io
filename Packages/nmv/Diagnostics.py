@@ -28,12 +28,13 @@ class Diagnostics:
 		y_hat = self.model.predict(self.x)
 		self.mse = mean_squared_error(self.y, y_hat)
 		self.cod = r2_score(self.y, y_hat)
-		self.cor = pearsonr(self.xs, self.rs)[0]
+		self.cor = pearsonr(self.rs, y_hat)[0]
 		return (self.mse, self.cod, self.cor)
 	def residuals(self):
-		scatter(self.xs, self.rs, s = 4, alpha = .5)
+		y_hat = self.model.predict(self.x)
+		scatter(y_hat, self.rs, s = 4, alpha = .5)
 		axhline(color = "red", linestyle = "--")
-		xlabel("Age")
+		xlabel("Predicted Mean GFA")
 		ylabel("Residual")
 		savefig("./Downloads/Projects/NMV/Figures/Residuals/{}/{}".format(self.tract, self.model.__class__.__name__))
 		clf()
