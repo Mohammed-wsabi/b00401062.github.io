@@ -8,10 +8,10 @@ from sklearn.model_selection import KFold
 if __name__ == "__main__":
 	(DF, GFA) = Sample.load()
 	Sample.hist(DF)
-	machine = Normality().fit(DF, GFA)
-	sum(machine.p < 0.01) / 5396
-	machine.hist()
-	machine.pcolor()
+	normality = Normality().fit(DF, GFA)
+	sum(normality.p < 0.01) / 5396
+	normality.hist()
+	normality.pcolor()
 	MODELS = [PE(), LLSR(), QLSR(), GPR()]
 	models = [model.__class__.__name__ for model in MODELS]
 	SCORES = DataFrame(
@@ -24,6 +24,11 @@ if __name__ == "__main__":
 			"test_r2",
 			"train_r2",
 		],
+		dtype = "float"
+	)
+	METRICS = DataFrame(
+		index = [repeat(range(76), 4), tile(models, 76)],
+		columns = ["mse", "cod", "cor"],
 		dtype = "float"
 	)
 	RESIDUALS = DataFrame(
@@ -51,17 +56,19 @@ if __name__ == "__main__":
 			scoring = ("neg_mean_squared_error", "r2"),
 			return_train_score = True
 		)).mean(axis = 0) for model in MODELS]
-		machines = [Diagnostics(tract, model).fit(x, y) for model in MODELS]
-		RESIDUALS.loc[i] = [machine.residual() for machine in machines]
-		STANDARDS.loc[i] = [machine.standard() for machine in machines]
-		QUANTILES.loc[i] = [machine.quantile() for machine in machines]
-		for machine in machines:
-			machine.scatter()
-			machine.metrics()
-	Selection.dump(SCORES, RESIDUALS, STANDARDS, QUANTILES)
-	(SCORES, RESIDUALS, STANDARDS, QUANTILES) = Selection.load()
-	Selection.score(SCORES)
-	Selection.standard(STANDARDS)
+		diagnostics = [Diagnostics(tract, model).fit(x, y) for model in MODELS]
+		for diagnostic in diagnostics:
+			model = diagnostic.model.__class__.__name__
+			METRICS.loc[(i, model)] = diagnostic.metrics()
+			RESIDUALS.loc[(i, model)] = diagnostic.residuals()
+			STANDARDS.loc[(i, model)] = diagnostic.standards()
+			QUANTILES.loc[(i, model)] = diagnostic.quantiles()
+			diagnostic.scatter()
+	Selection.dump(SCORES, METRICS, RESIDUALS, STANDARDS, QUANTILES)
+	(SCORES, METRICS, RESIDUALS, STANDARDS, QUANTILES) = Selection.load()
+	selection = Selection().fit(SCORES)
+	selection.scores(SCORES)
+	selection.metrics(METRICS)
+	selection.standards(STANDARDS)
 	for i in arange(3) + 1:
-		Selection.quantile(QUANTILES, i)
-	print(Selection.best(SCORES))
+		selection.quantiles(QUANTILES, i)
