@@ -12,26 +12,26 @@ class Diagnostics:
 		self.tract = tract
 		self.model = model
 	def fit(self, x, y):
-		self.x = x
-		self.y = y
 		self.xs = []
+		self.ys = []
 		self.rs = []
 		self.zs = []
 		for train, test in KFold(5, True, 0).split(x):
 			self.model.fit(x[train], y[train])
 			y_hat = self.model.predict(x[test])
 			self.xs.extend(x[test])
+			self.ys.extend(y[test])
 			self.rs.extend(y[test] - y_hat)
 			self.zs.extend((y[test] - y_hat) / self.model.s[x[test] - 18])
 		return self
 	def metrics(self):
-		y_hat = self.model.predict(self.x)
-		self.mse = mean_squared_error(self.y, y_hat)
-		self.cod = r2_score(self.y, y_hat)
-		self.cor = pearsonr(self.rs, y_hat)[0]
+		y_hat = array(self.ys) - array(self.rs)
+		self.mse = mean_squared_error(y_hat, self.ys)
+		self.cod = r2_score(y_hat, self.ys)
+		self.cor = pearsonr(y_hat, self.rs)[0]
 		return (self.mse, self.cod, self.cor)
 	def residuals(self):
-		y_hat = self.model.predict(self.x)
+		y_hat = array(self.ys) - array(self.rs)
 		scatter(y_hat, self.rs, s = 4, alpha = .5)
 		axhline(color = "red", linestyle = "--")
 		xlabel("Predicted Mean GFA")
@@ -49,7 +49,7 @@ class Diagnostics:
 	def quantiles(self):
 		return [sum(absolute(self.zs) < i) / len(self.zs) for i in arange(3) + 1]
 	def scatter(self):
-		scatter(self.x, self.y, s = 4, alpha = .5)
+		scatter(self.xs, self.ys, s = 4, alpha = .5)
 		plot(range(18, 89), self.model.m)
 		fill_between(range(18, 89), self.model.m - self.model.s, self.model.m + self.model.s, alpha = .5)
 		xlabel("Age")
