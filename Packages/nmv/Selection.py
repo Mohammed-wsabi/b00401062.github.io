@@ -42,22 +42,22 @@ class Selection:
 		clf()
 		return DataFrame(array([m - s, m + s]).T, index = ps.columns, columns = ["lower", "upper"])
 	@staticmethod
-	def quantile(QUANTILES):
+	def quantile(QUANTILES, i):
 		best = Selection.best(SCORES)
 		models = ["PE", "LLSR", "QLSR", "GPR"]
-		for i in arange(3) + 1:
-			qs = QUANTILES.loc[:, i].unstack()[models]
-			qs["Best"] = qs.stack().loc[list(zip(best.index, best))].tolist()
-			m = qs.mean(axis = 0)
-			s = qs.std(axis = 0) / sqrt(76)
-			errorbar(range(5), m, s, fmt = "o", capsize = 4)
-			xlabel("Model")
-			ylabel("Percentage")
-			xticks(range(5), qs.columns)
-			grid(axis = "y")
-			axhline(2 * norm.cdf(i) - 1)
-			savefig("./Downloads/Projects/NMV/Figures/Selection/Quantile{}".format(i))
-			clf()
+		qs = QUANTILES.loc[:, i].unstack()[models]
+		qs["Best"] = qs.stack().loc[list(zip(best.index, best))].tolist()
+		m = qs.mean(axis = 0)
+		s = qs.std(axis = 0) / sqrt(76)
+		errorbar(range(5), m, s, fmt = "o", capsize = 4)
+		xlabel("Model")
+		ylabel("Percentage")
+		xticks(range(5), qs.columns)
+		grid(axis = "y")
+		axhline(2 * norm.cdf(i) - 1)
+		savefig("./Downloads/Projects/NMV/Figures/Selection/Quantile{}".format(i))
+		clf()
+		return DataFrame(array([m - s, m + s]).T, index = qs.columns, columns = ["lower", "upper"])
 	@staticmethod
 	def dump(SCORES, RESIDUALS, STANDARDS, QUANTILES):
 		with open("./Downloads/Projects/NMV/Datasets/Scores.pkl", "wb") as fout:

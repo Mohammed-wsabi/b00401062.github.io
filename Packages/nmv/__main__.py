@@ -8,9 +8,10 @@ from sklearn.model_selection import KFold
 if __name__ == "__main__":
 	(DF, GFA) = Sample.load()
 	Sample.hist(DF)
-	print(sum(Normality().fit(DF, GFA).p < 0.01) / 5396)
-	Normality().fit(DF, GFA).hist()
-	Normality().fit(DF, GFA).pcolor()
+	machine = Normality().fit(DF, GFA)
+	sum(machine.p < 0.01) / 5396
+	machine.hist()
+	machine.pcolor()
 	MODELS = [PE(), LLSR(), QLSR(), GPR()]
 	models = [model.__class__.__name__ for model in MODELS]
 	SCORES = DataFrame(
@@ -61,5 +62,6 @@ if __name__ == "__main__":
 	(SCORES, RESIDUALS, STANDARDS, QUANTILES) = Selection.load()
 	Selection.score(SCORES)
 	Selection.standard(STANDARDS)
-	Selection.quantile(QUANTILES)
+	for i in arange(3) + 1:
+		Selection.quantile(QUANTILES, i)
 	print(Selection.best(SCORES))
