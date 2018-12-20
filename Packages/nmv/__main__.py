@@ -26,9 +26,9 @@ if __name__ == "__main__":
 		],
 		dtype = "float"
 	)
-	METRICS = DataFrame(
+	PEARSONRS = DataFrame(
 		index = [repeat(range(76), 4), tile(models, 76)],
-		columns = ["mse", "cod", "cor"],
+		columns = ["r"],
 		dtype = "float"
 	)
 	RESIDUALS = DataFrame(
@@ -59,16 +59,17 @@ if __name__ == "__main__":
 		diagnostics = [Diagnostics(tract, model).fit(x, y) for model in MODELS]
 		for diagnostic in diagnostics:
 			model = diagnostic.model.__class__.__name__
-			METRICS.loc[(i, model)] = diagnostic.metrics()
+			PEARSONRS.loc[(i, model)] = diagnostic.pearsonrs()
 			RESIDUALS.loc[(i, model)] = diagnostic.residuals()
 			STANDARDS.loc[(i, model)] = diagnostic.standards()
 			QUANTILES.loc[(i, model)] = diagnostic.quantiles()
 			diagnostic.scatter()
-	Selection.dump(SCORES, METRICS, RESIDUALS, STANDARDS, QUANTILES)
-	(SCORES, METRICS, RESIDUALS, STANDARDS, QUANTILES) = Selection.load()
+	Selection.dump(SCORES, PEARSONRS, RESIDUALS, STANDARDS, QUANTILES)
+	(SCORES, PEARSONRS, RESIDUALS, STANDARDS, QUANTILES) = Selection.load()
 	selection = Selection().fit(SCORES)
-	selection.scores(SCORES)
-	selection.metrics(METRICS)
+	selection.mses(SCORES)
+	selection.cods(SCORES)
+	selection.pearsonrs(PEARSONRS)
 	selection.standards(STANDARDS)
 	for i in arange(3) + 1:
 		selection.quantiles(QUANTILES, i)

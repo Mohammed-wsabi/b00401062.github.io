@@ -24,12 +24,9 @@ class Diagnostics:
 			self.rs.extend(y[test] - y_hat)
 			self.zs.extend((y[test] - y_hat) / self.model.s[x[test] - 18])
 		return self
-	def metrics(self):
+	def pearsonr(self):
 		y_hat = array(self.ys) - array(self.rs)
-		self.mse = mean_squared_error(y_hat, self.ys)
-		self.cod = r2_score(y_hat, self.ys)
-		self.cor = pearsonr(y_hat, self.rs)[0]
-		return (self.mse, self.cod, self.cor)
+		return pearsonr(y_hat, self.rs)[0]
 	def residuals(self):
 		y_hat = array(self.ys) - array(self.rs)
 		scatter(y_hat, self.rs, s = 4, alpha = .5)

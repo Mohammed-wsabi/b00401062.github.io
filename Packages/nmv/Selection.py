@@ -9,23 +9,38 @@ class Selection:
 		self.best = SCORES.test_neg_mean_squared_error.unstack().idxmax(axis = 1)
 		self.models = ["PE", "LLSR", "QLSR", "GPR"]
 		return self
-	def scores(self, SCORES):
+	def mses(self, SCORES):
 		mses = -SCORES.test_neg_mean_squared_error.unstack()[self.models]
 		mses["Best"] = mses.stack().loc[list(zip(range(76), self.best))].tolist()
 		m = mses.mean(axis = 0)
-		s = mses.std(axis = 0) / sqrt(76) * norm.ppf(.975)
+		s = mses.std(axis = 0) / sqrt(76)
 		e = s * norm.ppf(.975)
 		errorbar(range(5), m, e, fmt = "o", capsize = 4)
 		xlabel("Model")
 		ylabel("MSE")
 		xticks(range(5), mses.columns)
-		yticks(rotation = 90)
+		yticks(rotation = 60)
 		grid(axis = "y")
-		savefig("./Downloads/Projects/NMV/Figures/Selection/Scores")
+		savefig("./Downloads/Projects/NMV/Figures/Selection/MSEs")
 		clf()
 		return DataFrame(array([m - e, m + e]).T, index = mses.columns, columns = ["lower", "upper"])
-	def metrics(self, METRICS):
-		rs = METRICS.cor.unstack()[self.models]
+	def cods(self, SCORES):
+		cods = SCORES.test_r2.unstack()[self.models]
+		cods["Best"] = cods.stack().loc[list(zip(range(76), self.best))].tolist()
+		m = cods.mean(axis = 0)
+		s = cods.std(axis = 0) / sqrt(76)
+		e = s * norm.ppf(.975)
+		errorbar(range(5), m, e, fmt = "o", capsize = 4)
+		xlabel("Model")
+		ylabel("COD")
+		xticks(range(5), cods.columns)
+		axhline(0, color = "r")
+		grid(axis = "y")
+		savefig("./Downloads/Projects/NMV/Figures/Selection/CODs")
+		clf()
+		return DataFrame(array([m - e, m + e]).T, index = cods.columns, columns = ["lower", "upper"])
+	def pearsonrs(self, PEARSONRS):
+		rs = PEARSONRS.r.unstack()[self.models]
 		rs["Best"] = rs.stack().loc[list(zip(range(76), self.best))].tolist()
 		m = rs.mean(axis = 0)
 		s = rs.std(axis = 0) / sqrt(76)
@@ -34,9 +49,9 @@ class Selection:
 		xlabel("Model")
 		ylabel("Correlation")
 		xticks(range(5), rs.columns)
-		axhline(0)
+		axhline(0, color = "r")
 		grid(axis = "y")
-		savefig("./Downloads/Projects/NMV/Figures/Selection/Metrics")
+		savefig("./Downloads/Projects/NMV/Figures/Selection/PearsonRs")
 		clf()
 		return DataFrame(array([m - e, m + e]).T, index = rs.columns, columns = ["lower", "upper"])
 	def standards(self, STANDARDS):
@@ -49,6 +64,7 @@ class Selection:
 		xlabel("Model")
 		ylabel("p-value")
 		xticks(range(5), ps.columns)
+		axhline(0.01, color = "r")
 		grid(axis = "y")
 		savefig("./Downloads/Projects/NMV/Figures/Selection/Standards")
 		clf()
@@ -63,17 +79,17 @@ class Selection:
 		xlabel("Model")
 		ylabel("Percentage")
 		xticks(range(5), qs.columns)
-		axhline(2 * norm.cdf(i) - 1)
+		axhline(2 * norm.cdf(i) - 1, color = "r")
 		grid(axis = "y")
 		savefig("./Downloads/Projects/NMV/Figures/Selection/Quantiles{}".format(i))
 		clf()
 		return DataFrame(array([m - e, m + e]).T, index = qs.columns, columns = ["lower", "upper"])
 	@staticmethod
-	def dump(SCORES, METRICS, RESIDUALS, STANDARDS, QUANTILES):
+	def dump(SCORES, PEARSONRS, RESIDUALS, STANDARDS, QUANTILES):
 		with open("./Downloads/Projects/NMV/Datasets/Scores.pkl", "wb") as fout:
 			pickle.dump(SCORES, fout, pickle.HIGHEST_PROTOCOL)
-		with open("./Downloads/Projects/NMV/Datasets/Metrics.pkl", "wb") as fout:
-			pickle.dump(METRICS, fout, pickle.HIGHEST_PROTOCOL)
+		with open("./Downloads/Projects/NMV/Datasets/PearsonRs.pkl", "wb") as fout:
+			pickle.dump(PEARSONRS, fout, pickle.HIGHEST_PROTOCOL)
 		with open("./Downloads/Projects/NMV/Datasets/Residuals.pkl", "wb") as fout:
 			pickle.dump(RESIDUALS, fout, pickle.HIGHEST_PROTOCOL)
 		with open("./Downloads/Projects/NMV/Datasets/Standards.pkl", "wb") as fout:
@@ -84,12 +100,12 @@ class Selection:
 	def load():
 		with open("./Downloads/Projects/NMV/Datasets/Scores.pkl", "rb") as fin:
 			SCORES = pickle.load(fin)
-		with open("./Downloads/Projects/NMV/Datasets/Metrics.pkl", "rb") as fin:
-			METRICS = pickle.load(fin)
+		with open("./Downloads/Projects/NMV/Datasets/PearsonRs.pkl", "rb") as fin:
+			PEARSONRS = pickle.load(fin)
 		with open("./Downloads/Projects/NMV/Datasets/Residuals.pkl", "rb") as fin:
 			RESIDUALS = pickle.load(fin)
 		with open("./Downloads/Projects/NMV/Datasets/Standards.pkl", "rb") as fin:
 			STANDARDS = pickle.load(fin)
 		with open("./Downloads/Projects/NMV/Datasets/Quantiles.pkl", "rb") as fin:
 			QUANTILES = pickle.load(fin)
-		return (SCORES, METRICS, RESIDUALS, STANDARDS, QUANTILES)
+		return (SCORES, PEARSONRS, RESIDUALS, STANDARDS, QUANTILES)
