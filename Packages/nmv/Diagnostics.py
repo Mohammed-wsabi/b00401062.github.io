@@ -31,25 +31,25 @@ class Diagnostics:
 		y_hat = array(self.ys) - array(self.rs)
 		scatter(y_hat, self.rs, s = 4, alpha = .5)
 		axhline(color = "red", linestyle = "--")
-		xlabel("Predicted Mean GFA")
+		xlabel("Predicted Integrity")
 		ylabel("Residual")
 		savefig("./Downloads/Projects/NMV/Figures/Residuals/{}/{}".format(self.tract, self.model.__class__.__name__))
 		clf()
 		return self.rs
-	def standards(self):
+	def standard(self):
 		hist(array(self.zs)[isfinite(self.zs)], bins = linspace(-10, 10, 100))
 		xlabel("Z-score")
 		ylabel("Frequency")
 		savefig("./Downloads/Projects/NMV/Figures/Standards/{}/{}".format(self.tract, self.model.__class__.__name__))
 		clf()
 		return self.zs
-	def quantiles(self):
+	def quantile(self):
 		return [sum(absolute(self.zs) < i) / len(self.zs) for i in arange(3) + 1]
 	def scatter(self):
 		scatter(self.xs, self.ys, s = 4, alpha = .5)
 		plot(range(18, 89), self.model.m)
 		fill_between(range(18, 89), self.model.m - self.model.s, self.model.m + self.model.s, alpha = .5)
 		xlabel("Age")
-		ylabel("Mean GFA")
+		ylabel("Integrity")
 		savefig("./Downloads/Projects/NMV/Figures/Scatter/{}/{}".format(self.tract, self.model.__class__.__name__))
 		clf()

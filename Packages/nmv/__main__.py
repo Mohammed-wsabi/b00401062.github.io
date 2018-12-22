@@ -12,10 +12,10 @@ if __name__ == "__main__":
 	sum(normality.p < 0.01) / 5396
 	normality.hist()
 	normality.pcolor()
-	MODELS = [PE(), LLSR(), QLSR(), GPR()]
+	MODELS = [RWR(), GPR()]
 	models = [model.__class__.__name__ for model in MODELS]
 	SCORES = DataFrame(
-		index = [repeat(range(76), 4), tile(models, 76)],
+		index = [repeat(range(76), len(MODELS)), tile(models, 76)],
 		columns = [
 			"fit_time",
 			"score_time",
@@ -27,22 +27,22 @@ if __name__ == "__main__":
 		dtype = "float"
 	)
 	PEARSONRS = DataFrame(
-		index = [repeat(range(76), 4), tile(models, 76)],
+		index = [repeat(range(76), len(MODELS)), tile(models, 76)],
 		columns = ["r"],
 		dtype = "float"
 	)
 	RESIDUALS = DataFrame(
-		index = [repeat(range(76), 4), tile(models, 76)],
+		index = [repeat(range(76), len(MODELS)), tile(models, 76)],
 		columns = range(616),
 		dtype = "float"
 	)
 	STANDARDS = DataFrame(
-		index = [repeat(range(76), 4), tile(models, 76)],
+		index = [repeat(range(76), len(MODELS)), tile(models, 76)],
 		columns = range(616),
 		dtype = "float"
 	)
 	QUANTILES = DataFrame(
-		index = [repeat(range(76), 4), tile(models, 76)],
+		index = [repeat(range(76), len(MODELS)), tile(models, 76)],
 		columns = arange(3) + 1,
 		dtype = "float"
 	)
@@ -59,17 +59,17 @@ if __name__ == "__main__":
 		diagnostics = [Diagnostics(tract, model).fit(x, y) for model in MODELS]
 		for diagnostic in diagnostics:
 			model = diagnostic.model.__class__.__name__
-			PEARSONRS.loc[(i, model)] = diagnostic.pearsonrs()
+			PEARSONRS.loc[(i, model)] = diagnostic.pearsonr()
 			RESIDUALS.loc[(i, model)] = diagnostic.residuals()
-			STANDARDS.loc[(i, model)] = diagnostic.standards()
-			QUANTILES.loc[(i, model)] = diagnostic.quantiles()
+			STANDARDS.loc[(i, model)] = diagnostic.standard()
+			QUANTILES.loc[(i, model)] = diagnostic.quantile()
 			diagnostic.scatter()
 	Selection.dump(SCORES, PEARSONRS, RESIDUALS, STANDARDS, QUANTILES)
 	(SCORES, PEARSONRS, RESIDUALS, STANDARDS, QUANTILES) = Selection.load()
 	selection = Selection().fit(SCORES)
-	selection.mses(SCORES)
-	selection.cods(SCORES)
-	selection.pearsonrs(PEARSONRS)
-	selection.standards(STANDARDS)
+	selection.mse(SCORES)
+	selection.cod(SCORES)
+	selection.pearsonr(PEARSONRS)
+	selection.standard(STANDARDS)
 	for i in arange(3) + 1:
-		selection.quantiles(QUANTILES, i)
+		selection.quantile(QUANTILES, i)

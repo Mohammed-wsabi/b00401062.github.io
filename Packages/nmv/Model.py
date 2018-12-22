@@ -3,7 +3,7 @@
 from sklearn.base import BaseEstimator
 
 ## Point estimation
-class PE(BaseEstimator):
+class RWR(BaseEstimator):
 	def fit(self, x, y):
 		self.m = array([y[bitwise_and(age - 1 <= x, x <= age + 1)].mean() for age in range(18, 89)])
 		self.s = array([y[bitwise_and(age - 1 <= x, x <= age + 1)].std() for age in range(18, 89)])
