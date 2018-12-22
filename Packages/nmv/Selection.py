@@ -10,7 +10,7 @@ from matplotlib.pyplot import *
 class Selection:
 	def fit(self, SCORES):
 		self.mixed = SCORES.test_neg_mean_squared_error.unstack().idxmax(axis = 1)
-		self.models = SCORES.index.levels[1].tolist
+		self.models = SCORES.index.levels[1].tolist()
 		return self
 	def mse(self, SCORES):
 		mses = -SCORES.test_neg_mean_squared_error.unstack()[self.models]
