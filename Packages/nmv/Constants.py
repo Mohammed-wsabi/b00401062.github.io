@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 
 from collections import namedtuple
-from numpy import *
-from pandas import DataFrame
 
 Name = namedtuple("Name", ["nickname", "fullname"])
 Sex = namedtuple("Sex", ["female", "male"])

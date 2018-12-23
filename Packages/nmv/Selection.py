@@ -23,7 +23,7 @@ class Selection:
 		grid(axis = "y")
 		savefig("./Downloads/Projects/NMV/Figures/Selection/MSE")
 		clf()
-		return DataFrame(array([m - e, m, m + e]).T, index = Selection.columns, columns = ["lower", "mean", "upper"])
+		return DataFrame(array([m, m - e, m + e]).T, index = Selection.columns, columns = ["mean", "lower", "upper"])
 	@staticmethod
 	def cod(SCORES):
 		cods = SCORES.test_r2.unstack()
@@ -39,7 +39,7 @@ class Selection:
 		savefig("./Downloads/Projects/NMV/Figures/Selection/COD")
 		clf()
 		p = 1 - norm.cdf(m / s)
-		return DataFrame(array([m - e, m, m + e, p]).T, index = Selection.columns, columns = ["lower", "mean", "upper", "p"])
+		return DataFrame(array([m, m - e, m + e, p]).T, index = Selection.columns, columns = ["mean", "lower", "upper", "p"])
 	@staticmethod
 	def standard(STANDARDS):
 		ps = STANDARDS.p.unstack()
@@ -55,7 +55,7 @@ class Selection:
 		savefig("./Downloads/Projects/NMV/Figures/Selection/Standard")
 		clf()
 		p = 1 - norm.cdf((m - 0.05) / s)
-		return DataFrame(array([m - e, m, m + e, p]).T, index = Selection.columns, columns = ["lower", "mean", "upper", "p"])
+		return DataFrame(array([m, m - e, m + e, p]).T, index = Selection.columns, columns = ["mean", "lower", "upper", "p"])
 	@staticmethod
 	def quantile(QUANTILES, i):
 		qs = QUANTILES.loc[:, i].unstack()
@@ -71,7 +71,7 @@ class Selection:
 		savefig("./Downloads/Projects/NMV/Figures/Selection/Quantile{}".format(i))
 		clf()
 		p = (1 - norm.cdf(abs(m - (2 * norm.cdf(i) - 1)) / s)) * 2
-		return DataFrame(array([m - e, m, m + e, p]).T, index = Selection.columns, columns = ["lower", "mean", "upper", "p"])
+		return DataFrame(array([m, m - e, m + e, p]).T, index = Selection.columns, columns = ["mean", "lower", "upper", "p"])
 	@staticmethod
 	def dump(SCORES, STANDARDS, QUANTILES):
 		with open("./Downloads/Projects/NMV/Datasets/Scores.pkl", "wb") as fout:

@@ -25,19 +25,11 @@ class Diagnostics:
 			self.rs.extend(y[test] - y_hat)
 			self.zs.extend((y[test] - y_hat) / self.model.s[x[test] - 18])
 		return self
-	def residual(self):
-		y_hat = array(self.ys) - array(self.rs)
-		scatter(y_hat, self.rs, s = 4, alpha = .5)
-		axhline(color = "red", linestyle = "--")
-		xlabel("Predicted Integrity")
-		ylabel("Residual")
-		savefig("./Downloads/Projects/NMV/Figures/Residual/{}/{}/{}".format(self.sex, self.model.__class__.__name__, self.tract))
-		clf()
 	def standard(self):
-		hist(array(self.zs)[isfinite(self.zs)], bins = linspace(-10, 10, 100))
+		hist(array(self.zs)[isfinite(self.zs)], bins = linspace(-4, 4, 80))
 		xlabel("Z-score")
 		ylabel("Frequency")
-		savefig("./Downloads/Projects/NMV/Figures/Standard/{}/{}/{}".format(self.sex, self.model.__class__.__name__, self.tract))
+		savefig("./Downloads/Projects/NMV/Figures/Standard/{}/{}/{}".format(self.sex.capitalize(), self.model.__class__.__name__, self.tract))
 		clf()
 		return shapiro(self.zs)[1]
 	def quantile(self):
@@ -48,5 +40,5 @@ class Diagnostics:
 		fill_between(range(18, 89), self.model.m - self.model.s, self.model.m + self.model.s, alpha = .5)
 		xlabel("Age")
 		ylabel("Integrity")
-		savefig("./Downloads/Projects/NMV/Figures/Scatter/{}/{}/{}".format(self.sex, self.model.__class__.__name__, self.tract))
+		savefig("./Downloads/Projects/NMV/Figures/Scatter/{}/{}/{}".format(self.sex.capitalize(), self.model.__class__.__name__, self.tract))
 		clf()
