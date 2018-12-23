@@ -13,9 +13,15 @@ class Sample:
 		return (DF, GFA)
 	@staticmethod
 	def hist(DF):
-		hist(DF.Age, bins = range(18, 89))
+		hist(
+			[DF.Age.loc[DF.Sex == "FEMALE"], DF.Age.loc[DF.Sex == "MALE"]],
+			bins = range(18, 89),
+			label = ["Female", "Male"],
+			stacked = True
+		)
+		legend()
 		xlabel("Age")
 		ylabel("Frequency")
-		yticks(range(20))
+		yticks(range(0, 20, 2))
 		savefig("./Downloads/Projects/NMV/Figures/Sample")
 		clf()
