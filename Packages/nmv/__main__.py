@@ -102,3 +102,5 @@ if __name__ == "__main__":
 			model.scatter()
 		peaks = list(map(Regression.peak, getattr(GPRS, sex)))
 		Regression.pcolor(SLOPES.loc[sex], PVALUES.loc[sex], peaks)
+	Regression.dump(SLOPES, PVALUES)
+	(SLOPES, PVALUES) = Regression.load()

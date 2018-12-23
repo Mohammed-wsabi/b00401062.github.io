@@ -46,9 +46,22 @@ class Regression:
 		axhline(y = 26, color = "k")
 		axhline(y = 58, color = "k")
 		xticks(arange(0, 70, 5) + 2, arange(20, 90, 5))
-		xlabel("Slope")
+		xlabel("Age")
 		ylabel("Tract")
 		colorbar(aspect = 10).ax.set_title("-log(p)")
 		clim(log10(0.05), -log10(0.05))
 		savefig("./Downloads/Projects/NMV/Figures/Regression/Heatmap ({})".format(sex.capitalize()))
 		clf()
+	@staticmethod
+	def dump(SLOPES, PVALUES):
+		with open("./Downloads/Projects/NMV/Datasets/Slopes.pkl", "wb") as fout:
+			pickle.dump(SLOPES, fout, pickle.HIGHEST_PROTOCOL)
+		with open("./Downloads/Projects/NMV/Datasets/Pvalues.pkl", "wb") as fout:
+			pickle.dump(PVALUES, fout, pickle.HIGHEST_PROTOCOL)
+	@staticmethod
+	def load():
+		with open("./Downloads/Projects/NMV/Datasets/Slopes.pkl", "rb") as fin:
+			SLOPES = pickle.load(fin)
+		with open("./Downloads/Projects/NMV/Datasets/Pvalues.pkl", "rb") as fin:
+			PVALUES = pickle.load(fin)
+		return (SLOPES, PVALUES)
