@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 from numpy import *
+from pandas import DataFrame
 from scipy.stats import shapiro
 from matplotlib.pyplot import *
 

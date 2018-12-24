@@ -48,7 +48,7 @@ class Regression:
 		xticks(arange(0, 70, 5) + 2, arange(20, 90, 5))
 		xlabel("Age")
 		ylabel("Tract")
-		colorbar(aspect = 10).ax.set_title("-log(p)")
+		colorbar(aspect = 10).ax.set_title("-log(p)sign(b)")
 		clim(log10(0.05), -log10(0.05))
 		savefig("./Downloads/Projects/NMV/Figures/Regression/Heatmap ({})".format(sex.capitalize()))
 		clf()

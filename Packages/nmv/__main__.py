@@ -10,6 +10,7 @@ if __name__ == "__main__":
 	(DF, GFA) = Sample.load()
 	Sample.hist(DF)
 	normality = Normality().fit(DF, GFA)
+	array(normality.p < 0.05).sum() / 5396
 	for sex in Sex._fields:
 		sum(sum(normality.p.loc[sex] < 0.05)) / 5396
 		normality.hist(sex)
