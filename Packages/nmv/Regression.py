@@ -40,7 +40,7 @@ class Regression:
 		savefig("./Downloads/Projects/NMV/Figures/Regression/{}/{}".format(self.sex.capitalize(), self.tract))
 		clf()
 	@staticmethod
-	def pcolor(slopes, pvalues, peaks):
+	def pcolor(slopes, pvalues, peaks, sex):
 		color = sign(slopes).values * -log10(pvalues).values
 		pcolor(list(map(lambda x: repeat(x[0], x[1]), zip(color, map(lambda peak: (peak-18, 89-peak), peaks)))), cmap = "coolwarm")
 		axhline(y = 26, color = "k")
@@ -49,7 +49,8 @@ class Regression:
 		xlabel("Age")
 		ylabel("Tract")
 		colorbar(aspect = 10).ax.set_title("-log(p)sign(b)")
-		clim(log10(0.05), -log10(0.05))
+		n = array(isnan(pvalues)).sum()
+		clim(log10(0.05/n), -log10(0.05/n))
 		savefig("./Downloads/Projects/NMV/Figures/Regression/Heatmap ({})".format(sex.capitalize()))
 		clf()
 	@staticmethod

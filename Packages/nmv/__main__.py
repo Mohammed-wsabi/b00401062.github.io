@@ -101,6 +101,6 @@ if __name__ == "__main__":
 			PVALUES.loc[(sex, i)] = model.p()
 			model.scatter()
 		peaks = list(map(Regression.peak, getattr(GPRS, sex)))
-		Regression.pcolor(SLOPES.loc[sex], PVALUES.loc[sex], peaks)
+		Regression.pcolor(SLOPES.loc[sex], PVALUES.loc[sex], peaks, sex)
 	Regression.dump(SLOPES, PVALUES)
 	(SLOPES, PVALUES) = Regression.load()
