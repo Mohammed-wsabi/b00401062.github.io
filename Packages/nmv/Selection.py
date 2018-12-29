@@ -8,7 +8,7 @@ from scipy.stats import norm
 from matplotlib.pyplot import *
 
 class Selection:
-	columns = ["GPR (Female)", "GPR (Male)", "RWR (Female)", "RWR (Male)"]
+	columns = ["GPR (Female)", "RWR (Female)", "GPR (Male)", "RWR (Male)"]
 	@staticmethod
 	def mse(SCORES):
 		mses = -SCORES.test_neg_mean_squared_error.unstack()
@@ -50,12 +50,10 @@ class Selection:
 		xlabel("Model")
 		ylabel("p-value")
 		xticks(range(4), Selection.columns)
-		axhline(ALPHA, color = "r")
 		grid(axis = "y")
 		savefig("./Downloads/Projects/NMV/Figures/Selection/Standard")
 		clf()
-		p = 1 - norm.cdf((m - ALPHA) / s)
-		return DataFrame(array([m, m - e, m + e, p]).T, index = Selection.columns, columns = ["mean", "lower", "upper", "p"])
+		return DataFrame(array([m, m - e, m + e]).T, index = Selection.columns, columns = ["mean", "lower", "upper"])
 	@staticmethod
 	def quantile(QUANTILES, i):
 		qs = QUANTILES.loc[:, i].unstack()

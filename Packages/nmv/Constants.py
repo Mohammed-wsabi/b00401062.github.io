@@ -6,7 +6,7 @@ from numpy import arange
 Name = namedtuple("Name", ["nickname", "fullname", "index"])
 Sex = namedtuple("Sex", ["female", "male"])
 
-ALPHA = .01
+ALPHA = .05
 INDICES = ["FA", "GFA", "AD", "RD", "MD", "NG", "NGO", "NGP"]
 AGES = arange(18, 89)
 TRACTS = (
