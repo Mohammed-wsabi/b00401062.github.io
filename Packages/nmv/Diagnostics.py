@@ -36,8 +36,8 @@ class Diagnostics:
 		return [sum(absolute(self.zs) < i) / len(self.zs) for i in arange(3) + 1]
 	def scatter(self):
 		scatter(self.xs, self.ys, s = 4, alpha = .5)
-		plot(range(18, 89), self.model.m)
-		fill_between(range(18, 89), self.model.m - self.model.s, self.model.m + self.model.s, alpha = .5)
+		plot(AGES, self.model.m)
+		fill_between(AGES, self.model.m - self.model.s, self.model.m + self.model.s, alpha = .5)
 		xlabel("Age")
 		ylabel("Integrity")
 		savefig("./Downloads/Projects/NMV/Figures/Scatter/{}/{}/{}".format(self.sex.capitalize(), self.model.__class__.__name__, self.tract))

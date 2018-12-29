@@ -11,15 +11,15 @@ if __name__ == "__main__":
 	Sample.hist(DF)
 	normality = Normality().fit(DF, GFA)
 	for sex in Sex._fields:
-		array(normality.p.loc[sex] < 0.05).sum() / 5396
+		array(normality.p.loc[sex] < ALPHA / len(TRACTS) / len(AGES)).sum()
 		normality.hist(sex)
 		normality.pcolor(sex)
 	MODELS = [RWR(), GPR()]
 	SCORES = DataFrame(
 		index = [
-			repeat(Sex._fields, len(MODELS) * 76),
-			tile(repeat([model.__class__.__name__ for model in MODELS], 76), len(Sex._fields)),
-			tile(range(76), len(Sex._fields) * len(MODELS)),
+			repeat(Sex._fields, len(MODELS) * len(TRACTS)),
+			tile(repeat([model.__class__.__name__ for model in MODELS], len(TRACTS)), len(Sex._fields)),
+			tile(range(len(TRACTS)), len(Sex._fields) * len(MODELS)),
 		],
 		columns = [
 			"fit_time",
@@ -33,18 +33,18 @@ if __name__ == "__main__":
 	)
 	STANDARDS = DataFrame(
 		index = [
-			repeat(Sex._fields, len(MODELS) * 76),
-			tile(repeat([model.__class__.__name__ for model in MODELS], 76), len(Sex._fields)),
-			tile(range(76), len(Sex._fields) * len(MODELS)),
+			repeat(Sex._fields, len(MODELS) * len(TRACTS)),
+			tile(repeat([model.__class__.__name__ for model in MODELS], len(TRACTS)), len(Sex._fields)),
+			tile(range(len(TRACTS)), len(Sex._fields) * len(MODELS)),
 		],
 		columns = ["p"],
 		dtype = "float"
 	)
 	QUANTILES = DataFrame(
 		index = [
-			repeat(Sex._fields, len(MODELS) * 76),
-			tile(repeat([model.__class__.__name__ for model in MODELS], 76), len(Sex._fields)),
-			tile(range(76), len(Sex._fields) * len(MODELS)),
+			repeat(Sex._fields, len(MODELS) * len(TRACTS)),
+			tile(repeat([model.__class__.__name__ for model in MODELS], len(TRACTS)), len(Sex._fields)),
+			tile(range(len(TRACTS)), len(Sex._fields) * len(MODELS)),
 		],
 		columns = arange(3) + 1,
 		dtype = "float"
@@ -71,23 +71,23 @@ if __name__ == "__main__":
 	Selection.standard(STANDARDS)
 	for i in arange(3) + 1:
 		Selection.quantile(QUANTILES, i)
-	GPRS = Sex(*[[GPR().fit(DF.Age.loc[DF.Sex == sex.upper()], GFA[i].mean(axis = 0)[DF.Sex == sex]) for i in range(76)] for sex in Sex._fields])
+	GPRS = Sex(*[[GPR().fit(DF.Age.loc[DF.Sex == sex.upper()], GFA[i].mean(axis = 0)[DF.Sex == sex.upper()]) for i in range(len(TRACTS))] for sex in Sex._fields])
 	with open("./Downloads/Projects/NMV/Datasets/GPRs.pkl", "wb") as fout:
 		pickle.dump(GPRS, fout, pickle.HIGHEST_PROTOCOL)
 	with open("./Downloads/Projects/NMV/Datasets/GPRs.pkl", "rb") as fin:
 		GPRS = pickle.load(fin)
 	SLOPES = DataFrame(
 		index = [
-			repeat(Sex._fields, 76),
-			tile(range(76), len(Sex._fields)),
+			repeat(Sex._fields, len(TRACTS)),
+			tile(range(len(TRACTS)), len(Sex._fields)),
 		],
 		columns = ["b1", "b2"],
 		dtype = "float"
 	)
 	PVALUES = DataFrame(
 		index = [
-			repeat(Sex._fields, 76),
-			tile(range(76), len(Sex._fields)),
+			repeat(Sex._fields, len(TRACTS)),
+			tile(range(len(TRACTS)), len(Sex._fields)),
 		],
 		columns = ["p1", "p2"],
 		dtype = "float"
