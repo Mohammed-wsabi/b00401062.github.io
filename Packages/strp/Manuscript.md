@@ -1,4 +1,4 @@
-# Draft
+# Manuscript
 
 ## Factor Analysis
 
