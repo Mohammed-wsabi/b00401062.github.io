@@ -9,6 +9,8 @@ from sklearn.gaussian_process.kernels import RationalQuadratic
 from sklearn.neural_network import MLPClassifier
 from sklearn.metrics import confusion_matrix
 from matplotlib.pyplot import *
+from sdp.Constants import *
+from sdp.Dataset import *
 
 if __name__ == "__main__":
 	DATASET = Dataset.get("GFA")
