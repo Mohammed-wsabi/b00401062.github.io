@@ -6,6 +6,7 @@ from sklearn.metrics import mean_squared_error
 from sklearn.metrics import r2_score
 from sklearn.model_selection import KFold
 from matplotlib.pyplot import *
+from nmv.Constants import *
 
 class Diagnostics:
 	def __init__(self, sex, model, tract):

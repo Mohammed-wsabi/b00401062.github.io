@@ -4,6 +4,7 @@ import pickle
 from numpy import array
 from pandas import read_csv
 from matplotlib.pyplot import *
+from nmv.Constants import *
 
 class Sample:
 	@staticmethod
@@ -16,7 +17,7 @@ class Sample:
 	@staticmethod
 	def hist(DF):
 		hist(
-			[DF.Age.loc[DF.Sex == "FEMALE"], DF.Age.loc[DF.Sex == "MALE"]],
+			[DF.age.loc[DF.sex == "FEMALE"], DF.age.loc[DF.sex == "MALE"]],
 			bins = range(18, 90),
 			label = ["Female", "Male"],
 			stacked = True

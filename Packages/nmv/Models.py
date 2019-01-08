@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 from sklearn.base import BaseEstimator
+from nmv.Constants import *
 
 ## Point estimation
 class RWR(BaseEstimator):

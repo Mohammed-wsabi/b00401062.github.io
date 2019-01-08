@@ -4,6 +4,7 @@ from numpy import *
 from scipy.optimize import curve_fit
 from scipy.stats import t
 from matplotlib.pyplot import *
+from nmv.Constants import *
 
 class Regression:
 	def __init__(self, sex, model, tract):

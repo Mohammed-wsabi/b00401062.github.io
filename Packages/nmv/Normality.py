@@ -4,6 +4,7 @@ from numpy import *
 from pandas import DataFrame
 from scipy.stats import shapiro
 from matplotlib.pyplot import *
+from nmv.Constants import *
 
 class Normality:
 	def fit(self, DF, GFA):
@@ -12,9 +13,9 @@ class Normality:
 			index = [repeat(Sex._fields, len(TRACTS)), tile(range(len(TRACTS)), len(Sex._fields))]
 		)
 		for sex in Sex._fields:
-			x = DF.Age.loc[DF.Sex == sex.upper()]
+			x = DF.age.loc[DF.sex == sex.upper()]
 			for i in range(len(TRACTS)):
-				y = GFA[i].mean(axis = 0)[DF.Sex == sex.upper()]
+				y = GFA[i].mean(axis = 0)[DF.sex == sex.upper()]
 				for age in AGES:
 					mask = (x == age)
 					self.p.loc[(sex, i), age - 18] = shapiro(y[mask])[1] if sum(mask) >= 3 else 1

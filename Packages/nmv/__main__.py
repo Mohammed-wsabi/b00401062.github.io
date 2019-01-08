@@ -5,6 +5,13 @@ from numpy import *
 from pandas import DataFrame
 from sklearn.model_selection import cross_validate
 from sklearn.model_selection import KFold
+from nmv.Constants import *
+from nmv.Sample import *
+from nmv.Normality import *
+from nmv.Models import *
+from nmv.Diagnostics import *
+from nmv.Selection import *
+from nmv.Regression import *
 
 if __name__ == "__main__":
 	(DF, GFA) = Sample.load()
@@ -50,10 +57,10 @@ if __name__ == "__main__":
 		dtype = "float"
 	)
 	for sex in Sex._fields:
-		x = DF.Age.loc[DF.Sex == sex.upper()]
+		x = DF.age.loc[DF.sex == sex.upper()]
 		for model in MODELS:
 			for i in range(len(TRACTS)):
-				y = GFA[i].mean(axis = 0)[DF.Sex == sex.upper()]
+				y = GFA[i].mean(axis = 0)[DF.sex == sex.upper()]
 				SCORES.loc[(sex, model.__class__.__name__, i)] = DataFrame(cross_validate(
 					model, x, y,
 					cv = KFold(5, True, 0),
@@ -71,7 +78,7 @@ if __name__ == "__main__":
 	Selection.standard(STANDARDS)
 	for i in arange(3) + 1:
 		Selection.quantile(QUANTILES, i)
-	GPRS = Sex(*[[GPR().fit(DF.Age.loc[DF.Sex == sex.upper()], GFA[i].mean(axis = 0)[DF.Sex == sex.upper()]) for i in range(len(TRACTS))] for sex in Sex._fields])
+	GPRS = Sex(*[[GPR().fit(DF.age.loc[DF.sex == sex.upper()], GFA[i].mean(axis = 0)[DF.sex == sex.upper()]) for i in range(len(TRACTS))] for sex in Sex._fields])
 	with open("./Downloads/Projects/NMV/Datasets/GPRs.pkl", "wb") as fout:
 		pickle.dump(GPRS, fout, pickle.HIGHEST_PROTOCOL)
 	with open("./Downloads/Projects/NMV/Datasets/GPRs.pkl", "rb") as fin:
@@ -93,9 +100,9 @@ if __name__ == "__main__":
 		dtype = "float"
 	)
 	for sex in Sex._fields:
-		x = DF.Age.loc[DF.Sex == sex.upper()]
+		x = DF.age.loc[DF.sex == sex.upper()]
 		for i in range(len(TRACTS)):
-			y = GFA[i].mean(axis = 0)[DF.Sex == sex.upper()]
+			y = GFA[i].mean(axis = 0)[DF.sex == sex.upper()]
 			model = Regression(sex, getattr(GPRS, sex)[i], TRACTS[i].nickname).fit(x, y)
 			SLOPES.loc[(sex, i)] = (model.b[1], model.b[2])
 			PVALUES.loc[(sex, i)] = model.p()
