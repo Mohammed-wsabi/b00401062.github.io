@@ -5,85 +5,81 @@ from numpy import *
 from pandas import DataFrame
 from scipy.stats import shapiro
 from scipy.stats import t
+from scipy.stats import norm
 from matplotlib.pyplot import *
 from nmv.Constants import *
 
 class Selection:
-	columns = ["GPR (Female)", "RWR (Female)", "GPR (Male)", "RWR (Male)"]
+	MODELS = ["GPR", "RWR"]
 	@staticmethod
 	def stats(x):
 		n = len(TRACTS)
 		m = x.mean(axis = 1)
 		sd = x.std(axis = 1)
-		sp = sqrt(((n-1) * sd[0] ** 2 + (n-1) * sd[1] ** 2) / (2 * n - 2))
+		sp = sqrt((n-1) * (sd[0] ** 2 + sd[1] ** 2) / (2 * n - 2))
 		se = sp * sqrt(2/n)
-		e = repeat(se * t(2*n-2).ppf(.975), 2)
+		e = se * t(2*n-2).ppf(.975)
 		p = 2 - 2 * t(2*n-2).cdf(abs(m[0] - m[1]) / sp * sqrt(2/n))
 		return (m, sd, sp, se, e, p)
 	@staticmethod
-	def mse(SCORES):
-		mses = -SCORES.test_neg_mean_squared_error.unstack()
-		stats = Sex(Selection.stats(mses.loc["female"]), Selection.stats(mses.loc["male"]))
-		m = stats.female[0].tolist() + stats.male[0].tolist()
-		e = stats.female[4].tolist() + stats.male[4].tolist()
-		errorbar(range(4), m, e, fmt = "o", capsize = 4)
+	def display(sex, label, m, sd, sp, se, e, p):
+		print("- {}".format(sex.capitalize()))
+		for i in range(2):
+			print("\t- {}: {:.2E} ± {:.2E} (95% CI = [{:.2E},{:.2E}])".format(Selection.MODELS[i], m[i], se, m[i]-e, m[i]+e))
+		print("\t- P-value: {}".format(p))
+		bar(range(2), m)
+		errorbar(range(2), m, e, fmt = "o", capsize = 4, color = "k")
+		xticks(range(2), Selection.MODELS)
+		title(sex.capitalize())
 		xlabel("Model")
-		ylabel("MSE")
-		xticks(range(4), Selection.columns)
-		yticks(rotation = 60)
-		axvline(1.5, color = "black")
-		grid(axis = "y")
+		ylabel(label)
+	@staticmethod
+	def mse(SCORES):
+		x = -SCORES.test_neg_mean_squared_error.unstack()
+		for sex, _ in zip(Sex._fields, subplots(1, 2, sharey = True)[1]):
+			sca(_)
+			Selection.display(sex, "MSE", *Selection.stats(x.loc[sex]))
 		savefig("./Downloads/Projects/NMV/Figures/Selection/MSE")
-		clf()
-		return (stats.female[5], stats.male[5])
+		close()
 	@staticmethod
 	def cod(SCORES):
-		cods = SCORES.test_r2.unstack()
-		stats = Sex(Selection.stats(cods.loc["female"]), Selection.stats(cods.loc["male"]))
-		m = stats.female[0].tolist() + stats.male[0].tolist()
-		e = stats.female[4].tolist() + stats.male[4].tolist()
-		errorbar(range(4), m, e, fmt = "o", capsize = 4)
-		xlabel("Model")
-		ylabel("COD")
-		xticks(range(4), Selection.columns)
-		axhline(0, color = "r")
-		axvline(1.5, color = "black")
-		grid(axis = "y")
+		x = SCORES.test_r2.unstack()
+		for sex, _ in zip(Sex._fields, subplots(1, 2, sharey = True)[1]):
+			sca(_)
+			Selection.display(sex, "COD", *Selection.stats(x.loc[sex]))
 		savefig("./Downloads/Projects/NMV/Figures/Selection/COD")
-		clf()
-		return (stats.female[5], stats.male[5])
+		close()
 	@staticmethod
 	def standard(STANDARDS):
-		ps = STANDARDS.p.unstack()
-		stats = Sex(Selection.stats(ps.loc["female"]), Selection.stats(ps.loc["male"]))
-		m = stats.female[0].tolist() + stats.male[0].tolist()
-		e = stats.female[4].tolist() + stats.male[4].tolist()
-		errorbar(range(4), m, e, fmt = "o", capsize = 4)
-		xlabel("Model")
-		ylabel("p-value")
-		xticks(range(4), Selection.columns)
-		axvline(1.5, color = "black")
-		grid(axis = "y")
+		x = STANDARDS.p.unstack()
+		for sex, _ in zip(Sex._fields, subplots(1, 2, sharey = True)[1]):
+			sca(_)
+			Selection.display(sex, "P-value", *Selection.stats(x.loc[sex]))
 		savefig("./Downloads/Projects/NMV/Figures/Selection/Standard")
-		clf()
-		return (stats.female[5], stats.male[5])
+		close()
 	@staticmethod
 	def quantile(QUANTILES, i):
-		qs = QUANTILES.loc[:, i].unstack()
-		m = qs.mean(axis = 1)
-		s = qs.std(axis = 1) / sqrt(len(TRACTS))
-		e = s * norm.ppf(.975)
-		errorbar(range(4), m, e, fmt = "o", capsize = 4)
-		xlabel("Model")
-		ylabel("Percentage")
-		xticks(range(4), Selection.columns)
-		axhline(2 * norm.cdf(i) - 1, color = "r")
-		axvline(1.5, color = "black")
-		grid(axis = "y")
+		x = QUANTILES.loc[:, i].unstack()
+		n = len(TRACTS)
+		for sex, _ in zip(Sex._fields, subplots(1, 2, sharey = True)[1]):
+			sca(_)
+			m = x.loc[sex].mean(axis = 1)
+			se = x.loc[sex].std(axis = 1) / sqrt(len(TRACTS))
+			e = se * t(2*n-2).ppf(.975)
+			p = (1 - t(2*n-2).cdf(abs(m - (2 * norm.cdf(i) - 1)) / se)) * 2
+			print("- {}".format(sex.capitalize()))
+			for i in range(2):
+				print("\t- {}: {:.2E} ± {:.2E} (95% CI = [{:.2E},{:.2E}]; p = {:.2E})".format(Selection.MODELS[i], m[i], se[i], m[i]-e[i], m[i]+e[i], p[i]))
+			errorbar(range(2), m, e, fmt = "o", capsize = 4)
+			xticks(range(2), Selection.MODELS)
+			title(sex.capitalize())
+			xlabel("Model")
+			ylabel("Percentage")
+			xlim((-0.49, 1.49))
+			axhline(2 * norm.cdf(i) - 1, color = "r")
+			grid(axis = "y")
 		savefig("./Downloads/Projects/NMV/Figures/Selection/Quantile{}".format(i))
-		clf()
-		p = (1 - norm.cdf(abs(m - (2 * norm.cdf(i) - 1)) / s)) * 2
-		return DataFrame(array([m, m - e, m + e, p]).T, index = Selection.columns, columns = ["mean", "lower", "upper", "p"])
+		close()
 	@staticmethod
 	def dump(SCORES, STANDARDS, QUANTILES):
 		with open("./Downloads/Projects/NMV/Datasets/Scores.pkl", "wb") as fout:
