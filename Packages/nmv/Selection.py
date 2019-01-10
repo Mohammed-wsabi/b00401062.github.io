@@ -16,7 +16,7 @@ class Selection:
 		n = len(TRACTS)
 		m = x.mean(axis = 1)
 		sd = x.std(axis = 1)
-		sp = sqrt((n-1) * (sd[0] ** 2 + sd[1] ** 2) / (2 * n - 2))
+		sp = sqrt((sd[0] ** 2 + sd[1] ** 2) / 2)
 		se = sp * sqrt(2/n)
 		e = se * t(2*n-2).ppf(.975)
 		p = 2 - 2 * t(2*n-2).cdf(abs(m[0] - m[1]) / sp * sqrt(2/n))
