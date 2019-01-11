@@ -15,14 +15,12 @@ class Selection:
 	def stats(x):
 		n = len(TRACTS)
 		m = x.mean(axis = 1)
-		sd = x.std(axis = 1)
-		sp = sqrt((sd[0] ** 2 + sd[1] ** 2) / 2)
-		se = sp * sqrt(2/n)
+		se = sqrt(sum(square(x.std(axis = 1)))) / sqrt(n)
 		e = se * t(2*n-2).ppf(.975)
-		p = 2 - 2 * t(2*n-2).cdf(abs(m[0] - m[1]) / sp * sqrt(2/n))
-		return (m, sd, sp, se, e, p)
+		p = 2 - 2 * t(2*n-2).cdf(abs(m[0] - m[1]) / se)
+		return (m, se, e, p)
 	@staticmethod
-	def display(sex, label, m, sd, sp, se, e, p):
+	def display(sex, label, m, se, e, p):
 		print("- {}".format(sex.capitalize()))
 		for i in range(2):
 			print("\t- {}: {:.2E} ± {:.2E} (95% CI = [{:.2E},{:.2E}])".format(Selection.MODELS[i], m[i], se, m[i]-e, m[i]+e))
@@ -64,7 +62,7 @@ class Selection:
 		for sex, _ in zip(Sex._fields, subplots(1, 2, sharey = True)[1]):
 			sca(_)
 			m = x.loc[sex].mean(axis = 1)
-			se = x.loc[sex].std(axis = 1) / sqrt(len(TRACTS))
+			se = x.loc[sex].std(axis = 1) / sqrt(n)
 			e = se * t(2*n-2).ppf(.975)
 			p = (1 - t(2*n-2).cdf(abs(m - (2 * norm.cdf(i) - 1)) / se)) * 2
 			print("- {}".format(sex.capitalize()))
