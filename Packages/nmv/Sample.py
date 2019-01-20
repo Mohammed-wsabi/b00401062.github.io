@@ -12,7 +12,7 @@ class Sample:
 		DF = read_csv("./Downloads/Projects/NMV/Datasets/Demographics.csv", index_col = 0)
 		with open("./Downloads/Projects/NMV/Datasets/Indices/GFA.pkl", "rb") as fin:
 			GFA = pickle.load(fin)
-		GFA = array(list(map(lambda i: GFA[i].mean(axis = 0), map(lambda tract: tract.index, TRACTS))))
+		GFA = array(list(map(lambda i: GFA[i].mean(axis = 0), map(lambda tract: tract.indices, TRACTS))))
 		return (DF, GFA)
 	@staticmethod
 	def hist(DF):
