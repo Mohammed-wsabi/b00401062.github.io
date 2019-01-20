@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+from numpy import *
 from sklearn.base import BaseEstimator
 from nmv.Constants import *
 

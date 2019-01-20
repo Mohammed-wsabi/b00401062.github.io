@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 
 from numpy import *
-from scipy.stats import shapiro
+from scipy.stats import kstest
+from scipy.stats import norm
 from sklearn.metrics import mean_squared_error
 from sklearn.metrics import r2_score
 from sklearn.model_selection import KFold
@@ -32,9 +33,9 @@ class Diagnostics:
 		ylabel("Frequency")
 		savefig("./Downloads/Projects/NMV/Figures/Standard/{}/{}/{}".format(self.sex.capitalize(), self.model.__class__.__name__, self.tract))
 		clf()
-		return shapiro(self.zs)[1]
-	def quantile(self):
-		return [sum(absolute(self.zs) < i) / len(self.zs) for i in arange(3) + 1]
+		return kstest(self.zs, "norm").pvalue
+	def percentage(self):
+		return sum(absolute(self.zs) < norm.ppf(1-ALPHA/2)) / len(self.zs)
 	def scatter(self):
 		scatter(self.xs, self.ys, s = 4, alpha = .5)
 		plot(AGES, self.model.m)

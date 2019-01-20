@@ -47,13 +47,13 @@ if __name__ == "__main__":
 		columns = ["p"],
 		dtype = "float"
 	)
-	QUANTILES = DataFrame(
+	PERCENTAGES = DataFrame(
 		index = [
 			repeat(Sex._fields, len(MODELS) * len(TRACTS)),
 			tile(repeat([model.__class__.__name__ for model in MODELS], len(TRACTS)), len(Sex._fields)),
 			tile(range(len(TRACTS)), len(Sex._fields) * len(MODELS)),
 		],
-		columns = arange(3) + 1,
+		columns = ["p"],
 		dtype = "float"
 	)
 	for sex in Sex._fields:
@@ -69,15 +69,14 @@ if __name__ == "__main__":
 				)).mean(axis = 0)
 				diagnostic = Diagnostics(sex, model, TRACTS[i].nickname).fit(x, y)
 				STANDARDS.loc[(sex, model.__class__.__name__, i)] = diagnostic.standard()
-				QUANTILES.loc[(sex, model.__class__.__name__, i)] = diagnostic.quantile()
+				PERCENTAGES.loc[(sex, model.__class__.__name__, i)] = diagnostic.percentage()
 				diagnostic.scatter()
-	Selection.dump(SCORES, STANDARDS, QUANTILES)
-	(SCORES, STANDARDS, QUANTILES) = Selection.load()
+	Selection.dump(SCORES, STANDARDS, PERCENTAGES)
+	(SCORES, STANDARDS, PERCENTAGES) = Selection.load()
 	Selection.mse(SCORES)
 	Selection.cod(SCORES)
 	Selection.standard(STANDARDS)
-	for i in arange(3) + 1:
-		Selection.quantile(QUANTILES, i)
+	Selection.percentage(PERCENTAGES)
 	GPRS = Sex(*[[GPR().fit(DF.age.loc[DF.sex == sex.upper()], GFA[i].mean(axis = 0)[DF.sex == sex.upper()]) for i in range(len(TRACTS))] for sex in Sex._fields])
 	with open("./Downloads/Projects/NMV/Datasets/GPRs.pkl", "wb") as fout:
 		pickle.dump(GPRS, fout, pickle.HIGHEST_PROTOCOL)
