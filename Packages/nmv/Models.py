@@ -2,7 +2,25 @@
 
 from numpy import *
 from sklearn.base import BaseEstimator
+from matplotlib.pyplot import *
 from nmv.Constants import *
+
+class Model:
+	def __init__(self, model, tract):
+		self.model = model
+		self.tract = tract
+	def scatter(self, x, y):
+		scatter(x, y, s = 4, c = list(map("C{}".format, DF.sex.astype("category").cat.codes)), alpha = .5)
+		for sex in Sex._fields:
+			model = self.model.fit(x.loc[DF.sex == sex.upper()], y[DF.sex == sex.upper()])
+			plot(AGES, model.m)
+			fill_between(AGES, model.m - model.s, model.m + model.s, alpha = .5)
+		title(self.tract.fullname)
+		legend(list(map(str.capitalize, Sex._fields)), loc = "lower left")
+		xlabel("Age")
+		ylabel("Integrity")
+		savefig("./Downloads/Projects/NMV/Figures/Scatter/{}/{}".format(self.model.__name__, self.tract.nickname))
+		clf()
 
 ## Point estimation
 class RWR(BaseEstimator):

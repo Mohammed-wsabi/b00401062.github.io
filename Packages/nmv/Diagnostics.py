@@ -27,20 +27,13 @@ class Diagnostics:
 			self.rs.extend(y[test] - y_hat)
 			self.zs.extend((y[test] - y_hat) / self.model.s[x[test] - 18])
 		return self
-	def standard(self):
+	def residual(self):
 		hist(array(self.zs)[isfinite(self.zs)], bins = linspace(-4, 4, 80))
 		xlabel("Z-score")
 		ylabel("Frequency")
-		savefig("./Downloads/Projects/NMV/Figures/Standard/{}/{}/{}".format(self.sex.capitalize(), self.model.__class__.__name__, self.tract))
+		savefig("./Downloads/Projects/NMV/Figures/Residual/{}/{}/{}".format(self.sex.capitalize(), self.model.__class__.__name__, self.tract.nickname))
 		clf()
+	def standard(self):
 		return kstest(self.zs, "norm").pvalue
 	def percentage(self):
 		return sum(absolute(self.zs) < norm.ppf(1-ALPHA/2)) / len(self.zs)
-	def scatter(self):
-		scatter(self.xs, self.ys, s = 4, alpha = .5)
-		plot(AGES, self.model.m)
-		fill_between(AGES, self.model.m - self.model.s, self.model.m + self.model.s, alpha = .5)
-		xlabel("Age")
-		ylabel("Integrity")
-		savefig("./Downloads/Projects/NMV/Figures/Scatter/{}/{}/{}".format(self.sex.capitalize(), self.model.__class__.__name__, self.tract))
-		clf()
