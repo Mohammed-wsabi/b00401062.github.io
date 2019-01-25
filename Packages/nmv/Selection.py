@@ -33,6 +33,7 @@ class Selection:
 		title("Difference of {}".format(label))
 		xlabel("Sex")
 		ylabel("GPR - RWR")
+		grid(axis = "y")
 		ticklabel_format(style = "sci", axis = "y", scilimits = (0, 0))
 		savefig("./Downloads/Projects/NMV/Figures/Selection/{}".format(label))
 		close()

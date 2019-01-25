@@ -50,10 +50,10 @@ if __name__ == "__main__":
 		columns = ["p"],
 		dtype = "float"
 	)
-	for sex in Sex._fields:
-		x = DF.age.loc[DF.sex == sex.upper()]
-		for model in MODELS:
-			for i in range(len(TRACTS)):
+	for model in MODELS:
+		for i in range(len(TRACTS)):
+			for sex in Sex._fields:
+				x = DF.age.loc[DF.sex == sex.upper()]
 				y = GFA[i].mean(axis = 0)[DF.sex == sex.upper()]
 				SCORES.loc[(sex, model.__name__, i)] = DataFrame(cross_validate(
 					model(), x, y,
@@ -62,9 +62,14 @@ if __name__ == "__main__":
 					return_train_score = True
 				)).mean(axis = 0)
 				diagnostic = Diagnostics(sex, model(), TRACTS[i]).fit(x, y)
-				diagnostic.residual()
 				STANDARDS.loc[(sex, model.__name__, i)] = diagnostic.standard()
 				PERCENTAGES.loc[(sex, model.__name__, i)] = diagnostic.percentage()
+				hist(array(diagnostic.zs)[isfinite(diagnostic.zs)], bins = linspace(-4, 4, 80), alpha = .5)
+			xlabel("Z-score")
+			ylabel("Frequency")
+			legend(list(map(str.capitalize, Sex._fields)))
+			savefig("./Downloads/Projects/NMV/Figures/Residual/{}/{}".format(model.__name__, TRACTS[i].nickname))
+			clf()
 	Selection.dump(SCORES, STANDARDS, PERCENTAGES)
 	(SCORES, STANDARDS, PERCENTAGES) = Selection.load()
 	Selection.mse(SCORES)

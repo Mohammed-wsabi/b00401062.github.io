@@ -27,12 +27,6 @@ class Diagnostics:
 			self.rs.extend(y[test] - y_hat)
 			self.zs.extend((y[test] - y_hat) / self.model.s[x[test] - 18])
 		return self
-	def residual(self):
-		hist(array(self.zs)[isfinite(self.zs)], bins = linspace(-4, 4, 80))
-		xlabel("Z-score")
-		ylabel("Frequency")
-		savefig("./Downloads/Projects/NMV/Figures/Residual/{}/{}/{}".format(self.sex.capitalize(), self.model.__class__.__name__, self.tract.nickname))
-		clf()
 	def standard(self):
 		return kstest(self.zs, "norm").pvalue
 	def percentage(self):
