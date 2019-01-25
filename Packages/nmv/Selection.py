@@ -13,47 +13,41 @@ class Selection:
 	@staticmethod
 	def stats(x):
 		n = len(TRACTS)
-		m = x.mean(axis = 1)
-		se = sqrt(sum(square(x.std(axis = 1)))) / sqrt(n)
-		e = se * t(2*n-2).ppf(.975)
-		p = 2 - 2 * t(2*n-2).cdf(abs(m[0] - m[1]) / se)
+		m = x.mean()
+		se = x.std() / sqrt(n)
+		e = se * t(n-1).ppf(.975)
+		p = 2 - 2 * t(n-1).cdf(abs(m) / se)
 		return (m, se, e, p)
 	@staticmethod
-	def display(sex, label, m, se, e, p):
-		print("- {}".format(sex.capitalize()))
+	def display(label, stats):
+		m = [-stats.female[0], -stats.male[0]]
+		se = [stats.female[1], stats.male[1]]
+		e = [stats.female[2], stats.male[2]]
+		p = [stats.female[3], stats.male[3]]
+		print("- Difference of {}".format(label))
 		for i in range(2):
-			print("\t- {}: {:.2E} ± {:.2E} (95% CI = [{:.2E},{:.2E}])".format(Selection.MODELS[i], m[i], se, m[i]-e, m[i]+e))
-		print("\t- P-value: {}".format(p))
+			print("\t- {}: {:.2e} ± {:.2e} (95% CI = [{:.2e},{:.2e}]; p = {})".format(Sex._fields[i].capitalize(), m[i], se[i], m[i]-e[i], m[i]+e[i], p[i]))
 		bar(range(2), m)
 		errorbar(range(2), m, e, fmt = "o", capsize = 4, color = "k")
-		xticks(range(2), Selection.MODELS)
-		title(sex.capitalize())
-		xlabel("Model")
-		ylabel(label)
+		xticks(range(2), list(map(str.capitalize, Sex._fields)))
+		title("Difference of {}".format(label))
+		xlabel("Sex")
+		ylabel("GPR - RWR")
+		ticklabel_format(style = "sci", axis = "y", scilimits = (0, 0))
+		savefig("./Downloads/Projects/NMV/Figures/Selection/{}".format(label))
+		close()
 	@staticmethod
 	def mse(SCORES):
 		x = -SCORES.test_neg_mean_squared_error.unstack()
-		for sex, _ in zip(Sex._fields, subplots(1, 2, sharey = True)[1]):
-			sca(_)
-			Selection.display(sex, "MSE", *Selection.stats(x.loc[sex]))
-		savefig("./Downloads/Projects/NMV/Figures/Selection/MSE")
-		close()
+		Selection.display("MSE", Sex(*[Selection.stats(x.loc[sex].diff().T.RWR) for sex in Sex._fields]))
 	@staticmethod
 	def cod(SCORES):
 		x = SCORES.test_r2.unstack()
-		for sex, _ in zip(Sex._fields, subplots(1, 2, sharey = True)[1]):
-			sca(_)
-			Selection.display(sex, "COD", *Selection.stats(x.loc[sex]))
-		savefig("./Downloads/Projects/NMV/Figures/Selection/COD")
-		close()
+		Selection.display("COD", Sex(*[Selection.stats(x.loc[sex].diff().T.RWR) for sex in Sex._fields]))
 	@staticmethod
 	def standard(STANDARDS):
 		x = STANDARDS.p.unstack()
-		for sex, _ in zip(Sex._fields, subplots(1, 2, sharey = True)[1]):
-			sca(_)
-			Selection.display(sex, "P-value", *Selection.stats(x.loc[sex]))
-		savefig("./Downloads/Projects/NMV/Figures/Selection/Standard")
-		close()
+		Selection.display("P-value", Sex(*[Selection.stats(x.loc[sex].diff().T.RWR) for sex in Sex._fields]))
 	@staticmethod
 	def percentage(PERCENTAGES):
 		x = PERCENTAGES.p.unstack()
@@ -66,7 +60,7 @@ class Selection:
 			p = (1 - t(2*n-2).cdf(abs(m-.95) / se)) * 2
 			print("- {}".format(sex.capitalize()))
 			for i in range(2):
-				print("\t- {}: {:.2E} ± {:.2E} (95% CI = [{:.2E},{:.2E}]; p = {:.2E})".format(Selection.MODELS[i], m[i], se[i], m[i]-e[i], m[i]+e[i], p[i]))
+				print("\t- {}: {:.2e} ± {:.2e} (95% CI = [{:.2e},{:.2e}]; p = {:.2e})".format(Selection.MODELS[i], m[i], se[i], m[i]-e[i], m[i]+e[i], p[i]))
 			errorbar(range(2), m, e, fmt = "o", capsize = 4)
 			xticks(range(2), Selection.MODELS)
 			title(sex.capitalize())

@@ -7,7 +7,6 @@ from sklearn.model_selection import cross_validate
 from sklearn.model_selection import KFold
 from nmv.Constants import *
 from nmv.Sample import *
-from nmv.Normality import *
 from nmv.Models import *
 from nmv.Diagnostics import *
 from nmv.Selection import *

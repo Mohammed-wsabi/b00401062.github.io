@@ -19,7 +19,7 @@ class Model:
 		legend(list(map(str.capitalize, Sex._fields)), loc = "lower left")
 		xlabel("Age")
 		ylabel("Integrity")
-		savefig("./Downloads/Projects/NMV/Figures/Scatter/{}/{}".format(self.model.__name__, self.tract.nickname))
+		savefig("./Downloads/Projects/NMV/Figures/Scatter/{}/{}".format(self.model.__class__.__name__, self.tract.nickname))
 		clf()
 
 ## Point estimation

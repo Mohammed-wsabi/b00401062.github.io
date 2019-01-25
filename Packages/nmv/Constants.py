@@ -13,7 +13,7 @@ TRACTS = (
 	Name(nickname = "A001_AF", fullname = "Arcuate Fasciculus", indices = list(range(0, 2))),
 	Name(nickname = "A002_CBB", fullname = "Cingulum Bundle (Body)", indices = list(range(2, 4))),
 	Name(nickname = "A003_CBH", fullname = "Cingulum Bundle (Hippocampus)", indices = list(range(4, 6))),
-	Name(nickname = "A004_FAT", fullname = "Frontal Aslent Tract", indices = list(range(6, 8))),
+	Name(nickname = "A004_FAT", fullname = "Frontal Aslant Tract", indices = list(range(6, 8))),
 	Name(nickname = "A005_FX", fullname = "Fornix", indices = list(range(8, 10))),
 	Name(nickname = "A006_IFOF", fullname = "Inferior Fronto-Occipital Fasciculus", indices = list(range(10, 12))),
 	Name(nickname = "A007_ILF", fullname = "Inferior Longitudinal Fasciculus", indices = list(range(12, 14))),
