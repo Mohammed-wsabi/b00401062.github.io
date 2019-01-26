@@ -80,7 +80,7 @@ title: Life Code
 - [gpa](Packages/gpa): Applet that calculates your average GPA.
 - [leetcode](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/leetcode): Collection of Java programs solving [LeetCode](https://leetcode.com/problemset/all/) problems.
 - [mqat](Packages/mqat): Colletion of algorithms for MRI quality assurance.
-- [nmv](Packages/nmv): Pipeline to validate normative model for microstructural integrity of the white matter tracts.
+- [nmmi](Packages/nmmi): Pipeline to create a normative model for microstructural integrity of the white matter tracts.
 - [notebook](Packages/notebook): Place where you can take note of trivial things in your life.
 - [osccm](Packages/osccm): Pipeline for metagenomics analysis to study association between microbiota and cancer.
 - [ratlab](Packages/ratlab): Collection of [Matlab](https://www.mathworks.com) functions implemented natively in [R](https://www.r-project.org).
