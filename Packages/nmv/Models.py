@@ -3,7 +3,7 @@
 from numpy import *
 from sklearn.base import BaseEstimator
 from matplotlib.pyplot import *
-from nmv.Constants import *
+from nmmi.Constants import *
 
 class Model:
 	def __init__(self, model, tract):
@@ -19,7 +19,7 @@ class Model:
 		legend(list(map(str.capitalize, Sex._fields)), loc = "lower left")
 		xlabel("Age")
 		ylabel("Integrity")
-		savefig("./Downloads/Projects/NMV/Figures/Scatter/{}/{}".format(self.model.__class__.__name__, self.tract.nickname))
+		savefig("./Downloads/Projects/NMMI/Figures/Scatter/{}/{}".format(self.model.__class__.__name__, self.tract.nickname))
 		clf()
 
 ## Point estimation

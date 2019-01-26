@@ -5,12 +5,12 @@ from numpy import *
 from pandas import DataFrame
 from sklearn.model_selection import cross_validate
 from sklearn.model_selection import KFold
-from nmv.Constants import *
-from nmv.Sample import *
-from nmv.Models import *
-from nmv.Diagnostics import *
-from nmv.Selection import *
-from nmv.Regression import *
+from nmmi.Constants import *
+from nmmi.Sample import *
+from nmmi.Models import *
+from nmmi.Diagnostics import *
+from nmmi.Selection import *
+from nmmi.Regression import *
 
 if __name__ == "__main__":
 	(DF, GFA) = Sample.load()
@@ -68,7 +68,7 @@ if __name__ == "__main__":
 			xlabel("Z-score")
 			ylabel("Frequency")
 			legend(list(map(str.capitalize, Sex._fields)))
-			savefig("./Downloads/Projects/NMV/Figures/Residual/{}/{}".format(model.__name__, TRACTS[i].nickname))
+			savefig("./Downloads/Projects/NMMI/Figures/Residual/{}/{}".format(model.__name__, TRACTS[i].nickname))
 			clf()
 	Selection.dump(SCORES, STANDARDS, PERCENTAGES)
 	(SCORES, STANDARDS, PERCENTAGES) = Selection.load()

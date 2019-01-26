@@ -4,7 +4,7 @@ from numpy import *
 from scipy.optimize import curve_fit
 from scipy.stats import t
 from matplotlib.pyplot import *
-from nmv.Constants import *
+from nmmi.Constants import *
 
 class Regression:
 	def __init__(self, sex, model, tract):
@@ -40,7 +40,7 @@ class Regression:
 		plot(AGES, self.piecewise(arange(18., 89.), *self.b))
 		xlabel("Age")
 		ylabel("Integrity")
-		savefig("./Downloads/Projects/NMV/Figures/Regression/{}/{}".format(self.sex.capitalize(), self.tract))
+		savefig("./Downloads/Projects/NMMI/Figures/Regression/{}/{}".format(self.sex.capitalize(), self.tract))
 		clf()
 	@staticmethod
 	def pcolor(slopes, pvalues, peaks, sex):
@@ -55,18 +55,18 @@ class Regression:
 		colorbar(aspect = 10).ax.set_title("-log(p)sign(b)")
 		n = len(TRACTS) * 2 - array(isnan(pvalues)).sum()
 		clim(log10(ALPHA/n), -log10(ALPHA/n))
-		savefig("./Downloads/Projects/NMV/Figures/Regression/Heatmap ({})".format(sex.capitalize()))
+		savefig("./Downloads/Projects/NMMI/Figures/Regression/Heatmap ({})".format(sex.capitalize()))
 		clf()
 	@staticmethod
 	def dump(SLOPES, PVALUES):
-		with open("./Downloads/Projects/NMV/Datasets/Slopes.pkl", "wb") as fout:
+		with open("./Downloads/Projects/NMMI/Datasets/Slopes.pkl", "wb") as fout:
 			pickle.dump(SLOPES, fout, pickle.HIGHEST_PROTOCOL)
-		with open("./Downloads/Projects/NMV/Datasets/Pvalues.pkl", "wb") as fout:
+		with open("./Downloads/Projects/NMMI/Datasets/Pvalues.pkl", "wb") as fout:
 			pickle.dump(PVALUES, fout, pickle.HIGHEST_PROTOCOL)
 	@staticmethod
 	def load():
-		with open("./Downloads/Projects/NMV/Datasets/Slopes.pkl", "rb") as fin:
+		with open("./Downloads/Projects/NMMI/Datasets/Slopes.pkl", "rb") as fin:
 			SLOPES = pickle.load(fin)
-		with open("./Downloads/Projects/NMV/Datasets/Pvalues.pkl", "rb") as fin:
+		with open("./Downloads/Projects/NMMI/Datasets/Pvalues.pkl", "rb") as fin:
 			PVALUES = pickle.load(fin)
 		return (SLOPES, PVALUES)

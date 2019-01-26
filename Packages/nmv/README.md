@@ -1,4 +1,4 @@
-# Normative Model Validation (NMV)
+# Normative Model for Microstructural Integrity (NMMI)
 
 
 ## Importing Data
@@ -8,7 +8,6 @@
 
 ## Standardized Pipeline
 
-- [Normality.py](Normality.py): Normality test for microstructural integrity.
 - [Models.py](Models.py): Models for estimation of normative models.
 - [Diagnostics.py](Diagnostics.py): Diagnostic metrics for validation of models.
 - [Selection.py](Selection.py): Compare the models with different metrics.
@@ -19,5 +18,5 @@
 ```bash
 export PYTHONHASHSEED=0
 export PYTHONPATH=$HOME/Documents/Packages/
-python3 -B -m nmv
+python3 -B -m nmmi
 ```

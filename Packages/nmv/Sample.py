@@ -4,13 +4,13 @@ import pickle
 from numpy import array
 from pandas import read_csv
 from matplotlib.pyplot import *
-from nmv.Constants import *
+from nmmi.Constants import *
 
 class Sample:
 	@staticmethod
 	def load():
-		DF = read_csv("./Downloads/Projects/NMV/Datasets/Demographics.csv", index_col = 0)
-		with open("./Downloads/Projects/NMV/Datasets/Indices/GFA.pkl", "rb") as fin:
+		DF = read_csv("./Downloads/Projects/NMMI/Datasets/Demographics.csv", index_col = 0)
+		with open("./Downloads/Projects/NMMI/Datasets/Indices/GFA.pkl", "rb") as fin:
 			GFA = pickle.load(fin)
 		GFA = array(list(map(lambda i: GFA[i].mean(axis = 0), map(lambda tract: tract.indices, TRACTS))))
 		return (DF, GFA)
@@ -26,5 +26,5 @@ class Sample:
 		xlabel("Age")
 		ylabel("Frequency")
 		yticks(range(0, 20, 2))
-		savefig("./Downloads/Projects/NMV/Figures/Sample")
+		savefig("./Downloads/Projects/NMMI/Figures/Sample")
 		clf()

@@ -6,7 +6,7 @@ from pandas import DataFrame
 from scipy.stats import t
 from scipy.stats import norm
 from matplotlib.pyplot import *
-from nmv.Constants import *
+from nmmi.Constants import *
 
 class Selection:
 	MODELS = ["GPR", "RWR"]
@@ -35,7 +35,7 @@ class Selection:
 		ylabel("GPR - RWR")
 		grid(axis = "y")
 		ticklabel_format(style = "sci", axis = "y", scilimits = (0, 0))
-		savefig("./Downloads/Projects/NMV/Figures/Selection/{}".format(label))
+		savefig("./Downloads/Projects/NMMI/Figures/Selection/{}".format(label))
 		close()
 	@staticmethod
 	def mse(SCORES):
@@ -70,22 +70,22 @@ class Selection:
 			xlim((-0.49, 1.49))
 			axhline(.95, color = "r")
 			grid(axis = "y")
-		savefig("./Downloads/Projects/NMV/Figures/Selection/Percentage")
+		savefig("./Downloads/Projects/NMMI/Figures/Selection/Percentage")
 		close()
 	@staticmethod
 	def dump(SCORES, STANDARDS, PERCENTAGES):
-		with open("./Downloads/Projects/NMV/Datasets/Scores.pkl", "wb") as fout:
+		with open("./Downloads/Projects/NMMI/Datasets/Scores.pkl", "wb") as fout:
 			pickle.dump(SCORES, fout, pickle.HIGHEST_PROTOCOL)
-		with open("./Downloads/Projects/NMV/Datasets/Standards.pkl", "wb") as fout:
+		with open("./Downloads/Projects/NMMI/Datasets/Standards.pkl", "wb") as fout:
 			pickle.dump(STANDARDS, fout, pickle.HIGHEST_PROTOCOL)
-		with open("./Downloads/Projects/NMV/Datasets/Percentages.pkl", "wb") as fout:
+		with open("./Downloads/Projects/NMMI/Datasets/Percentages.pkl", "wb") as fout:
 			pickle.dump(PERCENTAGES, fout, pickle.HIGHEST_PROTOCOL)
 	@staticmethod
 	def load():
-		with open("./Downloads/Projects/NMV/Datasets/Scores.pkl", "rb") as fin:
+		with open("./Downloads/Projects/NMMI/Datasets/Scores.pkl", "rb") as fin:
 			SCORES = pickle.load(fin)
-		with open("./Downloads/Projects/NMV/Datasets/Standards.pkl", "rb") as fin:
+		with open("./Downloads/Projects/NMMI/Datasets/Standards.pkl", "rb") as fin:
 			STANDARDS = pickle.load(fin)
-		with open("./Downloads/Projects/NMV/Datasets/Percentages.pkl", "rb") as fin:
+		with open("./Downloads/Projects/NMMI/Datasets/Percentages.pkl", "rb") as fin:
 			PERCENTAGES = pickle.load(fin)
 		return (SCORES, STANDARDS, PERCENTAGES)
