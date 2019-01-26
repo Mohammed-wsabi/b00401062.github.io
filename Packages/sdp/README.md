@@ -1,4 +1,4 @@
-# Schizophrenia Disease Prediction (SDP)
+# Schizophrenia Development Prediction (SDP)
 
 ## Importing Data
 
