@@ -15,7 +15,7 @@ from nmmi.Regression import *
 if __name__ == "__main__":
 	(DF, GFA) = Sample.load()
 	Sample.hist(DF)
-	MODELS = [RWR, GPR]
+	MODELS = [CMA, GPR]
 	SCORES = DataFrame(
 		index = [
 			repeat(Sex._fields, len(MODELS) * len(TRACTS)),

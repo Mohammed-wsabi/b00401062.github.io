@@ -9,7 +9,7 @@ from matplotlib.pyplot import *
 from nmmi.Constants import *
 
 class Selection:
-	MODELS = ["GPR", "RWR"]
+	MODELS = ["CMA", "GPR"]
 	@staticmethod
 	def stats(x):
 		n = len(TRACTS)
@@ -20,7 +20,7 @@ class Selection:
 		return (m, se, e, p)
 	@staticmethod
 	def display(label, stats):
-		m = [-stats.female[0], -stats.male[0]]
+		m = [stats.female[0], stats.male[0]]
 		se = [stats.female[1], stats.male[1]]
 		e = [stats.female[2], stats.male[2]]
 		p = [stats.female[3], stats.male[3]]
@@ -32,7 +32,7 @@ class Selection:
 		xticks(range(2), list(map(str.capitalize, Sex._fields)))
 		title("Difference of {}".format(label))
 		xlabel("Sex")
-		ylabel("GPR - RWR")
+		ylabel("GPR - CMA")
 		grid(axis = "y")
 		ticklabel_format(style = "sci", axis = "y", scilimits = (0, 0))
 		savefig("./Downloads/Projects/NMMI/Figures/Selection/{}".format(label))
@@ -40,15 +40,15 @@ class Selection:
 	@staticmethod
 	def mse(SCORES):
 		x = -SCORES.test_neg_mean_squared_error.unstack()
-		Selection.display("MSE", Sex(*[Selection.stats(x.loc[sex].diff().T.RWR) for sex in Sex._fields]))
+		Selection.display("MSE", Sex(*[Selection.stats(x.loc[sex].diff().T.GPR) for sex in Sex._fields]))
 	@staticmethod
 	def cod(SCORES):
 		x = SCORES.test_r2.unstack()
-		Selection.display("COD", Sex(*[Selection.stats(x.loc[sex].diff().T.RWR) for sex in Sex._fields]))
+		Selection.display("COD", Sex(*[Selection.stats(x.loc[sex].diff().T.GPR) for sex in Sex._fields]))
 	@staticmethod
 	def standard(STANDARDS):
 		x = STANDARDS.p.unstack()
-		Selection.display("P-value", Sex(*[Selection.stats(x.loc[sex].diff().T.RWR) for sex in Sex._fields]))
+		Selection.display("P-value", Sex(*[Selection.stats(x.loc[sex].diff().T.GPR) for sex in Sex._fields]))
 	@staticmethod
 	def percentage(PERCENTAGES):
 		x = PERCENTAGES.p.unstack()

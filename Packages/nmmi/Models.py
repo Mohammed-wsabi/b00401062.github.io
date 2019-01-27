@@ -23,7 +23,7 @@ class Model:
 		clf()
 
 ## Point estimation
-class RWR(BaseEstimator):
+class CMA(BaseEstimator):
 	def fit(self, x, y):
 		self.m = array([y[bitwise_and(age - 2 <= x, x <= age + 2)].mean() for age in AGES])
 		self.s = array([y[bitwise_and(age - 2 <= x, x <= age + 2)].std() for age in AGES])
