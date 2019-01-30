@@ -10,17 +10,17 @@
 ## Case Discussion
 
 - [Patient Information](#patient-information)
-- [Chief Complaint (CC)](#chief-complaint-cc)
-- [History of Present Illness (HPI)](#history-of-present-illness-hpi)
-- [Review of Systems (ROS)](#review-of-systems-ros)
-- [Past History (PH)](#past-history-ph)
+- [Chief Complaint](#chief-complaint)
+- [History of Present Illness](#history-of-present-illness)
+- [Review of Systems](#review-of-systems)
+- [Past History](#past-history)
 - [Pediatric History](#pediatric-history)
 - [Obstetric History](#obstetric-history)
 - [Gynecologic History](#gynecologic-history)
-- [Social and Sexual History (SH)](#social-and-sexual-history-sh)
-- [Family History (FH)](#family-history-fh)
+- [Social and Sexual History](#social-and-sexual-history)
+- [Family History](#family-history)
 - [Differential Diagnosis](#differential-diagnosis)
-- [Physical Examination (PE)](#physical-examination-pe)
+- [Physical Examination](#physical-examinatione)
 - [Laboratory](#laboratory)
 - [Radiology](#radiology)
 - [Pathology](#pathology)
@@ -40,11 +40,11 @@
 
 ---
 
-### Chief Complaint (CC)
+### Chief Complaint
 
 ---
 
-### History of Present Illness (HPI)
+### History of Present Illness
 
 - Symptoms:
 	- Location:
@@ -61,7 +61,7 @@
 
 ---
 
-### Review of Systems (ROS)
+### Review of Systems
 
 - General:
 - Integumentary:
@@ -76,7 +76,7 @@
 
 ---
 
-### Past History (PH)
+### Past History
 
 - Medical:
 - Surgical:
@@ -98,8 +98,8 @@
 
 ### Obstetric History
 
-- Gestational age (GA):
-- Gravidity & Parity & Abortions (GPA):
+- Gestational age:
+- Gravidity & Parity & Abortions:
 - Complications:
 - Prenatal care:
 
@@ -119,15 +119,16 @@
 
 ---
 
-### Social and Sexual History (SH)
+### Social and Sexual History
 
 - Alcohol:
 - Betel nuts:
 - Cigarettes:
-- Drugs:
-- Eating:
-- Exercise:
+- Diet:
+- Exposure:
 - Marital status:
+- Financial status:
+- Housing:
 - Occupation:
 - Sexually active:
 - Sexual partners:
@@ -135,7 +136,7 @@
 
 ---
 
-### Family History (FH)
+### Family History
 
 ---
 
@@ -143,7 +144,7 @@
 
 ---
 
-### Physical Examination (PE)
+### Physical Examination
 
 - General:
 - Skin:
