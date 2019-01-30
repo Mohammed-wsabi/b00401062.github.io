@@ -22,9 +22,9 @@
 - [Differential Diagnosis](#differential-diagnosis)
 - [Physical Examination](#physical-examinatione)
 - [Vital Signs](#vital-signs)
-- [Imaging](#imaging)
 - [Laboratory](#laboratory)
 - [Microbiology](#microbiology)
+- [Imaging](#imaging)
 - [Pathology](#pathology)
 - [Assessment](#assessment)
 - [Plan](#plan)
@@ -166,15 +166,15 @@
 
 ---
 
-### Imaging
-
----
-
 ### Laboratory
 
 ---
 
 ### Microbiology
+
+---
+
+### Imaging
 
 ---
 
