@@ -21,8 +21,10 @@
 - [Family History](#family-history)
 - [Differential Diagnosis](#differential-diagnosis)
 - [Physical Examination](#physical-examinatione)
+- [Vital Signs](#vital-signs)
+- [Imaging](#imaging)
 - [Laboratory](#laboratory)
-- [Radiology](#radiology)
+- [Microbiology](#microbiology)
 - [Pathology](#pathology)
 - [Assessment](#assessment)
 - [Plan](#plan)
@@ -90,7 +92,7 @@
 - Birth weight:
 - Delivery route:
 - Complications:
-- Diet:
+- Eating:
 - Developmental milestones:
 - Immunizations:
 
@@ -124,8 +126,9 @@
 - Alcohol:
 - Betel nuts:
 - Cigarettes:
-- Diet:
-- Exposure:
+- Drugs:
+- Eating:
+- Exercise:
 - Marital status:
 - Financial status:
 - Housing:
@@ -159,11 +162,19 @@
 
 ---
 
+### Vital Signs
+
+---
+
+### Imaging
+
+---
+
 ### Laboratory
 
 ---
 
-### Radiology
+### Microbiology
 
 ---
 
