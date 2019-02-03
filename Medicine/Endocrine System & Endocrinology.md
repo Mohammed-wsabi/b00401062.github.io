@@ -301,3 +301,12 @@
 - Hypertonic saline
 - V<sub>2</sub> antagonists: Vaptans
 - Nephrogenic DI-inducing drugs :: Lithium / Demeclocycline
+
+## Treatment for Hyperthyroidism
+
+- Thyroid peroxidase inhibitors :: Propylthiouracil (PTU) / Methimazole / Iodine [Lugol] solution
+- Deiodinase inhibitors :: Propylthiouracil (PTU)
+- β antagonists :: Propranolol
+- Steroids
+- Radioiodine ablation
+- Surgery

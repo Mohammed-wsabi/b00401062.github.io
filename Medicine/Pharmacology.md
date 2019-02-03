@@ -322,9 +322,7 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |V<sub>2</sub> agonists|Desmopressin|DI|
-|V<sub>2</sub> antagonists|Demeclocycline|SIADH|
-||Vaptans|SIADH|
-||Lithium|SIADH & Bipolar|
+|V<sub>2</sub> antagonists|Vaptans|SIADH|
 
 ## Mechanisms of Action of Medications Targeting Autacoid Receptor
 
@@ -353,9 +351,9 @@
 |-|-|-|
 |Thyroid peroxidase inhibitors|Propylthiouracil (PTU)|Hyperthyroidism|
 ||Methimazole|Hyperthyroidism|
-||Iodine & Lugol solution|Hyperthyroidism|
+||Iodine [Lugol] solution|Hyperthyroidism|
 |Deiodinase inhibitors|Propylthiouracil (PTU)|Hyperthyroidism|
-||Steroids & Propranolol|Hyperthyroidism|
+||Propranolol & Steroids|Hyperthyroidism|
 |TH agonists|Levothyroxine|Hypothyroidism|
 ||Triiodothyronine|Hypothyroidism|
 
