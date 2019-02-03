@@ -181,14 +181,20 @@
 |Androgen|Androgen insensitive syndrome (AIS)|
 |PTH|Pseudohypoparathyroidism (PHP)|
 
-## Etiology of Nephrogenic Diabetes Insipidus
+## Etiology of Nephrogenic Diabetes Insipidus (DI)
 
 - Mutations :: Vasopressin receptor / Aquaporin
 - Electrolyte disturbances :: Hypercalcemia / Hypokalemia
 - Hematologic disorders :: Sickle cell disease / Multiple myeloma
-- Drugs :: Lithium / Demeclocycline / Colchicine
 - Rheumatic diseases :: Sjogren syndrome / Sarcoidosis
 - Amyloidosis
+- Drugs :: Lithium / Demeclocycline / Colchicine
+
+## Etiology of Syndrome of Inappropriate Secretion of ADH (SIADH)
+
+- Malignancies :: Small cell carcinomas
+- CNS disorders
+- Pulmonary diseases :: Tuberculosis / Pneumonia
 
 ## Presentation of Hypothyroidism {WAS-TIRED}
 
@@ -288,3 +294,10 @@
 |GH antagonists|Pegvisomant|Acromegaly|
 |D<sub>2</sub> agonists|Bromocriptine|Acromegaly|
 ||Cabergoline|Acromegaly|
+
+## Treatment for Syndrome of Inappropriate Secretion of ADH (SIADH)
+
+- Fluid restriction
+- Hypertonic saline
+- V<sub>2</sub> antagonists: Vaptans
+- Nephrogenic DI-inducing drugs :: Lithium / Demeclocycline
