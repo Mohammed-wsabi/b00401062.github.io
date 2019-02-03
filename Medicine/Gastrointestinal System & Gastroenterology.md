@@ -64,21 +64,21 @@
 
 ![](../Figures/Gastrointestinal%20Secretion.png)
 
-## Etiologies of Nausea and Vomiting
+## Etiology of Nausea and Vomiting
 
 - Motion sickness
 - Radiation-induced emesis (RIE)
 - Chemotherapy-induced emesis (CIE)
 - Postoperative nausea and vomiting (PONV)
 
-## Etiologies of Diarrhea
+## Etiology of Diarrhea
 
 - Osmotic
 - Secretory
 - Inflammatory
 - Exudative
 
-## Etiologies of Ascites
+## Etiology of Ascites
 
 ||SAAG < 1.1|SAAG > 1.1|
 |-|-|-|
@@ -102,7 +102,7 @@
 - Ascites
 - Hepatomegaly
 
-## Etiologies of Hyperbilirubinemia & Jaundice
+## Etiology of Hyperbilirubinemia & Jaundice
 
 ||Indirect|Direct|Mixed|
 |-|-|-|-|
@@ -123,7 +123,7 @@
 - Fever
 - Jaundice
 
-## Etiologies of Gastritis {BANISH}
+## Etiology of Gastritis {BANISH}
 
 - Biliary reflux
 - Brain injury → Cushing ulcer

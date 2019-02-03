@@ -118,7 +118,7 @@
 |Diabetic nephropathy|-|Nodular glomerulosclerosis|-|+|
 |Amyloid nephropathy|-|Nodular amyloidosis|-|+|
 
-## Etiologies of Renal Papillary Necrosis {SAND}
+## Etiology of Renal Papillary Necrosis {SAND}
 
 - Sickle cell nephropathy
 - Acute pyelonephritis

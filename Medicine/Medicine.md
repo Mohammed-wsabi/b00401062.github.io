@@ -204,7 +204,7 @@
 - Acidosis
 - Hypothermia
 
-## Etiologies of Fever
+## Etiology of Fever
 
 - Infection
 - Autoimmunity
@@ -219,7 +219,7 @@
 - Urinalysis ± Urine culture
 - Wound inspection
 
-## Etiologies of Shortness of Breath (SOB)
+## Etiology of Shortness of Breath (SOB)
 
 - Heart
 	- Pericardium
@@ -242,7 +242,7 @@
 	- Vessels
 - Blood
 
-## Etiologies of Cardiopulmonary Arrest {5H5T}
+## Etiology of Cardiopulmonary Arrest {5H5T}
 
 - Hydrogen ion
 - Hypokalemia & Hyperkalemia
@@ -255,14 +255,14 @@
 - Thrombosis :: pulmonary embolism
 - Toxin
 
-## Etiologies of Desaturation in Intubated Patients
+## Etiology of Desaturation in Intubated Patients
 
 - Displacement
 - Obstruction
 - Pneumothorax
 - Equipment failure
 
-## Etiologies of Acute Altered Mental Status {AEIOU-TIPS}
+## Etiology of Acute Altered Mental Status {AEIOU-TIPS}
 
 - Acidosis & Alcohol
 - Electrolyte disturbances & Epilepsy
@@ -373,7 +373,7 @@
 - Plasma osmolality :: hypertonic
 	- **Hyperglycemia**
 
-## Etiologies of Hypercalcemia {CHIMPANZEES}
+## Etiology of Hypercalcemia {CHIMPANZEES}
 
 - Calcium supplementation
 - Hyperparathyroidism / Hyperthyroidism

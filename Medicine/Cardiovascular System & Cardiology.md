@@ -94,7 +94,7 @@
 |III|30 ~ 40%|120 ~ 140|↓|30 ~ 40|5 ~ 15 mL/h|
 |IV|> 40%|> 140|↓|> 35|< 5 mL/h|
 
-## Classification & Etiologies of Edema
+## Classification & Etiology of Edema
 
 |Edema|Causes|Pitting|
 |-|-|-|
@@ -185,7 +185,7 @@
 |Dysfunction|Systolic|Diastolic|
 |Causes|ACS & DCMP|HCMP & RCMP|
 
-## Etiologies of Dilated Cardiomyopathy (DCMP) {ABCD}
+## Etiology of Dilated Cardiomyopathy (DCMP) {ABCD}
 
 - Alcohol
 - Beriberi & Vitamin B1 deficiency

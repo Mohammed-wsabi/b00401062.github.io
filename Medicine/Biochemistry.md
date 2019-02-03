@@ -78,7 +78,7 @@
 |B<sub>12</sub>|Homocystinuria & Megaloblastic anemia & Hypersegmented PMN & Methylmalonic acidemia & Subacute combined degeneration|
 |C|Scurvy|
 
-## Etiologies of Vitamin B<sub>9</sub> Deficiency
+## Etiology of Vitamin B<sub>9</sub> Deficiency
 
 - Alcoholism
 - Crohn's disease
@@ -87,7 +87,7 @@
 - Phenytoin
 - Trimethoprim
 
-## Etiologies of Vitamin B<sub>12</sub> Deficiency
+## Etiology of Vitamin B<sub>12</sub> Deficiency
 
 - Achlorhydria
 - Crohn's disease
@@ -98,7 +98,7 @@
 - Pancreatic insufficiency
 - Pernicious anemia
 
-## Etiologies of Vitamin K Deficiency
+## Etiology of Vitamin K Deficiency
 
 - Biliary atresia
 - Broad-spectrum antibiotics
