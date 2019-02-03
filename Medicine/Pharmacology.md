@@ -342,7 +342,8 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|Somatostatin agonists|Octreotide|Acromegaly & Esophageal varices & Carcinoid & VIPoma & Gastrinoma & Glucagonoma|
+|Somatostatin agonists|Octreotide|Acromegaly|
+|Somatostatin agonists|Lanreotide|Acromegaly|
 |GH antagonists|Pegvisomant|Acromegaly|
 |IGF-1 agonists|Mecasermin|Dwarfism|
 

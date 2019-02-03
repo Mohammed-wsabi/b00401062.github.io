@@ -387,7 +387,7 @@
 - Excess vitamin D
 - Sarcoidosis
 
-## Treatment of Hyperkalemia
+## Treatment for Hyperkalemia
 
 - Insulin & Glucose
 - β agonists :: Albuterol

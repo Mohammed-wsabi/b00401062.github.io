@@ -269,3 +269,13 @@
 |HMG-CoA reductase inhibitors|Statins|↓↓↓|↑|↓|
 |HSL & VLDL synthesis inhibitors|Niacin (B3)|↓↓|↑↑|↓|
 |LPL & PPAR-α inducers|Fibrates|↓|↑|↓↓↓|
+
+## Mechanisms of Action of Medications for Acromegaly
+
+|Mechanism|Medication|Indications|
+|-|-|-|-|-|
+|Somatostatin agonists|Octreotide|Acromegaly|
+|Somatostatin agonists|Lanreotide|Acromegaly|
+|GH antagonists|Pegvisomant|Acromegaly|
+|D<sub>2</sub> agonists|Bromocriptine|Acromegaly|
+||Cabergoline|Acromegaly|
