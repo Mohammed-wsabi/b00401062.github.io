@@ -181,6 +181,15 @@
 |Androgen|Androgen insensitive syndrome (AIS)|
 |PTH|Pseudohypoparathyroidism (PHP)|
 
+## Etiology of Nephrogenic Diabetes Insipidus
+
+- Mutations :: Vasopressin receptor / Aquaporin
+- Electrolyte disturbances :: Hypercalcemia / Hypokalemia
+- Hematologic disorders :: Sickle cell disease / Multiple myeloma
+- Drugs :: Lithium / Demeclocycline / Colchicine
+- Rheumatic diseases :: Sjogren syndrome / Sarcoidosis
+- Amyloidosis
+
 ## Presentation of Hypothyroidism {WAS-TIRED}
 
 - Weight gain
