@@ -181,9 +181,9 @@
 |Estriol|↓|↓|-|
 |Inhibin A|↑|↓|-|
 
-## Presentations of Autosomal Trisomies
+## Presentation of Autosomal Trisomies
 
-![](../Figures/Presentations%20of%20Autosomal%20Trisomies.jpg)
+![](../Figures/Presentation%20of%20Autosomal%20Trisomies.jpg)
 
 ## Autosomal Dominant Disorders
 

@@ -250,7 +250,7 @@
 |Bruton agammaglobulinemia|Bruton tyrosine kinase|BTK|↓|↓|↓|↓|
 |Selective IgA deficiency|-|-|-|-|-|↓|
 
-## Presentations of Wiskott-Aldrich syndrome (WAS) {WATER}
+## Presentation of Wiskott-Aldrich syndrome (WAS) {WATER}
 
 - Wiskott
 - Aldrich
@@ -258,7 +258,7 @@
 - Eczema ← ↑ IgE & IgA
 - Recurrent infection
 
-## Presentations of Sarcoidosis {SHARING}
+## Presentation of Sarcoidosis {SHARING}
 
 - Schaumann body
 - Hypercalcemia
@@ -297,7 +297,7 @@
 - Immunologic disorders
 - Neurologic disorders
 
-## Presentations of Limited Scleroderma {CREST}
+## Presentation of Limited Scleroderma {CREST}
 
 - Calcinosis
 - Raynaud syndrome
@@ -305,13 +305,13 @@
 - Sclerodactyly
 - Telangiectasia
 
-## Presentations of Henoch-Schonlein Purpura
+## Presentation of Henoch-Schonlein Purpura
 
 - Arthritis
 - Rashes
 - Abdominal pain
 
-## Presentations of Dermatomyositis
+## Presentation of Dermatomyositis
 
 - Gottron sign
 - Heliotrope sign
@@ -331,7 +331,7 @@
 	- Anti-cardiolipin at least twice > 12 weeks apart
 	- Anti-β<sub>2</sub> glycoprotein at least twice > 12 weeks apart
 
-## Presentations of Adult-onset Still's Disease
+## Presentation of Adult-onset Still's Disease
 
 - Arthralgia
 - Fever

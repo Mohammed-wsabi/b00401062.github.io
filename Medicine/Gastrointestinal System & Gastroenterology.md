@@ -144,7 +144,7 @@
 - Inability to vomit
 - Difficult passage of nasogastric (NG) tube
 
-## Presentations of Appendicitis {PROM}
+## Presentation of Appendicitis {PROM}
 
 - Psoas sign
 - Rovsing sign
@@ -165,7 +165,7 @@
 - Glossitis
 - Squamous cell carcinoma
 
-## Presentations of VIPoma {WDHA}
+## Presentation of VIPoma {WDHA}
 
 |Mnemonic|Presentation|
 |-|-|

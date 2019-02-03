@@ -121,7 +121,7 @@
 - Abdominal circumference (AC)
 - Femur length (FL)
 
-## Presentations of Preeclampsia
+## Presentation of Preeclampsia
 
 ### Preeclampsia
 
@@ -204,7 +204,7 @@
 
 - Attitude: flexed & neutral & extended
 - Lie: longitudinal & oblique & transverse
-- Presentations
+- Presentation
 	- Cephalic: vertex [occiput] & sinciput & brow & face & chin
 	- Breech: frank & complete & incomplete [footling]
 	- Shoulder: arm & shoulder & trunk
@@ -215,7 +215,7 @@
 
 ### Pelvis
 
-|Class|Shape|Ischial Spines|Favored Presentations|
+|Class|Shape|Ischial Spines|Favored Presentation|
 |-|-|-|-|
 |Gynecoid|Round|Non-prominent|All|
 |Android|Heart|Prominent|None|
@@ -416,7 +416,7 @@
 |NO donors|Glyceryl trinitrate|Tocolysis|
 |Oxytocin antagonists|Atosiban|Tocolysis|
 
-## Management for Late Decelerations {STOP}
+## Treatment for Late Decelerations {STOP}
 
 - Sterile vaginal exam
 - Tocolysis

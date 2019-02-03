@@ -577,7 +577,7 @@
 
 ## Pathogens of Perinatal Infection {TORCH-BEL}
 
-|Pathogen|Manifestations|Transmission|
+|Pathogen|Presentation|Transmission|
 |-|-|-|
 |Toxoplasma|Intracranial calcifications & Hydrocephalus & Chorioretinitis|Transplacental|
 |Rubella|Cataracts & Deafness & PDA|Transplacental|
@@ -681,7 +681,7 @@
 
 ## Pathogens of Genital Tract Infection
 
-|Pathogen|Manifestations|Treatments|
+|Pathogen|Presentation|Treatment|
 |-|-|-|
 |Gardnerella vaginalis|Discharge :: grayish & fishy|Metronidazole|
 |Neisseria gonorrhoea|Pelvic inflammatory disease (PID)|Ceftriaxone|
@@ -748,7 +748,7 @@
 - Fecal-oral
 - Vector-borne
 
-## Manifestations of Staphylococcus Aureus Infection {SOFT-PENIS}
+## Presentation of Staphylococcus Aureus Infection {SOFT-PENIS}
 
 - Staphylococcal scalded skin syndrome (SSSS)
 - Osteomyelitis
@@ -760,14 +760,14 @@
 - Infectious arthritis
 - Sepsis
 
-## Manifestations of Streptococcus Pneumonia Infection {MOPS}
+## Presentation of Streptococcus Pneumonia Infection {MOPS}
 
 - Meningitis
 - Otitis media
 - Pneumonia :: lobar
 - Sinusitis
 
-## Manifestations of Streptococcus Pyogenes Infection {NIPPLES}
+## Presentation of Streptococcus Pyogenes Infection {NIPPLES}
 
 |Mnemonic|Manifestation|
 |-|-|
@@ -800,7 +800,7 @@
 - Factor 2
 - Granule :: metachromatic
 
-## Manifestations of Haemophilus Influenzae Infection
+## Presentation of Haemophilus Influenzae Infection
 
 - Epiglottitis
 - Meningitis
@@ -819,21 +819,21 @@
 - Otitis externa
 - Osteomyelitis
 
-## Manifestations of Lyme Disease {FACE}
+## Presentation of Lyme Disease {FACE}
 
 - Facial palsy
 - Arthritis :: migratory
 - Cardiac :: AV nodal block
 - Erythema migrans
 
-## Manifestations of Mumps Virus Infection {MOPS}
+## Presentation of Mumps Virus Infection {MOPS}
 
 - Meningitis
 - Orchitis
 - Parotitis
 - Sterility
 
-## Manifestations of Measle Virus Infection {3C1K1R}
+## Presentation of Measle Virus Infection {3C1K1R}
 
 - Cough
 - Coryza
@@ -841,7 +841,7 @@
 - Koplik spot
 - Rash :: downward
 
-## Manifestations of Rubella Virus Infection {RUBELLA}
+## Presentation of Rubella Virus Infection {RUBELLA}
 
 - Rash :: downward
 - -

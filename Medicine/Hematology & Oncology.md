@@ -117,7 +117,7 @@
 - Drops :: wrist & foot drop
 - Dimercaprol & EDTA & Succimer & Penicillamine
 
-## Presentations of Acute Intermittent Porphyria (AIP) {5P}
+## Presentation of Acute Intermittent Porphyria (AIP) {5P}
 
 - Pain :: abdomen
 - Port wine-colored urine
@@ -225,7 +225,7 @@
 - Night sweats
 - Weight loss
 
-## Presentations of Multiple Myeloma {CRAB}
+## Presentation of Multiple Myeloma {CRAB}
 
 - Hypercalcemia
 - Renal failure
@@ -237,7 +237,7 @@
 - Bone lytic lesions
 - Bence-Jones protein
 
-## Presentations of Hemophagocytic Lymphohisticytosis (HLH)
+## Presentation of Hemophagocytic Lymphohisticytosis (HLH)
 
 - Fever
 - Ferritin increased

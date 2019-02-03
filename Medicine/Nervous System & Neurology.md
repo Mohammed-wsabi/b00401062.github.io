@@ -292,7 +292,7 @@
 
 ![](../Figures/Craniosynostosis.jpg)
 
-## Presentations of Horner Syndrome {MAP}
+## Presentation of Horner Syndrome {MAP}
 
 - Miosis
 - Anhidrosis
@@ -389,7 +389,7 @@
 - Intention tremor & Incontinence & Internuclear ophthalmoplegia
 - Nystagmus
 
-## Presentations of Neurofibromatosis Type 1
+## Presentation of Neurofibromatosis Type 1
 
 - Bone dysplasia
 - Cafe-au-lait spots
@@ -399,7 +399,7 @@
 - Neurofibromas
 - Optic nerve glioma
 
-## Presentations of Tuberous Sclerosis {HAMARTOMAS}
+## Presentation of Tuberous Sclerosis {HAMARTOMAS}
 
 - Hamartoma
 - Angiofibroma
@@ -412,7 +412,7 @@
 - Angiomyolipoma of kidney
 - Seizure & Shagreen patch
 
-## Presentations of Sturge-Weber Syndrome {STURGE-L}
+## Presentation of Sturge-Weber Syndrome {STURGE-L}
 
 - Sporadic
 - Stain :: nevus flammeus
@@ -423,14 +423,14 @@
 - Epilepsy & Episcleral hemangioma
 - Leptomeningeal angiomatosis
 
-## Presentations of von Hippel-Lindau Disease
+## Presentation of von Hippel-Lindau Disease
 
 - VHL gene
 - Hemangioblastoma
 - Renal cell carcinoma (RCC)
 - Pheochromocytoma
 
-## Presentations of Parkinson Disease {TRAPS}
+## Presentation of Parkinson Disease {TRAPS}
 
 - Tremor :: resting & pill-rolling
 - Rigidity :: cogwheel

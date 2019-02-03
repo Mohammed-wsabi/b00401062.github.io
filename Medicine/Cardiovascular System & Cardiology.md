@@ -78,7 +78,7 @@
 
 ## Classification of Shocks
 
-|Shock|PCWP|CO|SVR|MAP|Treatments|
+|Shock|PCWP|CO|SVR|MAP|Treatment|
 |-|-|-|-|-|-|
 |Hypovolemic|↓ (1°)|↓|↑|↓|Fluids|
 |Cardiogenic|↑|↓ (1°)|↑|↓|Inotropes & Diuretics & Venodilators|
@@ -318,7 +318,7 @@
 - Jugular vein distension (JVD) & Kussmaul sign
 - Distant heart sound
 
-## Presentations of Bacterial Endocarditis {FROM-JANE}
+## Presentation of Bacterial Endocarditis {FROM-JANE}
 
 - Fever
 - Roth spots
@@ -333,7 +333,7 @@
 
 ![](../Figures/Vasculitis.png)
 
-## Presentations of Kawasaki Disease {SCARE}
+## Presentation of Kawasaki Disease {SCARE}
 
 - Strawberry tongue
 - Conjunctivitis

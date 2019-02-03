@@ -320,7 +320,7 @@
 	- **Laxatives**
 	- **Cystic fibrosis**
 
-## Manifestations of Electrolyte Disturbances
+## Presentation of Electrolyte Disturbances
 
 ### Sodium
 
@@ -387,7 +387,7 @@
 - Excess vitamin D
 - Sarcoidosis
 
-## Management of Hyperkalemia
+## Treatment of Hyperkalemia
 
 - Insulin & Glucose
 - β agonists :: Albuterol

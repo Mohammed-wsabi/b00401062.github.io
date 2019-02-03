@@ -166,7 +166,7 @@
 - Delusions of reference
 - Somatic delusions
 
-## Presentations of Schizophrenia
+## Presentation of Schizophrenia
 
 - Delusions
 - Hallucinations
@@ -174,7 +174,7 @@
 - Catatonia
 - Negative symptoms
 
-## Presentations of Manic Episode {DIG-FAST}
+## Presentation of Manic Episode {DIG-FAST}
 
 - Distractibility
 - Irresponsibility
@@ -184,7 +184,7 @@
 - Sleep deprivation
 - Talkativeness
 
-## Presentations of Major Depressive Episode {FDA-GPS}
+## Presentation of Major Depressive Episode {FDA-GPS}
 
 - Fatigue
 - Depression
@@ -282,7 +282,7 @@
 |4 weeks|Bradykinesia :: parkinsonism|
 |4 months|Tardive dyskinesia|
 
-## Presentations of Neuroleptic Malignant Syndrome (NMS) {FEVER}
+## Presentation of Neuroleptic Malignant Syndrome (NMS) {FEVER}
 
 - Fever
 - Encephalopathy

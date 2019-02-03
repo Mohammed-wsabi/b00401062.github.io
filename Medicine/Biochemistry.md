@@ -65,9 +65,9 @@
 |9 & 12|Methionine synthase|Homocystinuria & Megaloblastic anemia|
 |12|Methylmalonyl-CoA mutase|Methylmalonic acidemia & Subacute combined degeneration|
 
-## Presentations of Vitamin Deficiency
+## Presentation of Vitamin Deficiency
 
-|Vitamin|Presentations|
+|Vitamin|Presentation|
 |-|-|
 |A|Night blindness & Xeroderma|
 |B<sub>1</sub>|Dry beriberi & Wet beriberi & Wernicke-Korsakoff syndrome|

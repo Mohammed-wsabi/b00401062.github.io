@@ -80,7 +80,7 @@
 - Renal anomalies
 - Limb anomalies
 
-## Presentations of Potter Sequence {POTTER}
+## Presentation of Potter Sequence {POTTER}
 
 - Pulmonary hypoplasia
 - Oligohydramnios
@@ -89,7 +89,7 @@
 - Extremity defects
 - Renal failure
 
-## Presentations of DiGeorge Syndrome {CATCH22}
+## Presentation of DiGeorge Syndrome {CATCH22}
 
 - Cardiac :: truncus arteriosus & tetralogy of Fallot (TOF)
 - Abnormal facies
@@ -98,7 +98,7 @@
 - 1° Hypoparathyroidism → Hypocalcemia
 - 22q11 microdeletion
 
-## Presentations of Kawasaki Disease {CRASH}
+## Presentation of Kawasaki Disease {CRASH}
 
 - Conjunctivitis
 - Rashes :: trunk

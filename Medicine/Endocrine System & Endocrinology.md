@@ -181,7 +181,7 @@
 |Androgen|Androgen insensitive syndrome (AIS)|
 |PTH|Pseudohypoparathyroidism (PHP)|
 
-## Presentations of Hypothyroidism {WAS-TIRED}
+## Presentation of Hypothyroidism {WAS-TIRED}
 
 - Weight gain
 - Ataxia
@@ -192,7 +192,7 @@
 - Edema :: myxedema
 - Dry skin
 
-## Presentations of Hyperthyroidism {SWEATING}
+## Presentation of Hyperthyroidism {SWEATING}
 
 - Sweating
 - Weight loss
@@ -203,7 +203,7 @@
 - Nervousness
 - Goiter
 
-## Presentations of Hyperparathyroidism
+## Presentation of Hyperparathyroidism
 
 - Stones
 - Renal stones
@@ -214,7 +214,7 @@
 - Psychiatric overtones
 - Depression
 
-## Presentations of Glucagonoma {4D}
+## Presentation of Glucagonoma {4D}
 
 - Depression
 - Dermatitis :: necrolytic migratory erythema
