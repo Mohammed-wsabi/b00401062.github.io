@@ -11,7 +11,7 @@
 
 ## Urinary Incontinence
 
-|Type|Urgency|Nocturia|Residual volume|Causes|
+|Type|Urgency|Nocturia|Residual volume|Etiology|
 |-|-|-|-|-|
 |Irritative|+|+|-|Irritation|
 |Stress|-|-|-|Pelvic relaxation|

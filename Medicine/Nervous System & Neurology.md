@@ -438,7 +438,7 @@
 - Postural instability
 - Shuffling gait
 
-## Causes of Oculomotor Palsy
+## Etiology of Oculomotor Palsy
 
 - Cavernous sinus thrombosis
 - Cerebellopontine angle tumor

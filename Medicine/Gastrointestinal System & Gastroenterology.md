@@ -112,7 +112,7 @@
 |Urine urobilinogen|↑|↓|-|
 |Tea-colored urine|-|+|+|
 |Clay-colored stool|-|+|+|
-|Causes|Gilbert syndrome|Dubin-Johnson syndrome|Hepatitis|
+|Etiology|Gilbert syndrome|Dubin-Johnson syndrome|Hepatitis|
 ||Crigler-Najjar syndrome|Rotor syndrome|Cirrhosis|
 ||Neonatal jaundice|Obstructive jaundice|-|
 ||Extravascular hemolysis|-|-|

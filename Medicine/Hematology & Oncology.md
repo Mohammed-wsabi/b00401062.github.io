@@ -125,9 +125,9 @@
 - Psychological disturbances
 - Precipitation ← starvation & alcohol & drugs
 
-## Causes of Hypocoagulability
+## Etiology of Hypocoagulability
 
-|Hypocoagulability|Causes|PLT|BT|PT|PTT|
+|Etiology|Mechanism|PLT|BT|PT|PTT|
 |-|-|-|-|-|-|
 |Disseminated intravascular coagulation (DIC)|-|↓|↑|↑|↑|
 |Thrombotic thrombocytopenic purpura (TTP)|↓ ADAMTS13|↓|↑|-|-|
@@ -140,9 +140,9 @@
 |Hemophilia A & B & C|↓ Factor 8 & 9 & 11|-|-|-|↑|
 |Vitamin K deficiency|↓ Factor 2 & 7 & 9 & 10 & C & S|-|-|↑|↑|
 
-## Causes of Hypercoagulability
+## Etiology of Hypercoagulability
 
-|Hypercoagulability|Causes|
+|Etiology|Mechanism|
 |-|-|
 |Factor 5 Leiden mutation|↑ Factor 5|
 |Prothrombin gene mutation|↑ Factor 2|
@@ -163,7 +163,7 @@
 - Anemia
 - Thrombocytopenia
 
-## Causes of Disseminated Intravascular Coagulation (DIC)
+## Etiology of Disseminated Intravascular Coagulation (DIC)
 
 |Mnemonic|Cause|
 |-|-|

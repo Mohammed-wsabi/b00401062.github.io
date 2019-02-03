@@ -18,7 +18,7 @@
 
 ![](../Figures/Perfusion%20and%20Diffusion%20Limited%20Pulmonary%20Circulation.png)
 
-## Causes of Kussmaul Breathing {KUSSMAUL}
+## Etiology of Kussmaul Breathing {KUSSMAUL}
 
 - Ketoacidosis
 - Uremia

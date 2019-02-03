@@ -69,7 +69,7 @@
 
 ## Splitting
 
-|Type|Causes|
+|Type|Etiology|
 |-|-|
 |Normal|-|
 |Wide|Pulmonary stenosis & RBBB|
@@ -96,7 +96,7 @@
 
 ## Classification & Etiology of Edema
 
-|Edema|Causes|Pitting|
+|Edema|Etiology|Pitting|
 |-|-|-|
 |Exudate|Inflammation|+|
 |Lymphedema|Lymphatic obstruction|-|
@@ -137,7 +137,7 @@
 
 ## Heart Sounds
 
-|Heart Sound|Synonym|Causes|Examples|
+|Heart Sound|Synonym|Etiology|Examples|
 |-|-|-|-|
 |S1|-|MV & TV close|-|
 |S2|-|AV & PV close|-|
@@ -183,7 +183,7 @@
 |SV|↓|↓|
 |LVEF|↓|-|
 |Dysfunction|Systolic|Diastolic|
-|Causes|ACS & DCMP|HCMP & RCMP|
+|Etiology|ACS & DCMP|HCMP & RCMP|
 
 ## Etiology of Dilated Cardiomyopathy (DCMP) {ABCD}
 
@@ -195,7 +195,7 @@
 - Doxorubicin
 - Duchenne muscular dystrophy
 
-## Causes of Arrhythmia {HIS-BEDS}
+## Etiology of Arrhythmia {HIS-BEDS}
 
 - Hypoxia
 - Ischemia & Irritability
@@ -216,7 +216,7 @@
 
 ## Types of Arrhythmias
 
-### SA Node
+### Sinus Arrhythmias
 
 - Sinus tachycardia
 - Sinus bradycardia
@@ -224,9 +224,9 @@
 - Sinus node block
 - Sinus arrest
 
-### Supraventricular
+### Supraventricular Arrhythmias
 
-|Arrhythmia|Causes|
+|Arrhythmia|Etiology|
 |-|-|
 |Atrial tachycardia (AT)|Enhanced automaticity|
 |Multifocal atrial tachycardia (MAT)|Enhanced automaticity|
@@ -235,9 +235,9 @@
 |AV nodal reentrant tachycardia (AVNRT)|Reentry|
 |AV reciprocating tachycardia (AVRT)|Reentry|
 
-### Ventricular
+### Ventricular Arrhythmias
 
-|Arrhythmia|Causes|
+|Arrhythmia|Etiology|
 |-|-|
 |Premature ventricular contraction (PVC)|Enhanced automaticity|
 |Accelerated idioventricular rhythm|Enhanced automaticity|
@@ -299,7 +299,7 @@
 
 ![](../Figures/ECG%20Localization%20of%20STEMI.png)
 
-## Causes of ST Segment Elevation
+## Etiology of ST Segment Elevation
 
 - Acute myocardial infarction
 - Acute myocarditis
