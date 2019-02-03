@@ -1,4 +1,4 @@
-# Microbiology & Infectious Disease
+# Microbiology & Infectious Diseases
 
 ## Gram Positive Lab Algorithm
 
