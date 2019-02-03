@@ -952,7 +952,7 @@
 - Penicillin :: Piperacillin & Ticarcillin
 - Cephalosporins
 	- 3° :: Anti-pseudomonal: Ceftazidime & Cefoperazone
-	- 4° :: Cefepime
+	- 4°: Cefepime
 - Carbapenems - Ertapenem
 - Monobactams
 - Fluoroquinolones - Moxifloxacin
