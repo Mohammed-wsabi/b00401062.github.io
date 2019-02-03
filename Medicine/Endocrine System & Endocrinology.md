@@ -275,7 +275,7 @@
 |Mechanism|Medication|Indications|
 |-|-|-|-|-|
 |Somatostatin agonists|Octreotide|Acromegaly|
-|Somatostatin agonists|Lanreotide|Acromegaly|
+||Lanreotide|Acromegaly|
 |GH antagonists|Pegvisomant|Acromegaly|
 |D<sub>2</sub> agonists|Bromocriptine|Acromegaly|
 ||Cabergoline|Acromegaly|

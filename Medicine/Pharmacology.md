@@ -343,7 +343,7 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |Somatostatin agonists|Octreotide|Acromegaly|
-|Somatostatin agonists|Lanreotide|Acromegaly|
+||Lanreotide|Acromegaly|
 |GH antagonists|Pegvisomant|Acromegaly|
 |IGF-1 agonists|Mecasermin|Dwarfism|
 
