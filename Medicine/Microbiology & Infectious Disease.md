@@ -952,7 +952,7 @@
 - Penicillin :: Piperacillin & Ticarcillin
 - Cephalosporins
 	- 3° :: Anti-pseudomonal: Ceftazidime & Cefoperazone
-	- 4°: Cefepime
+	- 4° :: Cefepime
 - Carbapenems - Ertapenem
 - Monobactams
 - Fluoroquinolones - Moxifloxacin
@@ -1044,7 +1044,7 @@
 |-|-|
 |CAP & Uncomplicated|Macrolides<br>Doxycycline|
 |CAP & Complicated|Amoxicillin & (Macrolides / Doxycycline)<br>Fluoroquinolones|
-|CAP & Inpatient|Anti-pneumococcal β-lactams & (Macrolides / Doxycycline)<br>Fluoroquinolones|
+|CAP & Inpatient|Anti-pseudomonal β-lactams & (Macrolides / Doxycycline)<br>Fluoroquinolones|
 |CAP & ICU|Anti-pseudomonal β-lactams & (Macrolides / Doxycycline / Fluoroquinolones)|
 |HAP|Anti-pseudomonal β-lactams & Fluoroquinolones|
 
