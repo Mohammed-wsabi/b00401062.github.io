@@ -274,6 +274,14 @@
 |α-Glucosidase inhibitors|-|Acarbose & Miglitol|DM type 2|
 |SGLT-2 inhibitors|-|Gliflozins|DM type 2|
 
+## Treatment of Acute Hyperglycemia
+
+- Fluids :: Isotonic saline
+- Potassium
+- Insulin
+- Bicarbonate if indicated
+- Phosphate if indicated
+
 ## Mechanisms of Action of Medications for Hyperlipidemia {OECSNF}
 
 |Mechanism|Medication|LDL|HDL|Triglyceride|
@@ -310,11 +318,3 @@
 - Steroids
 - Radioiodine ablation
 - Surgery
-
-## Treatment of Diabetic Ketoacidosis (DKA) & Hyperosmolar Hyperglycemic State (HHS)
-
-- Fluids :: Isotonic saline
-- Potassium
-- Insulin
-- Bicarbonate if indicated
-- Phosphate if indicated
