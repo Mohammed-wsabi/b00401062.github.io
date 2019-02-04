@@ -416,7 +416,7 @@
 |NO donors|Glyceryl trinitrate|Tocolysis|
 |Oxytocin antagonists|Atosiban|Tocolysis|
 
-## Treatment for Late Decelerations {STOP}
+## Treatment of Late Decelerations {STOP}
 
 - Sterile vaginal exam
 - Tocolysis

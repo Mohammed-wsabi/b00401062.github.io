@@ -183,18 +183,18 @@
 
 ## Etiology of Nephrogenic Diabetes Insipidus (DI)
 
-- Mutations :: Vasopressin receptor / Aquaporin
-- Electrolyte disturbances :: Hypercalcemia / Hypokalemia
-- Hematologic disorders :: Sickle cell disease / Multiple myeloma
-- Rheumatic diseases :: Sjogren syndrome / Sarcoidosis
+- Mutations :: Vasopressin receptor & Aquaporin
+- Electrolyte disturbances :: Hypercalcemia & Hypokalemia
+- Hematologic disorders :: Sickle cell disease & Multiple myeloma
+- Rheumatic diseases :: Sjogren syndrome & Sarcoidosis
 - Amyloidosis
-- Drugs :: Lithium / Demeclocycline / Colchicine
+- Drugs :: Lithium & Demeclocycline & Colchicine
 
 ## Etiology of Syndrome of Inappropriate Secretion of ADH (SIADH)
 
 - Malignancies :: Small cell carcinomas
 - CNS disorders
-- Pulmonary diseases :: Tuberculosis / Pneumonia
+- Pulmonary diseases :: Tuberculosis & Pneumonia
 
 ## Presentation of Hypothyroidism {WAS-TIRED}
 
@@ -295,18 +295,26 @@
 |D<sub>2</sub> agonists|Bromocriptine|Acromegaly|
 ||Cabergoline|Acromegaly|
 
-## Treatment for Syndrome of Inappropriate Secretion of ADH (SIADH)
+## Treatment of Syndrome of Inappropriate Secretion of ADH (SIADH)
 
 - Fluid restriction
-- Hypertonic saline
+- Fluids :: Hypertonic saline
 - V<sub>2</sub> antagonists: Vaptans
-- Nephrogenic DI-inducing drugs :: Lithium / Demeclocycline
+- Nephrogenic DI-inducing drugs :: Lithium & Demeclocycline
 
-## Treatment for Hyperthyroidism
+## Treatment of Hyperthyroidism
 
-- Thyroid peroxidase inhibitors :: Propylthiouracil (PTU) / Methimazole / Iodine [Lugol] solution
+- Thyroid peroxidase inhibitors :: Propylthiouracil (PTU) & Methimazole & Iodine [Lugol] solution
 - Deiodinase inhibitors :: Propylthiouracil (PTU)
 - β antagonists :: Propranolol
 - Steroids
 - Radioiodine ablation
 - Surgery
+
+## Treatment of Diabetic Ketoacidosis (DKA) & Hyperosmolar Hyperglycemic State (HHS)
+
+- Fluids :: Isotonic saline
+- Potassium
+- Insulin
+- Bicarbonate if indicated
+- Phosphate if indicated

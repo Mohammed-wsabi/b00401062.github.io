@@ -211,7 +211,7 @@
 - Neoplasm
 - Drug
 
-## Workup for Fever
+## Workup of Fever
 
 - Complete blood count (CBC)
 - Throat swab ± Sputum culture
@@ -274,7 +274,7 @@
 - Poisoning & Psychosis
 - Stroke
 
-## Workup for Acid-Base Disturbances
+## Workup of Acid-Base Disturbances
 
 |Disturbance|pH|HCO<sub>3</sub>|PaCO<sub>2</sub>|
 |-|-|-|-|
@@ -283,7 +283,7 @@
 |Respiratory acidosis|↓|↑ 0.1 ~ 0.4 ΔPaCO<sub>2</sub>|↑ (1°)|
 |Respiratory alkalosis|↑|↓ 0.2 ~ 0.4 ΔPaCO<sub>2</sub>|↓ (1°)|
 
-## Workup for Metabolic Acidosis
+## Workup of Metabolic Acidosis
 
 - Anion gap :: high {MUDIPLES}
 	- **Methanol**
@@ -302,9 +302,9 @@
 	- Urine anion gap :: negative
 		- **Hyperalimentation**
 		- **Diarrhea**
-		- **Saline infusion**
+		- **Saline**
 
-## Workup for Metabolic Alkalosis
+## Workup of Metabolic Alkalosis
 
 - Urine Cl > 20 [Saline-resistant]
 	- Hypertensive
@@ -344,7 +344,7 @@
 |Cardiovascular|Prolonged QT interval & Bradycardia|Shortened QT interval & Tachycardia|
 |Neuromuscular|Muscle spasms → Trousseau sign & Chvostek sign|Muscle weakness|
 
-## Workup for Hyponatremia
+## Workup of Hyponatremia
 
 - Plasma osmolality :: hypotonic
 	- Volume status :: hypovolemic
@@ -387,11 +387,11 @@
 - Excess vitamin D
 - Sarcoidosis
 
-## Treatment for Hyperkalemia
+## Treatment of Hyperkalemia
 
 - Insulin & Glucose
 - β agonists :: Albuterol
-- Calcium gluconate
-- Sodium bicarbonate
+- Bicarbonate
+- Calcium
 - Polystyrene sulfonate: Kalimate / Kayexalate
 - Diuretics :: Loop diuretics

@@ -45,9 +45,9 @@
 |Moderate persistent|Daily|> 1/week|Daily|Some|60 ~ 80%|↓ < 5%|
 |Severe persistent|Throughout|Daily|Throughout|Extreme|< 60%|↓ > 5%|
 
-## Treatment for Asthma
+## Treatment of Asthma
 
-![](../Figures/Treatment%20for%20Asthma.gif)
+![](../Figures/Treatment%20of%20Asthma.gif)
 
 ## Mechanisms of Action of Medications for Asthma
 

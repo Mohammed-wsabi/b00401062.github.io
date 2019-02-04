@@ -9,7 +9,7 @@
 |Extracellular fluid (ECF)|1/4|Plasma|<sup>125</sup>I-albumin|
 |Plasma|5/3|Blood|<sup>51</sup>Cr-RBC|
 
-## Extracellular Fluid Change
+## Extracellular Fluid Changes
 
 |ECF Change|BP|RAAS|ADH|
 |-|-|-|-|
