@@ -312,8 +312,8 @@
 
 ## Treatment of Hyperthyroidism
 
-- Thyroid peroxidase inhibitors :: Propylthiouracil (PTU) & Methimazole & Iodine [Lugol] solution
-- Deiodinase inhibitors :: Propylthiouracil (PTU)
+- Thyroid peroxidase inhibitors :: Propylthiouracil & Methimazole & Iodine [Lugol] solution
+- Deiodinase inhibitors :: Propylthiouracil
 - β antagonists :: Propranolol
 - Steroids
 - Radioiodine ablation

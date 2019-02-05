@@ -349,10 +349,10 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|Thyroid peroxidase inhibitors|Propylthiouracil (PTU)|Hyperthyroidism|
+|Thyroid peroxidase inhibitors|Propylthiouracil|Hyperthyroidism|
 ||Methimazole|Hyperthyroidism|
 ||Iodine [Lugol] solution|Hyperthyroidism|
-|Deiodinase inhibitors|Propylthiouracil (PTU)|Hyperthyroidism|
+|Deiodinase inhibitors|Propylthiouracil|Hyperthyroidism|
 ||Propranolol & Steroids|Hyperthyroidism|
 |TH agonists|Levothyroxine|Hypothyroidism|
 ||Triiodothyronine|Hypothyroidism|
