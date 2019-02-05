@@ -40,8 +40,6 @@
 |Alternative pathway|Spontaneous and microbial surfaces|3BD356789|
 |Lectin pathway|Microbial surfaces|M42356789|
 
-## Complement Systems
-
 ![](../Figures/Complement%20Systems.png)
 
 ## Respiratory [Oxidative] Burst
