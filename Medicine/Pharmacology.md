@@ -411,6 +411,8 @@
 |ADH inhibitors|Ethanol|Methanol antidote|
 ||Fomepizole|Methanol antidote|
 |ALDH inhibitors|Disulfiram|Alcohol cessation|
+|Xanthine oxidase inhibitors|Allopurinol|Gout :: chronic|
+||Febuxostat|Gout :: chronic|
 
 ## Mechanisms of Action of Antimicrobial and Anticancer Medications
 
