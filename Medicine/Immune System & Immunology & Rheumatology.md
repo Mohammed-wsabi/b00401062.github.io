@@ -177,7 +177,9 @@
 
 |Disease|Defects|
 |-|-|
-|ANCA-associated vasculitis|MPO-ANCA [p-ANCA] & PR3-ANCA [c-ANCA]|
+|Vasculitis :: granulomatosis with polyangiitis (GPA)|PR3-ANCA [c-ANCA]|
+|Vasculitis :: eosinophilic granulomatosis with polyangiitis (EGPA)|MPO-ANCA [p-ANCA]|
+|Vasculitis :: microscopic polyangiitis|MPO-ANCA [p-ANCA]|
 |Antiphospholipid syndrome (APS)|Anti-cardiolipin & Lupus anticoagulant|
 |Arthus reaction|-|
 |Autoimmune hepatitis|Anti-smooth muscle|
