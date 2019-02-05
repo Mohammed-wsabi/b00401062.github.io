@@ -299,6 +299,14 @@
 - Immunologic disorders
 - Neurologic disorders
 
+## Diagnostic Criteria for Rheumatoid Arthritis
+
+- Polyarthritis :: joints ≥ 3
+- Chronicity :: duration > 6 weeks
+- Positive RF / Anti-CCP
+- Elevated ESR / CRP
+- Exclusion of alternative diagnoses
+
 ## Presentation of Limited Scleroderma {CREST}
 
 - Calcinosis
