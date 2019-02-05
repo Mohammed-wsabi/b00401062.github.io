@@ -147,9 +147,8 @@
 
 |Disease|Defects|
 |-|-|
-|Atopy & Allergy & Anaphylaxis|-|
-|Transfusion reaction :: allergic|Plasma protein|
-|Transfusion reaction :: anaphylactic|Plasma IgA|
+|Allergy|IgE|
+|Transfusion reaction :: allergic|IgE|
 
 ### Type 2
 
