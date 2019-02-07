@@ -341,13 +341,26 @@
 - Rashes :: desquamating
 - Edema of limbs
 
-## CHADS2 Score for Atrial Fibrillation Stroke Risk {CHADS}
+## Risk of Stroke from Atrial Fibrillation
 
-- CHF
-- Hypertension history
-- Age ≥ 75
+### CHADS<sub>2</sub> Score
+
+- Congestive heart failure (CHF)
+- Hypertension
+- Age :: ≥ 75
 - Diabetes mellitus
-- Cerebral vascular accident (CVA)
+- Stroke & other cerebral vascular accidents (CVA)
+
+### CHA<sub>2</sub>DS<sub>2</sub>-VASc Score
+
+- Congestive heart failure (CHF)
+- Hypertension
+- Age :: ≥ 75
+- Diabetes mellitus
+- Stroke & other cerebral vascular accidents (CVA)
+- Vascular disease
+- Age :: 65 ~ 75
+- Sex :: female
 
 ## Mechanisms of Action of Medications for Cardiovascular Diseases
 
