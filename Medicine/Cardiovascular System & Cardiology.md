@@ -205,9 +205,9 @@
 - Drugs
 - Stretch
 
-## Mechanism of Arrhythmias
+## Pathogenesis of Arrhythmias
 
-|Mechanism|Types|
+|Type|Subtype|
 |-|-|
 |Impulse formation|Enhanced automaticity|
 ||Triggered activity: EAD & DAD|
@@ -263,13 +263,13 @@
 
 ## Anginas & Myocardial Infarction
 
-|Types|T Wave|ST Segment|Q Wave|Pathogenesis|
-|-|-|-|-|
-|Stable angina|-|STD|-|Coronary artery thrombosis|
-|Unstable angina|TWI|STD|-|Coronary artery thrombosis|
-|NSTEMI (NQMI)|TWI|STD|-|Subendocardial infarction|
-|Variant (Prinzmetal) angina|HTW|STE|-|Coronary artery spasm|
-|STEMI (QWMI)|HTW|STE|PQW|Transmural infarction|
+|Types|Pathogenesis|T Wave|ST Segment|Q Wave|Triggers|Cardiac Enzymes|
+|-|-|-|-|-|
+|Stable angina|Coronary artery thrombosis|-|STD|-|Exertion|-|
+|Unstable angina|Coronary artery thrombosis|TWI|STD|-|Anytime|-|
+|Variant [Prinzmetal] angina|Coronary artery spasm|HTW|STE|-|Drugs|-|
+|NSTEMI [NQMI]|Subendocardial infarction|TWI|STD|-|Anytime|↑|
+|STEMI [QWMI]|Transmural infarction|HTW|STE|PQW|Anytime|↑|
 
 ## Complications of Myocardial Infarction
 
