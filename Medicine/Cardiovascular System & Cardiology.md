@@ -263,7 +263,7 @@
 
 ## Anginas & Myocardial Infarction
 
-|Types|T Wave|ST Segment|Q Wave|Pathologic Significance|
+|Types|T Wave|ST Segment|Q Wave|Pathogenesis|
 |-|-|-|-|
 |Stable angina|-|STD|-|Coronary artery thrombosis|
 |Unstable angina|TWI|STD|-|Coronary artery thrombosis|
