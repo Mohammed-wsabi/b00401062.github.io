@@ -387,8 +387,8 @@
 
 |Mechanism|Medication|
 |-|-|
-|Antiplatelet|Aspirin|
-|Anticoagulant|-|
+|Antiplatelets|Aspirin / ADP antagonists|
+|Anticoagulants|Heparin|
 |β<sub>1</sub> antagonists|-|
 |Venodilators|Morphine|
 ||NO donors|
