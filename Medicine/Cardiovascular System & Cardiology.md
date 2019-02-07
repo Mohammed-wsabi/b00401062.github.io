@@ -261,10 +261,10 @@
 |QRS complex|Ventricle|0|Na|Class 1|
 |QT interval|Ventricle|2 & 3|K|Class 1 & 3|
 
-## Anginas & Myocardial Infarction
+## Pathogenesis & Presentation of Acute Coronary Syndrome (ACS)
 
 |Types|Pathogenesis|T Wave|ST Segment|Q Wave|Triggers|Cardiac Enzymes|
-|-|-|-|-|-|
+|-|-|-|-|-|-|
 |Stable angina|Coronary artery thrombosis|-|STD|-|Exertion|-|
 |Unstable angina|Coronary artery thrombosis|TWI|STD|-|Anytime|-|
 |Variant [Prinzmetal] angina|Coronary artery spasm|HTW|STE|-|Drugs|-|
