@@ -20,14 +20,14 @@
 - [Social and Sexual History](#social-and-sexual-history)
 - [Family History](#family-history)
 - [Differential Diagnosis](#differential-diagnosis)
-- [Physical Examination](#physical-examinatione)
 - [Vital Signs](#vital-signs)
+- [Physical Examination](#physical-examinatione)
 - [Laboratory](#laboratory)
 - [Microbiology](#microbiology)
 - [Imaging](#imaging)
 - [Pathology](#pathology)
 - [Assessment](#assessment)
-- [Plan](#plan)
+- [Plans](#plans)
 
 ---
 
@@ -147,6 +147,10 @@
 
 ---
 
+### Vital Signs
+
+---
+
 ### Physical Examination
 
 - General:
@@ -159,10 +163,6 @@
 - Extremities:
 - Neurological:
 - Psychiatric:
-
----
-
-### Vital Signs
 
 ---
 
@@ -186,7 +186,12 @@
 
 ---
 
-### Plan
+### Plans
+
+- Consult/Certificate:
+- Operation/Outpatient:
+- Medication:
+- Examination:
 
 ---
 
