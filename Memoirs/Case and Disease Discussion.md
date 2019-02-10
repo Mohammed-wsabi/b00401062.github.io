@@ -203,8 +203,8 @@
 - [Etiology](#etiology)
 - [Risk Factors](#risk-factors)
 - [Associations](#associations)
-- [Presentation](#presentation)
 - [Complications](#complications)
+- [Presentation](#presentation)
 - [Differential Diagnosis](#differential-diagnosis-1)
 - [Approach](#approach)
 - [Diagnosis](#diagnosis)
@@ -241,11 +241,11 @@
 
 ---
 
-### Presentation
+### Complications
 
 ---
 
-### Complications
+### Presentation
 
 ---
 
