@@ -197,7 +197,6 @@
 
 ## Disease Discussion
 
-- [Introduction](#introduction)
 - [Definition](#definition)
 - [Epidemiology](#epidemiology)
 - [Pathogenesis](#pathogenesis)
@@ -215,10 +214,6 @@
 - [Prevention](#prevention)
 - [Summary](#summary)
 - [References](#references)
-
----
-
-### Introduction
 
 ---
 
