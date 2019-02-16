@@ -230,16 +230,7 @@
 ||Promethazine|Emesis :: motion sickness|
 |Cannabinoid agonists|Dronabinol|Emesis :: chemotherapy|
 
-## Mechanisms of Action of Medications for Emesis
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|D<sub>2</sub> antagonists|Metoclopramide|Emesis|
-||Prochlorperazine|Emesis|
-||Domperidone|Emesis|
-||Droperidol|Emesis|
-
-## Mechanisms of Action of Medications for Constipation {SHELB}
+## Mechanisms of Action of Laxatives {SHELB}
 
 |Mechanism|Medication|Indications|
 |-|-|-|
