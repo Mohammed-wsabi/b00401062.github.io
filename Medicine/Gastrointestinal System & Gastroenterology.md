@@ -228,7 +228,9 @@
 ||Diphenhydramine|Emesis :: motion sickness|
 ||Meclizine|Emesis :: motion sickness|
 ||Promethazine|Emesis :: motion sickness|
+|Neurokinin antagonists|Aprepitant|Emesis :: chemotherapy|
 |Cannabinoid agonists|Dronabinol|Emesis :: chemotherapy|
+|-|Steroids|Emesis|
 
 ## Mechanisms of Action of Laxatives {SHELB}
 
