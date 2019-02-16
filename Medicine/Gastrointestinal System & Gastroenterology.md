@@ -238,6 +238,7 @@
 |-|-|-|
 |Stimulants|Senna|Constipation|
 ||Bisacodyl|Constipation|
+||Cisapride|Constipation|
 |Hyperosmotics|Magnesium|Constipation|
 ||Polyethylene glycol|Constipation|
 ||Lactulose|Constipation|
@@ -245,7 +246,6 @@
 |Emollients|Docusate|Constipation|
 |Lubricants|Mineral oil|Constipation|
 |Bulk-formers|Psyllium|Constipation|
-|5-HT<sub>4</sub> agonists|Cisapride|Constipation|
 
 ## Types of Portosystemic Shunts for Portal Hypertension
 
