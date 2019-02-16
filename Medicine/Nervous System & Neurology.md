@@ -258,9 +258,9 @@
 |-|-|
 |Ionotropic receptor|NN & NM & 5-HT<sub>3</sub> & AMPA & NMDA|
 ||GABA-A & Glycine|
-|G<sub>q</sub>PCR|M1 & M3 & α<sub>1</sub> & H1|
-|G<sub>s</sub>PCR|β<sub>1</sub> & β<sub>2</sub> & D<sub>1</sub> & H2 & 5-HT|
-|G<sub>i</sub>PCR|M2 & α<sub>2</sub> & D<sub>2</sub> & GABA-B & Opioid|
+|G<sub>q</sub>PCR|M<sub>1</sub> & M<sub>3</sub> & α<sub>1</sub> & H<sub>1</sub> & 5-HT<sub>2</sub>|
+|G<sub>s</sub>PCR|β<sub>1</sub> & β<sub>2</sub> & D<sub>1</sub> & H<sub>3</sub> & 5-HT<sub>4</sub>|
+|G<sub>i</sub>PCR|M<sub>2</sub> & α<sub>2</sub> & D<sub>2</sub> & 5-HT<sub>1</sub> & GABA-B & Opioid|
 |Receptor tyrosine kinase (RTK): AMPK pathway|-|
 |Non-receptor tyrosine kinase (NRTK): JAK/STAT pathway|-|
 |Steroid receptor|-|
