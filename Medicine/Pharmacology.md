@@ -146,7 +146,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|M agonists|Bethanechol|Prokinetics & Urinary retention|
+|M agonists|Bethanechol|Constipation & Urinary retention|
 ||Carbachol|Glaucoma|
 ||Methacholine|Asthma diagnosis|
 ||Pilocarpine|Glaucoma & Xerostomia|
@@ -238,10 +238,10 @@
 ||Cabergoline|Prolactinoma|
 ||Pramipexole|Parkinson|
 ||Ropinirole|Parkinson|
-|D<sub>2</sub> antagonists|Metoclopramide|Emesis & Prokinetics|
-||Prochlorperazine|Emesis & Prokinetics|
-||Domperidone|Emesis & Prokinetics|
-||Droperidol|Emesis & Prokinetics|
+|D<sub>2</sub> antagonists|Metoclopramide|Emesis & Constipation|
+||Prochlorperazine|Emesis & Constipation|
+||Domperidone|Emesis & Constipation|
+||Droperidol|Emesis & Constipation|
 ||Antipsychotics|Psychosis|
 
 ## Mechanisms of Action of Medications Targeting Serotonin Receptor
@@ -251,7 +251,7 @@
 |5-HT<sub>1</sub> agonists|Buspirone|Anxiety|
 ||Triptans|Migraine|
 |5-HT<sub>2</sub> agonists|Ergotamine|Migraine|
-|5-HT<sub>4</sub> agonists|Cisapride|Prokinetics|
+|5-HT<sub>4</sub> agonists|Cisapride|Constipation|
 |5-HT modulators|Trazodone|Depression & Insomnia|
 |5-HT<sub>2</sub> antagonists|2° Antipsychotics|Psychosis & Bipolar|
 ||Cyproheptadine|Carcinoid & Serotonin syndrome|
