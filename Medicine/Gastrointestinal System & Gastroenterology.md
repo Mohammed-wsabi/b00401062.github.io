@@ -230,17 +230,29 @@
 ||Promethazine|Emesis :: motion sickness|
 |Cannabinoid agonists|Dronabinol|Emesis :: chemotherapy|
 
-## Mechanisms of Action of Prokinetics
+## Mechanisms of Action of Medications for Emesis
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|M agonists|Bethanechol|Constipation|
-|D<sub>2</sub> antagonists|Metoclopramide|Constipation|
-||Prochlorperazine|Constipation|
-||Domperidone|Constipation|
-||Droperidol|Constipation|
+|D<sub>2</sub> antagonists|Metoclopramide|Emesis|
+||Prochlorperazine|Emesis|
+||Domperidone|Emesis|
+||Droperidol|Emesis|
+
+## Mechanisms of Action of Medications for Constipation {SHELB}
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|Stimulants|Senna|Constipation|
+||Bisacodyl|Constipation|
+|Hyperosmotics|Magnesium|Constipation|
+||Polyethylene glycol|Constipation|
+||Lactulose|Constipation|
+||Enema|Constipation|
+|Emollients|Docusate|Constipation|
+|Lubricants|Mineral oil|Constipation|
+|Bulk-formers|Psyllium|Constipation|
 |5-HT<sub>4</sub> agonists|Cisapride|Constipation|
-|Motilin agonists|Erythromycin|Constipation|
 
 ## Types of Portosystemic Shunts for Portal Hypertension
 
