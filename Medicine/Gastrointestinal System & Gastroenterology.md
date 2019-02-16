@@ -230,7 +230,7 @@
 ||Promethazine|Emesis :: motion sickness|
 |Neurokinin antagonists|Aprepitant|Emesis :: chemotherapy|
 |Cannabinoid agonists|Dronabinol|Emesis :: chemotherapy|
-|-|Steroids|Emesis|
+|-|Steroids|Emesis :: chemotherapy|
 
 ## Mechanisms of Action of Laxatives {SHELB}
 
