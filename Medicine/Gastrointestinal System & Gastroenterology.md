@@ -234,13 +234,13 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|M agonists|Bethanechol|Prokinetics|
-|D<sub>2</sub> antagonists|Metoclopramide|Prokinetics|
-||Prochlorperazine|Prokinetics|
-||Domperidone|Prokinetics|
-||Droperidol|Prokinetics|
-|5-HT<sub>4</sub> agonists|Cisapride|Prokinetics|
-|Motilin agonists|Erythromycin|Prokinetics|
+|M agonists|Bethanechol|Constipation|
+|D<sub>2</sub> antagonists|Metoclopramide|Constipation|
+||Prochlorperazine|Constipation|
+||Domperidone|Constipation|
+||Droperidol|Constipation|
+|5-HT<sub>4</sub> agonists|Cisapride|Constipation|
+|Motilin agonists|Erythromycin|Constipation|
 
 ## Types of Portosystemic Shunts for Portal Hypertension
 
