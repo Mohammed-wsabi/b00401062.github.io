@@ -146,7 +146,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|M agonists|Bethanechol|Constipation & Urinary retention|
+|M agonists|Bethanechol|Urinary retention|
 ||Carbachol|Glaucoma|
 ||Methacholine|Asthma diagnosis|
 ||Pilocarpine|Glaucoma & Xerostomia|
@@ -238,10 +238,10 @@
 ||Cabergoline|Prolactinoma|
 ||Pramipexole|Parkinson|
 ||Ropinirole|Parkinson|
-|D<sub>2</sub> antagonists|Metoclopramide|Emesis & Constipation|
-||Prochlorperazine|Emesis & Constipation|
-||Domperidone|Emesis & Constipation|
-||Droperidol|Emesis & Constipation|
+|D<sub>2</sub> antagonists|Metoclopramide|Emesis|
+||Prochlorperazine|Emesis|
+||Domperidone|Emesis|
+||Droperidol|Emesis|
 ||Antipsychotics|Psychosis|
 
 ## Mechanisms of Action of Medications Targeting Serotonin Receptor
