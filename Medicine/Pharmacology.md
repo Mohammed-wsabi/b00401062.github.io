@@ -250,7 +250,7 @@
 |-|-|-|
 |5-HT<sub>1</sub> agonists|Buspirone|Anxiety|
 ||Triptans|Migraine|
-|5-HT<sub>2</sub> agonists|Ergotamine|Migraine|
+||Ergotamine|Migraine|
 |5-HT<sub>4</sub> agonists|Cisapride|Constipation|
 |5-HT modulators|Trazodone|Depression & Insomnia|
 |5-HT<sub>2</sub> antagonists|2° Antipsychotics|Psychosis & Bipolar|
