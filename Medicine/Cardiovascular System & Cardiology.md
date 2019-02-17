@@ -137,13 +137,12 @@
 
 ## Heart Sounds
 
-|Heart Sound|Synonym|Etiology|Examples|
-|-|-|-|-|
-|S1|-|MV & TV close|-|
-|S2|-|AV & PV close|-|
-|S3|-|MV & TV open|-|
-||Opening snap|Volume overload|HF & DCMP & MR & TR|
-|S4|Atrial kick|Diastolic dysfunction|HF & HCMP|
+|Heart Sound|Synonym|Etiology|Pathology|Examples|
+|-|-|-|-|-|
+|S<sub>1</sub>|-|MV & TV closure|-|-|
+|S<sub>2</sub>|-|AV & PV closure|-|-|
+|S<sub>3</sub>|Ventricular gallop & Opening snap|MV & TV opening|Volume overload|HF & DCMP & MR & TR|
+|S<sub>4</sub>|Atrial gallop & Atrial kick|Atrial contration|Diastolic dysfunction|HF & HCMP|
 
 ## Cyanotic Congenital Heart Defects (CHD) {5T-HE}
 
