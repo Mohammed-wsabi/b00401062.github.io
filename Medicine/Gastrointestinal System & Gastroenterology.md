@@ -258,7 +258,7 @@
 |Side-to-side portacaval anastomosis|Portal vein|IVC|
 |Transjugular intrahepatic portosystemic shunt (TIPS)|Portal vein|Hepatic vein|
 
-## Treatment Algorithm for Hepatocellular Carcinoma (HCC)
+## Management of Hepatocellular Carcinoma (HCC)
 
 - w/o vascular invasion / extrahepatic metastasis
 	- Resectable tumor(s) & Child-Pugh score ≤ B: Resection / (RFA ± TACE)
@@ -271,7 +271,7 @@
 
 ![](../Figures/Barcelona%20Clinic%20Liver%20Cancer%20(BCLC)%20Staging.gif)
 
-## Liver Transplantation for Hepatocellular Carcinoma (HCC)
+## Criteria for Liver Transplantation in Hepatocellular Carcinoma (HCC)
 
 ### Milan Criteria
 
@@ -281,7 +281,7 @@
 - No vascular invasion
 - No extrahepatic metastasis
 
-### USCF Criteria
+### UCSF Criteria
 
 - Resectable tumor(s):
 	- 1 tumor: < 6.5 cm
