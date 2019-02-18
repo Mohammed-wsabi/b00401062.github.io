@@ -455,3 +455,9 @@
 |Norepinephrine|100|
 |Epinephrine|100|
 |Isoproterenol|100|
+
+## Treatment of Atrial Fibrillation
+
+- Cardioversion
+- Antiarrhythmics :: Class 2 & 4
+- Anticoagulants
