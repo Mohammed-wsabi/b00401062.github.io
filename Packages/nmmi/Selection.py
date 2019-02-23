@@ -63,9 +63,8 @@ class Selection:
 			for i in range(2):
 				print("\t- {}: {:.2e} ± {:.2e} (95% CI = [{:.2e},{:.2e}]; p = {:.2e})".format(Selection.MODELS[i], m[i], se[i], m[i]-e[i], m[i]+e[i], p[i]))
 			errorbar(range(2), m, e, fmt = "o", capsize = 4)
-			xticks(range(2), Selection.MODELS)
+			xticks(range(2), list(map("".join, zip(Selection.MODELS, map("\n(p={:.3e})".format, p)))))
 			title(sex.capitalize())
-			xlabel("Model")
 			ylabel("Percentage")
 			xlim((-0.49, 1.49))
 			axhline(.95, color = "r")
