@@ -316,3 +316,14 @@
 |Cardiotoxicity|Anthracyclines & Trastuzumab|
 |Pulmonary fibrosis|Bleomycin & Busulfan|
 |Hemorrhagic cystitis|Cyclophosphamide|
+
+## Treatment of Thrombotic Thrombocytopenic Purpura (TTP)
+
+- Immunosuppression :: Steroids & Rituximab
+- Plasma exchange therapy (PEX)
+
+## Treatment of Immune Thrombocytopenic Purpura (ITP)
+
+- Immunosuppression :: Steroids & Rituximab
+- Intravenous immunoglobulin (IVIG)
+- Splenectomy
