@@ -223,7 +223,7 @@
 ||Prochlorperazine|Emesis|
 ||Domperidone|Emesis|
 ||Droperidol|Emesis|
-|5-HT<sub>3</sub> antagonists|Ondansetron|Emesis :: chemotherapy|
+|5-HT<sub>3</sub> antagonists|Setrons|Emesis :: chemotherapy|
 |H<sub>1</sub> antagonists|Chlorpheniramine|Emesis :: motion sickness|
 ||Diphenhydramine|Emesis :: motion sickness|
 ||Meclizine|Emesis :: motion sickness|
