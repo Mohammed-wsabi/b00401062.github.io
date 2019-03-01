@@ -184,6 +184,16 @@
 |Dysfunction|Systolic|Diastolic|
 |Etiology|ACS & DCMP|HCMP & RCMP|
 
+## Staging of Heart Failure
+
+### NYHA Functional Classes
+
+![](../Figures/NYHA%20Functional%20Classes.png)
+
+### ACC/AHA Stages of Heart Failure
+
+![](../Figures/ACC%2FAHA%20Stages%20of%20Heart%20Failure.png)
+
 ## Etiology of Dilated Cardiomyopathy (DCMP) {ABCD}
 
 - Alcohol
