@@ -511,3 +511,11 @@
 ||Galantamine|Alzheimer|
 ||Donepezil|Alzheimer|
 |NMDA antagonists|Memantine|Alzheimer|
+
+## Risk of Progression of TIA to Stroke {ABCD2}
+
+- Age :: ≥ 􏳧60 years
+- BP :: ≥ 􏳧140/90
+- Clinical features :: Unilateral weakness &/ Speech impairment
+- Duration
+- Diabetes
