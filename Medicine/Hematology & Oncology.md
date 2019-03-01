@@ -1,6 +1,10 @@
 # Hematology & Oncology
 
-## Fetal Erythropoiesis
+## Hematopoiesis
+
+![](../Figures/Hematopoiesis.gif)
+
+## Erythropoiesis
 
 |Mnemonic|Site|
 |-|-|
@@ -9,9 +13,9 @@
 |Synthesizes|Spleen|
 |Blood|Bone marrow|
 
-## Hematopoiesis
+## Hemoglobin Genes
 
-![](../Figures/Hematopoiesis.gif)
+![](../Figures/Hemoglobin%20Genes.jpg)
 
 ## Granules in Blood Cells
 
