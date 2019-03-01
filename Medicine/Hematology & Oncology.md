@@ -321,6 +321,12 @@
 |Pulmonary fibrosis|Bleomycin & Busulfan|
 |Hemorrhagic cystitis|Cyclophosphamide|
 
+## Treatment of Polycythemia
+
+- Phlebotomy
+- Antiplatelets :: Aspirin
+- Cytoreductive agents :: Hydroxyurea & Interferon
+
 ## Treatment of Thrombotic Thrombocytopenic Purpura (TTP)
 
 - Immunosuppression :: Steroids & Rituximab
