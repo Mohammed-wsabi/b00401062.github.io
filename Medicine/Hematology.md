@@ -48,7 +48,7 @@
 |s-Globin|α<sub>2</sub>s<sub>2</sub> [HbS]|Sickle cell disease|-|-|
 |c-Globin|α<sub>2</sub>c<sub>2</sub> [HbC]|HbC disease|-|-|
 
-## Differential Diagnosis of Target Cells {HALT}
+## Etiology of Target Cells {HALT}
 
 - HbC disease
 - Asplenia
