@@ -1,4 +1,4 @@
-# Hematology & Oncology
+# Hematology
 
 ## Hematopoiesis
 
@@ -295,7 +295,7 @@
 ||Cilostazol|Antiplatelet|
 |COX inhibitors|NSAIDs|Antiplatelet|
 
-## Comparison of Unfractionated Heparin (UFH) Versus Low-Molecular-Weight Heparin (LMWH)
+## Comparison of Heparin Variants
 
 ||UFH|LMWH|
 |-|-|-|
@@ -304,18 +304,6 @@
 |Monitor|PTT|-|
 |Side Effect|HIT & Osteoporosis|-|
 |Antidote|Protamine sulfate|-|
-
-## Side Effects of Antineoplastics
-
-|Side Effect|Antibiotics|
-|-|-|
-|Marrow suppression|-|
-|Immunosuppression|-|
-|Nephrotoxicity|Platinums|
-|Neurotoxicity|Nitrosoureas & Platinums & Vincas & Taxanes|
-|Cardiotoxicity|Anthracyclines & Trastuzumab|
-|Pulmonary fibrosis|Bleomycin & Busulfan|
-|Hemorrhagic cystitis|Cyclophosphamide|
 
 ## Treatment of Polycythemia
 
