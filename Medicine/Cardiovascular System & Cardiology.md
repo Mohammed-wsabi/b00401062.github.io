@@ -192,7 +192,7 @@
 
 ### ACC/AHA Stages of Heart Failure
 
-![](../Figures/ACC%2FAHA%20Stages%20of%20Heart%20Failure.png)
+![](../Figures/ACC-AHA%20Stages%20of%20Heart%20Failure.png)
 
 ## Etiology of Dilated Cardiomyopathy (DCMP) {ABCD}
 
