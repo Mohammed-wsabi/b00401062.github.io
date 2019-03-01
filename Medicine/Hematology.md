@@ -55,7 +55,7 @@
 - Liver disease
 - Thalassemia
 
-## Workup of Anemia
+## Etiology of Anemia
 
 ![](../Figures/Differential%20Diagnosis%20of%20Anemia.png)
 
