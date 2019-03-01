@@ -159,7 +159,7 @@
 |Goodpasture syndrome|Anti-basement membrane|
 |Graves disease|Anti-TSH receptor|
 |Guillain-Barre syndrome|Anti-ganglioside|
-|Heparin-induced thrombocytopenia (HIT)|Anti-platelet factor 4|
+|Heparin-induced thrombocytopenia (HIT)|Anti-platelet factor 4 (Anti-PF4)|
 |Immune thrombocytopenic purpura (ITP)|Anti-Gp1b & Anti-Gp2b/3a|
 |Lambert-Eaton myasthenic syndrome|Anti-presynatic Ca channel|
 |Myasthenia gravis|Anti-ACh receptor|
