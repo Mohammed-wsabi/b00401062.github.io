@@ -161,6 +161,10 @@
 - Toileting
 - Hygiene
 
+## Eastern Cooperative Oncology Group (ECOG) Performance Scale
+
+![](../Figures/Eastern%20Cooperative%20Oncology%20Group%20(ECOG)%20Performance%20Scale.png)
+
 ## Core Ethical Principles
 
 |Mnemonic|Principle|
