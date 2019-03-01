@@ -4,6 +4,27 @@
 
 ![](../Figures/Hematopoiesis.gif)
 
+## Granules in Blood Cells
+
+|Cell|Granule|Contents|
+|-|-|-|
+|Neutrophil|Specific granule|Leukocyte alkaline phosphatase (LAP) & Collagenase & Lactoferrin|
+|Neutrophil|Azurophilic granule|Proteinases & Acid phosphatase & Myeloperoxidase & β-glucuronidase|
+|Eosinophil|Eosinophilic granule|Histaminase & Major basic protein (MBP) & Eosinophil peroxidase & Eosinophil cationic protein|
+|Basophil|Basophilic granule|Heparin & Histamine|
+|Platelet|α granule|vWF & Fibrinogen & Fibronectin|
+|Platelet|Dense granule|ADP & Calcium|
+
+## WBC Differential Counts
+
+|Mnemonic|Cell|Ratio|
+|-|-|-|
+|Neutrophils|Neutrophil|60%|
+|Like|Lymphocyte|30%|
+|Making|Monocyte|6%|
+|Everything|Eosinophil|3%|
+|Better|Basophil|1%|
+
 ## Erythropoiesis
 
 |Mnemonic|Site|
@@ -17,41 +38,7 @@
 
 ![](../Figures/Hemoglobin%20Genes.jpg)
 
-## Granules in Blood Cells
-
-|Cell|Granule|Contents|
-|-|-|-|
-|Neutrophil|Specific granule|Leukocyte alkaline phosphatase (LAP) & Collagenase & Lactoferrin|
-|Neutrophil|Azurophilic granule|Proteinases & Acid phosphatase & Myeloperoxidase & β-glucuronidase|
-|Eosinophil|Eosinophilic granule|Histaminase & Major basic protein (MBP) & Eosinophil peroxidase & Eosinophil cationic protein|
-|Basophil|Basophilic granule|Heparin & Histamine|
-|Platelet|α granule|vWF & Fibrinogen & Fibronectin|
-|Platelet|Dense granule|ADP & Calcium|
-
-## Coagulation Pathway
-
-![](../Figures/Coagulation%20Pathway.png)
-
-## Anticoagulants
-
-|Anticoagulants|Effects|
-|-|-|
-|Warfarin|Factor 2 & **7** & 9 & 10 & **Protein C/S**|
-|Antithrombin & Heparin|Factor **2** & 7 & 9 & **10** & 11 & 12|
-|Protein C/S|Factor 5 & 8|
-|Plasmin|Factor 1|
-
-## WBC Differential Counts
-
-|Mnemonic|Cell|Ratio|
-|-|-|-|
-|Neutrophils|Neutrophil|60%|
-|Like|Lymphocyte|30%|
-|Making|Monocyte|6%|
-|Everything|Eosinophil|3%|
-|Better|Basophil|1%|
-
-## Physiological & Pathological Hemoglobin Variant
+## Hemoglobin Variants
 
 ||α-Globin|Disease|α-Globin Defect|Disease|
 |-|-|-|-|-|
@@ -68,11 +55,11 @@
 - Liver disease
 - Thalassemia
 
-## Differential Diagnosis of Anemia
+## Workup of Anemia
 
 ![](../Figures/Differential%20Diagnosis%20of%20Anemia.png)
 
-## Microcytic Anemia {TAILS}
+### Microcytic Anemia {TAILS}
 
 |Anemia|Fe|Ferritin|Transferrin [TIBC]|Saturation = Fe ÷ TIBC|
 |-|-|-|-|-|
@@ -84,7 +71,7 @@
 |Hemochromatosis|↑ (1°)|↑|↓|↑|
 |Pregnancy & OCP|-|-|↑ (1°)|↓|
 
-## Normocytic Anemia :: Hemolytic Anemia
+### Normocytic Anemia :: Hemolytic Anemia
 
 ||Intravascular {TIMP}|Extravascular {PHAGES}|
 |-|-|-|
@@ -128,6 +115,19 @@
 - Polyneuropathy
 - Psychological disturbances
 - Precipitation ← starvation & alcohol & drugs
+
+## Coagulation Pathway
+
+![](../Figures/Coagulation%20Pathway.png)
+
+## Anticoagulants
+
+|Anticoagulants|Effects|
+|-|-|
+|Warfarin|Factor 2 & **7** & 9 & 10 & **Protein C/S**|
+|Antithrombin & Heparin|Factor **2** & 7 & 9 & **10** & 11 & 12|
+|Protein C/S|Factor 5 & 8|
+|Plasmin|Factor 1|
 
 ## Etiology of Hypocoagulability
 
@@ -252,13 +252,6 @@
 - Rashes
 - Splenomegaly
 
-## Tumors Associated with Li-Fraumeni Syndrome {SBLA}
-
-- Sarcoma
-- Breast tumor
-- Leukemia
-- Adrenal gland tumor
-
 ## Mechanisms of Action of Anticoagulants
 
 |Mechanism|Medication|Indications|
@@ -295,7 +288,7 @@
 ||Cilostazol|Antiplatelet|
 |COX inhibitors|NSAIDs|Antiplatelet|
 
-## Comparison of Heparin Variants
+## Heparin Variants
 
 ||UFH|LMWH|
 |-|-|-|
@@ -309,7 +302,7 @@
 
 - Phlebotomy
 - Antiplatelets :: Aspirin
-- Cytoreductive agents :: Hydroxyurea & Interferon
+- Cytoreductive agents :: Hydroxyurea & Interferon & Busulfan
 
 ## Treatment of Thrombotic Thrombocytopenic Purpura (TTP)
 
