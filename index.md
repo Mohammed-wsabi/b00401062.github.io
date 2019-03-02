@@ -62,6 +62,7 @@ title: Life Code
 - [Respiratory System & Pulmonology](Medicine/Respiratory%20System%20&%20Pulmonology.html)
 - [Special Senses & Ophthalmology & Otolaryngology](Medicine/Special%20Senses%20&%20Ophthalmology%20&%20Otolaryngology.html)
 - [Surgery](Medicine/Surgery.html)
+- [Toxicology](Medicine/Toxicology.html)
 
 ## Memoirs
 
