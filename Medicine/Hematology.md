@@ -129,36 +129,41 @@
 
 ### Myeloid Leukemia
 
-|Tumors|Translocation|Gene|
-|-|-|-|
-|Acute myelogenous leukemia (AML)|t(15;17)|PML-RARA|
-|Chronic myelogenous leukemia (CML)|t(9;22)|BCR-ABL|
+|Tumors|Mutations|
+|-|-|
+|Acute myelogenous leukemia (AML)|t(15;17) → PML/RARA|
+||t(8;21) → RUNX1/RUNX1T1|
+||t(16;16) → CBFB/MYH11|
+||NPM1|
+||CEBPA|
+||FLT3|
+|Chronic myelogenous leukemia (CML)|t(9;22) → BCR/ABL1|
 
 ### Lymphoid Leukemia
 
-|Tumors|Translocation|Gene|
-|-|-|-|
-|Acute lymphoblastic leukemia (ALL)|t(12;21)|TEL-AML1|
+|Tumors|Mutations|
+|-|-|
+|Acute lymphoblastic leukemia (ALL)|t(12;21) → TEL/AML1|
 |Chronic lymphocytic leukemia (CLL)|-|-|
 |Hairy cell leukemia|-|-|
 
 ### T-cell Lymphoma {AM}
 
-|Tumors|Translocation|Gene|
-|-|-|-|
-|Adult T-cell lymphoma|-|-|
-|Mycosis fungoides & Sezary syndrome|-|-|
+|Tumors|Mutations|
+|-|-|
+|Adult T-cell lymphoma|-|
+|Mycosis fungoides & Sezary syndrome|-|
 
 ### B-cell Lymphoma {HBD-MMF}
 
-|Tumors|Translocation|Gene|
-|-|-|-|
-|Hodgkin lymphoma|-|-|
-|Burkitt lymphoma|t(8;14)|C-MYC|
-|Diffuse large B-cell lymphoma (DLBCL)|-|-|
-|Marginal zone lymphoma & MALT lymphoma|-|-|
-|Mantle cell lymphoma|t(11;14)|Cyclin D (CCND)|
-|Follicular lymphoma|t(14;18)|BCL2|
+|Tumors|Mutations|
+|-|-|
+|Hodgkin lymphoma|-|
+|Burkitt lymphoma|t(8;14) → C-MYC|
+|Diffuse large B-cell lymphoma (DLBCL)|-|
+|Marginal zone lymphoma & MALT lymphoma|-|
+|Mantle cell lymphoma|t(11;14) → Cyclin D (CCND)|
+|Follicular lymphoma|t(14;18) → BCL2|
 
 ## B Symptoms of Hodgkin Lymphoma
 
@@ -193,6 +198,7 @@
 
 - Peripheral blood smear
 - Bone marrow aspiration & biopsy
+- Karyotyping
 - Genotyping
 - Cytochemistry
 - Immunophenotyping
