@@ -479,16 +479,16 @@
 |Benzimidazole|↓ Microtubule assembly|Microtubule|Parasite|
 |Griseofulvin|↓ Microtubule assembly|Microtubule|Fungus|
 |Colchicine|↓ Microtubule assembly|Microtubule|Human|
-|Vincas|↓ Microtubule assembly|Microtubule|Human|
-|Taxanes|↓ Microtubule disassembly|Microtubule|Human|
+|Vinca alkaloids|↓ Microtubule assembly|Microtubule|Human|
+|Taxanes [Taxels]|↓ Microtubule disassembly|Microtubule|Human|
 
 ### DNA Inhibitors
 
 |Medication|Mechanism|Targets|Species|
 |-|-|-|-|
 |Fluoroquinolone|↓ DNA synthesis|Topoisomerase|Bacterium|
-|Tecans|↓ DNA synthesis|Topoisomerase 1|Human|
-|Etoposide|↓ DNA synthesis|Topoisomerase 2|Human|
+|Camptothecins [Tecans]|↓ DNA synthesis|Topoisomerase 1|Human|
+|Podophyllotoxins [Posides]|↓ DNA synthesis|Topoisomerase 2|Human|
 |Teniposide|↓ DNA synthesis|Topoisomerase 2|Human|
 |Cytarabine|↓ DNA synthesis|DNA polymerase|Human|
 |Acyclovir|↓ DNA synthesis|DNA polymerase|Virus|
@@ -500,8 +500,7 @@
 |Metronidazole|↑ DNA intercalation|DNA|Bacterium|
 |Streptomycin|↑ DNA intercalation|DNA|Mycobacterium|
 |Bleomycin|↑ DNA intercalation|DNA|Human|
-|Anthracyclines|↑ DNA intercalation|DNA|Human|
-|Daunorubicin|↑ DNA intercalation|DNA|Human|
+|Anthracyclines [Rubicins]|↑ DNA intercalation|DNA|Human|
 |Nitrosourea|↑ DNA crosslinking|DNA|Human|
 |Busulfan|↑ DNA crosslinking|DNA|Human|
 |Cyclophosphamide|↑ DNA crosslinking|DNA|Human|
