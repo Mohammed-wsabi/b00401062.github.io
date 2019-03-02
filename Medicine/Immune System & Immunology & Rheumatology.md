@@ -166,8 +166,7 @@
 |Pemphigus vulgaris|Anti-desmosome|
 |Pernicious anemia|Anti-parietal cell|
 |Rheumatic fever|Anti-M protein|
-|Transfusion reaction :: acute hemolytic|Anti-ABO & Anti-Rh|
-|Transfusion reaction :: febrile non-hemolytic|Anti-HLA|
+|Transfusion reaction :: acute hemolytic (AHTR)|Anti-ABO & Anti-Rh|
 |Transplant reaction :: hyperacute|-|
 
 ### Type 3
