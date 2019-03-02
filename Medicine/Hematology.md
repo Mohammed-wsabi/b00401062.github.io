@@ -193,9 +193,9 @@
 
 - Peripheral blood smear
 - Bone marrow aspiration & biopsy
-- Cytogenetics w/ karyotyping / fluorescence in situ hybridization (FISH)
+- Genotyping
 - Cytochemistry
-- Immunophenotyping w/ immunohistochemistry / flow cytometry
+- Immunophenotyping
 
 ## Etiology of Hypocoagulability
 
