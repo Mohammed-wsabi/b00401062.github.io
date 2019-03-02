@@ -189,6 +189,13 @@
 - Rashes
 - Splenomegaly
 
+## Workup of Leukemia
+
+- Bone marrow aspiration & biopsy
+- Cytogenetics w/ karyotyping / fluorescence in situ hybridization (FISH)
+- Cytochemistry
+- Immunophenotyping w/ immunohistochemistry / flow cytometry
+
 ## Etiology of Hypocoagulability
 
 |Etiology|Mechanism|PLT|BT|PT|PTT|
