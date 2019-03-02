@@ -489,7 +489,6 @@
 |Fluoroquinolone|↓ DNA synthesis|Topoisomerase|Bacterium|
 |Camptothecins [Tecans]|↓ DNA synthesis|Topoisomerase 1|Human|
 |Podophyllotoxins [Posides]|↓ DNA synthesis|Topoisomerase 2|Human|
-|Teniposide|↓ DNA synthesis|Topoisomerase 2|Human|
 |Cytarabine|↓ DNA synthesis|DNA polymerase|Human|
 |Acyclovir|↓ DNA synthesis|DNA polymerase|Virus|
 |Famciclovir|↓ DNA synthesis|DNA polymerase|Virus|
