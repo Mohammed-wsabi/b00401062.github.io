@@ -15,16 +15,6 @@
 |Platelet|α granule|vWF & Fibrinogen & Fibronectin|
 |Platelet|Dense granule|ADP & Calcium|
 
-## WBC Differential Counts
-
-|Mnemonic|Cell|Ratio|
-|-|-|-|
-|Neutrophils|Neutrophil|60%|
-|Like|Lymphocyte|30%|
-|Making|Monocyte|6%|
-|Everything|Eosinophil|3%|
-|Better|Basophil|1%|
-
 ## Erythropoiesis
 
 |Mnemonic|Site|
@@ -33,6 +23,10 @@
 |Liver|Liver|
 |Synthesizes|Spleen|
 |Blood|Bone marrow|
+
+## Heme Synthesis
+
+![](../Figures/Heme%20Synthesis%20and%20Diseases.png)
 
 ## Hemoglobin Genes
 
@@ -48,12 +42,28 @@
 |s-Globin|α<sub>2</sub>s<sub>2</sub> [HbS]|Sickle cell disease|-|-|
 |c-Globin|α<sub>2</sub>c<sub>2</sub> [HbC]|HbC disease|-|-|
 
-## Etiology of Target Cells {HALT}
+## WBC Differential Counts
 
-- HbC disease
-- Asplenia
-- Liver disease
-- Thalassemia
+|Mnemonic|Cell|Ratio|
+|-|-|-|
+|Neutrophils|Neutrophil|60%|
+|Like|Lymphocyte|30%|
+|Making|Monocyte|6%|
+|Everything|Eosinophil|3%|
+|Better|Basophil|1%|
+
+## Coagulation Pathway
+
+![](../Figures/Coagulation%20Pathway.png)
+
+## Myeloproliferative Disorders
+
+|Tumors|Genetics|RBC|WBC|PLT|
+|-|-|-|-|-|
+|Polycythemia vera|JAK2|↑|↑|↑|
+|Chronic myelogenous leukemia (CML)|t(9;22)|↓|↑|↑|
+|Essential thrombocytosis|JAK2|-|-|↑|
+|Myelofibrosis|JAK2|↓|?|?|
 
 ## Etiology of Anemia
 
@@ -94,9 +104,12 @@
 ||-|Elliptocytosis|
 ||-|Sickle cell disease (SCD)|
 
-## Heme Synthesis and Diseases
+## Etiology of Target Cells {HALT}
 
-![](../Figures/Heme%20Synthesis%20and%20Diseases.png)
+- HbC disease
+- Asplenia
+- Liver disease
+- Thalassemia
 
 ## Presentation of Acute Intermittent Porphyria (AIP) {5P}
 
@@ -106,77 +119,11 @@
 - Psychological disturbances
 - Precipitation ← starvation & alcohol & drugs
 
-## Coagulation Pathway
+## Treatment of Polycythemia
 
-![](../Figures/Coagulation%20Pathway.png)
-
-## Anticoagulants
-
-|Anticoagulants|Effects|
-|-|-|
-|Warfarin|Factor 2 & **7** & 9 & 10 & **Protein C/S**|
-|Antithrombin & Heparin|Factor **2** & 7 & 9 & **10** & 11 & 12|
-|Protein C/S|Factor 5 & 8|
-|Plasmin|Factor 1|
-
-## Etiology of Hypocoagulability
-
-|Etiology|Mechanism|PLT|BT|PT|PTT|
-|-|-|-|-|-|-|
-|Disseminated intravascular coagulation (DIC)|-|↓|↑|↑|↑|
-|Thrombotic thrombocytopenic purpura (TTP)|↓ ADAMTS13|↓|↑|-|-|
-|Hemolytic uremic syndrome (HUS)|Shiga & Shiga-like toxin|↓|↑|-|-|
-|Immune thrombocytopenic purpura (ITP)|Anti-Gp1b & Anti-Gp2b/3a|↓|↑|-|-|
-|Heparin-induced thrombocytopenia (HIT)|Anti-platelet factor 4 (Anti-PF4)|↓|↑|-|-|
-|Von Willebrand disease (VWD)|↓ vWF|-|↑|-|↑|
-|Bernard-Soulier disease (BSD)|↓ Gp1b|-|↑|-|-|
-|Glanzmann disease|↓ Gp2b/3a|-|↑|-|-|
-|Hemophilia A & B & C|↓ Factor 8 & 9 & 11|-|-|-|↑|
-|Vitamin K deficiency|↓ Factor 2 & 7 & 9 & 10 & C & S|-|-|↑|↑|
-
-## Etiology of Hypercoagulability
-
-|Etiology|Mechanism|
-|-|-|
-|Factor 5 Leiden mutation|↑ Factor 5|
-|Prothrombin gene mutation|↑ Factor 2|
-|Antithrombin deficiency|↓ Antithrombin|
-|Protein C/S deficiency|↓ Protein C/S|
-
-## Pentad of Thrombotic Thrombocytopenic Purpura
-
-- Renal symptoms
-- Anemia
-- Thrombocytopenia
-- Neurologic symptoms
-- Fever
-
-## Triad of Hemolytic Uremic Syndrome (HUS) {RAT}
-
-- Renal symptoms
-- Anemia
-- Thrombocytopenia
-
-## Etiology of Disseminated Intravascular Coagulation (DIC)
-
-|Mnemonic|Cause|
-|-|-|
-|S|Sepsis :: GNB|
-|T|Trauma|
-|O|Obstetric complications|
-|P|Pancreatitis :: acute|
-|Making|Malignancy|
-|New|Nephrotic symdrome|
-|Thrombi|Transfusion|
-
-## Myeloproliferative Disorders
-
-|Tumors|Genetics|RBC|WBC|PLT|
-|-|-|-|-|-|
-|Polycythemia vera|JAK2|↑|↑|↑|
-|Chronic myelogenous leukemia (CML)|t(9;22)|↓|↑|↑|
-|Essential thrombocytosis|JAK2|-|-|↑|
-|Myelofibrosis|JAK2|↓|?|?|
+- Phlebotomy
+- Antiplatelets :: Aspirin
+- Cytoreductive agents :: Hydroxyurea & Interferon & Busulfan
 
 ## Leukemia & Lymphoma
 
@@ -234,13 +181,78 @@
 ## Presentation of Hemophagocytic Lymphohisticytosis (HLH)
 
 - Fever
-- Ferritin increased
+- Ferritin ↑
 - Hypertriglyceridemia
 - Hemophagocytosis
 - NK cell activity decreased
 - Pancytopenia
 - Rashes
 - Splenomegaly
+
+## Etiology of Hypocoagulability
+
+|Etiology|Mechanism|PLT|BT|PT|PTT|
+|-|-|-|-|-|-|
+|Disseminated intravascular coagulation (DIC)|-|↓|↑|↑|↑|
+|Thrombotic thrombocytopenic purpura (TTP)|↓ ADAMTS13|↓|↑|-|-|
+|Hemolytic uremic syndrome (HUS)|Shiga & Shiga-like toxin|↓|↑|-|-|
+|Immune thrombocytopenic purpura (ITP)|Anti-Gp1b & Anti-Gp2b/3a|↓|↑|-|-|
+|Heparin-induced thrombocytopenia (HIT)|Anti-platelet factor 4 (Anti-PF4)|↓|↑|-|-|
+|Von Willebrand disease (VWD)|↓ vWF|-|↑|-|↑|
+|Bernard-Soulier disease (BSD)|↓ Gp1b|-|↑|-|-|
+|Glanzmann disease|↓ Gp2b/3a|-|↑|-|-|
+|Hemophilia A & B & C|↓ Factor 8 & 9 & 11|-|-|-|↑|
+|Vitamin K deficiency|↓ Factor 2 & 7 & 9 & 10 & C & S|-|-|↑|↑|
+
+## Etiology of Hypercoagulability
+
+|Etiology|Mechanism|
+|-|-|
+|Factor 5 Leiden mutation|↑ Factor 5|
+|Prothrombin gene mutation|↑ Factor 2|
+|Antithrombin deficiency|↓ Antithrombin|
+|Protein C/S deficiency|↓ Protein C/S|
+
+## Etiology of Disseminated Intravascular Coagulation (DIC)
+
+|Mnemonic|Cause|
+|-|-|
+|S|Sepsis :: GNB|
+|T|Trauma|
+|O|Obstetric complications|
+|P|Pancreatitis :: acute|
+|Making|Malignancy|
+|New|Nephrotic symdrome|
+|Thrombi|Transfusion|
+
+## Pentad of Thrombotic Thrombocytopenic Purpura (TTP)
+
+- Renal symptoms
+- Anemia
+- Thrombocytopenia
+- Neurologic symptoms
+- Fever
+
+## Triad of Hemolytic Uremic Syndrome (HUS) {RAT}
+
+- Renal symptoms
+- Anemia
+- Thrombocytopenia
+
+## Mechanisms of Action of Antiplatelets
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|Gp2b/3a inhibitors|Abciximab|Antiplatelet|
+||Eptifibatide|Antiplatelet|
+||Tirofiban|Antiplatelet|
+|ADP antagonists|Clopidogrel|Antiplatelet|
+||Prasugrel|Antiplatelet|
+||Ticagrelor|Antiplatelet|
+||Ticlopidine|Antiplatelet|
+|PDE inhibitors|Dipyridamole|Antiplatelet|
+||Cilostazol|Antiplatelet|
+|COX inhibitors|NSAIDs|Antiplatelet|
 
 ## Mechanisms of Action of Anticoagulants
 
@@ -263,20 +275,14 @@
 ||Reteplase|Anticoagulant|
 ||Tenecteplase|Anticoagulant|
 
-## Mechanisms of Action of Antiplatelets
+## Targets of Anticoagulants
 
-|Mechanism|Medication|Indications|
-|-|-|-|
-|Gp2b/3a inhibitors|Abciximab|Antiplatelet|
-||Eptifibatide|Antiplatelet|
-||Tirofiban|Antiplatelet|
-|ADP antagonists|Clopidogrel|Antiplatelet|
-||Prasugrel|Antiplatelet|
-||Ticagrelor|Antiplatelet|
-||Ticlopidine|Antiplatelet|
-|PDE inhibitors|Dipyridamole|Antiplatelet|
-||Cilostazol|Antiplatelet|
-|COX inhibitors|NSAIDs|Antiplatelet|
+|Anticoagulants|Targets|
+|-|-|
+|VKOR inhibitors|Factor 2 & **7** & 9 & 10 & **Protein C/S**|
+|Antithrombin|Factor **2** & 7 & 9 & **10** & 11 & 12|
+|Plasmin|Factor 1|
+|Protein C/S|Factor 5 & 8|
 
 ## Heparin Variants
 
@@ -287,12 +293,6 @@
 |Monitor|PTT|-|
 |Side Effect|HIT & Osteoporosis|-|
 |Antidote|Protamine sulfate|-|
-
-## Treatment of Polycythemia
-
-- Phlebotomy
-- Antiplatelets :: Aspirin
-- Cytoreductive agents :: Hydroxyurea & Interferon & Busulfan
 
 ## Treatment of Thrombotic Thrombocytopenic Purpura (TTP)
 
