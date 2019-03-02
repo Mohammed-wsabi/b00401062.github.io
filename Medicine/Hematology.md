@@ -143,7 +143,12 @@
 
 |Tumors|Mutations|
 |-|-|
-|Acute lymphocytic leukemia (ALL)|t(12;21) → TEL/AML1|
+|Acute lymphocytic leukemia (ALL)|t(12;21) → ETV6/RUNX1|
+||t(1;19) → TCF3/PBX1|
+||t(9;22) → BCR/ABL1|
+||t(4;11) → MLL/AF4|
+||Hyperdiploidy: > 50|
+||Hypodiploidy: < 44|
 |Chronic lymphocytic leukemia (CLL)|-|-|
 |Hairy cell leukemia|-|-|
 
@@ -159,7 +164,7 @@
 |Tumors|Mutations|
 |-|-|
 |Hodgkin lymphoma|-|
-|Burkitt lymphoma|t(8;14) → C-MYC|
+|Burkitt lymphoma|t(8;14) → C-MYC/IGH|
 |Diffuse large B-cell lymphoma (DLBCL)|-|
 |Marginal zone lymphoma & MALT lymphoma|-|
 |Mantle cell lymphoma|t(11;14) → Cyclin D (CCND)|
