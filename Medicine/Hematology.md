@@ -191,6 +191,7 @@
 
 ## Workup of Leukemia
 
+- Peripheral blood smear
 - Bone marrow aspiration & biopsy
 - Cytogenetics w/ karyotyping / fluorescence in situ hybridization (FISH)
 - Cytochemistry
