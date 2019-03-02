@@ -98,16 +98,6 @@
 
 ![](../Figures/Heme%20Synthesis%20and%20Diseases.png)
 
-## Associations with Lead Poisoning {LEAD}
-
-- Lead [Burton] line
-- Encephalopathy
-- Erythrocyte basophilic stippling
-- Abdominal colic
-- Anemia :: sideroblastic anemia
-- Drops :: wrist & foot drop
-- Dimercaprol & EDTA & Succimer & Penicillamine
-
 ## Presentation of Acute Intermittent Porphyria (AIP) {5P}
 
 - Pain :: abdomen
