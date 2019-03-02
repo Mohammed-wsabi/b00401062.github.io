@@ -143,7 +143,7 @@
 
 |Tumors|Mutations|
 |-|-|
-|Acute lymphoblastic leukemia (ALL)|t(12;21) → TEL/AML1|
+|Acute lymphocytic leukemia (ALL)|t(12;21) → TEL/AML1|
 |Chronic lymphocytic leukemia (CLL)|-|-|
 |Hairy cell leukemia|-|-|
 
