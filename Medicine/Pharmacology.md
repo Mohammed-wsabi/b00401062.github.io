@@ -491,9 +491,9 @@
 |Streptomycin|↑ DNA intercalation|DNA|Mycobacterium|
 |Anthracyclines [Rubicins]|↑ DNA intercalation|DNA|Human|
 |Bleomycin|↑ DNA intercalation|DNA|Human|
-|Nitrosourea|↑ DNA crosslinking|DNA|Human|
 |Busulfan|↑ DNA crosslinking|DNA|Human|
 |Cyclophosphamide|↑ DNA crosslinking|DNA|Human|
+|Nitrosourea|↑ DNA crosslinking|DNA|Human|
 |Platinums [Platins]|↑ DNA crosslinking|DNA|Human|
 
 ### RNA Inhibitors
