@@ -425,9 +425,9 @@
 |Cell membrane inhibitors|Ergosterol|Fungus|
 ||Cholesterol|Human|
 |Metabolite inhibitors|Purine & Pyrimidine & Folate|-|
-|Microtubule inhibitors|Microtubule|-|
 |DNA inhibitors|DNA|-|
 |RNA inhibitors|RNA|-|
+|Microtubule inhibitors|Microtubule|-|
 |Protein inhibitors|Ribosome|-|
 
 ### Cell Wall Inhibitors
@@ -460,17 +460,49 @@
 |-|-|-|-|
 |Ribavirin|↓ Purine synthesis|IMP dehydrogenase|Virus|
 |Mycophenolate|↓ Purine synthesis|IMP dehydrogenase|Human|
-|Azathioprine|↓ Purine synthesis|-|Human|
-|Mercaptopurine (6-MP)|↓ Purine synthesis|-|Human|
-|Thioguanine (6-TG)|↓ Purine synthesis|-|Human|
+|Thiopurines|↓ Purine synthesis|-|Human|
 |Leflunomide|↓ Pyrimidine synthesis|Dihydroorotate dehydrogenase|Human|
 |Flucytosine|↓ Pyrimidine synthesis|Thymidylate synthase|Fungus|
-|Fluorouracil (5-FU)|↓ Pyrimidine synthesis|Thymidylate synthase|Human|
+|Fluorouracil|↓ Pyrimidine synthesis|Thymidylate synthase|Human|
 |Hydroxyurea|↓ Purine & Pyrimidine synthesis|Ribonucleotide reductase|Human|
 |Sulfonamide|↓ Folate synthesis|Dihydropteroate synthase|Bacterium|
 |Trimethoprim|↓ Folate synthesis|Dihydrofolate reductase|Bacterium|
 |Pyrimethamine|↓ Folate synthesis|Dihydrofolate reductase|Protozoa|
 |Methotrexate|↓ Folate synthesis|Dihydrofolate reductase|Human|
+
+### DNA Inhibitors
+
+|Medication|Mechanism|Targets|Species|
+|-|-|-|-|
+|NRTI|↓ DNA synthesis|Reverse transcriptase|Virus|
+|NNRTI|↓ DNA synthesis|Reverse transcriptase|Virus|
+|Acyclovir|↓ DNA synthesis|DNA polymerase|Virus|
+|Famciclovir|↓ DNA synthesis|DNA polymerase|Virus|
+|Ganciclovir|↓ DNA synthesis|DNA polymerase|Virus|
+|Cidofovir|↓ DNA synthesis|DNA polymerase|Virus|
+|Foscarnet|↓ DNA synthesis|DNA polymerase|Virus|
+|Cytarabine|↓ DNA synthesis|DNA polymerase|Human|
+|Fluoroquinolone|↓ DNA synthesis|Topoisomerase|Bacterium|
+|Camptothecins [Tecans]|↓ DNA synthesis|Topoisomerase 1|Human|
+|Podophyllotoxins [Posides]|↓ DNA synthesis|Topoisomerase 2|Human|
+|Azacitidine|↓ DNA methylation|DNA methyltransferase|Human|
+|Decitabine|↓ DNA methylation|DNA methyltransferase|Human|
+|Metronidazole|↑ DNA intercalation|DNA|Bacterium|
+|Streptomycin|↑ DNA intercalation|DNA|Mycobacterium|
+|Anthracyclines [Rubicins]|↑ DNA intercalation|DNA|Human|
+|Bleomycin|↑ DNA intercalation|DNA|Human|
+|Nitrosourea|↑ DNA crosslinking|DNA|Human|
+|Busulfan|↑ DNA crosslinking|DNA|Human|
+|Cyclophosphamide|↑ DNA crosslinking|DNA|Human|
+|Platinums [Platins]|↑ DNA crosslinking|DNA|Human|
+
+### RNA Inhibitors
+
+|Medication|Mechanism|Targets|Species|
+|-|-|-|-|
+|Rifampin|↓ RNA synthesis|RNA polymerase|Mycobacterium|
+|Dactinomycin|↓ RNA synthesis|RNA polymerase|Human|
+|α-Amanitin|↓ RNA synthesis|RNA polymerase|Human|
 
 ### Microtubule Inhibitors
 
@@ -481,37 +513,6 @@
 |Colchicine|↓ Microtubule assembly|Microtubule|Human|
 |Vinca alkaloids|↓ Microtubule assembly|Microtubule|Human|
 |Taxanes [Taxels]|↓ Microtubule disassembly|Microtubule|Human|
-
-### DNA Inhibitors
-
-|Medication|Mechanism|Targets|Species|
-|-|-|-|-|
-|Fluoroquinolone|↓ DNA synthesis|Topoisomerase|Bacterium|
-|Camptothecins [Tecans]|↓ DNA synthesis|Topoisomerase 1|Human|
-|Podophyllotoxins [Posides]|↓ DNA synthesis|Topoisomerase 2|Human|
-|Cytarabine|↓ DNA synthesis|DNA polymerase|Human|
-|Acyclovir|↓ DNA synthesis|DNA polymerase|Virus|
-|Famciclovir|↓ DNA synthesis|DNA polymerase|Virus|
-|Ganciclovir|↓ DNA synthesis|DNA polymerase|Virus|
-|Cidofovir|↓ DNA synthesis|DNA polymerase|Virus|
-|Foscarnet|↓ DNA synthesis|DNA polymerase|Virus|
-|NRTI & NNRTI|↓ DNA synthesis|Reverse transcriptase|Virus|
-|Metronidazole|↑ DNA intercalation|DNA|Bacterium|
-|Streptomycin|↑ DNA intercalation|DNA|Mycobacterium|
-|Bleomycin|↑ DNA intercalation|DNA|Human|
-|Anthracyclines [Rubicins]|↑ DNA intercalation|DNA|Human|
-|Nitrosourea|↑ DNA crosslinking|DNA|Human|
-|Busulfan|↑ DNA crosslinking|DNA|Human|
-|Cyclophosphamide|↑ DNA crosslinking|DNA|Human|
-|Platinums|↑ DNA crosslinking|DNA|Human|
-
-### RNA Inhibitors
-
-|Medication|Mechanism|Targets|Species|
-|-|-|-|-|
-|Rifampin|↓ RNA synthesis|RNA polymerase|Mycobacterium|
-|Dactinomycin|↓ RNA synthesis|RNA polymerase|Human|
-|α-Amanitin|↓ RNA synthesis|RNA polymerase|Human|
 
 ### Protein Inhibitors
 
