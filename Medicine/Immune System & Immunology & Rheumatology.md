@@ -108,9 +108,9 @@
 |Humoral :: innate|Basophil|-|-|-|
 ||Eosinophil|-|-|-|
 
-## T Cell and B Cell Activation
+## Structure of MHC
 
-![](../Figures/T%20Cell%20and%20B%20Cell%20Activation.png)
+![](../Figures/Structure%20of%20Lymphocyte%20Receptors.png)
 
 ## Structure of Lymphocyte Receptors
 
@@ -120,6 +120,10 @@
 
 ![](../Figures/T%20Cell%20Development.png)
 ![](../Figures/B%20Cell%20Development.png)
+
+## Activation of Lymphocytes
+
+![](../Figures/T%20Cell%20and%20B%20Cell%20Activation.png)
 
 ## Immunoglobulins {MDGEA}
 
