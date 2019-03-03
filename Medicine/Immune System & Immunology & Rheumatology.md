@@ -112,12 +112,11 @@
 
 ![](../Figures/T%20Cell%20and%20B%20Cell%20Activation.png)
 
-## Structure of Lymphocyte Receptors & Immunoglobulin
+## Structure of Lymphocyte Receptors
 
 ![](../Figures/Structure%20of%20Lymphocyte%20Receptors.png)
-![](../Figures/Structure%20of%20Immunoglobulin.png)
 
-## T Cell Development & B Cell Development
+## Development of Lymphocytes
 
 ![](../Figures/T%20Cell%20Development.png)
 ![](../Figures/B%20Cell%20Development.png)
