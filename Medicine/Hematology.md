@@ -185,8 +185,29 @@
 - Anemia
 - Amyloidosis :: primary
 - Back pain
-- Bone lytic lesions
+- Bone lesions
 - Bence-Jones protein
+
+## Approach to Multiple Myeloma
+
+- Protein electrophoresis
+- Bone marrow biopsy
+- Skeletal survey
+
+## Diagnosis of Multiple Myeloma
+
+- Histology of bone marrow &/ tumors
+	- Clonal bone marrow plasma cells > 10%
+	- Plasmacytoma
+- Evidence of end-organ damages {CRAB}
+	- Hypercalcemia
+	- Renal failure
+	- Anemia
+	- Bone lesions
+- Evidence of inevitable end-organ damages
+	- Free light chain (FLC) ratio > 100
+	- Clonal bone marrow plasma cell > 60%
+	- Bone lesions on MRI > 1
 
 ## Presentation of Hemophagocytic Lymphohisticytosis (HLH)
 
