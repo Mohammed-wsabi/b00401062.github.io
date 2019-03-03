@@ -110,7 +110,7 @@
 
 ## Structure of MHC
 
-![](../Figures/Structure%20of%20Lymphocyte%20Receptors.png)
+![](../Figures/Structure%20of%20Lymphocyte%20MHC.png)
 
 ## Structure of Lymphocyte Receptors
 
