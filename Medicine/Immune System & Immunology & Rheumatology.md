@@ -123,7 +123,7 @@
 
 ## Activation of Lymphocytes
 
-![](../Figures/T%20Cell%20and%20B%20Cell%20Activation.png)
+![](../Figures/Activation%20of%20Lymphocytes.png)
 
 ## Immunoglobulins {MDGEA}
 
