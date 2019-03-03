@@ -223,7 +223,7 @@
 ## Workup of Leukemia
 
 - Peripheral blood smear
-- Bone marrow aspiration & biopsy
+- Bone marrow aspirate & biopsy
 - Karyotyping
 - Genotyping
 - Cytochemistry
