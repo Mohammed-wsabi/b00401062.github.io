@@ -681,9 +681,9 @@
 
 ## Diagnosis of Urinary Tract Infection (UTI)
 
-- > 10<sup>5</sup> CFU/mL in voided urine
-- > 5 × 10<sup>4</sup> CFU/mL in catheterized urine
-- > 10<sup>4</sup> CFU/mL in suprapubic aspirate
+- Voided urine > 10<sup>5</sup> CFU/mL
+- Catheterized urine > 5 × 10<sup>4</sup> CFU/mL
+- Suprapubic aspirate > 10<sup>4</sup> CFU/mL
 
 ## Pathogens of Genital Tract Infection
 
