@@ -679,6 +679,12 @@
 - Proteus mirabilis
 - Candida
 
+## Diagnosis of Urinary Tract Infection (UTI)
+
+- > 10<sup>5</sup> CFU/mL in voided urine
+- > 5 × 10<sup>4</sup> CFU/mL in catheterized urine
+- > 10<sup>4</sup> CFU/mL in suprapubic aspirate
+
 ## Pathogens of Genital Tract Infection
 
 |Pathogen|Presentation|Treatment|
