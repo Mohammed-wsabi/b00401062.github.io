@@ -645,6 +645,17 @@
 - Eikenella
 - Kingella
 
+## Presentation of Infective Endocarditis {FROM-JANE}
+
+- Fever
+- Roth spots
+- Osler nodes
+- Murmur
+- Janeway lesions
+- Anemia
+- Nail-bed hemorrhage
+- Emboli
+
 ## Pathogens of Biliary Tract Infection (BTI)
 
 - Enterococcus
