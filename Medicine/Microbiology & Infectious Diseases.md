@@ -628,7 +628,7 @@
 - Chlamydia
 - RSV
 
-## Pathogens of Endocarditis
+## Pathogens of Infective Endocarditis
 
 - Staphylococcus aureus
 - Staphylococcus epidermidis
@@ -636,6 +636,14 @@
 - Enterococcus
 - Pseudomonas aeruginosa
 - Candida
+
+## Pathogens of Culture-Negative Infective Endocarditis {HACEK}
+
+- Haemophilus parainfluenzae
+- Actinobacillus
+- Cardiobacterium
+- Eikenella
+- Kingella
 
 ## Pathogens of Biliary Tract Infection (BTI)
 
