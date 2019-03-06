@@ -377,8 +377,6 @@
 - Plasma osmolality :: hypertonic
 	- **Hyperglycemia**
 
-## Workup of Hypernatremia
-
 ## Treatment of Hyperkalemia
 
 - Insulin & Glucose
