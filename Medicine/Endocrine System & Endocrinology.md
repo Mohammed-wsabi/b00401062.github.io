@@ -196,6 +196,13 @@
 - CNS disorders
 - Pulmonary diseases :: Tuberculosis & Pneumonia
 
+## Treatment of Syndrome of Inappropriate Secretion of ADH (SIADH)
+
+- Fluid restriction
+- Fluids :: Hypertonic saline
+- V<sub>2</sub> antagonists: Vaptans
+- Nephrogenic DI-inducing drugs :: Lithium & Demeclocycline
+
 ## Presentation of Hypothyroidism {WAS-TIRED}
 
 - Weight gain
@@ -217,6 +224,15 @@
 - Intolerance to heat
 - Nervousness
 - Goiter
+
+## Treatment of Hyperthyroidism
+
+- Thyroid peroxidase inhibitors :: Propylthiouracil & Methimazole & Iodine [Lugol] solution
+- Deiodinase inhibitors :: Propylthiouracil
+- β antagonists :: Propranolol
+- Steroids
+- Radioiodine ablation
+- Surgery
 
 ## Presentation of Hyperparathyroidism
 
@@ -243,7 +259,6 @@
 |Normal|< 100 mg/dL|50-g 1-hour < 140 mg/dL|< 6.5%|
 |Gestational|< 125 mg/dL|50-g 1-hour > 140 mg/dL & 100-g 3-hour ≥ 2/4|-|
 |Overt|> 125 mg/dL|75-g 2-hour > 200 mg/dL|> 6.5%|
-
 
 ## Whipple Triad of Insulinoma
 
@@ -302,19 +317,3 @@
 |GH antagonists|Pegvisomant|Acromegaly|
 |D<sub>2</sub> agonists|Bromocriptine|Acromegaly|
 ||Cabergoline|Acromegaly|
-
-## Treatment of Syndrome of Inappropriate Secretion of ADH (SIADH)
-
-- Fluid restriction
-- Fluids :: Hypertonic saline
-- V<sub>2</sub> antagonists: Vaptans
-- Nephrogenic DI-inducing drugs :: Lithium & Demeclocycline
-
-## Treatment of Hyperthyroidism
-
-- Thyroid peroxidase inhibitors :: Propylthiouracil & Methimazole & Iodine [Lugol] solution
-- Deiodinase inhibitors :: Propylthiouracil
-- β antagonists :: Propranolol
-- Steroids
-- Radioiodine ablation
-- Surgery
