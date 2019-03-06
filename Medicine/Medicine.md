@@ -377,6 +377,17 @@
 - Plasma osmolality :: hypertonic
 	- **Hyperglycemia**
 
+## Workup of Hypernatremia
+
+## Treatment of Hyperkalemia
+
+- Insulin & Glucose
+- β agonists :: Albuterol
+- Bicarbonate
+- Calcium
+- Polystyrene sulfonate: Kalimate / Kayexalate
+- Diuretics :: Loop diuretics
+
 ## Etiology of Hypercalcemia {CHIMPANZEES}
 
 - Calcium supplementation
@@ -390,12 +401,3 @@
 - Excess vitamin A
 - Excess vitamin D
 - Sarcoidosis
-
-## Treatment of Hyperkalemia
-
-- Insulin & Glucose
-- β agonists :: Albuterol
-- Bicarbonate
-- Calcium
-- Polystyrene sulfonate: Kalimate / Kayexalate
-- Diuretics :: Loop diuretics
