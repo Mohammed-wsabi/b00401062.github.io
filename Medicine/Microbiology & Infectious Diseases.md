@@ -1145,7 +1145,14 @@
 
 ![](../Figures/Mechanisms%20of%20Action%20of%20Antivirals.png)
 
-### Highly Active Antiretroviral Therapy (HAART) for HIV Infection
+## Highly Active Antiretroviral Therapy (HAART) for HIV Infection
 
 - 2 NRTI
 - NNRTI / INSTI / PI
+
+## Urgent Indications of Highly Active Antiretroviral Therapy (HAART)
+
+- CD4 < 200/mm<sup>3</sup>
+- Acute HIV infection
+- AIDS-defining illnesses
+- Pregnancy
