@@ -436,11 +436,12 @@
 - Diuretics
 - Vasodilators
 
-## Treatment of Peripheral Artery Disease
+## Treatment of Peripheral Artery Disease (PAD)
 
 - PDE inhibitors :: Cilostazol
 - PGE1 agonists :: Alprostadil
 - Antiplatelets :: Aspirin & ADP antagonists
+- Revascularization :: percutaneous intervention & bypass grafting
 
 ## Vasculitis
 
