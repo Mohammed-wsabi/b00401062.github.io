@@ -417,14 +417,11 @@
 
 ## Treatment of Acute coronary syndrome (ACS) {MONA}
 
-|Mechanism|Medication|
-|-|-|
-|Antiplatelets|Aspirin / ADP antagonists|
-|Anticoagulants|Heparin|
-|β<sub>1</sub> antagonists|-|
-|Venodilators|Morphine|
-||NO donors|
-|-|Oxygen|
+- Antiplatelets :: Aspirin & ADP antagonists
+- Anticoagulants :: Heparin
+- β<sub>1</sub> antagonists
+- Venodilators :: Morphine & NO donors
+- Oxygen
 
 ## Beck Triad of Cardiac Tamponade
 
@@ -438,6 +435,12 @@
 - β<sub>1</sub> antagonists
 - Diuretics
 - Vasodilators
+
+## Treatment of Peripheral Artery Disease
+
+- PDE inhibitors :: Cilostazol
+- PGE1 agonists :: Alprostadil
+- Antiplatelets :: Aspirin & ADP antagonists
 
 ## Vasculitis
 
