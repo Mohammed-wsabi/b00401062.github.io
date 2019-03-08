@@ -242,24 +242,17 @@
 
 ### Decompensated {LMNOP}
 
-|Mechanism|Medication|
-|-|-|
-|Diuretics|Lasix|
-|Venodilators|Morphine|
-||NO donors|
-|-|Oxygen|
-|-|Position|
+- Diuretics :: Lasix
+- Venodilators :: Morphine & NO donors
+- Oxygen
+- Position
 
 ### Compensated {ABDV}
 
-|Mechanism|Medication|
-|-|-|
-|ACEI & ARB|-|
-|β<sub>1</sub> antagonists|Carvedilol|
-||Bisoprolol|
-||Metoprolol|
-|Diuretics|Spironolactone|
-|Vasodilators|NO donors|
+- ACEI & ARB
+- β<sub>1</sub> antagonists :: Carvedilol & Bisoprolol & Metoprolol
+- Diuretics :: Spironolactone
+- Vasodilators :: NO donors
 
 ## Etiology of Dilated Cardiomyopathy (DCMP) {ABCD}
 
@@ -441,12 +434,10 @@
 
 ## Treatment of Hypertension {ABDV}
 
-|Mechanism|Medication|
-|-|-|
-|ACEI & ARB|-|
-|β<sub>1</sub> antagonists|-|
-|Diuretics|-|
-|Vasodilators|-|
+- ACEI & ARB
+- β<sub>1</sub> antagonists
+- Diuretics
+- Vasodilators
 
 ## Vasculitis
 
