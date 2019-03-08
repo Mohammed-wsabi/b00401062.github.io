@@ -399,3 +399,12 @@
 - Excess vitamin A
 - Excess vitamin D
 - Sarcoidosis
+
+## Classification of Edema
+
+|Edema|Etiology|Pitting|
+|-|-|-|
+|Exudate|Inflammation|+|
+|Lymphedema|Lymphatic obstruction|-|
+|Transudate|Hydrostatic pressure|+|
+||Oncotic pressure|+|
