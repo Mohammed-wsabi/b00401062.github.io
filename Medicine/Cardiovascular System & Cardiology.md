@@ -34,7 +34,50 @@
 |3|K current|K current|
 |4|Funny current: Na & K current|Leak current: K current|
 
-## Effects of Adrenergic Agents on Cardiovascular System
+## Factors Influencing Stroke Volume {CAP}
+
+- Contractility
+- Afterload
+- Preload
+
+## Cardiac & Vascular Function Curves
+
+|Label|Examples|
+|-|-|
+|1|Catecholamines & Digoxin|
+|2|Heart failure & Narcotics|
+|3|Venopressors & Infusion|
+|4|Venodilators & Hemorrhage & Spinal anesthesia|
+|5|Vasopressors|
+|6|Vasodilators & AV shunt|
+
+![](../Figures/Cardiac%20and%20Vascular%20Function%20Curves.png)
+
+## Heart Sounds
+
+|Heart Sound|Synonym|Etiology|Pathology|Examples|
+|-|-|-|-|-|
+|S<sub>1</sub>|-|MV & TV closure|-|-|
+|S<sub>2</sub>|-|AV & PV closure|-|-|
+|S<sub>3</sub>|Ventricular gallop & Opening snap|MV & TV opening|Volume overload|HF & DCMP & MR & TR|
+|S<sub>4</sub>|Atrial gallop & Atrial kick|Atrial contration|Diastolic dysfunction|HF & HCMP|
+
+## Splitting
+
+|Type|Etiology|
+|-|-|
+|Normal|-|
+|Wide|Pulmonary stenosis & RBBB|
+|Fixed|ASD|
+|Paradoxical|Aortic stenosis & LBBB|
+
+## Virchow Triad for Thrombosis {SHE}
+
+- Stasis of blood flow
+- Hypercoagulability
+- Endothelial injury
+
+## Effects of Adrenergic Agents
 
 |Agent|CO|SVR|MAP|
 |-|-|-|-|
@@ -48,68 +91,47 @@
 |Epinephrine: β > α<sub>1</sub>|↑ (1°)|-|↑|
 |Isoproterenol: β|↑ (1°)|↓ (1°)|-|
 
-## Stroke Volume is Influenced by {CAP}
+## Mechanisms of Action of Venodilators
 
-- Contractility
-- Afterload
-- Preload
-
-## Cardiac and Vascular Function Curves
-
-|Label|Examples|
-|-|-|
-|1|Catecholamines & Digoxin|
-|2|Heart failure & Narcotics|
-|3|Venopressors & Infusion|
-|4|Venodilators & Hemorrhage & Spinal anesthesia|
-|5|Vasopressors|
-|6|Vasodilators & AV shunt|
-
-![](../Figures/Cardiac%20and%20Vascular%20Function%20Curves.png)
-
-## Splitting
-
-|Type|Etiology|
-|-|-|
-|Normal|-|
-|Wide|Pulmonary stenosis & RBBB|
-|Fixed|ASD|
-|Paradoxical|Aortic stenosis & LBBB|
-
-## Classification of Shocks
-
-|Shock|PCWP|CO|SVR|MAP|Treatment|
-|-|-|-|-|-|-|
-|Hypovolemic|↓ (1°)|↓|↑|↓|Fluids|
-|Cardiogenic|↑|↓ (1°)|↑|↓|Inotropes & Diuretics & Venodilators|
-|Distributive|-|↑|↓ (1°)|↓|Vasopressors|
-|Neurogenic|↓|↓ (1°)|↓ (1°)|↓|Vasopressors|
-
-## Classification of Hypovolemic Shock
-
-|Class|Loss|HR|BP|RR|Urine|
-|-|-|-|-|-|-|
-|I|< 15%|< 100|-|12 ~ 20|> 30 mL/h|
-|II|15 ~ 30%|100 ~ 120|-|20 ~ 30|20 ~ 30 mL/h|
-|III|30 ~ 40%|120 ~ 140|↓|30 ~ 40|5 ~ 15 mL/h|
-|IV|> 40%|> 140|↓|> 35|< 5 mL/h|
-
-## Classification & Etiology of Edema
-
-|Edema|Etiology|Pitting|
+|Mechanism|Medication|Indications|
 |-|-|-|
-|Exudate|Inflammation|+|
-|Lymphedema|Lymphatic obstruction|-|
-|Transudate|Hydrostatic pressure|+|
-||Oncotic pressure|+|
+|μ-opioid agonists|Morphine|Venodilation|
+|NO donors|Nitroglycerin & Isosorbide|Venodilation|
 
-## Virchow Triad {SHE}
+## Mechanisms of Action of Vasodilators
 
-- Stasis of blood flow
-- Hypercoagulability
-- Endothelial injury
+|Mechanism|Medication|Indications|
+|-|-|-|
+|α<sub>1</sub> antagonists & α<sub>2</sub> agonists|-|Vasodilation|
+|Ca channel blockers|Amlodipine & Nifedipine|Vasodilation|
+|K channel activators|Minoxidil & Diazoxide|Vasodilation|
+|NO donors|Nitroprusside & Hydralazine|Vasodilation|
+|PDE inhibitors|Dipyridamole & Cilostazol|Vasodilation|
 
-## Physical Examination Findings
+## Mechanisms of Action of Inotropes
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|β<sub>1</sub> agonists|Dopamine: D > β<sub>1</sub> > α<sub>1</sub>|Inotrope|
+||Dobutamine: β<sub>1</sub> > β<sub>2</sub>|Inotrope|
+||Norepinephrine: α<sub>1</sub> > β<sub>1</sub>|Inotrope|
+||Epinephrine: β > α<sub>1</sub>|Inotrope|
+||Isoproterenol: β|Inotrope|
+|PDE inhibitors|Inamrinone & Milrinone|Inotrope|
+|Na-K pump blockers|Digoxin & Digitalis|Inotrope|
+
+## Inotropic Equivalent (IE)
+
+|Inotrope|Equivalent|
+|-|-|
+|Dopamine|1|
+|Dobutamine|1|
+|Milrinone|15|
+|Norepinephrine|100|
+|Epinephrine|100|
+|Isoproterenol|100|
+
+## Physical Examination for Cardiovascular System
 
 |Finding|Indications|
 |-|-|
@@ -131,18 +153,22 @@
 |5|+|Partially off|
 |6|+|Completely off|
 
+## ECG Localization
+
+|Infarct Location|Artery|Leads|
+|-|-|-|
+|Septal|LAD|V1 & V2|
+|Anterior|LAD|V3 & V4|
+|Apical|LAD / LCX / RCA|V5 & V6|
+|Lateral|LCX|I & aVL|
+|Inferior|RCA & LCX|II & III & aVF|
+|Posterior|RCA / LCX|V1 & V2 & V3|
+
+![](../Figures/ECG%20Localization.png)
+
 ## Heart Echo Positions and Views
 
 ![](../Figures/Heart%20Echo%20Positions%20and%20Views.png)
-
-## Heart Sounds
-
-|Heart Sound|Synonym|Etiology|Pathology|Examples|
-|-|-|-|-|-|
-|S<sub>1</sub>|-|MV & TV closure|-|-|
-|S<sub>2</sub>|-|AV & PV closure|-|-|
-|S<sub>3</sub>|Ventricular gallop & Opening snap|MV & TV opening|Volume overload|HF & DCMP & MR & TR|
-|S<sub>4</sub>|Atrial gallop & Atrial kick|Atrial contration|Diastolic dysfunction|HF & HCMP|
 
 ## Cyanotic Congenital Heart Defects (CHD) {5T-HE}
 
@@ -173,7 +199,25 @@
 
 ![](../Figures/Ventricular%20Septal%20Defects%20(VSD).png)
 
-## Heart Failure
+## Classification of Shocks
+
+|Shock|PCWP|CO|SVR|MAP|Treatment|
+|-|-|-|-|-|-|
+|Hypovolemic|↓ (1°)|↓|↑|↓|Fluids|
+|Cardiogenic|↑|↓ (1°)|↑|↓|Inotropes & Diuretics & Venodilators|
+|Distributive|-|↑|↓ (1°)|↓|Vasopressors|
+|Neurogenic|↓|↓ (1°)|↓ (1°)|↓|Vasopressors|
+
+## Classification of Hypovolemic Shock
+
+|Class|Loss|HR|BP|RR|Urine|
+|-|-|-|-|-|-|
+|I|< 15%|< 100|-|12 ~ 20|> 30 mL/h|
+|II|15 ~ 30%|100 ~ 120|-|20 ~ 30|20 ~ 30 mL/h|
+|III|30 ~ 40%|120 ~ 140|↓|30 ~ 40|5 ~ 15 mL/h|
+|IV|> 40%|> 140|↓|> 35|< 5 mL/h|
+
+## Classification of Heart Failure
 
 ||HFrEF|HFpEF|
 |-|-|-|
@@ -193,6 +237,29 @@
 ### ACC/AHA Stages of Heart Failure
 
 ![](../Figures/ACC-AHA%20Stages%20of%20Heart%20Failure.png)
+
+## Treatment of Heart failure (HF)
+
+### Decompensated {LMNOP}
+
+|Mechanism|Medication|
+|-|-|
+|Diuretics|Lasix|
+|Venodilators|Morphine|
+||NO donors|
+|-|Oxygen|
+|-|Position|
+
+### Compensated {ABDV}
+
+|Mechanism|Medication|
+|-|-|
+|ACEI & ARB|-|
+|β<sub>1</sub> antagonists|Carvedilol|
+||Bisoprolol|
+||Metoprolol|
+|Diuretics|Spironolactone|
+|Vasodilators|NO donors|
 
 ## Etiology of Dilated Cardiomyopathy (DCMP) {ABCD}
 
@@ -223,7 +290,7 @@
 |Conduction|Conduction delay|
 ||Reentry|
 
-## Types of Arrhythmias
+## Classification of Arrhythmias
 
 ### Sinus Arrhythmias
 
@@ -261,7 +328,7 @@
 - Acute myocardial infraction
 - Multiform PVC
 
-## ECG & Antiarrhythmics
+## Correlation of ECG & Antiarrhythmics
 
 |ECG|Heart|Phase|Ion Channel|Antiarrhythmics|
 |-|-|-|-|-|
@@ -269,6 +336,68 @@
 |PR interval|AV node|0|Ca|Class 2 & 4|
 |QRS complex|Ventricle|0|Na|Class 1|
 |QT interval|Ventricle|2 & 3|K|Class 1 & 3|
+
+## Mechanisms of Action of Antiarrhythmics
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|Class 1A: Na channel blockers|Quinidine|Arrhythmia|
+||Procainamide|Arrhythmia|
+||Disopyramide|Arrhythmia|
+|Class 1B: Na channel blockers|Lidocaine|Arrhythmia|
+||Mexiletine|Arrhythmia|
+|Class 1C: Na channel blockers|Flecainide|Arrhythmia|
+||Propafenone|Arrhythmia|
+|Class 2: β antagonists|-|Arrhythmia|
+|Class 3: K channel blockers|Amiodarone|Arrhythmia|
+||Ibutilide|Arrhythmia|
+||Dofetilide|Arrhythmia|
+||Sotalol|Arrhythmia|
+|Class 4: Ca channel blockers|Verapamil|Arrhythmia|
+||Diltiazem|Arrhythmia|
+|Miscellaneous|Digoxin & Digitalis|Arrhythmia|
+||Adenosine|Arrhythmia|
+||Magnesium|Arrhythmia|
+
+## Risk of Stroke from Atrial Fibrillation
+
+### CHADS<sub>2</sub> Score
+
+- Congestive heart failure (CHF)
+- Hypertension
+- Age :: ≥ 75
+- Diabetes mellitus
+- Stroke & other cerebral vascular accidents (CVA)
+
+### CHA<sub>2</sub>DS<sub>2</sub>-VASc Score
+
+- Congestive heart failure (CHF)
+- Hypertension
+- Age :: ≥ 75
+- Diabetes mellitus
+- Stroke & other cerebral vascular accidents (CVA)
+- Vascular disease
+- Age :: 65 ~ 75
+- Sex :: female
+
+## Treatment of Atrial Fibrillation
+
+- Cardioversion
+- Antiarrhythmics :: Class 2 & 4
+- Anticoagulants
+
+## Etiology of ST Segment Elevation
+
+- Acute myocardial infarction
+- Acute myocarditis
+- Acute pericarditis
+- Apical ballooning syndrome
+- Brugada syndrome
+- Hyperkalemia
+- Hypothermia
+- J point elevation
+- Pulmonary embolism
+- Variant angina
 
 ## Pathogenesis & Presentation of Acute Coronary Syndrome (ACS)
 
@@ -293,33 +422,16 @@
 |> 14 days|Contracted scar|Aneurysm|
 ||-|Dressler syndrome|
 
-## ECG Localization of STEMI
+## Treatment of Acute coronary syndrome (ACS) {MONA}
 
-|Infarct Location|Artery|Leads with STE or PQW|
-|-|-|-|
-|Septal|LAD|V1 & V2|
-|Anterior|LAD|V3 & V4|
-|Apical|LAD / LCX / RCA|V5 & V6|
-|Lateral|LCX|I & aVL|
-|Inferior|RCA & LCX|II & III & aVF|
-|Posterior|RCA / LCX|V1 & V2 & V3|
-
-## ECG Localization of STEMI
-
-![](../Figures/ECG%20Localization%20of%20STEMI.png)
-
-## Etiology of ST Segment Elevation
-
-- Acute myocardial infarction
-- Acute myocarditis
-- Acute pericarditis
-- Apical ballooning syndrome
-- Brugada syndrome
-- Hyperkalemia
-- Hypothermia
-- J point elevation
-- Pulmonary embolism
-- Variant angina
+|Mechanism|Medication|
+|-|-|
+|Antiplatelets|Aspirin / ADP antagonists|
+|Anticoagulants|Heparin|
+|β<sub>1</sub> antagonists|-|
+|Venodilators|Morphine|
+||NO donors|
+|-|Oxygen|
 
 ## Beck Triad of Cardiac Tamponade
 
@@ -327,16 +439,14 @@
 - Jugular vein distension (JVD) & Kussmaul sign
 - Distant heart sound
 
-## Presentation of Bacterial Endocarditis {FROM-JANE}
+## Treatment of Hypertension {ABDV}
 
-- Fever
-- Roth spots
-- Osler nodes
-- Murmur
-- Janeway lesions
-- Anemia
-- Nail-bed splinter hemorrhage
-- Emboli
+|Mechanism|Medication|
+|-|-|
+|ACEI & ARB|-|
+|β<sub>1</sub> antagonists|-|
+|Diuretics|-|
+|Vasodilators|-|
 
 ## Vasculitis
 
@@ -349,125 +459,3 @@
 - Adenopathy of neck
 - Rashes :: desquamating
 - Edema of limbs
-
-## Risk of Stroke from Atrial Fibrillation
-
-### CHADS<sub>2</sub> Score
-
-- Congestive heart failure (CHF)
-- Hypertension
-- Age :: ≥ 75
-- Diabetes mellitus
-- Stroke & other cerebral vascular accidents (CVA)
-
-### CHA<sub>2</sub>DS<sub>2</sub>-VASc Score
-
-- Congestive heart failure (CHF)
-- Hypertension
-- Age :: ≥ 75
-- Diabetes mellitus
-- Stroke & other cerebral vascular accidents (CVA)
-- Vascular disease
-- Age :: 65 ~ 75
-- Sex :: female
-
-## Mechanisms of Action of Medications for Cardiovascular Diseases
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|μ-opioid agonists|Morphine|Venodilation|
-|NO donors|Nitroglycerin & Isosorbide|Venodilation|
-|β<sub>1</sub> agonists|Dopamine: D > β<sub>1</sub> > α<sub>1</sub>|Inotrope|
-||Dobutamine: β<sub>1</sub> > β<sub>2</sub>|Inotrope|
-||Norepinephrine: α<sub>1</sub> > β<sub>1</sub>|Inotrope|
-||Epinephrine: β > α<sub>1</sub>|Inotrope|
-||Isoproterenol: β|Inotrope|
-|PDE inhibitors|Inamrinone & Milrinone|Inotrope|
-|Na-K pump blockers|Digoxin & Digitalis|Inotrope|
-|α<sub>1</sub> antagonists & α<sub>2</sub> agonists|-|Vasodilation|
-|Ca channel blockers|Amlodipine & Nifedipine|Vasodilation|
-|K channel activators|Minoxidil & Diazoxide|Vasodilation|
-|NO donors|Nitroprusside & Hydralazine|Vasodilation|
-|PDE inhibitors|Dipyridamole & Cilostazol|Vasodilation|
-
-## Combination of Medications for Cardiovascular Diseases
-
-### Acute coronary syndrome (ACS) {MONA}
-
-|Mechanism|Medication|
-|-|-|
-|Antiplatelets|Aspirin / ADP antagonists|
-|Anticoagulants|Heparin|
-|β<sub>1</sub> antagonists|-|
-|Venodilators|Morphine|
-||NO donors|
-|-|Oxygen|
-
-### Heart failure (HF) :: Decompensated {LMNOP}
-
-|Mechanism|Medication|
-|-|-|
-|Diuretics|Lasix|
-|Venodilators|Morphine|
-||NO donors|
-|-|Oxygen|
-|-|Position|
-
-### Heart failure (HF) :: Compensated {ABDV}
-
-|Mechanism|Medication|
-|-|-|
-|ACEI & ARB|-|
-|β<sub>1</sub> antagonists|Carvedilol|
-||Bisoprolol|
-||Metoprolol|
-|Diuretics|Spironolactone|
-|Vasodilators|NO donors|
-
-### Hypertension {ABDV}
-
-|Mechanism|Medication|
-|-|-|
-|ACEI & ARB|-|
-|β<sub>1</sub> antagonists|-|
-|Diuretics|-|
-|Vasodilators|-|
-
-## Mechanisms of Action of Antiarrhythmics
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|Class 1A: Na channel blockers|Quinidine|Arrhythmia|
-||Procainamide|Arrhythmia|
-||Disopyramide|Arrhythmia|
-|Class 1B: Na channel blockers|Lidocaine|Arrhythmia|
-||Mexiletine|Arrhythmia|
-|Class 1C: Na channel blockers|Flecainide|Arrhythmia|
-||Propafenone|Arrhythmia|
-|Class 2: β antagonists|-|Arrhythmia|
-|Class 3: K channel blockers|Amiodarone|Arrhythmia|
-||Ibutilide|Arrhythmia|
-||Dofetilide|Arrhythmia|
-||Sotalol|Arrhythmia|
-|Class 4: Ca channel blockers|Verapamil|Arrhythmia|
-||Diltiazem|Arrhythmia|
-|Miscellaneous|Digoxin & Digitalis|Arrhythmia|
-||Adenosine|Arrhythmia|
-||Magnesium|Arrhythmia|
-
-## Inotropic Equivalent (IE)
-
-|Inotrope|Equivalent|
-|-|-|
-|Dopamine|1|
-|Dobutamine|1|
-|Milrinone|15|
-|Norepinephrine|100|
-|Epinephrine|100|
-|Isoproterenol|100|
-
-## Treatment of Atrial Fibrillation
-
-- Cardioversion
-- Antiarrhythmics :: Class 2 & 4
-- Anticoagulants
