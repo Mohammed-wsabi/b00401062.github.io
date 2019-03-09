@@ -436,6 +436,11 @@
 - Diuretics
 - Vasodilators
 
+## Treatment of Hypertensive Emergency {ABDV}
+
+- β<sub>1</sub> antagonists :: Labetalol
+- Venodilators & Vasodilators :: NO donors & Ca channel blockers
+
 ## Treatment of Peripheral Artery Disease (PAD)
 
 - PDE inhibitors :: Cilostazol
