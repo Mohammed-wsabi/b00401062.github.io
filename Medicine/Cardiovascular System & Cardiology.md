@@ -34,7 +34,7 @@
 |3|K current|K current|
 |4|Funny current: Na & K current|Leak current: K current|
 
-## Factors Influencing Stroke Volume {CAP}
+## Factors Affecting Stroke Volume {CAP}
 
 - Contractility
 - Afterload
