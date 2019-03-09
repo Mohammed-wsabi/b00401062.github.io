@@ -53,6 +53,7 @@
 |-|-|
 |Chief cell|Pepsinogen|
 |D cell|Somatostatin|
+|EC cell|Serotonin|
 |ECL cell|Histamine|
 |G cell|Gastrin|
 |I cell|Cholecystokinin (CCK)|
