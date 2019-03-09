@@ -123,9 +123,9 @@
 |Diagnosis|HBsAg|Anti-HBs|Anti-HBc|
 |-|-|-|-|
 |Infection :: acute|+|-|IgM|
-|Infection :: chronic|+|-|IgG|
+|Infection :: chronic [Carrier]|+|-|IgG|
 |Window|-|-|IgM / IgG|
-|Carrier|-|+|IgG|
+|Recovery|-|+|IgG|
 |Vaccination|-|+|-|
 
 ![](../Figures/Serologic%20Testing%20for%20Hepatitis%20B.jpg)
