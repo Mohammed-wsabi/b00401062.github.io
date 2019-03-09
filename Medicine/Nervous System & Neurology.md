@@ -280,6 +280,10 @@
 |GABA|Glutamate|-|
 |Opioid|-|-|
 
+## Factors Affecting Cerebral Blood Flow
+
+![](../Figures/Factors%20Affecting%20Cerebral%20Blood%20Flow.jpg)
+
 ## Craniosynostosis
 
 |Type|Premature Suture|
