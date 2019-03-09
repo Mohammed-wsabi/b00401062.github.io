@@ -15,6 +15,7 @@
 ### Substrates {ATWO}
 
 - Anticonvulsants
+- Acetaminophen
 - Theophylline
 - Warfarin
 - OCP
