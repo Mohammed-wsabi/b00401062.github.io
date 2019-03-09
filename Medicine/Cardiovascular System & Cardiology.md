@@ -184,7 +184,7 @@
 |Eisenmenger syndrome of VSD|-|Non-differential|
 |Eisenmenger syndrome of PDA|-|Differential|
 
-## Tetralogy of Fallot (TOF) {PROV}
+## Presentation of Tetralogy of Fallot (TOF) {PROV}
 
 - Pulmonary stenosis
 - RV hypertrophy
@@ -217,7 +217,7 @@
 |III|30 ~ 40%|120 ~ 140|↓|30 ~ 40|5 ~ 15 mL/h|
 |IV|> 40%|> 140|↓|> 35|< 5 mL/h|
 
-## Classification of Heart Failure
+## Classification of Heart Failure (HF)
 
 ||HFrEF|HFpEF|
 |-|-|-|
@@ -228,13 +228,13 @@
 |Dysfunction|Systolic|Diastolic|
 |Etiology|ACS & DCMP|HCMP & RCMP|
 
-## Staging of Heart Failure
+## Staging of Heart Failure (HF)
 
-### NYHA Functional Classes
+### NYHA
 
 ![](../Figures/NYHA%20Functional%20Classes.png)
 
-### ACC/AHA Stages of Heart Failure
+### ACC/AHA
 
 ![](../Figures/ACC-AHA%20Stages%20of%20Heart%20Failure.png)
 
