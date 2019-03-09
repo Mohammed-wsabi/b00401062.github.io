@@ -128,6 +128,8 @@
 |Carrier|-|+|IgG|
 |Vaccination|-|+|-|
 
+![](../Figures/Serologic%20Testing%20for%20Hepatitis%20B.jpg)
+
 ## Charcot Triad of Cholangitis
 
 - Pain of RUQ
