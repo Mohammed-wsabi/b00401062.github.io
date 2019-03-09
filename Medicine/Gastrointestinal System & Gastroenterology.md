@@ -118,6 +118,19 @@
 ||Neonatal jaundice|Obstructive jaundice|-|
 ||Extravascular hemolysis|-|-|
 
+## Etiology of Hepatitis
+
+- Ischemic hepatitis
+- Congestive hepatopathy
+- Viral hepatitis
+- Malignant infiltration
+- Drug-induced liver injury (DILI)
+- α<sub>1</sub>-antitrypsin deficiency
+- Hemochromatosis
+- Wilson disease
+- Autoimmune hepatitis
+- Alcoholic hepatitis
+
 ## Serologic Testing for Hepatitis B
 
 |Diagnosis|HBsAg|Anti-HBs|Anti-HBc|
