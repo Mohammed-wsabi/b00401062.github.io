@@ -123,7 +123,8 @@
 |Diagnosis|HBsAg|Anti-HBs|Anti-HBc|
 |-|-|-|-|
 |Infection :: acute|+|-|IgM|
-|Infection :: chronic [Carrier]|+|-|IgG|
+|Infection :: chronic|+|-|IgG|
+|Carrier|+|-|IgG|
 |Window|-|-|IgM / IgG|
 |Recovery|-|+|IgG|
 |Vaccination|-|+|-|
