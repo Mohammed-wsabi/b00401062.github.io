@@ -118,6 +118,16 @@
 ||Neonatal jaundice|Obstructive jaundice|-|
 ||Extravascular hemolysis|-|-|
 
+## Serologic Testing for Hepatitis B
+
+|Diagnosis|HBsAg|Anti-HBs|Anti-HBc|
+|-|-|-|-|
+|Infection :: acute|+|-|IgM|
+|Infection :: chronic|+|-|IgG|
+|Window|-|-|IgM / IgG|
+|Carrier|-|+|IgG|
+|Vaccination|-|+|-|
+
 ## Charcot Triad of Cholangitis
 
 - Pain of RUQ
