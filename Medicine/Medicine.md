@@ -266,7 +266,7 @@
 - Pneumothorax
 - Equipment failure
 
-## Etiology of Altered Mental Status {AEIOU-TIPS}
+## Etiology of Altered Mental Status (AMS) {AEIOU-TIPS}
 
 - Acidosis
 - Electrolyte disturbances
