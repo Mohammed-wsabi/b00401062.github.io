@@ -48,7 +48,7 @@
 |Haemophilus|-|Chocolate|
 |Legionella|Silver|Charcoal yeast|
 
-### Gram-Negative Rods (GNR) :: Enteric {SEEK-P-SSPAY}
+### Gram-Negative Rods (GNR) :: Enteric {SEEK-PP-SSAY}
 
 |Bacteria|Stain|Culture|
 |-|-|-|
@@ -57,9 +57,9 @@
 |Enterobacter|-|MacConkey|
 |Klebsiella|-|MacConkey|
 |Pseudomonas|-|-|
+|Proteus|-|-|
 |Salmonella|-|-|
 |Shigella|-|-|
-|Proteus|-|-|
 |Acinetobacter|-|-|
 |Yersinia|-|-|
 
@@ -114,7 +114,7 @@
 |GAS :: Streptococcus pyogenes|Bacitracin|S|
 |GBS :: Streptococcus agalactiae|Bacitracin|R|
 
-## Classification of Enteric Gram Negative Rods {SEEK-P-SSPAY}
+## Classification of Enteric Gram Negative Rods {SEEK-PP-SSAY}
 
 |Bacteria|Lactose Fermentation|Oxidase|
 |-|-|-|
@@ -123,9 +123,9 @@
 |Enterobacter|+|-|
 |Klebsiella|+|-|
 |Pseudomonas|-|+|
+|Proteus|-|-|
 |Salmonella|-|-|
 |Shigella|-|-|
-|Proteus|-|-|
 |Acinetobacter|-|-|
 |Yersinia|-|-|
 
