@@ -146,7 +146,19 @@
 |Diabetic nephropathy|-|Nodular glomerulosclerosis|-|+|
 |Amyloid nephropathy|-|Nodular amyloidosis|-|+|
 
-## Etiology of Renal Papillary Necrosis {SAND}
+## Etiology of Acute Tubular Necrosis (ATN)
+
+- Ischemia
+- Drug-induced nephrotoxicity
+	- Analgesics :: NSAIDs
+	- Antibiotics :: Vancomycin & Aminoglycosides & Amphotericin B
+	- Antivirals :: DNA polymerase inhibitors
+	- Antineoplastics :: Platinums [-Platins]
+- Contrast media
+- Hematuria :: hemoglobinuria & myoglobinuria
+- Light chain deposition disease (LCDD)
+
+## Etiology of Renal Papillary Necrosis (RPN) {SAND}
 
 - Sickle cell nephropathy
 - Acute pyelonephritis
