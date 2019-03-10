@@ -77,7 +77,7 @@
 
 ## Presentation of Uremia
 
-- Altered mental status
+- Altered mental status (AMS)
 - Asterixis
 - Restlessness
 - Serositis
