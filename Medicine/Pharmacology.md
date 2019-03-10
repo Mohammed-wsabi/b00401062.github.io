@@ -415,7 +415,7 @@
 |Xanthine oxidase inhibitors|Allopurinol|Gout :: chronic|
 ||Febuxostat|Gout :: chronic|
 
-## Mechanisms of Action of Antimicrobial and Anticancer Medications
+## Mechanisms of Action of Antimicrobials and Antineoplastics
 
 |Mechanism|Targets|Species|
 |-|-|-|
