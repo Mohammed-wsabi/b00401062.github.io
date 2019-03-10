@@ -811,8 +811,8 @@
 |Staphylococcus aureus|Penicillinase-resistant penicillin|
 |MRSA|Ceftaroline & Vancomycin & Linezolid & Daptomycin|
 |Streptococcus pneumoniae|Penicillinase-sensitive penicillin & 3° Cephalosporins & Macrolides|
-|GAS :: Streptococcus pyogenes|Penicillin & Clindamycin|
-|GBS :: Streptococcus agalactiae|Penicillin & Clindamycin|
+|GAS :: Streptococcus pyogenes|Penicillinase-sensitive penicillin|
+|GBS :: Streptococcus agalactiae|Penicillinase-sensitive penicillin|
 |Enterococcus|Penicillinase-sensitive penicillin|
 |VRE|Linezolid & Daptomycin|
 |Bacillus anthracis|Carbapenems & Fluoroquinolones|
@@ -829,12 +829,12 @@
 |Bordetella pertussis|Macrolides|
 |Haemophilus influenzae|Penicillinase-sensitive penicillin & 2° Cephalosporins|
 |Legionella pneumophilia|Macrolides|
-|Pseudomonas aeruginosa|Anti-pseudomonal β-lactams & Anti-pseudomonal fluoroquinolones|
-|Acinetobacter baumannii|Anti-pseudomonal β-lactams|
-|MDRAB|Tigecycline & Polymyxin|
 |GNR :: enteric|Cefotetan & Fluoroquinolones & Trimethoprim & Sulfonamide|
 |ESBL|Carbapenems & Tigecycline & Polymyxin|
 |CRE|Tigecycline & Polymyxin|
+|Pseudomonas aeruginosa|Anti-pseudomonal β-lactams & Anti-pseudomonal fluoroquinolones|
+|Acinetobacter baumannii|Anti-pseudomonal β-lactams|
+|MDRAB|Tigecycline & Polymyxin|
 |Helicobacter pylori|Penicillinase-sensitive penicillin & Macrolides & Metronidazole|
 |Chlamydia|Tetracyclines & Macrolides|
 |Rickettsia|Tetracyclines & Macrolides|
