@@ -154,7 +154,7 @@
 	- Antibiotics :: Vancomycin & Aminoglycosides & Amphotericin B
 	- Antivirals :: DNA polymerase inhibitors
 	- Antineoplastics :: Platinums [-Platins]
-- Contrast media
+- Contrast-induced nephropathy
 - Hematuria :: hemoglobinuria & myoglobinuria
 - Light chain deposition disease (LCDD)
 
