@@ -164,8 +164,8 @@
 
 ## Renal Tubular Acidosis (RTA)
 
-|RTA|Serum K|Serum H|
-|-|-|-|
-|Proximal|↓|↑|
-|Distal|↓|↑|
-|Hyperkalemic|↑|↑|
+|Type|Synonym|Defect|Serum K|Serum H|
+|-|-|-|-|-|
+|1|Distal|H secretion|↓|↑|
+|2|Proximal]|HCO<sub>3</sub> reabsorption|↓|↑|
+|4|Hyperkalemic|Aldosterone|↑|↑|
