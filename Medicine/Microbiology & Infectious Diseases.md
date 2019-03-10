@@ -656,6 +656,18 @@
 - Nail-bed hemorrhage
 - Emboli
 
+## Duke Criteria for Infective Endocarditis
+
+- Major
+	- Microbiological evidence
+	- Endocardial involvement
+- Minor
+	- Fever
+	- Vascular phenomena
+	- Immunologic phenomena
+	- Microbiological evidence
+	- Risk factors
+
 ## Pathogens of Biliary Tract Infection (BTI)
 
 - Enterococcus
