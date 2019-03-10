@@ -569,186 +569,6 @@
 |Latex agglutination test|Cryptococcus neoformans|
 |Germ tube test|Candida albicans|
 
-## Pathogens of Perinatal Infection {TORCH-BEL}
-
-|Pathogen|Presentation|Transmission|
-|-|-|-|
-|Toxoplasma|Intracranial calcifications & Hydrocephalus & Chorioretinitis|Transplacental|
-|Rubella|Cataracts & Deafness & PDA|Transplacental|
-|CMV|Periventricular calcifications & Deafness & Petechial rash|Transplacental|
-|HSV|Encephalitis & Herpetic whitlow|Intrapartum|
-|HIV|AIDS|Intrapartum|
-|Syphilis|Deafness & Saddle nose & Hutchinson teeth & Saber shins|Transplacental|
-|Parvovirus B19|Hydrops fetalis|Transplacental|
-|Group B streptococcus (GBS)|Pneumonia & Meningitis|Intrapartum|
-|Escherichia coli|Pneumonia & Meningitis|Intrapartum|
-|Listeria|Pneumonia & Meningitis|Intrapartum|
-|Neisseria gonorrhoea|Conjunctivitis|Intrapartum|
-|Chlamydia trachomatis|Conjunctivitis|Intrapartum|
-
-## Pathogens of Otitis Media {SHM}
-
-- Streptococcus pneumonia
-- Haemophilus influenzae
-- Moraxella catarrhalis
-
-## Pathogens of Tonsillitis
-
-- Group A streptococcus (GAS)
-- Adenovirus
-- HSV
-- EBV
-- Parainfluenza virus
-- Influenza virus
-
-## Pathogens of Bronchiolitis
-
-- Adenovirus
-- RSV
-- Rhinovirus
-- Coronavirus
-- Parainfluenza virus
-- Influenza virus
-
-## Pathogens of Pneumonia
-
-- Streptococcus pneumonia
-- Haemophilus influenzae
-- Moraxella catarrhalis
-- Klebsiella pneumoniae
-- Pseudomonas aeruginosa
-- Legionella
-- Mycoplasma
-- Chlamydia
-- RSV
-
-## Pathogens of Infective Endocarditis
-
-- Staphylococcus aureus
-- Staphylococcus epidermidis
-- Streptococcus viridans
-- Enterococcus
-- Pseudomonas aeruginosa
-- Candida
-
-## Pathogens of Culture-Negative Infective Endocarditis {HACEK}
-
-- Haemophilus parainfluenzae
-- Actinobacillus
-- Cardiobacterium
-- Eikenella
-- Kingella
-
-## Presentation of Infective Endocarditis {FROM-JANE}
-
-- Fever
-- Roth spots
-- Osler nodes
-- Murmur
-- Janeway lesions
-- Anemia
-- Nail-bed hemorrhage
-- Emboli
-
-## Duke Criteria for Infective Endocarditis
-
-- Major
-	- Microbiological evidence
-	- Endocardial involvement
-- Minor
-	- Fever
-	- Vascular phenomena
-	- Immunologic phenomena
-	- Microbiological evidence
-	- Risk factors
-
-## Pathogens of Biliary Tract Infection (BTI)
-
-- Enterococcus
-- Escherichia coli
-- Klebsiella
-- Pseudomonas aeruginosa
-- Anaerobes
-
-## Pathogens of Watery Diarrhea {GBS-CAVERN}
-
-- Giardia lamblia
-- Bacillus cereus
-- Staphylococcus aureus: heat-stable
-- Clostridium difficile
-- Cryptosporidium
-- Adenovirus
-- Vibrio cholerae
-- ETEC: heat-stable & heat-labile
-- Rotavirus
-- Norovirus
-
-## Pathogens of Bloody Diarrhea {SYCE}
-
-- Salmonella
-- Shigella
-- Yersinia enterocolitica
-- Campylobacter
-- Clostridium difficile
-- Entamoeba histolytica
-- EHEC & EIEC
-
-## Pathogens of Urinary Tract Infection (UTI)
-
-- Staphylococcus saprophyticus
-- Serratia marcescens
-- Escherichia coli
-- Enterobacter cloacae
-- Klebsiella pneumoniae
-- Pseudomonas aeruginosa
-- Proteus mirabilis
-- Candida
-
-## Diagnosis of Urinary Tract Infection (UTI)
-
-- Voided urine > 10<sup>5</sup> CFU/mL
-- Catheterized urine > 5 × 10<sup>4</sup> CFU/mL
-- Suprapubic aspirate > 10<sup>4</sup> CFU/mL
-
-## Pathogens of Genital Tract Infection
-
-|Pathogen|Presentation|Treatment|
-|-|-|-|
-|Gardnerella vaginalis|Discharge :: grayish & fishy|Metronidazole|
-|Neisseria gonorrhoea|Pelvic inflammatory disease (PID)|Ceftriaxone|
-|Haemophilus ducreyi|Painful chancroid|-|
-|Treponema pallidum|Painless chancre & Condyloma lata|Penicillin|
-|Chlamydia trachomatis|Pelvic inflammatory disease (PID) & Lymphogranuloma venereum|Azithromycin / Doxycycline|
-|Candida albicans|Discharge :: white & curdy|-|
-|Trichomonas vaginalis|Discharge :: green & frothy|Metronidazole|
-|HPV|Condyloma accumulata|-|
-|HSV|Paniful ulcers|-|
-
-## Pathogens of Meningitis
-
-- Streptococcus pneumonia
-- Haemophilus influenzae
-- Neisseria meningitidis
-- Enterovirus
-- HSV & HIV
-- Cryptococcus
-
-## CSF Findings in Meningitis
-
-||Pressure|Cell|Glucose|Protein|
-|-|-|-|-|-|
-|Mnemonic|Please|Check|Groaning|Patients|
-|Healthy|50 ~ 180 mmH<sub>2</sub>O|< 5/mm<sup>3</sup>|40 ~ 70 mg/dL|20 ~ 45 mg/dL|
-|Bacterial|↑|PMN|↓|↑|
-|Fungal & TB|↑|Lymphocyte|↓|↑|
-|Viral|↑|Lymphocyte|-|↑|
-
-## Pathogens of Osteomyelitis {SNP}
-
-- Staphylococcus aureus
-- Neisseria gonorrhoea
-- Pseudomonas aeruginosa
-
 ## Arthropod-Borne Pathogens
 
 |Pathogen|Arthropod|Disease|
@@ -813,14 +633,6 @@
 |Really|Rheumatic fever|
 |Good|Glomerulonephritis :: APGN|
 
-## Jones Criteria for Rheumatic Fever {JONES}
-
-- Joint :: migratory polyarthritis
-- Heart :: mitral valve
-- Nodules :: subcutaneous nodules
-- Erythema marginatum
-- Sydenham chorea [Chorea minor]
-
 ## Facts About Corynebacterium Diphtheria {ABCDEFG}
 
 - ADP-ribosylation
@@ -883,19 +695,6 @@
 - -
 - Arthritis
 
-## Infections Causing Rashes Beginning on the Palms & Soles {CARS}
-
-- Coxsackie A virus → hand-foot-mouth disease
-- Rickettsia rickettsii → Rocky Mountain spotted fever (RMSF)
-- Treponema pallidum → syphilis
-
-## Systemic inflammatory response syndrome (SIRS)
-
-- Temperature > 38°C / < 36°C
-- Heart rate > 90
-- Respiratory rate > 20 / PaCO<sub>2</sub> < 32 mmHg
-- WBC > 12,000/mm<sup>3</sup> / < 4,000/mm<sup>3</sup> / > 10% bands
-
 ## Mechanisms of Action of Antibiotics
 
 ### Cell Wall Inhibitors {PCCMG}
@@ -957,14 +756,15 @@
 |-|-|
 |1°|Cefazolin & Cephalexin|
 |2°|Cefaclor & Cefoxitin & Cefotetan & Cefuroxime & Cefmetazole|
-|3° :: Non-anti-pseudomonal|Ceftriaxone & Cefotaxime & Cefixime & Cefpodoxime & Ceftibuten|
-|3° :: Anti-pseudomonal|Ceftazidime & Cefoperazone|
+|3° :: non-anti-pseudomonal|Ceftriaxone & Cefotaxime & Cefixime & Cefpodoxime & Ceftibuten|
+|3° :: anti-pseudomonal|Ceftazidime & Cefoperazone|
 |4°|Cefepime|
 |5°|Ceftaroline|
 
 ## β-lactamase Inhibitors
 
 - Clavulanate
+- Avibactam
 - Sulbactam
 - Tazobactam
 
@@ -978,11 +778,80 @@
 |Timentin|Ticarcillin|Clavulanate|
 |Brosym|Cefoperazone|Sulbactam|
 
+## Spectrum of Antibiotics
+
+![](../Figures/Spectrum%20of%20Antibiotics.png)
+
+## Side Effects of Antibiotics
+
+|Side Effects|Antibiotics|
+|-|-|
+|Nephrotoxicity|Cephalosporins & Vancomycin & Aminoglycosides|
+|Ototoxicity|Vancomycin & Aminoglycosides|
+|Photosensitivity|Tetracyclines & Sulfonamide|
+|Bone & Cartilage toxicity|Tetracyclines & Fluoroquinolones|
+|Marrow toxicity|Chloramphenicol & Trimethoprim|
+|QT prolongation|Macrolides & Fluoroquinolones|
+
+## Prophylactic Antibiotics
+
+|Pathogen|Antibiotics|
+|-|-|
+|GPC|1° Cephalosporins|
+|MRSA|Vancomycin|
+|Enterococcus|Unasyn|
+|GNR :: GI|2° Cephalosporins / Aminoglycosides|
+|GNR :: GU|TMP-SMX / Fluoroquinolones|
+|Anaerobes|Clindamycin / Metronidazole|
+
+## Therapeutic Antibiotics
+
+|Pathogens|Antibiotics|
+|-|-|
+|Staphylococcus aureus|Penicillinase-resistant penicillin|
+|MRSA|Ceftaroline & Vancomycin & Linezolid & Daptomycin|
+|Streptococcus pneumoniae|Penicillinase-sensitive penicillin & 3° Cephalosporins & Macrolides|
+|GAS :: Streptococcus pyogenes|Penicillin & Clindamycin|
+|GBS :: Streptococcus agalactiae|Penicillin & Clindamycin|
+|Enterococcus|Penicillinase-sensitive penicillin|
+|VRE|Linezolid & Daptomycin|
+|Bacillus anthracis|Carbapenems & Fluoroquinolones|
+|Clostridium perfringens|Penicillin & Clindamycin|
+|Clostridium difficile|Vancomycin & Metronidazole|
+|Corynebacterium|Penicillin & Macrolides|
+|Listeria|Penicillinase-sensitive penicillin|
+|Mycobacterium tuberculosis|Rifampin & Isoniazid & Pyrazinamide & Ethambutol|
+|Mycobacterium avium|Macrolides|
+|Actinomyces|Penicillin|
+|Nocardia|Trimethoprim & Sulfonamide|
+|Neisseria meningitides|Penicillinase-sensitive penicillin & 3° Cephalosporins|
+|Neisseria gonorrhoeae|3° Cephalosporins & Macrolides|
+|Bordetella pertussis|Macrolides|
+|Haemophilus influenzae|Penicillinase-sensitive penicillin & 2° Cephalosporins|
+|Legionella pneumophilia|Macrolides|
+|Pseudomonas aeruginosa|Anti-pseudomonal β-lactams & Anti-pseudomonal fluoroquinolones|
+|Acinetobacter baumannii|Anti-pseudomonal β-lactams|
+|MDRAB|Tigecycline & Polymyxin|
+|GNR :: enteric|Cefotetan & Fluoroquinolones & Trimethoprim & Sulfonamide|
+|ESBL|Carbapenems & Tigecycline & Polymyxin|
+|CRE|Tigecycline & Polymyxin|
+|Helicobacter pylori|Penicillinase-sensitive penicillin & Macrolides & Metronidazole|
+|Chlamydia|Tetracyclines & Macrolides|
+|Rickettsia|Tetracyclines & Macrolides|
+|Spirochete|Penicillin & Tetracyclines|
+|Bacteroides fragilis|Carbapenems & Metronidazole|
+
+## Triple Therapy for Helicobacter Pylori
+
+- Macrolides
+- Penicillinase-sensitive penicillin / Metronidazole
+- Proton pump inhibitors (PPI)
+
 ## Anti-pseudomonal Antibiotics
 
 - Penicillin :: Piperacillin & Ticarcillin
 - Cephalosporins
-	- (3° :: Anti-pseudomonal): Ceftazidime & Cefoperazone
+	- (3° :: anti-pseudomonal): Ceftazidime & Cefoperazone
 	- 4°: Cefepime
 - Carbapenems - Ertapenem
 - Monobactams
@@ -995,121 +864,6 @@
 - Vancomycin
 - Clindamycin
 - Metronidazole
-
-## Spectrum of Antibiotics (1)
-
-![](../Figures/Spectrum%20of%20Antibiotics%20(1).png)
-
-## Spectrum of Antibiotics (2)
-
-![](../Figures/Spectrum%20of%20Antibiotics%20(2).png)
-
-## Side Effects of Antimicrobials
-
-|Side Effects|Antibiotics|
-|-|-|
-|Nephrotoxicity|Cephalosporins & Vancomycin & Aminoglycosides|
-|Ototoxicity|Vancomycin & Aminoglycosides|
-|Photosensitivity|Tetracyclines & Sulfonamide|
-|Bone & Cartilage toxicity|Tetracyclines & Fluoroquinolones|
-|Marrow toxicity|Chloramphenicol & Trimethoprim|
-|QT prolongation|Macrolides & Fluoroquinolones|
-
-## Targeted Antibiotics
-
-|Pathogens|Antibiotics|
-|-|-|
-|Staphylococcus aureus|Penicillinase-resistant penicillin|
-|MRSA|Ceftaroline & Vancomycin & Linezolid & Daptomycin & Polymyxin|
-|Streptococcus pneumoniae|Penicillin & Amoxicillin & 3° Cephalosporins & Macrolides|
-|GAS :: Streptococcus pyogenes|Penicillin & Clindamycin|
-|GBS :: Streptococcus agalactiae|Penicillin & Clindamycin|
-|Enterococcus|Penicillin & Ampicillin|
-|VRE|Linezolid|
-|Bacillus anthracis|Penicillin|
-|Clostridium perfringens|Penicillin & Clindamycin|
-|Clostridium difficile|Vancomycin & Metronidazole|
-|Corynebacterium|Penicillin & Macrolides|
-|Listeria|Penicillin & Ampicillin|
-|Mycobacterium tuberculosis|Rifampin & Isoniazid & Pyrazinamide & Ethambutol|
-|Mycobacterium avium|Macrolides|
-|Actinomyces|Penicillin|
-|Nocardia|Trimethoprim & Sulfonamide|
-|Neisseria meningitides|Penicillin & Ceftriaxone|
-|Neisseria gonorrhoeae|Ceftriaxone & Macrolides|
-|Bordetella pertussis|Macrolides|
-|Haemophilus influenzae|Amoxicillin & Cefotetan|
-|Legionella pneumophilia|Macrolides|
-|Pseudomonas aeruginosa|Anti-pseudomonal β-lactams & Anti-pseudomonal fluoroquinolones|
-|Acinetobacter baumannii|Anti-pseudomonal β-lactams|
-|MDRAB|Tigecycline & Polymyxin|
-|GNR :: enteric|Cefotetan & Fluoroquinolones & Trimethoprim & Sulfonamide|
-|ESBL|Carbapenems & Polymyxin|
-|CRE|Tigecycline & Polymyxin|
-|Helicobacter pylori|Amoxicillin & Macrolides & Metronidazole|
-|Chlamydia|Tetracyclines & Macrolides|
-|Rickettsia|Tetracyclines & Macrolides|
-|Spirochete|Penicillin & Tetracyclines|
-|Bacteroides fragilis|Carbapenems & Metronidazole|
-
-## Triple Therapy for Helicobacter Pylori {CAP}
-
-- Clazithromycin
-- Amoxicillin / Metronidazole
-- Proton pump inhibitors (PPI)
-
-## Prophylactic Antibiotics for Procedures
-
-|Pathogen|Antibiotics|
-|-|-|
-|GPC|1° Cephalosporins|
-|MRSA|Vancomycin|
-|Enterococcus|Unasyn|
-|GNR :: GI|2° Cephalosporins / Aminoglycosides|
-|GNR :: GU|TMP-SMX / Fluoroquinolones|
-|Anaerobes|Clindamycin / Metronidazole|
-
-## Empiric Antibiotics for Pneumonia
-
-|Patient|Antibiotics|
-|-|-|
-|CAP & Uncomplicated|Macrolides<br>Doxycycline|
-|CAP & Complicated|Amoxicillin & (Macrolides / Doxycycline)<br>Fluoroquinolones|
-|CAP & Inpatient|Anti-pseudomonal β-lactams & (Macrolides / Doxycycline)<br>Fluoroquinolones|
-|CAP & ICU|Anti-pseudomonal β-lactams & (Macrolides / Doxycycline / Fluoroquinolones)|
-|HAP|Anti-pseudomonal β-lactams & Fluoroquinolones|
-
-### Complicated Patients
-
-- Age > 65 y/o
-- Antibiotics within 3 months
-- Commorbid
-
-## Empiric Antibiotics for Urinary Tract Infection (UTI)
-
-|Patient|Antibiotics|
-|-|-|
-|Uncomplicated & Child|3° Cephalosporins|
-|Uncomplicated & Adult|Nitrofurantoin / TMP-SMX / Fluoroquinolones|
-|Uncomplicated & Pregnant|Nitrofurantoin / Amoxicillin|
-|Complicated|Fluoroquinolones|
-|Inpatient|Tazocin / Ceftriaxone / Fluoroquinolones|
-|ICU|Carbapenems & Vancomycin|
-
-### Complicated Patients
-
-- Temperature > 38°C
-- Costovertebral angle tenderness
-- Pain :: pelvic / perineal
-
-## Empiric Antibiotics for Meningitis
-
-|Patient|Antibiotics|
-|-|-|
-|≤ 1 month|Ampicillin & (Cefotaxime / Gentamicin)|
-|1 ~ 3 months|3° Cephalosporins & Vancomycin|
-|3 months ~ 60 years|3° Cephalosporins & Vancomycin|
-|≥ 60 years / Complicated|Ampicillin & 3° Cephalosporins & Vancomycin|
 
 ## Mechanisms of Action of Antifungals
 
@@ -1162,3 +916,246 @@
 - Acute HIV infection
 - AIDS-defining illnesses
 - Pregnancy
+
+## Systemic inflammatory response syndrome (SIRS)
+
+- Temperature > 38°C / < 36°C
+- Heart rate > 90
+- Respiratory rate > 20 / PaCO<sub>2</sub> < 32 mmHg
+- WBC > 12,000/mm<sup>3</sup> / < 4,000/mm<sup>3</sup> / > 10% bands
+
+## Pathogens of Perinatal Infection {TORCH-BEL}
+
+|Pathogen|Presentation|Transmission|
+|-|-|-|
+|Toxoplasma|Intracranial calcifications & Hydrocephalus & Chorioretinitis|Transplacental|
+|Rubella|Cataracts & Deafness & PDA|Transplacental|
+|CMV|Periventricular calcifications & Deafness & Petechial rash|Transplacental|
+|HSV|Encephalitis & Herpetic whitlow|Intrapartum|
+|HIV|AIDS|Intrapartum|
+|Syphilis|Deafness & Saddle nose & Hutchinson teeth & Saber shins|Transplacental|
+|Parvovirus B19|Hydrops fetalis|Transplacental|
+|Group B streptococcus (GBS)|Pneumonia & Meningitis|Intrapartum|
+|Escherichia coli|Pneumonia & Meningitis|Intrapartum|
+|Listeria|Pneumonia & Meningitis|Intrapartum|
+|Neisseria gonorrhoea|Conjunctivitis|Intrapartum|
+|Chlamydia trachomatis|Conjunctivitis|Intrapartum|
+
+## Pathogens of Meningitis
+
+- Streptococcus pneumonia
+- Haemophilus influenzae
+- Neisseria meningitidis
+- Enterovirus
+- HSV & HIV
+- Cryptococcus
+
+## CSF Findings in Meningitis
+
+||Pressure|Cell|Glucose|Protein|
+|-|-|-|-|-|
+|Mnemonic|Please|Check|Groaning|Patients|
+|Healthy|50 ~ 180 mmH<sub>2</sub>O|< 5/mm<sup>3</sup>|40 ~ 70 mg/dL|20 ~ 45 mg/dL|
+|Bacterial|↑|PMN|↓|↑|
+|Fungal & TB|↑|Lymphocyte|↓|↑|
+|Viral|↑|Lymphocyte|-|↑|
+
+## Empiric Antibiotics for Meningitis
+
+|Patient|Antibiotics|
+|-|-|
+|≤ 1 month|Penicillinase-sensitive penicillin & (3° Cephalosporins / Aminoglycosides)|
+|1 ~ 3 months|3° Cephalosporins & Vancomycin|
+|3 months ~ 60 years|3° Cephalosporins & Vancomycin|
+|≥ 60 years / Complicated|Ampicillin & 3° Cephalosporins & Vancomycin|
+
+## Pathogens of Otitis Media {SHM}
+
+- Streptococcus pneumonia
+- Haemophilus influenzae
+- Moraxella catarrhalis
+
+## Pathogens of Tonsillitis
+
+- Group A streptococcus (GAS)
+- Adenovirus
+- HSV
+- EBV
+- Parainfluenza virus
+- Influenza virus
+
+## Pathogens of Bronchiolitis
+
+- Adenovirus
+- RSV
+- Rhinovirus
+- Coronavirus
+- Parainfluenza virus
+- Influenza virus
+
+## Pathogens of Pneumonia
+
+- Streptococcus pneumonia
+- Haemophilus influenzae
+- Moraxella catarrhalis
+- Klebsiella pneumoniae
+- Pseudomonas aeruginosa
+- Legionella
+- Mycoplasma
+- Chlamydia
+- RSV
+
+## Empiric Antibiotics for Pneumonia
+
+|Patient|Antibiotics|
+|-|-|
+|CAP & Uncomplicated|Macrolides<br>Doxycycline|
+|CAP & Complicated|Amoxicillin & (Macrolides / Doxycycline)<br>Fluoroquinolones|
+|CAP & Inpatient|Anti-pseudomonal β-lactams & (Macrolides / Doxycycline)<br>Fluoroquinolones|
+|CAP & ICU|Anti-pseudomonal β-lactams & (Macrolides / Doxycycline / Fluoroquinolones)|
+|HAP|Anti-pseudomonal β-lactams & Fluoroquinolones|
+
+### Complicated Patients
+
+- Age > 65 y/o
+- Antibiotics within 3 months
+- Commorbid
+
+## Pathogens of Infective Endocarditis
+
+- Staphylococcus aureus
+- Staphylococcus epidermidis
+- Streptococcus viridans
+- Enterococcus
+- Pseudomonas aeruginosa
+- Candida
+
+## Pathogens of Culture-Negative Infective Endocarditis {HACEK}
+
+- Haemophilus parainfluenzae
+- Actinobacillus
+- Cardiobacterium
+- Eikenella
+- Kingella
+
+## Presentation of Infective Endocarditis {FROM-JANE}
+
+- Fever
+- Roth spots
+- Osler nodes
+- Murmur
+- Janeway lesions
+- Anemia
+- Nail-bed hemorrhage
+- Emboli
+
+## Duke Criteria for Infective Endocarditis
+
+- Major
+	- Microbiological evidence
+	- Endocardial involvement
+- Minor
+	- Fever
+	- Vascular phenomena
+	- Immunologic phenomena
+	- Microbiological evidence
+	- Risk factors
+
+## Jones Criteria for Rheumatic Fever {JONES}
+
+- Joint :: migratory polyarthritis
+- Heart :: mitral valve
+- Nodules :: subcutaneous nodules
+- Erythema marginatum
+- Sydenham chorea [Chorea minor]
+
+## Pathogens of Biliary Tract Infection (BTI)
+
+- Enterococcus
+- Escherichia coli
+- Klebsiella
+- Pseudomonas aeruginosa
+- Anaerobes
+
+## Pathogens of Watery Diarrhea {GBS-CAVERN}
+
+- Giardia lamblia
+- Bacillus cereus
+- Staphylococcus aureus: heat-stable
+- Clostridium difficile
+- Cryptosporidium
+- Adenovirus
+- Vibrio cholerae
+- ETEC: heat-stable & heat-labile
+- Rotavirus
+- Norovirus
+
+## Pathogens of Bloody Diarrhea {SYCE}
+
+- Salmonella
+- Shigella
+- Yersinia enterocolitica
+- Campylobacter
+- Clostridium difficile
+- Entamoeba histolytica
+- EHEC & EIEC
+
+## Pathogens of Urinary Tract Infection (UTI)
+
+- Staphylococcus saprophyticus
+- Serratia marcescens
+- Escherichia coli
+- Enterobacter cloacae
+- Klebsiella pneumoniae
+- Pseudomonas aeruginosa
+- Proteus mirabilis
+- Candida
+
+## Diagnosis of Urinary Tract Infection (UTI)
+
+- Voided urine > 10<sup>5</sup> CFU/mL
+- Catheterized urine > 5 × 10<sup>4</sup> CFU/mL
+- Suprapubic aspirate > 10<sup>4</sup> CFU/mL
+
+## Empiric Antibiotics for Urinary Tract Infection (UTI)
+
+|Patient|Antibiotics|
+|-|-|
+|Uncomplicated & Child|3° Cephalosporins|
+|Uncomplicated & Adult|Nitrofurantoin / TMP-SMX / Fluoroquinolones|
+|Uncomplicated & Pregnant|Nitrofurantoin / Amoxicillin|
+|Complicated|Fluoroquinolones|
+|Inpatient|Tazocin / Ceftriaxone / Fluoroquinolones|
+|ICU|Carbapenems & Vancomycin|
+
+### Complicated Patients
+
+- Temperature > 38°C
+- Costovertebral angle tenderness
+- Pain :: pelvic / perineal
+
+## Pathogens of Genital Tract Infection
+
+|Pathogen|Presentation|Treatment|
+|-|-|-|
+|Gardnerella vaginalis|Discharge :: grayish & fishy|Metronidazole|
+|Neisseria gonorrhoea|Pelvic inflammatory disease (PID)|Ceftriaxone|
+|Haemophilus ducreyi|Painful chancroid|-|
+|Treponema pallidum|Painless chancre & Condyloma lata|Penicillin|
+|Chlamydia trachomatis|Pelvic inflammatory disease (PID) & Lymphogranuloma venereum|Azithromycin / Doxycycline|
+|Candida albicans|Discharge :: white & curdy|-|
+|Trichomonas vaginalis|Discharge :: green & frothy|Metronidazole|
+|HPV|Condyloma accumulata|-|
+|HSV|Paniful ulcers|-|
+
+## Pathogens of Osteomyelitis
+
+- Staphylococcus aureus
+- Neisseria gonorrhoea
+- Pseudomonas aeruginosa
+
+## Pathogens of Rashes Beginning on the Palms & Soles {CARS}
+
+- Coxsackie A virus → hand-foot-mouth disease
+- Rickettsia rickettsii → Rocky Mountain spotted fever (RMSF)
+- Treponema pallidum → syphilis
