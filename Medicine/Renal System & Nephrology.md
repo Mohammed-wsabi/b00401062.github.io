@@ -47,6 +47,24 @@
 |Oliguria|< 0.5 mL/kg/h|< 500 mL/d|
 |Anuria|0 mL/kg/h|< 100 mL/d|
 
+## Mechanisms of Action of Diuretics
+
+|Mechanism|Mnemonic|Medication|Indications|Location|Serum K|Serum H|Serum Ca|
+|-|-|-|-|-|-|-|-|
+|Carbonic anhydrase inhibitors|Abnormal|Acetazolamide|Diuretics|Proximal convoluted tubule (PCT)|↓|↑|-|
+|Na-K-2Cl sympoter blockers|Loss|Loop diuretics: Furosemide & Bumetanide & Torsemide|Diuretics|Ascending loop of Henle|↓|↓|↓|
+|Na-Cl sympoter blockers|Through|Thiazide|Diuretics|Distal convoluted tubule (DCT)|↓|↓|↑|
+|Aldosterone antagonists|Kidney|K-sparing diuretics: Spironolactone & Eplerenone|Diuretics|Collecting tubule (CT)|↑|↑|-|
+|Na channel blockers|Kidney|K-sparing diuretics: Amiloride & Triamterene|Diuretics|Collecting tubule (CT)|↑|↑|-|
+
+## Indications for Acute Dialysis {AEIOU}
+
+- Acidosis
+- Electrolyte disturbances
+- Intoxication
+- Overload of volume
+- Uremia
+
 ## Classification of Acute Kidney Injury (AKI)
 
 |Variable|Prerenal|Renal|
@@ -151,21 +169,3 @@
 |Angiotensin antagonists (ARB)|-Sartans|HTN & HF|
 |Aldosterone antagonists|Spironolactone|Diuretics|
 ||Eplerenone|Diuretics|
-
-## Mechanisms of Action of Diuretics
-
-|Mechanism|Mnemonic|Medication|Indications|Location|Serum K|Serum H|Serum Ca|
-|-|-|-|-|-|-|-|-|
-|Carbonic anhydrase inhibitors|Abnormal|Acetazolamide|Diuretics|Proximal convoluted tubule (PCT)|↓|↑|-|
-|Na-K-2Cl sympoter blockers|Loss|Loop diuretics: Furosemide & Bumetanide & Torsemide|Diuretics|Ascending loop of Henle|↓|↓|↓|
-|Na-Cl sympoter blockers|Through|Thiazide|Diuretics|Distal convoluted tubule (DCT)|↓|↓|↑|
-|Aldosterone antagonists|Kidney|K-sparing diuretics: Spironolactone & Eplerenone|Diuretics|Collecting tubule (CT)|↑|↑|-|
-|Na channel blockers|Kidney|K-sparing diuretics: Amiloride & Triamterene|Diuretics|Collecting tubule (CT)|↑|↑|-|
-
-## Indications for Acute Dialysis {AEIOU}
-
-- Acidosis
-- Electrolyte disturbances
-- Intoxication
-- Overload of volume
-- Uremia
