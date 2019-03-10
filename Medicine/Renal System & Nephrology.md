@@ -75,6 +75,16 @@
 - Overload of volume
 - Uremia
 
+## Presentation of Uremia
+
+- Altered mental status
+- Asterixis
+- Restlessness
+- Serositis
+- Nausea/Vomiting
+- Uremic frost
+- Bleeding
+
 ## Classification of Acute Kidney Injury (AKI)
 
 |Variable|Prerenal|Renal|
