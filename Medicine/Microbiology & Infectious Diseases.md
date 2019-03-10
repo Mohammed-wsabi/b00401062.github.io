@@ -335,29 +335,23 @@
 
 ### Yeast
 
-|Mnemonic|Fungi|
-|-|-|
-|C|Cryptococcus|
-|C|Candida|
-|P|Pneumocystis|
+- Cryptococcus
+- Candida
+- Pneumocystis
 
 ### Dimorphic
 
-|Mnemonic|Fungi|
-|-|-|
-|Body|Blastomyces|
-|Heat|Histoplasma|
-|Changes|Coccidioides|
-|Shape|Sporothrix|
+- Blastomyces
+- Coccidioides
+- Histoplasma
+- Sporothrix
 
 ### Mold
 
-|Mnemonic|Fungi|
-|-|-|
-|M|Mucor & Rhizopus|
-|M|Malassezia|
-|A|Aspergillus|
-|D|Dermatophyte|
+- Aspergillus
+- Mucor & Rhizopus
+- Malassezia
+- Dermatophyte
 
 ## Sporotrichoid Lymphocutaneous Infection {LMNS}
 
