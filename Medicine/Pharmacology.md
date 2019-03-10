@@ -484,18 +484,18 @@
 |Foscarnet|↓ DNA synthesis|DNA polymerase|Virus|
 |Cytarabine|↓ DNA synthesis|DNA polymerase|Human|
 |Fluoroquinolone|↓ DNA synthesis|Topoisomerase|Bacterium|
-|Camptothecins [Tecans]|↓ DNA synthesis|Topoisomerase 1|Human|
-|Podophyllotoxins [Posides]|↓ DNA synthesis|Topoisomerase 2|Human|
+|Camptothecins [-Tecans]|↓ DNA synthesis|Topoisomerase 1|Human|
+|Podophyllotoxins [-Posides]|↓ DNA synthesis|Topoisomerase 2|Human|
 |Azacitidine|↓ DNA methylation|DNA methyltransferase|Human|
 |Decitabine|↓ DNA methylation|DNA methyltransferase|Human|
 |Metronidazole|↑ DNA intercalation|DNA|Bacterium|
 |Streptomycin|↑ DNA intercalation|DNA|Mycobacterium|
-|Anthracyclines [Rubicins]|↑ DNA intercalation|DNA|Human|
+|Anthracyclines [-Rubicins]|↑ DNA intercalation|DNA|Human|
 |Bleomycin|↑ DNA intercalation|DNA|Human|
 |Busulfan|↑ DNA crosslinking|DNA|Human|
 |Cyclophosphamide|↑ DNA crosslinking|DNA|Human|
 |Nitrosourea|↑ DNA crosslinking|DNA|Human|
-|Platinums [Platins]|↑ DNA crosslinking|DNA|Human|
+|Platinums [-Platins]|↑ DNA crosslinking|DNA|Human|
 
 ### RNA Inhibitors
 
@@ -513,7 +513,7 @@
 |Griseofulvin|↓ Microtubule assembly|Microtubule|Fungus|
 |Colchicine|↓ Microtubule assembly|Microtubule|Human|
 |Vinca alkaloids|↓ Microtubule assembly|Microtubule|Human|
-|Taxanes [Taxels]|↓ Microtubule disassembly|Microtubule|Human|
+|Taxanes [-Taxels]|↓ Microtubule disassembly|Microtubule|Human|
 
 ### Protein Inhibitors
 
