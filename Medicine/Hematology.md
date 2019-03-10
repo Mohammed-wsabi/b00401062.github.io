@@ -223,11 +223,11 @@
 ## Workup of Leukemia
 
 - Peripheral blood smear
-- Bone marrow aspirate & biopsy
-- Karyotyping
-- Genotyping
+- Bone marrow smear
 - Cytochemistry
 - Immunophenotyping
+- Karyotyping
+- Genotyping
 
 ## Etiology of Hypocoagulability
 
