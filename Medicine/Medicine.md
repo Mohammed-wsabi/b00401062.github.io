@@ -266,17 +266,18 @@
 - Pneumothorax
 - Equipment failure
 
-## Etiology of Acute Altered Mental Status {AEIOU-TIPS}
+## Etiology of Altered Mental Status {AEIOU-TIPS}
 
-- Acidosis & Alcohol
-- Electrolyte disturbances & Epilepsy
-- Infection
-- Opiates
+- Acidosis
+- Electrolyte disturbances
+- Intoxication
+- Oxygen: hypoxemia & hypercarbia
 - Uremia
 - Trauma
-- Insulin
-- Poisoning & Psychosis
-- Stroke
+- Infection
+- Psychosis
+- Sugar: hypoglycemia & hyperglycemia
+- Seizures
 
 ## Workup of Acid-Base Disturbances
 
