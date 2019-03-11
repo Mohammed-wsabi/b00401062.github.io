@@ -238,7 +238,7 @@
 |Haemophilia A & B|Factor 8 & 9|
 |Ornithine transcarbamylase deficiency|Ornithine transcarbamylase|
 
-## Oncogene & Gene Products
+## Oncogenes
 
 |Gene|Tumors|Products|
 |-|-|-|
@@ -254,7 +254,7 @@
 |BCL2|Follicular lymphoma|Anti-apoptotics|
 |RAS|Colon & Lung & Pancreas cancer|GTPase|
 
-## Tumor Suppressor Gene & Gene Products
+## Tumor Suppressor Genes
 
 |Gene|Tumors|Products|
 |-|-|-|
