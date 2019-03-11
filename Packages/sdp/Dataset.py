@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import itertools
 from numpy import *
 from pandas import read_csv
 from pandas import DataFrame
@@ -9,17 +10,19 @@ from sdp.Constants import *
 
 class Dataset:
 	@staticmethod
-	def get(index):
-		assert index in INDICES
-		raw = loadmat("./Downloads/Projects/SDP/Datasets/all_array_{}.mat".format(index.lower()))
-		values = array(list(map(lambda x: x.flatten(), raw["array"][0])))
-		pattern = "F:\\\\[^\\\\]+\\\\[^\\\\]+\\\\([^\\\\]+)\\\\.*"
-		folders = array(list(map(compile(pattern).findall, map(lambda x: x[0][0], raw["index_name"])))).flatten()
+	def get(indices, tracts = range(len(TRACTS))):
 		dataset = {"training": {"X": None, "y": None}, "test": {"X": None, "y": None}}
+		values = empty((127, 0))
+		for index in indices:
+			raw = loadmat("./Downloads/Projects/SDP/Datasets/all_array_{}.mat".format(index.lower()))
+			values = hstack((values, array(list(map(lambda x: x[tracts].flatten(), raw["array"][0])))))
+		pattern = "F:\\\\[^\\\\]+\\\\[^\\\\]+\\\\([^\\\\]+)\\\\.*"
+		subjects = array(list(map(compile(pattern).findall, map(lambda x: x[0][0], raw["index_name"])))).flatten()
+		subjects = array(list(map(str.upper, subjects)))
 		for set in Set._fields:
 			file = "./Downloads/Projects/SDP/Datasets/{}.csv".format(set.capitalize())
 			metadata = read_csv(file, index_col = 0)
-			mask = isin(folders, metadata.index)
-			dataset[set]["X"] = DataFrame(values[mask], index = folders[mask]).dropna(axis = 1)
-			dataset[set]["y"] = metadata.final[folders[mask]].astype("category")
+			mask = isin(subjects, metadata.index)
+			dataset[set]["X"] = DataFrame(values[mask], index = subjects[mask]).dropna(axis = 1)
+			dataset[set]["y"] = metadata.final[subjects[mask]].astype("category")
 		return Set(training = Data(**dataset["training"]), test = Data(**dataset["test"]))
