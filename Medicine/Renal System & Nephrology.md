@@ -137,23 +137,23 @@
 
 ## Glomerulopathy {IAA-GEM-RAMD-MMF-DA}
 
-|Glomerulopathy|Immune Reaction|Microscopy|Nephritis|Nephrosis|
+|Glomerulopathy|Nephritis|Nephrosis|Microscopy|Immune Reaction|
 |-|-|-|-|-|
-|IgA nephropathy [Berger disease] ← HSP|Mesangial IC deposit|Mesangial proliferation|+|-|
-|Alport syndrome|-|Basket-weave|+|-|
-|Anti-GMB [Goodpasture syndrome]|Anti-GBM|Crescent|+|-|
-|Granulomatosis with polyangiitis (GPA)|PR3-ANCA [c-ANCA]|Crescent|+|-|
-|Eosinophilic granulomatosis with polyangiitis (EGPA)|MPO-ANCA [p-ANCA]|Crescent|+|-|
-|Microscopic polyangiitis|MPO-ANCA [p-ANCA]|Crescent|+|-|
-|Rapidly progressive glomerulonephritis (RPGN)|-|Crescent|+|-|
-|Acute proliferative glomerulonephritis (APGN)|Subepithelial IC deposit|Lumpy-bumpy & Starry sky|+|-|
-|Membranoproliferative glomerulonephritis (MPGN)|Subendothelial IC deposit|Tram-track|+|+|
-|Diffuse proliferative glomerulonephritis (DPGN) ← SLE|Subendothelial IC deposit|Wire looping|+|+|
-|Membranous nephropathy (MN) ← SLE|Subepithelial IC deposit|Spike & Dome|-|+|
-|Minimal change disease (MCD)|-|Podocyte effacement|-|+|
-|Focal segmental glomerulosclerosis (FSGS)|-|Podocyte effacement|-|+|
-|Diabetic nephropathy|-|Nodular glomerulosclerosis|-|+|
-|Amyloid nephropathy|-|Nodular amyloidosis|-|+|
+|IgA nephropathy [Berger disease] ← HSP|+|-|Mesangial proliferation|Mesangium|
+|Alport syndrome|+|-|Basket-weave|-|
+|Anti-GMB [Goodpasture syndrome]|+|-|Crescent|Anti-GBM|
+|Granulomatosis with polyangiitis (GPA)|+|-|Crescent|PR3-ANCA [c-ANCA]|
+|Eosinophilic granulomatosis with polyangiitis (EGPA)|+|-|Crescent|MPO-ANCA [p-ANCA]|
+|Microscopic polyangiitis|MPO-ANCA [p-ANCA]|+|Crescent|-|
+|Rapidly progressive glomerulonephritis (RPGN)|+|-|Crescent|-|
+|Acute proliferative glomerulonephritis (APGN) ← GAS|+|-|Lumpy-bumpy & Starry sky|Subepithelium|
+|Membranoproliferative glomerulonephritis (MPGN) ← HCV|+|+|Tram-track|Subendothelium|
+|Diffuse proliferative glomerulonephritis (DPGN) ← SLE|+|+|Wire looping|Subendothelium|
+|Membranous nephropathy (MN) ← SLE|Subepithelium|-|Spike & Dome|+|
+|Minimal change disease (MCD)|-|+|Podocyte effacement|-|
+|Focal segmental glomerulosclerosis (FSGS) ← HIV|-|+|Podocyte effacement|-|
+|Diabetic nephropathy|-|-|Nodular glomerulosclerosis|+|
+|Amyloid nephropathy|-|-|Nodular glomerulosclerosis|+|
 
 ## Etiology of Acute Tubular Necrosis (ATN)
 
