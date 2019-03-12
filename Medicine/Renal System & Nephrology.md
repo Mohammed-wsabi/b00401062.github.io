@@ -135,17 +135,17 @@
 |Oliguria|Lipiduria|
 |Proteinuria < 3.5 g/dL|Proteinuria > 3.5 g/dL|
 
-## Glomerulopathy {RAGGEM-AAMDI-MMF-DA}
+## Glomerulopathy {GEM-RAG-AMDI-MMF-DA}
 
 |Glomerulopathy|Immune Reaction|Microscopy|Nephritis|Nephrosis|
 |-|-|-|-|-|
-|Rapidly progressive glomerulonephritis (RPGN)|-|Crescent|+|-|
+|Alport syndrome|-|Basket-weave|+|-|
 |Anti-GBM disease|Anti-GBM|Crescent|+|-|
 |Goodpasture syndrome|Anti-GBM|Crescent|+|-|
 |Granulomatosis with polyangiitis (GPA)|PR3-ANCA [c-ANCA]|Crescent|+|-|
 |Eosinophilic granulomatosis with polyangiitis (EGPA)|MPO-ANCA [p-ANCA]|Crescent|+|-|
 |Microscopic polyangiitis|MPO-ANCA [p-ANCA]|Crescent|+|-|
-|Alport syndrome|-|Basket-weave|+|-|
+|Rapidly progressive glomerulonephritis (RPGN)|-|Crescent|+|-|
 |Acute proliferative glomerulonephritis (APGN)|Subepithelial IC deposit|Lumpy-bumpy & Starry sky|+|-|
 |Membranoproliferative glomerulonephritis (MPGN)|Subendothelial IC deposit|Tram-track|+|+|
 |Diffuse proliferative glomerulonephritis (DPGN) ← SLE|Subendothelial IC deposit|Wire looping|+|+|
