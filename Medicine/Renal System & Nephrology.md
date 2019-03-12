@@ -139,17 +139,17 @@
 
 |Glomerulopathy|Nephritis|Nephrosis|Microscopy|Immune Reaction|Associations|
 |-|-|-|-|-|-|
-|IgA nephropathy [Berger disease]|+|-|Mesangial proliferation|Mesangium|HSP|
+|IgA nephropathy [Berger disease]|+|-|Mesangial proliferation|Mesangial IC|HSP|
 |Alport syndrome|+|-|Basket-weave|-|-|
 |Anti-GMB [Goodpasture syndrome]|+|-|Crescent|Anti-GBM|-|
 |Granulomatosis with polyangiitis (GPA)|+|-|Crescent|PR3-ANCA [c-ANCA]|-|
 |Eosinophilic granulomatosis with polyangiitis (EGPA)|+|-|Crescent|MPO-ANCA [p-ANCA]|-|
 |Microscopic polyangiitis|+|-|Crescent|MPO-ANCA [p-ANCA]|-|
 |Rapidly progressive glomerulonephritis (RPGN)|+|-|Crescent|-|-|
-|Acute proliferative glomerulonephritis (APGN)|+|-|Lumpy-bumpy & Starry sky|Subepithelium|GAS|
-|Membranoproliferative glomerulonephritis (MPGN)|+|+|Tram-track|Subendothelium|SLE & HBV & HCV|
-|Diffuse proliferative glomerulonephritis (DPGN)|+|+|Wire looping|Subendothelium|SLE|
-|Membranous nephropathy (MN)|-|+|Spike & Dome|Subepithelium|SLE|
+|Acute proliferative glomerulonephritis (APGN)|+|-|Lumpy-bumpy & Starry sky|Subepithelial IC|GAS|
+|Membranoproliferative glomerulonephritis (MPGN)|+|+|Tram-track|Subendothelial IC|SLE & HBV & HCV|
+|Diffuse proliferative glomerulonephritis (DPGN)|+|+|Wire looping|Subendothelial IC|SLE|
+|Membranous nephropathy (MN)|-|+|Spike & Dome|Subepithelial IC|SLE|
 |Minimal change disease (MCD)|-|+|Podocyte effacement|-|-|
 |Focal segmental glomerulosclerosis (FSGS)|-|+|Podocyte effacement|-|HIV|
 |Diabetic nephropathy|-|+|Nodular glomerulosclerosis|-|-|
