@@ -79,6 +79,7 @@ title: Life Code
 - [calculator](Packages/calculator): Calculator built with postfix algorithm and stacks from scratch.
 - [codechef](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/codechef): Collection of Java programs solving [CodeChef](https://www.codechef.com) problems.
 - [csie](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/csie): Collection of code for CSIE undergraduage assignments.
+- [dlc](Packages/dlc): Pipeline for merchandise detection and classification.
 - [gpa](Packages/gpa): Applet that calculates your average GPA.
 - [leetcode](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/leetcode): Collection of Java programs solving [LeetCode](https://leetcode.com/problemset/all/) problems.
 - [mqat](Packages/mqat): Colletion of algorithms for MRI quality assurance.
