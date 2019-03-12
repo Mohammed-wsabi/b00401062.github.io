@@ -144,7 +144,7 @@
 |Anti-GMB [Goodpasture syndrome]|+|-|Crescent|Anti-GBM|-|
 |Granulomatosis with polyangiitis (GPA)|+|-|Crescent|PR3-ANCA [c-ANCA]|-|
 |Eosinophilic granulomatosis with polyangiitis (EGPA)|+|-|Crescent|MPO-ANCA [p-ANCA]|-|
-|Microscopic polyangiitis|MPO-ANCA [p-ANCA]|+|-|Crescent|-|-|
+|Microscopic polyangiitis|+|-|Crescent|MPO-ANCA [p-ANCA]|-|
 |Rapidly progressive glomerulonephritis (RPGN)|+|-|Crescent|-|-|
 |Acute proliferative glomerulonephritis (APGN)|+|-|Lumpy-bumpy & Starry sky|Subepithelium|GAS|
 |Membranoproliferative glomerulonephritis (MPGN)|+|+|Tram-track|Subendothelium|SLE & HBV & HCV|
