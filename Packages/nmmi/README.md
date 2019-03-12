@@ -17,6 +17,6 @@
 
 ```bash
 export PYTHONHASHSEED=0
-export PYTHONPATH=$HOME/Documents/Packages/
+export PYTHONPATH=$HOME/Documents/Projects/
 python3 -B -m nmmi
 ```
