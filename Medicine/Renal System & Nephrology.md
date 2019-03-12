@@ -135,7 +135,7 @@
 |Oliguria|Lipiduria|
 |Proteinuria < 3.5 g/dL|Proteinuria > 3.5 g/dL|
 
-## Glomerulopathy {GEM-RAG-AMDI-MMF-DA}
+## Glomerulopathy {AAG-GEM-RAMDI-MMF-DA}
 
 |Glomerulopathy|Immune Reaction|Microscopy|Nephritis|Nephrosis|
 |-|-|-|-|-|
