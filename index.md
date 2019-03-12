@@ -73,23 +73,23 @@ title: Life Code
 - [Thaler's The Only EKG Book You'll Ever Need](Memoirs/Thaler's%20The%20Only%20EKG%20Book%20You'll%20Ever%20Need.pdf)
 - [Thompson's Type Theory & Functional Programming](Memoirs/Thompson's%20Type%20Theory%20&%20Functional%20Programming.pdf)
 
-## Packages
+## Projects
 
-- [bmlab](Packages/bmlab): Pipeline for fMRI analysis to study the default mode network.
-- [calculator](Packages/calculator): Calculator built with postfix algorithm and stacks from scratch.
-- [codechef](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/codechef): Collection of Java programs solving [CodeChef](https://www.codechef.com) problems.
-- [csie](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/csie): Collection of code for CSIE undergraduage assignments.
-- [dlc](Packages/dlc): Pipeline for merchandise detection and classification.
-- [gpa](Packages/gpa): Applet that calculates your average GPA.
-- [leetcode](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/leetcode): Collection of Java programs solving [LeetCode](https://leetcode.com/problemset/all/) problems.
-- [mqat](Packages/mqat): Colletion of algorithms for MRI quality assurance.
-- [nmmi](Packages/nmmi): Pipeline to create a normative model for microstructural integrity of the white matter tracts.
-- [notebook](Packages/notebook): Place where you can take note of trivial things in your life.
-- [osccm](Packages/osccm): Pipeline for metagenomics analysis to study association between microbiota and cancer.
-- [ratlab](Packages/ratlab): Collection of [Matlab](https://www.mathworks.com) functions implemented natively in [R](https://www.r-project.org).
-- [rosalind](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/rosalind): Collection of Java programs solving [ROSALIND](http://rosalind.info/problems/locations/) problems.
-- [sdp](Packages/sdp): Pipeline to predict schizophrenia development using DSI.
-- [strp](Packages/strp): Pipeline to predict antipsychotic treatment response using DSI.
-- [tabula](Packages/tabula): Conversion of a delimited text file into a beautiful [Bootstrap](http://getbootstrap.com) table.
-- [timer](Packages/timer): Timer that goes off after 25 minutes for USMLE Step 2 CS.
-- [usaco](https://github.com/b00401062/b00401062.github.io/tree/master/Packages/usaco): Collection of Java programs solving [USACO](http://train.usaco.org/usacogate) problems.
+- [bmlab](Projects/bmlab): Pipeline for fMRI analysis to study the default mode network.
+- [calculator](Projects/calculator): Calculator built with postfix algorithm and stacks from scratch.
+- [codechef](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/codechef): Collection of Java programs solving [CodeChef](https://www.codechef.com) problems.
+- [csie](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/csie): Collection of code for CSIE undergraduage assignments.
+- [dlc](Projects/dlc): Pipeline for merchandise detection and classification.
+- [gpa](Projects/gpa): Applet that calculates your average GPA.
+- [leetcode](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/leetcode): Collection of Java programs solving [LeetCode](https://leetcode.com/problemset/all/) problems.
+- [mqat](Projects/mqat): Colletion of algorithms for MRI quality assurance.
+- [nmmi](Projects/nmmi): Pipeline to create a normative model for microstructural integrity of the white matter tracts.
+- [notebook](Projects/notebook): Place where you can take note of trivial things in your life.
+- [osccm](Projects/osccm): Pipeline for metagenomics analysis to study association between microbiota and cancer.
+- [ratlab](Projects/ratlab): Collection of [Matlab](https://www.mathworks.com) functions implemented natively in [R](https://www.r-project.org).
+- [rosalind](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/rosalind): Collection of Java programs solving [ROSALIND](http://rosalind.info/problems/locations/) problems.
+- [sdp](Projects/sdp): Pipeline to predict schizophrenia development using DSI.
+- [strp](Projects/strp): Pipeline to predict antipsychotic treatment response using DSI.
+- [tabula](Projects/tabula): Conversion of a delimited text file into a beautiful [Bootstrap](http://getbootstrap.com) table.
+- [timer](Projects/timer): Timer that goes off after 25 minutes for USMLE Step 2 CS.
+- [usaco](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/usaco): Collection of Java programs solving [USACO](http://train.usaco.org/usacogate) problems.
