@@ -14,9 +14,9 @@ from sdp.Constants import *
 from sdp.Dataset import *
 
 if __name__ == "__main__":
-	DATASET = Dataset.get(["GFA", "RD"], [16, 17])
+	DATASET = Dataset.get(["RD"], [16, 17])
 	## Dimensionality reduction
-	reducer = PCA(.7).fit(DATASET.training.X)
+	reducer = PCA(.95).fit(DATASET.training.X)
 	## SVC
 	validator = GridSearchCV(
 		SVC(gamma = "scale"),
