@@ -290,6 +290,15 @@
 
 ## Workup of Metabolic Acidosis
 
+- Anion gap :: normal {HARDDS}
+	- Urine anion gap :: negative
+		- **Hyperalimentation**
+		- **Diarrhea**
+		- **Saline**
+	- Urine anion gap :: positive
+		- **Addison disease**
+		- **Renal tubular acidosis (RTA)**
+		- **Diuretics** :: Acetazolamide & K-sparing diuretics
 - Anion gap :: high {MUDIPLES}
 	- **Methanol**
 	- **Uremia**
@@ -299,31 +308,22 @@
 	- **Lactate**
 	- **Ethanol & Ethylene glycol**
 	- **Salicylate**
-- Anion gap :: normal {HARDDS}
-	- Urine anion gap :: positive
-		- **Addison disease**
-		- **Renal tubular acidosis**
-		- **Diuretics** :: Acetazolamide & K-sparing diuretics
-	- Urine anion gap :: negative
-		- **Hyperalimentation**
-		- **Diarrhea**
-		- **Saline**
 
 ## Workup of Metabolic Alkalosis
 
+- Urine Cl < 20 [Saline-responsive]
+	- **Vomiting**
+	- **Laxatives**
+	- **Cystic fibrosis**
 - Urine Cl > 20 [Saline-resistant]
-	- Hypertensive
-		- **Hyperaldosteronism**
-		- **Liddle syndrome**
 	- Normotensive
 		- **Hypokalemia**
 		- **Bartter syndrome**
 		- **Gitelman syndrome**
 		- **Diuretics** :: Loop diuretics & Thiazide
-- Urine Cl < 20 [Saline-responsive]
-	- **Vomiting**
-	- **Laxatives**
-	- **Cystic fibrosis**
+	- Hypertensive
+		- **Hyperaldosteronism**
+		- **Liddle syndrome**
 
 ## Presentation of Electrolyte Disturbances
 
