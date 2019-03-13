@@ -125,7 +125,25 @@
 |4|15 ~ 30|
 |5|< 15|
 
-## Etiology of Glomerulopathy {IAA-GEM-RAMD-MMF-DA}
+## Presentation of Glomerulopathy
+
+### Nephritis
+
+- Proteinuria < 3.5 g/dL
+- Oliguria
+- Azotemia
+- Hypertension
+- Hematuria
+
+### Nephrosis
+
+- Proteinuria > 3.5 g/dL
+- Hypoalbuminemia
+- Hypogammaglobulinemia
+- Hypercoagulability
+- Hyperlipidemia
+
+## Classification of Glomerulopathy {IAA-GEM-RAMD-MMF-DA}
 
 |Glomerulopathy|Nephritis|Nephrosis|Microscopy|Immune Reaction|Associations|
 |-|-|-|-|-|-|
@@ -144,24 +162,6 @@
 |Focal segmental glomerulosclerosis (FSGS)|-|+|Podocyte effacement|-|HIV|
 |Diabetic nephropathy|-|+|Nodular glomerulosclerosis|-|-|
 |Amyloid nephropathy|-|+|Nodular glomerulosclerosis|-|-|
-
-## Presentation of Glomerulopathy
-
-### Nephritis
-
-- Proteinuria < 3.5 g/dL
-- Oliguria
-- Azotemia
-- Hypertension
-- Hematuria
-
-### Nephrosis
-
-- Proteinuria > 3.5 g/dL
-- Hypoalbuminemia
-- Hypogammaglobulinemia
-- Hypercoagulability
-- Hyperlipidemia
 
 ## Etiology of Acute Tubular Necrosis (ATN)
 
