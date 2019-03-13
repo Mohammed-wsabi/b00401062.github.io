@@ -829,7 +829,7 @@
 |Bordetella pertussis|Macrolides|
 |Haemophilus influenzae|Penicillinase-sensitive penicillin & 2° Cephalosporins|
 |Legionella pneumophilia|Macrolides|
-|GNR :: enteric|Cefotetan & Fluoroquinolones & Trimethoprim & Sulfonamide|
+|GNR :: enteric|2° Cephalosporins & Fluoroquinolones & Trimethoprim & Sulfonamide|
 |ESBL|Carbapenems & Tigecycline & Polymyxin|
 |CRE|Tigecycline & Polymyxin|
 |Pseudomonas aeruginosa|Anti-pseudomonal β-lactams & Anti-pseudomonal fluoroquinolones|
