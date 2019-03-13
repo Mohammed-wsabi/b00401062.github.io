@@ -182,15 +182,6 @@
 - NSAIDs
 - Diabetic nephropathy
 
-## Renal Tubular Defects
-
-|Mnemonic|Defect|Analog|Serum K|Serum H|Serum Ca|
-|-|-|-|-|-|-|
-|Fasting|Fanconi syndrome|Acetazolamide|↓|↑|-|
-|Blood|Bartter syndrome|Loop diuretics|↓|↓|↓|
-|Glucose|Gitelman syndrome|Thiazide|↓|↓|↑|
-|Level|Liddle syndrome|Aldosterone|↓|↓|-|
-
 ## Renal Tubular Acidosis (RTA)
 
 |Type|Synonym|Defect|Serum K|Serum H|
