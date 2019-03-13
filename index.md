@@ -2,7 +2,6 @@
 title: Life Code
 ---
 
-
 ## Computer
 
 - [Algorithm Design and Analysis](Computer/Algorithm%20Design%20and%20Analysis.html)
