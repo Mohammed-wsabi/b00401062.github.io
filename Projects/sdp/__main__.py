@@ -10,13 +10,14 @@ from sklearn.gaussian_process.kernels import RationalQuadratic
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.neural_network import MLPClassifier
 from sklearn.metrics import confusion_matrix
+from sklearn.metrics import roc_auc_score
 from sdp.Constants import *
 from sdp.Dataset import *
 
 if __name__ == "__main__":
 	DATASET = Dataset.get(["RD"], [16, 17])
 	## Dimensionality reduction
-	reducer = PCA(.95).fit(DATASET.training.X)
+	reducer = PCA(.85).fit(DATASET.training.X)
 	## SVC
 	validator = GridSearchCV(
 		SVC(gamma = "scale"),
@@ -25,7 +26,7 @@ if __name__ == "__main__":
 	).fit(reducer.transform(DATASET.training.X), DATASET.training.y)
 	model = validator.best_estimator_
 	## GaussianProcessClassifier
-	model = GaussianProcessClassifier(kernel = RationalQuadratic())
+	model = GaussianProcessClassifier()
 	## RandomForestClassifier
 	validator = GridSearchCV(
 		RandomForestClassifier(n_estimators = 100),
@@ -43,3 +44,5 @@ if __name__ == "__main__":
 	## Fitting
 	model.fit(reducer.transform(DATASET.training.X), DATASET.training.y.tolist())
 	confusion_matrix(DATASET.test.y, model.predict(reducer.transform(DATASET.test.X)))
+	## Evaluation
+	roc_auc_score(DATASET.test.y == "S", model.predict_proba(reducer.transform(DATASET.test.X))[:, 1])

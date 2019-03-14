@@ -12,7 +12,7 @@ class Dataset:
 	@staticmethod
 	def get(indices, tracts = range(len(TRACTS))):
 		dataset = {"training": {"X": None, "y": None}, "test": {"X": None, "y": None}}
-		values = empty((127, 0))
+		values = empty((128, 0))
 		for index in indices:
 			raw = loadmat("./Downloads/Projects/SDP/Datasets/all_array_{}.mat".format(index.lower()))
 			values = hstack((values, array(list(map(lambda x: x[tracts].flatten(), raw["array"][0])))))
