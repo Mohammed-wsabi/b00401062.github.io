@@ -6,7 +6,6 @@ from sklearn.model_selection import LeaveOneOut
 from sklearn.model_selection import GridSearchCV
 from sklearn.svm import SVC
 from sklearn.gaussian_process import GaussianProcessClassifier
-from sklearn.gaussian_process.kernels import RationalQuadratic
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.neural_network import MLPClassifier
 from sklearn.metrics import confusion_matrix
@@ -26,7 +25,7 @@ if __name__ == "__main__":
 	).fit(reducer.transform(DATASET.training.X), DATASET.training.y)
 	model = validator.best_estimator_
 	## GaussianProcessClassifier
-	model = GaussianProcessClassifier(RationalQuadratic())
+	model = GaussianProcessClassifier()
 	## RandomForestClassifier
 	validator = GridSearchCV(
 		RandomForestClassifier(n_estimators = 100),
@@ -43,6 +42,6 @@ if __name__ == "__main__":
 	model = validator.best_estimator_
 	## Fitting
 	model.fit(reducer.transform(DATASET.training.X), DATASET.training.y.tolist())
-	confusion_matrix(DATASET.test.y, model.predict(reducer.transform(DATASET.test.X)))
 	## Evaluation
+	confusion_matrix(DATASET.test.y, model.predict(reducer.transform(DATASET.test.X)))
 	roc_auc_score(DATASET.test.y == "S", model.predict_proba(reducer.transform(DATASET.test.X))[:, 1])
