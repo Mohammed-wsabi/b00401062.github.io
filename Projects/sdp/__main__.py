@@ -15,9 +15,9 @@ from sdp.Constants import *
 from sdp.Dataset import *
 
 if __name__ == "__main__":
-	DATASET = Dataset.get(["RD"], [16, 17])
+	DATASET = Dataset.get(["GFA"], [10, 11])
 	## Dimensionality reduction
-	reducer = PCA(.85).fit(DATASET.training.X)
+	reducer = PCA(.95).fit(DATASET.training.X)
 	## SVC
 	validator = GridSearchCV(
 		SVC(gamma = "scale"),
@@ -26,7 +26,7 @@ if __name__ == "__main__":
 	).fit(reducer.transform(DATASET.training.X), DATASET.training.y)
 	model = validator.best_estimator_
 	## GaussianProcessClassifier
-	model = GaussianProcessClassifier()
+	model = GaussianProcessClassifier(RationalQuadratic())
 	## RandomForestClassifier
 	validator = GridSearchCV(
 		RandomForestClassifier(n_estimators = 100),
