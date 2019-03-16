@@ -92,5 +92,6 @@ TRACTS = (
 	Name(Nickname = "T073_CC_hippocampus", Fullname = "Corpus callosum of hippocampus"),
 	Name(Nickname = "T074_CC_amygdala", Fullname = "Corpus callosum of amygdala"),
 	Name(Nickname = "T075_CC_precuneus", Fullname = "Corpus callosum of precuneus"),
-	Name(Nickname = "T076_CC_splenium", Fullname = "Corpus callosum of splenium"))
+	Name(Nickname = "T076_CC_splenium", Fullname = "Corpus callosum of splenium")
+)
 FEATURES = (lambda: ["_".join([index, tract.Nickname, str(step)]) for index in INDICES for tract in TRACTS for step in range(100)])()
