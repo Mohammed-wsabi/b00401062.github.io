@@ -10,7 +10,7 @@ from sdp.Constants import *
 
 class Dataset:
 	@staticmethod
-	def get(indices, tracts = range(len(TRACTS))):
+	def get(indices, tracts):
 		dataset = {"training": {"X": None, "y": None}, "test": {"X": None, "y": None}}
 		values = empty((128, 0))
 		for index in indices:

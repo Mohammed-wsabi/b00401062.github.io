@@ -2,17 +2,14 @@
 
 from numpy import *
 from pandas import *
+from matplot.pyplot import *
 from sklearn.decomposition import PCA
-from sklearn.model_selection import LeaveOneOut
-from sklearn.model_selection import GridSearchCV
-from sklearn.svm import SVC
 from sklearn.gaussian_process import GaussianProcessClassifier
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.neural_network import MLPClassifier
 from sklearn.metrics import confusion_matrix
-from sklearn.metrics import roc_auc_score
+from sklearn.metrics import roc_curve, auc
 from sdp.Constants import *
 from sdp.Dataset import *
+from sdp.Reducer import *
 
 if __name__ == "__main__":
 	## Statistical analysis
@@ -29,4 +26,14 @@ if __name__ == "__main__":
 	model.fit(reducer.transform(DATASET.training.X), DATASET.training.y.tolist())
 	## Evaluation
 	confusion_matrix(DATASET.test.y, model.predict(reducer.transform(DATASET.test.X)))
-	roc_auc_score(DATASET.test.y == "S", model.predict_proba(reducer.transform(DATASET.test.X))[:, 1])
+	plot(
+		*roc_curve(DATASET.test.y == "S", model.predict_proba(reducer.transform(DATASET.test.X))[:, 1])[:2],
+		label = "AUC: {:.2f}".format(roc_auc_score(DATASET.test.y == "S", model.predict_proba(reducer.transform(DATASET.test.X))[:, 1]))
+	)
+	plot([0, 1], [0, 1], linestyle = "--")
+	xlabel("1 - Specificity")
+	ylabel("Sensitivity")
+	legend(loc = "lower right")
+	axes().set_aspect("equal")
+	savefig("./Downloads/Projects/SDP/Figures/ROC")
+	clf()
