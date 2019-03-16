@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
-from pandas import DataFrame
+from numpy import *
+from pandas import *
 from sklearn.decomposition import PCA
 from sklearn.model_selection import LeaveOneOut
 from sklearn.model_selection import GridSearchCV
@@ -14,32 +15,16 @@ from sdp.Constants import *
 from sdp.Dataset import *
 
 if __name__ == "__main__":
-	DATASET = Dataset.get(["GFA"], [10, 11])
-	## Dimensionality reduction
-	reducer = PCA(.95).fit(DATASET.training.X)
-	## SVC
-	validator = GridSearchCV(
-		SVC(gamma = "scale"),
-		{"C": 2. ** arange(-10, 10)},
-		cv = LeaveOneOut()
-	).fit(reducer.transform(DATASET.training.X), DATASET.training.y)
-	model = validator.best_estimator_
+	## Statistical analysis
+	for i in range(len(TRACTS)):
+		DATASET = Dataset.get(["GFA"], [TRACTS[i]])
+		ttest_ind(DATASET.test.X.mean(axis = 1)[DATASET.test.y == "N"], DATASET.test.X.mean(axis = 1)[DATASET.test.y == "S"]).pvalue
+	## Dataset
+	DATASET = Dataset.get(["GFA"], list(map(lambda i: TRACTS[i], [5, 8])))
 	## GaussianProcessClassifier
 	model = GaussianProcessClassifier()
-	## RandomForestClassifier
-	validator = GridSearchCV(
-		RandomForestClassifier(n_estimators = 100),
-		{"max_depth": range(2, 8)},
-		cv = LeaveOneOut()
-	).fit(reducer.transform(DATASET.training.X), DATASET.training.y)
-	model = validator.best_estimator_
-	## MLPClassifier
-	validator = GridSearchCV(
-		MLPClassifier(hidden_layer_sizes = (int(sqrt(reducer.n_components_)),), solver = "lbfgs", max_iter = 10000),
-		{"alpha": 2. ** arange(-10, 10)},
-		cv = LeaveOneOut()
-	).fit(reducer.transform(DATASET.training.X), DATASET.training.y)
-	model = validator.best_estimator_
+	## Dimensionality reduction
+	reducer = Reducer().fit(DATASET.training.X, DATASET.training.y).fit(DATASET.training.X)
 	## Fitting
 	model.fit(reducer.transform(DATASET.training.X), DATASET.training.y.tolist())
 	## Evaluation

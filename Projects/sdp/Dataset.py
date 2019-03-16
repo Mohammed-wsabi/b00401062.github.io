@@ -15,7 +15,8 @@ class Dataset:
 		values = empty((128, 0))
 		for index in indices:
 			raw = loadmat("./Downloads/Projects/SDP/Datasets/all_array_{}.mat".format(index.lower()))
-			values = hstack((values, array(list(map(lambda x: x[tracts].flatten(), raw["array"][0])))))
+			for tract in tracts:
+				values = hstack((values, array(list(map(lambda x: x[tract.indices].mean(axis = 0), raw["array"][0])))))
 		pattern = "F:\\\\[^\\\\]+\\\\[^\\\\]+\\\\([^\\\\]+)\\\\.*"
 		subjects = array(list(map(compile(pattern).findall, map(lambda x: x[0][0], raw["index_name"])))).flatten()
 		subjects = array(list(map(str.upper, subjects)))
