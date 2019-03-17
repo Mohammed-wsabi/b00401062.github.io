@@ -7,7 +7,9 @@
 
 ## Analysis Pipeline
 
+- [Selector.py](Selector.py): Test the difference of GFA between the two groups.
 - [Reducer.py](Reducer.py): Determine # components for the principal component analysis.
+- [Evaluator.py](Evaluator.py): Evaluate the performance of the model on the test set.
 
 ## Execution
 
