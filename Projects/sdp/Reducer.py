@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 
 from numpy import *
-from matplotlib.pyplot import *
 from sklearn.decomposition import PCA
 from sklearn.gaussian_process import GaussianProcessClassifier
+from matplotlib.pyplot import *
 
 class Reducer:
 	def fit(self, X, y):
