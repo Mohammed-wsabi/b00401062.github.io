@@ -2,11 +2,12 @@
 
 from numpy import *
 from pandas import *
-from matplot.pyplot import *
+from scipy.stats import ttest_ind
 from sklearn.decomposition import PCA
 from sklearn.gaussian_process import GaussianProcessClassifier
 from sklearn.metrics import confusion_matrix
-from sklearn.metrics import roc_curve, auc
+from sklearn.metrics import roc_curve, roc_auc_score
+from matplotlib.pyplot import *
 from sdp.Constants import *
 from sdp.Dataset import *
 from sdp.Reducer import *
