@@ -10,7 +10,7 @@ class Evaluator:
 	def fit(self, X, y):
 		print(confusion_matrix(y, self.classifier.predict(self.reducer.transform(X))))
 		p = self.classifier.predict_proba(self.reducer.transform(X))[:, 1]
-		plot(*roc_curve(y == "S", p)[:2],label = "AUC: {:.2f}".format(roc_auc_score(y == "S", p)))
+		plot(*roc_curve(y == "S", p)[:2], label = "AUC: {:.2f}".format(roc_auc_score(y == "S", p)))
 		plot([0, 1], [0, 1], linestyle = "--")
 		xlabel("1 - Specificity")
 		ylabel("Sensitivity")
