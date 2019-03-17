@@ -3,14 +3,15 @@
 from sklearn.gaussian_process import GaussianProcessClassifier
 from sdp.Constants import *
 from sdp.Dataset import *
+from sdp.Selector import *
 from sdp.Reducer import *
 from sdp.Evaluator import *
 
 if __name__ == "__main__":
 	## Statistical analysis
-	for i in range(len(TRACTS)):
-		DATASET = Dataset.get(["GFA"], [TRACTS[i]])
-		Selector(TRACTS[i]).fit(*DATASET.test)
+	for tract in TRACTS:
+		DATASET = Dataset.get(["GFA"], [tract])
+		Selector(tract).fit(*DATASET.test).pvalue
 	## Dataset
 	DATASET = Dataset.get(["GFA"], list(map(lambda i: TRACTS[i], [5, 8])))
 	## Dimensionality reduction
