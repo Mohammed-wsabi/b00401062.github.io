@@ -137,7 +137,6 @@
 |-|-|-|-|
 |Infection :: acute|+|-|IgM|
 |Infection :: chronic|+|-|IgG|
-|Carrier|+|-|IgG|
 |Window|-|-|IgM / IgG|
 |Recovery|-|+|IgG|
 |Vaccination|-|+|-|
