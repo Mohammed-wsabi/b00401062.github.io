@@ -1,4 +1,4 @@
-# Anesthesia
+# Anesthesiology
 
 ## Triad of Anesthesia
 
