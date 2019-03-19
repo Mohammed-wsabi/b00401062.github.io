@@ -248,11 +248,11 @@
 
 ## Etiology of Cardiopulmonary Arrest {5H5T}
 
-- Hydrogen ion
-- Hypokalemia & Hyperkalemia
 - Hypothermia
 - Hypovolemia
 - Hypoxia
+- Hydrogen ion
+- Hypokalemia & Hyperkalemia
 - Tamponade
 - Tension pneumothorax
 - Thrombosis :: myocardial infarction
