@@ -32,7 +32,7 @@ title: Life Code
 ## Medicine
 
 - [Anatomy](Medicine/Anatomy.html)
-- [Anesthesia](Medicine/Anesthesia.html)
+- [Anesthesiology](Medicine/Anesthesiology.html)
 - [Behavioral Science & Psychiatry](Medicine/Behavioral%20Science%20&%20Psychiatry.html)
 - [Biochemistry](Medicine/Biochemistry.html)
 - [Biostatistics](Medicine/Biostatistics.html)
