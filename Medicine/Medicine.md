@@ -194,7 +194,7 @@
 |||Sigmoidoscopy with barium enema|Every 5 years|
 |||Fecal occult blood testing|Every year|
 
-## Primary Survey for Emergency Medicine {ABCDE}
+## Primary Survey for Trauma {ABCDE}
 
 - Airway
 - Breathing
