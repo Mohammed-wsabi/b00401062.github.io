@@ -55,7 +55,6 @@ title: Life Code
 - [Pediatrics](Medicine/Pediatrics.html)
 - [Pharmacology](Medicine/Pharmacology.html)
 - [Physiology](Medicine/Physiology.html)
-- [Procedures](Medicine/Procedures.html)
 - [Radiology & Nuclear Medicine](Medicine/Radiology%20&%20Nuclear%20Medicine.html)
 - [Renal System & Nephrology](Medicine/Renal%20System%20&%20Nephrology.html)
 - [Reproductive System & OBGYN](Medicine/Reproductive%20System%20&%20OBGYN.html)
