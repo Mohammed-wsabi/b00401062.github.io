@@ -22,6 +22,7 @@
 - [Differential Diagnosis](#differential-diagnosis)
 - [Vital Signs](#vital-signs)
 - [Physical Examination](#physical-examinatione)
+- [Electrophysiology](#electrophysiology)
 - [Laboratory](#laboratory)
 - [Microbiology](#microbiology)
 - [Imaging](#imaging)
@@ -166,6 +167,10 @@
 
 ---
 
+### Electrophysiology
+
+---
+
 ### Laboratory
 
 ---
@@ -179,6 +184,10 @@
 ---
 
 ### Pathology
+
+---
+
+### Special Examinations
 
 ---
 
