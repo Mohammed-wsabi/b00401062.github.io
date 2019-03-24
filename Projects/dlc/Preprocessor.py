@@ -16,5 +16,5 @@ class Preprocessor:
 			X = imread(RAWDIR + f)
 			X = X[y:(y + h), x:(x + w)]
 			X = pad(X, ((int((m - h)/2),) * 2, (int((m - w)/2),) * 2, (0,) * 2), mode = "edge")
-			X = resize(X, (S, S, 3))
+			X = resize(X, (self.S, self. S, 3))
 			imsave(PREPROCESSEDDIR + f[:-3] + "jpeg", X)

@@ -6,9 +6,10 @@ from keras.layers import Dense, Flatten
 from keras.models import Model
 
 class Classifier:
-	def __init__(self, LABELS, PREPROCESSEDDIR):
-		self.LABELS = LABELS
+	def __init__(self, PREPROCESSEDDIR, LABELS, S):
 		self.PREPROCESSEDDIR = PREPROCESSEDDIR
+		self.LABELS = LABELS
+		self.S = S
 	def run(self):
 		## Augmentation
 		generator = ImageDataGenerator(
@@ -21,7 +22,7 @@ class Classifier:
 			validation_split = 0.2
 		)
 		## Classifier
-		model = VGG16(weights = "imagenet", include_top = False, input_shape = (S, S, 3))
+		model = VGG16(weights = "imagenet", include_top = False, input_shape = (self.S, self.S, 3))
 		for layer in model.layers:
 			layer.trainable = False
 		model = Model(inputs = model.input, outputs = Dense(y_train.shape[1], activation = "softmax")(Flatten()(model.output)))
@@ -32,7 +33,7 @@ class Classifier:
 			generator = generator.flow_from_dataframe(
 				dataframe = self.LABELS,
 				directory = self.PREPROCESSEDDIR,
-				target_size = (S, S),
+				target_size = (self.S, self.S),
 				x_col = "ImageID",
 				y_col = "Label",
 				subset = "training"
@@ -40,7 +41,7 @@ class Classifier:
 			validation_data = generator.flow_from_dataframe(
 				dataframe = self.LABELS,
 				directory = self.PREPROCESSEDDIR,
-				target_size = (S, S),
+				target_size = (self.S, self.S),
 				x_col = "ImageID",
 				y_col = "Label",
 				subset = "validation"
