@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from dlc.Parameters import *
+from dlc.Configuration import *
 from dlc.Dataset import *
 from dlc.Preprocessor import *
 from dlc.Classifier import *
