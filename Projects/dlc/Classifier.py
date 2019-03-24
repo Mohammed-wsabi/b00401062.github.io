@@ -19,13 +19,12 @@ class Classifier:
 			width_shift_range = 0.2,
 			height_shift_range = 0.2,
 			horizontal_flip = True,
-			validation_split = 0.2
 		)
 		## Classifier
 		model = VGG16(weights = "imagenet", include_top = False, input_shape = (self.S, self.S, 3))
 		for layer in model.layers:
 			layer.trainable = False
-		model = Model(inputs = model.input, outputs = Dense(y_train.shape[1], activation = "softmax")(Flatten()(model.output)))
+		model = Model(inputs = model.input, outputs = Dense(len(LABELS.Label.unique()), activation = "softmax")(Flatten()(model.output)))
 		model.compile(loss = "categorical_crossentropy", optimizer = "adam", metrics = ["accuracy"])
 		model.summary()
 		## Fitting
@@ -36,16 +35,7 @@ class Classifier:
 				target_size = (self.S, self.S),
 				x_col = "ImageID",
 				y_col = "Label",
-				subset = "training"
 			),
-			validation_data = generator.flow_from_dataframe(
-				dataframe = self.LABELS,
-				directory = self.PREPROCESSEDDIR,
-				target_size = (self.S, self.S),
-				x_col = "ImageID",
-				y_col = "Label",
-				subset = "validation"
-			),
-			epochs = 1,
-			verbose = 1
+			epochs = 10,
+			verbose = 1,
 		)
