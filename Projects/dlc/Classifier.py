@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 from keras.preprocessing.image import ImageDataGenerator
-from keras.applications.vgg16 import VGG16
+from keras.applications.xception import Xception
 from keras.layers import Dense, Flatten
 from keras.models import Model
 
@@ -21,7 +21,7 @@ class Classifier:
 			horizontal_flip = True,
 		)
 		## Classifier
-		model = VGG16(weights = "imagenet", include_top = False, input_shape = (self.S, self.S, 3))
+		model = Xception(weights = "imagenet", include_top = False, input_shape = (self.S, self.S, 3))
 		for layer in model.layers:
 			layer.trainable = False
 		model = Model(inputs = model.input, outputs = Dense(len(LABELS.Label.unique()), activation = "softmax")(Flatten()(model.output)))
