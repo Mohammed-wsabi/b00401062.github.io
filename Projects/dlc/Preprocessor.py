@@ -4,17 +4,19 @@ from skimage.transform import resize
 from skimage.util import pad
 from matplotlib.pyplot import *
 
-class Preprocessor:
-	def __init__(self, RAWDIR, BOXES, S):
+class Preprocesser:
+	def __init__(self, RAWDIR, PREPROCESSEDDIR, BOXES, S):
 		self.RAWDIR = RAWDIR
+		self.PREPROCESSEDDIR = PREPROCESSEDDIR
 		self.BOXES = BOXES
 		self.S = S
 	def run(self):
-		for f, (x, y, w, h) in self.BOXES.iterrows():
-			(x, y, w, h) = (int(x), int(y), int(w), int(h))
+		for i, (f, minr, minc, maxr, maxc) in self.BOXES.iterrows():
+			if f.split("_")[1] is "IMG": continue
+			h = maxr - minr
+			w = maxc - minc
 			m = max(w, h)
-			X = imread(RAWDIR + f)
-			X = X[y:(y + h), x:(x + w)]
-			X = pad(X, ((int((m - h)/2),) * 2, (int((m - w)/2),) * 2, (0,) * 2), mode = "edge")
-			X = resize(X, (self.S, self. S, 3))
-			imsave(PREPROCESSEDDIR + f[:-3] + "jpeg", X)
+			X = imread(self.RAWDIR + f)[minr:maxr, minc:maxc]
+			X = pad(X, ((int((m - h)/2),) * 2, (int((m - w)/2),) * 2, (0,) * 2), mode = "constant", constant_values = 0)
+			X = resize(X, (self.S, self.S, 3))
+			imsave(self.PREPROCESSEDDIR + f[:-4], X)

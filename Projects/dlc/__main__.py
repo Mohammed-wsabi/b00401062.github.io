@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 
+from pandas import read_csv
 from dlc.Configuration import *
+from dlc.Cropper import *
+from dlc.Preprocesser import *
 from dlc.Dataset import *
-from dlc.Preprocessor import *
 from dlc.Classifier import *
 
 if __name__ == "__main__":
-	BOXES, LABELS = Dataset(DATASETDIR, RAWDIR).load()
-	BOXES = BOXES.set_index("ID")
-	Preprocessor(RAWDIR, BOXES, S).run()
-	LABELS.ImageID = list(map(lambda f: f[:-3] + "jpeg", LABELS.ImageID))
-	LABELS.Label = LABELS.Label.astype("category")
-	model = Classifier(PREPROCESSEDDIR, S)
-	model.fit(LABELS)
+	Cropper(DATASETDIR, RAWDIR).run()
+	BOXES = read_csv(DATASETDIR + "Boxes.csv")
+	Preprocesser(RAWDIR, PREPROCESSEDDIR, BOXES, S).run()
+	LABELS = Dataset(DATASETDIR, PREPROCESSEDDIR).load()
+	model = Classifier(PREPROCESSEDDIR, S).fit(LABELS)

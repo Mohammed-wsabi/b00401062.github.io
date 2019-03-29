@@ -23,7 +23,7 @@ class Classifier:
 		self.model = Xception(weights = "imagenet", include_top = False, input_shape = (self.S, self.S, 3))
 		for layer in self.model.layers:
 			layer.trainable = False
-		outputs = Dense(len(LABELS.Label.unique()), activation = "softmax")(Flatten()(self.model.output))
+		outputs = Dense(105, activation = "softmax")(Flatten()(self.model.output))
 		self.model = Model(inputs = self.model.input, outputs = outputs)
 		self.model.compile(loss = "categorical_crossentropy", optimizer = "adam", metrics = ["accuracy"])
 		self.model.summary()
@@ -39,6 +39,7 @@ class Classifier:
 			epochs = 10,
 			verbose = 1,
 		)
+		return self
 	def predict(self, LABELS):
 		self.model.predict_generator(
 			generator = generator.flow_from_dataframe(
