@@ -4,8 +4,6 @@ import os
 from numpy import *
 from scipy.ndimage import binary_fill_holes
 from cv2.saliency import StaticSaliencySpectralResidual_create
-from skimage.color import rgb2gray
-from skimage.filters import sobel
 from skimage.filters import gaussian
 from skimage.morphology import remove_small_objects
 from skimage.measure import label
