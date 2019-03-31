@@ -29,6 +29,6 @@ class Cropper:
 			for i, region in enumerate(regionprops(L)):
 				minr, minc, maxr, maxc = region.bbox
 				O = X[minr:maxr, minc:maxc]
-				if all(ptp(O, 2) <= 25): continue
+				if all(ptp(O, 2) <= 40): continue
 				boxes.write("{},{},{},{},{}\n".format(f, *region.bbox))
 		boxes.close()
