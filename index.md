@@ -84,7 +84,6 @@ title: Life Code
 - [nmmi](Projects/nmmi): Pipeline to create a normative model for microstructural integrity of the white matter tracts.
 - [notebook](Projects/notebook): Place where you can take note of trivial things in your life.
 - [osccm](Projects/osccm): Pipeline for metagenomics analysis to study association between microbiota and cancer.
-- [ratlab](Projects/ratlab): Collection of [Matlab](https://www.mathworks.com) functions implemented natively in [R](https://www.r-project.org).
 - [rosalind](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/rosalind): Collection of Java programs solving [ROSALIND](http://rosalind.info/problems/locations/) problems.
 - [sdp](Projects/sdp): Pipeline to predict schizophrenia development using DSI.
 - [strp](Projects/strp): Pipeline to predict antipsychotic treatment response using DSI.
