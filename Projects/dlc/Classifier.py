@@ -32,18 +32,24 @@ class Classifier:
 		## Fitting
 		self.model.fit_generator(
 			generator = generator.flow_from_dataframe(
-				dataframe = LABELS,
+				dataframe = LABELS.training,
 				directory = self.PREPROCESSEDDIR,
 				target_size = (self.S, self.S),
 				x_col = "ImageID",
 				y_col = "Label",
 			),
-			epochs = 10,
 			verbose = 1,
 			callbacks = [
 				EarlyStopping(monitor = "val_loss", patience = 2),
 				ModelCheckpoint(filepath = "Classifier.h5", monitor = "val_loss", save_best_only = True)
 			],
+			validation_data = generator.flow_from_dataframe(
+				dataframe = LABELS.test,
+				directory = self.PREPROCESSEDDIR,
+				target_size = (self.S, self.S),
+				x_col = "ImageID",
+				y_col = "Label",
+			),
 			use_multiprocessing = True,
 		)
 		return self

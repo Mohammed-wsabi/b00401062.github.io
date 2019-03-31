@@ -2,6 +2,7 @@
 
 import os
 from pandas import *
+from sklearn.model_selection import train_test_split
 
 class Dataset:
 	def __init__(self, DATASETDIR, PREPROCESSEDDIR):
@@ -16,4 +17,4 @@ class Dataset:
 			labels = list(map(lambda f: f.split("_")[0], fs))
 			LABELS = DataFrame({"ImageID": fs, "Label": labels})
 			LABELS.to_csv(self.DATASETDIR + "Labels.csv", index = False)
-		return LABELS
+		return Set(*train_test_split(LABELS, stratify = LABELS.Label))
