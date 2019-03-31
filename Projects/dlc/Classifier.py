@@ -4,6 +4,8 @@ from keras.preprocessing.image import ImageDataGenerator
 from keras.applications.xception import Xception
 from keras.layers import Dense, Flatten
 from keras.models import Model
+from keras.callbacks import EarlyStopping
+from keras.callbacks import ModelCheckpoint
 
 class Classifier:
 	def __init__(self, PREPROCESSEDDIR, S):
@@ -38,6 +40,11 @@ class Classifier:
 			),
 			epochs = 10,
 			verbose = 1,
+			callbacks = [
+				EarlyStopping(monitor = "val_loss", patience = 2),
+				ModelCheckpoint(filepath = "Classifier.h5", monitor = "val_loss", save_best_only = True)
+			],
+			use_multiprocessing = True,
 		)
 		return self
 	def predict(self, LABELS):
