@@ -38,9 +38,10 @@ class Classifier:
 				x_col = "ImageID",
 				y_col = "Label",
 			),
+			epochs = 100,
 			verbose = 1,
 			callbacks = [
-				EarlyStopping(monitor = "val_loss", patience = 2),
+				EarlyStopping(monitor = "val_loss", patience = 4),
 				ModelCheckpoint(filepath = "Classifier.h5", monitor = "val_loss", save_best_only = True)
 			],
 			validation_data = generator.flow_from_dataframe(
