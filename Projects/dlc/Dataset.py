@@ -12,7 +12,7 @@ class Dataset:
 			LABELS = read_csv(self.DATASETDIR + "Labels.csv")
 		else:
 			fs = os.listdir(self.PREPROCESSEDDIR)
-			fs = list(filter(lambda f: f.split("_")[1][0] != "B", fs))
+			fs = list(filter(lambda f: f.split("_")[1] == "IMG", fs))
 			labels = list(map(lambda f: f.split("_")[0], fs))
 			LABELS = DataFrame({"ImageID": fs, "Label": labels})
 			LABELS.to_csv(self.DATASETDIR + "Labels.csv", index = False)
