@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from pandas import read_csv
+from pandas import *
 from dlc.Configuration import *
 from dlc.Cropper import *
 from dlc.Preprocesser import *
