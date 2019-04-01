@@ -18,7 +18,7 @@ class Dataset:
 			LABELS = DataFrame({"ImageID": fs, "Label": labels})
 			LABELS.to_csv(self.DATASETDIR + "Labels.csv", index = False)
 		LABELS.Label = LABELS.Label.astype("category")
-		LABELS = Set(*train_test_split(LABELS, stratify = LABELS.Label))
-		LABELS.training.index = list(range(LABELS.training.index))
-		LABELS.test.index = list(range(LABELS.test.index))
-		return Set(*train_test_split(LABELS, stratify = LABELS.Label))
+		LABELS = Set(*train_test_split(LABELS, test_size = 0.2, stratify = LABELS.Label))
+		LABELS.training.index = list(range(LABELS.training.shape[0]))
+		LABELS.test.index = list(range(LABELS.test.shape[0]))
+		return LABELS
