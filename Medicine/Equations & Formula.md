@@ -168,7 +168,7 @@
 
 |Parameter|0.8 × (4 - Albumin) + Ca |
 |-|-|
-|Ca|Serum calcium (mmol/L)|
+|Ca|Serum calcium (mg/dL)|
 |Albumin|Serum albumin (g/dL)|
 
 ## Filtration Fraction (FF)
