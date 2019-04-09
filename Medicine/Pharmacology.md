@@ -151,6 +151,7 @@
 ||Carbachol|Glaucoma|
 ||Methacholine|Asthma diagnosis|
 ||Pilocarpine|Glaucoma & Xerostomia|
+||Cevimeline|Xerostomia|
 |N agonists|Succinylcholine|Muscle relaxant|
 
 ## Mechanisms of Action of Cholinergic Antagonists
