@@ -13,6 +13,7 @@
 - [Supervised Learning](#supervised-learning)
 - [Bayesian Decision Theory](#bayesian-decision-theory)
 - [Parametric Methods](#parametric-methods)
+- [Multivariate Methods](#multivariate-methods)
 
 ---
 
@@ -257,5 +258,26 @@
 - **Bayesian model selection** is used when we have some prior knowledge about the appropriate class of approximating functions.
 
 ![](https://www.kdnuggets.com/wp-content/uploads/bias-variance-total-error.jpg)
+
+---
+
+## Multivariate Methods
+
+- Multivariate Data
+- Parameter Estimation
+- [Estimation of Missing Values](#estimation-of-missing-values)
+- Multivariate Normal Distribution
+- Multivariate Classification
+- Tuning Complexity
+- Multivariate Regression
+
+
+---
+
+### Estimation of Missing Values
+
+- **Imputation**: the process of replacing missing data with substituted values.
+	- **Mean imputation** substitutes the mean (average) of the available data for that variable in the sample.
+	- **Imputation by regression** predicts the value of a missing variable from other variables whose values are known for that case.
 
 ---
