@@ -179,7 +179,7 @@
 |Vasculitis :: granulomatosis with polyangiitis (GPA)|PR3-ANCA [c-ANCA]|
 |Vasculitis :: eosinophilic granulomatosis with polyangiitis (EGPA)|MPO-ANCA [p-ANCA]|
 |Vasculitis :: microscopic polyangiitis|MPO-ANCA [p-ANCA]|
-|Antiphospholipid syndrome (APS)|Anti-cardiolipin & Lupus anticoagulant|
+|Antiphospholipid syndrome (APS)|Anti-cardiolipin & Anti-β2-glycoprotein I & Lupus anticoagulant|
 |Arthus reaction|-|
 |Autoimmune hepatitis|Anti-smooth muscle|
 |Dermatitis herpetiformis|Anti-tissue transglutaminase (Anti-tTG) IgA|
