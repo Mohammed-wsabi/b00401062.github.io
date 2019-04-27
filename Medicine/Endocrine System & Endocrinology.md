@@ -183,23 +183,24 @@
 
 ## Etiology of Nephrogenic Diabetes Insipidus (DI)
 
-- Mutations :: Vasopressin receptor & Aquaporin
-- Electrolyte disturbances :: Hypercalcemia & Hypokalemia
-- Hematologic disorders :: Sickle cell disease & Multiple myeloma
-- Rheumatic diseases :: Sjogren syndrome & Sarcoidosis
+- Mutations :: vasopressin receptor & aquaporin
+- Electrolyte disturbances :: hypercalcemia & hypokalemia
+- Hematologic disorders :: sickle cell disease & multiple myeloma
+- Rheumatic diseases :: Sjogren syndrome & sarcoidosis
 - Amyloidosis
 - Drugs :: Lithium & Demeclocycline & Colchicine
 
 ## Etiology of Syndrome of Inappropriate Secretion of ADH (SIADH)
 
-- Malignancies :: Small cell carcinomas
+- Malignancies :: small cell carcinomas
 - CNS disorders
 - Pulmonary diseases :: Tuberculosis & Pneumonia
+- Drugs :: Antipsychotics & Antidepressants
 
 ## Treatment of Syndrome of Inappropriate Secretion of ADH (SIADH)
 
 - Fluid restriction
-- Fluids :: Hypertonic saline
+- Fluids :: hypertonic saline
 - V<sub>2</sub> antagonists: Vaptans
 - Nephrogenic DI-inducing drugs :: Lithium & Demeclocycline
 
@@ -292,7 +293,7 @@
 
 ## Treatment of Acute Hyperglycemia
 
-- Fluids :: Isotonic saline
+- Fluids :: isotonic saline
 - Potassium
 - Insulin
 - Bicarbonate if indicated
