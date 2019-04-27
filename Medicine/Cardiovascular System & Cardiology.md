@@ -375,10 +375,10 @@
 
 ## Treatment of Atrial Fibrillation
 
+- Anticoagulants
 - Cardioversion
 	- Electrical cardioversion
 	- Antiarrhythmics :: Class 2 & 4
-- Anticoagulants
 
 ## Etiology of ST Segment Elevation
 
