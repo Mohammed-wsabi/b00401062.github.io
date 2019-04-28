@@ -103,7 +103,7 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |α<sub>1</sub> antagonists & α<sub>2</sub> agonists|-|Vasodilation|
-|Ca channel blockers|Amlodipine & Nifedipine|Vasodilation|
+|Ca channel blockers|-Dipines|Vasodilation|
 |K channel activators|Minoxidil & Diazoxide|Vasodilation|
 |NO donors|Nitroprusside & Hydralazine|Vasodilation|
 |PDE inhibitors|Dipyridamole & Cilostazol|Vasodilation|
