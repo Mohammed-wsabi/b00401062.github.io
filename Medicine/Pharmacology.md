@@ -64,7 +64,8 @@
 ||Aminopyridine|-|
 |Ca channel activators|-|-|
 |Ca channel blockers|Class 4 antiarrhythmics|Arrhythmia|
-||Amlodipine & Nifedipine|Vasodilation|
+||-Dipines|Vasodilation|
+||Dantrolene|Malignant hyperthermia & Neuroleptic malignant syndrome|
 ||Ethosuximide|Seizure :: absence|
 ||Gabapentin|Seizure & Neuropathic pain|
 |Na-K pump blockers|Digoxin & Digitalis|Arrhythmia & Inotrope|
