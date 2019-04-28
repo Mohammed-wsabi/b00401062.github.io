@@ -138,8 +138,8 @@
 |Pulsus paradoxus|Cardiac tamponade & Obstructive lung disease|
 |Pulsus parvus et tardus|Aortic stenosis|
 |Pulsus alternans|LV systolic dysfunction|
-|Differential cyanosis: lower limbs|Eisenmenger syndrome|
-|Reverse differential cyanosis: upper limbs|Transposition of great artery (TGA)|
+|Differential cyanosis :: lower limbs|Eisenmenger syndrome|
+|Reverse differential cyanosis :: upper limbs|Transposition of great artery (TGA)|
 |Kussmaul sign|Cardiac tamponade & Right heart failure & Restrictive cardiomyopathy|
 
 ## Grading of Murmurs
