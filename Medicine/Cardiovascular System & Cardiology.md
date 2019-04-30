@@ -437,7 +437,7 @@
 - Diuretics
 - Vasodilators
 
-## Treatment of Hypertensive Emergency {ABDV}
+## Treatment of Hypertensive Emergency
 
 - β<sub>1</sub> antagonists :: Labetalol
 - Venodilators & Vasodilators :: NO donors & Ca channel blockers
