@@ -174,6 +174,14 @@
 |Be|Beneficence|
 |Nice|Nonmaleficence|
 
+## Evaluation of Family Function {APGAR}
+
+- Adaptability
+- Partnership
+- Growth
+- Affection
+- Resolve
+
 ## Leading Causes of Death in General Population
 
 - Heart :: cardiovascular disease
