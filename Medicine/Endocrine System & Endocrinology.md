@@ -281,9 +281,9 @@
 |||2° Sulfonylurea :: Glipizide|DM type 2|
 |||2° Sulfonylurea :: Glyburide|DM type 2|
 |||Meglitinides [-Glinides]|DM type 2|
+|DPP-4 inhibitors|↑ Insulin & ↓ Glucagon|-Gliptins|DM type 2|
 |GLP-1 analogs|↑ Insulin & ↓ Glucagon|Exenatide|DM type 2|
 |||Liraglutide|DM type 2|
-|DPP-4 inhibitors|↑ Insulin & ↓ Glucagon|-Gliptins|DM type 2|
 |Amylin analogs|↓ Glucagon|Pramlintide|DM|
 |α-Glucosidase inhibitors|↓ Glucose|Acarbose|DM type 2|
 |||Miglitol|DM type 2|
