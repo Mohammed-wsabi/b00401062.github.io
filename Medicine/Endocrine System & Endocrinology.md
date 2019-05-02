@@ -285,11 +285,11 @@
 |||Liraglutide|DM type 2|
 |DPP-4 inhibitors|↑ Insulin & ↓ Glucagon|-Gliptins|DM type 2|
 |Amylin analogs|↓ Glucagon|Pramlintide|DM|
+|α-Glucosidase inhibitors|↓ Glucose|Acarbose|DM type 2|
+|||Miglitol|DM type 2|
+|SGLT-2 inhibitors|↓ Glucose|Gliflozins|DM type 2|
 |AMPK inducers|↑ Insulin sensitivity|Biguanide :: Metformin|DM type 2|
 |PPAR-γ inducers|↑ Insulin sensitivity|Thiazolidinedione: Glitazones|DM type 2|
-|α-Glucosidase inhibitors|-|Acarbose|DM type 2|
-||-|Miglitol|DM type 2|
-|SGLT-2 inhibitors|-|Gliflozins|DM type 2|
 
 ## Treatment of Acute Hyperglycemia
 
