@@ -460,3 +460,9 @@
 - Adenopathy of neck
 - Rashes :: desquamating
 - Edema of limbs
+
+## Indications for Permanent Pacemaker
+
+- Sinus bradycardia :: < 40
+- Sick sinus syndrome
+- AV blocks :: 2nd degree Mobitz II & 3rd degree
