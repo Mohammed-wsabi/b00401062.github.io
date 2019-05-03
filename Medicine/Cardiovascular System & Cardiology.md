@@ -376,9 +376,13 @@
 ## Treatment of Atrial Fibrillation
 
 - Anticoagulants
+	- If > 48 hours
+	- If CHA<sub>2</sub>DS<sub>2</sub>-VASc Score ≥ 2
 - Cardioversion
-	- Electrical cardioversion
-	- Antiarrhythmics :: Class 2 & 4
+	- If < 48 hours
+	- If no atrial thrombus on echocardiogram
+	- If anticoagulated 
+- Antiarrhythmics :: Class 2 & 4 & Digoxin
 
 ## Etiology of ST Segment Elevation
 
