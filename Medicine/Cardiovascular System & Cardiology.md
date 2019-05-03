@@ -153,7 +153,15 @@
 |5|+|Partially off|
 |6|+|Completely off|
 
-## ECG Localization
+## Approach to ECG
+
+- Rate
+- Rhythm
+- Axis
+- Interval
+- Morphology
+
+## Localization on ECG
 
 |Infarct Location|Artery|Leads|
 |-|-|-|
@@ -164,11 +172,11 @@
 |Inferior|RCA & LCX|II & III & aVF|
 |Posterior|RCA / LCX|V1 & V2 & V3|
 
-![](../Figures/ECG%20Localization.png)
+![](../Figures/Localization%20on%20ECG.png)
 
-## Heart Echo Positions and Views
+## Views of Echocardiography
 
-![](../Figures/Heart%20Echo%20Positions%20and%20Views.png)
+![](../Figures/Views%20of%20Echocardiography.png)
 
 ## Cyanotic Congenital Heart Defects (CHD) {5T-HE}
 
@@ -377,7 +385,7 @@
 
 - Anticoagulants
 	- If > 48 hours
-	- If CHA<sub>2</sub>DS<sub>2</sub>-VASc Score ≥ 2
+	- If CHA<sub>2</sub>DS<sub>2</sub>-VASc ≥ 2
 - Cardioversion
 	- If < 48 hours
 	- If no atrial thrombus on echocardiogram
