@@ -163,7 +163,7 @@
 
 ## Localization on ECG
 
-|Infarct Location|Artery|Leads|
+|Location|Artery|Leads|
 |-|-|-|
 |Septal|LAD|V1 & V2|
 |Anterior|LAD|V3 & V4|
