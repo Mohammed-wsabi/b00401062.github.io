@@ -191,7 +191,7 @@
 
 ### Female
 
-|Parameter|0.85 × (140 – Age) × W ÷ (72 × Cr)|
+|Parameter|(140 – Age) × W ÷ (72 × Cr) × 0.85|
 |-|-|
 |Age|Age (year)|
 |W|Weight (kg)|
