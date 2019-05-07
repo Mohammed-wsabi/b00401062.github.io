@@ -428,7 +428,7 @@
 |> 14 days|Contracted scar|Aneurysm|
 ||-|Dressler syndrome|
 
-## Treatment of Acute coronary syndrome (ACS) {MONA}
+## Treatment of Acute Coronary Syndrome (ACS) {MONA}
 
 - Antiplatelets :: Aspirin & ADP antagonists
 - Anticoagulants :: Heparin
