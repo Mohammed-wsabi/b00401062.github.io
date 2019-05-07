@@ -445,6 +445,13 @@
 - Venodilators :: Morphine & NO donors
 - Oxygen
 
+## Indications for Coronary Artery Bypass Grafting (CABG)
+
+- LCA > 50% stenosis
+- Proximal LAD > 50% stenosis
+- 2-vessel disease: 2 vessels > 50% stenosis & EF < 50%
+- 3-vessel disease: 3 vessels > 50% stenosis
+
 ## Beck Triad of Cardiac Tamponade
 
 - Hypotension & Pulsus paradoxus
