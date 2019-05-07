@@ -366,7 +366,7 @@
 
 - Congestive heart failure (CHF)
 - Hypertension
-- Age :: ≥ 75
+- Age ≥ 75
 - Diabetes mellitus
 - Stroke & other cerebral vascular accidents (CVA)
 
@@ -374,11 +374,11 @@
 
 - Congestive heart failure (CHF)
 - Hypertension
-- Age :: ≥ 75
+- Age ≥ 75
 - Diabetes mellitus
 - Stroke & other cerebral vascular accidents (CVA)
 - Vascular disease
-- Age :: 65 ~ 75
+- Age 65 ~ 75
 - Sex :: female
 
 ## Treatment of Atrial Fibrillation
@@ -427,6 +427,15 @@
 ||-|Cardiac tamponade|
 |> 14 days|Contracted scar|Aneurysm|
 ||-|Dressler syndrome|
+
+## Thrombolysis in Myocardial Infarction (TIMI) Score for NSTEMI {ACS}
+
+- Age ≥ 75
+- Aspirin use
+- Angina ≥ 2 in 24 hours
+- CAD risk factors ≥ 3
+- Cardiac enzymes
+- ST changes ≥ 0.5 mm
 
 ## Treatment of Acute Coronary Syndrome (ACS) {MONA}
 
