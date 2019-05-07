@@ -376,8 +376,8 @@
 - Hypertension
 - Age ≥ 75
 - Diabetes mellitus
-- Stroke & other cerebral vascular accidents (CVA)
-- Vascular disease
+- Stroke / CVA history
+- Vascular diseases
 - Age 65 ~ 75
 - Sex :: female
 
