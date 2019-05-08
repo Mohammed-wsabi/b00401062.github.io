@@ -299,17 +299,6 @@
 - Bicarbonate if indicated
 - Phosphate if indicated
 
-## Mechanisms of Action of Medications for Hyperlipidemia {OECSNF}
-
-|Mechanism|Medication|LDL|HDL|Triglyceride|
-|-|-|-|-|-|
-|Pancreatic lipase inhibitors|Orlistat|↓↓|-|-|
-|Cholesterol absorption inhibitors|Ezetimibe|↓↓|-|-|
-|Bile acid resin|Cholestyramine|↓↓|-|-|
-|HMG-CoA reductase inhibitors|Statins|↓↓↓|↑|↓|
-|HSL & VLDL synthesis inhibitors|Niacin (B3)|↓↓|↑↑|↓|
-|LPL & PPAR-α inducers|Fibrates|↓|↑|↓↓↓|
-
 ## Mechanisms of Action of Medications for Acromegaly
 
 |Mechanism|Medication|Indications|
