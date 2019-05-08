@@ -405,6 +405,14 @@
 - Pulmonary embolism
 - Variant angina
 
+## Risk Factors for Coronay Artery Disease (CAD)
+
+- Age ≥ 45 in males / ≥ 55 in females
+- Cigarette smoking
+- Family history of premature CAD
+- Hypertension
+- HDL < 40 mg/dL
+
 ## Pathogenesis & Presentation of Acute Coronary Syndrome (ACS)
 
 |Types|Pathogenesis|T Wave|ST Segment|Q Wave|Triggers|Cardiac Enzymes|
