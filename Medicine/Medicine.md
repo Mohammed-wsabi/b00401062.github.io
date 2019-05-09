@@ -286,6 +286,8 @@
 - Psychosis
 - Sugar: hypoglycemia & hyperglycemia
 - Seizures
+- Strokes
+- Syncope
 
 ## Workup of Acid-Base Disturbances
 
