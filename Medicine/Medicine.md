@@ -361,10 +361,9 @@
 
 ## Workup of Hyponatremia
 
-- Plasma osmolality :: hypotonic
+- Plasma osmolarity :: hypotonic
 	- Volume status :: hypovolemic
 		- Urine Na < 20 & FE<sub>NA</sub> < 1%
-			- **Burns**
 			- **GI losses**
 			- **Third spacing**
 		- Urine Na > 20 & FE<sub>Na</sub> > 1%
@@ -382,11 +381,25 @@
 			- **Hepatic failure**
 		- Urine Na > 20 & FE<sub>Na</sub> > 1%
 			- **Renal failure**
-- Plasma osmolality :: isotonic
+- Plasma osmolarity :: isotonic
 	- **Hyperlipidemia**
 	- **Hyperproteinemia**
-- Plasma osmolality :: hypertonic
+- Plasma osmolarity :: hypertonic
 	- **Hyperglycemia**
+
+## Workup of Hypernatremia
+
+- Urine osmolarity < 600
+	- **Diabetes insipidus**
+	- **Diuretics** :: osmotic
+- Urine osmolarity > 800
+	- Urine Na < 25
+		- **GI losses**
+		- **Seizures**
+		- **Eexercise**
+	- Urine Na > 100
+		- **Fluids** :: hypertonic saline
+		- **Hyperaldosteronism**
 
 ## Treatment of Hyperkalemia
 
