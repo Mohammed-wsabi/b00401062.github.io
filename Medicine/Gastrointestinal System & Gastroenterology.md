@@ -199,6 +199,16 @@
 |H|Hypokalemia|
 |A|Achlorhydria|
 
+## Inflammatory Bowel Disease (IBD)
+
+||Crohn Disease|Ulcerative Colitis|
+|-|-|-|
+|Origin|Terminal ileus|Rectum|
+|Pattern|Skip|Contiguous|
+|Thickness|Transmural|Mucosal & Submucosal|
+|Radiography|String sign|Lead pipe|
+|Risk of colon cancer|↑|↑↑|
+
 ## Classification of Hemorrhoids
 
 |Grade|Proplase|Reduction|
