@@ -199,7 +199,7 @@
 |H|Hypokalemia|
 |A|Achlorhydria|
 
-## Inflammatory Bowel Disease (IBD)
+## Classification of Inflammatory Bowel Disease (IBD)
 
 ||Crohn Disease|Ulcerative Colitis|
 |-|-|-|
@@ -209,7 +209,7 @@
 |Radiography|String sign|Lead pipe|
 |Risk of colon cancer|↑|↑↑|
 
-## Classification of Hemorrhoids
+## Grading of Hemorrhoids
 
 |Grade|Proplase|Reduction|
 |-|-|-|
