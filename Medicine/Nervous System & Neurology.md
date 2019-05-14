@@ -478,6 +478,7 @@
 ||Phenytoin|Seizure|
 |Ca channel blockers|Ethosuximide|Seizure :: absence|
 ||Gabapentin|Seizure & Neuropathic pain|
+||Pregabalin|Seizure & Neuropathic pain|
 |↑ GABA|Valproate|Seizure & Bipolar|
 |↑ GABA|Tiagabine|Seizure|
 |↑ GABA|Vigabatrin|Seizure|
