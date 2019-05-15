@@ -183,16 +183,16 @@
 |Arthus reaction|-|
 |Autoimmune hepatitis|Anti-smooth muscle|
 |Dermatitis herpetiformis|Anti-tissue transglutaminase (Anti-tTG) IgA|
-|Diffuse scleroderma|Anti-Scl-70 [Anti-topoisomerase]|
 |Drug-induced lupus|Anti-histone|
 |Henoch-Schonlein purpura (HSP)|IgA|
-|Limited scleroderma|Anti-centromere|
 |Membranoproliferative glomerulonephritis|C3 nephritic factor|
 |Mixed connective tissue disease (MCTD)|Anti-U1 RNP|
 |Polyarteritis nodosa|-|
 |Polymyositis & Dermatomyositis|Anti-Jo-1 & Anti-Mi-2 & Anti-SRP|
 |Primary biliary cirrhosis (PBC)|Anti-mitochondrium|
 |Rheumatoid arthritis|Rheumatoid factor [Anti-IgG] & Anti-CCP|
+|Scleroderma :: diffuse|Anti-Scl-70 [Anti-topoisomerase]|
+|Scleroderma :: limited|Anti-centromere|
 |Serum sickness|-|
 |Sjogren syndrome|Anti-Ro [Anti-SSA] & Anti-La [Anti-SSB]|
 |Systemic lupus erythematosus (SLE)|Anti-dsDNA & Anti-Smith [Anti-snRNP]|
