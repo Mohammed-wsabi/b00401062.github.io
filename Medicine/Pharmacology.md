@@ -571,7 +571,7 @@
 
 - Antiarrhythmics :: class 1A & 3
 - Antibiotics :: Macrolide & Fluoroquinolone
-- Antipsychotics
+- Antipsychotics :: 1°
 - Antidepressants :: TCA
 - Antiemetics :: Ondansetron
 
