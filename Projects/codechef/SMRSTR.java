@@ -8,7 +8,6 @@ class SMRSTR {
 		while (t-- > 0) {
 			int n = stdin.nextInt();
 			int q = stdin.nextInt();
-			stdin.nextLine();
 			long p = 1;
 			while (n-- > 0 && p <= (int) 1e9)
 				p *= stdin.nextInt();
