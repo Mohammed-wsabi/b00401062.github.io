@@ -4,7 +4,7 @@ import java.util.*;
 public class TRIE {
 	private static class Edge {
 		int s, t; char c;
-		Edge (int s, int t, char c) {
+		Edge(int s, int t, char c) {
 			this.s = s;
 			this.t = t;
 			this.c = c;
