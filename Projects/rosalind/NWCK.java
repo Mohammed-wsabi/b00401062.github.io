@@ -48,7 +48,7 @@ public class NWCK {
 		Scanner stdin = new Scanner(System.in);
 		while (stdin.hasNext()) {
 			String line = stdin.next();
-			String[] tree = line.split("(?<=(\\(|\\)|,|;))|(?=(\\(|\\)|,|;))");
+			String[] tree = line.split("(?<=[(),;])|(?=[(),;])");
 			int s = Arrays.asList(tree).indexOf(stdin.next());
 			int t = Arrays.asList(tree).indexOf(stdin.next());
 			System.out.println(distance(tree, Math.min(s, t), Math.max(s, t)));
