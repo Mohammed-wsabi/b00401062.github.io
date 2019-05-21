@@ -434,3 +434,14 @@
 - Hyperglycemia: FBG ≥ 100 mg/dL
 - Hypertriglycemia: triglyceride ≥ 150 mg/dL
 - Low HDL cholesterol: HDL < 40 mg/dL in men / < 50 mg/dL in women
+
+## Mechanisms of Action of Medications for Hyperlipidemia {OECSNF}
+
+|Mechanism|Medication|LDL|HDL|Triglyceride|
+|-|-|-|-|-|
+|Pancreatic lipase inhibitors|Orlistat|↓↓|-|-|
+|Cholesterol absorption inhibitors|Ezetimibe|↓↓|-|-|
+|Bile acid resin|Cholestyramine|↓↓|-|-|
+|HMG-CoA reductase inhibitors|Statins|↓↓↓|↑|↓|
+|HSL & VLDL synthesis inhibitors|Niacin (B3)|↓↓|↑↑|↓|
+|LPL & PPAR-α inducers|Fibrates|↓|↑|↓↓↓|
