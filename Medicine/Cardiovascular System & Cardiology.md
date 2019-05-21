@@ -360,6 +360,15 @@
 ||Adenosine|Arrhythmia|
 ||Magnesium|Arrhythmia|
 
+## Contraindications for Amiodarone
+
+- Sinus bradycardia :: < 40 & symptomatic
+- Sick sinus syndrome
+- AV blocks :: 2nd & 3rd degree
+- QT prolongation
+- Wolff-Parkinson-White (WPW) syndrome
+- cardiogenic shock
+
 ## Risk of Stroke from Atrial Fibrillation
 
 ### CHADS<sub>2</sub> Score
@@ -499,6 +508,6 @@
 
 ## Indications for Permanent Pacemaker
 
-- Sinus bradycardia :: < 40
+- Sinus bradycardia :: < 40 & symptomatic
 - Sick sinus syndrome
 - AV blocks :: 2nd degree Mobitz II & 3rd degree
