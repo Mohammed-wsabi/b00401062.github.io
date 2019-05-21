@@ -367,7 +367,7 @@
 - AV blocks :: 2nd & 3rd degree
 - QT prolongation
 - Wolff-Parkinson-White (WPW) syndrome
-- cardiogenic shock
+- Cardiogenic shock
 
 ## Risk of Stroke from Atrial Fibrillation
 
