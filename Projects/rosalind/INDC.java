@@ -15,7 +15,7 @@ public class INDC {
 		for (int k = 1; k <= 2 * n; k++) {
 			double p = 0;
 			for (int i = k; i <= 2 * n; i++)
-				p += choose(2 * n, i) * Math.pow(0.5, i) * Math.pow(0.5, 2 * n - i);
+				p += choose(2 * n, i) * Math.pow(0.5, 2 * n);
 			System.out.printf("%.3f\n", Math.log10(p));
 		}
 	}
