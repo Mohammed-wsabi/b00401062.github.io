@@ -25,11 +25,11 @@ public class castle {
 			label(label, i+1, j);
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(new File("castle.in"));
+		Scanner in = new Scanner(new File("castle.in"));
 		PrintWriter stdout = new PrintWriter(new File("castle.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		width = stdin.nextInt();
-		height = stdin.nextInt();
+		width = in.nextInt();
+		height = in.nextInt();
 		walls = new int[height+2][width+2];
 		rooms = new int[height+2][width+2];
 		for (int i = 1; i <= height; i++) {
@@ -42,7 +42,7 @@ public class castle {
 		}
 		for (int i = 1; i <= height; i++)
 			for (int j = 1; j <= width; j++)
-				walls[i][j] = stdin.nextInt();
+				walls[i][j] = in.nextInt();
 		int room_cnt = 0;
 		for (int i = 1; i <= height; i++)
 			for (int j = 1; j <= width; j++)

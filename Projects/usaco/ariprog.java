@@ -9,11 +9,11 @@ import java.util.*;
 
 public class ariprog {
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(new File("ariprog.in"));
+		Scanner in = new Scanner(new File("ariprog.in"));
 		PrintWriter stdout = new PrintWriter(new File("ariprog.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		int n = stdin.nextInt();
-		int m = stdin.nextInt();
+		int n = in.nextInt();
+		int m = in.nextInt();
 		boolean[] isBisquare = new boolean[m * m * 2 + 1];
 		for (int p = 0; p <= m; p++)
 			for (int q = p; q <= m; q++)

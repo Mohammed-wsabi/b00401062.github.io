@@ -12,10 +12,10 @@ public class milk3 {
 	private static boolean[] result;
 	private static int[] capacities;
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(new File("milk3.in"));
+		Scanner in = new Scanner(new File("milk3.in"));
 		PrintWriter stdout = new PrintWriter(new File("milk3.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		capacities = new int[]{ stdin.nextInt(), stdin.nextInt(), stdin.nextInt() };
+		capacities = new int[]{ in.nextInt(), in.nextInt(), in.nextInt() };
 		int[] values = { 0, 0, capacities[2] };
 		visited = new boolean[capacities[0]+1][capacities[1]+1][capacities[2]+1];
 		result = new boolean[capacities[2]+1];

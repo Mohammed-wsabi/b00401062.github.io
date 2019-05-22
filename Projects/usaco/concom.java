@@ -21,12 +21,12 @@ public class concom {
 				visit(j);
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(new File("concom.in"));
+		Scanner in = new Scanner(new File("concom.in"));
 		PrintWriter stdout = new PrintWriter(new File("concom.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		final int N = stdin.nextInt();
+		final int N = in.nextInt();
 		for (int n = 0; n < N; n++)
-			table[stdin.nextInt()][stdin.nextInt()] = stdin.nextInt();
+			table[in.nextInt()][in.nextInt()] = in.nextInt();
 		for (int i = 1; i <= MAX; i++) {
 			counts = new int[MAX + 1];
 			visited = new boolean[MAX + 1];

@@ -9,16 +9,16 @@ import java.util.*;
 
 public class transform {
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(new File("transform.in"));
+		Scanner in = new Scanner(new File("transform.in"));
 		PrintWriter stdout = new PrintWriter(new File("transform.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.close()));
-		int N = stdin.nextInt();
+		int N = in.nextInt();
 		char[][] before = new char[N][N];
 		char[][] after = new char[N][N];
 		for (int i = 0; i < N; i++)
-			before[i] = stdin.next().toCharArray();
+			before[i] = in.next().toCharArray();
 		for (int i = 0; i < N; i++)
-			after[i] = stdin.next().toCharArray();
+			after[i] = in.next().toCharArray();
 		char[][] rt090 = rotate(before);
 		char[][] rt180 = rotate(rt090);
 		char[][] rt270 = rotate(rt180);

@@ -42,16 +42,16 @@ public class lamps {
 		return out;
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(new File("lamps.in"));
+		Scanner in = new Scanner(new File("lamps.in"));
 		PrintWriter stdout = new PrintWriter(new File("lamps.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		int N = stdin.nextInt();
-		int C = stdin.nextInt();
+		int N = in.nextInt();
+		int C = in.nextInt();
 		List<Integer> on_set = new ArrayList<>();
 		List<Integer> off_set = new ArrayList<>();
-		for (int num = stdin.nextInt(); num != -1; num = stdin.nextInt())
+		for (int num = in.nextInt(); num != -1; num = in.nextInt())
 			on_set.add(num - 1);
-		for (int num = stdin.nextInt(); num != -1; num = stdin.nextInt())
+		for (int num = in.nextInt(); num != -1; num = in.nextInt())
 			off_set.add(num - 1);
 		boolean[] lights = new boolean[N];
 		Arrays.fill(lights, true);

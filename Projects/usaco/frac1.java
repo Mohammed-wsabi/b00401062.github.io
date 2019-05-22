@@ -18,10 +18,10 @@ public class frac1 {
 		generateFrac(n1 + n2, d1 + d2, n2, d2);
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(new File("frac1.in"));
+		Scanner in = new Scanner(new File("frac1.in"));
 		stdout = new PrintWriter(new File("frac1.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		n = stdin.nextInt();
+		n = in.nextInt();
 		stdout.println("0/1");
 		generateFrac(0, 1, 1, 1);
 		stdout.println("1/1");

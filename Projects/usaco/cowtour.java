@@ -49,15 +49,15 @@ public class cowtour {
 		return Arrays.stream(graph).mapToDouble(Node::getDist).toArray();
 	}
 	public static void main(String[] args) throws IOException {
-		final Scanner stdin = new Scanner(new File("cowtour.in"));
+		final Scanner in = new Scanner(new File("cowtour.in"));
 		final PrintWriter stdout = new PrintWriter(new File("cowtour.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		final int N = stdin.nextInt();
+		final int N = in.nextInt();
 		Node[] graph = new Node[N];
 		for (int i = 0; i < N; i++)
-			graph[i] = new Node(stdin.nextInt(), stdin.nextInt());
+			graph[i] = new Node(in.nextInt(), in.nextInt());
 		for (int i = 0; i < N; i++) {
-			String line = stdin.next();
+			String line = in.next();
 			for (int j = 0; j < N; j++)
 				if (line.charAt(j) == '1')
 					graph[i].edges.add(graph[j]);

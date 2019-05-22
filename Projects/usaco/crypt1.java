@@ -10,13 +10,13 @@ import java.util.*;
 public class crypt1 {
 	private static List<Integer> digits;
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(new File("crypt1.in"));
+		Scanner in = new Scanner(new File("crypt1.in"));
 		PrintWriter stdout = new PrintWriter(new File("crypt1.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		final int N = stdin.nextInt();
+		final int N = in.nextInt();
 		digits = new ArrayList<Integer>(N);
 		for (int i = 0; i < N; i++)
-			digits.add(stdin.nextInt());
+			digits.add(in.nextInt());
 		int count = 0, elem = 0;
 		List<Integer> stack = new ArrayList<Integer>(N);
 		do {

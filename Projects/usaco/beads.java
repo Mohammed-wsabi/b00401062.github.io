@@ -9,12 +9,12 @@ import java.util.*;
 
 public class beads {
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(new File("beads.in"));
+		Scanner in = new Scanner(new File("beads.in"));
 		PrintWriter stdout = new PrintWriter(new File("beads.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
 		int max = 0;
-		int N = stdin.nextInt();
-		String necklace = stdin.next();
+		int N = in.nextInt();
+		String necklace = in.next();
 		necklace += necklace;
 		for (int i = 0; i < N; i++) {
 			char c = necklace.charAt(i);

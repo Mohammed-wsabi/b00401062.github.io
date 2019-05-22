@@ -40,7 +40,7 @@ public class ttwo {
 		}
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(new File("ttwo.in"));
+		Scanner in = new Scanner(new File("ttwo.in"));
 		PrintWriter stdout = new PrintWriter(new File("ttwo.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
 		boolean[][] obstacles = new boolean[12][12];
@@ -49,7 +49,7 @@ public class ttwo {
 		}
 		Player farmer = null, cow = null;
 		for (int i = 1; i <= 10; i++) {
-			String line = stdin.next();
+			String line = in.next();
 			for (int j = 1; j <= 10; j++) {
 				switch (line.charAt(j-1)) {
 					case '.':

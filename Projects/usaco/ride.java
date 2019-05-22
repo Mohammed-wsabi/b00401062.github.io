@@ -9,11 +9,11 @@ import java.util.*;
 
 public class ride {
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(new File("ride.in"));
+		Scanner in = new Scanner(new File("ride.in"));
 		PrintWriter stdout = new PrintWriter(new File("ride.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		String comet = stdin.next();
-		String group = stdin.next();
+		String comet = in.next();
+		String group = in.next();
 		stdout.println(hash(comet) == hash(group) ? "GO" : "STAY");
 	}
 	private static int hash(String str) {

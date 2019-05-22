@@ -29,12 +29,12 @@ public class nocows {
 		return table[N][K] % 9901;
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(new File("nocows.in"));
+		Scanner in = new Scanner(new File("nocows.in"));
 		PrintWriter stdout = new PrintWriter(new File("nocows.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		final int N = stdin.nextInt();
-		final int K = stdin.nextInt();
-		stdin.close();
+		final int N = in.nextInt();
+		final int K = in.nextInt();
+		in.close();
 		stdout.println(evaluate(N, K));
 	}
 }

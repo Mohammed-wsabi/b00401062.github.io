@@ -10,10 +10,10 @@ import java.util.*;
 public class sprime {
 	private static PrintWriter stdout;
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(new File("sprime.in"));
+		Scanner in = new Scanner(new File("sprime.in"));
 		stdout = new PrintWriter(new File("sprime.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		int n = stdin.nextInt();
+		int n = in.nextInt();
 		for (int i : new int[] { 2, 3, 5, 7 })
 			solve(i, n);
 	}

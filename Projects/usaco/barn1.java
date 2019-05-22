@@ -9,19 +9,19 @@ import java.util.*;
 
 public class barn1 {
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(new File("barn1.in"));
+		Scanner in = new Scanner(new File("barn1.in"));
 		PrintWriter stdout = new PrintWriter(new File("barn1.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		final int M = stdin.nextInt();
-		final int S = stdin.nextInt();
-		final int C = stdin.nextInt();
+		final int M = in.nextInt();
+		final int S = in.nextInt();
+		final int C = in.nextInt();
 		if (M >= C) {
 			stdout.println(C);
 			System.exit(0);
 		}
 		int[] cows = new int[C];
 		for (int i = 0; i < C; i++)
-			cows[i] = stdin.nextInt();
+			cows[i] = in.nextInt();
 		Arrays.sort(cows);
 		PriorityQueue<int[]> heap = new PriorityQueue<int[]>(C-1, (a, b) -> b[1] - a[1]);
 		for (int i = 1; i < C; i++)

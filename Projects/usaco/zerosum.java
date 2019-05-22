@@ -31,11 +31,11 @@ public class zerosum {
 			recur(n + 1, expr + opr + n);
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(new File("zerosum.in"));
+		Scanner in = new Scanner(new File("zerosum.in"));
 		PrintWriter stdout = new PrintWriter(new File("zerosum.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		N = stdin.nextInt();
-		stdin.close();
+		N = in.nextInt();
+		in.close();
 		recur(2, "1");
 		Collections.sort(exprs);
 		for (String expr : exprs)
