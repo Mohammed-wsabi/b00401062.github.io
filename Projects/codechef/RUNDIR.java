@@ -28,14 +28,14 @@ class RUNDIR {
 		}
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(System.in);
-		int t = stdin.nextInt();
+		Scanner in = new Scanner(System.in);
+		int t = in.nextInt();
 		while (t-- > 0) {
-			int n = stdin.nextInt();
+			int n = in.nextInt();
 			Child[] children = new Child[n];
 			double LT = Double.POSITIVE_INFINITY, RT = Double.POSITIVE_INFINITY;
 			for (int i = 0; i < n; i++)
-				children[i] = new Child(stdin.nextInt(), stdin.nextInt());
+				children[i] = new Child(in.nextInt(), in.nextInt());
 			Arrays.sort(children, Comparator.comparingInt(child -> child.x));
 			for (int i = 1; i < n; i++) {
 				double lt = Math.max(

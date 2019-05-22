@@ -18,12 +18,12 @@ class UCL {
 		}
 	}
 	public static void main (String[] args) throws IOException {
-		Scanner stdin = new Scanner(System.in);
-		int t = Integer.parseInt(stdin.nextLine());
+		Scanner in = new Scanner(System.in);
+		int t = Integer.parseInt(in.nextLine());
 		while (t-- > 0) {
 			Map<String, Team> teams = new HashMap<>();
 			for (int i = 0; i < 12; i++) {
-				String[] tokens = stdin.nextLine().split(" ");
+				String[] tokens = in.nextLine().split(" ");
 				if (!teams.containsKey(tokens[0]))
 					teams.put(tokens[0], new Team());
 				if (!teams.containsKey(tokens[4]))
