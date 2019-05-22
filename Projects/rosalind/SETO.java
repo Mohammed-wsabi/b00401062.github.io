@@ -4,11 +4,11 @@ import java.util.stream.*;
 
 public class SETO {
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(System.in);
-		int n = Integer.parseInt(stdin.nextLine());
+		Scanner in = new Scanner(System.in);
+		int n = Integer.parseInt(in.nextLine());
 		Set U = IntStream.rangeClosed(1, n).boxed().collect(Collectors.toSet());
-		Set A = Arrays.stream(stdin.nextLine().substring(1).split("[^0-9]+")).mapToInt(Integer::parseInt).boxed().collect(Collectors.toSet());
-		Set B = Arrays.stream(stdin.nextLine().substring(1).split("[^0-9]+")).mapToInt(Integer::parseInt).boxed().collect(Collectors.toSet());
+		Set A = Arrays.stream(in.nextLine().substring(1).split("[^0-9]+")).mapToInt(Integer::parseInt).boxed().collect(Collectors.toSet());
+		Set B = Arrays.stream(in.nextLine().substring(1).split("[^0-9]+")).mapToInt(Integer::parseInt).boxed().collect(Collectors.toSet());
 		Set<Integer> X = null;
 		X = new HashSet<Integer>(A);
 		X.addAll(B);

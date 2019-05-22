@@ -24,8 +24,8 @@ public class SCSP {
 		return s.substring(0, i) + t.substring(0, j) + scs.reverse().toString();
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(System.in);
-		System.out.println(scs(stdin.next(), stdin.next()));
-		stdin.close();
+		Scanner in = new Scanner(System.in);
+		System.out.println(scs(in.next(), in.next()));
+		in.close();
 	}
 }

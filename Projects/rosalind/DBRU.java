@@ -24,10 +24,10 @@ public class DBRU {
 			map.put(k, new HashSet<String>() {{ add(v); }});
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(System.in);
+		Scanner in = new Scanner(System.in);
 		Map<String, Set<String>> map = new HashMap<>();
-		while (stdin.hasNextLine()) {
-			String seq = stdin.nextLine();
+		while (in.hasNextLine()) {
+			String seq = in.nextLine();
 			add(map, seq);
 			add(map, rc(seq));
 		}

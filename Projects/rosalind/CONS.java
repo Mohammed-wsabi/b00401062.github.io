@@ -8,15 +8,15 @@ public class CONS {
 			table[i]["ACGT".indexOf(seq.charAt(i))]++;
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(System.in);
+		Scanner in = new Scanner(System.in);
 		int[][] table = null;
 		String name = null, seq = null;
 		while (true) {
-			if (!stdin.hasNext()) {
+			if (!in.hasNext()) {
 				put(table, seq);
 				break;
 			}
-			String line = stdin.next();
+			String line = in.next();
 			if (line.charAt(0) == '>') {
 				if (seq != null) {
 					if (table == null)
@@ -38,6 +38,6 @@ public class CONS {
 				System.out.print(String.format(" %d", table[i][j]));
 			System.out.println();
 		}
-		stdin.close();
+		in.close();
 	}
 }

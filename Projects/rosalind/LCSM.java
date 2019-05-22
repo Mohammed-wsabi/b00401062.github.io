@@ -45,16 +45,16 @@ public class LCSM {
 		}
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(System.in);
+		Scanner in = new Scanner(System.in);
 		Node root = new Node();
 		String name = null, seq = null;
 		while (true) {
-			if (!stdin.hasNext()) {
+			if (!in.hasNext()) {
 				for (int i = 0; i < seq.length(); i++)
 					root.add(name, seq.substring(i));
 				break;
 			}
-			String line = stdin.next();
+			String line = in.next();
 			if (line.charAt(0) == '>') {
 				if (name != null)
 					for (int i = 0; i < seq.length(); i++)
@@ -65,6 +65,6 @@ public class LCSM {
 				seq += line;
 		}
 		System.out.println(root.lcs());
-		stdin.close();
+		in.close();
 	}
 }

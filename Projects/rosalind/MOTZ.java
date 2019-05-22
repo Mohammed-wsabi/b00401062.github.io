@@ -27,12 +27,12 @@ public class MOTZ {
 		return motzkin;
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(System.in);
-		stdin.next();
+		Scanner in = new Scanner(System.in);
+		in.next();
 		String read = "";
-		while (stdin.hasNext())
-			read += stdin.next();
+		while (in.hasNext())
+			read += in.next();
 		System.out.println(motzkin(read));
-		stdin.close();
+		in.close();
 	}
 }

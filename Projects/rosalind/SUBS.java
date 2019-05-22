@@ -31,9 +31,9 @@ public class SUBS {
 		return indices.stream().mapToInt(Integer::valueOf).toArray();
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(System.in);
-		String s = stdin.next(), t = stdin.next();
+		Scanner in = new Scanner(System.in);
+		String s = in.next(), t = in.next();
 		Arrays.stream(match(s, t, preprocess(t))).map(x -> x + 1).forEach(System.out::println);
-		stdin.close();
+		in.close();
 	}
 }

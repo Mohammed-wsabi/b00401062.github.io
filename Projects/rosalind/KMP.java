@@ -16,11 +16,11 @@ public class KMP {
 		return table;
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(System.in);
+		Scanner in = new Scanner(System.in);
 		StringBuilder read = new StringBuilder();
-		stdin.next();
-		while (stdin.hasNext())
-			read.append(stdin.next());
+		in.next();
+		while (in.hasNext())
+			read.append(in.next());
 		Arrays.stream(preprocess(read.toString())).map(x -> x+1).forEach(System.out::println);
 	}
 }

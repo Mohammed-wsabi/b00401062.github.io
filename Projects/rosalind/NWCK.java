@@ -45,12 +45,12 @@ public class NWCK {
 		return d;
 	}
 	public static void main(String args[]) {
-		Scanner stdin = new Scanner(System.in);
-		while (stdin.hasNext()) {
-			String line = stdin.next();
+		Scanner in = new Scanner(System.in);
+		while (in.hasNext()) {
+			String line = in.next();
 			String[] tree = line.split("(?<=[(),;])|(?=[(),;])");
-			int s = Arrays.asList(tree).indexOf(stdin.next());
-			int t = Arrays.asList(tree).indexOf(stdin.next());
+			int s = Arrays.asList(tree).indexOf(in.next());
+			int t = Arrays.asList(tree).indexOf(in.next());
 			System.out.println(distance(tree, Math.min(s, t), Math.max(s, t)));
 		}
 	}

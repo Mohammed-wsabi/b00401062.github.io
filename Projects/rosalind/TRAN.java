@@ -3,15 +3,15 @@ import java.util.*;
 
 public class TRAN {
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(System.in);
+		Scanner in = new Scanner(System.in);
 		List<String> reads = new ArrayList<>();
 		String read = null;
 		while (true) {
-			if (!stdin.hasNext()) {
+			if (!in.hasNext()) {
 				reads.add(read);
 				break;
 			}
-			String line = stdin.next();
+			String line = in.next();
 			if (line.charAt(0) == '>') {
 				if (read != null)
 					reads.add(read);
@@ -29,6 +29,6 @@ public class TRAN {
 			else
 				transversions++;
 		System.out.println((double) transitions/transversions);
-		stdin.close();
+		in.close();
 	}
 }

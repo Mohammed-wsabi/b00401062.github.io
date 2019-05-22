@@ -22,14 +22,14 @@ public class SPLC {
 		put("TGG", 'W'); put("CGG", 'R'); put("AGG", 'R'); put("GGG", 'G');
 	}};
 	public static void main(String args[]) {
-		Scanner stdin = new Scanner(System.in);
+		Scanner in = new Scanner(System.in);
 		String seq = "", intron = null;
 		while (true) {
-			if (!stdin.hasNext()) {
+			if (!in.hasNext()) {
 				seq = seq.replaceAll(intron, "");
 				break;
 			}
-			String line = stdin.next();
+			String line = in.next();
 			if (line.charAt(0) == '>') {
 				if (intron != null)
 					seq = seq.replaceAll(intron, "");
@@ -41,6 +41,6 @@ public class SPLC {
 				intron += line;
 		}
 		System.out.println(Arrays.stream(seq.substring(0, seq.length()-3).split("(?<=\\G...)")).map(CODON::get).map(String::valueOf).collect(Collectors.joining()));
-		stdin.close();
+		in.close();
 	}
 }

@@ -28,14 +28,14 @@ public class SIGN {
 		s[l] = -s[l];
 	}
 	public static void main(String args[]) {
-		Scanner stdin = new Scanner(System.in);
+		Scanner in = new Scanner(System.in);
 		PrintStream stdout = System.out;
-		final int n = stdin.nextInt();
+		final int n = in.nextInt();
 		stdout.println(factorial(n) * (int) Math.pow(2, n));
 		int[] s = IntStream.rangeClosed(1, n).toArray();
 		do {
 			abuse(s, 0);
 		} while (next(s));
-		stdin.close();
+		in.close();
 	}
 }

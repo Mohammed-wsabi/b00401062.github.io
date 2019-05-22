@@ -6,9 +6,9 @@ public class REVC {
 		put('A', 'T'); put('C', 'G'); put('G', 'C'); put('T', 'A');
 	}};
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(System.in);
-		String seq = stdin.nextLine();
+		Scanner in = new Scanner(System.in);
+		String seq = in.nextLine();
 		System.out.println(new StringBuilder(seq).reverse().chars().mapToObj(x -> (char) x).map(COMPLEMENT::get).map(String::valueOf).collect(Collectors.joining()));
-		stdin.close();
+		in.close();
 	}
 }

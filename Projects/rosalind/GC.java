@@ -6,15 +6,15 @@ public class GC {
 		return (double) seq.chars().filter(x -> x == 'C' || x == 'G').count() / seq.length();
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(System.in);
+		Scanner in = new Scanner(System.in);
 		Map<String, Double> ratios = new HashMap<>();
 		String name = null, seq = null;
 		while (true) {
-			if (!stdin.hasNext()) {
+			if (!in.hasNext()) {
 				ratios.put(name, ratio(seq));
 				break;
 			}
-			String line = stdin.next();
+			String line = in.next();
 			if (line.charAt(0) == '>') {
 				if (name != null)
 					ratios.put(name, ratio(seq));
@@ -32,6 +32,6 @@ public class GC {
 		}
 		System.out.println(name);
 		System.out.println(ratio * 100);
-		stdin.close();
+		in.close();
 	}
 }

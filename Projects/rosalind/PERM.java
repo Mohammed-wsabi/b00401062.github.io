@@ -18,14 +18,14 @@ public class PERM {
 		return true;
 	}
 	public static void main(String args[]) {
-		Scanner stdin = new Scanner(System.in);
+		Scanner in = new Scanner(System.in);
 		PrintStream stdout = System.out;
-		int n = stdin.nextInt(), N = factorial(n);
+		int n = in.nextInt(), N = factorial(n);
 		stdout.println(N);
 		int[] s = IntStream.rangeClosed(1, n).toArray();
 		do {
 			stdout.println(Arrays.stream(s).mapToObj(String::valueOf).collect(Collectors.joining(" ")));
 		} while (next(s));
-		stdin.close();
+		in.close();
 	}
 }

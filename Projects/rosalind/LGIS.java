@@ -23,13 +23,13 @@ public class LGIS {
 		return dp;
 	}
 	public static void main(String args[]) throws IOException {
-		Scanner stdin = new Scanner(System.in);
-		int n = stdin.nextInt();
+		Scanner in = new Scanner(System.in);
+		int n = in.nextInt();
 		int[] s = new int[n];
 		for (int i = 0; i < n; i++)
-			s[i] = stdin.nextInt();
+			s[i] = in.nextInt();
 		System.out.println(dp(s, 0).stream().map(String::valueOf).collect(Collectors.joining(" ")));
 		System.out.println(dp(s, 1).stream().map(String::valueOf).collect(Collectors.joining(" ")));
-		stdin.close();
+		in.close();
 	}
 }

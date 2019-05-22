@@ -3,9 +3,9 @@ import java.util.*;
 
 public class RNA {
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(System.in);
-		String seq = stdin.nextLine();
+		Scanner in = new Scanner(System.in);
+		String seq = in.nextLine();
 		System.out.print(seq.replaceAll("T", "U"));
-		stdin.close();
+		in.close();
 	}
 }

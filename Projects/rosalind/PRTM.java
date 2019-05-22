@@ -10,8 +10,8 @@ public class PRTM {
 		put('T', 101.047680); put('V',  99.068410); put('W', 186.079310); put('Y', 163.063330);
 	}};
 	public static void main(String args[]) {
-		Scanner stdin = new Scanner(System.in);
-		System.out.println(stdin.next().chars().mapToObj(x -> (char) x).mapToDouble(AAWT::get).sum());
-		stdin.close();
+		Scanner in = new Scanner(System.in);
+		System.out.println(in.next().chars().mapToObj(x -> (char) x).mapToDouble(AAWT::get).sum());
+		in.close();
 	}
 }

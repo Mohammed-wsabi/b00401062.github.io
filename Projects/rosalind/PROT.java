@@ -21,9 +21,9 @@ public class PROT {
 		put("UGG", 'W'); put("CGG", 'R'); put("AGG", 'R'); put("GGG", 'G');
 	}};
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(System.in);
-		String seq = stdin.next();
+		Scanner in = new Scanner(System.in);
+		String seq = in.next();
 		System.out.println(Arrays.stream(seq.substring(0, seq.length()-3).split("(?<=\\G...)")).map(CODON::get).map(String::valueOf).collect(Collectors.joining()));
-		stdin.close();
+		in.close();
 	}
 }

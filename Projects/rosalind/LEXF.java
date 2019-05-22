@@ -4,9 +4,9 @@ import java.util.stream.*;
 
 public class LEXF {
 	public static void main(String args[]) throws IOException {
-		Scanner stdin = new Scanner(System.in);
-		List<String> symbols = Arrays.asList(stdin.nextLine().split(" "));
-		final int n = stdin.nextInt(), N = symbols.size();
+		Scanner in = new Scanner(System.in);
+		List<String> symbols = Arrays.asList(in.nextLine().split(" "));
+		final int n = in.nextInt(), N = symbols.size();
 		Stack<Integer> stack = new Stack<>();
 		while (true) {
 			if (stack.size() < n)
@@ -18,7 +18,7 @@ public class LEXF {
 					while ((last = stack.pop()) == N-1);
 					stack.push(last+1);
 				} catch (EmptyStackException e) {
-					stdin.close();
+					in.close();
 					return;
 				}
 			}

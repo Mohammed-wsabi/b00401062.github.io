@@ -10,10 +10,10 @@ public class SPEC {
 		put('T', 101.04768); put('V',  99.06841); put('W', 186.07931); put('Y', 163.06333);
 	}};
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(System.in);
-		double mass = stdin.nextDouble();
-		while (stdin.hasNext()) {
-			double diff = stdin.nextDouble() - mass;
+		Scanner in = new Scanner(System.in);
+		double mass = in.nextDouble();
+		while (in.hasNext()) {
+			double diff = in.nextDouble() - mass;
 			mass += diff;
 			System.out.print(MASS.entrySet().stream().filter(e -> Math.abs(e.getValue() - diff) < 1e-4).map(Map.Entry::getKey).toArray(Character[]::new)[0]);
 		}

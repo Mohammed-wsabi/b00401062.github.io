@@ -3,15 +3,15 @@ import java.util.*;
 
 public class LONG {
 	public static void main(String args[]) throws IOException {
-		Scanner stdin = new Scanner(System.in);
+		Scanner in = new Scanner(System.in);
 		List<String> reads = new ArrayList<>();
 		String seq = null;
 		while (true) {
-			if (!stdin.hasNext()) {
+			if (!in.hasNext()) {
 				reads.add(seq);
 				break;
 			}
-			String line = stdin.next();
+			String line = in.next();
 			if (line.charAt(0) == '>') {
 				if (seq != null)
 					reads.add(seq);
@@ -48,6 +48,6 @@ public class LONG {
 			}
 		}
 		System.out.println(genome);
-		stdin.close();
+		in.close();
 	}
 }

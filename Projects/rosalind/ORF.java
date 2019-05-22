@@ -41,12 +41,12 @@ public class ORF {
 		return orfs;
 	}
 	public static void main(String args[]) throws IOException {
-		Scanner stdin = new Scanner(System.in);
+		Scanner in = new Scanner(System.in);
 		PrintStream stdout = System.out;
-		stdin.next();
+		in.next();
 		String seq = "";
-		while (stdin.hasNext())
-			seq += stdin.next();
+		while (in.hasNext())
+			seq += in.next();
 		String rev = new StringBuilder(seq).reverse().chars().mapToObj(x -> (char) x).map(COMPLEMENT::get).map(String::valueOf).collect(Collectors.joining());
 		Set<String> orfs = new HashSet<>();
 		for (int i = 0; i < 3; i++) {
@@ -54,6 +54,6 @@ public class ORF {
 			orfs.addAll(translate(rev.substring(i)));
 		}
 		orfs.forEach(stdout::println);
-		stdin.close();
+		in.close();
 	}
 }

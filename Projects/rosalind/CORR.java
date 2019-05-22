@@ -7,12 +7,12 @@ public class CORR {
 		put('A', 'T'); put('C', 'G'); put('G', 'C'); put('T', 'A');
 	}};
 	public static void main(String[] args) throws IOException {
-		Scanner stdin = new Scanner(System.in);
+		Scanner in = new Scanner(System.in);
 		Set<String> reads = new HashSet<>();
 		Map<String, Integer> table = new HashMap<>();
-		while (stdin.hasNext()) {
-			stdin.next();
-			String read = stdin.next();
+		while (in.hasNext()) {
+			in.next();
+			String read = in.next();
 			String revc = new StringBuilder(read).reverse().chars().mapToObj(x -> (char) x).map(COMPLEMENT::get).map(String::valueOf).collect(Collectors.joining());
 			reads.add(read);
 			table.put(read, table.containsKey(read) ? table.get(read)+1 : 1);
@@ -26,6 +26,6 @@ public class CORR {
 						System.out.println(pat + "->" + seq);
 						break;
 					}
-		stdin.close();
+		in.close();
 	}
 }
