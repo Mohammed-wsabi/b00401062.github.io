@@ -150,8 +150,8 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |M agonists|Bethanechol|Urinary retention|
-||Carbachol|Glaucoma|
 ||Methacholine|Asthma diagnosis|
+||Carbachol|Glaucoma|
 ||Pilocarpine|Glaucoma & Xerostomia|
 ||Cevimeline|Xerostomia|
 |N agonists|Succinylcholine|Muscle relaxant|
