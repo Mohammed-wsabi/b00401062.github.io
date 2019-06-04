@@ -409,11 +409,11 @@
 - Angiofibroma
 - Mitral regurgitation
 - Ash-leaf spot
-- Rhabdomyoma of heart
+- Rhabdomyoma :: heart
 - Tubers of cortex
 - Autosomal dominant
 - Mental retardation
-- Angiomyolipoma of kidney
+- Angiomyolipoma :: kidney
 - Seizure & Shagreen patch
 
 ## Presentation of Sturge-Weber Syndrome {STURGE-L}
