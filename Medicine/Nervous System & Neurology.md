@@ -434,15 +434,15 @@
 - Renal cell carcinoma (RCC)
 - Pheochromocytoma
 
-## Presentation of Parkinson Disease {TRAPS}
+## Presentation of Parkinson Disease {PARTS}
 
-- Tremor :: resting & pill-rolling
-- Rigidity :: cogwheel
-- Akinesia & Bradykinesia
 - Postural instability
+- Akinesia & Bradykinesia
+- Rigidity :: cogwheel
+- Tremor :: resting & pill-rolling
 - Shuffling gait
 
-## Extrapyramidal Symptoms (EPS)
+## Extrapyramidal Symptoms (EPS) {DABT}
 
 - Dystonia
 - Akathisia
