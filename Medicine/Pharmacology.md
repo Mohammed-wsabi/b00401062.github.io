@@ -95,6 +95,7 @@
 |-|-|-|
 |Tyrosine uptake inhibitors|-|-|
 |Vesicular transporter inhibitors|Reserpine|Huntington|
+||Tetrabenazine|Huntington|
 |NE release inhibitors|Bretylium|Arrhythmia|
 ||Guanethidine|HTN|
 |NE release inducers|Tyramine|-|
