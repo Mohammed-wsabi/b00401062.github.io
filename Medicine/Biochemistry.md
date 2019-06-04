@@ -65,51 +65,6 @@
 |9 & 12|Methionine synthase|Homocystinuria & Megaloblastic anemia|
 |12|Methylmalonyl-CoA mutase|Methylmalonic acidemia & Subacute combined degeneration|
 
-## Presentation of Vitamin Deficiency
-
-|Vitamin|Presentation|
-|-|-|
-|A|Night blindness & Xeroderma|
-|B<sub>1</sub>|Dry beriberi & Wet beriberi & Wernicke-Korsakoff syndrome|
-|B<sub>2</sub> {2C}|Cheliosis & Corneal vascularization|
-|B<sub>3</sub> {3D}|Diarrhea & Dementia & Dermatitis :: pellagra|
-|B<sub>6</sub>|Homocystinuria & Sideroblastic anemia & Peripheral neuropathy|
-|B<sub>9</sub>|Homocystinuria & Megaloblastic anemia & Hypersegmented PMN|
-|B<sub>12</sub>|Homocystinuria & Megaloblastic anemia & Hypersegmented PMN & Methylmalonic acidemia & Subacute combined degeneration|
-|C|Scurvy|
-
-## Etiology of Vitamin B<sub>9</sub> Deficiency
-
-- Alcoholism
-- Crohn's disease
-- Malabsorption syndrome
-- Methotrexate
-- Phenytoin
-- Trimethoprim
-
-## Etiology of Vitamin B<sub>12</sub> Deficiency
-
-- Achlorhydria
-- Crohn's disease
-- Diphyllobothrium latum
-- Gastrectomy
-- Gastritis
-- Malabsorption syndrome
-- Pancreatic insufficiency
-- Pernicious anemia
-
-## Etiology of Vitamin K Deficiency
-
-- Biliary atresia
-- Broad-spectrum antibiotics
-- Crohn's disease
-- Cystic fibrosis
-- Primary biliary cholangitis (PBC)
-- Primary sclerosing cholangitis (PSC)
-- Newborns
-- Steatorrhea
-- Vitamin E intoxication
-
 ## Summary of Pathways
 
 |Enzyme|Coenzyme|Deficiency|Drug Target|
