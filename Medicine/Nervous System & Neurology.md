@@ -492,7 +492,8 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |Vesicular transporter inhibitors|Reserpine|Huntington|
-|D<sub>2</sub> antagonists|Haloperidol|Huntington|
+||Tetrabenazine|Huntington|
+|D<sub>2</sub> antagonists|2° Antipsychotics|Huntington|
 
 ## Mechanisms of Action of Medications for Parkinson Disease
 
