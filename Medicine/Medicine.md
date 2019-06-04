@@ -418,14 +418,56 @@
 - Excess vitamin D
 - Sarcoidosis
 
-## Classification of Edema
+## Presentation of Vitamin Deficiency
 
-|Edema|Etiology|Pitting|
-|-|-|-|
-|Exudate|Inflammation|+|
-|Lymphedema|Lymphatic obstruction|-|
-|Transudate|Hydrostatic pressure|+|
-||Oncotic pressure|+|
+|Vitamin|Presentation|
+|-|-|
+|A|Night blindness & Xeroderma|
+|B<sub>1</sub>|Dry beriberi & Wet beriberi & Wernicke-Korsakoff syndrome|
+|B<sub>2</sub> {2C}|Cheliosis & Corneal vascularization|
+|B<sub>3</sub> {3D}|Diarrhea & Dementia & Dermatitis :: pellagra|
+|B<sub>6</sub>|Homocystinuria & Sideroblastic anemia & Peripheral neuropathy|
+|B<sub>9</sub>|Homocystinuria & Megaloblastic anemia & Hypersegmented PMN|
+|B<sub>12</sub>|Homocystinuria & Megaloblastic anemia & Hypersegmented PMN & Methylmalonic acidemia & Subacute combined degeneration|
+|C|Scurvy|
+
+## Classic Triad of Wernicke's Encephalopathy {CAO}
+
+- Confusion
+- Ataxia
+- Ophthalmoplegia
+
+## Etiology of Vitamin B<sub>9</sub> Deficiency
+
+- Alcoholism
+- Crohn's disease
+- Malabsorption syndrome
+- Methotrexate
+- Phenytoin
+- Trimethoprim
+
+## Etiology of Vitamin B<sub>12</sub> Deficiency
+
+- Achlorhydria
+- Crohn's disease
+- Diphyllobothrium latum
+- Gastrectomy
+- Gastritis
+- Malabsorption syndrome
+- Pancreatic insufficiency
+- Pernicious anemia
+
+## Etiology of Vitamin K Deficiency
+
+- Biliary atresia
+- Broad-spectrum antibiotics
+- Crohn's disease
+- Cystic fibrosis
+- Primary biliary cholangitis (PBC)
+- Primary sclerosing cholangitis (PSC)
+- Newborns
+- Steatorrhea
+- Vitamin E intoxication
 
 ## Metabolic Syndrome
 
@@ -445,3 +487,12 @@
 |HMG-CoA reductase inhibitors|Statins|↓↓↓|↑|↓|
 |HSL & VLDL synthesis inhibitors|Niacin (B3)|↓↓|↑↑|↓|
 |LPL & PPAR-α inducers|Fibrates|↓|↑|↓↓↓|
+
+## Classification of Edema
+
+|Edema|Etiology|Pitting|
+|-|-|-|
+|Exudate|Inflammation|+|
+|Lymphedema|Lymphatic obstruction|-|
+|Transudate|Hydrostatic pressure|+|
+||Oncotic pressure|+|
