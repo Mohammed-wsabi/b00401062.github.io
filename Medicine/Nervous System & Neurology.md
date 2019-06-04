@@ -515,6 +515,7 @@
 |Dopa|Levodopa|Parkinson|
 |Dopa decarboxylase inhibitors|Carbidopa|Parkinson|
 ||Benserazide|Parkinson|
+|NMDA antagonists|Amantadine|Parkinson|
 
 ## Mechanisms of Action of Medications for Alzheimer Disease
 
