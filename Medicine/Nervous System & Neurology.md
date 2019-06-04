@@ -442,6 +442,13 @@
 - Postural instability
 - Shuffling gait
 
+## Extrapyramidal Symptoms (EPS)
+
+- Dystonia
+- Akathisia
+- Bradykinesia
+- Tardive dyskinesia
+
 ## Etiology of Oculomotor Palsy
 
 - Cavernous sinus thrombosis
