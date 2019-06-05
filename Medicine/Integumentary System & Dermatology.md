@@ -26,9 +26,9 @@
 |-|-|-|
 |Hyperkeratosis|↑ Stratum corneum|Psoriasis|
 |Parakeratosis|Nucleus in stratum corneum|Psoriasis|
-|Hypergranulosis|↑ Stratum granulosum|-|
+|Hypergranulosis|↑ Stratum granulosum|Lichen planus|
 |Acanthosis|↑ Stratum spinosum|Acanthosis nigricans|
-|Acantholysis|Cleft in stratum spinosum|Pemphigus|
+|Acantholysis|Cleft in stratum spinosum|Pemphigus vulgaris|
 |Spongiosis|Fluid in epidermis|Eczema|
 |Exocytosis|Leukocyte in epidermis|-|
 
