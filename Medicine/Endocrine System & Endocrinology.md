@@ -6,22 +6,21 @@
 |-|-|
 |Ionotropic receptor|-|
 |G<sub>q</sub>PCR|GnRH & TRH & V<sub>1</sub> & Oxytocin|
-|G<sub>s</sub>PCR|GHRH & CRH & D<sub>1</sub> & V<sub>2</sub>|
-||LH & FSH & ACTH & TSH|
+|G<sub>s</sub>PCR|GHRH & CRH & V<sub>2</sub>|
+||TSH & ACTH & LH & FSH|
 ||Calcitonin & PTH & Glucagon|
-|G<sub>i</sub>PCR|D<sub>2</sub>|
 |Receptor tyrosine kinase (RTK): AMPK pathway|Insulin & GF|
 |Non-receptor tyrosine kinase (NRTK): JAK/STAT pathway|GH & PRL & Cytokines|
-|Steroid receptor|TH & SH & Cortisol & Aldosterone|
+|Steroid receptor|TH & Aldosterone & Cortisol & SH|
 
 ## Hypothalamic-Pituitary Axises
 
 |Mnemonic|Hypothalamus|Pituitary|Periphery|
 |-|-|-|-|
-|GHRH|↑ GH|IGF-1|
 |TRH|↑ TSH & PRL|TH|
 |CRH|↑ ACTH|Cortisol|
 |GnRH|↑ LH & FSH|SH|
+|GHRH|↑ GH|IGF-1|
 |Somatostatin|↓ GH & TSH & 5-HT|-|
 |Dopamine|↓ GH & PRL|-|
 |Vasopressin|↑ ACTH|-|
@@ -31,7 +30,6 @@
 
 |Endocrine Gland|1° Hormones|2° Stimulation|3° Stimulation|Effect|
 |-|-|-|-|-|
-|Liver|IGF-1|↑ GH|↑ GHRH|↑ Glucose|
 |Thyroid|TH|↑ TSH|↑ TRH|↑ Metabolism|
 ||Calcitonin|↑ Ca|-|↓ Ca|
 |Parathyroid|PTH|↓ Ca & ↑ Phosphate|-|↑ Ca & ↓ Phosphate|
@@ -39,6 +37,7 @@
 ||Cortisol|↑ ACTH|↑ CRH|↑ Glucose|
 ||SH|-|-|↑ Sex|
 |Gonad|SH|↑ LH & FSH|↑ GnRH|↑ Sex|
+|Liver|IGF-1|↑ GH|↑ GHRH|↑ Glucose|
 |Pancreas|Glucagon|↓ Glucose|-|↑ Glucose|
 ||Insulin|↑ Glucose|-|↓ Glucose|
 |Kidney|EPO|↓ O<sub>2</sub> & Hb|-|↑ O<sub>2</sub> & Hb|
@@ -49,29 +48,9 @@
 |-|-|
 |PTH|Pseudohypoparathyroidism (PHP)|
 |Androgen|Androgen insensitive syndrome (AIS)|
-|Vasopressin|Nephrogenic DI|
+|GH|Laron syndrome|
 |Insulin|DM type 2|
-
-## Glucose Regulating Hormones
-
-|Hormones|Glucose|Degradation|Synthesis|
-|-|-|-|-|
-|GH|↑|Lipid|Protein|
-|TH|↑|Glycogen & Protein & Lipid|Glucose|
-|Cortisol|↑|Protein & Lipid|Glucose|
-|Catecholamine|↑|Glycogen & Lipid|Glucose|
-|Glucagon|↑|Glycogen & Lipid|Glucose|
-|Insulin|↓|Glucose|Glycogen & Protein & Lipid|
-
-## Mechanisms of Action of Medications for Acromegaly
-
-|Mechanism|Medication|Indications|
-|-|-|-|-|-|
-|Somatostatin agonists|Octreotide|Acromegaly|
-||Lanreotide|Acromegaly|
-|GH antagonists|Pegvisomant|Acromegaly|
-|D<sub>2</sub> agonists|Bromocriptine|Acromegaly|
-||Cabergoline|Acromegaly|
+|Vasopressin|Nephrogenic DI|
 
 ## Thyroid Hormone Synthesis {OOCD}
 
@@ -213,37 +192,26 @@
 |Germ cell tumor|↓|↓|↑ (1°)|
 |Exogenous steroid|↓|↓|↑ (1°)|
 
-## Differential Diagnosis of ADH Disorders
+## Glucose Regulating Hormones
 
-|Diagnosis|Osmolarity|ADH|
-|-|-|-|
-|Polydipsia|↓ (1°)|↓|
-|Central DI|↑|↓ (1°)|
-|Nephrogenic DI|↑ (1°)|↑|
-|SIADH|↓|↑ (1°)|
+|Hormones|Glucose|Degradation|Synthesis|
+|-|-|-|-|
+|GH|↑|Lipid|Protein|
+|TH|↑|Glycogen & Protein & Lipid|Glucose|
+|Cortisol|↑|Protein & Lipid|Glucose|
+|Catecholamine|↑|Glycogen & Lipid|Glucose|
+|Glucagon|↑|Glycogen & Lipid|Glucose|
+|Insulin|↓|Glucose|Glycogen & Protein & Lipid|
 
-## Etiology of Nephrogenic Diabetes Insipidus (DI)
+## Mechanisms of Action of Medications for Acromegaly
 
-- Mutations :: vasopressin receptor & aquaporin
-- Electrolyte disturbances :: hypercalcemia & hypokalemia
-- Hematologic disorders :: sickle cell disease & multiple myeloma
-- Rheumatic diseases :: Sjogren syndrome & sarcoidosis
-- Amyloidosis
-- Drugs :: Lithium & Demeclocycline & Colchicine
-
-## Etiology of Syndrome of Inappropriate Secretion of ADH (SIADH)
-
-- Malignancies :: small cell carcinomas
-- CNS disorders
-- Pulmonary diseases :: Tuberculosis & Pneumonia
-- Drugs :: Antipsychotics & Antidepressants
-
-## Treatment of Syndrome of Inappropriate Secretion of ADH (SIADH)
-
-- Fluid restriction
-- Fluids :: hypertonic saline
-- V<sub>2</sub> antagonists: Vaptans
-- Nephrogenic DI-inducing drugs :: Lithium & Demeclocycline
+|Mechanism|Medication|Indications|
+|-|-|-|-|-|
+|Somatostatin agonists|Octreotide|Acromegaly|
+||Lanreotide|Acromegaly|
+|GH antagonists|Pegvisomant|Acromegaly|
+|D<sub>2</sub> agonists|Bromocriptine|Acromegaly|
+||Cabergoline|Acromegaly|
 
 ## Differential Diagnosis of Insulin Disorders
 
@@ -306,3 +274,35 @@
 - Insulin
 - Bicarbonate if indicated
 - Phosphate if indicated
+
+## Differential Diagnosis of ADH Disorders
+
+|Diagnosis|Osmolarity|ADH|
+|-|-|-|
+|Polydipsia|↓ (1°)|↓|
+|Central DI|↑|↓ (1°)|
+|Nephrogenic DI|↑ (1°)|↑|
+|SIADH|↓|↑ (1°)|
+
+## Etiology of Nephrogenic Diabetes Insipidus (DI)
+
+- Mutations :: vasopressin receptor & aquaporin
+- Electrolyte disturbances :: hypercalcemia & hypokalemia
+- Hematologic disorders :: sickle cell disease & multiple myeloma
+- Rheumatic diseases :: Sjogren syndrome & sarcoidosis
+- Amyloidosis
+- Drugs :: Lithium & Demeclocycline & Colchicine
+
+## Etiology of Syndrome of Inappropriate Secretion of ADH (SIADH)
+
+- Malignancies :: small cell carcinomas
+- CNS disorders
+- Pulmonary diseases :: Tuberculosis & Pneumonia
+- Drugs :: Antipsychotics & Antidepressants
+
+## Treatment of Syndrome of Inappropriate Secretion of ADH (SIADH)
+
+- Fluid restriction
+- Fluids :: hypertonic saline
+- V<sub>2</sub> antagonists: Vaptans
+- Nephrogenic DI-inducing drugs :: Lithium & Demeclocycline
