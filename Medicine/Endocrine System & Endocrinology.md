@@ -17,7 +17,7 @@
 ## Hypothalamic-Pituitary Axises
 
 |Hypothalamus|Pituitary|Periphery|
-|-|-|-|-|
+|-|-|-|
 |TRH|↑ TSH & PRL|TH|
 |CRH|↑ ACTH|Cortisol|
 |GnRH|↑ LH & FSH|SH|
