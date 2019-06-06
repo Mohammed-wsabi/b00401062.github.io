@@ -5,8 +5,8 @@
 |Pathways|Hormones|
 |-|-|
 |Ionotropic receptor|-|
-|G<sub>q</sub>PCR|GnRH & TRH & V<sub>1</sub> & Oxytocin|
-|G<sub>s</sub>PCR|GHRH & CRH & V<sub>2</sub>|
+|G<sub>q</sub>PCR|TRH & GnRH & V<sub>1</sub> & Oxytocin|
+|G<sub>s</sub>PCR|CRH & GHRH & V<sub>2</sub>|
 ||TSH & ACTH & LH & FSH|
 ||Calcitonin & PTH & Glucagon|
 |Receptor tyrosine kinase (RTK): AMPK pathway|Insulin & GF|
