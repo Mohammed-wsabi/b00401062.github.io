@@ -322,13 +322,6 @@
 |μ-opioid antagonists|Naloxone|Opioid antidote|
 ||Naltrexone|Alcohol cessation|
 
-## Mechanisms of Action of Medications Targeting Vasopressin Receptor
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|V<sub>2</sub> agonists|Desmopressin|DI|
-|V<sub>2</sub> antagonists|Vaptans|SIADH|
-
 ## Mechanisms of Action of Medications Targeting Autacoid Receptor
 
 |Mechanism|Medication|Indications|
@@ -369,9 +362,9 @@
 |GnRH agonists|Leuprolide :: pulsatile|Infertility|
 |GnRH antagonists|Leuprolide :: continuous|Prostate cancer|
 ||Cetrorelix & Ganirelix|Infertility|
-|LH analogs|Lutropin & Menotropin|Infertility|
-|FSH analogs|Follitropin & Menotropin|Infertility|
-|hCG analogs|Choriogonadotropin|Infertility|
+|LH agonists|Lutropin & Menotropin|Infertility|
+|FSH agonists|Follitropin & Menotropin|Infertility|
+|hCG agonists|Choriogonadotropin|Infertility|
 |Estrogen agonists|Diethylstilbestrol (DES)|HRT & OCP|
 ||Mestranol|HRT & OCP|
 |Estrogen modulators|Clomifene|PCOS & Ovulation|
@@ -393,6 +386,20 @@
 ||Spironolactone|PCOS|
 |5α-Reductase inhibitors|Finasteride|BPH & Alopecia|
 ||Spironolactone|Hirsutism|
+
+## Mechanisms of Action of Medications Targeting Oxytocin Receptor
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|Oxytocin agonists|Carbetocin|Labor|
+|Oxytocin antagonists|Atosiban|Tocolysis|
+
+## Mechanisms of Action of Medications Targeting Vasopressin Receptor
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|V<sub>2</sub> agonists|Desmopressin|DI|
+|V<sub>2</sub> antagonists|Vaptans|SIADH|
 
 ## Mechanisms of Action of Medications Targeting Enzymes
 
