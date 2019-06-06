@@ -49,9 +49,9 @@
 |-|-|-|-|
 |GH|↑|Lipid|Protein|
 |TH|↑|Glycogen & Protein & Lipid|Glucose|
-|Glucagon|↑|Glycogen & Lipid|Glucose|
-|Catecholamine|↑|Glycogen & Lipid|Glucose|
 |Cortisol|↑|Protein & Lipid|Glucose|
+|Catecholamine|↑|Glycogen & Lipid|Glucose|
+|Glucagon|↑|Glycogen & Lipid|Glucose|
 |Insulin|↓|Glucose|Glycogen & Protein & Lipid|
 
 ## Insensitivity of Endocrine Receptors
