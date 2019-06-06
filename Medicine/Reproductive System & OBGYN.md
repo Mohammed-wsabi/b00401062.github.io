@@ -403,7 +403,7 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |GnRH agonists|Leuprolide :: pulsatile|Infertility|
-|hCG analogs|Choriogonadotropin|Infertility|
+|hCG agonists|Choriogonadotropin|Infertility|
 
 ## Medications for Tocolysis
 
