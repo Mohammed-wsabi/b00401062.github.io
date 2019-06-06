@@ -18,16 +18,16 @@
 
 |Mnemonic|Hypothalamus|Pituitary|Periphery|
 |-|-|-|-|
-|Gray|GHRH|↑ GH|IGF-1|
-|Glandular|GnRH|↑ LH & FSH|SH|
-|Tissue|TRH|↑ TSH & PRL|TH|
-|Can|CRH|↑ ACTH|Cortisol|
-|Stimulate|Somatostatin|↓ GH & TSH & 5-HT|-|
-|Development|Dopamine|↓ GH & PRL|-|
-|-|Vasopressin|↑ ACTH|-|
-|-|Oxytocin|-|-|
+|GHRH|↑ GH|IGF-1|
+|GnRH|↑ LH & FSH|SH|
+|TRH|↑ TSH & PRL|TH|
+|CRH|↑ ACTH|Cortisol|
+|Somatostatin|↓ GH & TSH & 5-HT|-|
+|Dopamine|↓ GH & PRL|-|
+|Vasopressin|↑ ACTH|-|
+|Oxytocin|-|-|
 
-## Endocrine Glands & Hormone Regulation
+## Endocrine Glands
 
 |Endocrine Gland|1° Hormones|2° Stimulation|3° Stimulation|Effect|
 |-|-|-|-|-|
@@ -43,6 +43,15 @@
 ||Insulin|↑ Glucose|-|↓ Glucose|
 |Kidney|EPO|↓ O<sub>2</sub> & Hb|-|↑ O<sub>2</sub> & Hb|
 
+## Insensitivity of Endocrine Receptors
+
+|Endocrine Receptor|Disease|
+|-|-|
+|PTH|Pseudohypoparathyroidism (PHP)|
+|Androgen|Androgen insensitive syndrome (AIS)|
+|Vasopressin|Nephrogenic DI|
+|Insulin|DM type 2|
+
 ## Glucose Regulating Hormones
 
 |Hormones|Glucose|Degradation|Synthesis|
@@ -54,14 +63,15 @@
 |Glucagon|↑|Glycogen & Lipid|Glucose|
 |Insulin|↓|Glucose|Glycogen & Protein & Lipid|
 
-## Insensitivity of Endocrine Receptors
+## Mechanisms of Action of Medications for Acromegaly
 
-|Endocrine Receptor|Disease|
-|-|-|
-|PTH|Pseudohypoparathyroidism (PHP)|
-|Androgen|Androgen insensitive syndrome (AIS)|
-|Vasopressin|Nephrogenic DI|
-|Insulin|DM type 2|
+|Mechanism|Medication|Indications|
+|-|-|-|-|-|
+|Somatostatin agonists|Octreotide|Acromegaly|
+||Lanreotide|Acromegaly|
+|GH antagonists|Pegvisomant|Acromegaly|
+|D<sub>2</sub> agonists|Bromocriptine|Acromegaly|
+||Cabergoline|Acromegaly|
 
 ## Thyroid Hormone Synthesis {OOCD}
 
@@ -296,13 +306,3 @@
 - Insulin
 - Bicarbonate if indicated
 - Phosphate if indicated
-
-## Mechanisms of Action of Medications for Acromegaly
-
-|Mechanism|Medication|Indications|
-|-|-|-|-|-|
-|Somatostatin agonists|Octreotide|Acromegaly|
-||Lanreotide|Acromegaly|
-|GH antagonists|Pegvisomant|Acromegaly|
-|D<sub>2</sub> agonists|Bromocriptine|Acromegaly|
-||Cabergoline|Acromegaly|
