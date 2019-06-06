@@ -9,6 +9,7 @@
 |G<sub>s</sub>PCR|CRH & GHRH & V<sub>2</sub>|
 ||TSH & ACTH & LH & FSH|
 ||Calcitonin & PTH & Glucagon|
+|G<sub>i</sub>PCR|-|
 |Receptor tyrosine kinase (RTK): AMPK pathway|Insulin & GF|
 |Non-receptor tyrosine kinase (NRTK): JAK/STAT pathway|GH & PRL & Cytokines|
 |Steroid receptor|TH & Aldosterone & Cortisol & SH|
