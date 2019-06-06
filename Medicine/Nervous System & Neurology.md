@@ -59,7 +59,7 @@
 |Anterior|Parasympathetic|
 |Posterior|Sympathetic|
 |Suprachiasmatic|Circadian rhythm|
-|Supraoptic|ADH|
+|Supraoptic|Vasopressin|
 |Paraventricular|Oxytocin|
 
 ## Neurotransmitters and Hormones in Brain
@@ -68,12 +68,12 @@
 |-|-|
 |Acetylcholine|Basal nucleus of Meynert|
 |Dopamine|Ventral tegmentum & Substantia nigra|
-|GABA|Nucleus accumbens|
 |Norepinephrine|Nucleus ceruleus|
 |Serotonin|Raphe nucleus|
-|Melatonin|Pineal gland|
-|ADH|Supraoptic nucleus|
+|GABA|Nucleus accumbens|
+|Vasopressin|Supraoptic nucleus|
 |Oxytocin|Paraventricular nucleus|
+|Melatonin|Pineal gland|
 
 ## Cerebellum
 
@@ -265,19 +265,19 @@
 |Non-receptor tyrosine kinase (NRTK): JAK/STAT pathway|-|
 |Steroid receptor|-|
 
-## Neurotransmitters & Breakdown Products {AND-SHE-GGGO}
+## Neurotransmitters & Breakdown Products
 
 |Neurotransmitter|Precursor|Breakdown Products|
 |-|-|-|
 |Acetylcholine (ACh)|-|Acetate & Choline|
-|Norepinephrine (NE)|Tyrosine|Vanillylmandelic acid (VMA)|
 |Dopamine (DA)|Tyrosine|Homovanillic acid (HVA)|
+|Norepinephrine (NE)|Tyrosine|Vanillylmandelic acid (VMA)|
+|Epinephrine|Tyrosine|Vanillylmandelic acid (VMA)|
 |Serotonin (5-HT)|Tryptophan|5-hydroxyindoleacetic acid (5-HIAA)|
 |Histamine|Histidine|-|
-|Epinephrine|Tyrosine|Vanillylmandelic acid (VMA)|
-|Glutamine|Glutamine|-|
-|Glycine|Glycine|-|
+|Glutamate|Glutamate|-|
 |GABA|Glutamate|-|
+|Glycine|Glycine|-|
 |Opioid|-|-|
 
 ## Factors Affecting Cerebral Blood Flow
