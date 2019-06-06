@@ -46,9 +46,9 @@
 
 |Endocrine Receptor|Disease|
 |-|-|
+|GH|Laron syndrome|
 |PTH|Pseudohypoparathyroidism (PHP)|
 |Androgen|Androgen insensitive syndrome (AIS)|
-|GH|Laron syndrome|
 |Insulin|DM type 2|
 |Vasopressin|Nephrogenic DI|
 
