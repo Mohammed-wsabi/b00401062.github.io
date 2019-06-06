@@ -322,18 +322,6 @@
 |μ-opioid antagonists|Naloxone|Opioid antidote|
 ||Naltrexone|Alcohol cessation|
 
-## Mechanisms of Action of Medications Targeting Autacoid Receptor
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|PGE1 agonists|Misoprostol|Abortion & PUD|
-||Alprostadil|Impotence & PDA maintenance|
-|PGF2 agonists|Latanoprost|Glaucoma|
-|PGI2 agonists|Epoprostenol|Pulmonary HTN|
-|TXA2 antagonists|-|-|
-|LTD<sub>4</sub> antagonists|Montelukast|Asthma|
-||Zafirlukast|Asthma|
-
 ## Mechanisms of Action of Medications Targeting Growth Hormone
 
 |Mechanism|Medication|Indications|
@@ -387,6 +375,13 @@
 |5α-Reductase inhibitors|Finasteride|BPH & Alopecia|
 ||Spironolactone|Hirsutism|
 
+## Mechanisms of Action of Medications Targeting Vasopressin Receptor
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|V<sub>2</sub> agonists|Desmopressin|DI|
+|V<sub>2</sub> antagonists|Vaptans|SIADH|
+
 ## Mechanisms of Action of Medications Targeting Oxytocin Receptor
 
 |Mechanism|Medication|Indications|
@@ -394,12 +389,17 @@
 |Oxytocin agonists|Carbetocin|Labor|
 |Oxytocin antagonists|Atosiban|Tocolysis|
 
-## Mechanisms of Action of Medications Targeting Vasopressin Receptor
+## Mechanisms of Action of Medications Targeting Autacoid Receptor
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|V<sub>2</sub> agonists|Desmopressin|DI|
-|V<sub>2</sub> antagonists|Vaptans|SIADH|
+|PGE1 agonists|Misoprostol|Abortion & PUD|
+||Alprostadil|Impotence & PDA maintenance|
+|PGF2 agonists|Latanoprost|Glaucoma|
+|PGI2 agonists|Epoprostenol|Pulmonary HTN|
+|TXA2 antagonists|-|-|
+|LTD<sub>4</sub> antagonists|Montelukast|Asthma|
+||Zafirlukast|Asthma|
 
 ## Mechanisms of Action of Medications Targeting Enzymes
 
