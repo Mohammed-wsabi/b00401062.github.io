@@ -19,9 +19,9 @@
 |Mnemonic|Hypothalamus|Pituitary|Periphery|
 |-|-|-|-|
 |GHRH|↑ GH|IGF-1|
-|GnRH|↑ LH & FSH|SH|
 |TRH|↑ TSH & PRL|TH|
 |CRH|↑ ACTH|Cortisol|
+|GnRH|↑ LH & FSH|SH|
 |Somatostatin|↓ GH & TSH & 5-HT|-|
 |Dopamine|↓ GH & PRL|-|
 |Vasopressin|↑ ACTH|-|
@@ -31,6 +31,7 @@
 
 |Endocrine Gland|1° Hormones|2° Stimulation|3° Stimulation|Effect|
 |-|-|-|-|-|
+|Liver|IGF-1|↑ GH|↑ GHRH|↑ Glucose|
 |Thyroid|TH|↑ TSH|↑ TRH|↑ Metabolism|
 ||Calcitonin|↑ Ca|-|↓ Ca|
 |Parathyroid|PTH|↓ Ca & ↑ Phosphate|-|↑ Ca & ↓ Phosphate|
@@ -38,7 +39,6 @@
 ||Cortisol|↑ ACTH|↑ CRH|↑ Glucose|
 ||SH|-|-|↑ Sex|
 |Gonad|SH|↑ LH & FSH|↑ GnRH|↑ Sex|
-|Liver|IGF-1|↑ GH|↑ GHRH|↑ Glucose|
 |Pancreas|Glucagon|↓ Glucose|-|↑ Glucose|
 ||Insulin|↑ Glucose|-|↓ Glucose|
 |Kidney|EPO|↓ O<sub>2</sub> & Hb|-|↑ O<sub>2</sub> & Hb|
