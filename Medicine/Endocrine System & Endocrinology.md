@@ -15,7 +15,7 @@
 
 ## Hypothalamic-Pituitary Axises
 
-|Mnemonic|Hypothalamus|Pituitary|Periphery|
+|Hypothalamus|Pituitary|Periphery|
 |-|-|-|-|
 |TRH|↑ TSH & PRL|TH|
 |CRH|↑ ACTH|Cortisol|
