@@ -99,11 +99,11 @@
 
 ## Surgical Wound Classification
 
-|Wound|Inflammation|Pus|Flora|Spillage|
+|Wound|Flora|Spillage|Inflammation|Pus|
 |-|-|-|
 |Clean|-|-|-|-|
-|Clean-contaminated|-|-|+|-|
-|Contaminated|+|-|+|+|
+|Clean-contaminated|+|-||-|
+|Contaminated|+|+|+|-|
 |Dirty|+|+|+|+|
 
 ## Types of Wound Healing
