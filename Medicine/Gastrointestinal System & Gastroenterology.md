@@ -147,21 +147,6 @@
 |Side-to-side portacaval anastomosis|Portal vein|IVC|
 |Transjugular intrahepatic portosystemic shunt (TIPS)|Portal vein|Hepatic vein|
 
-## Etiology of Hyperbilirubinemia & Jaundice
-
-||Indirect|Direct|Mixed|
-|-|-|-|-|
-|Serum indirect bilirubin|↑|-|↑|
-|Serum direct bilirubin|-|↑|↑|
-|Urine bilirubin|-|↑|↑|
-|Urine urobilinogen|↑|↓|-|
-|Tea-colored urine|-|+|+|
-|Clay-colored stool|-|+|+|
-|Etiology|Gilbert syndrome|Dubin-Johnson syndrome|Hepatitis|
-||Crigler-Najjar syndrome|Rotor syndrome|Cirrhosis|
-||Neonatal jaundice|Obstructive jaundice|-|
-||Extravascular hemolysis|-|-|
-
 ## Etiology of Hepatitis
 
 - Ischemic hepatitis
@@ -227,6 +212,21 @@
 - Pain of RUQ
 - Fever
 - Jaundice
+
+## Etiology of Hyperbilirubinemia & Jaundice
+
+||Indirect|Direct|Mixed|
+|-|-|-|-|
+|Serum indirect bilirubin|↑|-|↑|
+|Serum direct bilirubin|-|↑|↑|
+|Urine bilirubin|-|↑|↑|
+|Urine urobilinogen|↑|↓|-|
+|Tea-colored urine|-|+|+|
+|Clay-colored stool|-|+|+|
+|Etiology|Gilbert syndrome|Dubin-Johnson syndrome|Hepatitis|
+||Crigler-Najjar syndrome|Rotor syndrome|Cirrhosis|
+||Neonatal jaundice|Obstructive jaundice|-|
+||Extravascular hemolysis|-|-|
 
 ## Presentation of VIPoma {WDHA}
 
