@@ -72,12 +72,45 @@
 - Chemotherapy-induced emesis (CIE)
 - Postoperative nausea and vomiting (PONV)
 
+## Mechanisms of Action of Antiemetics
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|M antagonists|Scopolamine|Emesis :: motion sickness|
+|D<sub>2</sub> antagonists|Metoclopramide|Emesis|
+||Prochlorperazine|Emesis|
+||Domperidone|Emesis|
+||Droperidol|Emesis|
+|5-HT<sub>3</sub> antagonists|Setrons|Emesis :: chemotherapy|
+|H<sub>1</sub> antagonists|Chlorpheniramine|Emesis :: motion sickness|
+||Diphenhydramine|Emesis :: motion sickness|
+||Meclizine|Emesis :: motion sickness|
+||Promethazine|Emesis :: motion sickness|
+|Neurokinin antagonists|Aprepitant|Emesis :: chemotherapy|
+|Cannabinoid agonists|Dronabinol|Emesis :: chemotherapy|
+|-|Steroids|Emesis :: chemotherapy|
+
 ## Etiology of Diarrhea
 
 - Osmotic
 - Secretory
 - Inflammatory
 - Exudative
+
+## Mechanisms of Action of Laxatives {SHELB}
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|Stimulants|Senna|Constipation|
+||Bisacodyl|Constipation|
+||Cisapride|Constipation|
+|Hyperosmotics|Magnesium|Constipation|
+||Polyethylene glycol|Constipation|
+||Lactulose|Constipation|
+||Enema|Constipation|
+|Emollients|Docusate|Constipation|
+|Lubricants|Mineral oil|Constipation|
+|Bulk-formers|Psyllium|Constipation|
 
 ## Etiology of Ascites
 
@@ -195,6 +228,29 @@
 - Fever
 - Jaundice
 
+## Presentation of VIPoma {WDHA}
+
+|Mnemonic|Presentation|
+|-|-|
+|WD|Watery diarrhea|
+|H|Hypokalemia|
+|A|Achlorhydria|
+
+## Whipple Procedure
+
+- Pancreaticoduodenectomy
+- Gastrojejunostomy
+- Pancreaticojejunostomy
+- Cholangiojejunostomy
+- ± Roux-en-Y reconstruction
+
+## Triad of Plummer-Vinson Syndrome {DIGS}
+
+- Dysphagia ← esophageal web
+- Iron deficiency anemia
+- Glossitis
+- Squamous cell carcinoma
+
 ## Etiology of Gastritis {BANISH}
 
 - Biliary reflux
@@ -216,68 +272,6 @@
 - Inability to vomit
 - Difficult passage of nasogastric (NG) tube
 
-## Presentation of Appendicitis {PROM}
-
-- Psoas sign
-- Rovsing sign
-- Obturator sign
-- McBurney's point
-
-## Rome Criteria for Irritable Bowel Syndrome (IBS)
-
-- Recurrent abdominal discomfort
-- Relief a/w defecation
-- Onset a/w frequency of stool
-- Onset a/w appearance of stool
-
-## Triad of Plummer-Vinson Syndrome {DIGS}
-
-- Dysphagia ← esophageal web
-- Iron deficiency anemia
-- Glossitis
-- Squamous cell carcinoma
-
-## Presentation of VIPoma {WDHA}
-
-|Mnemonic|Presentation|
-|-|-|
-|WD|Watery diarrhea|
-|H|Hypokalemia|
-|A|Achlorhydria|
-
-## Classification of Inflammatory Bowel Disease (IBD)
-
-||Crohn Disease|Ulcerative Colitis|
-|-|-|-|
-|Origin|Terminal ileus|Rectum|
-|Pattern|Skip|Contiguous|
-|Thickness|Transmural|Mucosal & Submucosal|
-|Radiography|String sign|Lead pipe|
-|Risk of colon cancer|↑|↑↑|
-
-## Grading of Hemorrhoids
-
-|Grade|Proplase|Reduction|
-|-|-|-|
-|1|-|-|
-|2|+|Spontaneous|
-|3|+|Manual|
-|4|+|Irreducible|
-
-## Triad of Chronic Anal Fissures
-
-- Sentinel pile
-- Hypertrophied papilla
-- Ulcer with scarred edges
-
-## Park Classification of Anal Fistulas
-
-![](../Figures/Park%20Classification%20of%20Anal%20Fistulas.jpg)
-
-## Goodsall Rule for Anal Fistula
-
-![](../Figures/Goodsall%20Rule%20for%20Anal%20Fistula.jpg)
-
 ## Mechanisms of Action of Medications for PUD
 
 |Mechanism|Medication|Indications|
@@ -295,47 +289,6 @@
 ||Amoxicillin / Metronidazole|PUD|
 ||Clarithromycin|PUD|
 |-|Sucralfate|PUD|
-
-## Mechanisms of Action of Antiemetics
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|M antagonists|Scopolamine|Emesis :: motion sickness|
-|D<sub>2</sub> antagonists|Metoclopramide|Emesis|
-||Prochlorperazine|Emesis|
-||Domperidone|Emesis|
-||Droperidol|Emesis|
-|5-HT<sub>3</sub> antagonists|Setrons|Emesis :: chemotherapy|
-|H<sub>1</sub> antagonists|Chlorpheniramine|Emesis :: motion sickness|
-||Diphenhydramine|Emesis :: motion sickness|
-||Meclizine|Emesis :: motion sickness|
-||Promethazine|Emesis :: motion sickness|
-|Neurokinin antagonists|Aprepitant|Emesis :: chemotherapy|
-|Cannabinoid agonists|Dronabinol|Emesis :: chemotherapy|
-|-|Steroids|Emesis :: chemotherapy|
-
-## Mechanisms of Action of Laxatives {SHELB}
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|Stimulants|Senna|Constipation|
-||Bisacodyl|Constipation|
-||Cisapride|Constipation|
-|Hyperosmotics|Magnesium|Constipation|
-||Polyethylene glycol|Constipation|
-||Lactulose|Constipation|
-||Enema|Constipation|
-|Emollients|Docusate|Constipation|
-|Lubricants|Mineral oil|Constipation|
-|Bulk-formers|Psyllium|Constipation|
-
-## Whipple Procedure
-
-- Pancreaticoduodenectomy
-- Gastrojejunostomy
-- Pancreaticojejunostomy
-- Cholangiojejunostomy
-- ± Roux-en-Y reconstruction
 
 ## Types of Gastrectomy
 
@@ -371,3 +324,50 @@
 - Sleeve gastrectomy
 - Biliopancreatic diversion
 - Roux-en-Y gastric bypass (RYGB)
+
+## Presentation of Appendicitis {PROM}
+
+- Psoas sign
+- Rovsing sign
+- Obturator sign
+- McBurney's point
+
+## Rome Criteria for Irritable Bowel Syndrome (IBS)
+
+- Recurrent abdominal discomfort
+- Relief a/w defecation
+- Onset a/w frequency of stool
+- Onset a/w appearance of stool
+
+## Classification of Inflammatory Bowel Disease (IBD)
+
+||Crohn Disease|Ulcerative Colitis|
+|-|-|-|
+|Origin|Terminal ileus|Rectum|
+|Pattern|Skip|Contiguous|
+|Thickness|Transmural|Mucosal & Submucosal|
+|Radiography|String sign|Lead pipe|
+|Risk of colon cancer|↑|↑↑|
+
+## Grading of Hemorrhoids
+
+|Grade|Proplase|Reduction|
+|-|-|-|
+|1|-|-|
+|2|+|Spontaneous|
+|3|+|Manual|
+|4|+|Irreducible|
+
+## Triad of Chronic Anal Fissures
+
+- Sentinel pile
+- Hypertrophied papilla
+- Ulcer with scarred edges
+
+## Park Classification of Anal Fistulas
+
+![](../Figures/Park%20Classification%20of%20Anal%20Fistulas.jpg)
+
+## Goodsall Rule for Anal Fistula
+
+![](../Figures/Goodsall%20Rule%20for%20Anal%20Fistula.jpg)
