@@ -317,6 +317,8 @@
 - Cholangiojejunostomy
 - ± Roux-en-Y reconstruction
 
+![](../Figures/Whipple%20Procedure.jpg)
+
 ## Presentation of VIPoma {WDHA}
 
 |Mnemonic|Presentation|
