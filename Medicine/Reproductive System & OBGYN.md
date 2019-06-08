@@ -164,6 +164,13 @@
 	- Late deceleration: onset to nadir of > 30 seconds after a uterine contraction
 	- Variable deceleration: ↓ 15/min for 15 seconds ~ 2 minutes & onset to nadir of < 30 seconds
 
+## Treatment of Late Decelerations {STOP}
+
+- Sterile vaginal exam
+- Tocolysis
+- Oxygen
+- Position :: left lateral recumbent
+
 ## Biophysical Profile (BPP)
 
 - Nonstress test (NST): > 2 accelerations in 20 minutes
@@ -184,6 +191,17 @@
 - Valsalva
 - Ferning
 - Nitrazine
+
+## Medications for Tocolysis
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|β<sub>2</sub> agonists|Terbutaline & Ritodrine|Tocolysis|
+|COX inhibitors|Indomethacin|Tocolysis|
+|Ca channel blockers|Nifedipine|Tocolysis|
+|MgSO<sub>4</sub>|MgSO<sub>4</sub>|Tocolysis|
+|NO donors|Glyceryl trinitrate|Tocolysis|
+|Oxytocin antagonists|Atosiban|Tocolysis|
 
 ## Stages of Labor
 
@@ -330,20 +348,6 @@
 - Hyperandrogenism
 - Polycystic ovaries
 
-## Breast Tumors
-
-|Origin|Tumors|Subtype|
-|-|-|-|
-|Nipple|Paget disease|-|
-|Duct|Fibrocystic change|-|
-||Intraductal papilloma|-|
-||Ductal carcinoma in situ (DCIS)|Comedocarcinoma|
-||Invasive ductal carcinoma (IDC)|Medullary carcinoma|
-|Lobule|Lobular carcinoma in situ (LCIS)|-|
-||Invasive lobular carcinoma (ILC)|-|
-|Stroma|Fibroadenoma|-|
-||Phyllodes tumor|-|
-
 ## Reproductive Tumors
 
 ### Germ Cell Tumors (GCT)
@@ -385,6 +389,30 @@
 |Components|2 sperms & 0 egg|2 sperms & 1 egg|
 
 
+## Breast Tumors
+
+|Origin|Tumors|Subtype|
+|-|-|-|
+|Nipple|Paget disease|-|
+|Duct|Fibrocystic change|-|
+||Intraductal papilloma|-|
+||Ductal carcinoma in situ (DCIS)|Comedocarcinoma|
+||Invasive ductal carcinoma (IDC)|Medullary carcinoma|
+|Lobule|Lobular carcinoma in situ (LCIS)|-|
+||Invasive lobular carcinoma (ILC)|-|
+|Stroma|Fibroadenoma|-|
+||Phyllodes tumor|-|
+
+## Types of Flaps for Breast Reconstruction
+
+- Transverse rectus abdominis myocutaneous (TRAM) flap
+- Latissimus dorsi (LD) flap
+- Deep inferior epigastric perforator (DIEP) flap
+- Superficial inferior epigastric artery (SIEA) flap
+- Gluteal flap
+- Transverse upper gracilis (TUG) flap
+- Profunda artery perforator (PAP) flap
+
 ## Controlled Ovarian Hyperstimulation
 
 ### Suppression of Spontaneous Ovulation
@@ -404,21 +432,3 @@
 |-|-|-|
 |GnRH agonists|Leuprolide :: pulsatile|Infertility|
 |hCG agonists|Choriogonadotropin|Infertility|
-
-## Medications for Tocolysis
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|β<sub>2</sub> agonists|Terbutaline & Ritodrine|Tocolysis|
-|COX inhibitors|Indomethacin|Tocolysis|
-|Ca channel blockers|Nifedipine|Tocolysis|
-|MgSO<sub>4</sub>|MgSO<sub>4</sub>|Tocolysis|
-|NO donors|Glyceryl trinitrate|Tocolysis|
-|Oxytocin antagonists|Atosiban|Tocolysis|
-
-## Treatment of Late Decelerations {STOP}
-
-- Sterile vaginal exam
-- Tocolysis
-- Oxygen
-- Position :: left lateral recumbent
