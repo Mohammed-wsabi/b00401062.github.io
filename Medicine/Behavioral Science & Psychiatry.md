@@ -196,28 +196,6 @@
 - Sleep disturbance :: insomnia & hypersomnia
 - Suicidal ideations
 
-## Withdrawl Symptoms from Alcohol {PTSD}
-
-- Psychosis
-- Tremors
-- Seizure & Sleep deprivation
-- Delirium tremens
-
-## Substance Use Disorders
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|GABA-A agonists|Alcohol|Depressant|
-|μ-opioid agonists|Heroin|Depressant|
-|Adenosine antagonists|Caffeine|Stimulant|
-|ACh agonists|Nicotine|Stimulant|
-|NE release inducers|Amphetamine|Stimulant|
-|NE reuptake inhibitors|Cocaine|Stimulant|
-|-|LSD|Hallucinogen|
-|-|PCP [Angel dust]|Hallucinogen & Stimulant|
-|-|MDMA [Ecstasy]|Hallucinogen & Stimulant|
-|-|Cannabis [Marijuana]|Hallucinogen|
-
 ## Mechanisms of Action of Medications for Bipolar Disorder
 
 |Mechanism|Medication|Indications|
