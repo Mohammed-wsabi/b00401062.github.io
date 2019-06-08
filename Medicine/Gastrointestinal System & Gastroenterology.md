@@ -99,9 +99,20 @@
 
 ## Triad of Budd-Chiari Syndrome
 
-- Pain of RUQ
+- Pain :: RUQ
 - Ascites
 - Hepatomegaly
+
+## Types of Portosystemic Shunts for Portal Hypertension
+
+|Shunt|Portal|System|
+|-|-|-|
+|Splenorenal [Warren] shunt|Splenic vein|Renal vein|
+|Mesocaval H graft|SMV|IVC|
+|Portacaval H graft|Portal vein|IVC|
+|End-to-side portacaval anastomosis|Portal vein|IVC|
+|Side-to-side portacaval anastomosis|Portal vein|IVC|
+|Transjugular intrahepatic portosystemic shunt (TIPS)|Portal vein|Hepatic vein|
 
 ## Etiology of Hyperbilirubinemia & Jaundice
 
@@ -142,6 +153,41 @@
 |Vaccination|-|+|-|
 
 ![](../Figures/Serologic%20Testing%20for%20Hepatitis%20B.jpg)
+
+## Management of Hepatocellular Carcinoma (HCC)
+
+- w/o vascular invasion / extrahepatic metastasis
+	- Resectable tumor(s) & Child-Pugh score ≤ B: Resection / (RFA ± TACE)
+	- Resectable tumor(s): Liver transplantation
+	- Non-resectable tumor(s) & Child-Pugh score ≤ B: RFA & TACE
+	- Non-resectable tumor(s) & Child-Pugh score = C: Supportive care
+- w/ vascular invasion / extrahepatic metastasis
+	- Child-Pugh score ≤ B: Chemotherapy
+	- Child-Pugh score = C: Supportive care
+
+![](../Figures/Barcelona%20Clinic%20Liver%20Cancer%20(BCLC)%20Staging.gif)
+
+## Criteria for Liver Transplantation in Hepatocellular Carcinoma (HCC)
+
+### Milan Criteria
+
+- Resectable tumor(s):
+	- 1 tumor: < 5 cm
+	- ≤ 3 tumors: each < 3 cm
+- No vascular invasion
+- No extrahepatic metastasis
+
+### UCSF Criteria
+
+- Resectable tumor(s):
+	- 1 tumor: < 6.5 cm
+	- ≤ 3 tumors: each < 4.5 cm & total < 8 cm
+- No vascular invasion
+- No extrahepatic metastasis
+
+## Makuuchi Criteria for Hepatectomy
+
+![](../Figures/Makuuchi%20Criteria%20for%20Hepatectomy.png)
 
 ## Charcot Triad of Cholangitis
 
@@ -282,52 +328,6 @@
 |Emollients|Docusate|Constipation|
 |Lubricants|Mineral oil|Constipation|
 |Bulk-formers|Psyllium|Constipation|
-
-## Types of Portosystemic Shunts for Portal Hypertension
-
-|Shunt|Portal|System|
-|-|-|-|
-|Splenorenal [Warren] shunt|Splenic vein|Renal vein|
-|Mesocaval H graft|SMV|IVC|
-|Portacaval H graft|Portal vein|IVC|
-|End-to-side portacaval anastomosis|Portal vein|IVC|
-|Side-to-side portacaval anastomosis|Portal vein|IVC|
-|Transjugular intrahepatic portosystemic shunt (TIPS)|Portal vein|Hepatic vein|
-
-## Management of Hepatocellular Carcinoma (HCC)
-
-- w/o vascular invasion / extrahepatic metastasis
-	- Resectable tumor(s) & Child-Pugh score ≤ B: Resection / (RFA ± TACE)
-	- Resectable tumor(s): Liver transplantation
-	- Non-resectable tumor(s) & Child-Pugh score ≤ B: RFA & TACE
-	- Non-resectable tumor(s) & Child-Pugh score = C: Supportive care
-- w/ vascular invasion / extrahepatic metastasis
-	- Child-Pugh score ≤ B: Chemotherapy
-	- Child-Pugh score = C: Supportive care
-
-![](../Figures/Barcelona%20Clinic%20Liver%20Cancer%20(BCLC)%20Staging.gif)
-
-## Criteria for Liver Transplantation in Hepatocellular Carcinoma (HCC)
-
-### Milan Criteria
-
-- Resectable tumor(s):
-	- 1 tumor: < 5 cm
-	- ≤ 3 tumors: each < 3 cm
-- No vascular invasion
-- No extrahepatic metastasis
-
-### UCSF Criteria
-
-- Resectable tumor(s):
-	- 1 tumor: < 6.5 cm
-	- ≤ 3 tumors: each < 4.5 cm & total < 8 cm
-- No vascular invasion
-- No extrahepatic metastasis
-
-## Makuuchi Criteria for Hepatectomy
-
-![](../Figures/Makuuchi%20Criteria%20for%20Hepatectomy.png)
 
 ## Whipple Procedure
 
