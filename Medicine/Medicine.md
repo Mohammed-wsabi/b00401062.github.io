@@ -326,9 +326,9 @@
 |Edema|Etiology|Pitting|
 |-|-|-|
 |Exudate|Inflammation|+|
-|Lymphedema|Lymphatic obstruction|-|
 |Transudate|Hydrostatic pressure|+|
 ||Oncotic pressure|+|
+|Lymphedema|Lymphatic obstruction|-|
 
 ## Etiology of Altered Mental Status (AMS) {AEIOU-TIPS}
 
