@@ -469,6 +469,14 @@
 - 2-vessel disease: 2 vessels > 50% stenosis & EF < 50%
 - 3-vessel disease: 3 vessels > 50% stenosis
 
+## Types of Grafts for Coronary Artery Bypass Grafting (CABG)
+
+- Saphenous vein graft
+- Internal mammary artery (IMA) graft
+	- Left internal mammary artery (LIMA) graft
+	- Right internal mammary artery (RIMA) graft
+- Radial artery graft
+
 ## Beck Triad of Cardiac Tamponade
 
 - Hypotension & Pulsus paradoxus
