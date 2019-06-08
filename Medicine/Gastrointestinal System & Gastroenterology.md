@@ -138,6 +138,14 @@
 
 ![](../Figures/Gastric%20Reconstruction%20Following%20Total%20Gastrectomy.jpg)
 
+## Complications of Gastrectomy
+
+- Postvagotomy diarrhea
+- Dumping syndrome
+- Alkaline reflux gastritis
+- Afferent loop syndrome
+- Nutritional deficiencies
+
 ## Types of Bariatric Surgery
 
 - Vertical banded gastroplasty (VBG)
