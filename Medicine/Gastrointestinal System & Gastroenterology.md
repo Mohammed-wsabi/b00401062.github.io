@@ -288,12 +288,6 @@
 
 ![](../Figures/Makuuchi%20Criteria%20for%20Hepatectomy.png)
 
-## Charcot Triad of Cholangitis
-
-- Pain of RUQ
-- Fever
-- Jaundice
-
 ## Etiology of Hyperbilirubinemia & Jaundice
 
 ||Indirect|Direct|Mixed|
@@ -309,13 +303,11 @@
 ||Neonatal jaundice|Obstructive jaundice|-|
 ||Extravascular hemolysis|-|-|
 
-## Presentation of VIPoma {WDHA}
+## Charcot Triad of Cholangitis
 
-|Mnemonic|Presentation|
-|-|-|
-|WD|Watery diarrhea|
-|H|Hypokalemia|
-|A|Achlorhydria|
+- Pain of RUQ
+- Fever
+- Jaundice
 
 ## Whipple Procedure
 
@@ -324,3 +316,11 @@
 - Pancreaticojejunostomy
 - Cholangiojejunostomy
 - ± Roux-en-Y reconstruction
+
+## Presentation of VIPoma {WDHA}
+
+|Mnemonic|Presentation|
+|-|-|
+|WD|Watery diarrhea|
+|H|Hypokalemia|
+|A|Achlorhydria|
