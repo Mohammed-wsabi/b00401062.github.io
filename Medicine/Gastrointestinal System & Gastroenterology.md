@@ -14,14 +14,6 @@
 |Gastrocolic ligament: greater omentum|Stomach ~ Transverse colon|Gastroepiploic artery|
 |Splenorenal ligament|Spleen ~ Kidney|Splenic artery|
 
-## Segments of the Liver
-
-![](../Figures/Segments%20of%20the%20Liver.jpg)
-
-## Biliary Structures
-
-![](../Figures/Biliary%20Structures.png)
-
 ## Layers of Gastrointestinal Tract {MSMS}
 
 - Mucosa layer
@@ -64,6 +56,142 @@
 |S cell|Secretin|
 
 ![](../Figures/Gastrointestinal%20Secretion.png)
+
+## Segments of the Liver
+
+![](../Figures/Segments%20of%20the%20Liver.jpg)
+
+## Biliary Structures
+
+![](../Figures/Biliary%20Structures.png)
+
+## Triad of Plummer-Vinson Syndrome {DIGS}
+
+- Dysphagia ← esophageal web
+- Iron deficiency anemia
+- Glossitis
+- Squamous cell carcinoma
+
+## Etiology of Gastritis {BANISH}
+
+- Biliary reflux
+- Brain injury → Cushing ulcer
+- Burns → Curling ulcer
+- Achlorhydria
+- Alcohol
+- Autoimmunity → Autoimmune gastritis
+- NSAIDs
+- Ischemia
+- Smoking
+- Steroids
+- Stress
+- Helicobacter pylori
+
+## Brochardt Triad of Gastric Volvulus
+
+- Intermittent epigastric pain and distention
+- Inability to vomit
+- Difficult passage of nasogastric (NG) tube
+
+## Mechanisms of Action of Medications for Peptic Ulcer Disease (PUD)
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|H-K pump blockers|Proton pump inhibitors (PPI): Prazoles|PUD|
+|H<sub>2</sub> antagonists|Cimetidine|PUD|
+||Ranitidine|PUD|
+||Famotidine|PUD|
+||Nizatidine|PUD|
+|PGE1 agonists|Misoprostol|PUD|
+|Antacids|Aluminum hydroxide|PUD|
+||Calcium carbonate|PUD|
+||Magnesium hydroxide|PUD|
+|Antimicrobials|Bismuth|PUD|
+||Amoxicillin / Metronidazole|PUD|
+||Clarithromycin|PUD|
+|-|Sucralfate|PUD|
+
+## Types of Gastrectomy
+
+- Local [Wedge] resection
+- Sleeve gastrectomy
+- Proximal gastrectomy
+- Segmental [Pylorus-preserving] gastrectomy
+- Distal gastrectomy
+- Total gastrectomy
+
+## Gastric Reconstruction Following Gastrectomy
+
+### Gastric Reconstruction Following Proximal Gastrectomy
+
+![](../Figures/Gastric%20Reconstruction%20Following%20Proximal%20Gastrectomy.jpg)
+
+### Gastric Reconstruction Following Segmental Gastrectomy
+
+![](../Figures/Gastric%20Reconstruction%20Following%20Segmental%20Gastrectomy.jpg)
+
+### Gastric Reconstruction Following Distal Gastrectomy
+
+![](../Figures/Gastric%20Reconstruction%20Following%20Distal%20Gastrectomy.jpg)
+
+### Gastric Reconstruction Following Total Gastrectomy
+
+![](../Figures/Gastric%20Reconstruction%20Following%20Total%20Gastrectomy.jpg)
+
+## Types of Bariatric Surgery
+
+- Vertical banded gastroplasty (VBG)
+- Laparoscopic adjustable gastric band (LAGB)
+- Sleeve gastrectomy
+- Biliopancreatic diversion
+- Roux-en-Y gastric bypass (RYGB)
+
+## Presentation of Appendicitis {PROM}
+
+- Psoas sign
+- Rovsing sign
+- Obturator sign
+- McBurney's point
+
+## Rome Criteria for Irritable Bowel Syndrome (IBS)
+
+- Recurrent abdominal discomfort
+- Relief a/w defecation
+- Onset a/w frequency of stool
+- Onset a/w appearance of stool
+
+## Classification of Inflammatory Bowel Disease (IBD)
+
+||Crohn Disease|Ulcerative Colitis|
+|-|-|-|
+|Origin|Terminal ileus|Rectum|
+|Pattern|Skip|Contiguous|
+|Thickness|Transmural|Mucosal & Submucosal|
+|Radiography|String sign|Lead pipe|
+|Risk of colon cancer|↑|↑↑|
+
+## Grading of Hemorrhoids
+
+|Grade|Proplase|Reduction|
+|-|-|-|
+|1|-|-|
+|2|+|Spontaneous|
+|3|+|Manual|
+|4|+|Irreducible|
+
+## Triad of Chronic Anal Fissures
+
+- Sentinel pile
+- Hypertrophied papilla
+- Ulcer with scarred edges
+
+## Park Classification of Anal Fistulas
+
+![](../Figures/Park%20Classification%20of%20Anal%20Fistulas.jpg)
+
+## Goodsall Rule for Anal Fistula
+
+![](../Figures/Goodsall%20Rule%20for%20Anal%20Fistula.jpg)
 
 ## Etiology of Ascites
 
@@ -196,131 +324,3 @@
 - Pancreaticojejunostomy
 - Cholangiojejunostomy
 - ± Roux-en-Y reconstruction
-
-## Triad of Plummer-Vinson Syndrome {DIGS}
-
-- Dysphagia ← esophageal web
-- Iron deficiency anemia
-- Glossitis
-- Squamous cell carcinoma
-
-## Etiology of Gastritis {BANISH}
-
-- Biliary reflux
-- Brain injury → Cushing ulcer
-- Burns → Curling ulcer
-- Achlorhydria
-- Alcohol
-- Autoimmunity → Autoimmune gastritis
-- NSAIDs
-- Ischemia
-- Smoking
-- Steroids
-- Stress
-- Helicobacter pylori
-
-## Brochardt Triad of Gastric Volvulus
-
-- Intermittent epigastric pain and distention
-- Inability to vomit
-- Difficult passage of nasogastric (NG) tube
-
-## Mechanisms of Action of Medications for PUD
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|H-K pump blockers|Proton pump inhibitors (PPI): Prazoles|PUD|
-|H<sub>2</sub> antagonists|Cimetidine|PUD|
-||Ranitidine|PUD|
-||Famotidine|PUD|
-||Nizatidine|PUD|
-|PGE1 agonists|Misoprostol|PUD|
-|Antacids|Aluminum hydroxide|PUD|
-||Calcium carbonate|PUD|
-||Magnesium hydroxide|PUD|
-|Antimicrobials|Bismuth|PUD|
-||Amoxicillin / Metronidazole|PUD|
-||Clarithromycin|PUD|
-|-|Sucralfate|PUD|
-
-## Types of Gastrectomy
-
-- Local [Wedge] resection
-- Sleeve gastrectomy
-- Proximal gastrectomy
-- Segmental [Pylorus-preserving] gastrectomy
-- Distal gastrectomy
-- Total gastrectomy
-
-## Gastric Reconstruction Following Gastrectomy
-
-### Gastric Reconstruction Following Proximal Gastrectomy
-
-![](../Figures/Gastric%20Reconstruction%20Following%20Proximal%20Gastrectomy.jpg)
-
-### Gastric Reconstruction Following Segmental Gastrectomy
-
-![](../Figures/Gastric%20Reconstruction%20Following%20Segmental%20Gastrectomy.jpg)
-
-### Gastric Reconstruction Following Distal Gastrectomy
-
-![](../Figures/Gastric%20Reconstruction%20Following%20Distal%20Gastrectomy.jpg)
-
-### Gastric Reconstruction Following Total Gastrectomy
-
-![](../Figures/Gastric%20Reconstruction%20Following%20Total%20Gastrectomy.jpg)
-
-## Types of Bariatric Surgery
-
-- Vertical banded gastroplasty (VBG)
-- Laparoscopic adjustable gastric band (LAGB)
-- Sleeve gastrectomy
-- Biliopancreatic diversion
-- Roux-en-Y gastric bypass (RYGB)
-
-## Presentation of Appendicitis {PROM}
-
-- Psoas sign
-- Rovsing sign
-- Obturator sign
-- McBurney's point
-
-## Rome Criteria for Irritable Bowel Syndrome (IBS)
-
-- Recurrent abdominal discomfort
-- Relief a/w defecation
-- Onset a/w frequency of stool
-- Onset a/w appearance of stool
-
-## Classification of Inflammatory Bowel Disease (IBD)
-
-||Crohn Disease|Ulcerative Colitis|
-|-|-|-|
-|Origin|Terminal ileus|Rectum|
-|Pattern|Skip|Contiguous|
-|Thickness|Transmural|Mucosal & Submucosal|
-|Radiography|String sign|Lead pipe|
-|Risk of colon cancer|↑|↑↑|
-
-## Grading of Hemorrhoids
-
-|Grade|Proplase|Reduction|
-|-|-|-|
-|1|-|-|
-|2|+|Spontaneous|
-|3|+|Manual|
-|4|+|Irreducible|
-
-## Triad of Chronic Anal Fissures
-
-- Sentinel pile
-- Hypertrophied papilla
-- Ulcer with scarred edges
-
-## Park Classification of Anal Fistulas
-
-![](../Figures/Park%20Classification%20of%20Anal%20Fistulas.jpg)
-
-## Goodsall Rule for Anal Fistula
-
-![](../Figures/Goodsall%20Rule%20for%20Anal%20Fistula.jpg)
