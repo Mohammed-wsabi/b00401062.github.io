@@ -65,53 +65,6 @@
 
 ![](../Figures/Gastrointestinal%20Secretion.png)
 
-## Etiology of Nausea and Vomiting
-
-- Motion sickness
-- Radiation-induced emesis (RIE)
-- Chemotherapy-induced emesis (CIE)
-- Postoperative nausea and vomiting (PONV)
-
-## Mechanisms of Action of Antiemetics
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|M antagonists|Scopolamine|Emesis :: motion sickness|
-|D<sub>2</sub> antagonists|Metoclopramide|Emesis|
-||Prochlorperazine|Emesis|
-||Domperidone|Emesis|
-||Droperidol|Emesis|
-|5-HT<sub>3</sub> antagonists|Setrons|Emesis :: chemotherapy|
-|H<sub>1</sub> antagonists|Chlorpheniramine|Emesis :: motion sickness|
-||Diphenhydramine|Emesis :: motion sickness|
-||Meclizine|Emesis :: motion sickness|
-||Promethazine|Emesis :: motion sickness|
-|Neurokinin antagonists|Aprepitant|Emesis :: chemotherapy|
-|Cannabinoid agonists|Dronabinol|Emesis :: chemotherapy|
-|-|Steroids|Emesis :: chemotherapy|
-
-## Etiology of Diarrhea
-
-- Osmotic
-- Secretory
-- Inflammatory
-- Exudative
-
-## Mechanisms of Action of Laxatives {SHELB}
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|Stimulants|Senna|Constipation|
-||Bisacodyl|Constipation|
-||Cisapride|Constipation|
-|Hyperosmotics|Magnesium|Constipation|
-||Polyethylene glycol|Constipation|
-||Lactulose|Constipation|
-||Enema|Constipation|
-|Emollients|Docusate|Constipation|
-|Lubricants|Mineral oil|Constipation|
-|Bulk-formers|Psyllium|Constipation|
-
 ## Etiology of Ascites
 
 ||SAAG < 1.1|SAAG > 1.1|
