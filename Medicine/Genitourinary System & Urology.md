@@ -21,3 +21,11 @@
 ## International Classification of Vesicoureteral Reflux (VUR)
 
 ![](../Figures/International%20Classification%20of%20Vesicoureteral%20Reflux%20(VUR).jpg)
+
+## Differentiation between Testicular Torsion and Epididymitis
+
+||Testicular Torsion|Epididymitis|
+|-|-|-|
+|Prehn sign|-|+|
+|Cremasteric reflex|-|+|
+|Blood flow|↓|↑|
