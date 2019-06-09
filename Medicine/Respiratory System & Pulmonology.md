@@ -18,6 +18,19 @@
 
 ![](../Figures/Perfusion%20and%20Diffusion%20Limited%20Pulmonary%20Circulation.png)
 
+## Etiology of Hypoxemia
+
+- A-a gradient :: normal
+	- **Altitude sickness**
+	- **Hypoventilation**
+- A-a gradient :: high
+	- V/Q :: normal
+		- Pulmonary fibrosis
+		- Emphysema
+	- V/Q :: high
+		- Pulmonary embolism
+		- Right-to-left shunt
+
 ## Etiology of Kussmaul Breathing {KUSSMAUL}
 
 - Ketoacidosis
