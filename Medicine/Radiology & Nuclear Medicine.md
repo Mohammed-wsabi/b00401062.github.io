@@ -47,6 +47,7 @@
 |-|-|
 |<sup>18</sup>F-fluorodeoxyglucose (FDG)|Malignancy|
 |<sup>99m</sup>Tc-methylene diphosphonate (MDP)|Bone scan|
+|<sup>67</sup>Ga|Inflammation|
 |<sup>18</sup>F-fluorodopa|Parkinson disease|
 |<sup>123</sup>I|Thyroid|
 |<sup>99m</sup>Tc-pertechnetate|Thyroid|
