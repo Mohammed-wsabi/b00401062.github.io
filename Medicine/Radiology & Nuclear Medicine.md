@@ -40,3 +40,15 @@
 |Y|Lymphoma|
 |Cure|Cervical cancer|
 |Possible|Prostate cancer|
+
+## Radioactive Drugs for Diagnosis
+
+|Medication|Indications|
+|-|-|
+|<sup>18</sup>F-fluorodeoxyglucose (FDG)|Malignancy|
+|<sup>99m</sup>Tc-methylene diphosphonate (MDP)|Bone scan|
+|<sup>18</sup>F-fluorodopa|Parkinson disease|
+|<sup>123</sup>I|Thyroid|
+|<sup>99m</sup>Tc-pertechnetate|Thyroid|
+|<sup>131</sup>I-iodocholesterol|Adrenal adenoma|
+|<sup>123</sup>I-metaiodobenzylguanidine (MIBG)|Pheochromocytoma|
