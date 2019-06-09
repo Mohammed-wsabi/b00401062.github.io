@@ -20,6 +20,12 @@
 
 ## International Classification of Vesicoureteral Reflux (VUR)
 
+- Grade 1: reflux to the ureter
+- Grade 2: reflux to the pelvis
+- Grade 3: dilatation of the calyx
+- Grade 4: blunting of the fornix
+- Grade 5: loss of papillary impressions
+
 ![](../Figures/International%20Classification%20of%20Vesicoureteral%20Reflux%20(VUR).jpg)
 
 ## Differentiation between Testicular Torsion and Epididymitis
