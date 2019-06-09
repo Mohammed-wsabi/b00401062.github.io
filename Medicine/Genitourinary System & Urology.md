@@ -22,7 +22,7 @@
 
 - Grade 1: reflux to the ureter
 - Grade 2: reflux to the pelvis
-- Grade 3: dilatation of the calyx
+- Grade 3: dilatation of the ureter & pelvis & calyx
 - Grade 4: blunting of the fornix
 - Grade 5: loss of papillary impressions
 
