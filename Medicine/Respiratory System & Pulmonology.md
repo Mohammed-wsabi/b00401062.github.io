@@ -25,11 +25,11 @@
 	- **Hypoventilation**
 - A-a gradient :: high
 	- V/Q :: normal
-		- Pulmonary fibrosis
-		- Emphysema
+		- **Pulmonary fibrosis**
+		- **Emphysema**
 	- V/Q :: high
-		- Pulmonary embolism
-		- Right-to-left shunt
+		- **Pulmonary embolism**
+		- **Right-to-left shunt**
 
 ## Etiology of Kussmaul Breathing {KUSSMAUL}
 
