@@ -373,6 +373,12 @@
 |Wobbly|Ataxia|
 |Wacky|Cognitive dysfunction|
 
+## Contraindications for Lumbar Puncture
+
+- Increased intracranial pressure (ICP)
+- Bleeding tendency
+- Suspected brain abscess
+
 ## Spinal Cord Lesions
 
 |Lesion|Dorsal Column|Spinothalamic|Corticospinal|Anterior Horn|
