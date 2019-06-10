@@ -114,11 +114,11 @@
 |E|Equivalent|
 |R|Rate (µg/kg/min)|
 
-## Physiologic Dead Space
+## Dead Space
 
 |Parameter|V<sub>D</sub> = V<sub>T</sub> × (PaCO<sub>2</sub> - PECO<sub>2</sub>) ÷ PaCO<sub>2</sub>|
 |-|-|
-|V<sub>D</sub>|Physiologic dead space = Anatomic dead space + Alveolar dead space|
+|V<sub>D</sub>|Dead space = Anatomic dead space + Alveolar dead space|
 |V<sub>T</sub>|Tidal volume|
 |PaCO<sub>2</sub>|Arterial CO<sub>2</sub> pressure (mmHg)|
 |PECO<sub>2</sub>|Expired Air CO<sub>2</sub> pressure (mmHg)|
