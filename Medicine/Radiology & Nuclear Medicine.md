@@ -49,6 +49,8 @@
 |<sup>99m</sup>Tc-methylene diphosphonate (MDP)|Bone scan|
 |<sup>67</sup>Ga|Inflammation|
 |<sup>18</sup>F-fluorodopa|Parkinson disease|
+|<sup>133</sup>Xe|V/Q scan :: ventilation scan|
+|<sup>99m</sup>Tc-macroaggregated albumin (MAA)|V/Q scan :: perfusion scan|
 |<sup>123</sup>I|Thyroid|
 |<sup>99m</sup>Tc-pertechnetate|Thyroid|
 |<sup>131</sup>I-iodocholesterol|Adrenal adenoma|
