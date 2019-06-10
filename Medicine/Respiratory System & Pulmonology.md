@@ -31,6 +31,7 @@
 		- **Metabolic alkalosis**
 - A-a gradient :: high
 	- V/Q ratio :: normal
+		- **Pulmonary consolidation**
 		- **Restrictive lung diseases** :: intrinsic
 		- **Right-to-left shunt**
 	- V/Q ratio :: mismatch
