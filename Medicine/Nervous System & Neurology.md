@@ -342,11 +342,28 @@
 |Subarachnoid|Aneurysm / AVM|+|
 |Intraparenchymal|Microaneurysm|+|
 
-## Cushing Triad of Increased Intracranial Pressure (IICP)
+## Cushing Triad of Increased Intracranial Pressure (ICP)
 
 - Pressure :: hypertension & increased pulse pressure
 - Pulse :: bradycardia
 - Respiration :: pattern change
+
+## Treatment of Increased Intracranial Pressure (ICP)
+
+- Position :: head elevation
+- Hyperventilation
+- Diuretics :: Mannitol
+- Sedation
+- Craniectomy
+
+## Treatment of Idiopathic Intracranial Hypertension (IIH)
+
+- Weight loss
+- Diuretics :: Acetazolemide & Loop diuretics
+- Topiramate
+- Lumbar puncture
+- Shunting
+- Optic nerve sheath fenestration
 
 ## Triad of Normal Pressure Hydrocephalus (NPH) {3W}
 
