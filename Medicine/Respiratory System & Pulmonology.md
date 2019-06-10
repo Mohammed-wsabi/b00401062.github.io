@@ -21,15 +21,22 @@
 ## Etiology of Hypoxemia
 
 - A-a gradient :: normal
-	- **Altitude sickness**
-	- **Hypoventilation**
+	- V/Q ratio :: low [Hypoventilation]
+		- **Neuromuscular diseases**
+		- **Airway obstruction**
+		- **Obstructive lung diseases**
+		- **Restrictive lung diseases** :: extrinsic
+		- **Pulmonary consolidation**
+		- **Metabolic alkalosis**
+		- **Hepatopulmonary syndrome**
+	- V/Q ratio :: normal
+		- **Altitude sickness**
 - A-a gradient :: high
-	- V/Q :: normal
-		- **Pulmonary fibrosis**
-		- **Emphysema**
-	- V/Q :: high
-		- **Pulmonary embolism**
+	- V/Q ratio :: normal
+		- **Restrictive lung diseases** :: intrinsic
 		- **Right-to-left shunt**
+	- V/Q ratio :: high [Hypoperfusion]
+		- **Pulmonary embolism**
 
 ## Etiology of Kussmaul Breathing {KUSSMAUL}
 
