@@ -12,14 +12,6 @@
 
 ![](../Figures/Oculomotor%20Circuitry%20for%20Horizontal%20Eye%20Movements.jpg)
 
-## Physical Examinations for Hearing Loss
-
-|Hearing Loss|Rinne Test|Weber Test|
-|-|-|-|
-|Normal|Air > Bone|Left = Right|
-|Sensorineural|Air > Bone|Lesion < Normal|
-|Conductive|Air < Bone|Lesion > Normal|
-
 ## Mechanisms of Action of Medications for Glaucoma
 
 |Mechanism|Medication|Indications|
@@ -31,3 +23,17 @@
 |β antagonists|Timolol|Glaucoma|
 |PGF2 agonists|Latanoprost|Glaucoma|
 |Carbonic anhydrase inhibitors|Acetazolamide|Glaucoma|
+
+## Treatment of Nonallergic Rhinitis (NAR)
+
+- Intranasal glucocorticoids
+- Intranasal antihistamine
+- Oral 1° antihistamine
+
+## Physical Examinations for Hearing Loss
+
+|Hearing Loss|Rinne Test|Weber Test|
+|-|-|-|
+|Normal|Air > Bone|Left = Right|
+|Sensorineural|Air > Bone|Lesion < Normal|
+|Conductive|Air < Bone|Lesion > Normal|
