@@ -479,6 +479,7 @@
 - Multiple sclerosis
 - Posterior communicating artery aneurysm
 - Uncal herniation
+- Wernicke’s encephalopathy
 
 ## CNS & PNS Tumors
 
