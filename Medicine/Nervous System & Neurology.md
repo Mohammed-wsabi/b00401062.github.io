@@ -477,6 +477,7 @@
 - Cerebellopontine angle tumor
 - Idiopathic intracranial hypertension (IIH)
 - Multiple sclerosis
+- Parinaud syndrome
 - Posterior communicating artery aneurysm
 - Uncal herniation
 - Wernicke’s encephalopathy
