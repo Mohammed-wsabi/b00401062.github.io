@@ -471,10 +471,11 @@
 - Bradykinesia
 - Tardive dyskinesia
 
-## Etiology of Oculomotor Palsy
+## Etiology of Ophthalmoplegia
 
 - Cavernous sinus thrombosis
 - Cerebellopontine angle tumor
+- Idiopathic intracranial hypertension (IIH)
 - Multiple sclerosis
 - Posterior communicating artery aneurysm
 - Uncal herniation
