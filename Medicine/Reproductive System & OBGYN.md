@@ -158,11 +158,12 @@
 
 ## Fetal Heart Rate (FHR)
 
-- Acceleration: ↑ 15/min for 15 seconds ~ 2 minutes
-- Decelerations
-	- Early deceleration: onset to nadir of > 30 seconds during a uterine contraction
-	- Late deceleration: onset to nadir of > 30 seconds after a uterine contraction
-	- Variable deceleration: ↓ 15/min for 15 seconds ~ 2 minutes & onset to nadir of < 30 seconds
+|Finding|Definition|Significance|
+|-|-|-|
+|Acceleration|↑ 15/min for 15 seconds ~ 2 minutes|Reassuring|
+|Early deceleration|Onset to nadir > 30 seconds during a uterine contraction|Head compression|
+|Late deceleration|Onset to nadir > 30 seconds after a uterine contraction|Uteroplacental insufficiency|
+|Variable deceleration|↓ 15/min for 15 seconds ~ 2 minutes & Onset to nadir < 30 seconds|Cord compression|
 
 ## Treatment of Late Decelerations {STOP}
 
