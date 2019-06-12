@@ -214,9 +214,9 @@
 
 ## Factors Affecting the Duration of Labor {3P}
 
-- Power
 - Passenger
 - Pelvis
+- Power
 
 ### Passenger
 
@@ -244,11 +244,11 @@
 
 ## Bishop Score
 
-- Consistency
-- Dilation
-- Effacement
-- Station
 - Position
+- Consistency
+- Effacement
+- Dilation
+- Station
 
 ![](../Figures/Bishop%20Score.png)
 
