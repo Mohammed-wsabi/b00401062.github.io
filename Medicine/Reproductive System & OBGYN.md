@@ -68,14 +68,6 @@
 
 ![](../Figures/Hormone%20Change%20During%20Pregnancy.png)
 
-## Indicators of Ovarian Reserve
-
-|Indicator|Normal|
-|-|-|
-|FSH :: follicular phase|2 ~ 8|
-|Anti-Mullerian hormone (AMH)|1 ~ 5|
-|Antral follicle count (AFC)|5 ~ 10|
-
 ## Differential Diagnoses for Size/Date Discrepancy
 
 - Uncertain LMP
@@ -341,6 +333,14 @@
 |Hyperprolactinemia|↓|↓|↓|↓|
 |Asherman syndrome|-|-|-|-|
 |Outflow tract obstruction|-|-|-|-|
+
+## Indicators of Ovarian Reserve
+
+|Indicator|Normal|
+|-|-|
+|FSH :: follicular phase|2 ~ 8|
+|Anti-Mullerian hormone (AMH)|1 ~ 5|
+|Antral follicle count (AFC)|5 ~ 10|
 
 ## Presentation of Menopause {HAVOCS}
 
