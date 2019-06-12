@@ -165,6 +165,13 @@
 |Late deceleration|Onset to nadir > 30 seconds after a uterine contraction|Uteroplacental insufficiency|
 |Variable deceleration|↓ 15/min for 15 seconds ~ 2 minutes & Onset to nadir < 30 seconds|Cord compression|
 
+## Fetal Heart Rate (FHR) Category III
+
+- Bradycardia
+- Recurrent late deceleration
+- Recurrent variable deceleration
+- Sinosoidal pattern
+
 ## Treatment of Late Decelerations {STOP}
 
 - Sterile vaginal exam
