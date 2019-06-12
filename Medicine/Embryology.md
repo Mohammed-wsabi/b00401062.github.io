@@ -1,5 +1,15 @@
 # Embryology
 
+## Early Stages of Embryogenesis
+
+- Zygote
+- Morula
+- Blastocyst
+	- Embryoblast [Inner cell mass]
+	- Trophoblast [Outer cell mass]
+		- Cytotrophoblast
+		- Syncitiotrophoblast
+
 ## Extraembryonic Membranes {CAYA}
 
 |Membrane|Derivatives|Remnant|Markers|
