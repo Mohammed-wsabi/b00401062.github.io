@@ -32,6 +32,16 @@
 |Thompson test|Achilles tendon tear|
 |Homans sign|Deep venous thrombosis (DVT)|
 
+## Electromyograghy (EMG)
+
+||Normal|Neuropathy :: UMN|Neuropathy :: LMN|Myopathy ::</break>non-inflammatory|Myopathy ::</break>inflammatory|
+|-|-|-|-|-|-|
+|Rest|-|-|Fibrillations|-|Fibrillations|
+|Amplitude|0.2 ~ 2 mV|-|↑|↓|↓|
+|Duration|5 ~ 15 ms|-|↑|↓|↓|
+|Phase|Triphasic|Triphasic|Polyphasic|Polyphasic|Polyphasic|
+|Recruitment|-|-|↓|↑|↑|
+
 ## Types of Fractures
 
 ![](../Figures/Types%20of%20Fractures.jpg)
