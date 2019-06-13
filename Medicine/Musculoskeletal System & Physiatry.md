@@ -34,7 +34,7 @@
 
 ## Electromyograghy (EMG)
 
-||Normal|Neuropathy :: UMN|Neuropathy :: LMN|Myopathy ::</br>non-inflammatory|Myopathy ::</br>inflammatory|
+||Normal|Neuropathy :: UMN|Neuropathy :: LMN|Myopathy ::<br/>non-inflammatory|Myopathy ::<br/>inflammatory|
 |-|-|-|-|-|-|
 |Rest|-|-|Fibrillations|-|Fibrillations|
 |Amplitude|0.2 ~ 2 mV|-|↑|↓|↓|
