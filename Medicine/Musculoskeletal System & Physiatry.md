@@ -42,6 +42,10 @@
 |Phase|Triphasic|Triphasic|Polyphasic|Polyphasic|Polyphasic|
 |Recruitment|-|-|↓|↑|↑|
 
+## Waves on Evoked Electromyography (EMG)
+
+![](../Figures/Waves%20on%20Evoked%20Electromyography%20(EMG).png)
+
 ## Types of Fractures
 
 ![](../Figures/Types%20of%20Fractures.jpg)
