@@ -535,7 +535,7 @@
 
 ## Indications for Low-Protein Diet
 
-- Acute liver failure → Hyperammonemia
+- Liver failure → Hyperammonemia
 - End stage renal disease (ESRD) → Uremia
 
 ## Mechanisms of Action of Medications for Hyperlipidemia {OECSNF}
