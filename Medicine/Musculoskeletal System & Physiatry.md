@@ -4,7 +4,7 @@
 
 |Physical Examinations|Injuries|
 |-|-|
-|Lhermitte sign|Cervical radiculopathy|
+|Lhermitte sign|Cervical myelopathy|
 |Spurling test|Cervical radiculopathy|
 |Kemp test|Lumbar radiculopathy|
 |Straight leg raising test (SLRT)|Lumbar radiculopathy|
