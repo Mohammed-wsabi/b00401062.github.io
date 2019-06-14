@@ -10,7 +10,12 @@
 |Store|Saccular|
 |Air|Alveolar|
 
-## Lung Volumes
+## Lung Volumes and Measurements
+
+|Indices|Methods|
+|-|-|
+|IRV & TV & ERV|Spirometry|
+|RV|Helium dilution method & Plethysmography|
 
 ![](../Figures/Lung%20Volumes.png)
 
