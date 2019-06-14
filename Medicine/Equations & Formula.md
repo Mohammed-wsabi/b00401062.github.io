@@ -1,8 +1,6 @@
 # Equations & Formula
 
-## Body Weight
-
-### Devine Formula of Ideal Body Weight (IBW)
+## Devine Formula of Ideal Body Weight (IBW)
 
 ### Female
 
