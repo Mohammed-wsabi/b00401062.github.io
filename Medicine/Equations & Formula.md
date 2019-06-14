@@ -1,11 +1,30 @@
 # Equations & Formula
 
+## Body Weight
+
+### Devine Formula of Ideal Body Weight (IBW)
+
+### Female
+
+|Parameter|IBW = 45.5 + 2.3 × (H - 60)|
+|-|-|
+|IBW|Ideal body weight (kg)|
+|H|Height (inch)|
+
+### Male
+
+|Parameter|IBW = 50 + 2.3 × (H - 60)|
+|-|-|
+|IBW|Ideal body weight (kg)|
+|H|Height (inch)|
+
 ## Basal Energy Expenditure (BEE)
 
 ### Female
 
-|Parameter|(9.563 × W) + (1.850 × H) - (4.676 × Age) + 655.1|
+|Parameter|BEE = (9.563 × W) + (1.850 × H) - (4.676 × Age) + 655.1|
 |-|-|
+|BEE|Basal energy expenditure (kcal/day)
 |W|Weight (kg)|
 |H|Height (cm)|
 |Age|Age (year)|
@@ -14,6 +33,7 @@
 
 |Parameter|(13.75 × W) + (5.003 × H) - (6.775 × Age) + 66.5|
 |-|-|
+|BEE|Basal energy expenditure (kcal/day)
 |W|Weight (kg)|
 |H|Height (cm)|
 |Age|Age (year)|
@@ -22,9 +42,9 @@
 
 |Condition|Calorie (BEE)|Protein (g/kg)|
 |-|-|-|
-|Healthy|1.2 BEE|0.8 ~ 1 g/kg|
-|Postoperation|1.3 ~ 1.5 BEE|1.2 ~ 1.6 g/kg|
-|Trauma / Burns|1.6 ~ 2.0 BEE|1.5 ~ 2 g/kg|
+|Sedentary|1.2|0.8 ~ 1|
+|Postoperation|1.3 ~ 1.5|1.2 ~ 1.6|
+|Burns|1.6 ~ 2.0|1.5 ~ 2|
 
 ## Curreri Formula of Energy Expenditure for Burns
 
