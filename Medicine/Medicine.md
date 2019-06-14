@@ -533,6 +533,11 @@
 - Hypertriglycemia: triglyceride ≥ 150 mg/dL
 - Low HDL cholesterol: HDL < 40 mg/dL in men / < 50 mg/dL in women
 
+## Indications for Low-Protein Diet
+
+- Acute liver failure → Hyperammonemia
+- End stage renal disease (ESRD) → Uremia
+
 ## Mechanisms of Action of Medications for Hyperlipidemia {OECSNF}
 
 |Mechanism|Medication|LDL|HDL|Triglyceride|
