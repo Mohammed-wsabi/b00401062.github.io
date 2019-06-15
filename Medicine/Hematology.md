@@ -176,6 +176,12 @@
 - Night sweats
 - Weight loss
 
+## Monoclonal Antibody Spike
+
+- Multiple myeloma
+- Monoclonal gammopathy of undetermined significance (MGUS)
+- Waldenström macroglobulinemia
+
 ## Presentation of Multiple Myeloma {CRAB}
 
 - Hypercalcemia
