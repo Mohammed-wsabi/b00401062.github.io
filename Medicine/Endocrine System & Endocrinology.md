@@ -204,7 +204,7 @@
 |Glucagon|↑|Glycogen & Lipid|Glucose|
 |Insulin|↓|Glucose|Glycogen & Protein & Lipid|
 
-## Growth Hormone Stimulation Test
+## Growth Hormone Stimulation Tests
 
 - Insulin-induced hypoglycemia
 - Glucagon
