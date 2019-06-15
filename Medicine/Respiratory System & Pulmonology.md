@@ -71,6 +71,14 @@
 |Moderate persistent|Daily|> 1/week|Daily|Some|60 ~ 80%|↓ < 5%|
 |Severe persistent|Throughout|Daily|Throughout|Extreme|< 60%|↓ > 5%|
 
+## GOLD Staging of Chronic Obstructive Pulmonary Disease (COPD)
+|Stage|Severity|FE<sub>1</sub> (% Predicted)|
+|-|-|-|
+|1|Mild|> 80|
+|2|Moderate|50 ~ 80|
+|3|Severe|30 ~ 50|
+|4|Very severe|< 30|
+
 ## Treatment of Asthma
 
 ![](../Figures/Treatment%20of%20Asthma.gif)
