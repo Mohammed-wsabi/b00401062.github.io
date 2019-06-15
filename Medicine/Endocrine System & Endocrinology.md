@@ -204,6 +204,14 @@
 |Glucagon|↑|Glycogen & Lipid|Glucose|
 |Insulin|↓|Glucose|Glycogen & Protein & Lipid|
 
+## Growth Hormone Stimulation Test
+
+- Insulin-induced hypoglycemia
+- Glucagon
+- Arginine
+- Clonidine
+- Propranolol
+
 ## Mechanisms of Action of Medications for Acromegaly
 
 |Mechanism|Medication|Indications|
