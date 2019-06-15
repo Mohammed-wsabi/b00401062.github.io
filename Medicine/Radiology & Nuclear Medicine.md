@@ -53,5 +53,6 @@
 |<sup>99m</sup>Tc-macroaggregated albumin (MAA)|V/Q scan :: perfusion scan|
 |<sup>123</sup>I|Thyroid|
 |<sup>99m</sup>Tc-pertechnetate|Thyroid|
+|<sup>99m</sup>Tc-sestamibi|Parathyroid|
 |<sup>131</sup>I-iodocholesterol|Adrenal adenoma|
 |<sup>123</sup>I-metaiodobenzylguanidine (MIBG)|Pheochromocytoma|
