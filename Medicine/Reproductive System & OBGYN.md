@@ -423,31 +423,6 @@
 |Fetal Parts|-|+|
 |Components|2 sperms & 0 egg|2 sperms & 1 egg|
 
-
-## Breast Tumors
-
-|Origin|Tumors|Subtype|
-|-|-|-|
-|Nipple|Paget disease|-|
-|Duct|Fibrocystic change|-|
-||Intraductal papilloma|-|
-||Ductal carcinoma in situ (DCIS)|Comedocarcinoma|
-||Invasive ductal carcinoma (IDC)|Medullary carcinoma|
-|Lobule|Lobular carcinoma in situ (LCIS)|-|
-||Invasive lobular carcinoma (ILC)|-|
-|Stroma|Fibroadenoma|-|
-||Phyllodes tumor|-|
-
-## Types of Flaps for Breast Reconstruction
-
-- Transverse rectus abdominis myocutaneous (TRAM) flap
-- Latissimus dorsi (LD) flap
-- Deep inferior epigastric perforator (DIEP) flap
-- Superficial inferior epigastric artery (SIEA) flap
-- Gluteal flap
-- Transverse upper gracilis (TUG) flap
-- Profunda artery perforator (PAP) flap
-
 ## Controlled Ovarian Hyperstimulation
 
 ### Suppression of Spontaneous Ovulation
@@ -467,3 +442,31 @@
 |-|-|-|
 |GnRH agonists|Leuprolide :: pulsatile|Infertility|
 |hCG agonists|Choriogonadotropin|Infertility|
+
+## Breast Tumors
+
+|Origin|Tumors|Subtype|
+|-|-|-|
+|Nipple|Paget disease|-|
+|Duct|Fibrocystic change|-|
+||Intraductal papilloma|-|
+||Ductal carcinoma in situ (DCIS)|Comedocarcinoma|
+||Invasive ductal carcinoma (IDC)|Medullary carcinoma|
+|Lobule|Lobular carcinoma in situ (LCIS)|-|
+||Invasive lobular carcinoma (ILC)|-|
+|Stroma|Fibroadenoma|-|
+||Phyllodes tumor|-|
+
+## Molecular Subtypes of Breast Cancer
+
+![](../Figures/Breast%20Cancer%20>%20Molecular%20Subtypes.png)
+
+## Types of Flaps for Breast Reconstruction
+
+- Transverse rectus abdominis myocutaneous (TRAM) flap
+- Latissimus dorsi (LD) flap
+- Deep inferior epigastric perforator (DIEP) flap
+- Superficial inferior epigastric artery (SIEA) flap
+- Gluteal flap
+- Transverse upper gracilis (TUG) flap
+- Profunda artery perforator (PAP) flap
