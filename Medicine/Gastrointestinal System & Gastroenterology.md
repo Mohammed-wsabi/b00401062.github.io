@@ -201,6 +201,13 @@
 
 ![](../Figures/Goodsall%20Rule%20for%20Anal%20Fistula.jpg)
 
+## Anorectal Malformation
+
+- Pubococcygeal (PC) line
+- Ischial (I) line
+
+![](../Figures/Anorectal%20Malformation.jpg)
+
 ## Etiology of Ascites
 
 ||SAAG < 1.1|SAAG > 1.1|
