@@ -105,6 +105,13 @@
 - Blood pressure & Urinalysis
 - Group B Streptococcus (GBS)
 
+## Quad Screening {HAEI}
+
+- hCG
+- AFP
+- Estriol
+- Inhibin A
+
 ## Fetal Biometric Parameters on Ultrasound
 
 - Crown-rump length (CRL)
@@ -112,6 +119,26 @@
 - Head circumference (HC)
 - Abdominal circumference (AC)
 - Femur length (FL)
+
+## Etiology of Elevated AFP
+
+- Neural tube defects :: open
+	- Anencephaly
+	- Encephalocele
+	- Spina bifida
+- Abdominal wall defects
+	- Gastroschisis
+	- Omphalocele
+- Fetal demise
+- Multiple gestation
+- Placental abruption
+- Inaccurate gestational dating
+
+## Etiology of Reduced AFP
+
+- Trisomy 21 & 18
+- Fetal demise
+- Inaccurate gestational dating
 
 ## Presentation of Preeclampsia
 
