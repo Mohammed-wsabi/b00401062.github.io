@@ -78,3 +78,12 @@
 - Color variation
 - Diameter > 6 mm
 - Evolution
+
+## Types of Melanoma
+
+- Superficial spreading melanoma
+- Nodular melanoma
+- Lentigo maligna melanoma
+- Acral lentiginous melanoma
+
+![](../Figures/Types%20of%20Melanoma.jpg)
