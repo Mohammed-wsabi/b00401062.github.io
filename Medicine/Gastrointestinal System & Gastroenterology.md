@@ -317,6 +317,14 @@
 - Fever
 - Jaundice
 
+## Indications for Whipple Procedure
+
+- Cholangiocarcinoma
+- Pancreatic adenocarcinoma
+- Ampullary carcinoma
+- Duodenal neoplasm
+- Chronic pancreatitis
+
 ## Whipple Procedure
 
 - Pancreaticoduodenectomy
