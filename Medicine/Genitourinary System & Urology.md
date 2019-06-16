@@ -28,6 +28,13 @@
 
 ![](../Figures/International%20Classification%20of%20Vesicoureteral%20Reflux%20(VUR).jpg)
 
+## Indications for Voiding Cystourethrogram (VCUG) for Children with UTI
+
+- Boys with first UTI
+- Girls < 3 y/o with first UTI
+- Girls < 5 y/o with febrile UTI
+- Girls with recurrent UTIs
+
 ## Differentiation between Testicular Torsion and Epididymitis
 
 ||Testicular Torsion|Epididymitis|
