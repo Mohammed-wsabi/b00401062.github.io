@@ -24,9 +24,9 @@
 |-|MDMA [Ecstasy]|Hallucinogen & Stimulant|
 |-|Cannabis [Marijuana]|Hallucinogen|
 
-## Withdrawl Symptoms from Alcohol {PTSD}
+## Timeline of Alcohol Withdrawal Symptoms
 
-- Psychosis
 - Tremors
+- Hallucinosis
 - Seizure & Sleep deprivation
 - Delirium tremens
