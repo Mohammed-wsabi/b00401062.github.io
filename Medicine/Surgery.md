@@ -119,22 +119,23 @@
 ### Blood Supply
 
 - Random
-- Axial
-	- Pedicled
-	- Free
+- Pedicled
+- Free
 
 ### Proximity
 
 - Local
+	- Advancement
+	- Rotation
+	- Transposition
 - Regional
 - Distant
 
 ### Composition
 
-- Skin
-- Muscle
-- Musculocutaneous
+- Cutaneous
 - Fasciocutaneous
+- Musculocutaneous
 - Osteocutaneous
 
 ## Wagner Classification for Diabetic Foot Ulcers
