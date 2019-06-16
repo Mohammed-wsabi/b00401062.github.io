@@ -67,6 +67,10 @@
 |Erythema nodosum|Inflammatory bowel disease & Sarcoidosis & Non-Hodgkins lymphoma|Anywhere|
 |Necrolytic migratory erythema|Glucagonoma|Face & Extremities|
 
+## Types of Melanocytic Nevi
+
+![](../Figures/Types%20of%20Melanocytic%20Nevi.jpg)
+
 ## ABCDE of Melanoma {ABCDE}
 
 - Asymmetry
