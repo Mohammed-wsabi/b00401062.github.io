@@ -112,14 +112,6 @@
 - Estriol
 - Inhibin A
 
-## Fetal Biometric Parameters on Ultrasound
-
-- Crown-rump length (CRL)
-- Biparietal diameter (BPD)
-- Head circumference (HC)
-- Abdominal circumference (AC)
-- Femur length (FL)
-
 ## Etiology of Elevated AFP
 
 - Neural tube defects :: open
@@ -139,6 +131,14 @@
 - Trisomy 21 & 18
 - Fetal demise
 - Inaccurate gestational dating
+
+## Fetal Biometric Parameters on Ultrasound
+
+- Crown-rump length (CRL)
+- Biparietal diameter (BPD)
+- Head circumference (HC)
+- Abdominal circumference (AC)
+- Femur length (FL)
 
 ## Presentation of Preeclampsia
 
