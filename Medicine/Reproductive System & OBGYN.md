@@ -459,6 +459,15 @@
 
 ## Molecular Subtypes of Breast Cancer
 
+|Subtype|Receptors|Mutations|
+|-|-|
+|Luminal A|PR & ER|-|
+|Luminal B|PR & ER|-|
+|HER2-enriched|HER2|-|
+|Basal-like|-|BRCA|
+|Claudin-low|-|BRCA|
+|Interferon-rich|-|BRCA|
+
 ![](../Figures/Breast%20Cancer%20>%20Molecular%20Subtypes.png)
 
 ## Types of Flaps for Breast Reconstruction
