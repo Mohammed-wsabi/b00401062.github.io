@@ -63,6 +63,13 @@
 - Bronchopulmonary dysplasia
 - Cerebral palsy
 
+## Congenital Hip Dislocation
+
+- Barlow test
+- Ortolani test
+
+![](../Figures/Congenital%20Hip%20Dislocation%20>%20Barlow%20and%20Ortolani%20Test.jpg)
+
 ## WAGR Syndrome {WAGR}
 
 - Wilms tumor
