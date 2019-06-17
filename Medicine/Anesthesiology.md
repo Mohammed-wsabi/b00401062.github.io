@@ -6,16 +6,6 @@
 - Analgesia
 - Muscle relaxation
 
-## Contraindications of Neuraxial Blockade
-
-- Increased intracranial pressure
-- Infection
-- Coagulopathy
-- Patient refusal
-- Hypovolemia
-- Stenosis of mitral valve
-- Stenosis of aortic valve
-
 ## Mechanisms of Action of Medications for General Anesthesia
 
 |Mechanism|Medication|Indications|
@@ -31,3 +21,16 @@
 ||Enflurane|Anesthesia :: inhalational|
 ||Isoflurane|Anesthesia :: inhalational|
 ||Sevoflurane|Anesthesia :: inhalational|
+
+## Contraindications of Neuraxial Blockade {CHIPS}
+
+- Coagulopathy
+- Hypovolemia
+- Increased intracranial pressure
+- Infection
+- Patient refusal
+- Stenosis :: mitral valve & aortic valve
+
+## Neuromuscular Blockade
+
+![](../Figures/Neuromuscular%20Blockade.png)
