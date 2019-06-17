@@ -24,6 +24,15 @@
 |PGF2 agonists|Latanoprost|Glaucoma|
 |Carbonic anhydrase inhibitors|Acetazolamide|Glaucoma|
 
+## Treatment of Dry Eye Disease (DED)
+
+- Cyclosporine :: topical
+- Lifitegrast :: topical
+- Glucocorticoids :: topical
+- Pilocarpine
+- Punctal occlusion
+- Autologous serum tears
+
 ## Treatment of Nonallergic Rhinitis (NAR)
 
 - Intranasal glucocorticoids
