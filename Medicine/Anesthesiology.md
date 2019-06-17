@@ -31,6 +31,13 @@
 - Patient refusal
 - Stenosis :: mitral valve & aortic valve
 
+## Order of Nerve Blockade
+
+- Small myelinated fibers
+- Small unmyelinated fibers
+- Large myelinated fibers
+- Large unmyelinated fibers
+
 ## Neuromuscular Blockade
 
 ![](../Figures/Neuromuscular%20Blockade.png)
