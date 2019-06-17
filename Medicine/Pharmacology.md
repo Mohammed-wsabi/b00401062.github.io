@@ -153,8 +153,7 @@
 |M agonists|Bethanechol|Urinary retention|
 ||Methacholine|Asthma diagnosis|
 ||Carbachol|Glaucoma|
-||Pilocarpine|Glaucoma & Xerostomia|
-||Cevimeline|Xerostomia|
+||Pilocarpine|Glaucoma & Xerophthalmia & Xerostomia|
 |N agonists|Succinylcholine|Muscle relaxant|
 
 ## Mechanisms of Action of Cholinergic Antagonists
