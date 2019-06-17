@@ -140,11 +140,17 @@
 
 ## Complications of Gastrectomy
 
-- Postvagotomy diarrhea
+- Afferent & Efferent loop syndrome
+- Internal hernia
+- Marginal ulcer
 - Dumping syndrome
-- Alkaline reflux gastritis
-- Afferent loop syndrome
+	- Early dumping syndrome
+	- Late dumping syndrome
+- Postvagotomy diarrhea
+- Alkaline gastritis
 - Nutritional deficiencies
+	- Vitamin B<sub>12</sub> deficiency
+	- Iron deficiency
 
 ## Types of Bariatric Surgery
 
