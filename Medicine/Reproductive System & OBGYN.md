@@ -114,6 +114,10 @@
 
 ## Etiology of Elevated AFP
 
+-  Germ cell tumors (GCT)
+	- Endodermal sinus tumor (EST)
+	- Embryonal carcinoma
+	- Teratoma
 - Neural tube defects :: open
 	- Anencephaly
 	- Encephalocele
