@@ -60,6 +60,10 @@
 |<sup>131</sup>I-iodocholesterol|Adrenal adenoma|
 |<sup>123</sup>I-metaiodobenzylguanidine (MIBG)|Pheochromocytoma|
 
+## Percentage Depth Dose Curve
+
+![](../Figures/Percentage%20Depth%20Dose%20Curve.jpg)
+
 ## Cancers Treated with Radiotherapy Only
 
 |Mnemonic|Cancer|
