@@ -140,7 +140,7 @@
 
 |Finding|Indications|
 |-|-|
-|Pulsus paradoxus|Cardiac tamponade & Obstructive lung disease|
+|Pulsus paradoxus|Cardiac tamponade & Obstructive lung diseases|
 |Pulsus parvus et tardus|Aortic stenosis|
 |Pulsus alternans|LV systolic dysfunction|
 |Differential cyanosis :: lower limbs|Eisenmenger syndrome|
