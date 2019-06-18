@@ -9,7 +9,15 @@
 |SPECT|γ-ray|γ-ray|Tc 99m|
 |PET|Positron|γ-ray|FDG|
 
-## Systematic Analysis of CXR {ABCDEFG}
+## Positioning of Skull X-ray
+
+- Caldwell view
+- Waters view
+- Submental view
+- Towne view
+- Lateral view
+
+## Systematic Analysis of Chest X-ray {ABCDEFG}
 
 - Airway & Adenopathy
 - Bone & Breast
