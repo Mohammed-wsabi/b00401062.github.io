@@ -38,16 +38,9 @@
 
 ![](../Figures/MR%20Images.png)
 
-## Cancers Treated with Radiotherapy Only
+## Radioactive Decay
 
-|Mnemonic|Cancer|
-|-|-|
-|O|Oral cancer|
-|N|Nasopharyngeal cancer|
-|L|Laryngeal cancer|
-|Y|Lymphoma|
-|Cure|Cervical cancer|
-|Possible|Prostate cancer|
+![](../Figures/Radioactive%20Decay.jpg)
 
 ## Radiopharmaceuticals for Diagnosis
 
@@ -66,3 +59,14 @@
 |<sup>99m</sup>Tc-sestamibi|Heart & Parathyroid|
 |<sup>131</sup>I-iodocholesterol|Adrenal adenoma|
 |<sup>123</sup>I-metaiodobenzylguanidine (MIBG)|Pheochromocytoma|
+
+## Cancers Treated with Radiotherapy Only
+
+|Mnemonic|Cancer|
+|-|-|
+|O|Oral cancer|
+|N|Nasopharyngeal cancer|
+|L|Laryngeal cancer|
+|Y|Lymphoma|
+|Cure|Cervical cancer|
+|Possible|Prostate cancer|
