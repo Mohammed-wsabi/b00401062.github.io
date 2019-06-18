@@ -36,6 +36,15 @@
 |Summer|Sphenoid bone|Sphenoid sinus|
 |Picnic|Palatine bone|-|
 
+## Paranasal Sinuses
+
+- Maxillary sinus
+- Frontal sinus
+- Ethmoid sinus
+- Sphenoid sinus
+
+![](../Figures/Paranasal%20Sinuses.png)
+
 ## Pterygopalatine Fossa
 
 - Inferior orbital fissure
