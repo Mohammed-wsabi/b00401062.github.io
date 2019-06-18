@@ -102,11 +102,16 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|α<sub>1</sub> antagonists & α<sub>2</sub> agonists|-|Vasodilation|
+|α<sub>1</sub> antagonists|Terazosin|Vasodilation|
+||Doxazosin|Vasodilation|
+||Prazosin|Vasodilation|
+|α<sub>2</sub> agonists|Clonidine|Vasodilation|
+||Methyldopa|Vasodilation|
 |Ca channel blockers|-Dipines|Vasodilation|
 |K channel activators|Minoxidil & Diazoxide|Vasodilation|
 |NO donors|Nitroprusside & Hydralazine|Vasodilation|
 |PDE inhibitors|Dipyridamole & Cilostazol|Vasodilation|
+|A<sub>1</sub> agonists|Adenosine|Vasodilation|
 
 ## Mechanisms of Action of Inotropes
 
@@ -177,6 +182,12 @@
 ## Views of Echocardiography
 
 ![](../Figures/Views%20of%20Echocardiography.png)
+
+## Cardiac Stress Test
+
+- Exercise :: treadmill & bicycle
+- Dobutamine
+- Vasodilators :: Dipyridamole & Adenosine
 
 ## Cyanotic Congenital Heart Defects (CHD) {5T-HE}
 
