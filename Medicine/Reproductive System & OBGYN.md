@@ -408,8 +408,8 @@
 
 ### Epithelial Tumors
 
-- Serous carcinoma
-- Mucinous carcinoma
+- Serous cystadenoma / cystadenocarcinoma
+- Mucinous cystadenoma / cystadenocarcinoma
 - Endometrioid carcinoma
 - Clear cell carcinoma
 - Mixed cell carcinoma
