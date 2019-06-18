@@ -427,6 +427,26 @@
 |Fetal Parts|-|+|
 |Components|2 sperms & 0 egg|2 sperms & 1 egg|
 
+## Reference Limits of Semen Analysis
+
+- Volume > 1.5 mL
+- Sperm concentration > 15 M/mL
+- Total sperm count > 39 M
+- Normal forms > 4%
+- Vitality > 58%
+- Progressive motility > 32%
+- Total motility > 40%
+
+## Indications of In Vitro Fertilization (IVF)
+
+- Female age > 38
+- ↓ ovarian reserve
+- Bilateral fallopian tube occlusion
+- Advanced endometriosis
+- Donor eggs
+- Total motile sperm count (TMSC) < 10 M
+- Genetic screening
+
 ## Controlled Ovarian Hyperstimulation
 
 ### Suppression of Spontaneous Ovulation
