@@ -1,13 +1,13 @@
 # Radiology & Nuclear Medicine
 
-## Modern Imaging Techniques
+## Imaging Techniques
 
-|Technique|Decay|Detect|CM & Radioisotope|
+|Technique|Mechamism|Detect|CM & Radioisotope|
 |-|-|-|-|
-|CT|-|X-ray|Barium & Iodine|
-|MRI|-|-|Gadolinium|
-|SPECT|γ-ray|γ-ray|Tc 99m|
-|PET|Positron|γ-ray|FDG|
+|CT|Transmission|X-ray|Barium & Iodine|
+|MRI|Emission|Radiofrequency wave|Gadolinium|
+|SPECT|Emission|γ-ray|Tc 99m|
+|PET|Emission|γ-ray|FDG|
 
 ## Positioning of Skull X-ray
 
