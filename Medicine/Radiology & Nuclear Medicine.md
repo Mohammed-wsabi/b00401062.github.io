@@ -49,7 +49,7 @@
 |Cure|Cervical cancer|
 |Possible|Prostate cancer|
 
-## Radioactive Drugs for Diagnosis
+## Radioactive Tracers for Diagnosis
 
 |Medication|Indications|
 |-|-|
