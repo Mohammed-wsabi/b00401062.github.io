@@ -2,12 +2,25 @@
 
 ## Imaging Techniques
 
-|Technique|Mechamism|Detect|CM & Radioisotope|
+|Technique|Mechamism|Detect|Contrast|
 |-|-|-|-|
 |CT|Transmission|X-ray|Barium & Iodine|
 |MRI|Emission|Radiofrequency wave|Gadolinium|
-|SPECT|Emission|γ-ray|Tc 99m|
-|PET|Emission|γ-ray|FDG|
+|SPECT|Emission|γ-ray|-|
+|PET|Emission|γ-ray|-|
+
+## Contraindications for Contrast
+
+### Barium
+
+- Previous adverse reactions
+- Gastrointestinal perforation
+
+### Iodine :: soluble
+
+- Previous adverse reactions
+- Upper gastrointestinal series
+- Acute kidney injury (AKI)
 
 ## Positioning of Skull X-ray
 
@@ -34,9 +47,9 @@
 |**Short TR**|T1-weighted (T1)|-|
 |**Long TR**|Proton density (PD)|T2-weighted (T2)|
 
-## MR Images
+## Magnetic Resonance (MR) Imaging
 
-![](../Figures/MR%20Images.png)
+![](../Figures/Magnetic%20Resonance%20(MR)%20Imaging.png)
 
 ## Radioactive Decay
 
