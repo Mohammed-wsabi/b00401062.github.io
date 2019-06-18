@@ -558,3 +558,10 @@
 - Clinical features :: Unilateral weakness &/ Speech impairment
 - Duration
 - Diabetes
+
+## Neurological Examination for Hemineglect
+
+- Cancellation test
+– Reading test
+– Bisection of lines
+– Copy of drawings
