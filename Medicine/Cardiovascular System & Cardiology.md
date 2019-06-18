@@ -201,6 +201,13 @@
 
 ## Atrial Septal Defects (ASD)
 
+|Type|Prevalence|
+|-|-|
+|Secundum|70%|
+|Primum|20%|
+|Sinus venosus|10%|
+|Coronary sinus|< 1%|
+
 ![](../Figures/Atrial%20Septal%20Defects%20(ASD).jpg)
 
 ## Ventricular Septal Defects (VSD)
