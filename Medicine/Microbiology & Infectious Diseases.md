@@ -1065,7 +1065,7 @@
 
 - Joint :: migratory polyarthritis
 - Heart :: mitral valve
-- Nodules :: subcutaneous nodules
+- Nodules :: subcutaneous
 - Erythema marginatum
 - Sydenham chorea [Chorea minor]
 
