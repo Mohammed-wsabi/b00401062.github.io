@@ -82,7 +82,7 @@
 |-|-|-|
 |PTH agonists|Teriparatide|Osteoporosis|
 |Estrogen modulators|Raloxifene|Osteoporosis|
-|Osteoclast inhibitors|Bisphosphonate: Dronates|Osteoporosis|
+|Osteoclast inhibitors|Bisphosphonate [-Dronates]|Osteoporosis|
 |RANKL inhibitors|Denosumab|Osteoporosis|
 
 ## Mechanisms of Action of Medications for Gouty Arthritis
