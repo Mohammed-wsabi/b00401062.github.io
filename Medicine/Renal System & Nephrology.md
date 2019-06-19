@@ -157,7 +157,7 @@
 |Acute proliferative glomerulonephritis (APGN)|+|-|Lumpy-bumpy & Starry sky|Subepithelial IC|GAS|
 |Membranoproliferative glomerulonephritis (MPGN)|+|+|Tram-track|Subendothelial IC|SLE & HBV & HCV|
 |Diffuse proliferative glomerulonephritis (DPGN)|+|+|Wire looping|Subendothelial IC|SLE|
-|Membranous nephropathy (MN)|-|+|Spike & Dome|Subepithelial IC|SLE|
+|Membranous nephropathy (MN)|-|+|Spike & Dome|Subepithelial IC|SLE & HBV & HCV|
 |Minimal change disease (MCD)|-|+|Podocyte effacement|-|-|
 |Focal segmental glomerulosclerosis (FSGS)|-|+|Podocyte effacement|-|HIV|
 |Diabetic nephropathy|-|+|Nodular glomerulosclerosis|-|-|
