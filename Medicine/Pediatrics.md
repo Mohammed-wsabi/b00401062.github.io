@@ -63,12 +63,12 @@
 - Bronchopulmonary dysplasia
 - Cerebral palsy
 
-## Congenital Hip Dislocation
+## Developmental Dysplasia of Hip (DDH)
 
 - Barlow test
 - Ortolani test
 
-![](../Figures/Congenital%20Hip%20Dislocation%20>%20Barlow%20and%20Ortolani%20Test.jpg)
+![](../Figures/Developmental%20Dysplasia%20of%20Hip%20(DDH)%20>%20Barlow%20and%20Ortolani%20Test.jpg)
 
 ## WAGR Syndrome {WAGR}
 
