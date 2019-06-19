@@ -474,6 +474,15 @@
 - Excess vitamin D
 - Sarcoidosis
 
+## Treatment of Hypercalcemia
+
+- Hydration
+- Diuretics :: loop diuretics
+- Calcitonin
+- Bisphosphonate
+- Glucocorticoids
+- Dialysis
+
 ## Presentation of Vitamin Deficiency
 
 |Vitamin|Presentation|
