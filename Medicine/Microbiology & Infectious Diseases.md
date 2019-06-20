@@ -611,7 +611,7 @@
 - Infectious arthritis
 - Sepsis
 
-## Serologic Testing for Hepatitis B
+## Serological Test for HBV Infection
 
 |Diagnosis|HBsAg|Anti-HBs|Anti-HBc|
 |-|-|-|-|
@@ -621,11 +621,11 @@
 |Recovery|-|+|IgG|
 |Vaccination|-|+|-|
 
-![](../Figures/Serologic%20Testing%20for%20Hepatitis%20B.jpg)
+![](../Figures/Serological%20Test%20for%20HBV%20Infection.jpg)
 
-## Serologic Testing for EBV Infection
+## Serological Test for EBV Infection
 
-![](../Figures/Serologic%20Testing%20for%20EBV%20Infection.jpg)
+![](../Figures/Serological%20Test%20for%20EBV%20Infection.jpg)
 
 ## Presentation of Streptococcus Pneumonia Infection {MOPS}
 
