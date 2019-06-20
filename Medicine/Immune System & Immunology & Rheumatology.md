@@ -184,7 +184,8 @@
 |Autoimmune hepatitis|Anti-smooth muscle|
 |Dermatitis herpetiformis|Anti-tissue transglutaminase (Anti-tTG) IgA|
 |Drug-induced lupus|Anti-histone|
-|Henoch-Schonlein purpura (HSP)|IgA|
+|IgA vasculitis [Henoch-Schonlein purpura (HSP)]|IgA|
+|IgA nephropathy [Berger disease]|IgA|
 |Membranoproliferative glomerulonephritis|C3 nephritic factor|
 |Mixed connective tissue disease (MCTD)|Anti-U1 RNP|
 |Polyarteritis nodosa|-|
