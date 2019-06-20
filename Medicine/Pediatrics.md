@@ -103,6 +103,6 @@
 - Fever :: > 40°C for > 5 days
 - Strawberry tongue
 - Conjunctivitis
-- Adenopathy of neck
+- Adenopathy :: neck
 - Rashes :: desquamating
 - Edema :: limbs
