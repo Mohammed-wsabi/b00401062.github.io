@@ -81,14 +81,6 @@
 |Hemochromatosis|↑ (1°)|↑|↓|↑|
 |Pregnancy & OCP|-|-|↑ (1°)|↓|
 
-## Difference Between Thalassemia and IDA
-
-||Thalassemia|IDA|
-|-|-|-|
-|Mentzer index|< 13|> 13|
-|RDW|-|↑|
-|Iron profile|Normal|Abnormal|
-
 ### Normocytic Anemia :: Hemolytic Anemia
 
 ||Intravascular {TIMP}|Extravascular {PHAGES}|
@@ -111,6 +103,14 @@
 ||Paroxysmal nocturnal hematuria (PNH)|G6PD deficiency|
 ||-|Elliptocytosis|
 ||-|Sickle cell disease (SCD)|
+
+## Difference Between Thalassemia and IDA
+
+||Thalassemia|IDA|
+|-|-|-|
+|Mentzer index|< 13|> 13|
+|RDW|-|↑|
+|Iron profile|Normal|Abnormal|
 
 ## Etiology of Elevated RDW
 
