@@ -83,7 +83,7 @@
 
 ### Normocytic Anemia :: Hemolytic Anemia
 
-||Intravascular {TIMP}|Extravascular {PHAGES}|
+||Intravascular|Extravascular|
 |-|-|-|
 |Peripheral smear|Schistocyte|Spherocyte|
 |Haptoglobin|↓|-|
