@@ -307,14 +307,23 @@
 |Urine urobilinogen|↑|↓|-|
 |Tea-colored urine|-|+|+|
 |Clay-colored stool|-|+|+|
-|Etiology|Gilbert syndrome|Dubin-Johnson syndrome|Hepatitis|
-||Crigler-Najjar syndrome|Rotor syndrome|Cirrhosis|
-||Neonatal jaundice|Obstructive jaundice|-|
-||Extravascular hemolysis|-|-|
+
+- Indirect
+	- Gilbert syndrome
+	- Crigler-Najjar syndrome
+	- Neonatal jaundice
+	- Extravascular hemolysis
+- Direct
+	- Dubin-Johnson syndrome
+	- Rotor syndrome
+	- Obstructive jaundice
+- Mixed
+	- Hepatitis
+	- Cirrhosis
 
 ## Charcot Triad of Cholangitis
 
-- Pain of RUQ
+- Pain :: RUQ
 - Fever
 - Jaundice
 
