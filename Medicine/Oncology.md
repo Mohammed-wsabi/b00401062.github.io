@@ -1,5 +1,12 @@
 # Oncology
 
+## WAGR Syndrome {WAGR}
+
+- Wilms tumor
+- Aniridia
+- Genitourinary anomaly
+- Retardation
+
 ## Tumors Associated with Li-Fraumeni Syndrome {SBLA}
 
 - Sarcoma
