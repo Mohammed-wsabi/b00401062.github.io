@@ -70,13 +70,6 @@
 
 ![](../Figures/Developmental%20Dysplasia%20of%20Hip%20(DDH)%20>%20Barlow%20and%20Ortolani%20Test.jpg)
 
-## WAGR Syndrome {WAGR}
-
-- Wilms tumor
-- Aniridia
-- Genitourinary anomaly
-- Retardation
-
 ## VACTERL Association {VACTERL}
 
 - Vertebral anomalies
@@ -105,10 +98,11 @@
 - 1° Hypoparathyroidism → Hypocalcemia
 - 22q11 microdeletion
 
-## Presentation of Kawasaki Disease {CRASH}
+## Presentation of Kawasaki Disease {F-SCARE}
 
+- Fever :: > 40°C for > 5 days
+- Strawberry tongue
 - Conjunctivitis
-- Rashes :: trunk
-- Adenopathy :: unilateral
-- Strawberry tongue / lips
-- High fever :: > 40°C
+- Adenopathy of neck
+- Rashes :: desquamating
+- Edema :: limbs
