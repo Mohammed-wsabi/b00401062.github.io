@@ -1,14 +1,67 @@
 # Oncology
 
+## Oncogenes
+
+|Gene|Tumors|Products|
+|-|-|-|
+|BRAF|Melanoma|Serine/Threonine kinase (STK)|
+|BCR-ABL|CML|Tyrosine kinase|
+|C-KIT|Gastrointestinal stromal tumor (GIST)|Tyrosine kinase|
+|EGFR [HER1]|Colon & Lung cancer|Tyrosine kinase|
+|HER2 [NEU]|Breast cancer|Tyrosine kinase|
+|RET|MEN 2A & 2B|Tyrosine kinase|
+|C-MYC|Burkitt lymphoma|Transcription factor|
+|L-MYC|Lung cancer|Transcription factor|
+|N-MYC|Neuroblastoma|Transcription factor|
+|BCL2|Follicular lymphoma|Anti-apoptotics|
+|RAS|Colon & Lung & Pancreas cancer|GTPase|
+
+## Tumor Suppressor Genes
+
+|Gene|Tumors|Products|
+|-|-|-|
+|APC|Familial adenomatous polyposis (FAP)|-|
+|BRCA1 & BRCA2|Breast & Ovarian cancer|DNA repair|
+|MEN1|MEN 1|-|
+|NF1 & NF2|Neurofibromatosis type 1 & 2|RAS activators|
+|P16|Melanoma|CDK inhibitors|
+|P53|Li-Fraumeni syndrome|Transcription factor for P21|
+|PTEN|Breast & Prostate cancer|-|
+|RB|Retinoblastoma & Osteosarcoma|E2F inhibitors|
+|TSC1 & TSC2|Tuberous sclerosis|Hamartin & Tuberlin|
+|VHL|Von Hippel-Lindau disease|HIF inhibitors|
+|WT1 & WT2|Wilms tumor & WAGR syndrome|-|
+
+## Tumor Markers
+
+|Marker|Tumors|
+|-|-|
+|ALP|Bone metastasis & Seminoma|
+|AFP|Hepatocellular carcinoma & Yolk sac tumor|
+|hCG|Hydatidiform mole & Embryonal carcinoma & Teratoma & Choriocarcinoma|
+|CA 19-9|Pancreatic adenocarcinoma|
+|CA 125|Ovarian cancer|
+|Calcitonin|Medullary thyroid carcinoma|
+|CEA|Colorectal & Pancreatic cancers|
+|Chromogranin|Neuroendocrine tumors|
+|PSA|Prostate cancer|
+|S-100|Melanoma & Schwannoma & Neurofibroma & Histiocytoma|
+
 ## Presentation of Neurofibromatosis Type 1
 
 - Bone dysplasia
 - Cafe-au-lait spots
-- Freckling of the armpit or groin
-- Family history
 - Lisch nodules
-- Neurofibromas
-- Optic nerve glioma
+- Neurofibroma
+- Optic glioma
+- Pheochromocytoma
+
+## Presentation of Neurofibromatosis Type 2
+
+- Acoustic schwannomas :: bilateral
+- Cataract
+- Meningioma
+- Ependymoma
 
 ## Presentation of Tuberous Sclerosis {HAMARTOMAS}
 
@@ -30,8 +83,10 @@
 - Tram-track calcification
 - Unilateral
 - Retardation
-- GNAQ gene & Glaucoma
-- Epilepsy & Episcleral hemangioma
+- GNAQ gene
+- Glaucoma
+- Epilepsy
+- Episcleral hemangioma
 - Leptomeningeal angiomatosis
 
 ## Presentation of von Hippel-Lindau Disease
@@ -43,17 +98,17 @@
 
 ## WAGR Syndrome {WAGR}
 
-- Wilms tumor
+- Wilms tumor [Nephroblastoma]
 - Aniridia
 - Genitourinary anomaly
 - Retardation
 
-## Tumors Associated with Li-Fraumeni Syndrome {SBLA}
+## Li-Fraumeni Syndrome & SBLA Cancer Syndrome {SBLA}
 
 - Sarcoma
-- Breast tumor
+- Breast cancer
 - Leukemia
-- Adrenal gland tumor
+- Adrenal cancer
 
 ## Side Effects of Antineoplastics
 
