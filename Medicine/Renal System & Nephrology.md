@@ -145,23 +145,23 @@
 
 ## Classification of Glomerulopathy {IAA-GEM-RAMD-MMF-DA}
 
-|Glomerulopathy|Nephritis|Nephrosis|Microscopy|Immune Reaction|Associations|
-|-|-|-|-|-|-|
-|IgA nephropathy [Berger disease]|+|-|Mesangial proliferation|Mesangial IC|HSP|
-|Alport syndrome|+|-|Basket-weave|-|-|
-|Anti-GMB disease [Goodpasture syndrome]|+|-|Crescent|Anti-GBM|-|
-|Granulomatosis with polyangiitis (GPA)|+|-|Crescent|PR3-ANCA [c-ANCA]|-|
-|Eosinophilic granulomatosis with polyangiitis (EGPA)|+|-|Crescent|MPO-ANCA [p-ANCA]|-|
-|Microscopic polyangiitis|+|-|Crescent|MPO-ANCA [p-ANCA]|-|
-|Rapidly progressive glomerulonephritis (RPGN)|+|-|Crescent|-|-|
-|Acute proliferative glomerulonephritis (APGN)|+|-|Lumpy-bumpy & Starry sky|Subepithelial IC|GAS|
-|Membranoproliferative glomerulonephritis (MPGN)|+|+|Tram-track|Subendothelial IC|SLE & HBV & HCV|
-|Diffuse proliferative glomerulonephritis (DPGN)|+|+|Wire looping|Subendothelial IC|SLE|
-|Membranous nephropathy (MN)|-|+|Spike & Dome|Subepithelial IC|SLE & HBV & HCV|
-|Minimal change disease (MCD)|-|+|Podocyte effacement|-|-|
-|Focal segmental glomerulosclerosis (FSGS)|-|+|Podocyte effacement|-|HIV|
-|Diabetic nephropathy|-|+|Nodular glomerulosclerosis|-|-|
-|Amyloid nephropathy|-|+|Nodular glomerulosclerosis|-|-|
+|Glomerulopathy|Nephritis|Nephrosis|LM/EM|IF|IC|Associations|
+|-|-|-|-|-|-|-|
+|IgA nephropathy [Berger disease]|+|-|Mesangial proliferation|Mesangial|Mesangial|HSP|
+|Alport syndrome|+|-|Basket-weave|-|-|-|
+|Anti-GBM disease [Goodpasture syndrome]|+|-|Crescent|Linear|GBM|-|
+|Granulomatosis with polyangiitis (GPA)|+|-|Crescent|-|-|PR3-ANCA [c-ANCA]|
+|Eosinophilic granulomatosis with polyangiitis (EGPA)|+|-|Crescent|-|-|MPO-ANCA [p-ANCA]|
+|Microscopic polyangiitis|+|-|Crescent|-|-|MPO-ANCA [p-ANCA]|
+|Rapidly progressive glomerulonephritis (RPGN)|+|-|Crescent|-|-|-|
+|Acute proliferative glomerulonephritis (APGN)|+|-|-|Lumpy-bumpy & Starry sky|Subepithelial|GAS|
+|Membranoproliferative glomerulonephritis (MPGN)|+|+|Tram-track|Granular|Subendothelial|SLE & HBV & HCV|
+|Diffuse proliferative glomerulonephritis (DPGN)|+|+|Wire looping|Granular|Subendothelial|SLE|
+|Membranous nephropathy (MN)|-|+|GBM thickening|Spike & Dome|Subepithelial|SLE & HBV & HCV|
+|Minimal change disease (MCD)|-|+|Podocyte effacement|-|-|-|
+|Focal segmental glomerulosclerosis (FSGS)|-|+|Segmental sclerosis & Podocyte effacement|-|-|HIV|
+|Diabetic nephropathy|-|+|Nodular sclerosis|-|-|-|
+|Amyloid nephropathy|-|+|Nodular sclerosis|-|-|-|
 
 ## Etiology of Acute Tubular Necrosis (ATN)
 
