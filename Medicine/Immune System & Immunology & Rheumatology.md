@@ -36,9 +36,9 @@
 
 |Pathway|Targets|Cascade|
 |-|-|-|
-|Classic pathway|Antigen-antibody complexes|142356789|
-|Alternative pathway|Spontaneous and microbial surfaces|3BD356789|
-|Lectin pathway|Microbial surfaces|M42356789|
+|Classic|Antigen-antibody complexes|142356789|
+|Alternative|Spontaneous and microbial surfaces|3BD356789|
+|Lectin|Microbial surfaces|M42356789|
 
 ![](../Figures/Complement%20Systems.png)
 
