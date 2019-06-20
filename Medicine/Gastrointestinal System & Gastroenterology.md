@@ -262,18 +262,6 @@
 - Autoimmune hepatitis
 - Alcoholic hepatitis
 
-## Serologic Testing for Hepatitis B
-
-|Diagnosis|HBsAg|Anti-HBs|Anti-HBc|
-|-|-|-|-|
-|Infection :: acute|+|-|IgM|
-|Infection :: chronic|+|-|IgG|
-|Window|-|-|IgM / IgG|
-|Recovery|-|+|IgG|
-|Vaccination|-|+|-|
-
-![](../Figures/Serologic%20Testing%20for%20Hepatitis%20B.jpg)
-
 ## Management of Hepatocellular Carcinoma (HCC)
 
 - w/o vascular invasion / extrahepatic metastasis
