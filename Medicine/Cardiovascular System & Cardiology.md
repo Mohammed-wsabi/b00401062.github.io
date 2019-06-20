@@ -539,14 +539,6 @@
 	
 ![](../Figures/Vasculitis.png)
 
-## Presentation of Kawasaki Disease {SCARE}
-
-- Strawberry tongue
-- Conjunctivitis
-- Adenopathy of neck
-- Rashes :: desquamating
-- Edema :: limbs
-
 ## Indications for Permanent Pacemaker
 
 - Sinus bradycardia :: < 40 & symptomatic
