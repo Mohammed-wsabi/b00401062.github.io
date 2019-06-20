@@ -491,16 +491,16 @@
 |+ssRNA :: retrovirus|+ssRNA → dsDNA → +mRNA|Reverse transcriptase & RNA polymerase|
 |-ssRNA|-ssRNA → +mRNA|RNA polymerase|
 
-## Classification of DNA Viruses {PAPP-HHP}
+## Classification of DNA Viruses
 
 |Viruses|Strand|Nucleic Acid|Capsid|Envelope|
 |-|-|-|-|-|
-|Parvovirus|1|Linear|Icosahedral|-|
 |Adenovirus|2|Linear|Icosahedral|-|
-|Papillomavirus|2|Circular|Icosahedral|-|
-|Polyomavirus|2|Circular|Icosahedral|-|
 |Hepadnavirus|2|Circular|Icosahedral|+|
 |Herpesvirus|2|Linear|Icosahedral|+|
+|Parvovirus|1|Linear|Icosahedral|-|
+|Papillomavirus|2|Circular|Icosahedral|-|
+|Polyomavirus|2|Circular|Icosahedral|-|
 |Poxvirus|2|Linear|Complex|+|
 
 ## Classification of RNA Viruses
@@ -610,6 +610,22 @@
 - Necrotizing fasciitis
 - Infectious arthritis
 - Sepsis
+
+## Serologic Testing for Hepatitis B
+
+|Diagnosis|HBsAg|Anti-HBs|Anti-HBc|
+|-|-|-|-|
+|Infection :: acute|+|-|IgM|
+|Infection :: chronic|+|-|IgG|
+|Window|-|-|IgM / IgG|
+|Recovery|-|+|IgG|
+|Vaccination|-|+|-|
+
+![](../Figures/Serologic%20Testing%20for%20Hepatitis%20B.jpg)
+
+## Serologic Testing for EBV Infection
+
+![](../Figures/Serologic%20Testing%20for%20EBV%20Infection.jpg)
 
 ## Presentation of Streptococcus Pneumonia Infection {MOPS}
 
