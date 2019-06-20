@@ -96,13 +96,21 @@
 |LDH|↑|↑|
 |DAT|-|+|
 |Jaundice|-|+|
-|Examples|Transfusion|Pyruvate kinase deficiency|
-||Infusion|HbC disease|
-||Macroangiopathic hemolytic anemia (MAHA)|Hereditary spherocytosis|
-||Microangiopathic hemolytic anemia (MAHA)|Autoimmune hemolytic anemia (AHA)|
-||Paroxysmal nocturnal hematuria (PNH)|G6PD deficiency|
-||-|Elliptocytosis|
-||-|Sickle cell disease (SCD)|
+
+- Intravascular {TIMP}
+	- Transfusion
+	- Infusion
+	- Macroangiopathic hemolytic anemia (MAHA)
+	- Microangiopathic hemolytic anemia (MAHA)
+	- Paroxysmal nocturnal hematuria (PNH)
+- Extravascular {PHAGES}
+	- Pyruvate kinase deficiency
+	- HbC disease
+	- Hereditary spherocytosis
+	- Autoimmune hemolytic anemia (AHA)
+	- G6PD deficiency
+	- Elliptocytosis
+	- Sickle cell disease (SCD)
 
 ## Difference Between Thalassemia and IDA
 
