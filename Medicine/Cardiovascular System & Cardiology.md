@@ -522,6 +522,21 @@
 
 ## Vasculitis
 
+- Large-vessel
+	- Takayasu arteritis
+	- Giant cell arteritis [Temporal arteritis]
+- Medium-vessel
+	- Kawasaki disease
+	- Polyarteritis nodosa
+	- Thromboangiitis obliterans [Buerger disease]
+- Small-vessel
+	- ANCA-associated vasculitis (AAV)
+		- Granulomatosis with polyangiitis (GPA)
+		- Eosinophilic granulomatosis with polyangiitis (EGPA)
+		- Microscopic polyangiitis
+	- IgA vasculitis [Henoch-Schonlein purpura (HSP)]
+	- Cryoglobulinemic vasculitis
+	
 ![](../Figures/Vasculitis.png)
 
 ## Presentation of Kawasaki Disease {SCARE}
@@ -530,7 +545,7 @@
 - Conjunctivitis
 - Adenopathy of neck
 - Rashes :: desquamating
-- Edema of limbs
+- Edema :: limbs
 
 ## Indications for Permanent Pacemaker
 
