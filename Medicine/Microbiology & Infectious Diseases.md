@@ -940,23 +940,6 @@
 - Respiratory rate > 20 / PaCO<sub>2</sub> < 32 mmHg
 - WBC > 12,000/mm<sup>3</sup> / < 4,000/mm<sup>3</sup> / > 10% bands
 
-## Pathogens of Perinatal Infection {TORCH-BEL}
-
-|Pathogen|Presentation|Transmission|
-|-|-|-|
-|Toxoplasma|Intracranial calcifications & Hydrocephalus & Chorioretinitis|Transplacental|
-|Rubella|Cataracts & Deafness & PDA|Transplacental|
-|CMV|Periventricular calcifications & Deafness & Petechial rash|Transplacental|
-|HSV|Encephalitis & Herpetic whitlow|Intrapartum|
-|HIV|AIDS|Intrapartum|
-|Syphilis|Deafness & Saddle nose & Hutchinson teeth & Saber shins|Transplacental|
-|Parvovirus B19|Hydrops fetalis|Transplacental|
-|Group B streptococcus (GBS)|Pneumonia & Meningitis|Intrapartum|
-|Escherichia coli|Pneumonia & Meningitis|Intrapartum|
-|Listeria|Pneumonia & Meningitis|Intrapartum|
-|Neisseria gonorrhoea|Conjunctivitis|Intrapartum|
-|Chlamydia trachomatis|Conjunctivitis|Intrapartum|
-
 ## Jones Criteria for Rheumatic Fever {JONES}
 
 - Joint :: migratory polyarthritis
