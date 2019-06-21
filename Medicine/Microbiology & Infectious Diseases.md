@@ -324,13 +324,6 @@
 - Clostridium
 - Coxiella
 
-## VDRL False Positives {VDRL}
-
-- Virus :: mononucleosis & hepatitis
-- Drugs
-- Rheumatic fever & Rheumatoid arthritis
-- Lupus & Leprosy
-
 ## Classification of Fungi
 
 ### Yeast
@@ -634,20 +627,26 @@
 - Pneumonia :: lobar
 - Sinusitis
 
-## Presentation of Streptococcus Pyogenes Infection {NIPPLES}
+## Presentation of Streptococcus Pyogenes Infection
 
-|Mnemonic|Manifestation|
-|-|-|
-|N|Necrotizing fasciitis|
-|I|Impetigo|
-|P|Pharyngitis|
-|P|Pyogenic|
-|L|Lymphangitis|
-|E|Erysipelas|
-|S|Scarlet fever|
-|Taste|Toxic shock-like syndrome|
-|Really|Rheumatic fever|
-|Good|Glomerulonephritis :: APGN|
+- Erysipelas
+- Glomerulonephritis :: APGN
+- Impetigo
+- Lymphangitis
+- Necrotizing fasciitis
+- Pharyngitis
+- Pyogenic
+- Rheumatic fever
+- Scarlet fever
+- Toxic shock-like syndrome
+
+## Jones Criteria for Rheumatic Fever {JONES}
+
+- Joint :: migratory polyarthritis
+- Heart :: mitral valve regurgitation & stenosis
+- Nodules :: subcutaneous
+- Erythema marginatum
+- Sydenham chorea [Chorea minor]
 
 ## Facts About Corynebacterium Diphtheria {ABCDEFG}
 
@@ -711,9 +710,19 @@
 - -
 - Arthritis
 
+## Classification of Leprosy [Hansen Disease]
+
+![](../Figures/Classification%20of%20Leprosy.jpg)
+
+||Tuberculoid|Lepromatous|
+|-|-|
+|AFS|Paucibacillary|Multibacillary|
+|Immunity|Cellular|Humoral|
+|Neuropathy|Localized|Generalized|
+
 ## Mechanisms of Action of Antibiotics
 
-### Cell Wall Inhibitors {PCCMG}
+### Cell Wall Inhibitors
 
 |Mechanism|Targets|Mnemonic|Medication|
 |-|-|-|-|
@@ -723,7 +732,7 @@
 |↓ Peptidoglycan crosslinking|Penicillin binding protein|Medical|Monobactams|
 |↓ Peptidoglycan synthesis|Peptidoglycan|Group|Glycopeptides|
 
-### Protein Inhibitors {AT-LCMC}
+### Protein Inhibitors
 
 |Mechanism|Targets|Mnemonic|Medication|
 |-|-|-|-|
@@ -837,6 +846,7 @@
 |Corynebacterium|Penicillin & Macrolides|
 |Listeria|Penicillinase-sensitive penicillin|
 |Mycobacterium tuberculosis|Rifampin & Isoniazid & Pyrazinamide & Ethambutol|
+|Mycobacterium leprae|Dapsone & Rifampin & Clofazimine|
 |Mycobacterium avium|Macrolides|
 |Actinomyces|Penicillin|
 |Nocardia|Trimethoprim & Sulfonamide|
@@ -857,7 +867,7 @@
 |Spirochete|Penicillin & Tetracyclines|
 |Bacteroides fragilis|Carbapenems & Metronidazole|
 
-## Triple Therapy for Helicobacter Pylori
+## Triple Therapy for Helicobacter Pylori Infection
 
 - Macrolides
 - Penicillinase-sensitive penicillin / Metronidazole
@@ -880,6 +890,19 @@
 - Vancomycin
 - Clindamycin
 - Metronidazole
+
+## Treatment of Leprosy [Hansen Disease]
+
+### Tuberculoid Disease
+
+- Dapsone
+- Rifampin
+
+### Lepromatous Disease
+
+- Dapsone
+- Rifampin
+- Clofazimine
 
 ## Mechanisms of Action of Antifungals
 
@@ -940,16 +963,15 @@
 - Respiratory rate > 20 / PaCO<sub>2</sub> < 32 mmHg
 - WBC > 12,000/mm<sup>3</sup> / < 4,000/mm<sup>3</sup> / > 10% bands
 
-## Jones Criteria for Rheumatic Fever {JONES}
-
-- Joint :: migratory polyarthritis
-- Heart :: mitral valve regurgitation & stenosis
-- Nodules :: subcutaneous
-- Erythema marginatum
-- Sydenham chorea [Chorea minor]
-
 ## Pathogens of Rashes Beginning on the Palms & Soles {CARS}
 
 - Coxsackie A virus → hand-foot-mouth disease
 - Rickettsia rickettsii → Rocky Mountain spotted fever (RMSF)
 - Treponema pallidum → syphilis
+
+## VDRL False Positives {VDRL}
+
+- Virus :: mononucleosis & hepatitis
+- Drugs
+- Rheumatic fever & Rheumatoid arthritis
+- Lupus & Leprosy
