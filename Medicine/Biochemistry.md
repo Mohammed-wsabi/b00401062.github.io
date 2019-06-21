@@ -363,7 +363,7 @@
 |Proline|Collagen|
 |Tryptophan|Niacin & Serotonin & Melatonin|
 |Phenylalanine|Thyroxine & Catecholamine|
-|Tyrosine|Thyroxine & Catecholamine|
+|Tyrosine|Thyroxine & Catecholamine & Melanin|
 |Histidine|Histamine|
 |Arginine|Urea & NO & Creatine|
 |Lysine|Collagen|
