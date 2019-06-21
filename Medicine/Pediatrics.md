@@ -35,6 +35,16 @@
 - Scarf sign
 - Square window
 
+## Complications of Preterm Delivery {RIP-N-RBC}
+
+- Respiratory distress syndrome (RDS)
+- Intraventricular hemorrhage
+- Patent ductus arteriosus (PDA)
+- Necrotizing enterocolitis (NEC)
+- Retinopathy of prematurity
+- Bronchopulmonary dysplasia
+- Cerebral palsy
+
 ## Vaccination
 
 |Vaccine|Month|
@@ -53,15 +63,22 @@
 
 ![](../Figures/Childhood%20Immunization.gif)
 
-## Complications of Preterm Delivery {RIP-N-RBC}
+## Pathogens of Perinatal Infection {TORCH-BEL}
 
-- Respiratory distress syndrome (RDS)
-- Intraventricular hemorrhage
-- Patent ductus arteriosus (PDA)
-- Necrotizing enterocolitis (NEC)
-- Retinopathy of prematurity
-- Bronchopulmonary dysplasia
-- Cerebral palsy
+|Pathogen|Presentation|Transmission|
+|-|-|-|
+|Toxoplasma|Intracranial calcifications & Hydrocephalus & Chorioretinitis|Transplacental|
+|Rubella|Cataracts & Deafness & PDA|Transplacental|
+|CMV|Periventricular calcifications & Deafness & Petechial rash|Transplacental|
+|HSV|Encephalitis & Herpetic whitlow|Intrapartum|
+|HIV|AIDS|Intrapartum|
+|Syphilis|Deafness & Saddle nose & Hutchinson teeth & Saber shins|Transplacental|
+|Parvovirus B19|Hydrops fetalis|Transplacental|
+|Group B streptococcus (GBS)|Pneumonia & Meningitis|Intrapartum|
+|Escherichia coli|Pneumonia & Meningitis|Intrapartum|
+|Listeria|Pneumonia & Meningitis|Intrapartum|
+|Neisseria gonorrhoea|Conjunctivitis|Intrapartum|
+|Chlamydia trachomatis|Conjunctivitis|Intrapartum|
 
 ## Developmental Dysplasia of Hip (DDH)
 
