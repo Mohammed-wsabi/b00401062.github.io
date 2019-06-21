@@ -119,7 +119,7 @@
 - Chlamydia
 - RSV
 
-## Empiric Antibiotics for Pneumonia
+## Empirical Antibiotics for Pneumonia
 
 |Patient|Antibiotics|
 |-|-|
