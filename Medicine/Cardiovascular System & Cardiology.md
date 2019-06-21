@@ -544,3 +544,43 @@
 - Sinus bradycardia :: < 40 & symptomatic
 - Sick sinus syndrome
 - AV blocks :: 2nd degree Mobitz II & 3rd degree
+
+## Pathogens of Infective Endocarditis
+
+- Staphylococcus aureus
+- Staphylococcus epidermidis
+- Streptococcus viridans
+- Enterococcus
+- Pseudomonas aeruginosa
+- Candida
+
+## Pathogens of Culture-Negative Infective Endocarditis {HACEK}
+
+- Haemophilus parainfluenzae
+- Actinobacillus
+- Cardiobacterium
+- Eikenella
+- Kingella
+
+## Presentation of Infective Endocarditis {FROM-JANE}
+
+- Fever
+- Roth spots
+- Osler nodes
+- Murmur
+- Janeway lesions
+- Anemia
+- Nail-bed hemorrhage
+- Emboli
+
+## Duke Criteria for Infective Endocarditis
+
+- Major
+	- Microbiological evidence
+	- Endocardial involvement
+- Minor
+	- Fever
+	- Vascular phenomena
+	- Immunologic phenomena
+	- Microbiological evidence
+	- Risk factors
