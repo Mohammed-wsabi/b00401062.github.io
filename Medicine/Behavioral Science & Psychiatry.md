@@ -152,14 +152,14 @@
 
 ## Types of Delusions
 
-- Delusions of control
-- Erotomanic delusions
-- Grandiose delusions
-- Delusions of guilt
-- Jealous delusions
-- Persecutory delusions
-- Delusions of reference
-- Somatic delusions
+- Delusion of control
+- Delusion of guilt
+- Delusion of reference
+- Erotomanic delusion
+- Grandiose delusion
+- Jealous delusion
+- Persecutory delusion
+- Somatic delusion
 
 ## Presentation of Schizophrenia
 
@@ -168,57 +168,6 @@
 - Speech disturbances
 - Catatonia
 - Negative symptoms
-
-## Presentation of Manic Episode {DIG-FAST}
-
-- Distractibility
-- Irresponsibility
-- Grandiosity
-- Flight of ideas
-- Agitation
-- Sleep deprivation
-- Talkativeness
-
-## Presentation of Major Depressive Episode {FDA-GPS}
-
-- Fatigue
-- Depression
-- Anhedonia
-- Appetite changes :: anorexia & hyperphagia
-- Attention deficit
-- Guilt
-- Psychomotor agitation & retardation
-- Sleep disturbance :: insomnia & hypersomnia
-- Suicidal ideations
-
-## Mechanisms of Action of Medications for Bipolar Disorder
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|Mood stabilizer|Lithium|Bipolar|
-|D<sub>2</sub> & 5-HT<sub>2</sub> antagonists|2° Antipsychotics|Bipolar|
-|Na channel blockers|Carbamazepine|Bipolar & Seizure|
-|↑ GABA|Valproate|Bipolar & Seizure|
-
-## Mechanisms of Action of Antidepressants
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|TCA|Triptylines|Depression|
-||Pramines|Depression|
-|SNRI|Venlafaxine|Depression|
-||Duloxetine|Depression|
-|SSRI|Fluoxetine|Depression|
-||Paroxetine|Depression|
-||Sertraline|Depression|
-||Citalopram|Depression|
-|NDRI|Bupropion|Depression & Smoking cessation|
-|5-HT modulators|Trazodone|Depression & Insomnia|
-|α<sub>2</sub> antagonists|Mirtazapine|Depression|
-|MAO inhibitors|Tranylcypromine|Depression|
-||Phenelzine|Depression|
-||Isocarboxazid|Depression|
-||Selegiline|Depression & Parkinson|
 
 ## Mechanisms of Action of Antipsychotics
 
@@ -235,7 +184,7 @@
 ||Risperidone|Psychosis|
 ||Ziprasidone|Psychosis|
 
-## Side Effects of Action of Antipsychotics
+## Side Effects of Antipsychotics
 
 - Anticholinergic symptoms
 - Antiadrenergic symptoms
@@ -262,6 +211,66 @@
 - Vitals unstable
 - Enzyme elevation :: creatine kinase (CK)
 - Rigidity
+
+## Treatment of Neuroleptic Malignant Syndrome (NMS) {FEVER}
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|Ca channel blockers|Dantrolene|Neuroleptic malignant syndrome|
+|D<sub>2</sub> agonists|Bromocriptine|Neuroleptic malignant syndrome|
+|NMDA antagonists|Amantadine|Neuroleptic malignant syndrome|
+|GABA-A agonists|Benzodiazepine|Neuroleptic malignant syndrome|
+
+## Presentation of Major Depressive Episode {FDA-GPS}
+
+- Fatigue
+- Depression
+- Anhedonia
+- Appetite changes :: anorexia & hyperphagia
+- Attention deficit
+- Guilt
+- Psychomotor agitation & retardation
+- Sleep disturbance :: insomnia & hypersomnia
+- Suicidal ideations
+
+## Mechanisms of Action of Antidepressants
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|TCA|Triptylines|Depression|
+||Pramines|Depression|
+|SNRI|Venlafaxine|Depression|
+||Duloxetine|Depression|
+|SSRI|Fluoxetine|Depression|
+||Paroxetine|Depression|
+||Sertraline|Depression|
+||Citalopram|Depression|
+|NDRI|Bupropion|Depression & Smoking cessation|
+|5-HT modulators|Trazodone|Depression & Insomnia|
+|α<sub>2</sub> antagonists|Mirtazapine|Depression|
+|MAO inhibitors|Tranylcypromine|Depression|
+||Phenelzine|Depression|
+||Isocarboxazid|Depression|
+||Selegiline|Depression & Parkinson|
+
+## Presentation of Manic Episode {DIG-FAST}
+
+- Distractibility
+- Irresponsibility
+- Grandiosity
+- Flight of ideas
+- Agitation
+- Sleep deprivation
+- Talkativeness
+
+## Mechanisms of Action of Medications for Bipolar Disorder
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|Mood stabilizer|Lithium|Bipolar|
+|D<sub>2</sub> & 5-HT<sub>2</sub> antagonists|2° Antipsychotics|Bipolar|
+|Na channel blockers|Carbamazepine|Bipolar & Seizure|
+|↑ GABA|Valproate|Bipolar & Seizure|
 
 ## Mechanisms of Action of Anxiolytics
 
