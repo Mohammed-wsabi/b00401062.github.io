@@ -103,7 +103,7 @@
 - Genitourinary anomaly
 - Retardation
 
-## Li-Fraumeni Syndrome & SBLA Cancer Syndrome {SBLA}
+## Li-Fraumeni Syndrome & SBLA Syndrome {SBLA}
 
 - Sarcoma
 - Breast cancer
