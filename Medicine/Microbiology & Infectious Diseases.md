@@ -985,21 +985,6 @@
 |3 months ~ 60 years|3° Cephalosporins & Vancomycin|
 |≥ 60 years / Complicated|Ampicillin & 3° Cephalosporins & Vancomycin|
 
-## Pathogens of Otitis Media {SHM}
-
-- Streptococcus pneumonia
-- Haemophilus influenzae
-- Moraxella catarrhalis
-
-## Pathogens of Tonsillitis
-
-- Group A streptococcus (GAS)
-- Adenovirus
-- HSV
-- EBV
-- Parainfluenza virus
-- Influenza virus
-
 ## Pathogens of Bronchiolitis
 
 - Adenovirus
@@ -1080,7 +1065,7 @@
 ## Jones Criteria for Rheumatic Fever {JONES}
 
 - Joint :: migratory polyarthritis
-- Heart :: mitral valve
+- Heart :: mitral valve regurgitation & stenosis
 - Nodules :: subcutaneous
 - Erythema marginatum
 - Sydenham chorea [Chorea minor]
