@@ -97,3 +97,40 @@
 |Mast cell inhibitors|Cromolyn|Asthma|
 ||Nedocromil|Asthma|
 |IgE inhibitors|Omalizumab|Asthma|
+
+## Pathogens of Bronchiolitis
+
+- Adenovirus
+- RSV
+- Rhinovirus
+- Coronavirus
+- Parainfluenza virus
+- Influenza virus
+
+## Pathogens of Pneumonia
+
+- Streptococcus pneumonia
+- Haemophilus influenzae
+- Moraxella catarrhalis
+- Klebsiella pneumoniae
+- Pseudomonas aeruginosa
+- Legionella
+- Mycoplasma
+- Chlamydia
+- RSV
+
+## Empiric Antibiotics for Pneumonia
+
+|Patient|Antibiotics|
+|-|-|
+|CAP & Uncomplicated|Macrolides<br>Doxycycline|
+|CAP & Complicated|Amoxicillin & (Macrolides / Doxycycline)<br>Fluoroquinolones|
+|CAP & Inpatient|Anti-pseudomonal β-lactams & (Macrolides / Doxycycline)<br>Fluoroquinolones|
+|CAP & ICU|Anti-pseudomonal β-lactams & (Macrolides / Doxycycline / Fluoroquinolones)|
+|HAP|Anti-pseudomonal β-lactams & Fluoroquinolones|
+
+### Complicated Patients
+
+- Age > 65 y/o
+- Antibiotics within 3 months
+- Commorbid
