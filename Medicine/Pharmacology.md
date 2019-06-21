@@ -154,7 +154,8 @@
 ||Methacholine|Asthma diagnosis|
 ||Carbachol|Glaucoma|
 ||Pilocarpine|Glaucoma & Xerophthalmia & Xerostomia|
-|N agonists|Succinylcholine|Muscle relaxant|
+|N<sub>N</sub> [Ganglionic] agonists|Nicotine|Stimulant|
+|N<sub>M</sub> [Neuromuscular] agonists|Succinylcholine|Muscle relaxant|
 
 ## Mechanisms of Action of Cholinergic Antagonists
 
@@ -169,9 +170,9 @@
 ||Antipsychotics|-|
 ||Antidepressants :: TCA|-|
 ||1° Antihistamines|-|
-|N<sub>N</sub> [Ganglionic] blockers|Hexamethonium|-|
+|N<sub>N</sub> [Ganglionic] antagonists|Hexamethonium|-|
 ||Mecamylamine|-|
-|N<sub>M</sub> [Neuromuscular] blockers|Atracurium|Muscle relaxant|
+|N<sub>M</sub> [Neuromuscular] antagonists|Atracurium|Muscle relaxant|
 ||Rocuronium|Muscle relaxant|
 
 ## Mechanisms of Action of Adrenergic Agonists
