@@ -233,6 +233,11 @@
 - Sleep disturbance :: insomnia & hypersomnia
 - Suicidal ideations
 
+## Effects of Depression on Sleep-Wake Cycle
+
+- ↓ REM latency
+- ↑ Total REM sleep
+
 ## Mechanisms of Action of Antidepressants
 
 |Mechanism|Medication|Indications|
