@@ -24,6 +24,13 @@
 |-|MDMA [Ecstasy]|Hallucinogen & Stimulant|
 |-|Cannabis [Marijuana]|Hallucinogen|
 
+## CAGE Questions for Alcohol Use {CAGE}
+
+- Cut down on alcohol
+- Anger
+- Guilty
+- Eye-opener
+
 ## Timeline of Alcohol Withdrawal Symptoms
 
 - Tremors
