@@ -167,6 +167,29 @@
 - Obturator sign
 - McBurney's point
 
+## Pathogens of Watery Diarrhea {GBS-CAVERN}
+
+- Giardia lamblia
+- Bacillus cereus
+- Staphylococcus aureus: heat-stable
+- Clostridium difficile
+- Cryptosporidium
+- Adenovirus
+- Vibrio cholerae
+- ETEC: heat-stable & heat-labile
+- Rotavirus
+- Norovirus
+
+## Pathogens of Bloody Diarrhea {SYCE}
+
+- Salmonella
+- Shigella
+- Yersinia enterocolitica
+- Campylobacter
+- Clostridium difficile
+- Entamoeba histolytica
+- EHEC & EIEC
+
 ## Rome Criteria for Irritable Bowel Syndrome (IBS)
 
 - Recurrent abdominal discomfort
@@ -326,6 +349,14 @@
 - Pain :: RUQ
 - Fever
 - Jaundice
+
+## Pathogens of Biliary Tract Infection (BTI)
+
+- Enterococcus
+- Escherichia coli
+- Klebsiella
+- Pseudomonas aeruginosa
+- Anaerobes
 
 ## Indications for Whipple Procedure
 
