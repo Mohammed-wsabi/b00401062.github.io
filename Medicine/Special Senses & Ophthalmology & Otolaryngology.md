@@ -46,3 +46,18 @@
 |Normal|Air > Bone|Left = Right|
 |Sensorineural|Air > Bone|Lesion < Normal|
 |Conductive|Air < Bone|Lesion > Normal|
+
+## Pathogens of Otitis Media {SHM}
+
+- Streptococcus pneumonia
+- Haemophilus influenzae
+- Moraxella catarrhalis
+
+## Pathogens of Tonsillitis
+
+- Group A streptococcus (GAS)
+- Adenovirus
+- HSV
+- EBV
+- Parainfluenza virus
+- Influenza virus
