@@ -31,6 +31,17 @@
 - Guilty
 - Eye-opener
 
+## Clinical Effects of Blood Alcohol Concentration (BAC)
+
+|BAC (mg/dL)|Effects|
+|-|-|
+|20 ~ 50|Diminished fine motor coordination|
+|50 ~ 100|Impaired judgment & Impaired coordination|
+|100 ~ 150|Difficulty with gait and balance|
+|150 ~ 250|Lethargy & Difficulty sitting upright|
+|300|Coma|
+|400|Respiratory depression|
+
 ## Timeline of Alcohol Withdrawal Symptoms
 
 - Tremors
