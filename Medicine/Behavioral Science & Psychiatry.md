@@ -50,13 +50,6 @@
 - Mental status
 - Thinking
 
-## CAGE Question for Alcoholisms {CAGE}
-
-- Cut down on alcohol
-- Anger
-- Guilty
-- Eye-opener
-
 ## Disorders in Psychiatry
 
 ### Neurodevelopmental Disorder
