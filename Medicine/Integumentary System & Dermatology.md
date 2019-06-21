@@ -56,14 +56,14 @@
 |Tinea [Dermatophytosis]|Microsporum & Epidermophyton & Trichophyton|Anywhere|
 |Tinea versicolor|Malassezia|Trunk|
 
-## Rashes Associated with Autoimmunity & Malignancy
+## Rashes Associated with Non-Infectious Diseases
 
 |Rash|Associations|Location|
 |-|-|-|
 |Atopic dermatitis|-|Joints|
+|Acanthosis nigricans|Insulin resistance & Visceral malignancy|Axilla & Neck|
 |Erythema toxicum|Neonates|Anywhere|
 |Erythema multiforme|Stevens-Johnson syndrome|Anywhere|
-|Erythema marginatum ← Rheumatic fever|Group A streptococcus (GAS)|Trunk|
 |Erythema nodosum|Inflammatory bowel disease & Sarcoidosis & Non-Hodgkins lymphoma|Anywhere|
 |Necrolytic migratory erythema|Glucagonoma|Face & Extremities|
 
