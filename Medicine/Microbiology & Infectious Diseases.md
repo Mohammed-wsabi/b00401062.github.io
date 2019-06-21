@@ -957,34 +957,6 @@
 |Neisseria gonorrhoea|Conjunctivitis|Intrapartum|
 |Chlamydia trachomatis|Conjunctivitis|Intrapartum|
 
-## Pathogens of Meningitis
-
-- Streptococcus pneumonia
-- Haemophilus influenzae
-- Neisseria meningitidis
-- Enterovirus
-- HSV & HIV
-- Cryptococcus
-
-## CSF Findings in Meningitis
-
-||Pressure|Cell|Glucose|Protein|
-|-|-|-|-|-|
-|Mnemonic|Please|Check|Groaning|Patients|
-|Healthy|50 ~ 180 mmH<sub>2</sub>O|< 5/mm<sup>3</sup>|40 ~ 70 mg/dL|20 ~ 45 mg/dL|
-|Bacterial|↑|PMN|↓|↑|
-|Fungal & TB|↑|Lymphocyte|↓|↑|
-|Viral|↑|Lymphocyte|-|↑|
-
-## Empiric Antibiotics for Meningitis
-
-|Patient|Antibiotics|
-|-|-|
-|≤ 1 month|Penicillinase-sensitive penicillin & (3° Cephalosporins / Aminoglycosides)|
-|1 ~ 3 months|3° Cephalosporins & Vancomycin|
-|3 months ~ 60 years|3° Cephalosporins & Vancomycin|
-|≥ 60 years / Complicated|Ampicillin & 3° Cephalosporins & Vancomycin|
-
 ## Pathogens of Infective Endocarditis
 
 - Staphylococcus aureus
