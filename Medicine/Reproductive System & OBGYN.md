@@ -79,6 +79,17 @@
 - Distended bladder
 - Adnexal mass
 
+## Hydatidiform Moles
+
+||Complete Mole|Partial Mole|
+|-|-|-|
+|Karyotype|46,XX / 46,XY|69,XXX / 69,XXY / 69,XYY|
+|hCG|↑↑↑↑|↑|
+|Uterine Size|↑|-|
+|Convert to Choriocarcinoma|2%|Rare|
+|Fetal Parts|-|+|
+|Components|2 sperms & 0 egg|2 sperms & 1 egg|
+
 ## Prenatal Care
 
 ### First Trimester
@@ -381,11 +392,25 @@
 - Cardiovascular disease
 - Sleep disturbances
 
-## Rotterdam Criteria for Diagnosis of PCOS
+## Rotterdam Criteria for Diagnosis of Polycystic Ovary Syndrome (PCOS)
 
 - Anovulation
 - Hyperandrogenism
 - Polycystic ovaries
+
+## Pathogens of Genital Tract Infection
+
+|Pathogen|Presentation|Treatment|
+|-|-|-|
+|Gardnerella vaginalis|Discharge :: grayish & fishy|Metronidazole|
+|Neisseria gonorrhoea|Pelvic inflammatory disease (PID)|Ceftriaxone|
+|Haemophilus ducreyi|Painful chancroid|-|
+|Treponema pallidum|Painless chancre & Condyloma lata|Penicillin|
+|Chlamydia trachomatis|Pelvic inflammatory disease (PID) & Lymphogranuloma venereum|Azithromycin / Doxycycline|
+|Candida albicans|Discharge :: white & curdy|-|
+|Trichomonas vaginalis|Discharge :: green & frothy|Metronidazole|
+|HPV|Condyloma accumulata|-|
+|HSV|Paniful ulcers|-|
 
 ## Reproductive Tumors
 
@@ -415,17 +440,6 @@
 - Mixed cell carcinoma
 - Transitional cell carcinoma [Brenner tumor] 
 - Carcinosarcoma [Malignant mixed müllerian tumor (MMMT)]
-
-## Hydatidiform Moles
-
-||Complete Mole|Partial Mole|
-|-|-|-|
-|Karyotype|46,XX / 46,XY|69,XXX / 69,XXY / 69,XYY|
-|hCG|↑↑↑↑|↑|
-|Uterine Size|↑|-|
-|Convert to Choriocarcinoma|2%|Rare|
-|Fetal Parts|-|+|
-|Components|2 sperms & 0 egg|2 sperms & 1 egg|
 
 ## Reference Limits of Semen Analysis
 
