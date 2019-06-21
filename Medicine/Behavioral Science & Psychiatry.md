@@ -100,15 +100,17 @@
 
 ### Anxiety Disorder
 
+- Generalized anxiety disorder
+- Panic disorder
+- Separation anxiety disorder
+- Social anxiety disorder
+- Selective mutism
+- Agoraphobia
+- Specific phobias
 - Post-traumatic stress disorder (PTSD)
 - Acute stress disorder
-- Panic disorder
-- Phobias
-- Generalized anxiety disorder
-- Adjustment disorder
-- Separation anxiety disorder
 - Obsessive-compulsive disorder (OCD)
-- Body dysmorphic disorder
+	- Body dysmorphic disorder
 
 ### Dissociative Disorder
 
