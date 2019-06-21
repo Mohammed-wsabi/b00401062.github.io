@@ -96,3 +96,9 @@
 |Urate transporter inhibitors|Probenecid|Gout :: chronic|
 |Urate oxidase [Uricase]|Rasburicase|Gout :: chronic|
 ||Pegloticase|Gout :: chronic|
+
+## Pathogens of Osteomyelitis
+
+- Staphylococcus aureus
+- Neisseria gonorrhoea
+- Pseudomonas aeruginosa
