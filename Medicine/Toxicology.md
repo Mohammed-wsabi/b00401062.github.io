@@ -15,7 +15,7 @@
 |-|-|-|
 |GABA-A agonists|Alcohol|Depressant|
 |μ-opioid agonists|Heroin|Depressant|
-|Adenosine antagonists|Caffeine|Stimulant|
+|A antagonists|Caffeine|Stimulant|
 |N<sub>N</sub> [Ganglionic] agonists|Nicotine|Stimulant|
 |NE release inducers|Amphetamine|Stimulant|
 |NE reuptake inhibitors|Cocaine|Stimulant|
