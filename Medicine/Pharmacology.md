@@ -238,8 +238,8 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|D<sub>2</sub> agonists|Bromocriptine|Prolactinoma & Parkinson|
-||Cabergoline|Prolactinoma|
+|D<sub>2</sub> agonists|Bromocriptine|Parkinson & Prolactinoma|
+||Cabergoline|Parkinson & Prolactinoma|
 ||Pramipexole|Parkinson|
 ||Ropinirole|Parkinson|
 |D<sub>2</sub> antagonists|Metoclopramide|Emesis|
