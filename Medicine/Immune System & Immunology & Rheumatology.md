@@ -48,7 +48,7 @@
 
 ## Functions of Complements & Cytokines
 
-|Component|Functions|
+|Molecule|Functions|
 |-|-|
 |C3a ~ C5a|Anaphylaxis|
 |C5a|Chemotaxis|
@@ -62,22 +62,18 @@
 |IL-6|Acute-phase protein production|
 |IL-8|Chemotaxis|
 
-## Cytokine Secretion & Interactions
-
-![](../Figures/Cytokine%20Secretion%20&%20Interactions.png)
-
 ## Cytokine Secretion
 
 |Mechanism|Cell|Cytokines|
 |-|-|-|
 |General|Neutrophil|-|
-|Cellular :: adaptive|Th1 cell|IL-2 & IL-3 & IL-12 & TNF-α & IFN-γ|
-||Tc cell|IL-2 & IL-3 & TNF-α|
-|Cellular :: innate|Macrophage|IL-1 & IL4 & IL-6 & IL-8 & IL-12 & TNF-α|
+|Cellular :: adaptive|Th1 cell|IL-2 & IL-3 & IFN-γ|
+||Tc cell|IL-2 & IL-3|
+|Cellular :: innate|Macrophage|IL-1 & IL-6 & IL-8 & IL-12 & TNF-α|
 ||NK cell|IL-2 & TNF-α & IFN-γ|
 |Humoral :: adaptive|Th2 cell|IL-2 & IL-3 & IL-4 & IL-5 & IL-6 & IL-10|
-||B cell|-|
-|Humoral :: innate|Basophil|IL-4 & IL-5|
+||B cell|IL-1|
+|Humoral :: innate|Basophil|IL-4|
 ||Eosinophil|-|
 
 ## Cytokine Interactions
@@ -85,13 +81,13 @@
 |Mechanism|Cell|Inducers|Inhibitors|
 |-|-|-|-|
 |General|Neutrophil|IL-1 & IL-6 & IL-8|IL-10 & TGF-β|
-|Cellular :: adaptive|Th1 cell|IL-2 & IL-12|IL-4 & IL-10|
+|Cellular :: adaptive|Th1 cell|IL-2 & IL-12 & IFN-γ|IL-4 & IL-10|
 ||Tc cell|IL-2 & IL-12|-|
 |Cellular :: innate|Macrophage|IFN-γ|-|
 ||NK cell|IL-2 & IL-12 & IFN-γ|-|
 |Humoral :: adaptive|Th2 cell|IL-2 & IL-4|IFN-γ|
 ||B cell|IL-3 & IL-4 & IL-5 & IL-6|-|
-|Humoral :: innate|Basophil|IL-3 & IL-5|-|
+|Humoral :: innate|Basophil|IL-4|-|
 ||Eosinophil|IL-5|-|
 
 ## Cell Surface Proteins
