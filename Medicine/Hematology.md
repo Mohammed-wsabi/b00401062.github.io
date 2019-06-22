@@ -52,10 +52,6 @@
 |Everything|Eosinophil|3%|
 |Better|Basophil|1%|
 
-## Coagulation Pathway
-
-![](../Figures/Coagulation%20Pathway.png)
-
 ## Myeloproliferative Disorders
 
 |Tumors|Genetics|RBC|WBC|PLT|
@@ -258,6 +254,10 @@
 - Karyotyping
 - Genotyping
 
+## Coagulation Pathway
+
+![](../Figures/Coagulation%20Pathway.png)
+
 ## Etiology of Hypocoagulability
 
 |Etiology|Mechanism|PLT|BT|PT|PTT|
@@ -281,32 +281,6 @@
 |Prothrombin gene mutation|↑ Factor 2|
 |Antithrombin deficiency|↓ Antithrombin|
 |Protein C/S deficiency|↓ Protein C/S|
-
-## Etiology of Disseminated Intravascular Coagulation (DIC)
-
-|Mnemonic|Cause|
-|-|-|
-|S|Sepsis :: GNB|
-|T|Trauma|
-|O|Obstetric complications|
-|P|Pancreatitis :: acute|
-|Making|Malignancy|
-|New|Nephrotic symdrome|
-|Thrombi|Transfusion|
-
-## Pentad of Thrombotic Thrombocytopenic Purpura (TTP)
-
-- Renal symptoms
-- Anemia
-- Thrombocytopenia
-- Neurologic symptoms
-- Fever
-
-## Triad of Hemolytic Uremic Syndrome (HUS) {RAT}
-
-- Renal symptoms
-- Anemia
-- Thrombocytopenia
 
 ## Mechanisms of Action of Antiplatelets
 
@@ -362,6 +336,41 @@
 |Monitor|PTT|-|
 |Side Effect|HIT & Osteoporosis|-|
 |Antidote|Protamine sulfate|-|
+
+## Goal INR
+
+|Condition|Goal|
+|-|-|
+|Venous thromboembolism (VTE)|2.0 ~ 3.0|
+|Atrial fibrillation|2.0 ~ 3.0|
+|Bioprosthetic valve|2.0 ~ 3.0|
+|Mechanical valve|2.5 ~ 3.5|
+
+## Etiology of Disseminated Intravascular Coagulation (DIC)
+
+|Mnemonic|Cause|
+|-|-|
+|S|Sepsis :: GNB|
+|T|Trauma|
+|O|Obstetric complications|
+|P|Pancreatitis :: acute|
+|Making|Malignancy|
+|New|Nephrotic symdrome|
+|Thrombi|Transfusion|
+
+## Pentad of Thrombotic Thrombocytopenic Purpura (TTP)
+
+- Renal symptoms
+- Anemia
+- Thrombocytopenia
+- Neurologic symptoms
+- Fever
+
+## Triad of Hemolytic Uremic Syndrome (HUS) {RAT}
+
+- Renal symptoms
+- Anemia
+- Thrombocytopenia
 
 ## Treatment of Thrombotic Thrombocytopenic Purpura (TTP)
 
