@@ -57,28 +57,28 @@
 
 ## Light Criteria for Pleural Fluid (PF)
 
-|PF|PF ÷ Serum Protein Ratio|PF ÷ Serum LDH Ratio|PF LDH|
+|PF|PF ÷ Serum Protein|PF ÷ Serum LDH|PF LDH|
 |-|-|-|-|
 |Transudate|< 0.5|< 0.6|< 2/3 Serum LDH upper limit|
 |Exudate|> 0.5|> 0.6|> 2/3 Serum LDH upper limit|
 
 ## Classification of Asthma Severity
 
-|Asthma|Attacks|Awakenings|SABA Uses|Activity Limitation|FEV<sub>1</sub>|FEV<sub>1</sub>/FVC|
+|Asthma|Attacks|Awakenings|SABA Uses|FEV<sub>1</sub>|FEV<sub>1</sub>/FVC|
 |-|-|-|-|-|-|-|
-|Intermittent|< 2 days/week|≤ 2/month|≤2 days/week|None|Normal|Normal|
-|Mild persistent|2 ~ 7 days/week|3 ~ 4/month|2 ~ 7 days/week|Minor|> 80%|Normal|
-|Moderate persistent|Daily|> 1/week|Daily|Some|60 ~ 80%|↓ < 5%|
-|Severe persistent|Throughout|Daily|Throughout|Extreme|< 60%|↓ > 5%|
+|Intermittent|< 2 days/week|≤ 2/month|≤ 2 days/week|> 80%|Normal|
+|Mild persistent|2 ~ 7 days/week|3 ~ 4/month|2 ~ 7 days/week|> 80%|Normal|
+|Moderate persistent|Daily|> 1/week|Daily|60 ~ 80%|↓ < 0.05|
+|Severe persistent|Throughout|Daily|Throughout|< 60%|↓ > 0.05|
 
 ## GOLD Staging of Chronic Obstructive Pulmonary Disease (COPD)
 
-|Stage|Severity|FEV<sub>1</sub> (% Predicted)|
+|Stage|Severity|FEV<sub>1</sub>|
 |-|-|-|
-|1|Mild|> 80|
-|2|Moderate|50 ~ 80|
-|3|Severe|30 ~ 50|
-|4|Very severe|< 30|
+|1|Mild|> 80%|
+|2|Moderate|50 ~ 80%|
+|3|Severe|30 ~ 50%|
+|4|Very severe|< 30%|
 
 ## Treatment of Asthma
 
