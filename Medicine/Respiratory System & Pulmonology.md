@@ -23,27 +23,6 @@
 
 ![](../Figures/Perfusion%20and%20Diffusion%20Limited%20Pulmonary%20Circulation.png)
 
-## Etiology of Hypoxemia
-
-- A-a gradient :: normal
-	- V/Q ratio :: normal
-		- **Altitude sickness**
-	- V/Q ratio :: mismatch
-		- **Neuromuscular diseases**
-		- **Airway obstruction**
-		- **Obstructive lung diseases**
-		- **Restrictive lung diseases** :: extrinsic
-		- **Metabolic alkalosis**
-- A-a gradient :: high
-	- V/Q ratio :: normal
-		- **Pulmonary consolidation**
-		- **Restrictive lung diseases** :: intrinsic
-		- **Right-to-left shunt**
-	- V/Q ratio :: mismatch
-		- **Pulmonary consolidation**
-		- **Pulmonary embolism**
-		- **Hepatopulmonary syndrome**
-
 ## Etiology of Kussmaul Breathing {KUSSMAUL}
 
 - Ketoacidosis
