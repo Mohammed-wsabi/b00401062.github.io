@@ -79,24 +79,6 @@
 |Walking|DVT & PE|> 5|
 |Wonder|Drugs|-|
 
-## Ventilator Modes
-
-|Sequence|Control|Trigger|Mode|
-|-|-|-|-|
-|Continuous mandatory|Presure (PC) / Volume (VC)|Time|Assist-control ventilation (ACV)|
-|Intermittent mandatory|Presure (PC) / Volume (VC)|Time & Patient|Synchronized intermittent mandatory ventilation (SIMV)|
-|Continuous spontaneous|-|Patient|Pressure support ventilation (PSV)|
-
-## Ventilation Weaning Parameters
-
-|Parameter|Normal Adult Range|Weaning Threshold|
-|-|-|-|
-|Respiratory Rate (RR)|14 ~ 18|< 40|
-|Tidal Volume (V<sub>T</sub>)|5 ~ 7 mL/kg|5 mL/kg|
-|Rapid shallow breathing index (RSBI) = RR ÷ V<sub>T</sub>|< 50/min/L|< 105/min/L|
-|PF Ratio = PaO<sub>2</sub> ÷ FiO<sub>2</sub>|> 400|> 200|
-|Max Inspiratory Pressure|< -90 cm H<sub>2</sub>O|< -25 cm H<sub>2</sub>O|
-
 ## Surgical Wound Classification
 
 |Wound|Flora|Spillage|Inflammation|Pus|
