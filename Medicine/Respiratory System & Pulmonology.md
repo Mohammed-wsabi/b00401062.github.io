@@ -23,6 +23,31 @@
 
 ![](../Figures/Perfusion%20and%20Diffusion%20Limited%20Pulmonary%20Circulation.png)
 
+## Ventilation/Perfusion (V/Q) Ratio
+
+|Ratio|Conditions|
+|-|-|
+|0|Shunt|
+|Low|Lung base|
+|High|Lung apex|
+|∞|Dead space|
+
+## Shunt
+
+- Anatomic shunts
+	- Intracardiac shunts
+	- Pulmonary arteriovenous malformation (AVM)
+	- Hepatopulmonary syndrome
+- Physiologic shunts
+	- Atelectasis
+	- Pneumonia
+	- Acute respiratory distress syndrome (ARDS)
+
+## Dead Space
+
+- Pulmonary embolism
+- Pulmonary vascular diseases
+
 ## Etiology of Kussmaul Breathing {KUSSMAUL}
 
 - Ketoacidosis
