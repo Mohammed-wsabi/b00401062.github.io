@@ -347,24 +347,14 @@
 
 ## Etiology of Hypoxemia
 
-- A-a gradient :: normal
-	- V/Q ratio :: normal
-		- **Altitude sickness**
-	- V/Q ratio :: mismatch
-		- **Neuromuscular diseases**
-		- **Airway obstruction**
-		- **Obstructive lung diseases**
-		- **Restrictive lung diseases** :: extrinsic
-		- **Metabolic alkalosis**
-- A-a gradient :: high
-	- V/Q ratio :: normal
-		- **Pulmonary consolidation**
-		- **Restrictive lung diseases** :: intrinsic
-		- **Right-to-left shunt**
-	- V/Q ratio :: mismatch
-		- **Pulmonary consolidation**
-		- **Pulmonary embolism**
-		- **Hepatopulmonary syndrome**
+- PaCO<sub>2</sub> :: normal
+	- A-a gradient :: normal [**Low FiO<sub>2</sub>**]
+	- A-a gradient :: high
+		- O<sub>2</sub> :: uncorrectable [**Shunt**]
+		- O<sub>2</sub> :: correctable
+			- V/Q :: normal [**Diffusion limitation**]
+			- V/Q :: mismatch [**Dead space**]
+- PaCO<sub>2</sub> :: high [**Hypoventilation**]
 
 ## Workup of Acid-Base Disturbances
 
