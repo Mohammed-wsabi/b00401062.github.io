@@ -142,3 +142,12 @@
 - Age > 65 y/o
 - Antibiotics within 3 months
 - Commorbid
+
+## Respiratory Failure
+
+|Type|PaO<sub>2</sub>|PaCO<sub>2</sub>|A-a Gradient|Etiology|
+|-|-|-|-|-|
+|1|↓|-|↑|V/Q mismatch|
+|2|↓|↑|-|Hypoventilation|
+|3|↓|↑|↑|Mixed|
+|4|↓|↑|-|Sepsis|
