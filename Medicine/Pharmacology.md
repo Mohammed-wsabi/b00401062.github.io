@@ -428,7 +428,7 @@
 
 ## Mechanisms of Action of Antimicrobials and Antineoplastics
 
-|Mechanism|Targets|Species|
+|Mechanism|Target|Species|
 |-|-|-|
 |Cell wall inhibitors|Peptidoglycan|Bacterium|
 ||Mycolate|Mycobacterium|
@@ -444,103 +444,103 @@
 
 ### Cell Wall Inhibitors
 
-|Medication|Mechanism|Targets|Species|
+|Mechanism|Target|Medication|Species|
 |-|-|-|-|
-|Penicillin|↓ Peptidoglycan crosslinking|Penicillin binding protein|Bacterium|
-|Cephalosporin|↓ Peptidoglycan crosslinking|Penicillin binding protein|Bacterium|
-|Monobactam|↓ Peptidoglycan crosslinking|Penicillin binding protein|Bacterium|
-|Carbapenem|↓ Peptidoglycan crosslinking|Penicillin binding protein|Bacterium|
-|Glycopeptide|↓ Peptidoglycan synthesis|Peptidoglycan|Bacterium|
-|Isoniazid|↓ Mycolate synthesis|-|Mycobacterium|
-|Ethambutol|↓ Arabinogalactan synthesis|Arabinosyl transferase|Mycobacterium|
-|Echinocandin|↓ β-glucan synthesis|-|Fungus|
+|↓ Peptidoglycan crosslinking|Penicillin binding protein|Penicillin|Bacterium|
+|||Cephalosporin|Bacterium|
+|||Monobactam|Bacterium|
+|||Carbapenem|Bacterium|
+|↓ Peptidoglycan synthesis|Peptidoglycan|Glycopeptide|Bacterium|
+|↓ Mycolate synthesis|Enoyl-ACP reductase|Isoniazid|Mycobacterium|
+|↓ Arabinogalactan synthesis|Arabinosyl transferase|Ethambutol|Mycobacterium|
+|↓ β-glucan synthesis|Glucan synthase|Echinocandin|Fungus|
 
 ### Cell Membrane Inhibitors
 
-|Medication|Mechanism|Targets|Species|
+|Mechanism|Target|Medication|Species|
 |-|-|-|-|
-|Daptomycin|↑ Cell membrane damage|-|Bacterium|
-|Polymyxin|↑ Cell membrane damage|-|Bacterium|
-|Amphotericin B|↑ Cell membrane damage|Ergosterol|Fungus|
-|Nystatin|↑ Cell membrane damage|Ergosterol|Fungus|
-|Terbinafine|↓ Ergosterol synthesis|Squalene epoxidase|Fungus|
-|Azoles|↓ Ergosterol synthesis|Demethylase|Fungus|
+|↑ Cell membrane damage|-|Daptomycin|Bacterium|
+||-|Polymyxin|Bacterium|
+||Ergosterol|Amphotericin B|Fungus|
+|||Nystatin|Fungus|
+|↓ Ergosterol synthesis|Squalene epoxidase|Terbinafine|Fungus|
+||Demethylase|Azoles|Fungus|
 
 ### Metabolite Inhibitors
 
-|Medication|Mechanism|Targets|Species|
+|Mechanism|Target|Medication|Species|
 |-|-|-|-|
-|Ribavirin|↓ Purine synthesis|IMP dehydrogenase|Virus|
-|Mycophenolate|↓ Purine synthesis|IMP dehydrogenase|Human|
-|Thiopurines|↓ Purine synthesis|-|Human|
-|Leflunomide|↓ Pyrimidine synthesis|Dihydroorotate dehydrogenase|Human|
-|Flucytosine|↓ Pyrimidine synthesis|Thymidylate synthase|Fungus|
-|Fluorouracil|↓ Pyrimidine synthesis|Thymidylate synthase|Human|
-|Hydroxyurea|↓ Purine & Pyrimidine synthesis|Ribonucleotide reductase|Human|
-|Sulfonamide|↓ Folate synthesis|Dihydropteroate synthase|Bacterium|
-|Trimethoprim|↓ Folate synthesis|Dihydrofolate reductase|Bacterium|
-|Pyrimethamine|↓ Folate synthesis|Dihydrofolate reductase|Protozoa|
-|Methotrexate|↓ Folate synthesis|Dihydrofolate reductase|Human|
+|↓ Purine synthesis|IMP dehydrogenase|Ribavirin|Virus|
+|||Mycophenolate|Human|
+||-|Thiopurines|Human|
+|↓ Pyrimidine synthesis|Dihydroorotate dehydrogenase|Leflunomide|Human|
+|||Flucytosine|Fungus|
+|||Fluorouracil|Human|
+|↓ Purine & Pyrimidine synthesis|Ribonucleotide reductase|Hydroxyurea|Human|
+|↓ Folate synthesis|Dihydropteroate synthase|Sulfonamide|Bacterium|
+||Dihydrofolate reductase|Trimethoprim|Bacterium|
+|||Pyrimethamine|Protozoa|
+|||Methotrexate|Human|
 
 ### DNA Inhibitors
 
-|Medication|Mechanism|Targets|Species|
+|Mechanism|Target|Medication|Species|
 |-|-|-|-|
-|NRTI|↓ DNA synthesis|Reverse transcriptase|Virus|
-|NNRTI|↓ DNA synthesis|Reverse transcriptase|Virus|
-|Acyclovir|↓ DNA synthesis|DNA polymerase|Virus|
-|Famciclovir|↓ DNA synthesis|DNA polymerase|Virus|
-|Ganciclovir|↓ DNA synthesis|DNA polymerase|Virus|
-|Cidofovir|↓ DNA synthesis|DNA polymerase|Virus|
-|Foscarnet|↓ DNA synthesis|DNA polymerase|Virus|
-|Cytarabine|↓ DNA synthesis|DNA polymerase|Human|
-|Fluoroquinolone|↓ DNA synthesis|Topoisomerase|Bacterium|
-|Camptothecins [-Tecans]|↓ DNA synthesis|Topoisomerase 1|Human|
-|Podophyllotoxins [-Posides]|↓ DNA synthesis|Topoisomerase 2|Human|
-|Azacitidine|↓ DNA methylation|DNA methyltransferase|Human|
-|Decitabine|↓ DNA methylation|DNA methyltransferase|Human|
-|Metronidazole|↑ DNA intercalation|DNA|Bacterium|
-|Streptomycin|↑ DNA intercalation|DNA|Mycobacterium|
-|Anthracyclines [-Rubicins]|↑ DNA intercalation|DNA|Human|
-|Bleomycin|↑ DNA intercalation|DNA|Human|
-|Busulfan|↑ DNA crosslinking|DNA|Human|
-|Cyclophosphamide|↑ DNA crosslinking|DNA|Human|
-|Nitrosourea|↑ DNA crosslinking|DNA|Human|
-|Platinums [-Platins]|↑ DNA crosslinking|DNA|Human|
+|↓ DNA synthesis|Reverse transcriptase|NRTI|Virus|
+|||NNRTI|Virus|
+||DNA polymerase|Acyclovir|Virus|
+|||Famciclovir|Virus|
+|||Ganciclovir|Virus|
+|||Cidofovir|Virus|
+|||Foscarnet|Virus|
+|||Cytarabine|Human|
+||Topoisomerase|Fluoroquinolone|Bacterium|
+||Topoisomerase 1|Camptothecins [-Tecans]|Human|
+||Topoisomerase 2|Podophyllotoxins [-Posides]|Human|
+|↓ DNA methylation|DNA methyltransferase|Azacitidine|Human|
+|||Decitabine|Human|
+|↑ DNA intercalation|DNA|Metronidazole|Bacterium|
+|||Streptomycin|Mycobacterium|
+|||Anthracyclines [-Rubicins]|Human|
+|||Bleomycin|Human|
+|↑ DNA crosslinking|DNA|Busulfan|Human|
+|||Cyclophosphamide|Human|
+|||Nitrosourea|Human|
+|||Platinums [-Platins]|Human|
 
 ### RNA Inhibitors
 
-|Medication|Mechanism|Targets|Species|
+|Mechanism|Target|Medication|Species|
 |-|-|-|-|
-|Rifampin|↓ RNA synthesis|RNA polymerase|Mycobacterium|
-|Dactinomycin|↓ RNA synthesis|RNA polymerase|Human|
-|α-Amanitin|↓ RNA synthesis|RNA polymerase|Human|
+|↓ RNA synthesis|RNA polymerase|Rifampin|Mycobacterium|
+|||Dactinomycin|Human|
+|||α-Amanitin|Human|
 
 ### Microtubule Inhibitors
 
-|Medication|Mechanism|Targets|Species|
+|Mechanism|Target|Medication|Species|
 |-|-|-|-|
-|Benzimidazole|↓ Microtubule assembly|Microtubule|Parasite|
-|Griseofulvin|↓ Microtubule assembly|Microtubule|Fungus|
-|Colchicine|↓ Microtubule assembly|Microtubule|Human|
-|Vinca alkaloids|↓ Microtubule assembly|Microtubule|Human|
-|Taxanes [-Taxels]|↓ Microtubule disassembly|Microtubule|Human|
+|↓ Microtubule assembly|Microtubule|Benzimidazole|Parasite|
+|||Griseofulvin|Fungus|
+|||Colchicine|Human|
+|||Vinca alkaloids|Human|
+|↓ Microtubule disassembly|Microtubule|Taxanes [-Taxels]|Human|
 
 ### Protein Inhibitors
 
-|Medication|Mechanism|Targets|Species|
+|Mechanism|Target|Medication|Species|
 |-|-|-|-|
-|IFN-α|↓ Protein synthesis|-|Virus|
-|Aminoglycoside|↓ Protein synthesis|30S ribosome :: initiation complex|Bacterium|
-|Linezolid|↓ Protein synthesis|50S ribosome :: initiation complex|Bacterium|
-|Tetracycline|↓ Protein synthesis|30S ribosome :: tRNA binding|Bacterium|
-|Chloramphenicol|↓ Protein synthesis|50S ribosome :: peptidyl transferase|Bacterium|
-|Macrolide|↓ Protein synthesis|50S ribosome :: mRNA translocation|Bacterium|
-|Clindamycin|↓ Protein synthesis|50S ribosome :: mRNA translocation|Bacterium|
-|Diphtheria toxin|↓ Protein synthesis|Elongation factor (EF-2)|Human|
-|Exotoxin A|↓ Protein synthesis|Elongation factor (EF-2)|Human|
-|Shiga toxin|↓ Protein synthesis|60S ribosome|Human|
-|Shiga-like toxin|↓ Protein synthesis|60S ribosome|Human|
+|↓ Protein synthesis|-|IFN-α|Virus|
+||30S ribosome :: initiation complex|Aminoglycoside|Bacterium|
+||50S ribosome :: initiation complex|Linezolid|Bacterium|
+||30S ribosome :: tRNA binding|Tetracycline|Bacterium|
+||50S ribosome :: peptidyl transferase|Chloramphenicol|Bacterium|
+||50S ribosome :: mRNA translocation|Macrolide|Bacterium|
+|||Clindamycin|Bacterium|
+||Elongation factor (EF-2)|Diphtheria toxin|Human|
+|||Exotoxin A|Human|
+||60S ribosome|Shiga toxin|Human|
+|||Shiga-like toxin|Human|
 
 ## Mechanisms of Action of Monoclonal Antibodies
 
