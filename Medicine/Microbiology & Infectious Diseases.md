@@ -712,13 +712,13 @@
 
 ## Classification of Leprosy [Hansen Disease]
 
-![](../Figures/Classification%20of%20Leprosy.jpg)
-
 ||Tuberculoid|Lepromatous|
 |-|-|
-|AFS|Paucibacillary|Multibacillary|
+|AFB|Paucibacillary|Multibacillary|
 |Immunity|Cellular|Humoral|
 |Neuropathy|Localized|Generalized|
+
+![](../Figures/Classification%20of%20Leprosy.jpg)
 
 ## Mechanisms of Action of Antibiotics
 
