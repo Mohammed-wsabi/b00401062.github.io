@@ -110,6 +110,17 @@
 - Leukemia
 - Adrenal cancer
 
+## Immunotherapy
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|Anti-CTLA-4|Ipilimumab|Cancer|
+|Anti-PD-1|Nivolumab|Cancer|
+||Pembrolizumab|Cancer|
+|Anti-PD-L1|Atezolizumab|Cancer|
+||Avelumab|Cancer|
+||Durvalumab|Cancer|
+
 ## Side Effects of Antineoplastics
 
 |Side Effect|Antibiotics|
