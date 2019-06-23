@@ -345,6 +345,27 @@
 - Strokes
 - Syncope
 
+## Etiology of Hypoxemia
+
+- A-a gradient :: normal
+	- V/Q ratio :: normal
+		- **Altitude sickness**
+	- V/Q ratio :: mismatch
+		- **Neuromuscular diseases**
+		- **Airway obstruction**
+		- **Obstructive lung diseases**
+		- **Restrictive lung diseases** :: extrinsic
+		- **Metabolic alkalosis**
+- A-a gradient :: high
+	- V/Q ratio :: normal
+		- **Pulmonary consolidation**
+		- **Restrictive lung diseases** :: intrinsic
+		- **Right-to-left shunt**
+	- V/Q ratio :: mismatch
+		- **Pulmonary consolidation**
+		- **Pulmonary embolism**
+		- **Hepatopulmonary syndrome**
+
 ## Workup of Acid-Base Disturbances
 
 |Disturbance|pH|HCO<sub>3</sub>|PaCO<sub>2</sub>|
