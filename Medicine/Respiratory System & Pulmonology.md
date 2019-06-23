@@ -72,7 +72,8 @@
 |Severe persistent|Throughout|Daily|Throughout|Extreme|< 60%|↓ > 5%|
 
 ## GOLD Staging of Chronic Obstructive Pulmonary Disease (COPD)
-|Stage|Severity|FE<sub>1</sub> (% Predicted)|
+
+|Stage|Severity|FEV<sub>1</sub> (% Predicted)|
 |-|-|-|
 |1|Mild|> 80|
 |2|Moderate|50 ~ 80|
