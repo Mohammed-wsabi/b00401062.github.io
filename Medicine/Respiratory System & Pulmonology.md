@@ -72,7 +72,7 @@
 ## Classification of Asthma Severity
 
 |Asthma|Attacks|Awakenings|SABA Uses|FEV<sub>1</sub>|FEV<sub>1</sub>/FVC|
-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|
 |Intermittent|< 2 days/week|≤ 2/month|≤ 2 days/week|> 80%|Normal|
 |Mild persistent|2 ~ 7 days/week|3 ~ 4/month|2 ~ 7 days/week|> 80%|Normal|
 |Moderate persistent|Daily|> 1/week|Daily|60 ~ 80%|↓ < 0.05|
