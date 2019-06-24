@@ -11,7 +11,7 @@
 |HER2 [NEU]|Breast cancer|Tyrosine kinase|
 |RET|MEN 2A & 2B|Tyrosine kinase|
 |C-MYC|Burkitt lymphoma|Transcription factor|
-|L-MYC|Lung cancer|Transcription factor|
+|L-MYC|Small cell lung cancer (SCLC)|Transcription factor|
 |N-MYC|Neuroblastoma|Transcription factor|
 |BCL2|Follicular lymphoma|Anti-apoptotics|
 |RAS|Colon & Lung & Pancreas cancer|GTPase|
