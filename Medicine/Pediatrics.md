@@ -91,9 +91,9 @@
 
 - Vertebral anomalies
 - Anorectal malformation
-- Cardiac anomalies
-- Tracheoesophageal fistula
-- Esophageal atresia
+- Cardiac anomalies :: ventricular septal defect (VSD)
+- Tracheoesophageal fistula (TEF)
+- Esophageal atresia (EA)
 - Renal anomalies
 - Limb anomalies
 
@@ -108,7 +108,7 @@
 
 ## Presentation of DiGeorge Syndrome {CATCH22}
 
-- Cardiac :: truncus arteriosus & tetralogy of Fallot (TOF)
+- Cardiac anomalies :: tetralogy of Fallot (TOF)
 - Abnormal facies
 - Thymic aplasia
 - Cleft palate
