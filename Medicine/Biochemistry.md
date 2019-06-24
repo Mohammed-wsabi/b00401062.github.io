@@ -362,7 +362,7 @@
 |Isoleucine|-|
 |Proline|Collagen|
 |Tryptophan|Niacin & Serotonin & Melatonin|
-|Phenylalanine|Thyroxine & Catecholamine|
+|Phenylalanine|Thyroxine & Catecholamine & Melanin|
 |Tyrosine|Thyroxine & Catecholamine & Melanin|
 |Histidine|Histamine|
 |Arginine|Urea & NO & Creatine|
