@@ -84,6 +84,8 @@
 |Removal|Small molecules|All molecules & Water|
 |Fluids|Dialysate|Replacement fluid|
 
+![](../Figures/Mechanisms%20of%20Dialysis.jpg)
+
 ## Modes of Dialysis
 
 - Peritoneal dialysis (PD)
