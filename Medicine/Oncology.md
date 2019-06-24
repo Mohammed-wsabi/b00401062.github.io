@@ -37,13 +37,14 @@
 |Marker|Tumors|
 |-|-|
 |ALP|Bone metastasis & Seminoma|
-|AFP|Hepatocellular carcinoma & Yolk sac tumor|
-|hCG|Hydatidiform mole & Embryonal carcinoma & Teratoma & Choriocarcinoma|
+|AFP|Hepatocellular carcinoma & Germ cell tumors (GCT)|
+|hCG|Hydatidiform moles & Germ cell tumors (GCT)|
+|CA 15-3|Breast cancer|
 |CA 19-9|Pancreatic adenocarcinoma|
 |CA 125|Ovarian cancer|
 |Calcitonin|Medullary thyroid carcinoma|
 |CEA|Colorectal & Pancreatic cancers|
-|Chromogranin|Neuroendocrine tumors|
+|Chromogranin|Neuroendocrine tumors (NET)|
 |PSA|Prostate cancer|
 |S-100|Melanoma & Schwannoma & Neurofibroma & Histiocytoma|
 
