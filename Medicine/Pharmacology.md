@@ -380,7 +380,7 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |V<sub>2</sub> agonists|Desmopressin|DI|
-|V<sub>2</sub> antagonists|Vaptans|SIADH|
+|V<sub>2</sub> antagonists|-Vaptans|SIADH|
 
 ## Mechanisms of Action of Medications Targeting Oxytocin Receptor
 
