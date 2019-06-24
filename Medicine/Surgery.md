@@ -127,8 +127,9 @@
 ### Blood Supply
 
 - Random
-- Pedicled
-- Free
+- Axial
+	- Pedicled
+	- Free
 
 ### Proximity
 
