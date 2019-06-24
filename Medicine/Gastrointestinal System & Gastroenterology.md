@@ -27,7 +27,7 @@
 
 ## Layers of Abdominal Wall & Spermatic Chord
 
-|Abdominal Wall {PETTIES-CS}|Spermatic Chord {TICE-DS}|
+|Abdominal wall|Spermatic chord|
 |-|-|
 |Parietal peritonium|-|
 |Extraperitoneal fascia|Testis|
