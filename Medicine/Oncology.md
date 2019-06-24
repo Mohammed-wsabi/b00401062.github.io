@@ -104,6 +104,11 @@
 - Genitourinary anomaly
 - Retardation
 
+## Lynch Syndrome
+
+- Hereditary nonpolyposis colorectal cancer (HNPCC)
+- Endometrial cancer
+
 ## Li-Fraumeni Syndrome & SBLA Syndrome {SBLA}
 
 - Sarcoma
