@@ -21,8 +21,12 @@
 |Gene|Tumors|Products|
 |-|-|-|
 |APC|Familial adenomatous polyposis (FAP)|-|
-|BRCA1 & BRCA2|Breast & Ovarian cancer|DNA repair|
+|ATM|Ataxia telangiectasia|DNA repair|
+|BRCA|Breast & Ovarian cancer|DNA repair|
+|ERCC|Xeroderma pigmentosum|DNA repair|
+|FANC|Fanconi anemia|DNA repair|
 |MEN1|MEN 1|-|
+|MLH1 & MSH2|Lynch syndrome|DNA repair|
 |NF1 & NF2|Neurofibromatosis type 1 & 2|RAS activators|
 |P16|Melanoma|CDK inhibitors|
 |P53|Li-Fraumeni syndrome|Transcription factor for P21|
