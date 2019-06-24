@@ -313,5 +313,5 @@
 
 - Fluid restriction
 - Fluids :: hypertonic saline
-- V<sub>2</sub> antagonists: Vaptans
+- V<sub>2</sub> antagonists: -Vaptans
 - Nephrogenic DI-inducing drugs :: Lithium & Demeclocycline
