@@ -92,6 +92,32 @@
 
 ![](../Figures/Wound%20Healing.jpg)
 
+## Types of Suture Materials
+
+- Non-absorbable
+	- Natural
+		- Cotton
+		- Silk
+		- Steel
+	- Synthetic
+		- Nylon
+		- Polypropylene
+		- Polyester
+- Absorbable
+	- Natural
+		- Collagen [Catgut]
+	- Synthetic
+		- Vicryl
+		- Monocryl
+		- Dexon
+		- Polydioxanone (PDS)
+
+## Tissue Reactions to Suture Materials
+
+- Non-absorbable < Absorbable
+- Natural > Synthetic
+- Monofilament < Braided
+
 ## Types of Skin Grafts
 
 ![](../Figures/Skin%20Grafts.jpg)
