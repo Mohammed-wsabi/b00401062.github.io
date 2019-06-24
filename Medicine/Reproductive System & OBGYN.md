@@ -481,6 +481,18 @@
 |GnRH agonists|Leuprolide :: pulsatile|Infertility|
 |hCG agonists|Choriogonadotropin|Infertility|
 
+## Breast Imaging Reporting and Data System (BI-RADS)
+
+|Category|Interpretation|Management|Likelihood of cancer|
+|-|-|-|-|
+|0|Inconclusive|Repeat|-|
+|1|Negative|Routine|0|
+|2|Benign|Routine|0|
+|3|Probably benign|Every 6 months|< 2%|
+|4|Suspicious|Biopsy|2 ~ 95%|
+|5|Highly suggestive|Biopsy|> 95%|
+|6|Biopsy-proven|-|-|
+
 ## Breast Tumors
 
 |Origin|Tumors|Subtype|
