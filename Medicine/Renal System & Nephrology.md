@@ -75,6 +75,22 @@
 - Overload of volume
 - Uremia
 
+## Mechanism of Dialysis
+
+||Dialysis|Ultrafiltration|
+|-|-|-|
+|Transport|Diffusion|Convection|
+|Drive|Concentration gradient|Pressure gradient|
+|Removal|Small molecules|All molecules & Water|
+|Fluids|Dialysate|Replacement fluid|
+
+## Modes of Dialysis
+
+- Peritoneal dialysis (PD)
+- Intermittent hemodialysis (IHD)
+- Sustained low efficiency dialysis (SLED)
+- Continuous renal replacement therapy (CRRT)
+
 ## Presentation of Uremia
 
 - Altered mental status (AMS)
