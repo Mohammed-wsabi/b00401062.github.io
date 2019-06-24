@@ -52,9 +52,9 @@
 
 |Hormone|Precursor|Precursor Site|Enzyme|Enzyme Site|During|
 |-|-|-|-|-|-|
-|Estrone|Androstenedione|Adrenal gland|Aromatase|Adipose cells|Menopause|
+|Estrone|Androstenedione|Adrenal gland|Aromatase|Adipose cells|Post-menopause|
 |Estradiol|Testosterone|Theca cells|Aromatase|Granulosa cells|Non-pregnancy|
-|Estriol|Dehydroepiandrosterone-sulfate (DHEAS)|Fetal adrenal gland|Sulfatase|Placenta|Pregnancy|
+|Estriol|DHEAS|Fetal adrenal gland|Sulfatase|Placenta|Pregnancy|
 
 ## Hormone Change During Pregnancy
 
