@@ -7,7 +7,7 @@
 |BRAF|Melanoma|Serine/Threonine kinase (STK)|
 |BCR-ABL|CML|Tyrosine kinase|
 |C-KIT|Gastrointestinal stromal tumor (GIST)|Tyrosine kinase|
-|EGFR [HER1]|Colon & Lung cancer|Tyrosine kinase|
+|EGFR [HER1]|Colon & Lung adenocarcinoma|Tyrosine kinase|
 |HER2 [NEU]|Breast cancer|Tyrosine kinase|
 |RET|MEN 2A & 2B|Tyrosine kinase|
 |C-MYC|Burkitt lymphoma|Transcription factor|
