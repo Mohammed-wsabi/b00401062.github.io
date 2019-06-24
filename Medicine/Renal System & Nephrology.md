@@ -75,7 +75,7 @@
 - Overload of volume
 - Uremia
 
-## Mechanism of Dialysis
+## Mechanisms of Dialysis
 
 ||Dialysis|Ultrafiltration|
 |-|-|-|
