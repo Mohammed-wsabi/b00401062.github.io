@@ -39,7 +39,7 @@
 
 ## Sex Hormone Production
 
-|Hormones|Female Sites|Male Sites|
+|Hormones|Female|Male|
 |-|-|-|
 |Androstenedione|Adrenal gland|Adrenal gland|
 |Testosterone ← LH|Theca cells|Leydig cells|
