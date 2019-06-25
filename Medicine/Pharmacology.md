@@ -409,7 +409,6 @@
 ||Methylxanthine: Theophylline & Caffeine|Asthma|
 ||Sildenafil & Vardenafil|Impotence & Pulmonary HTN|
 ||Dipyridamole & Cilostazol|Antiplatelet & Vasodilation|
-|PLA inhibitors|Steroids|Inflammation|
 |COX inhibitors|Acetaminophen|Inflammation|
 |COX inhibitors :: NSAIDs|Aspirin|Inflammation|
 ||Ibuprofen|Inflammation|
@@ -425,6 +424,11 @@
 |ALDH inhibitors|Disulfiram|Alcohol cessation|
 |Xanthine oxidase inhibitors|Allopurinol|Gout :: chronic|
 ||Febuxostat|Gout :: chronic|
+|NF-κB inhibitors|Steroids|Immunosuppression|
+|Calcineurin inhibitors|Cyclosporine|Immunosuppression|
+||Tacrolimus|Immunosuppression|
+|mTOR inhibitors|Sirolimus|Immunosuppression|
+||Everolimus|Immunosuppression|
 
 ## Mechanisms of Action of Antimicrobials and Antineoplastics
 
