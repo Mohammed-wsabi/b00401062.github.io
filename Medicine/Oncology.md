@@ -4,17 +4,17 @@
 
 |Gene|Tumors|Products|
 |-|-|-|
+|ABL1|CML|Tyrosine kinase|
+|BCL2|Follicular lymphoma|Anti-apoptotics|
 |BRAF|Melanoma|Serine/Threonine kinase (STK)|
-|BCR-ABL|CML|Tyrosine kinase|
-|C-KIT|Gastrointestinal stromal tumor (GIST)|Tyrosine kinase|
 |EGFR [HER1]|Colon & Lung adenocarcinoma|Tyrosine kinase|
 |HER2 [NEU]|Breast cancer|Tyrosine kinase|
-|RET|MEN 2A & 2B|Tyrosine kinase|
+|C-KIT|Gastrointestinal stromal tumor (GIST)|Tyrosine kinase|
 |C-MYC|Burkitt lymphoma|Transcription factor|
 |L-MYC|Small cell lung cancer (SCLC)|Transcription factor|
 |N-MYC|Neuroblastoma|Transcription factor|
-|BCL2|Follicular lymphoma|Anti-apoptotics|
-|RAS|Colon & Lung & Pancreas cancer|GTPase|
+|KRAS|Colon & Lung & Pancreas cancer|GTPase|
+|RET|MEN 2A & 2B|Tyrosine kinase|
 
 ## Tumor Suppressor Genes
 
