@@ -198,36 +198,42 @@
 
 ## Fractional Excretion (FE)
 
-|Parameter|FE<sub>X</sub> = (U<sub>X</sub> ÷ P<sub>X</sub>) ÷ (U<sub>Cr</sub> ÷ P<sub>Cr</sub>)|
+|Parameter|(U<sub>X</sub> ÷ U<sub>Cr</sub>) ÷ (P<sub>X</sub> ÷ P<sub>Cr</sub>)|
 |-|-|
-|U<sub>X</sub>|Urine concentration of X|
-|P<sub>X</sub>|Plasma concentration of X|
-|U<sub>Cr</sub>|Urine concentration of creatinine|
-|P<sub>Cr</sub>|Plasma concentration of creatinine|
-
-## Cockcroft-Gault Equation of Creatinine Clearance
-
-### Female
-
-|Parameter|(140 – Age) × W ÷ (72 × Cr) × 0.85|
-|-|-|
-|Age|Age (year)|
-|W|Weight (kg)|
-|Cr|Serum creatinine (mg/dL)|
-
-### Male
-
-|Parameter|(140 – Age) × W ÷ (72 × Cr)|
-|-|-|
-|Age|Age (year)|
-|W|Weight (kg)|
-|Cr|Serum creatinine (mg/dL)|
+|U<sub>X</sub>|Urine X|
+|U<sub>Cr</sub>|Urine creatinine|
+|P<sub>X</sub>|Serum X|
+|P<sub>Cr</sub>|Serum creatinine|
 
 ## Trans-tubular Potassium Gradient (TTKG)
 
-|Parameter|TTKG = (U<sub>K</sub> ÷ P<sub>K</sub>) ÷ (U<sub>Osmolality</sub> ÷ P<sub>Osmolality</sub>)|
+|Parameter|(U<sub>K</sub> ÷ U<sub>Osmolality</sub>) ÷ (P<sub>K</sub> ÷ P<sub>Osmolality</sub>)|
 |-|-|
 |U<sub>X</sub>|Urine potassium (mEq/L)|
-|P<sub>X</sub>|Plasma potassium (mEq/L)|
 |U<sub>Osmolality</sub>|Urine osmolality|
-|P<sub>Osmolality</sub>|Plasma osmolality|
+|P<sub>X</sub>|Serum potassium (mEq/L)|
+|P<sub>Osmolality</sub>|Serum osmolality|
+
+## Cockcroft-Gault Equation of Creatinine Clearance
+
+|Parameter|(140 – Age) × W ÷ (72 × Cr) × 0.85 (if female)|
+|-|-|
+|Age|Age (year)|
+|W|Weight (kg)|
+|Cr|Serum creatinine (mg/dL)|
+
+## MDRD Equation of Glomerular Filtration Rate (GFR)
+
+|Parameter|186 × Cr<sup>-1.154</sup> × Age<sup>-0.203</sup> × 1.212 (if black) × 0.742 (if female)|
+|-|-|
+|Age|Age (year)|
+|Cr|Serum creatinine (mg/dL)|
+
+## IgG Index
+
+|Parameter|(CSF<sub>IgG</sub> ÷ CSF<sub>Albumin</sub>) ÷ (P<sub>IgG</sub> ÷ P<sub>Albumin</sub>)|
+|-|-|
+|CSF<sub>IgG</sub>|CSF IgG|
+|CSF<sub>Albumin</sub>|CSF albumin|
+|P<sub>IgG</sub>|Serum IgG|
+|P<sub>Albumin</sub>|Serum albumin|
