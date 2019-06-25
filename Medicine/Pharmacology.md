@@ -480,7 +480,7 @@
 |↓ Pyrimidine synthesis|Dihydroorotate dehydrogenase|Leflunomide|Human|
 ||Thymidylate synthase|Flucytosine|Fungus|
 |||Fluorouracil|Human|
-|↓ Purine & Pyrimidine synthesis|Ribonucleotide reductase|Hydroxyurea|Human|
+|↓ dNTP synthesis|Ribonucleotide reductase|Hydroxyurea|Human|
 |↓ Folate synthesis|Dihydropteroate synthase|Sulfonamide|Bacterium|
 ||Dihydrofolate reductase|Trimethoprim|Bacterium|
 |||Pyrimethamine|Protozoa|
