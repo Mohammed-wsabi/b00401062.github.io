@@ -424,11 +424,6 @@
 |ALDH inhibitors|Disulfiram|Alcohol cessation|
 |Xanthine oxidase inhibitors|Allopurinol|Gout :: chronic|
 ||Febuxostat|Gout :: chronic|
-|NF-κB inhibitors|Steroids|Immunosuppression|
-|Calcineurin inhibitors|Cyclosporine|Immunosuppression|
-||Tacrolimus|Immunosuppression|
-|mTOR inhibitors|Sirolimus|Immunosuppression|
-||Everolimus|Immunosuppression|
 
 ## Mechanisms of Action of Antimicrobials and Antineoplastics
 
@@ -546,6 +541,14 @@
 |||Exotoxin A|Human|
 ||60S ribosome|Shiga toxin|Human|
 |||Shiga-like toxin|Human|
+
+### Miscellaneous
+
+|NF-κB inhibitors|Steroids|Immunosuppression|
+|Calcineurin inhibitors|Cyclosporine|Immunosuppression|
+||Tacrolimus|Immunosuppression|
+|mTOR inhibitors|Sirolimus|Immunosuppression|
+||Everolimus|Immunosuppression|
 
 ## Mechanisms of Action of Monoclonal Antibodies
 
