@@ -504,6 +504,13 @@
 	- Right internal mammary artery (RIMA) graft
 - Radial artery graft
 
+## Comparison Between Biosprosthetic and Mechanical Heart Valves
+
+- Mortality: biosprosthetic > mechanical
+- Durability: biosprosthetic < mechanical
+- Bleeding: biosprosthetic < mechanical
+- Thromboembolism: biosprosthetic < mechanical
+
 ## Beck Triad of Cardiac Tamponade
 
 - Hypotension & Pulsus paradoxus
