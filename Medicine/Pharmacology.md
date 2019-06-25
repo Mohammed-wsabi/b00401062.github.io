@@ -471,10 +471,12 @@
 |-|-|-|-|
 |↓ Purine synthesis|IMP dehydrogenase|Ribavirin|Virus|
 |||Mycophenolate|Human|
-||PRPP amidotransferase|Thiopurines|Human|
+||PRPP amidotransferase|Azathioprine|Human|
+|||6-Mercaptopurine (6-MP)|Human|
+|||6-Thioguanine (6-TG)|Human|
 |↓ Pyrimidine synthesis|Dihydroorotate dehydrogenase|Leflunomide|Human|
 ||Thymidylate synthase|Flucytosine|Fungus|
-|||Fluorouracil (5-FU)|Human|
+|||5-Fluorouracil (5-FU)|Human|
 |↓ dNTP synthesis|Ribonucleotide reductase|Hydroxyurea|Human|
 |↓ Folate synthesis|Dihydropteroate synthase|Sulfonamide|Bacterium|
 ||Dihydrofolate reductase|Trimethoprim|Bacterium|
