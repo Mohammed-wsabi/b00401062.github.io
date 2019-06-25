@@ -497,6 +497,7 @@
 |||Ganciclovir|Virus|
 |||Cidofovir|Virus|
 |||Foscarnet|Virus|
+|||Cladribine|Human|
 |||Cytarabine|Human|
 ||Topoisomerase|Fluoroquinolone|Bacterium|
 ||Topoisomerase 1|Camptothecins [-Tecans]|Human|
