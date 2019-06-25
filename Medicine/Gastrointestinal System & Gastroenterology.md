@@ -249,11 +249,17 @@
 
 ## Child-Pugh Score for Cirrhosis {ABATE}
 
-- Ascites
-- Bilirubin
-- Albumin
-- Time prothrombin
-- Encephalopathy
+|Score|1|2|3|
+|-|-|-|-|
+|Ascites|Grade 0|Grade 1 & 2|Grade 3 & 4|
+|Bilirubin|< 2|2 ~ 3|> 3|
+|Albumin|> 3.5|2.8 ~ 3.5|< 2.8|
+|Time :: prothrombin [INR]|< 1.7|1.7 ~ 2.3|> 2.3|
+|Encephalopathy|Grade 0|Grade 1 & 2|Grade 3 & 4|
+
+- Class A: 5 ~ 6
+- Class B: 7 ~ 9
+- Class C: 10 ~ 15
 
 ## Triad of Budd-Chiari Syndrome
 
