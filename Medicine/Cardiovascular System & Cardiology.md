@@ -189,27 +189,6 @@
 - Dobutamine
 - Vasodilators :: Dipyridamole & Adenosine
 
-## Cyanotic Congenital Heart Defects (CHD) {5T-HE}
-
-|CHD|Obligatory Shunt|Cyanosis|
-|-|-|-|
-|Truncus arteriosus|-|Non-differential|
-|Transposition of great artery (TGA)|(ASD / VSD) & PDA|Reverse differential|
-|Tricuspid atresia|ASD & (VSD / PDA)|Non-differential|
-|Tetralogy of Fallot (TOF)|VSD & PDA|Non-differential|
-|Total anomalous pulmonary venous return (TAPVR)|ASD / VSD / PDA|Non-differential|
-|Hypoplastic left heart syndrome (HLHS)|ASD & PDA|Non-differential|
-|Eisenmenger syndrome of ASD|-|Non-differential|
-|Eisenmenger syndrome of VSD|-|Non-differential|
-|Eisenmenger syndrome of PDA|-|Differential|
-
-## Presentation of Tetralogy of Fallot (TOF) {PROV}
-
-- Pulmonary stenosis
-- RV hypertrophy
-- Overriding aorta
-- Ventricular septal defect
-
 ## Atrial Septal Defects (ASD)
 
 |Type|Prevalence|
@@ -224,6 +203,36 @@
 ## Ventricular Septal Defects (VSD)
 
 ![](../Figures/Ventricular%20Septal%20Defects%20(VSD).png)
+
+## Cyanotic Congenital Heart Defects (CHD) {5T-HE}
+
+|Defect|Obligatory Shunt|Cyanosis|
+|-|-|-|
+|Truncus arteriosus|-|Non-differential|
+|Transposition of great artery (TGA)|(ASD / VSD) & PDA|Reverse differential|
+|Tricuspid atresia|ASD & (VSD / PDA)|Non-differential|
+|Tetralogy of Fallot (TOF)|VSD & PDA|Non-differential|
+|Total anomalous pulmonary venous return (TAPVR)|ASD / VSD / PDA|Non-differential|
+|Hypoplastic left heart syndrome (HLHS)|ASD & PDA|Non-differential|
+|Eisenmenger syndrome of ASD|-|Non-differential|
+|Eisenmenger syndrome of VSD|-|Non-differential|
+|Eisenmenger syndrome of PDA|-|Differential|
+
+## PDA-dependent Cyanotic Congenital Heart Defects (CHD)
+
+- Transposition of great artery (TGA)
+- Tetralogy of Fallot (TOF)
+- Hypoplastic left heart syndrome (HLHS)
+- Critical pulmonary stenosis
+- Critical aortic stenosis
+- Critical coarctation of aorta (CoA)
+
+## Presentation of Tetralogy of Fallot (TOF) {PROV}
+
+- Pulmonary stenosis
+- RV hypertrophy
+- Overriding aorta
+- Ventricular septal defect
 
 ## Classification of Shocks
 
