@@ -104,6 +104,7 @@
 |UMP synthase|-|Orotic aciduria|-|
 |Triose kinase|-|-|-|
 |Glyceraldehyde-3-phosphate dehydrogenase (G3PDH)|-|-|-|
+|PRPP amidotransferase|-|-|Thiopurine|
 |IMP dehydrogenase|-|-|Ribavirin & Mycophenolate|
 |Phosphoglycerate kinase (PGK)|-|-|-|
 |Ribonucleotide reductase|-|-|Hydroxyurea|
