@@ -49,7 +49,6 @@
 - Pulmonary embolism
 - Pulmonary vascular diseases
 - Obstructive lung diseases
-- Interstitial lung diseases
 
 ## Etiology of Kussmaul Breathing {KUSSMAUL}
 
