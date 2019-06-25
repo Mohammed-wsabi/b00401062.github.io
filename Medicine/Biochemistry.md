@@ -105,11 +105,11 @@
 |UMP synthase|-|Orotic aciduria|-|
 |Triose kinase|-|-|-|
 |Glyceraldehyde-3-phosphate dehydrogenase (G3PDH)|-|-|-|
-|PRPP amidotransferase|-|-|Thiopurine|
+|PRPP amidotransferase|-|-|Azathioprine & 6-MP & 6-TG|
 |IMP dehydrogenase|-|-|Ribavirin & Mycophenolate|
 |Phosphoglycerate kinase (PGK)|-|-|-|
 |Ribonucleotide reductase|-|-|Hydroxyurea|
-|Thymidylate synthase|-|-|Flucytosine & Fluorouracil (5-FU)|
+|Thymidylate synthase|-|-|Flucytosine & 5-FU|
 |Dihydrofolate reductase|-|-|Trimethoprim & Methotrexate & Pyrimethamine|
 |Phosphoglycerate mutase (PGM)|-|-|-|
 |Dihydrofolate synthase|-|-|-|
