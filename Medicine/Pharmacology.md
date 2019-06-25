@@ -474,7 +474,7 @@
 ||PRPP amidotransferase|Thiopurines|Human|
 |↓ Pyrimidine synthesis|Dihydroorotate dehydrogenase|Leflunomide|Human|
 ||Thymidylate synthase|Flucytosine|Fungus|
-|||Fluorouracil|Human|
+|||Fluorouracil (5-FU)|Human|
 |↓ dNTP synthesis|Ribonucleotide reductase|Hydroxyurea|Human|
 |↓ Folate synthesis|Dihydropteroate synthase|Sulfonamide|Bacterium|
 ||Dihydrofolate reductase|Trimethoprim|Bacterium|
