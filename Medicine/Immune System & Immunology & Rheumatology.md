@@ -370,4 +370,4 @@
 |TNF-α inhibitors|Etanercept|Immunosuppression|
 ||Infliximab|Immunosuppression|
 ||Adalimumab|Immunosuppression|
-|CD20 inhibitors|Retuximab|Immunosuppression|
+|CD20 inhibitors|Rituximab|Immunosuppression|
