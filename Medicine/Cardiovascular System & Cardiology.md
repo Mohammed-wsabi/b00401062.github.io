@@ -6,7 +6,7 @@
 
 ## Heart Development
 
-|Mnemonic|Embryonic Structure|Give Rise To|
+|Mnemonic|Embryonic structure|Gives rise to|
 |-|-|-|
 |Small|Sinus venosus|Smooth part of RA & Coronary sinus|
 |Pump|Primitive atrium|Trabeculated part of RA & LA|
@@ -143,7 +143,7 @@
 |Pulsus paradoxus|Cardiac tamponade & Obstructive lung diseases|
 |Pulsus parvus et tardus|Aortic stenosis|
 |Pulsus alternans|LV systolic dysfunction|
-|Differential cyanosis :: lower limbs|Eisenmenger syndrome|
+|Differential cyanosis :: lower limbs|Eisenmenger syndrome of PDA|
 |Reverse differential cyanosis :: upper limbs|Transposition of great artery (TGA)|
 |Kussmaul sign|Cardiac tamponade & Right heart failure & Restrictive cardiomyopathy|
 
