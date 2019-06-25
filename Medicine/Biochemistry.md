@@ -109,7 +109,7 @@
 |IMP dehydrogenase|-|-|Ribavirin & Mycophenolate|
 |Phosphoglycerate kinase (PGK)|-|-|-|
 |Ribonucleotide reductase|-|-|Hydroxyurea|
-|Thymidylate synthase|-|-|Flucytosine & Fluorouracil|
+|Thymidylate synthase|-|-|Flucytosine & Fluorouracil (5-FU)|
 |Dihydrofolate reductase|-|-|Trimethoprim & Methotrexate & Pyrimethamine|
 |Phosphoglycerate mutase (PGM)|-|-|-|
 |Dihydrofolate synthase|-|-|-|
