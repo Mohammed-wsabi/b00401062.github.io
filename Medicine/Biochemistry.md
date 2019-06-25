@@ -94,6 +94,7 @@
 |Glycerol-3-phosphatase|-|-|-|
 |Glycerol kinase|-|-|-|
 |Aldolase A & B|-|-|-|
+|PRPP synthetase|-|-|-|
 |Dihydroorotate dehydrogenase|-|-|Leflunomide|
 |Glycerol-3-phosphate dehydrogenase|-|-|-|
 |Fructose-1-phosphatase|-|-|-|
