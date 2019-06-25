@@ -557,7 +557,8 @@
 ||Daclizumab|Immunosuppression|
 |TNF-α inhibitors|Infliximab|Immunosuppression|
 ||Adalimumab|Immunosuppression|
-|CD20 inhibitors|Rituximab|Immunosuppression & Non-Hodgkin lymphoma|
+|CD20 inhibitors|Rituximab|Immunosuppression|
+|||Non-Hodgkin lymphoma|
 |EGFR inhibitors|Cetuximab|Colorectal cancer|
 |HER2 inhibitors|Trastuzumab|Breast cancer|
 |VEGF inhibitors|Bevacizumab|Solid tumors|
