@@ -554,7 +554,7 @@
 |TNF-α inhibitors|Infliximab|Immunosuppression|
 ||Adalimumab|Immunosuppression|
 |CD20 inhibitors|Rituximab|Immunosuppression & Non-Hodgkin lymphoma|
-|EGFR inhibitors|Cetuximab|Colon & Lung cancer|
+|EGFR inhibitors|Cetuximab|Colon adenocarcinoma|
 |HER2 inhibitors|Trastuzumab|Breast cancer|
 |VEGF inhibitors|Bevacizumab|Solid tumors|
 ||Ranibizumab|Diabetic retinopathy|
@@ -568,7 +568,7 @@
 |BRAF inhibitors|Vemurafenib|Melanoma|
 |BCR-ABL inhibitors|Imatinib|CML|
 |C-KIT inhibitors|Imatinib|Gastrointestinal stromal tumor (GIST)|
-|EGFR inhibitors|Gefitinib & Erlotinib|Non-small cell lung cancer|
+|EGFR inhibitors|Gefitinib & Erlotinib|Non-small cell lung cancer (NSCLC)|
 |VEGFR inhibitors|Sunitinib & Sorafenib|-|
 
 ## Target Therapy
