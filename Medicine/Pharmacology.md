@@ -435,7 +435,7 @@
 ||β-glucan|Fungus|
 |Cell membrane inhibitors|Ergosterol|Fungus|
 ||Cholesterol|Human|
-|Metabolite inhibitors|Purine & Pyrimidine & Folate|-|
+|Nucleotide inhibitors|Purine & Pyrimidine & Folate|-|
 |DNA inhibitors|DNA|-|
 |RNA inhibitors|RNA|-|
 |Microtubule inhibitors|Microtubule|-|
@@ -465,7 +465,7 @@
 |↓ Ergosterol synthesis|Squalene epoxidase|Terbinafine|Fungus|
 ||Demethylase|Azoles|Fungus|
 
-### Metabolite Inhibitors
+### Nucleotide Inhibitors
 
 |Mechanism|Target|Medication|Species|
 |-|-|-|-|
