@@ -544,6 +544,8 @@
 
 ### Miscellaneous
 
+|Mechanism|Medication|Indications|
+|-|-|-|
 |NF-κB inhibitors|Steroids|Immunosuppression|
 |Calcineurin inhibitors|Cyclosporine|Immunosuppression|
 ||Tacrolimus|Immunosuppression|
