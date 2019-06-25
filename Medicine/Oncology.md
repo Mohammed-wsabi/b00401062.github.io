@@ -2,39 +2,40 @@
 
 ## Oncogenes
 
-|Gene|Tumors|Products|
+|Gene|Products|Tumors|
 |-|-|-|
-|ABL1|CML|Tyrosine kinase|
-|BCL2|Follicular lymphoma|Anti-apoptotics|
-|BRAF|Melanoma|Serine/Threonine kinase (STK)|
-|EGFR [HER1]|Colon & Lung adenocarcinoma|Tyrosine kinase|
-|HER2 [NEU]|Breast cancer|Tyrosine kinase|
-|C-KIT|Gastrointestinal stromal tumor (GIST)|Tyrosine kinase|
-|C-MYC|Burkitt lymphoma|Transcription factor|
-|L-MYC|Small cell lung cancer (SCLC)|Transcription factor|
-|N-MYC|Neuroblastoma|Transcription factor|
-|KRAS|Colon & Lung & Pancreas cancer|GTPase|
-|RET|MEN 2A & 2B|Tyrosine kinase|
+|ABL1|Tyrosine kinase|CML|
+|BCL2|Anti-apoptotics|Follicular lymphoma|
+|BRAF|Serine/Threonine kinase (STK)|Melanoma|
+|EGFR [HER1]|Tyrosine kinase|Non-small cell lung cancer (NSCLC)|
+|||Colorectal cancer|
+|HER2 [NEU]|Tyrosine kinase|Breast cancer|
+|C-KIT|Tyrosine kinase|Gastrointestinal stromal tumor (GIST)|
+|C-MYC|Transcription factor|Burkitt lymphoma|
+|L-MYC|Transcription factor|Small cell lung cancer (SCLC)|
+|N-MYC|Transcription factor|Neuroblastoma|
+|KRAS|GTPase|Lung & Colorectal & Pancreatic cancer|
+|RET|Tyrosine kinase|MEN 2A & 2B|
 
 ## Tumor Suppressor Genes
 
-|Gene|Tumors|Products|
+|Gene|Products|Tumors|
 |-|-|-|
-|APC|Familial adenomatous polyposis (FAP)|-|
-|ATM|Ataxia telangiectasia|DNA repair|
-|BRCA|Breast & Ovarian cancer|DNA repair|
-|ERCC|Xeroderma pigmentosum|DNA repair|
-|FANC|Fanconi anemia|DNA repair|
-|MEN1|MEN 1|-|
-|MLH1 & MSH2|Lynch syndrome|DNA repair|
-|NF1 & NF2|Neurofibromatosis type 1 & 2|RAS activators|
-|P16|Melanoma|CDK inhibitors|
-|P53|Li-Fraumeni syndrome|Transcription factor for P21|
-|PTEN|Breast & Prostate cancer|-|
-|RB|Retinoblastoma & Osteosarcoma|E2F inhibitors|
-|TSC1 & TSC2|Tuberous sclerosis|Hamartin & Tuberlin|
-|VHL|Von Hippel-Lindau disease|HIF inhibitors|
-|WT1 & WT2|Wilms tumor & WAGR syndrome|-|
+|APC|-|Familial adenomatous polyposis (FAP)|
+|ATM|DNA repair|Ataxia telangiectasia|
+|BRCA|DNA repair|Breast & Ovarian cancer|
+|ERCC|DNA repair|Xeroderma pigmentosum|
+|FANC|DNA repair|Fanconi anemia|
+|MEN1|-|MEN 1|
+|MLH1 & MSH2|DNA repair|Lynch syndrome|
+|NF1 & NF2|RAS activators|Neurofibromatosis type 1 & 2|
+|P16|CDK inhibitors|Melanoma|
+|P53|Transcription factor for P21|Li-Fraumeni syndrome|
+|PTEN|-|Breast & Prostate cancer|
+|RB|E2F inhibitors|Retinoblastoma & Osteosarcoma|
+|TSC1 & TSC2|Hamartin & Tuberlin|Tuberous sclerosis|
+|VHL|HIF inhibitors|Von Hippel-Lindau disease|
+|WT1 & WT2|-|Wilms tumor & WAGR syndrome|
 
 ## Tumor Markers
 
