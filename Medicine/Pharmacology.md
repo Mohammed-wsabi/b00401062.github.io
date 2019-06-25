@@ -472,9 +472,9 @@
 |-|-|-|-|
 |↓ Purine synthesis|IMP dehydrogenase|Ribavirin|Virus|
 |||Mycophenolate|Human|
-||-|Thiopurines|Human|
+||PRPP amidotransferase|Thiopurines|Human|
 |↓ Pyrimidine synthesis|Dihydroorotate dehydrogenase|Leflunomide|Human|
-|||Flucytosine|Fungus|
+||Thymidylate synthase|Flucytosine|Fungus|
 |||Fluorouracil|Human|
 |↓ Purine & Pyrimidine synthesis|Ribonucleotide reductase|Hydroxyurea|Human|
 |↓ Folate synthesis|Dihydropteroate synthase|Sulfonamide|Bacterium|
