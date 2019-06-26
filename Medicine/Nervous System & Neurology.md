@@ -439,7 +439,13 @@
 - Parinaud syndrome
 - Posterior communicating artery aneurysm
 - Uncal herniation
-- Wernicke’s encephalopathy
+- Wernicke's encephalopathy
+
+## Classic Triad of Wernicke's Encephalopathy {CAO}
+
+- Confusion
+- Ataxia
+- Ophthalmoplegia
 
 ## CNS & PNS Tumors
 
