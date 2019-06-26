@@ -507,12 +507,6 @@
 |B<sub>12</sub>|Homocystinuria & Megaloblastic anemia & Hypersegmented PMN & Methylmalonic acidemia & Subacute combined degeneration|
 |C|Scurvy|
 
-## Classic Triad of Wernicke's Encephalopathy {CAO}
-
-- Confusion
-- Ataxia
-- Ophthalmoplegia
-
 ## Etiology of Vitamin B<sub>9</sub> Deficiency
 
 - Alcoholism
