@@ -10,7 +10,7 @@
 
 ## Pupillary Reflex
 
-![](../Figures/Pupillary%20Reflex.jpg)
+![](../Figures/Pupillary%20Reflex.png)
 
 ## Conjugate Eye Movements
 
