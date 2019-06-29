@@ -117,6 +117,18 @@
 
 ![](../Figures/Audiogram%20>%20Osteosclerosis.png)
 
+## Tympanometry
+
+|Type|Interpretation|
+|-|-|
+|A|Normal|
+|Ad|Ossicular chain dislocation|
+|As|Tympanosclerosis|
+|B|Perforation|
+|C|Eustachian tube dysfunction|
+
+![](../Figures/Tympanometry.gif)
+
 ## Pathogens of Otitis Media {SHM}
 
 - Streptococcus pneumonia
