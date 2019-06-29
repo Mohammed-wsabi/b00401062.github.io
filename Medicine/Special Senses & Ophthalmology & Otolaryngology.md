@@ -83,6 +83,40 @@
 |Masked AC|△|□|
 |Masked BC|⊏|⊐|
 
+## Examples of Audiogram
+
+### Normal
+
+![](../Figures/Audiogram%20>%20Normal.png)
+
+### Conductive Hearing Loss
+
+![](../Figures/Audiogram%20>%20Conductive%20Hearing%20Loss.png)
+
+### Sensorineural Hearing Loss
+
+![](../Figures/Audiogram%20>%20Sensorineural%20Hearing%20Loss.png)
+
+### Mixed-type Hearing Loss
+
+![](../Figures/Audiogram%20>%20Mixed-type%20Hearing%20Loss.png)
+
+### Noise-induced Hearing Loss
+
+![](../Figures/Audiogram%20>%20Noise-induced%20Hearing%20Loss.png)
+
+### Presbycusis
+
+![](../Figures/Audiogram%20>%20Presbycusis.png)
+
+### Meniere Disease
+
+![](../Figures/Audiogram%20>%20Meniere%20Disease.png)
+
+### Osteosclerosis
+
+![](../Figures/Audiogram%20>%20Osteosclerosis.png)
+
 ## Pathogens of Otitis Media {SHM}
 
 - Streptococcus pneumonia
