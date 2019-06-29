@@ -295,6 +295,16 @@
 
 ![](../Figures/Craniosynostosis.jpg)
 
+## Primary Headaches
+
+||Cluster|Migraine|Tension|
+|-|-|-|-|
+|Sex|Male|Female|-|
+|Laterality|Unilateral|Unilateral / Bilateral|Bilateral|
+|Location|Periorbital|Head|Band|
+|Duration|15 minutes ~ 3 hours|4 hours ~ 3 days|30 minutes ~ 7 days|
+|Triggers|-|+|+|
+
 ## Presentation of Horner Syndrome {MAP}
 
 - Miosis
