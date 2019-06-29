@@ -63,25 +63,37 @@
 - Punctal occlusion
 - Autologous serum tears
 
-## Treatment of Nonallergic Rhinitis (NAR)
-
-- Glucocorticoids :: intranasal
-- Antihistamine :: intranasal
-- 1° antihistamine :: oral
-
 ## Physical Examinations for Hearing Loss
 
 |Hearing Loss|Rinne Test|Weber Test|
 |-|-|-|
-|Normal|Air > Bone|Left = Right|
-|Sensorineural|Air > Bone|Lesion < Normal|
-|Conductive|Air < Bone|Lesion > Normal|
+|Normal|AC > BC|Left = Right|
+|Sensorineural|AC > BC|Lesion < Normal|
+|Conductive|AC < BC|Lesion > Normal|
+
+- Air conduction (AC)
+- Bone conduction (BC)
+
+## Symbols of Audiogram
+
+||Right|Left|
+|-|-|-|
+|Unmasked AC|○|☓|
+|Unmasked BC|<|>|
+|Masked AC|△|□|
+|Masked BC|⊏|⊐|
 
 ## Pathogens of Otitis Media {SHM}
 
 - Streptococcus pneumonia
 - Haemophilus influenzae
 - Moraxella catarrhalis
+
+## Treatment of Nonallergic Rhinitis (NAR)
+
+- Glucocorticoids :: intranasal
+- Antihistamine :: intranasal
+- 1° antihistamine :: oral
 
 ## Pathogens of Tonsillitis
 
