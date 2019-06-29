@@ -20,6 +20,19 @@
 
 ![](../Figures/Vestibulo-ocular%20Reflex.png)
 
+## Etiology of Nystagmus
+
+## Etiology of Ophthalmoplegia
+
+- Cavernous sinus thrombosis
+- Cerebellopontine angle tumor
+- Idiopathic intracranial hypertension (IIH)
+- Multiple sclerosis
+- Parinaud syndrome
+- Posterior communicating artery aneurysm
+- Uncal herniation
+- Wernicke's encephalopathy
+
 ## Mechanisms of Action of Medications for Glaucoma
 
 |Mechanism|Medication|Indications|
