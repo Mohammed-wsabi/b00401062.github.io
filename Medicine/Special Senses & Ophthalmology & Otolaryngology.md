@@ -20,16 +20,25 @@
 
 ![](../Figures/Vestibulo-ocular%20Reflex.png)
 
-## Etiology of Nystagmus
-
-## Etiology of Ophthalmoplegia
+## Etiology of Ophthalmoplegia & Nystagmus
 
 - Cavernous sinus thrombosis
-- Cerebellopontine angle tumor
+- Cerebellopontine angle tumor :: Bruns nystagmus
+- Chiari malformation
+- Epilepsy
 - Idiopathic intracranial hypertension (IIH)
 - Multiple sclerosis
-- Parinaud syndrome
+- Myasthenic syndrome
+- Parinaud syndrome :: convergence-retraction nystagmus
+- Peripheral vestibular nystagmus
+	- Benign paroxysmal positional vertigo (BPPV)
+	- Labyrinthine concussion
+	- Meniere disease
+	- Vestibular neuritis
+	- Vestibular schwannoma
 - Posterior communicating artery aneurysm
+- Stroke
+- Thyroid ophthalmopathy
 - Uncal herniation
 - Wernicke's encephalopathy
 
@@ -56,9 +65,9 @@
 
 ## Treatment of Nonallergic Rhinitis (NAR)
 
-- Intranasal glucocorticoids
-- Intranasal antihistamine
-- Oral 1° antihistamine
+- Glucocorticoids :: intranasal
+- Antihistamine :: intranasal
+- 1° antihistamine :: oral
 
 ## Physical Examinations for Hearing Loss
 
