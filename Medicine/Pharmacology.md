@@ -254,11 +254,11 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |5-HT<sub>1</sub> agonists|Buspirone|Anxiety|
-||Triptans|Migraine|
+||-Triptans|Migraine|
 ||Ergotamine|Migraine|
 |5-HT<sub>2</sub> antagonists|2° Antipsychotics|Psychosis & Bipolar|
 ||Cyproheptadine|Carcinoid & Serotonin syndrome|
-|5-HT<sub>3</sub> antagonists|Setrons|Emesis|
+|5-HT<sub>3</sub> antagonists|-Setrons|Emesis|
 |5-HT<sub>4</sub> agonists|Cisapride|Constipation|
 |5-HT modulators|Trazodone|Depression & Insomnia|
 
