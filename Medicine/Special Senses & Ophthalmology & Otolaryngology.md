@@ -16,6 +16,10 @@
 
 ![](../Figures/Conjugate%20Eye%20Movements.jpg)
 
+## Vestibulo-ocular Reflex
+
+![](../Figures/Vestibulo-ocular%20Reflex.png)
+
 ## Mechanisms of Action of Medications for Glaucoma
 
 |Mechanism|Medication|Indications|
