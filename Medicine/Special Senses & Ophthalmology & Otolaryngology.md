@@ -97,9 +97,9 @@
 
 ![](../Figures/Audiogram%20>%20Sensorineural%20Hearing%20Loss.png)
 
-### Mixed-type Hearing Loss
+### Mixed Hearing Loss
 
-![](../Figures/Audiogram%20>%20Mixed-type%20Hearing%20Loss.png)
+![](../Figures/Audiogram%20>%20Mixed%20Hearing%20Loss.png)
 
 ### Noise-induced Hearing Loss
 
