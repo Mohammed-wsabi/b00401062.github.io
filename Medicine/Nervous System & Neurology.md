@@ -440,17 +440,6 @@
 - Bradykinesia
 - Tardive dyskinesia
 
-## Etiology of Ophthalmoplegia
-
-- Cavernous sinus thrombosis
-- Cerebellopontine angle tumor
-- Idiopathic intracranial hypertension (IIH)
-- Multiple sclerosis
-- Parinaud syndrome
-- Posterior communicating artery aneurysm
-- Uncal herniation
-- Wernicke's encephalopathy
-
 ## Classic Triad of Wernicke's Encephalopathy {CAO}
 
 - Confusion
