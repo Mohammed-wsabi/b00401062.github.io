@@ -8,9 +8,13 @@
 - Descemet's membrane
 - Endothelium
 
-## Oculomotor Circuitry for Horizontal Eye Movements
+## Pupillary Reflex
 
-![](../Figures/Oculomotor%20Circuitry%20for%20Horizontal%20Eye%20Movements.jpg)
+![](../Figures/Pupillary%20Reflex.jpg)
+
+## Conjugate Eye Movements
+
+![](../Figures/Conjugate%20Eye%20Movements.jpg)
 
 ## Mechanisms of Action of Medications for Glaucoma
 
