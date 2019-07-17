@@ -74,6 +74,7 @@ title: Life Code
 
 ## Projects
 
+- [benchmark](Projects/benchmark): Pipeline for deep learning that modularizes the training and teseting process.
 - [bmlab](Projects/bmlab): Pipeline for fMRI analysis to study the default mode network.
 - [calculator](Projects/calculator): Calculator built with postfix algorithm and stacks from scratch.
 - [codechef](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/codechef): Collection of Java programs solving [CodeChef](https://www.codechef.com) problems.
