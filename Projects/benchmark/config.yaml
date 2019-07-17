@@ -1,0 +1,48 @@
+system:
+    device: 0
+data:
+    label:
+        filepath: label.csv
+        x_col: filename
+        y_col: class
+    classes:
+        - cat
+        - dog
+    split_size:
+        training: 0.6
+        validation: 0.2
+        test: 0.2
+model:
+    backbone: ResNet50
+    input_shape:
+        height: 224
+        width: 224
+        depth: 3
+    loss: categorical_crossentropy
+    optimization:
+        optimizer: Adam
+        lr: 0.0001
+    metrics:
+        - accuracy
+fitting:
+    batch_size: 128
+    epochs: 200
+    verbose: 1
+    callbacks:
+        model_checkpoint:
+            filepath: model.h5
+            monitor: val_loss
+            verbose: 1
+            save_best_only: true
+        early_stopping:
+            monitor: val_loss
+            min_delta: 0.0001
+            patience: 20
+            verbose: 1
+            restore_best_weights: true
+        reduce_lr_on_plateau:
+            monitor: val_loss
+            factor: 0.5
+            patience: 5
+            verbose: 1
+            min_lr: 0.00001
