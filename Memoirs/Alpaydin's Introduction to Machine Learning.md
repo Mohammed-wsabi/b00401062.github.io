@@ -47,9 +47,9 @@
 ### Noise
 
 - Noise can result from:
-	- There may be imprecision in recording the input attributes.
-	- There may be errors in labeling the data points.
-	- Some attributes may be hidden or latent in that they may be unobservable.
+	- Imprecision in recording the input attributes.
+	- Errors in labeling the data points.
+	- Hidden or latent attributes that may be unobservable.
 - **Occam's razor**: simpler explanations are more plausible and any unnecessary complexity should be shaved off.
 
 ---
