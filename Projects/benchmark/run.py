@@ -13,6 +13,7 @@ from visualizer import *
 
 if __name__ == "__main__":
 	C = Config.load()
+	os.environ["PYTHONHASHSEED"] = str(C["system"]["seed"])
 	os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
 	os.environ["CUDA_VISIBLE_DEVICES"] = str(C["system"]["device"])
 	data = Set(*DataLoader(

@@ -1,4 +1,5 @@
 system:
+    seed: 0
     device: 0
 data:
     label:

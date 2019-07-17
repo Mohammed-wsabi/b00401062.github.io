@@ -18,15 +18,16 @@ class DataLoader:
 	def load(self):
 		split_size = Set(**self.split_size)
 		training = read_csv(self.label["filepath"])
-		if split_size.test != 0:
-			training, test = train_test_split(
-				training,
-				test_size = split_size.test,
-				stratify = training["class"],
-			)
+		training, test = train_test_split(
+			training,
+			test_size = split_size.test,
+			random_state = 0,
+			stratify = training["class"],
+		) if split_size.test != 0 else (training, None)
 		training, validation = train_test_split(
 			training,
 			test_size = split_size.validation / (1 - split_size.test),
+			random_state = 0,
 			stratify = training["class"],
 		)
 		return self.__augment().flow_from_dataframe(
