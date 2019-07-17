@@ -1,6 +1,5 @@
 # Normative Model for Microstructural Integrity (NMMI)
 
-
 ## Importing Data
 
 - [Constants.py](Constants.py): Define a list of constants including tracts and features.
