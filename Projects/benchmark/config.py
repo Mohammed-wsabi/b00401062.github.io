@@ -3,7 +3,8 @@
 import yaml
 
 class Config:
-	@staticmethod
-	def load():
-		with open("config.yaml", "r") as fd:
+	def __init__(self, filepath):
+		self.filepath = filepath
+	def load(self):
+		with open(self.filepath, "r") as fd:
 			return yaml.safe_load(fd)

@@ -7,11 +7,9 @@ from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
 from utils import *
 
-class DataLoader:
-	def __init__(self, height, width, depth, label, split_size, batch_size):
-		self.height = height
-		self.width = width
-		self.depth = depth
+class Data:
+	def __init__(self, input_shape, label, split_size, batch_size):
+		self.input_shape = input_shape
 		self.label = label
 		self.split_size = split_size
 		self.batch_size = batch_size
@@ -30,20 +28,6 @@ class DataLoader:
 			random_state = 0,
 			stratify = training["class"],
 		)
-		return self.__augment().flow_from_dataframe(
-			dataframe = training,
-			target_size = (self.height, self.width),
-			batch_size = self.batch_size,
-		), ImageDataGenerator().flow_from_dataframe(
-			dataframe = validation,
-			target_size = (self.height, self.width),
-			batch_size = self.batch_size,
-		), ImageDataGenerator().flow_from_dataframe(
-			dataframe = test,
-			target_size = (self.height, self.width),
-			batch_size = self.batch_size,
-		) if split_size.test != 0 else None
-	def __augment(self):
 		return ImageDataGenerator(
 			rotation_range = 90,
 			width_shift_range = 0.2,
@@ -52,4 +36,16 @@ class DataLoader:
 			shear_range = 30,
 			zoom_range = 0.2,
 			horizontal_flip = True,
-		)
+		).flow_from_dataframe(
+			dataframe = training,
+			target_size = self.input_shape[:2],
+			batch_size = self.batch_size,
+		), ImageDataGenerator().flow_from_dataframe(
+			dataframe = validation,
+			target_size = self.input_shape[:2],
+			batch_size = self.batch_size,
+		), ImageDataGenerator().flow_from_dataframe(
+			dataframe = test,
+			target_size = self.input_shape[:2],
+			batch_size = self.batch_size,
+		) if split_size.test != 0 else None
