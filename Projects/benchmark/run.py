@@ -16,14 +16,14 @@ if __name__ == "__main__":
 	os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
 	os.environ["CUDA_VISIBLE_DEVICES"] = str(C["system"]["device"])
 	data = Set(*Data(
-		input_shape = tuple(C["data"]["input_shape"].values()),
+		input_shape = Shape(**C["data"]["input_shape"]),
 		label = C["data"]["label"],
 		split_size = C["data"]["split_size"],
 		batch_size = C["fitting"]["batch_size"],
 	).load())
 	model = Model(
 		name = C["model"]["name"],
-		input_shape = tuple(C["data"]["input_shape"].values()),
+		input_shape = Shape(**C["data"]["input_shape"]),
 		units = len(C["data"]["classes"]),
 		loss = C["model"]["loss"],
 		optimizer = Optimizer(**C["model"]["optimizer"]).load(),

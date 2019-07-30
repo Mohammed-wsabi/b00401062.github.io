@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import cv2
+import tensorflow
 from numpy import array
 from matplotlib.pyplot import *
 from tensorflow.python.keras.backend import gradients
@@ -31,20 +32,23 @@ class Visualizer:
 		savefig("accuracy")
 		close()
 	@staticmethod
-	def cam(model, index, inpath, outpath = "activation"):
+	def cam(model, index, inpath, outpath = "activation.png", alpha = 0.5):
 		i = cv2.imread(inpath)
 		x = cv2.resize(i, tuple(reversed(tuple(map(int, model.input.shape[1:3])))))
 		x = array([x])
 		loss = model.output[0, model.predict(x).argmax()]
 		o = model.get_layer(index = index).output
-		g = gradients(loss, o)[0]
+		with tensorflow.compat.v1.Session() as __:
+			g = gradients(loss, o)[0]
 		o, g = function([model.input], [o, g])([x])
 		o, g = o.squeeze(), g.squeeze()
 		w = g.mean(axis = (0, 1))
 		m = o.dot(w)
 		m = cv2.resize(m, tuple(reversed(i.shape[:2])))
-		imshow(i)
-		imshow(m, alpha = 0.8)
-		axis("off")
-		savefig(outpath, bbox_inches = "tight", pad_inches = 0)
-		close()
+		m = (m - m.min()) / (m.max() - m.min()) * 255
+		m = m.astype("uint8")
+		m = cv2.applyColorMap(m, cv2.COLORMAP_JET)
+		cv2.imwrite(outpath, cv2.addWeighted(i, alpha, m, 1- alpha, 0))
+		cv2.imshow(outpath, cv2.addWeighted(i, alpha, m, 1 - alpha, 0))
+		cv2.waitKey(0)
+		cv2.destroyAllWindows()
