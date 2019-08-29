@@ -38,10 +38,10 @@ public class TRIE {
 		}
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(System.in);
+		Scanner stdin = new Scanner(System.in);
 		Node root = new Node();
-		while (in.hasNextLine())
-			root.add(in.nextLine());
+		while (stdin.hasNextLine())
+			root.add(stdin.nextLine());
 		for (Edge e : root.edges())
 			System.out.printf("%d %d %c\n", e.s, e.t, e.c);
 	}

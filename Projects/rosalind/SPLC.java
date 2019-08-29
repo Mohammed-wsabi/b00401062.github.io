@@ -22,14 +22,14 @@ public class SPLC {
 		put("TGG", 'W'); put("CGG", 'R'); put("AGG", 'R'); put("GGG", 'G');
 	}};
 	public static void main(String args[]) {
-		Scanner in = new Scanner(System.in);
+		Scanner stdin = new Scanner(System.in);
 		String seq = "", intron = null;
 		while (true) {
 			if (!in.hasNext()) {
 				seq = seq.replaceAll(intron, "");
 				break;
 			}
-			String line = in.next();
+			String line = stdin.next();
 			if (line.charAt(0) == '>') {
 				if (intron != null)
 					seq = seq.replaceAll(intron, "");
