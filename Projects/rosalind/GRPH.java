@@ -9,7 +9,7 @@ public class GRPH {
 		return num;
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(System.in);
+		Scanner stdin = new Scanner(System.in);
 		List<String>[][] table = new ArrayList[64][2];
 		String name = null, seq = null;
 		for (int i = 0; i < 64; i++)
@@ -21,7 +21,7 @@ public class GRPH {
 				table[seq2num(seq.substring(seq.length()-3, seq.length()))][0].add(name);
 				break;
 			}
-			String line = in.next();
+			String line = stdin.next();
 			if (line.charAt(0) == '>') {
 				if (name != null) {
 					table[seq2num(seq.substring(0, 3))][1].add(name);

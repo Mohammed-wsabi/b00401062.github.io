@@ -11,10 +11,10 @@ public class MMCH {
 		return x;
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(System.in);
+		Scanner stdin = new Scanner(System.in);
 		String read = "";
-		while (in.hasNext())
-			read += in.next();
+		while (stdin.hasNext())
+			read += stdin.next();
 		final int a = (int) read.chars().filter(A::equals).count();
 		final int c = (int) read.chars().filter(C::equals).count();
 		final int g = (int) read.chars().filter(G::equals).count();

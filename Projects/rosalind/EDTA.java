@@ -35,16 +35,16 @@ public class EDTA {
 		return new String[] { lcs[0].reverse().toString(), lcs[1].reverse().toString() };
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(System.in);
+		Scanner stdin = new Scanner(System.in);
 		String s = "", t = "";
-		String line = in.next();
-		while (in.hasNext()) {
-			if ((line = in.next()).charAt(0) == '>')
+		String line = stdin.next();
+		while (stdin.hasNext()) {
+			if ((line = stdin.next()).charAt(0) == '>')
 				break;
 			s += line;
 		}
-		while (in.hasNext())
-			t += in.next();
+		while (stdin.hasNext())
+			t += stdin.next();
 		String[] lcs = lcs(s, t);
 		Arrays.stream(lcs).forEach(System.out::println);
 	}

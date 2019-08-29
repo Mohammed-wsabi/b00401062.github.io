@@ -45,7 +45,7 @@ public class LCSM {
 		}
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(System.in);
+		Scanner stdin = new Scanner(System.in);
 		Node root = new Node();
 		String name = null, seq = null;
 		while (true) {
@@ -54,7 +54,7 @@ public class LCSM {
 					root.add(name, seq.substring(i));
 				break;
 			}
-			String line = in.next();
+			String line = stdin.next();
 			if (line.charAt(0) == '>') {
 				if (name != null)
 					for (int i = 0; i < seq.length(); i++)

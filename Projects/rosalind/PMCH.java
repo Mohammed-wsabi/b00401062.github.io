@@ -8,11 +8,11 @@ public class PMCH {
 		return i == 0 ? BigInteger.ONE : factorial(i-1).multiply(BigInteger.valueOf(i));
 	}
 	public static void main(String args[]) throws IOException {
-		Scanner in = new Scanner(System.in);
+		Scanner stdin = new Scanner(System.in);
 		in.next();
 		String seq = "";
-		while (in.hasNext())
-			seq += in.next();
+		while (stdin.hasNext())
+			seq += stdin.next();
 		System.out.println(factorial(seq.chars().filter(A::equals).count()).multiply(factorial(seq.chars().filter(G::equals).count())));
 		in.close();
 	}

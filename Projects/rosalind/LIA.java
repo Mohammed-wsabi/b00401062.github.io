@@ -29,8 +29,8 @@ public class LIA {
 		return b;
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(System.in);
-		final int k = in.nextInt(), n = in.nextInt();
+		Scanner stdin = new Scanner(System.in);
+		final int k = stdin.nextInt(), n = stdin.nextInt();
 		double[] x = new double[] { 0, 0, 0, 0, 1, 0, 0, 0, 0 };
 		for (int i = 0; i < k; i++)
 			x = multiply(T, x);

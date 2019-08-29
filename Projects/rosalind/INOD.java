@@ -3,7 +3,7 @@ import java.util.*;
 
 public class INOD {
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(System.in);
-		System.out.println(in.nextInt()-2);
+		Scanner stdin = new Scanner(System.in);
+		System.out.println(stdin.nextInt()-2);
 	}
 }

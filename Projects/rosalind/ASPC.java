@@ -12,8 +12,8 @@ public class ASPC {
 		return c;
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(System.in);
-		final int n = in.nextInt(), k = in.nextInt();
+		Scanner stdin = new Scanner(System.in);
+		final int n = stdin.nextInt(), k = stdin.nextInt();
 		BigInteger sum = BigInteger.ZERO;
 		for (int i = k; i <= n; i++)
 			sum = sum.add(choose(n, i));

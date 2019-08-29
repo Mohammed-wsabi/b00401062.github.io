@@ -3,9 +3,9 @@ import java.util.*;
 
 public class SORT {
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(System.in);
-		List<Integer> s = Arrays.stream(in.nextLine().split(" ")).map(Integer::new).collect(Collectors.toList());
-		List<Integer> t = Arrays.stream(in.nextLine().split(" ")).map(Integer::new).collect(Collectors.toList());
+		Scanner stdin = new Scanner(System.in);
+		List<Integer> s = Arrays.stream(stdin.nextLine().split(" ")).map(Integer::new).collect(Collectors.toList());
+		List<Integer> t = Arrays.stream(stdin.nextLine().split(" ")).map(Integer::new).collect(Collectors.toList());
 		List<int[]> steps = new ArrayList<>();
 		for (int i = 0; i < 10; i++) {
 			if (s.get(i).equals(t.get(i))) continue;

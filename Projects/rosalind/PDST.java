@@ -8,7 +8,7 @@ public class PDST {
         return IntStream.range(0, l).filter(i -> s.charAt(i) != t.charAt(i)).count();
     }
     public static void main(String[] args) throws IOException {
-        final Scanner in = new Scanner(System.in);
+        final Scanner stdin = new Scanner(System.in);
         final List<String> reads = new ArrayList<>();
 		String read = null;
 		while (true) {
@@ -16,7 +16,7 @@ public class PDST {
 				reads.add(read);
 				break;
 			}
-			String line = in.next();
+			String line = stdin.next();
 			if (line.charAt(0) == '>') {
 				if (read != null)
 					reads.add(read);

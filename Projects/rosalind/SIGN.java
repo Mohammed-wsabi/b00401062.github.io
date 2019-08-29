@@ -28,9 +28,9 @@ public class SIGN {
 		s[l] = -s[l];
 	}
 	public static void main(String args[]) {
-		Scanner in = new Scanner(System.in);
+		Scanner stdin = new Scanner(System.in);
 		PrintStream stdout = System.out;
-		final int n = in.nextInt();
+		final int n = stdin.nextInt();
 		stdout.println(factorial(n) * (int) Math.pow(2, n));
 		int[] s = IntStream.rangeClosed(1, n).toArray();
 		do {

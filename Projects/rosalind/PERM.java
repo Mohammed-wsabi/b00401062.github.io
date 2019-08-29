@@ -18,9 +18,9 @@ public class PERM {
 		return true;
 	}
 	public static void main(String args[]) {
-		Scanner in = new Scanner(System.in);
+		Scanner stdin = new Scanner(System.in);
 		PrintStream stdout = System.out;
-		int n = in.nextInt(), N = factorial(n);
+		int n = stdin.nextInt(), N = factorial(n);
 		stdout.println(N);
 		int[] s = IntStream.rangeClosed(1, n).toArray();
 		do {

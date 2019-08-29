@@ -3,7 +3,7 @@ import java.util.*;
 
 public class LONG {
 	public static void main(String args[]) throws IOException {
-		Scanner in = new Scanner(System.in);
+		Scanner stdin = new Scanner(System.in);
 		List<String> reads = new ArrayList<>();
 		String seq = null;
 		while (true) {
@@ -11,7 +11,7 @@ public class LONG {
 				reads.add(seq);
 				break;
 			}
-			String line = in.next();
+			String line = stdin.next();
 			if (line.charAt(0) == '>') {
 				if (seq != null)
 					reads.add(seq);

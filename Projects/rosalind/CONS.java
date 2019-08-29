@@ -8,7 +8,7 @@ public class CONS {
 			table[i]["ACGT".indexOf(seq.charAt(i))]++;
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(System.in);
+		Scanner stdin = new Scanner(System.in);
 		int[][] table = null;
 		String name = null, seq = null;
 		while (true) {
@@ -16,7 +16,7 @@ public class CONS {
 				put(table, seq);
 				break;
 			}
-			String line = in.next();
+			String line = stdin.next();
 			if (line.charAt(0) == '>') {
 				if (seq != null) {
 					if (table == null)

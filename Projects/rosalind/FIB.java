@@ -3,8 +3,8 @@ import java.util.*;
 
 public class FIB {
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(System.in);
-		int n = in.nextInt(), k = in.nextInt();
+		Scanner stdin = new Scanner(System.in);
+		int n = stdin.nextInt(), k = stdin.nextInt();
 		long mature = 0;
 		long[] generation = new long[n];
 		generation[0] = 1;

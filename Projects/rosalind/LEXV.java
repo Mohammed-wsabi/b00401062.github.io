@@ -4,9 +4,9 @@ import java.util.stream.*;
 
 public class LEXV {
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(System.in);
-		List<String> symbols = Arrays.asList(in.nextLine().split(" "));
-		final int n = in.nextInt(), N = symbols.size();
+		Scanner stdin = new Scanner(System.in);
+		List<String> symbols = Arrays.asList(stdin.nextLine().split(" "));
+		final int n = stdin.nextInt(), N = symbols.size();
 		Stack<Integer> stack = new Stack<>();
 		while (true) {
 			if (stack.size() < n) {
