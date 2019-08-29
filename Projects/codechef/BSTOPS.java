@@ -43,12 +43,12 @@ class BSTOPS {
 		return root;
 	}
 	public static void main (String[] args) throws IOException {
-		Scanner in = new Scanner(System.in);
-		int n = in.nextInt();
+		Scanner stdin = new Scanner(System.in);
+		int n = stdin.nextInt();
 		Node root = null;
 		while (n-- > 0) {
-			char c = in.next().charAt(0);
-			int x = in.nextInt();
+			char c = stdin.next().charAt(0);
+			int x = stdin.nextInt();
 			switch (c) {
 			case 'i':
 				root = insert(root, x, 1);

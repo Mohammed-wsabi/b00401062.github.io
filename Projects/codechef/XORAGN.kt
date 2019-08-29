@@ -1,0 +1,20 @@
+import java.io.*
+import java.util.*
+
+internal object XORAGN {
+    @Throws(IOException::class)
+    fun main(args: Array<String>) {
+        val stdin = Scanner(System.`in`)
+        var t = Integer.parseInt(stdin.nextLine())
+        while (t-- > 0) {
+            val n = Integer.parseInt(stdin.nextLine())
+            System.out.println(
+                    Arrays.stream(stdin.nextLine().split(" "))
+                            .mapToInt(???({ Integer.parseInt() }))
+            .map { x -> x * 2 }
+                    .reduce({ x1, x2 -> x1 xor x2 })
+                    .getAsInt()
+            )
+        }
+    }
+}

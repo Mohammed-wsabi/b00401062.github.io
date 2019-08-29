@@ -17,8 +17,8 @@ class CLFIBD {
 		return true;
     }
 	public static void main (String[] args) throws IOException {
-		Scanner in = new Scanner(System.in);
-		int t = in.nextInt();
+		Scanner stdin = new Scanner(System.in);
+		int t = stdin.nextInt();
 		while (t-- > 0) {
     		int[] c = new int[26];
 			in.next().chars().forEach(i -> c[i-'a']++);

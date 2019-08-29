@@ -25,14 +25,14 @@ class H1 {
         }
     }
 	public static void main (String[] args) throws IOException {
-		final Scanner in = new Scanner(System.in);
+		Scanner stdin = new Scanner(System.in);
 		bfs("123456789");
-		int t = Integer.parseInt(in.nextLine());
+		int t = Integer.parseInt(stdin.nextLine());
 		while (t-- > 0) {
-		    in.nextLine();
+		    stdin.nextLine();
 		    String puzzle = "";
 		    for (int i = 0; i < 3; i++)
-		        puzzle += in.nextLine().replaceAll(" ", "");
+		        puzzle += stdin.nextLine().replaceAll(" ", "");
 		    System.out.println(steps.containsKey(puzzle) ? steps.get(puzzle) : new Integer(-1));
 		}
 	}
