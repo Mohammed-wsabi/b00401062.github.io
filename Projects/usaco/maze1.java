@@ -58,15 +58,15 @@ public class maze1 {
 		return visited;
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(new File("maze1.in"));
+		Scanner stdin = new Scanner(new File("maze1.in"));
 		PrintWriter stdout = new PrintWriter(new File("maze1.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		final int w = 2 * in.nextInt() + 1;
-		final int h = 2 * in.nextInt() + 1;
+		final int w = 2 * stdin.nextInt() + 1;
+		final int h = 2 * stdin.nextInt() + 1;
 		in.nextLine();
 		char[][] maze = new char[h][];
 		for (int i = 0; i < h; i++)
-			maze[i] = in.nextLine().toCharArray();
+			maze[i] = stdin.nextLine().toCharArray();
 		List<int[]> entrances = entrances(maze);
 		int[][] visited0 = search(maze, entrances.get(0));
 		int[][] visited1 = search(maze, entrances.get(1));

@@ -35,18 +35,18 @@ public class holstein {
 		return scoop0;
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(new File("holstein.in"));
+		Scanner stdin = new Scanner(new File("holstein.in"));
 		PrintWriter stdout = new PrintWriter(new File("holstein.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		V = in.nextInt();
+		V = stdin.nextInt();
 		int[] needs = new int[V];
 		for (int i = 0; i < V; i++)
-			needs[i] = in.nextInt();
-		G = in.nextInt();
+			needs[i] = stdin.nextInt();
+		G = stdin.nextInt();
 		brands = new int[G][V];
 		for (int i = 0; i < G; i++)
 			for (int j = 0; j < V; j++)
-				brands[i][j] = in.nextInt();
+				brands[i][j] = stdin.nextInt();
 		int[] scoop_min = minScoop(needs, 0);
 		stdout.print(Arrays.stream(scoop_min).sum());
 		for (int i = 0; i < scoop_min.length; i++)

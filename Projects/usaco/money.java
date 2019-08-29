@@ -9,14 +9,14 @@ import java.util.*;
 
 public class money {
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(new File("money.in"));
+		Scanner stdin = new Scanner(new File("money.in"));
 		PrintWriter stdout = new PrintWriter(new File("money.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		int V = in.nextInt();
-		int N = in.nextInt();
+		int V = stdin.nextInt();
+		int N = stdin.nextInt();
 		int[] coins = new int[V];
 		for (int v = 0; v < V; v++)
-			coins[v] = in.nextInt();
+			coins[v] = stdin.nextInt();
 		in.close();
 		int[] counts = new int[N + 1];
 		counts[0] = 1;

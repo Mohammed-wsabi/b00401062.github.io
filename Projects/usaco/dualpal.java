@@ -9,11 +9,11 @@ import java.util.*;
 
 public class dualpal {
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(new File("dualpal.in"));
+		Scanner stdin = new Scanner(new File("dualpal.in"));
 		PrintWriter stdout = new PrintWriter(new File("dualpal.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		int N = in.nextInt();
-		int S = in.nextInt();
+		int N = stdin.nextInt();
+		int S = stdin.nextInt();
 		while (N-- > 0) {
 			boolean flag = true;
 			while (flag) {

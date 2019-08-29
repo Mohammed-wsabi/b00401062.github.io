@@ -20,7 +20,7 @@ public class fracdec {
 		int getQuotient() { return quotient; }
 	}
 	public static void main(String[] args) throws IOException {
-		final Scanner in = new Scanner(new File("fracdec.in"));
+		final Scanner stdin = new Scanner(new File("fracdec.in"));
 		final PrintWriter stdout = new PrintWriter(new File("fracdec.out"));
 		final StringBuffer quotient = new StringBuffer();
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> {
@@ -29,8 +29,8 @@ public class fracdec {
 			stdout.println(quotient.substring(quotient.length() / 76 * 76));
 			stdout.flush();
 		}));
-		final int numerator = in.nextInt();
-		final int denominator = in.nextInt();
+		final int numerator = stdin.nextInt();
+		final int denominator = stdin.nextInt();
 		quotient.append(numerator / denominator);
 		quotient.append('.');
 		int order = 0;

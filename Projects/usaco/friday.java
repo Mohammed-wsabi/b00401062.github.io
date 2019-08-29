@@ -9,11 +9,11 @@ import java.util.*;
 
 public class friday {
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(new File("friday.in"));
+		Scanner stdin = new Scanner(new File("friday.in"));
 		PrintWriter stdout = new PrintWriter(new File("friday.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
 		int[] counter = new int[7];
-		int N = in.nextInt();
+		int N = stdin.nextInt();
 		int dow = 0;
 		for(int year = 1900; year < 1900 + N; year++) {
 			int[] dpw = { 31, 28 + (isLeap(year) ? 1 : 0), 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };

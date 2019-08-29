@@ -22,10 +22,10 @@ public class runround {
 		return true;
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(new File("runround.in"));
+		Scanner stdin = new Scanner(new File("runround.in"));
 		PrintWriter stdout = new PrintWriter(new File("runround.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		int n = in.nextInt();
+		int n = stdin.nextInt();
 		for (n++; !isRunRound(Integer.toString(n)); n++);
 		stdout.println(n);
 	}

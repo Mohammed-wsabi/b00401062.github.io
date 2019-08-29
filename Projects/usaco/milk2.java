@@ -9,14 +9,14 @@ import java.util.*;
 
 public class milk2 {
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(new File("milk2.in"));
+		Scanner stdin = new Scanner(new File("milk2.in"));
 		PrintWriter stdout = new PrintWriter(new File("milk2.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		final int N = in.nextInt();
+		final int N = stdin.nextInt();
 		int[][] farmers = new int[N][2];
 		for (int i = 0; i < N; i++) {
-			farmers[i][0] = in.nextInt();
-			farmers[i][1] = in.nextInt();
+			farmers[i][0] = stdin.nextInt();
+			farmers[i][1] = stdin.nextInt();
 		}
 		Arrays.sort(farmers, Comparator.comparingInt(a -> a[0]));
 		int max_idle = 0, max_work = 0, ts = farmers[0][0], te = farmers[0][1];

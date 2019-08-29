@@ -23,10 +23,10 @@ public class preface {
 		return roman;
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(new File("preface.in"));
+		Scanner stdin = new Scanner(new File("preface.in"));
 		PrintWriter stdout = new PrintWriter(new File("preface.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		int N = in.nextInt();
+		int N = stdin.nextInt();
 		for (int i = 0; i < keys.length; i++)
 			dict.put(keys[i], values[i]);
 		int[] counter = new int[26];

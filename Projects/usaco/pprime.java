@@ -12,11 +12,11 @@ public class pprime {
 	private static int b;
 	private static PrintWriter stdout;
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(new File("pprime.in"));
+		Scanner stdin = new Scanner(new File("pprime.in"));
 		stdout = new PrintWriter(new File("pprime.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		a = in.nextInt();
-		b = in.nextInt();
+		a = stdin.nextInt();
+		b = stdin.nextInt();
 		for (int digits = String.valueOf(a).length(); digits <= String.valueOf(b).length(); digits++)
 			generatePPrime("", digits);
 	}

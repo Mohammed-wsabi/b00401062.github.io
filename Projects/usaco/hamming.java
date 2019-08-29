@@ -13,12 +13,12 @@ public class hamming {
 	private static int D;
 	private static int[][] dist;
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(new File("hamming.in"));
+		Scanner stdin = new Scanner(new File("hamming.in"));
 		PrintWriter stdout = new PrintWriter(new File("hamming.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		N = in.nextInt();
-		B = in.nextInt();
-		D = in.nextInt();
+		N = stdin.nextInt();
+		B = stdin.nextInt();
+		D = stdin.nextInt();
 		dist = new int[1 << B][1 << B];
 		for (int i = 0; i < (1 << B); i++)
 			for (int j = i+1; j < (1 << B); j++)

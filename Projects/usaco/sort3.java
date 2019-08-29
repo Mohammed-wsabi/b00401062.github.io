@@ -9,14 +9,14 @@ import java.util.*;
 
 public class sort3 {
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(new File("sort3.in"));
+		Scanner stdin = new Scanner(new File("sort3.in"));
 		PrintWriter stdout = new PrintWriter(new File("sort3.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		final int n = in.nextInt();
+		final int n = stdin.nextInt();
 		int[] seq = new int[n];
 		int[] sc = new int[4];
 		for (int i = 0; i < n; i++)
-			sc[(seq[i] = in.nextInt())]++;
+			sc[(seq[i] = stdin.nextInt())]++;
 		int s12 = 0, s13 = 0, s21 = 0, s31 = 0, s23 = 0, s32 = 0;
 		for (int i = 0; i < sc[1]; i++){
 			if (seq[i] == 2) s12++;

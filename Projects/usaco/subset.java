@@ -19,10 +19,10 @@ public class subset {
 		return dict[N][sum];
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(new File("subset.in"));
+		Scanner stdin = new Scanner(new File("subset.in"));
 		PrintWriter stdout = new PrintWriter(new File("subset.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		N = in.nextInt();
+		N = stdin.nextInt();
 		final int sum = N * (N + 1) / 2;
 		stdout.println(sum % 2 == 0 ? countSubset(sum / 2) / 2 : 0);
 	}

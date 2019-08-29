@@ -41,13 +41,13 @@ public class wormhole {
 
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(new File("wormhole.in"));
+		Scanner stdin = new Scanner(new File("wormhole.in"));
 		PrintWriter stdout = new PrintWriter(new File("wormhole.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		N = in.nextInt();
+		N = stdin.nextInt();
 		for (int i = 1; i <= N; i++) {
-			X[i] = in.nextInt();
-			Y[i] = in.nextInt();
+			X[i] = stdin.nextInt();
+			Y[i] = stdin.nextInt();
 		}
 		for (int i = 1; i <= N; i++)
 			for (int j = 1; j <= N; j++)

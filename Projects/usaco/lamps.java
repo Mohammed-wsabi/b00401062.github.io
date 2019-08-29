@@ -9,27 +9,27 @@ import java.util.*;
 
 public class lamps {
 	private static boolean[] move1(boolean[] in) {
-		boolean[] out = in.clone();
+		boolean[] out = stdin.clone();
 		for (int i = 0; i < out.length; i++)
 			out[i] = !out[i];
 		return out;
 	}
 	private static boolean[] move2(boolean[] in) {
-		boolean[] out = in.clone();
+		boolean[] out = stdin.clone();
 		for (int i = 0; i < out.length; i++)
 			if (i % 2 == 0)
 				out[i] = !out[i];
 		return out;
 	}
 	private static boolean[] move3(boolean[] in) {
-		boolean[] out = in.clone();
+		boolean[] out = stdin.clone();
 		for (int i = 0; i < out.length; i++)
 			if (i % 2 == 1)
 				out[i] = !out[i];
 		return out;
 	}
 	private static boolean[] move4(boolean[] in) {
-		boolean[] out = in.clone();
+		boolean[] out = stdin.clone();
 		for (int i = 0; i < out.length; i++)
 			if (i % 3 == 0)
 				out[i] = !out[i];
@@ -37,21 +37,21 @@ public class lamps {
 	}
 	private static String bool2str(boolean[] in) {
 		String out = "";
-		for (int i = 0; i < in.length; i++)
+		for (int i = 0; i < stdin.length; i++)
 			out += in[i] ? '1' : '0';
 		return out;
 	}
 	public static void main(String[] args) throws IOException {
-		Scanner in = new Scanner(new File("lamps.in"));
+		Scanner stdin = new Scanner(new File("lamps.in"));
 		PrintWriter stdout = new PrintWriter(new File("lamps.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
-		int N = in.nextInt();
-		int C = in.nextInt();
+		int N = stdin.nextInt();
+		int C = stdin.nextInt();
 		List<Integer> on_set = new ArrayList<>();
 		List<Integer> off_set = new ArrayList<>();
-		for (int num = in.nextInt(); num != -1; num = in.nextInt())
+		for (int num = stdin.nextInt(); num != -1; num = stdin.nextInt())
 			on_set.add(num - 1);
-		for (int num = in.nextInt(); num != -1; num = in.nextInt())
+		for (int num = stdin.nextInt(); num != -1; num = stdin.nextInt())
 			off_set.add(num - 1);
 		boolean[] lights = new boolean[N];
 		Arrays.fill(lights, true);

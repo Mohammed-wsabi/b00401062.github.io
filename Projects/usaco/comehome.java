@@ -25,17 +25,17 @@ public class comehome {
 		int getDist() { return this.dist; }
 	}
 	public static void main(String[] args) throws IOException {
-		final Scanner in = new Scanner(new File("comehome.in"));
+		final Scanner stdin = new Scanner(new File("comehome.in"));
 		final PrintWriter stdout = new PrintWriter(new File("comehome.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
 		Node[] graph = new Node['z'-'A'+1];
 		for (int i = 0; i < graph.length; i++)
 			graph[i] = new Node();
-		final int P = in.nextInt();
+		final int P = stdin.nextInt();
 		for (int i = 0; i < P; i++) {
-			int u = in.next().charAt(0)-'A';
-			int v = in.next().charAt(0)-'A';
-			int w = in.nextInt();
+			int u = stdin.next().charAt(0)-'A';
+			int v = stdin.next().charAt(0)-'A';
+			int w = stdin.nextInt();
 			graph[u].edges.add(new Edge(v, w));
 			graph[v].edges.add(new Edge(u, w));
 		}
