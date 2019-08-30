@@ -77,7 +77,6 @@ title: Life Code
 - [benchmark](Projects/benchmark): Pipeline for deep learning that modularizes the training and teseting process.
 - [calculator](Projects/calculator): Calculator built with postfix algorithm and stacks from scratch.
 - [codechef](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/codechef): Collection of Java programs solving [CodeChef](https://www.codechef.com) problems.
-- [csie](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/csie): Collection of code for CSIE undergraduage assignments.
 - [dlc](Projects/dlc): Pipeline for merchandise detection and classification.
 - [gpa](Projects/gpa): Applet that calculates your average GPA.
 - [leetcode](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/leetcode): Collection of Java programs solving [LeetCode](https://leetcode.com/problemset/all/) problems.
