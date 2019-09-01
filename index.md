@@ -75,17 +75,12 @@ title: Life Code
 ## Projects
 
 - [benchmark](Projects/benchmark): Pipeline for deep learning that modularizes the training and teseting process.
-- [calculator](Projects/calculator): Calculator built with postfix algorithm and stacks from scratch.
 - [codechef](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/codechef): Collection of Java programs solving [CodeChef](https://www.codechef.com) problems.
 - [dlc](Projects/dlc): Pipeline for merchandise detection and classification.
-- [gpa](Projects/gpa): Applet that calculates your average GPA.
 - [leetcode](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/leetcode): Collection of Java programs solving [LeetCode](https://leetcode.com/problemset/all/) problems.
 - [nmmi](Projects/nmmi): Pipeline to create a normative model for microstructural integrity of the white matter tracts.
-- [notebook](Projects/notebook): Place where you can take note of trivial things in your life.
 - [osccm](Projects/osccm): Pipeline for metagenomics analysis to study association between microbiota and cancer.
 - [rosalind](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/rosalind): Collection of Java programs solving [ROSALIND](http://rosalind.info/problems/locations/) problems.
 - [sdp](Projects/sdp): Pipeline to predict schizophrenia development using DSI.
 - [strp](Projects/strp): Pipeline to predict antipsychotic treatment response using DSI.
-- [tabula](Projects/tabula): Conversion of a delimited text file into a beautiful [Bootstrap](http://getbootstrap.com) table.
-- [timer](Projects/timer): Timer that goes off after 25 minutes for USMLE Step 2 CS.
 - [usaco](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/usaco): Collection of Java programs solving [USACO](http://train.usaco.org/usacogate) problems.
