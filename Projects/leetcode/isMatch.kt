@@ -16,7 +16,6 @@ private class Graph(p: String) {
     init {
         var i = 0
         while (i < p.length) {
-            assert(p[i] != '*')
             val t = addNode()
             val s = t - 1
             addEdge(s, t, p[i])
