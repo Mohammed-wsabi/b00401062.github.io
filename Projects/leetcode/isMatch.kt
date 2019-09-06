@@ -36,25 +36,33 @@ private class Graph(p: String) {
         addNode()
         var i = 0
         while (i < p.length) {
-            val t = addNode()
-            val s = t - 1
-            addEdge(s, t, p[i])
-            i++
-            if (i < p.length && p[i] == '*') {
-                addEdge(s, t)
-                addEdge(t, s)
+            if (i < p.lastIndex && p[i + 1] == '*') {
+                val n1 = addNode()
+                val n2 = addNode()
+                val n3 = addNode()
+                val n0 = n1 - 1
+                addEdge(n0, n1)
+                addEdge(n0, n3)
+                addEdge(n1, n2, p[i])
+                addEdge(n2, n1)
+                addEdge(n2, n3)
+                i += 2
+            } else {
+                val n1 = addNode()
+                val n0 = n1 - 1
+                addEdge(n0, n1, p[i])
                 i++
             }
         }
     }
 
     fun match(s: String): Boolean {
-        var set = setOf(0)
+        var set = bfs(setOf(0))
         for (c in s) {
             val tmp = mutableSetOf<Int>()
             for (n in set)
                 for (e in nodes[n].edges)
-                    if (e.w == c || e.w == '.' || e.w == null)
+                    if (e.w == c || e.w == '.')
                         tmp.add(e.t)
             if (tmp.isEmpty())
                 return false
