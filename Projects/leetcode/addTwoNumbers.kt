@@ -1,7 +1,3 @@
-class ListNode(var `val`: Int) {
-    var next: ListNode? = null
-}
-
 private fun carry(l: ListNode) {
     if (l.`val` < 10)
         return
