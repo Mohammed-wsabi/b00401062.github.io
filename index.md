@@ -74,13 +74,13 @@ title: Life Code
 
 ## Projects
 
-- [prototype](Projects/prototype): Pipeline for deep learning that modularizes the training and teseting process.
 - [codechef](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/codechef): Collection of Java programs solving [CodeChef](https://www.codechef.com) problems.
 - [csie](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/csie): Collection of code for CSIE undergraduage assignments.
 - [dlc](Projects/dlc): Pipeline for merchandise detection and classification.
 - [leetcode](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/leetcode): Collection of Java programs solving [LeetCode](https://leetcode.com/problemset/all/) problems.
 - [nmmi](Projects/nmmi): Pipeline to create a normative model for microstructural integrity of the white matter tracts.
 - [osccm](Projects/osccm): Pipeline for metagenomics analysis to study association between microbiota and cancer.
+- [prototype](Projects/prototype): Pipeline for deep learning that modularizes the training and teseting process.
 - [rosalind](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/rosalind): Collection of Java programs solving [ROSALIND](http://rosalind.info/problems/locations/) problems.
 - [sdp](Projects/sdp): Pipeline to predict schizophrenia development using DSI.
 - [strp](Projects/strp): Pipeline to predict antipsychotic treatment response using DSI.
