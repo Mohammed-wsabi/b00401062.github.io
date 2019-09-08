@@ -1,4 +1,4 @@
-# Benchmark for Deep Learning
+# Prototype of Deep Learning Pipeline
 
 ## Script Files
 
@@ -17,5 +17,5 @@
 ```bash
 export PYTHONHASHSEED=0
 export PYTHONPATH=$HOME/Documents/Projects/
-python -B -m benchmark
+python -B -m prototype
 ```
