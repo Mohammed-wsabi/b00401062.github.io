@@ -34,6 +34,6 @@ public class SUBS {
 		Scanner stdin = new Scanner(System.in);
 		String s = stdin.next(), t = stdin.next();
 		Arrays.stream(match(s, t, preprocess(t))).map(x -> x + 1).forEach(System.out::println);
-		in.close();
+		stdin.close();
 	}
 }

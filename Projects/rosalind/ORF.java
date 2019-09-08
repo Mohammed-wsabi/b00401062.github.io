@@ -43,7 +43,7 @@ public class ORF {
 	public static void main(String args[]) throws IOException {
 		Scanner stdin = new Scanner(System.in);
 		PrintStream stdout = System.out;
-		in.next();
+		stdin.next();
 		String seq = "";
 		while (stdin.hasNext())
 			seq += stdin.next();
@@ -54,6 +54,6 @@ public class ORF {
 			orfs.addAll(translate(rev.substring(i)));
 		}
 		orfs.forEach(stdout::println);
-		in.close();
+		stdin.close();
 	}
 }

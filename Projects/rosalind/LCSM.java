@@ -49,7 +49,7 @@ public class LCSM {
 		Node root = new Node();
 		String name = null, seq = null;
 		while (true) {
-			if (!in.hasNext()) {
+			if (!stdin.hasNext()) {
 				for (int i = 0; i < seq.length(); i++)
 					root.add(name, seq.substring(i));
 				break;
@@ -65,6 +65,6 @@ public class LCSM {
 				seq += line;
 		}
 		System.out.println(root.lcs());
-		in.close();
+		stdin.close();
 	}
 }

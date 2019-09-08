@@ -27,6 +27,6 @@ public class MPRT {
 			}
 			urlin.close();
 		}
-		in.close();
+		stdin.close();
 	}
 }

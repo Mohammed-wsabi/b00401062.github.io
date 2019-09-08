@@ -36,6 +36,6 @@ public class SIGN {
 		do {
 			abuse(s, 0);
 		} while (next(s));
-		in.close();
+		stdin.close();
 	}
 }

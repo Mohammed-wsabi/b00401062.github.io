@@ -8,7 +8,7 @@ public class REVP {
 	public static void main(String args[]) {
 		Scanner stdin = new Scanner(System.in);
 		String seq = "";
-		in.next();
+		stdin.next();
 		while (stdin.hasNext())
 			seq += stdin.next();
 		for (int s = 0; s < seq.length()-1; s++)
@@ -16,6 +16,6 @@ public class REVP {
 				for (int i = 1; s >= i && s+i+1 < seq.length() && COMPLEMENT.get(seq.charAt(s-i)) == seq.charAt(s+i+1); i++)
 					if (4 <= 2*i+2 && 2*i+2 <= 12)
 						System.out.println(String.format("%d %d", s-i+1, 2*i+2));
-		in.close();
+		stdin.close();
 	}
 }

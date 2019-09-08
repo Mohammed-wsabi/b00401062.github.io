@@ -18,7 +18,7 @@ public class KMP {
 	public static void main(String[] args) throws IOException {
 		Scanner stdin = new Scanner(System.in);
 		StringBuilder read = new StringBuilder();
-		in.next();
+		stdin.next();
 		while (stdin.hasNext())
 			read.append(stdin.next());
 		Arrays.stream(preprocess(read.toString())).map(x -> x+1).forEach(System.out::println);

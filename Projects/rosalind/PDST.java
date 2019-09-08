@@ -12,7 +12,7 @@ public class PDST {
         final List<String> reads = new ArrayList<>();
 		String read = null;
 		while (true) {
-			if (!in.hasNext()) {
+			if (!stdin.hasNext()) {
 				reads.add(read);
 				break;
 			}

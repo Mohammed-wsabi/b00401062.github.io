@@ -1,5 +1,6 @@
 import java.io.*;
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class PROT {
 	private static final Map<String, Character> CODON = new HashMap<String, Character>() {{
@@ -24,6 +25,6 @@ public class PROT {
 		Scanner stdin = new Scanner(System.in);
 		String seq = stdin.next();
 		System.out.println(Arrays.stream(seq.substring(0, seq.length()-3).split("(?<=\\G...)")).map(CODON::get).map(String::valueOf).collect(Collectors.joining()));
-		in.close();
+		stdin.close();
 	}
 }

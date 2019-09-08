@@ -34,7 +34,7 @@ public class nocows {
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
 		final int N = stdin.nextInt();
 		final int K = stdin.nextInt();
-		in.close();
+		stdin.close();
 		stdout.println(evaluate(N, K));
 	}
 }

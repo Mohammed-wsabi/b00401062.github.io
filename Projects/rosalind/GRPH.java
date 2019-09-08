@@ -16,7 +16,7 @@ public class GRPH {
 			for (int j = 0; j < 2; j++)
 				table[i][j] = new ArrayList<String>();
 		while (true) {
-			if (!in.hasNext()) {
+			if (!stdin.hasNext()) {
 				table[seq2num(seq.substring(0, 3))][1].add(name);
 				table[seq2num(seq.substring(seq.length()-3, seq.length()))][0].add(name);
 				break;
@@ -36,8 +36,8 @@ public class GRPH {
 			if (table[i][0].size() != 0 && table[i][1].size() != 0)
 				for (String s : table[i][0])
 					for (String t : table[i][1])
-						if (s != t)
+						if (!s.equals(t))
 							System.out.println(s + " " + t);
-		in.close();
+		stdin.close();
 	}
 }

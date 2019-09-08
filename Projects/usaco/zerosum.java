@@ -35,7 +35,7 @@ public class zerosum {
 		PrintWriter stdout = new PrintWriter(new File("zerosum.out"));
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
 		N = stdin.nextInt();
-		in.close();
+		stdin.close();
 		recur(2, "1");
 		Collections.sort(exprs);
 		for (String expr : exprs)

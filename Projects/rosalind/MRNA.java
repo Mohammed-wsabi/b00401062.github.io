@@ -11,6 +11,6 @@ public class MRNA {
 		for (int i = 0; i < seq.length(); i++)
 			count = count * TABLE[seq.charAt(i)-'A'] % 1000000;
 		stdout.println(count);
-		in.close();
+		stdin.close();
 	}
 }

@@ -13,6 +13,6 @@ public class FIBD {
 			mature = mature - generation[i-m] + generation[i-1];
 		}
 		System.out.println(mature + generation[n+m-2]);
-		in.close();
+		stdin.close();
 	}
 }

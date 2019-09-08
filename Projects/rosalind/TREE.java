@@ -6,10 +6,10 @@ public class TREE {
 		Scanner stdin = new Scanner(System.in);
 		int n = Integer.parseInt(stdin.nextLine());
 		while (stdin.hasNextLine()) {
-			in.nextLine();
+			stdin.nextLine();
 			n--;
 		}
 		System.out.println(n);
-		in.close();
+		stdin.close();
 	}
 }

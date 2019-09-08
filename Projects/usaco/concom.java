@@ -26,7 +26,7 @@ public class concom {
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
 		final int N = stdin.nextInt();
 		for (int n = 0; n < N; n++)
-			table[in.nextInt()][in.nextInt()] = stdin.nextInt();
+			table[stdin.nextInt()][stdin.nextInt()] = stdin.nextInt();
 		for (int i = 1; i <= MAX; i++) {
 			counts = new int[MAX + 1];
 			visited = new boolean[MAX + 1];

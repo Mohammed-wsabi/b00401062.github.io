@@ -13,6 +13,6 @@ public class FIB {
 			mature += generation[i-1];
 		}
 		System.out.println(mature + generation[n-1]);
-		in.close();
+		stdin.close();
 	}
 }

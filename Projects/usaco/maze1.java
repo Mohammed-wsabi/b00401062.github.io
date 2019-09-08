@@ -63,7 +63,7 @@ public class maze1 {
 		Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
 		final int w = 2 * stdin.nextInt() + 1;
 		final int h = 2 * stdin.nextInt() + 1;
-		in.nextLine();
+		stdin.nextLine();
 		char[][] maze = new char[h][];
 		for (int i = 0; i < h; i++)
 			maze[i] = stdin.nextLine().toCharArray();

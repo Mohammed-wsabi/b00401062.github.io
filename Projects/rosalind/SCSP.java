@@ -26,6 +26,6 @@ public class SCSP {
 	public static void main(String[] args) throws IOException {
 		Scanner stdin = new Scanner(System.in);
 		System.out.println(scs(stdin.next(), stdin.next()));
-		in.close();
+		stdin.close();
 	}
 }

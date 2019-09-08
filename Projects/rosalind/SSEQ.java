@@ -7,7 +7,7 @@ public class SSEQ {
 		List<String> reads = new ArrayList<>();
 		String read = null;
 		while (true) {
-			if (!in.hasNext()) {
+			if (!stdin.hasNext()) {
 				reads.add(read);
 				break;
 			}
@@ -27,6 +27,6 @@ public class SSEQ {
 					System.out.println(++i);
 					break;
 				}
-		in.close();
+		stdin.close();
 	}
 }

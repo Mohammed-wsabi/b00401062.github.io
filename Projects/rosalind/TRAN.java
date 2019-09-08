@@ -7,7 +7,7 @@ public class TRAN {
 		List<String> reads = new ArrayList<>();
 		String read = null;
 		while (true) {
-			if (!in.hasNext()) {
+			if (!stdin.hasNext()) {
 				reads.add(read);
 				break;
 			}
@@ -29,6 +29,6 @@ public class TRAN {
 			else
 				transversions++;
 		System.out.println((double) transitions/transversions);
-		in.close();
+		stdin.close();
 	}
 }

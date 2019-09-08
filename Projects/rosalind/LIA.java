@@ -39,6 +39,6 @@ public class LIA {
 		for (int i = n; i <= N; i++)
 			P += choose(N, i) * Math.pow(p, i) * Math.pow(1-p, N-i);
 		System.out.println(P);
-		in.close();
+		stdin.close();
 	}
 }

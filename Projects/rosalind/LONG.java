@@ -7,7 +7,7 @@ public class LONG {
 		List<String> reads = new ArrayList<>();
 		String seq = null;
 		while (true) {
-			if (!in.hasNext()) {
+			if (!stdin.hasNext()) {
 				reads.add(seq);
 				break;
 			}
@@ -48,6 +48,6 @@ public class LONG {
 			}
 		}
 		System.out.println(genome);
-		in.close();
+		stdin.close();
 	}
 }

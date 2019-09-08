@@ -6,6 +6,6 @@ public class RNA {
 		Scanner stdin = new Scanner(System.in);
 		String seq = stdin.nextLine();
 		System.out.print(seq.replaceAll("T", "U"));
-		in.close();
+		stdin.close();
 	}
 }

@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 class BINIM {
-	private static final Integer ZERO = new Integer((int) '0'), ONE = new Integer((int) '1');
+	private static final Integer ZERO = (int) '0', ONE = (int) '1';
 	private static final String[] PLAYERS = new String[] { "Dee", "Dum" };
 	public static void main (String[] args) throws IOException {
 		Scanner stdin = new Scanner(System.in);

@@ -26,6 +26,6 @@ public class PERM {
 		do {
 			stdout.println(Arrays.stream(s).mapToObj(String::valueOf).collect(Collectors.joining(" ")));
 		} while (next(s));
-		in.close();
+		stdin.close();
 	}
 }

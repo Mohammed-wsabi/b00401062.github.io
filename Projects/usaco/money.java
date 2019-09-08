@@ -17,7 +17,7 @@ public class money {
 		int[] coins = new int[V];
 		for (int v = 0; v < V; v++)
 			coins[v] = stdin.nextInt();
-		in.close();
+		stdin.close();
 		int[] counts = new int[N + 1];
 		counts[0] = 1;
 		for (int v = 0; v < V; v++)

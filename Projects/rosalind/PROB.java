@@ -14,6 +14,6 @@ public class PROB {
 			final double p = stdin.nextDouble();
 			System.out.println(Math.log10(p/2) * (c+g) + Math.log10((1-p)/2) * (a+t));
 		}
-		in.close();
+		stdin.close();
 	}
 }

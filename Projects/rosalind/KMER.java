@@ -10,7 +10,7 @@ public class KMER {
 		Scanner stdin = new Scanner(System.in);
 		String read = "";
 		final int[] counts = new int[256];
-		in.next();
+		stdin.next();
 		while (stdin.hasNext()) {
 			read += stdin.next();
 			for (int i = 0; i < read.length()-3; i++)

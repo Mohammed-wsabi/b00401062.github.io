@@ -12,6 +12,6 @@ public class PRTM {
 	public static void main(String args[]) {
 		Scanner stdin = new Scanner(System.in);
 		System.out.println(stdin.next().chars().mapToObj(x -> (char) x).mapToDouble(AAWT::get).sum());
-		in.close();
+		stdin.close();
 	}
 }

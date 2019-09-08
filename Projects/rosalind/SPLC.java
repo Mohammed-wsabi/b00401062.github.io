@@ -25,7 +25,7 @@ public class SPLC {
 		Scanner stdin = new Scanner(System.in);
 		String seq = "", intron = null;
 		while (true) {
-			if (!in.hasNext()) {
+			if (!stdin.hasNext()) {
 				seq = seq.replaceAll(intron, "");
 				break;
 			}
@@ -41,6 +41,6 @@ public class SPLC {
 				intron += line;
 		}
 		System.out.println(Arrays.stream(seq.substring(0, seq.length()-3).split("(?<=\\G...)")).map(CODON::get).map(String::valueOf).collect(Collectors.joining()));
-		in.close();
+		stdin.close();
 	}
 }

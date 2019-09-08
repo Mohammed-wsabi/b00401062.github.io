@@ -11,7 +11,7 @@ public class CORR {
 		Set<String> reads = new HashSet<>();
 		Map<String, Integer> table = new HashMap<>();
 		while (stdin.hasNext()) {
-			in.next();
+			stdin.next();
 			String read = stdin.next();
 			String revc = new StringBuilder(read).reverse().chars().mapToObj(x -> (char) x).map(COMPLEMENT::get).map(String::valueOf).collect(Collectors.joining());
 			reads.add(read);
@@ -26,6 +26,6 @@ public class CORR {
 						System.out.println(pat + "->" + seq);
 						break;
 					}
-		in.close();
+		stdin.close();
 	}
 }

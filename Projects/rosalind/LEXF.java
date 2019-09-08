@@ -18,7 +18,7 @@ public class LEXF {
 					while ((last = stack.pop()) == N-1);
 					stack.push(last+1);
 				} catch (EmptyStackException e) {
-					in.close();
+					stdin.close();
 					return;
 				}
 			}

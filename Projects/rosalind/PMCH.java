@@ -9,11 +9,11 @@ public class PMCH {
 	}
 	public static void main(String args[]) throws IOException {
 		Scanner stdin = new Scanner(System.in);
-		in.next();
+		stdin.next();
 		String seq = "";
 		while (stdin.hasNext())
 			seq += stdin.next();
 		System.out.println(factorial(seq.chars().filter(A::equals).count()).multiply(factorial(seq.chars().filter(G::equals).count())));
-		in.close();
+		stdin.close();
 	}
 }

@@ -8,6 +8,6 @@ public class IEV {
 		ans += 2 * (stdin.nextInt() + stdin.nextInt() + stdin.nextInt());
 		ans += 1.5 * stdin.nextInt() + stdin.nextInt();
 		System.out.println(ans);
-		in.close();
+		stdin.close();
 	}
 }

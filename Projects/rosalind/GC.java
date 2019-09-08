@@ -10,7 +10,7 @@ public class GC {
 		Map<String, Double> ratios = new HashMap<>();
 		String name = null, seq = null;
 		while (true) {
-			if (!in.hasNext()) {
+			if (!stdin.hasNext()) {
 				ratios.put(name, ratio(seq));
 				break;
 			}
@@ -32,6 +32,6 @@ public class GC {
 		}
 		System.out.println(name);
 		System.out.println(ratio * 100);
-		in.close();
+		stdin.close();
 	}
 }

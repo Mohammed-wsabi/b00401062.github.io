@@ -11,7 +11,7 @@ class SMRSTR {
 			long p = 1;
 			while (n-- > 0 && p <= (int) 1e9)
 				p *= stdin.nextInt();
-			in.nextLine();
+			stdin.nextLine();
 			while (q-- > 0)
 				System.out.printf("%d ", stdin.nextInt() / p);
 			System.out.println();

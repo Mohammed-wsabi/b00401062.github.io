@@ -9,27 +9,27 @@ import java.util.*;
 
 public class lamps {
 	private static boolean[] move1(boolean[] in) {
-		boolean[] out = stdin.clone();
+		boolean[] out = in.clone();
 		for (int i = 0; i < out.length; i++)
 			out[i] = !out[i];
 		return out;
 	}
 	private static boolean[] move2(boolean[] in) {
-		boolean[] out = stdin.clone();
+		boolean[] out = in.clone();
 		for (int i = 0; i < out.length; i++)
 			if (i % 2 == 0)
 				out[i] = !out[i];
 		return out;
 	}
 	private static boolean[] move3(boolean[] in) {
-		boolean[] out = stdin.clone();
+		boolean[] out = in.clone();
 		for (int i = 0; i < out.length; i++)
 			if (i % 2 == 1)
 				out[i] = !out[i];
 		return out;
 	}
 	private static boolean[] move4(boolean[] in) {
-		boolean[] out = stdin.clone();
+		boolean[] out = in.clone();
 		for (int i = 0; i < out.length; i++)
 			if (i % 3 == 0)
 				out[i] = !out[i];
@@ -37,7 +37,7 @@ public class lamps {
 	}
 	private static String bool2str(boolean[] in) {
 		String out = "";
-		for (int i = 0; i < stdin.length; i++)
+		for (int i = 0; i < in.length; i++)
 			out += in[i] ? '1' : '0';
 		return out;
 	}

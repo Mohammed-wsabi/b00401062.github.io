@@ -2,6 +2,7 @@ import java.io.*;
 import java.util.*;
 
 public class EVAL {
+	private static final Integer A = (int) 'A', C = (int) 'C', G = (int) 'G', T = (int) 'T';
 	public static void main(String[] args) throws IOException {
 		Scanner stdin = new Scanner(System.in);
 		final int n = stdin.nextInt();

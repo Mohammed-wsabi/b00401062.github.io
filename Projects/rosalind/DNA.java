@@ -8,6 +8,6 @@ public class DNA {
 		String seq = stdin.nextLine();
 		for (final char base : DNABASES)
 			System.out.println(seq.chars().filter(x -> x == base).count());
-		in.close();
+		stdin.close();
 	}
 }

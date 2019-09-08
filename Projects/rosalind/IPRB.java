@@ -10,6 +10,6 @@ public class IPRB {
 		double pmn = (double) m * n / 2 / all;
 		double pnn = (double) n * (n-1) / 2 / all;
 		System.out.println(1 - pmm - pmn - pnn);
-		in.close();
+		stdin.close();
 	}
 }

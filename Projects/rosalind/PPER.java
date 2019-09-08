@@ -9,6 +9,6 @@ public class PPER {
 		for (int i = n; i > n-k; i--)
 			ans = ans * i % 1000000;
 		System.out.println(ans);
-		in.close();
+		stdin.close();
 	}
 }

@@ -12,7 +12,7 @@ public class CONS {
 		int[][] table = null;
 		String name = null, seq = null;
 		while (true) {
-			if (!in.hasNext()) {
+			if (!stdin.hasNext()) {
 				put(table, seq);
 				break;
 			}
@@ -38,6 +38,6 @@ public class CONS {
 				System.out.print(String.format(" %d", table[i][j]));
 			System.out.println();
 		}
-		in.close();
+		stdin.close();
 	}
 }

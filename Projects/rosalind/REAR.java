@@ -26,8 +26,8 @@ public class REAR {
     public static void main(String[] args) throws IOException {
         Scanner stdin = new Scanner(System.in);
         do {
-            List<Integer> s = Arrays.stream(stdin.nextLine().split(" ")).map(Integer::new).collect(Collectors.toList());
-            List<Integer> t = Arrays.stream(stdin.nextLine().split(" ")).map(Integer::new).collect(Collectors.toList());
+            List<Integer> s = Arrays.stream(stdin.nextLine().split(" ")).map(Integer::parseInt).collect(Collectors.toList());
+            List<Integer> t = Arrays.stream(stdin.nextLine().split(" ")).map(Integer::parseInt).collect(Collectors.toList());
             System.out.println(reversal(s, t));
         } while (stdin.hasNext() && stdin.nextLine().equals(""));
     }

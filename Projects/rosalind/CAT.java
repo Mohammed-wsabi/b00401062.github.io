@@ -27,11 +27,11 @@ public class CAT {
 	}
 	public static void main(String[] args) throws IOException {
 		Scanner stdin = new Scanner(System.in);
-		in.next();
+		stdin.next();
 		String read = "";
 		while (stdin.hasNext())
 			read += stdin.next();
 		System.out.println(catalan(read));
-		in.close();
+		stdin.close();
 	}
 }

@@ -30,6 +30,6 @@ public class LGIS {
 			s[i] = stdin.nextInt();
 		System.out.println(dp(s, 0).stream().map(String::valueOf).collect(Collectors.joining(" ")));
 		System.out.println(dp(s, 1).stream().map(String::valueOf).collect(Collectors.joining(" ")));
-		in.close();
+		stdin.close();
 	}
 }
