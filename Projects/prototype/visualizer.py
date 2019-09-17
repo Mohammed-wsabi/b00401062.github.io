@@ -33,7 +33,7 @@ class Visualizer:
 		savefig("accuracy")
 		close()
 	@staticmethod
-	def cam(model, index, inpath, outpath = "activation.png", alpha = 0.5):
+	def cam(model, index: int, inpath: str, outpath = "activation.png", alpha = 0.5):
 		raw = cv2.imread(inpath)
 		resized = cv2.resize(raw, tuple(model.input.shape[1:3].as_list()))
 		resized = array([resized])
