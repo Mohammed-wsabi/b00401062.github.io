@@ -6,7 +6,7 @@ fun reverseKGroup(head: ListNode?, k: Int): ListNode? {
     root.next = head
     var prv = root
     var ptr = head
-    while(ptr != null) {
+    while (ptr != null) {
         stack.push(ptr)
         ptr = ptr.next
         if (stack.size == k) {
