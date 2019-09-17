@@ -3,9 +3,10 @@
 import cv2
 import tensorflow
 from numpy import array
-from matplotlib.pyplot import *
+from numpy import maximum
 from tensorflow.python.keras.backend import gradients
 from tensorflow.python.keras.backend import function
+from matplotlib.pyplot import *
 
 class Visualizer:
 	def __init__(self, history):
@@ -33,22 +34,23 @@ class Visualizer:
 		close()
 	@staticmethod
 	def cam(model, index, inpath, outpath = "activation.png", alpha = 0.5):
-		i = cv2.imread(inpath)
-		x = cv2.resize(i, tuple(reversed(tuple(map(int, model.input.shape[1:3])))))
-		x = array([x])
-		loss = model.output[0, model.predict(x).argmax()]
-		o = model.get_layer(index = index).output
+		raw = cv2.imread(inpath)
+		resized = cv2.resize(raw, tuple(model.input.shape[1:3].as_list()))
+		resized = array([resized])
+		loss = model.output[0, model.predict(resized).argmax()]
+		feature = model.get_layer(index = index).output
 		with tensorflow.compat.v1.Session() as __:
-			g = gradients(loss, o)[0]
-		o, g = function([model.input], [o, g])([x])
-		o, g = o.squeeze(), g.squeeze()
-		w = g.mean(axis = (0, 1))
-		m = o.dot(w)
-		m = cv2.resize(m, tuple(reversed(i.shape[:2])))
-		m = (m - m.min()) / (m.max() - m.min()) * 255
-		m = m.astype("uint8")
-		m = cv2.applyColorMap(m, cv2.COLORMAP_JET)
-		cv2.imwrite(outpath, cv2.addWeighted(i, alpha, m, 1- alpha, 0))
-		cv2.imshow(outpath, cv2.addWeighted(i, alpha, m, 1 - alpha, 0))
+			gradient = gradients(loss, feature)[0]
+		feature, gradient = function([model.input], [feature, gradient])([resized])
+		feature, gradient = feature.squeeze(), gradient.squeeze()
+		weight = gradient.mean(axis = (0, 1))
+		activation = feature.dot(weight)
+		activation = cv2.resize(activation, tuple(reversed(raw.shape[:2])))
+		activation = maximum(activation, 0)
+		activation = activation / activation.max() * 255
+		activation = activation.astype("uint8")
+		activation = cv2.applyColorMap(activation, cv2.COLORMAP_JET)
+		cv2.imwrite(outpath, cv2.addWeighted(raw, alpha, activation, 1 - alpha, 0))
+		cv2.imshow(outpath, cv2.addWeighted(raw, alpha, activation, 1 - alpha, 0))
 		cv2.waitKey(0)
 		cv2.destroyAllWindows()
