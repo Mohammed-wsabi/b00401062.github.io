@@ -1,7 +1,9 @@
 private fun recur(candidates: IntArray, target: Int): List<List<Int>> {
+    if (target == 0)
+        return listOf(emptyList())
+    else if (candidates.isEmpty())
+        return emptyList()
     val res = mutableListOf<List<Int>>()
-    if (candidates.isEmpty())
-        return res
     for ((i, candidate) in candidates.withIndex()) {
         if (target < candidate)
             break
@@ -9,11 +11,12 @@ private fun recur(candidates: IntArray, target: Int): List<List<Int>> {
             res.add(listOf(candidate))
             break
         }
-        val lst = combinationSum(
-            candidates.sliceArray(i until candidates.size),
-            target - candidate
-        )
-        lst.forEach { res.add(listOf(candidate) + it) }
+        for (n in 1..target/candidate) {
+            combinationSum(
+                candidates.sliceArray(i + 1 until candidates.size),
+                target - candidate * n
+            ).forEach { res.add(List(n) { candidate } + it) }
+        }
     }
     return res
 }
