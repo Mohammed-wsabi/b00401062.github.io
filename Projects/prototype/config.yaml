@@ -2,10 +2,12 @@ system:
     seed: 0
     device: 0
 data:
+    directory:
     label:
         filepath: label.csv
         x_col: filename
         y_col: class
+        class_mode: categorical
     input_shape:
         height: 224
         width: 224
@@ -19,6 +21,7 @@ data:
         test: 0.2
 model:
     name: ResNet50
+    activation: softmax
     loss: categorical_crossentropy
     optimizer:
         name: Adam

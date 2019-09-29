@@ -8,29 +8,33 @@ from prototype.utils import *
 
 
 class Data:
-    def __init__(self, input_shape, label, split_size, batch_size):
-        self.input_shape = input_shape
-        self.label = label
-        self.split_size = split_size
-        self.batch_size = batch_size
+    def __init__(self, C):
+        self.directory = C["data"]["directory"]
+        self.input_shape = Shape(**C["data"]["input_shape"])
+        self.filepath = C["data"]["label"]["filepath"]
+        self.x_col = C["data"]["label"]["x_col"]
+        self.y_col = C["data"]["label"]["y_col"]
+        self.class_mode = C["data"]["label"]["class_mode"]
+        self.split_size = C["data"]["split_size"]
+        self.batch_size = C["fitting"]["batch_size"]
 
     def load(self):
         split_size = Set(**self.split_size)
         training = read_csv(
-            self.label["filepath"],
-            dtype={self.label["x_col"]: str, self.label["y_col"]: str}
+            self.filepath,
+            dtype={self.x_col: str, self.y_col: str}
         )
         training, test = train_test_split(
             training,
             test_size=split_size.test,
             random_state=0,
-            stratify=training[self.label["y_col"]],
+            stratify=training[self.y_col],
         ) if split_size.test != 0 else (training, None)
         training, validation = train_test_split(
             training,
             test_size=split_size.validation / (1 - split_size.test),
             random_state=0,
-            stratify=training[self.label["y_col"]],
+            stratify=training[self.y_col],
         )
         return ImageDataGenerator(
             rotation_range=90,
@@ -42,20 +46,26 @@ class Data:
             horizontal_flip=True,
         ).flow_from_dataframe(
             dataframe=training,
+            directory=self.directory,
             target_size=self.input_shape[:2],
             batch_size=self.batch_size,
-            x_col=self.label["x_col"],
-            y_col=self.label["y_col"],
+            x_col=self.x_col,
+            y_col=self.y_col,
+            class_mode=self.class_mode,
         ), ImageDataGenerator().flow_from_dataframe(
             dataframe=validation,
+            directory=self.directory,
             target_size=self.input_shape[:2],
             batch_size=self.batch_size,
-            x_col=self.label["x_col"],
-            y_col=self.label["y_col"],
+            x_col=self.x_col,
+            y_col=self.y_col,
+            class_mode=self.class_mode,
         ), ImageDataGenerator().flow_from_dataframe(
             dataframe=test,
+            directory=self.directory,
             target_size=self.input_shape[:2],
             batch_size=self.batch_size,
-            x_col=self.label["x_col"],
-            y_col=self.label["y_col"],
+            x_col=self.x_col,
+            y_col=self.y_col,
+            class_mode=self.class_mode,
         ) if split_size.test != 0 else None
