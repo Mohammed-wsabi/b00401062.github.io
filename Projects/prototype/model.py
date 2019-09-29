@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 import tensorflow.keras.applications
-import tensorflow.keras.models.Model
+import tensorflow.keras.models
 from tensorflow.keras.layers import GlobalAveragePooling2D
 from tensorflow.keras.layers import Dense
 
@@ -29,7 +29,7 @@ class Model:
             layer.trainable = False
         output = GlobalAveragePooling2D()(model.output)
         output = Dense(units=self.units, activation="softmax")(output)
-        model = tensorflow.keras.Model(inputs=model.input, outputs=output)
+        model = tensorflow.keras.models.Model(inputs=model.input, outputs=output)
         model.compile(
             loss=self.loss,
             optimizer=self.optimizer,
