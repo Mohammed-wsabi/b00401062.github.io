@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
-import os
-
+from os import environ
 from prototype.config import *
 from prototype.data import *
 from prototype.model import *
@@ -12,9 +11,9 @@ from prototype.visualizer import *
 
 if __name__ == "__main__":
     C = Config("config.yaml").load()
-    os.environ["PYTHONHASHSEED"] = str(C["system"]["seed"])
-    os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
-    os.environ["CUDA_VISIBLE_DEVICES"] = str(C["system"]["device"])
+    environ["PYTHONHASHSEED"] = str(C["system"]["seed"])
+    environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
+    environ["CUDA_VISIBLE_DEVICES"] = str(C["system"]["device"])
     data = Set(*Data(
         input_shape=Shape(**C["data"]["input_shape"]),
         label=C["data"]["label"],

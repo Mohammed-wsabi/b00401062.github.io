@@ -16,7 +16,10 @@ class Data:
 
     def load(self):
         split_size = Set(**self.split_size)
-        training = read_csv(self.label["filepath"])
+        training = read_csv(
+            self.label["filepath"],
+            dtype={self.label["x_col"]: str, self.label["y_col"]: str}
+        )
         training, test = train_test_split(
             training,
             test_size=split_size.test,
