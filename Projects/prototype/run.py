@@ -2,13 +2,13 @@
 
 import os
 
-from config import *
-from data import *
-from model import *
-from optimizer import *
-from callback import *
-from utils import *
-from visualizer import *
+from prototype.config import *
+from prototype.data import *
+from prototype.model import *
+from prototype.optimizer import *
+from prototype.callback import *
+from prototype.utils import *
+from prototype.visualizer import *
 
 if __name__ == "__main__":
     C = Config("config.yaml").load()
