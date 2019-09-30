@@ -20,10 +20,7 @@ class Data:
 
     def load(self):
         split_size = Set(**self.split_size)
-        training = read_csv(
-            self.filepath,
-            dtype={self.x_col: str, self.y_col: str}
-        )
+        training = read_csv(self.filepath, header=0, dtype=str)
         training, test = train_test_split(
             training,
             test_size=split_size.test,
