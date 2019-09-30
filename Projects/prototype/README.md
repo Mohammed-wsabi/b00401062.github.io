@@ -1,8 +1,11 @@
 # Prototype of Deep Learning Pipeline
 
-## Script Files
+## Configuration
 
 - [config.yaml](config.yaml): Configuration file which lists available hyperparameters.
+
+## Script Files
+
 - [config.py](config.py): Loading configuration from [config.yaml](config.yaml).
 - [utils.py](utils.py): Common functions used across the module.
 - [data.py](data.py): Loading preprocessed and augmented images.
