@@ -2,7 +2,7 @@
 
 from os import environ
 
-from prototype.config import *
+from prototype.conf import *
 from prototype.data import *
 from prototype.model import *
 from prototype.callback import *
@@ -10,7 +10,7 @@ from prototype.utils import *
 from prototype.visualizer import *
 
 if __name__ == "__main__":
-    C = Config("config.yaml").load()
+    C = Conf("conf.yaml").load()
     environ["PYTHONHASHSEED"] = str(C["system"]["seed"])
     environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
     environ["CUDA_VISIBLE_DEVICES"] = str(C["system"]["device"])

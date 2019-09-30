@@ -7,8 +7,8 @@ from typing import (Dict, Tuple)
 
 class Callback:
     def __init__(self, C):
-        self.log = C["fitting"]["log"]
-        self.callbacks = C["fitting"]["callback"]
+        self.log_dir = C["fitting"]["log"]["directory"]
+        self.callbacks = C["fitting"]["callbacks"]
 
     def load(self):
         def callback(item: Tuple[str, Dict]):
@@ -16,5 +16,5 @@ class Callback:
             values: Dict = item[1]
             return getattr(tensorflow.keras.callbacks, key)(values)
 
-        tensorboard: TensorBoard = TensorBoard(log_dir=self.log)
+        tensorboard: TensorBoard = TensorBoard(log_dir=self.log_dir)
         return list(map(callback, self.callbacks.items())).append(tensorboard)

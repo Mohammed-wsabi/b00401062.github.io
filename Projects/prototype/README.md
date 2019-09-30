@@ -2,11 +2,11 @@
 
 ## Configuration
 
-- [config.yaml](config.yaml): Configuration file which lists available hyperparameters.
+- [conf.yaml](conf.yaml): Configuration file which lists available hyperparameters.
 
 ## Script Files
 
-- [config.py](config.py): Loading configuration from [config.yaml](config.yaml).
+- [conf.py](conf.py): Loading configuration from [conf.yaml](conf.yaml).
 - [utils.py](utils.py): Common functions used across the module.
 - [data.py](data.py): Loading preprocessed and augmented images.
 - [model.py](model.py): Loading compiled model which is ready for fitting.
