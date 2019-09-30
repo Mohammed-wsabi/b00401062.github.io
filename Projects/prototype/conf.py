@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import yaml
+from yaml import safe_load
 
 
 class Conf:
@@ -9,4 +9,4 @@ class Conf:
 
     def load(self):
         with open(self.filepath, "r") as fd:
-            return yaml.safe_load(fd)
+            return safe_load(fd)
