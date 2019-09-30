@@ -20,7 +20,7 @@ if __name__ == "__main__":
         generator=data.training,
         epochs=C["fitting"]["epochs"],
         verbose=C["fitting"]["verbose"],
-        callbacks=Callback(C["fitting"]["callback"]).load(),
+        callbacks=Callback(C).load(),
         validation_data=data.validation,
     )
     Visualizer(history).show(["loss", "accuracy"])

@@ -2,7 +2,7 @@ system:
     seed: 0
     device: 0
 data:
-    directory:
+    directory: data
     label:
         filepath: label.csv
         x_col: filename
@@ -32,6 +32,7 @@ fitting:
     batch_size: 128
     epochs: 200
     verbose: 1
+    log: log
     callback:
         ModelCheckpoint:
             filepath: model.h5
