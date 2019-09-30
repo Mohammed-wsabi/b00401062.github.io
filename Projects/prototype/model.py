@@ -16,7 +16,7 @@ class Model:
         self.units = len(C["data"]["classes"])
         self.activation = C["model"]["activation"]
         self.loss = C["model"]["loss"]
-        self.optimizer = Optimizer(**C["model"]["optimizer"]).load()
+        self.optimizer = Optimizer(C).load()
         self.metrics = C["model"]["metrics"]
 
     def load(self):
