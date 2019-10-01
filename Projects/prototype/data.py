@@ -15,6 +15,7 @@ class Data:
         self.x_col = C["data"]["label"]["x_col"]
         self.y_col = C["data"]["label"]["y_col"]
         self.class_mode = C["data"]["label"]["class_mode"]
+        self.classes = C["data"]["classes"]
         self.split_size = C["data"]["split_size"]
         self.batch_size = C["data"]["batch_size"]
 
@@ -25,8 +26,8 @@ class Data:
         weights: DataFrame = DataFrame(index=label.index, columns=label.columns[1:])
         for column in weights.columns:
             weights[column] = label[column].map({
-                "0": counts[column][1] * 2 / label.shape[0],
-                "1": counts[column][0] * 2 / label.shape[0]
+                self.classes[0]: counts[column][1] * 2 / label.shape[0],
+                self.classes[1]: counts[column][0] * 2 / label.shape[0]
             })
         label["weight"] = weights.sum(axis=1) / weights.shape[1]
         df: Set = Set(*train_test_split(
