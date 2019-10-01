@@ -77,6 +77,7 @@ title: Life Code
 - [codechef](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/codechef): Collection of Java programs solving [CodeChef](https://www.codechef.com) problems.
 - [dlc](Projects/dlc): Pipeline for merchandise detection and classification.
 - [leetcode](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/leetcode): Collection of Java programs solving [LeetCode](https://leetcode.com/problemset/all/) problems.
+- [ndpi](Projects/ndpi): Utility functions that extract raw images from NDPI files to allow for editing and processing.
 - [nmmi](Projects/nmmi): Pipeline to create a normative model for microstructural integrity of the white matter tracts.
 - [osccm](Projects/osccm): Pipeline for metagenomics analysis to study association between microbiota and cancer.
 - [prototype](Projects/prototype): Pipeline for deep learning that modularizes the training and teseting process.
