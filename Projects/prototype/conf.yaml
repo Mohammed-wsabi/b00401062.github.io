@@ -2,9 +2,11 @@ system:
     seed: 0
     device: 0
 data:
-    directory: data
+    directory:
+        training: data/
+        test: data/
     label:
-        filepath: label.csv
+        filepath: data/label.csv
         x_col: filename
         y_col: class
         class_mode: categorical
@@ -16,8 +18,7 @@ data:
         - cat
         - dog
     split_size:
-        training: 0.6
-        validation: 0.2
+        training: 0.8
         test: 0.2
 model:
     name: ResNet50
@@ -32,11 +33,11 @@ fitting:
     batch_size: 128
     epochs: 200
     verbose: 1
-    log:
-        directory: logs
     callbacks:
+        TensorBoard:
+            log_dir: logs/
         ModelCheckpoint:
-            filepath: model.h5
+            filepath: models/model.h5
             monitor: val_loss
             verbose: 1
             save_best_only: true
