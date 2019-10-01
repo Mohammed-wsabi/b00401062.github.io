@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from pandas import (read_csv, DataFrame)
+from pandas import (DataFrame, Series, read_csv)
 from sklearn.model_selection import train_test_split
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
@@ -21,7 +21,15 @@ class Data:
     def load(self):
         split_size = Set(**self.split_size)
         label: DataFrame = read_csv(self.filepath, header=0, dtype=str)
-        label = Set(*train_test_split(
+        counts: DataFrame = label[label.columns[1:]].apply(Series.value_counts, axis=0)
+        weights: DataFrame = DataFrame(index=label.index, columns=label.columns[1:])
+        for column in weights.columns:
+            weights[column] = label[column].map({
+                "0": counts[column][1] * 2 / label.shape[0],
+                "1": counts[column][0] * 2 / label.shape[0]
+            })
+        label["weight"] = weights.sum(axis=1) / weights.shape[1]
+        df: Set = Set(*train_test_split(
             label,
             test_size=split_size.test,
             random_state=0,
@@ -40,21 +48,23 @@ class Data:
                     vertical_flip=True,
                     rescale=1/255,
                 ).flow_from_dataframe(
-                    dataframe=label.training,
+                    dataframe=df.training,
                     directory=self.directory.training,
                     target_size=self.input_shape[:2],
                     batch_size=self.batch_size,
                     x_col=self.x_col,
                     y_col=self.y_col,
+                    weight_col="weight",
                     class_mode=self.class_mode,
                 ),
                 test=ImageDataGenerator(rescale=1/255).flow_from_dataframe(
-                    dataframe=label.test,
+                    dataframe=df.test,
                     directory=self.directory.training,
                     target_size=self.input_shape[:2],
                     batch_size=self.batch_size,
                     x_col=self.x_col,
                     y_col=self.y_col,
+                    weight_col="weight",
                     class_mode=self.class_mode,
                 )
             ),
