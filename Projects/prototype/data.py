@@ -16,7 +16,7 @@ class Data:
         self.y_col = C["data"]["label"]["y_col"]
         self.class_mode = C["data"]["label"]["class_mode"]
         self.split_size = C["data"]["split_size"]
-        self.batch_size = C["fitting"]["batch_size"]
+        self.batch_size = C["data"]["batch_size"]
 
     def load(self):
         split_size = Set(**self.split_size)
@@ -62,6 +62,6 @@ class Data:
                 directory=self.directory.test,
                 target_size=self.input_shape[:2],
                 batch_size=self.batch_size,
-                class_mode=self.class_mode,
+                class_mode=None,
             ) if self.directory.test is not None else None
         )
