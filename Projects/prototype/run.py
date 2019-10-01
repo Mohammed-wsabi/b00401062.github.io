@@ -23,14 +23,12 @@ if __name__ == "__main__":
         verbose=C["fitting"]["verbose"],
         callbacks=Callback(C).load(),
         validation_data=data.validation,
-        use_multiprocessing=True,
     )
     Visualizer(history).show(["loss", "accuracy"])
     if data.test is not None:
         files = data.test.filenames
         y = model.predict_generator(
             generator=data.test,
-            use_multiprocessing=True,
             verbose=C["evaluation"]["verbose"],
         )
         concat([
