@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from os import (environ, listdir)
+from os import (environ)
 from pandas import (DataFrame, concat)
 
 from prototype.conf import *
@@ -27,12 +27,12 @@ if __name__ == "__main__":
     )
     Visualizer(history).show(["loss", "accuracy"])
     if data.test is not None:
+        files = data.test.filenames
         y = model.predict_generator(
             generator=data.test,
             use_multiprocessing=True,
             verbose=C["evaluation"]["verbose"],
         )
-        files = listdir(C["data"]["directory"]["test"])
         concat([
             DataFrame(files, columns=["id"]),
             DataFrame(y, columns=C["data"]["classes"]),

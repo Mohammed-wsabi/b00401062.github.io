@@ -63,5 +63,6 @@ class Data:
                 target_size=self.input_shape[:2],
                 batch_size=self.batch_size,
                 class_mode=None,
+                shuffle=False,
             ) if self.directory.test is not None else None
         )
