@@ -29,7 +29,7 @@ class Data:
                 self.classes[0]: counts[column][1] * 2 / label.shape[0],
                 self.classes[1]: counts[column][0] * 2 / label.shape[0]
             })
-        label["weight"] = weights.sum(axis=1) / weights.shape[1]
+        label["weight"] = weights.mean(axis=1)
         df: Set = Set(*train_test_split(
             label,
             test_size=split_size.test,
