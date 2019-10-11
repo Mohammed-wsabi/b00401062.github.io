@@ -2,7 +2,6 @@
 
 from collections import namedtuple
 
-
 Set = namedtuple("Set", ["training", "test"])
 DATASETDIR = "./"
 RAWDIR = DATASETDIR + "Raw/"

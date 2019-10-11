@@ -3,7 +3,6 @@
 import os
 from pandas import (DataFrame, read_csv)
 from sklearn.model_selection import train_test_split
-
 from dlc.Configuration import Set
 
 
