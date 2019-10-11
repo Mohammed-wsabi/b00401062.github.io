@@ -1,46 +1,43 @@
-package leetcode;
+package leetcode
 
-import java.util.concurrent.Semaphore;
+import java.util.concurrent.Semaphore
 
-public class ZeroEvenOdd {
-    private int n;
-    private Semaphore[] locks = new Semaphore[] {
-        new Semaphore(1),
-        new Semaphore(1),
-        new Semaphore(1),
-    };
+class ZeroEvenOdd(private val n: Int) {
+    private val locks = Array(3) { Semaphore(1) }
 
-    public ZeroEvenOdd(int n) {
-        this.n = n;
+    init {
         try {
-            locks[0].acquire();
-            locks[1].acquire();
-        } catch (InterruptedException e) {
-            e.printStackTrace();
+            locks[0].acquire()
+            locks[1].acquire()
+        } catch (e: InterruptedException) {
+            e.printStackTrace()
         }
     }
 
-    public void zero(Runnable printNumber) throws InterruptedException {
-        for (int i = 1; i <= n; i++) {
-            locks[2].acquire();
-            printNumber.run();
-            locks[i % 2].release();
+    @Throws(InterruptedException::class)
+    fun zero(printNumber: Runnable) {
+        for (i in 1..n) {
+            locks[2].acquire()
+            printNumber.run()
+            locks[i % 2].release()
         }
     }
 
-    public void even(Runnable printNumber) throws InterruptedException {
-        for (int i = 2; i <= n; i += 2) {
-            locks[0].acquire();
-            printNumber.run();
-            locks[2].release();
+    @Throws(InterruptedException::class)
+    fun even(printNumber: Runnable) {
+        for (i in 2..n step 2) {
+            locks[0].acquire()
+            printNumber.run()
+            locks[2].release()
         }
     }
 
-    public void odd(Runnable printNumber) throws InterruptedException {
-        for (int i = 1; i <= n; i += 2) {
-            locks[1].acquire();
-            printNumber.run();
-            locks[2].release();
+    @Throws(InterruptedException::class)
+    fun odd(printNumber: Runnable) {
+        for (i in 1..n step 2) {
+            locks[1].acquire()
+            printNumber.run()
+            locks[2].release()
         }
     }
 }

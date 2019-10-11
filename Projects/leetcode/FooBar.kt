@@ -1,34 +1,34 @@
-package leetcode;
+package leetcode
 
-import java.util.concurrent.Semaphore;
+import java.util.concurrent.Semaphore
 
-public class FooBar {
-    private int n;
-    private Semaphore can_foo = new Semaphore(1);
-    private Semaphore can_bar = new Semaphore(1);
+class FooBar(private val n: Int) {
+    private val can_foo = Semaphore(1)
+    private val can_bar = Semaphore(1)
 
-    public FooBar(int n) {
-        this.n = n;
+    init {
         try {
-            can_bar.acquire();
-        } catch (InterruptedException e) {
-            e.printStackTrace();
+            can_bar.acquire()
+        } catch (e: InterruptedException) {
+            e.printStackTrace()
         }
     }
 
-    public void foo(Runnable printFoo) throws InterruptedException {
-        for (int i = 0; i < n; i++) {
-            can_foo.acquire();
-            printFoo.run();
-            can_bar.release();
+    @Throws(InterruptedException::class)
+    fun foo(printFoo: Runnable) {
+        for (i in 0 until n) {
+            can_foo.acquire()
+            printFoo.run()
+            can_bar.release()
         }
     }
 
-    public void bar(Runnable printBar) throws InterruptedException {
-        for (int i = 0; i < n; i++) {
-            can_bar.acquire();
-            printBar.run();
-            can_foo.release();
+    @Throws(InterruptedException::class)
+    fun bar(printBar: Runnable) {
+        for (i in 0 until n) {
+            can_bar.acquire()
+            printBar.run()
+            can_foo.release()
         }
     }
 }

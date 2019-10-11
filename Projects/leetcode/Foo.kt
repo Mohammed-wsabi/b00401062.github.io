@@ -1,24 +1,25 @@
-package leetcode;
+package leetcode
 
-public class Foo {
-    private volatile boolean checkpoint1 = false;
-    private volatile boolean checkpoint2 = false;
+class Foo {
+    private var checkpoint1 = false
+    private var checkpoint2 = false
 
-    public Foo() { }
-
-    public void first(Runnable printFirst) throws InterruptedException {
-        printFirst.run();
-        checkpoint1 = true;
+    @Throws(InterruptedException::class)
+    fun first(printFirst: Runnable) {
+        printFirst.run()
+        checkpoint1 = true
     }
 
-    public void second(Runnable printSecond) throws InterruptedException {
+    @Throws(InterruptedException::class)
+    fun second(printSecond: Runnable) {
         while (!checkpoint1);
-        printSecond.run();
-        checkpoint2 = true;
+        printSecond.run()
+        checkpoint2 = true
     }
 
-    public void third(Runnable printThird) throws InterruptedException {
+    @Throws(InterruptedException::class)
+    fun third(printThird: Runnable) {
         while (!checkpoint2);
-        printThird.run();
+        printThird.run()
     }
 }
