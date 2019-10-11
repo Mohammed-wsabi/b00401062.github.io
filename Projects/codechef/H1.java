@@ -1,3 +1,5 @@
+package codechef;
+
 import java.io.*;
 import java.util.*;
 
@@ -24,16 +26,16 @@ class H1 {
             }
         }
     }
-	public static void main (String[] args) throws IOException {
-		Scanner stdin = new Scanner(System.in);
-		bfs("123456789");
-		int t = Integer.parseInt(stdin.nextLine());
-		while (t-- > 0) {
-		    stdin.nextLine();
-		    String puzzle = "";
-		    for (int i = 0; i < 3; i++)
-		        puzzle += stdin.nextLine().replaceAll(" ", "");
-		    System.out.println(steps.containsKey(puzzle) ? steps.get(puzzle) : -1);
-		}
-	}
+    public static void main (String[] args) throws IOException {
+        Scanner stdin = new Scanner(System.in);
+        bfs("123456789");
+        int t = Integer.parseInt(stdin.nextLine());
+        while (t-- > 0) {
+            stdin.nextLine();
+            String puzzle = "";
+            for (int i = 0; i < 3; i++)
+                puzzle += stdin.nextLine().replaceAll(" ", "");
+            System.out.println(steps.containsKey(puzzle) ? steps.get(puzzle) : -1);
+        }
+    }
 }
