@@ -3,7 +3,6 @@
 from pandas import (DataFrame, Series, read_csv)
 from sklearn.model_selection import train_test_split
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
-
 from prototype.utils import *
 
 

@@ -4,7 +4,6 @@ import tensorflow.keras.applications
 import tensorflow.keras.models
 from tensorflow.keras.layers import GlobalAveragePooling2D
 from tensorflow.keras.layers import Dense
-
 from prototype.optimizer import *
 from prototype.utils import *
 

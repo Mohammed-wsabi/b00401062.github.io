@@ -2,7 +2,6 @@
 
 import cv2
 import tensorflow
-
 from numpy import array
 from numpy import maximum
 from tensorflow.python.keras.backend import gradients

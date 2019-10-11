@@ -13,7 +13,6 @@
 - [optimizer.py](optimizer.py): Loading optimizer and passing to model.
 - [callback.py](callback.py): Loading callbacks and passing to fitting function.
 - [visualizer.py](visualizer.py): Visualizing training process and inference.
-- [run.py](run.py): Streaming all functions to complete a benchmark.
 
 ## Execution
 
