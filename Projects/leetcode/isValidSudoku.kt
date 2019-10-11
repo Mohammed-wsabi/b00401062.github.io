@@ -1,3 +1,5 @@
+package leetcode;
+
 fun isValidSudoku(board: Array<CharArray>): Boolean {
     val col = Array(9) { BooleanArray(9) }
     val row = Array(9) { BooleanArray(9) }

@@ -1,3 +1,5 @@
+package leetcode;
+
 fun myAtoi(str: String): Int {
     val trimmed = str.trim()
     if (trimmed.isEmpty() || trimmed[0] !in "0123456789+-")

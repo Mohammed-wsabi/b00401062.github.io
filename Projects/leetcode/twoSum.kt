@@ -1,3 +1,5 @@
+package leetcode;
+
 fun twoSum(nums: IntArray, target: Int): IntArray? {
     val map = mutableMapOf<Int, Int>()
     for (i in nums.indices)

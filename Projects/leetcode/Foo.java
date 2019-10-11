@@ -1,3 +1,5 @@
+package leetcode;
+
 public class Foo {
     private volatile boolean checkpoint1 = false;
     private volatile boolean checkpoint2 = false;

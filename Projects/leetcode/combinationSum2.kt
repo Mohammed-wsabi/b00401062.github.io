@@ -1,3 +1,5 @@
+package leetcode;
+
 import kotlin.math.min
 
 private var table = mapOf<Int, Int>()

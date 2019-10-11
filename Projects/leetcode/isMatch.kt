@@ -1,3 +1,5 @@
+package leetcode;
+
 import java.util.LinkedList
 
 private class Graph(p: String) {

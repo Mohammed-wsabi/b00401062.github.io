@@ -1,3 +1,5 @@
+package leetcode;
+
 private fun solve(
     board: Array<CharArray>,
     col: Array<BooleanArray>,

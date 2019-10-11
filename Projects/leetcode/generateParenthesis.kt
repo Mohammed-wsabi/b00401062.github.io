@@ -1,3 +1,5 @@
+package leetcode;
+
 import java.util.Stack
 
 fun generateParenthesis(n: Int): List<String> {

@@ -1,3 +1,5 @@
+package leetcode;
+
 fun countAndSay(n: Int): String {
     var s = "1"
     repeat(n - 1) {

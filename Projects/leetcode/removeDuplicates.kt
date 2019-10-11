@@ -1,3 +1,5 @@
+package leetcode;
+
 fun removeDuplicates(nums: IntArray): Int {
     if (nums.isEmpty()) return 0
     var count = 1

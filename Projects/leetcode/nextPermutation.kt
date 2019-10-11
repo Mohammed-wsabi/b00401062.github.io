@@ -1,3 +1,5 @@
+package leetcode;
+
 fun nextPermutation(nums: IntArray): Unit {
     var l = nums.lastIndex - 1
     while (l >= 0 && nums[l] >= nums[l + 1])

@@ -1,3 +1,5 @@
+package leetcode;
+
 private fun check(s: String, _l: Int, _r: Int): String {
     var l = _l
     var r = _r

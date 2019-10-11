@@ -1,3 +1,5 @@
+package leetcode;
+
 fun search(nums: IntArray, target: Int): Int {
     val p = nums.size / 2
     if (nums.size < 32)

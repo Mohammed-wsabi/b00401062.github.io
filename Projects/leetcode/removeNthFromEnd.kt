@@ -1,3 +1,5 @@
+package leetcode;
+
 fun removeNthFromEnd(head: ListNode?, n: Int): ListNode? {
     var curr: ListNode? = head
     val list = mutableListOf<ListNode>()

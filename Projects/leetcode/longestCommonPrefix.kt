@@ -1,3 +1,5 @@
+package leetcode;
+
 import kotlin.math.min
 
 fun longestCommonPrefix(strs: Array<String>): String {

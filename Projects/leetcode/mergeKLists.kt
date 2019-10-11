@@ -1,3 +1,5 @@
+package leetcode;
+
 private fun select(lists: Array<ListNode?>): Int {
     var argmin: Int = -1
     for (i in lists.indices)
