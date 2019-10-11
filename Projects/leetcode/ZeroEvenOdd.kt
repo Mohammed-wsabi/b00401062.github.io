@@ -1,6 +1,7 @@
 package leetcode
 
 import java.util.concurrent.Semaphore
+import java.util.function.IntConsumer
 
 class ZeroEvenOdd(private val n: Int) {
     private val locks = Array(3) { Semaphore(1) }
@@ -15,28 +16,28 @@ class ZeroEvenOdd(private val n: Int) {
     }
 
     @Throws(InterruptedException::class)
-    fun zero(printNumber: Runnable) {
+    fun zero(printNumber: IntConsumer) {
         for (i in 1..n) {
             locks[2].acquire()
-            printNumber.run()
+            printNumber.accept(0)
             locks[i % 2].release()
         }
     }
 
     @Throws(InterruptedException::class)
-    fun even(printNumber: Runnable) {
+    fun even(printNumber: IntConsumer) {
         for (i in 2..n step 2) {
             locks[0].acquire()
-            printNumber.run()
+            printNumber.accept(i)
             locks[2].release()
         }
     }
 
     @Throws(InterruptedException::class)
-    fun odd(printNumber: Runnable) {
+    fun odd(printNumber: IntConsumer) {
         for (i in 1..n step 2) {
             locks[1].acquire()
-            printNumber.run()
+            printNumber.accept(i)
             locks[2].release()
         }
     }
