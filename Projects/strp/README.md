@@ -21,5 +21,5 @@
 ```bash
 export PYTHONHASHSEED=0
 export PYTHONPATH=$HOME/Documents/Projects/
-python3 -B -m strp
+python -B -m strp
 ```
