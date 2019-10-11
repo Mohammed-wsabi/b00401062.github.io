@@ -8,7 +8,7 @@ source activate qiime
 
 for FILE in $@
 do
-	$OSCCMPATH/$FILE.sh
+    $OSCCMPATH/$FILE.sh
 done
 
 source deactivate
