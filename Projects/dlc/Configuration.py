@@ -1,14 +1,10 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 
 from collections import namedtuple
 
-## Named Tuples
-Set = namedtuple("Set", ["training", "test"])
 
-## Directories
+Set = namedtuple("Set", ["training", "test"])
 DATASETDIR = "./"
 RAWDIR = DATASETDIR + "Raw/"
 PREPROCESSEDDIR = DATASETDIR + "Preprocessed/"
-
-## Integers
 S = 224
