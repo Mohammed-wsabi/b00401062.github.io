@@ -1,3 +1,5 @@
+package rosalind;
+
 import java.io.*;
 import java.util.*;
 import java.util.stream.*;
@@ -18,7 +20,7 @@ public class REAR {
                     if (distance.containsKey(v)) continue;
                     distance.put(v, d+1);
                     queue.add(v);
-					if (v.equals(t)) return distance.get(t);
+                    if (v.equals(t)) return distance.get(t);
                 }
         }
         return distance.get(t);

@@ -1,3 +1,5 @@
+package rosalind;
+
 import java.io.*;
 import java.util.*;
 import java.util.stream.*;
@@ -10,20 +12,20 @@ public class PDST {
     public static void main(String[] args) throws IOException {
         final Scanner stdin = new Scanner(System.in);
         final List<String> reads = new ArrayList<>();
-		String read = null;
-		while (true) {
-			if (!stdin.hasNext()) {
-				reads.add(read);
-				break;
-			}
-			String line = stdin.next();
-			if (line.charAt(0) == '>') {
-				if (read != null)
-					reads.add(read);
-				read = "";
-			} else
-				read += line;
-		}
+        String read = null;
+        while (true) {
+            if (!stdin.hasNext()) {
+                reads.add(read);
+                break;
+            }
+            String line = stdin.next();
+            if (line.charAt(0) == '>') {
+                if (read != null)
+                    reads.add(read);
+                read = "";
+            } else
+                read += line;
+        }
         final int n = reads.size();
         final int l = reads.get(0).length();
         double[][] d = new double[n][n];
