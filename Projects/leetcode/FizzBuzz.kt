@@ -9,38 +9,27 @@ class FizzBuzz(private val n: Int) {
 
     init {
         try {
-            repeat(3) {
-                locks[it].acquire()
-            }
+            repeat(3) { locks[it].acquire() }
         } catch (e: InterruptedException) {
             e.printStackTrace()
         }
     }
 
-    private fun releaseOne() = when {
+    private fun release() = when {
+        ++i > n -> repeat(4) { locks[it].release() }
         i % 15 == 0 -> locks[2].release()
         i % 3 == 0 -> locks[0].release()
         i % 5 == 0 -> locks[1].release()
         else -> locks[3].release()
     }
 
-    private fun releaseAll() {
-        repeat(4) {
-            locks[it].release()
-        }
-    }
-
     @Throws(InterruptedException::class)
     fun fizz(printFizz: Runnable) {
         while (true) {
             locks[0].acquire()
-            if (i > n) {
-                releaseAll()
-                break
-            }
+            if (i > n) break
             printFizz.run()
-            i++
-            releaseOne()
+            release()
         }
     }
 
@@ -48,13 +37,9 @@ class FizzBuzz(private val n: Int) {
     fun buzz(printBuzz: Runnable) {
         while (true) {
             locks[1].acquire()
-            if (i > n) {
-                releaseAll()
-                break
-            }
+            if (i > n) break
             printBuzz.run()
-            i++
-            releaseOne()
+            release()
         }
     }
 
@@ -62,13 +47,9 @@ class FizzBuzz(private val n: Int) {
     fun fizzbuzz(printFizzBuzz: Runnable) {
         while (true) {
             locks[2].acquire()
-            if (i > n) {
-                releaseAll()
-                break
-            }
+            if (i > n) break
             printFizzBuzz.run()
-            i++
-            releaseOne()
+            release()
         }
     }
 
@@ -76,13 +57,9 @@ class FizzBuzz(private val n: Int) {
     fun number(printNumber: IntConsumer) {
         while (true) {
             locks[3].acquire()
-            if (i > n) {
-                releaseAll()
-                break
-            }
+            if (i > n) break
             printNumber.accept(i)
-            i++
-            releaseOne()
+            release()
         }
     }
 }
