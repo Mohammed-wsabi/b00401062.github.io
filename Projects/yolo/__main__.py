@@ -2,12 +2,12 @@
 
 from os import (environ)
 from pandas import (DataFrame, concat)
-from prototype.callback import Callback
-from prototype.conf import Conf
-from prototype.data import Data
-from prototype.model import Model
-from prototype.utils import *
-from prototype.visualizer import Visualizer
+from yolo.callback import Callback
+from yolo.conf import Conf
+from yolo.data import Data
+from yolo.model import Model
+from yolo.utils import *
+from yolo.visualizer import Visualizer
 
 if __name__ == "__main__":
     C = Conf("conf.yaml").load()

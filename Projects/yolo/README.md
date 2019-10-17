@@ -19,5 +19,5 @@
 ```bash
 export PYTHONHASHSEED=0
 export PYTHONPATH=$HOME/Documents/Projects/
-python -B -m prototype
+python -B -m yolo
 ```
