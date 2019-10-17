@@ -75,6 +75,7 @@ title: Life Code
 ## Projects
 
 - [codechef](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/codechef): Collection of Java programs solving [CodeChef](https://www.codechef.com) problems.
+- [dfkt](Projects/dfkt): DataFrame for Kotlin and other JVM languages in view of the lack of similar functionality in the ecosystem.
 - [dlc](Projects/dlc): Pipeline for merchandise detection and classification.
 - [leetcode](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/leetcode): Collection of Kotlin programs solving [LeetCode](https://leetcode.com/problemset/all/) problems.
 - [ndpi](Projects/ndpi): Utility functions that extract raw images from NDPI files to allow for editing and processing.
