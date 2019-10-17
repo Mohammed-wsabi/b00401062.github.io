@@ -1,9 +1,9 @@
 data:
     directory:
-        training: data/
-        test: data/
+        training: ../data/
+        test: ../data/
     label:
-        filepath: data/label.csv
+        filepath: ../data/label.csv
         x_col: filename
         y_col: class
         class_mode: categorical
@@ -32,7 +32,7 @@ fitting:
     verbose: 1
     callbacks:
         ModelCheckpoint:
-            filepath: models/model.h5
+            filepath: ../model/model.h5
             monitor: val_loss
             verbose: 1
             save_best_only: true
@@ -50,4 +50,4 @@ fitting:
             min_lr: 0.00001
 evaluation:
     verbose: 1
-    filepath: out/out.csv
+    filepath: ../out/out.csv

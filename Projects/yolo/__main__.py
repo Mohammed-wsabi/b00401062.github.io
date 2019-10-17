@@ -9,7 +9,7 @@ from yolo.Utils import Utils
 from yolo.Visualizer import Visualizer
 
 if __name__ == "__main__":
-    C = Conf("Conf.yaml").load()
+    C = Conf("../conf/Conf.yaml").load()
     data = Utils.Set(*Data(C).load())
     model = Model(C).load()
     history = model.fit_generator(
