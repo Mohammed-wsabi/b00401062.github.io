@@ -1,4 +1,4 @@
-# Prototype of Deep Learning Pipeline
+# You Only Look Once (YOLO)
 
 ## Configuration
 

@@ -80,8 +80,8 @@ title: Life Code
 - [ndpi](Projects/ndpi): Utility functions that extract raw images from NDPI files to allow for editing and processing.
 - [nmmi](Projects/nmmi): Pipeline to create a normative model for microstructural integrity of the white matter tracts.
 - [osccm](Projects/osccm): Pipeline for metagenomics analysis to study association between microbiota and cancer.
-- [prototype](Projects/prototype): Pipeline for deep learning that modularizes the training and teseting process.
 - [rosalind](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/rosalind): Collection of Java programs solving [ROSALIND](http://rosalind.info/problems/locations/) problems.
 - [sdp](Projects/sdp): Pipeline to predict schizophrenia development using DSI.
 - [strp](Projects/strp): Pipeline to predict antipsychotic treatment response using DSI.
 - [usaco](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/usaco): Collection of Java programs solving [USACO](http://train.usaco.org/usacogate) problems.
+- [yolo](Projects/yolo): Pipeline for deep learning that modularizes the training and teseting process.
