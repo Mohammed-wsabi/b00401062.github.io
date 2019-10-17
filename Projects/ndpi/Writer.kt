@@ -8,7 +8,7 @@ object Writer {
     @ExperimentalUnsignedTypes
     @Throws(RuntimeException::class)
     inline fun <reified T> writeValue(fd: RandomAccessFile, value: T) {
-        val size = NDPI.CLASS2SIZE.getValue(T::class)
+        val size = Utils.CLASS2SIZE.getValue(T::class)
         val buffer = ByteBuffer.allocate(size)
         when (T::class) {
             Char::class -> buffer.put((value as Char).toByte())

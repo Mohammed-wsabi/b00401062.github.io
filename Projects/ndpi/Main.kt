@@ -5,12 +5,12 @@ import java.io.RandomAccessFile
 object Main {
     @JvmStatic
     @ExperimentalUnsignedTypes
-    fun deidentify(fd: RandomAccessFile, imageEntry: NDPI.ImageEntry) {
+    fun deidentify(fd: RandomAccessFile, imageEntry: Utils.ImageEntry) {
         var buffer = Reader.readImageEntry2Buffer(fd, imageEntry)
-        val image = Utils.buffer2image(buffer)
-        val roi = Utils.Rectangle(0, 0, image.width, image.height)
-        Utils.mask(image, roi)
-        buffer = Utils.image2buffer(image)
+        val image = ImgUtils.buffer2image(buffer)
+        val roi = ImgUtils.Rectangle(0, 0, image.width, image.height)
+        ImgUtils.mask(image, roi)
+        buffer = ImgUtils.image2buffer(image)
         fd.seek((imageEntry.offset!!.values[0] as UInt).toLong())
         fd.write(buffer)
         fd.seek(imageEntry.size!!.pointer + 8)

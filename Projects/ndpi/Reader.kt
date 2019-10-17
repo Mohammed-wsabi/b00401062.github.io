@@ -8,7 +8,7 @@ object Reader {
     @ExperimentalUnsignedTypes
     @Throws(RuntimeException::class)
     inline fun <reified T> readValue(fd: RandomAccessFile): T {
-        val size = NDPI.CLASS2SIZE.getValue(T::class)
+        val size = Utils.CLASS2SIZE.getValue(T::class)
         val array = ByteArray(size)
         fd.read(array)
         array.reverse()
@@ -46,14 +46,14 @@ object Reader {
 
     @JvmStatic
     @ExperimentalUnsignedTypes
-    fun readEntries(fd: RandomAccessFile): List<NDPI.ImageEntry> {
-        val imageEntries = mutableListOf<NDPI.ImageEntry>()
+    fun readEntries(fd: RandomAccessFile): List<Utils.ImageEntry> {
+        val imageEntries = mutableListOf<Utils.ImageEntry>()
         assert(fd.readByte().toChar() == 'I')
         assert(fd.readByte().toChar() == 'I')
         assert(fd.readByte().toChar() == '*')
         assert(fd.readByte().toChar() == 0.toChar())
         var pointer: Long = readValue<UInt>(fd).toLong()
-        var imageEntry: NDPI.ImageEntry? = null
+        var imageEntry: Utils.ImageEntry? = null
         do {
             fd.seek(pointer)
             val entryNum = readValue<UShort>(fd).toInt()
@@ -62,13 +62,13 @@ object Reader {
                 val tag = readValue<UShort>(fd).toInt()
                 val type = readValue<UShort>(fd).toInt()
                 val count = readValue<UInt>(fd).toInt()
-                if (count * NDPI.TYPE2SIZE[type] > 4)
+                if (count * Utils.TYPE2SIZE[type] > 4)
                     fd.seek(readValue<UInt>(fd).toLong())
                 val values = readValues(fd, type, count)
                 if (tag == 273)
-                    imageEntry = NDPI.ImageEntry(NDPI.Entry(pointer, tag, values))
+                    imageEntry = Utils.ImageEntry(Utils.Entry(pointer, tag, values))
                 else if (tag == 279) {
-                    imageEntry!!.size = NDPI.Entry(pointer, tag, values)
+                    imageEntry!!.size = Utils.Entry(pointer, tag, values)
                     imageEntries.add(imageEntry!!)
                     imageEntry = null
                 }
@@ -82,7 +82,7 @@ object Reader {
 
     @JvmStatic
     @ExperimentalUnsignedTypes
-    fun readImageEntry2Buffer(fd: RandomAccessFile, imageEntry: NDPI.ImageEntry): ByteArray {
+    fun readImageEntry2Buffer(fd: RandomAccessFile, imageEntry: Utils.ImageEntry): ByteArray {
         val buffer = ByteArray((imageEntry.size!!.values[0] as UInt).toInt())
         fd.seek((imageEntry.offset!!.values[0] as UInt).toLong())
         fd.read(buffer)

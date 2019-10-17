@@ -2,7 +2,7 @@ package ndpi
 
 import kotlin.reflect.KClass
 
-object NDPI {
+object Utils {
     @ExperimentalUnsignedTypes
     class Entry(val pointer: Long, val tag: Int, val values: Array<out Any>) {
         override fun toString() = "$tag@$pointer: " + when {

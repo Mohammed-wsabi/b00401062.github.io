@@ -5,7 +5,7 @@ import java.io.ByteArrayInputStream
 import java.io.ByteArrayOutputStream
 import javax.imageio.ImageIO
 
-object Utils {
+object ImgUtils {
     data class Rectangle(val x: Int, val y: Int, val w: Int, val h: Int)
 
     @JvmStatic
