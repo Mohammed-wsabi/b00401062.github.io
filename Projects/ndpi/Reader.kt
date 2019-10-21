@@ -46,7 +46,7 @@ object Reader {
 
     @JvmStatic
     @ExperimentalUnsignedTypes
-    fun readEntries(fd: RandomAccessFile): List<Utils.ImageEntry> {
+    fun readImageEntries(fd: RandomAccessFile): List<Utils.ImageEntry> {
         val imageEntries = mutableListOf<Utils.ImageEntry>()
         assert(fd.readByte().toChar() == 'I')
         assert(fd.readByte().toChar() == 'I')
