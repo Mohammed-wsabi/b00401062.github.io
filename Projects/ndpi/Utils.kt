@@ -12,7 +12,9 @@ object Utils {
     }
 
     @ExperimentalUnsignedTypes
-    data class ImageEntry(var offset: Entry? = null, var size: Entry? = null)
+    data class ImageEntry(var offset: Entry? = null, var size: Entry? = null) {
+        override fun toString() = "(${offset.toString()}, ${size.toString()})"
+    }
 
     private val Float.Companion.SIZE_BYTES get() = 4
     private val Double.Companion.SIZE_BYTES get() = 8
