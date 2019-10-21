@@ -32,8 +32,8 @@ object Utils {
         Short.SIZE_BYTES,
         Int.SIZE_BYTES,
         Int.SIZE_BYTES * 2,
-        4,
-        8
+        Float.SIZE_BYTES,
+        Double.SIZE_BYTES
     )
 
     @ExperimentalUnsignedTypes
