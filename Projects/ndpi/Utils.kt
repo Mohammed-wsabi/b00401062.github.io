@@ -1,5 +1,6 @@
 package ndpi
 
+import java.io.RandomAccessFile
 import kotlin.reflect.KClass
 
 object Utils {
@@ -48,4 +49,13 @@ object Utils {
         Float::class to Float.SIZE_BYTES,
         Double::class to Double.SIZE_BYTES
     )
+
+    @JvmStatic
+    @ExperimentalUnsignedTypes
+    fun deidentify(fp: RandomAccessFile, imageEntry: ImageEntry) {
+        val image = ImgUtils.buffer2image(Reader.readImageBuffer(fp, imageEntry))
+        val roi = ImgUtils.Rectangle(0, 0, image.height, image.height)
+        ImgUtils.mask(image, roi)
+        Writer.writeImageBuffer(fp, imageEntry, ImgUtils.image2buffer(image))
+    }
 }

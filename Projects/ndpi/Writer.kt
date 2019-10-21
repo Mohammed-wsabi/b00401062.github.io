@@ -26,4 +26,13 @@ object Writer {
         array.reverse()
         fp.write(array)
     }
+
+    @JvmStatic
+    @ExperimentalUnsignedTypes
+    fun writeImageBuffer(fp: RandomAccessFile, imageEntry: Utils.ImageEntry, buffer: ByteArray) {
+        fp.seek((imageEntry.offset!!.values[0] as UInt).toLong())
+        fp.write(buffer)
+        fp.seek(imageEntry.size!!.pointer + 8)
+        writeValue(fp, buffer.size)
+    }
 }

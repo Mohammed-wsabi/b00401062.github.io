@@ -82,7 +82,7 @@ object Reader {
 
     @JvmStatic
     @ExperimentalUnsignedTypes
-    fun readImageEntry2Buffer(fp: RandomAccessFile, imageEntry: Utils.ImageEntry): ByteArray {
+    fun readImageBuffer(fp: RandomAccessFile, imageEntry: Utils.ImageEntry): ByteArray {
         val buffer = ByteArray((imageEntry.size!!.values[0] as UInt).toInt())
         fp.seek((imageEntry.offset!!.values[0] as UInt).toLong())
         fp.read(buffer)
