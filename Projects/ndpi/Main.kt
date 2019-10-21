@@ -22,9 +22,9 @@ object Main {
     fun main(args: Array<String>) {
         val path = args[0]
         val fd = RandomAccessFile(path, "rw")
-        val images = Reader.readImageEntries(fd)
+        val imageEntries = Reader.readImageEntries(fd)
         val target = 6
-        deidentify(fd, images[target])
+        deidentify(fd, imageEntries[target])
         fd.close()
     }
 }
