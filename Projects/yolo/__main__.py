@@ -6,7 +6,7 @@ from yolo.Conf import Conf
 from yolo.Data import Data
 from yolo.Model import Model
 from yolo.Utils import Utils
-from yolo.Visualizer import Visualizer
+from yolo.Shower import Shower
 
 if __name__ == "__main__":
     C = Conf("../conf/Conf.yaml").load()
@@ -19,7 +19,7 @@ if __name__ == "__main__":
         callbacks=Callback(C).load(),
         validation_data=data.validation,
     )
-    Visualizer(history).show(["loss", "accuracy"])
+    Shower(history).show(["loss", "accuracy"])
     if data.test is not None:
         files = data.test.filenames
         y = model.predict_generator(

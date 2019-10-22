@@ -9,7 +9,7 @@ from tensorflow.python.keras.backend import function
 from matplotlib.pyplot import *
 
 
-class Visualizer:
+class Shower:
     def __init__(self, history):
         self.history = history
 

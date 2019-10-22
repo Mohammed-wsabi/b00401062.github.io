@@ -12,7 +12,7 @@
 - [Model.py](Model.py): Loading compiled model which is ready for fitting.
 - [Optimizer.py](Optimizer.py): Loading optimizer and passing to model.
 - [Callback.py](Callback.py): Loading callbacks and passing to fitting function.
-- [Visualizer.py](Visualizer.py): Visualizing training process and inference.
+- [Shower.py](Shower.py): Visualizing training process and inference.
 
 ## Execution
 
