@@ -57,5 +57,6 @@ class UCL {
                 .collect(Collectors.joining(" "))
             );
         }
+        stdin.close();
     }
 }

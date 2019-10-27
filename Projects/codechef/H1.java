@@ -10,8 +10,9 @@ class H1 {
         { 0, 3 }, { 1, 4 }, { 2, 5 }, { 3, 6 }, { 4, 7 }, { 5, 8 }
     };
     private static final Map<String, Integer> steps = new HashMap<>();
-    private static void bfs(String s) {
+	private static void bfs(String s) {
         steps.put(s, 0);
+        @SuppressWarnings("serial")
         Queue<String> queue = new LinkedList<String>() {{ add(s); }};
         while (queue.size() > 0) {
             String u = queue.remove();
@@ -37,5 +38,6 @@ class H1 {
                 puzzle += stdin.nextLine().replaceAll(" ", "");
             System.out.println(steps.containsKey(puzzle) ? steps.get(puzzle) : -1);
         }
+        stdin.close();
     }
 }

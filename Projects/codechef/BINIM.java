@@ -20,5 +20,6 @@ class BINIM {
             }
             System.out.println(counts[turn] > counts[1-turn] ? PLAYERS[turn] : PLAYERS[1-turn]);
         }
+        stdin.close();
     }
 }

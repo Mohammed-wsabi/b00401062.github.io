@@ -26,5 +26,6 @@ class CLFIBD {
             stdin.next().chars().forEach(i -> c[i-'a']++);
             System.out.println(check(c) ? "Dynamic" : "Not");
         }
+        stdin.close();
     }
 }

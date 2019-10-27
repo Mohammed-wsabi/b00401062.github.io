@@ -52,5 +52,6 @@ class RUNDIR {
             double optimal = Math.max(LT, RT);
             System.out.println(optimal == Double.POSITIVE_INFINITY ? -1 : optimal);
         }
+        stdin.close();
     }
 }

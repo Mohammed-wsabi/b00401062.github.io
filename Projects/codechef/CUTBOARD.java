@@ -1,6 +1,5 @@
 package codechef;
 
-import java.io.*;
 import java.util.*;
 
 class CUTBOARD {
@@ -11,5 +10,6 @@ class CUTBOARD {
         final int N = stdin.nextInt(), M = stdin.nextInt();
             System.out.println((N-1)*(M-1));
         }
+        stdin.close();
     }
 }

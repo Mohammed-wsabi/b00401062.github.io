@@ -60,5 +60,6 @@ class BSTOPS {
                 break;
             }
         }
+        stdin.close();
     }
 }

@@ -14,5 +14,6 @@ class CHNUM {
                 c[(int) Math.signum(stdin.nextInt()) + 1]++;
             System.out.printf("%d %d\n", Math.max(c[0], c[2]) + c[1], Arrays.stream(c).filter(a -> a > 0).min().getAsInt());
         }
+        stdin.close();
     }
 }
