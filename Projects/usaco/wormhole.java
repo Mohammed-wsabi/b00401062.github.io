@@ -51,5 +51,6 @@ public class wormhole {
                     if (next_on_right[i] == 0 || X[j] < X[next_on_right[i]])
                         next_on_right[i] = j;
         stdout.println(solve());
+        stdin.close();
     }
 }

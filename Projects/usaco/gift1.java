@@ -30,5 +30,6 @@ public class gift1 {
         }
         for (String name : names)
             stdout.println(name + " " + table.get(name));
+        stdin.close();
     }
 }

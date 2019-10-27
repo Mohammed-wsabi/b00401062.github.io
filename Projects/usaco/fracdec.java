@@ -33,6 +33,7 @@ public class fracdec {
         int remainder = numerator % denominator;
         if (remainder == 0) {
             quotient.append(0);
+            stdin.close();
             return;
         }
         Tuple[] records = new Tuple[denominator];
@@ -43,6 +44,7 @@ public class fracdec {
         Tuple[] digits = Arrays.stream(records).filter(Objects::nonNull).sorted(Comparator.comparing(Tuple::getOrder)).toArray(Tuple[]::new);
         if (remainder == 0) {
             quotient.append(Arrays.stream(digits).mapToInt(Tuple::getQuotient).mapToObj(Integer::toString).collect(Collectors.joining("")));
+            stdin.close();
             return;
         }
         int start = records[remainder].order;
@@ -50,5 +52,6 @@ public class fracdec {
         quotient.append('(');
         Arrays.stream(digits).skip(start).forEach((digit) -> quotient.append(digit.getQuotient()));
         quotient.append(')');
+        stdin.close();
     }
 }

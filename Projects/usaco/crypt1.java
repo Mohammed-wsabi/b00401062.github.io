@@ -5,6 +5,12 @@ import java.util.*;
 
 public class crypt1 {
     private static List<Integer> digits;
+    private static boolean isCrypt(int num) {
+        for (; num > 0; num /= 10)
+            if (!digits.contains(num % 10))
+                return false;
+        return true;
+    }
     public static void main(String[] args) throws IOException {
         Scanner stdin = new Scanner(new File("crypt1.in"));
         PrintWriter stdout = new PrintWriter(new File("crypt1.out"));
@@ -29,11 +35,6 @@ public class crypt1 {
             while(stack.size() > 0 && (elem = stack.remove(stack.size()-1)) == digits.get(N-1));
         } while (elem != digits.get(N-1));
         stdout.println(count);
-    }
-    private static boolean isCrypt(int num) {
-        for (; num > 0; num /= 10)
-            if (!digits.contains(num % 10))
-                return false;
-        return true;
+        stdin.close();
     }
 }

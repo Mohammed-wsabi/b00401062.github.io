@@ -32,5 +32,6 @@ public class ariprog {
         }
         if (none)
             stdout.println("NONE");
+        stdin.close();
     }
 }

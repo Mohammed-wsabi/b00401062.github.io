@@ -23,7 +23,6 @@ public class ttwo {
             this.direction = direction;
         }
         int[] getCoordinate() { return coordinate; }
-        Direction getDirection() { return direction; }
         void move(boolean[][] obstacles) {
             int i = direction.getValue();
             final int[] next = new int[] { coordinate[0] + DELTA[i][0], coordinate[1] + DELTA[i][1] };
@@ -69,9 +68,12 @@ public class ttwo {
             cow.move(obstacles);
             if (Arrays.equals(farmer.getCoordinate(), cow.getCoordinate())) {
                 stdout.println(i);
+                stdin.close();
+                stdout.close();
                 return;
             }
         }
         stdout.println(0);
+        stdin.close();
     }
 }

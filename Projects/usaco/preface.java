@@ -33,5 +33,6 @@ public class preface {
         for (char chr : new char[] { 'I', 'V', 'X', 'L', 'C', 'D', 'M' })
             if (counter[chr - 'A'] > 0)
                 stdout.println(chr + " " + counter[chr - 'A']);
+        stdin.close();
     }
 }

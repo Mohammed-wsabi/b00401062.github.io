@@ -20,5 +20,6 @@ public class numtri {
             for (int col = 0; col < triangle[row].length; col++)
                 triangle[row][col] += Math.max(triangle[row+1][col], triangle[row+1][col+1]);
         stdout.println(triangle[0][0]);
+        stdin.close();
     }
 }

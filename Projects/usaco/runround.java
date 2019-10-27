@@ -24,5 +24,6 @@ public class runround {
         int n = stdin.nextInt();
         for (n++; !isRunRound(Integer.toString(n)); n++);
         stdout.println(n);
+        stdin.close();
     }
 }

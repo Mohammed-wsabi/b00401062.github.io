@@ -5,6 +5,12 @@ import java.util.*;
 
 public class combo {
     private static int N;
+    private static boolean isClose(int[] a, int[] b) {
+        for (int i = 0; i < 3; i++)
+            if (Math.abs(a[i] - b[i]) > 2 && Math.abs(a[i] - b[i]) < N-2)
+                return false;
+        return true;
+    }
     public static void main(String[] args) throws IOException {
         Scanner stdin = new Scanner(new File("combo.in"));
         PrintWriter stdout = new PrintWriter(new File("combo.out"));
@@ -25,11 +31,6 @@ public class combo {
                         count++;
                 }
         stdout.println(count);
-    }
-    private static boolean isClose(int[] a, int[] b) {
-        for (int i = 0; i < 3; i++)
-            if (Math.abs(a[i] - b[i]) > 2 && Math.abs(a[i] - b[i]) < N-2)
-                return false;
-        return true;
+        stdin.close();
     }
 }

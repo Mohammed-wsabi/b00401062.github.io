@@ -88,5 +88,6 @@ public class lamps {
             stdout.println("IMPOSSIBLE");
         else for (String str : list)
             stdout.println(str);
+        stdin.close();
     }
 }

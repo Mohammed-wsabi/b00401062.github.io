@@ -9,7 +9,7 @@ public class barn1 {
         PrintWriter stdout = new PrintWriter(new File("barn1.out"));
         Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
         final int M = stdin.nextInt();
-        final int S = stdin.nextInt();
+		stdin.nextInt();
         final int C = stdin.nextInt();
         if (M >= C) {
             stdout.println(C);
@@ -31,5 +31,6 @@ public class barn1 {
         for (int i = 1; i < breakpoint.length; i++)
             count += cows[breakpoint[i]-1] - cows[breakpoint[i-1]] + 1;
         stdout.println(count);
+        stdin.close();
     }
 }

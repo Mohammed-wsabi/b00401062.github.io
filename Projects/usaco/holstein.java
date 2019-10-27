@@ -49,5 +49,6 @@ public class holstein {
             if (scoop_min[i] == 1)
                 stdout.print(" " + (i + 1));
         stdout.println();
+        stdin.close();
     }
 }

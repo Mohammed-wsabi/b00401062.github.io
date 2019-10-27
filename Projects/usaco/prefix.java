@@ -24,5 +24,6 @@ public class prefix {
                 if (l <= seqlen - i && primitives.contains(sequence.substring(i, i + l)))
                     counts[i] = Math.max(counts[i], l + counts[i + l]);
         stdout.println(counts[0]);
+        stdin.close();
     }
 }

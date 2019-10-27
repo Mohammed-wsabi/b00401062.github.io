@@ -60,5 +60,6 @@ public class castle {
         stdout.println(Arrays.stream(size).max().getAsInt());
         stdout.println(room_max[0]);
         stdout.println(room_max[1] + " " + room_max[2] + " " + (char) room_max[3]);
+        stdin.close();
     }
 }

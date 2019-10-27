@@ -28,5 +28,6 @@ public class beads {
             max = Math.max(max, current);
         }
         stdout.println(max);
+        stdin.close();
     }
 }

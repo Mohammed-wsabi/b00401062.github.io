@@ -21,5 +21,6 @@ public class subset {
         N = stdin.nextInt();
         final int sum = N * (N + 1) / 2;
         stdout.println(sum % 2 == 0 ? countSubset(sum / 2) / 2 : 0);
+        stdin.close();
     }
 }

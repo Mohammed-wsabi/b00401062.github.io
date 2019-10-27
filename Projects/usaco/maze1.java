@@ -71,5 +71,6 @@ public class maze1 {
             for (int j = 1; j < w; j += 2)
                 visited[i][j] = Math.min(visited0[i][j], visited1[i][j]);
         stdout.println(Arrays.stream(visited).flatMapToInt(Arrays::stream).max().getAsInt());
+        stdin.close();
     }
 }

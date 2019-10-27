@@ -22,5 +22,6 @@ public class milk {
             N -= farmers[i][1];
         }
         stdout.println(cost);
+        stdin.close();
     }
 }

@@ -31,5 +31,6 @@ public class concom {
                 if (counts[j] > 50 && j != i)
                     stdout.println(i + " " + j);
         }
+        stdin.close();
     }
 }

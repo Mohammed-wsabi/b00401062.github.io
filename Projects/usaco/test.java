@@ -9,5 +9,6 @@ public class test {
         PrintWriter stdout = new PrintWriter(new File("test.out"));
         Runtime.getRuntime().addShutdownHook(new Thread(() -> stdout.flush()));
         stdout.println(stdin.nextInt() + stdin.nextInt());
+        stdin.close();
     }
 }

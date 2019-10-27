@@ -91,5 +91,6 @@ public class cowtour {
             }
         }
         stdout.println(String.format("%.6f", ans));
+        stdin.close();
     }
 }

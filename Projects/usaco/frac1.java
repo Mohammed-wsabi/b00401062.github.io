@@ -21,5 +21,6 @@ public class frac1 {
         stdout.println("0/1");
         generateFrac(0, 1, 1, 1);
         stdout.println("1/1");
+        stdin.close();
     }
 }

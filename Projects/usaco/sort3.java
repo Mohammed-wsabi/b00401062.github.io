@@ -27,5 +27,6 @@ public class sort3 {
             if (seq[i] == 2) s32++;
         }
         stdout.println(Math.min(s12, s21) + Math.min(s13, s31) + Math.min(s23, s32) + 2 * Math.abs(s12 - s21));
+        stdin.close();
     }
 }

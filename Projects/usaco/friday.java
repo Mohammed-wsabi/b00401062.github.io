@@ -4,6 +4,9 @@ import java.io.*;
 import java.util.*;
 
 public class friday {
+    private static boolean isLeap(int year) {
+        return (year % 4 == 0 && year % 100 != 0) || year % 400 == 0;
+    }
     public static void main(String[] args) throws IOException {
         Scanner stdin = new Scanner(new File("friday.in"));
         PrintWriter stdout = new PrintWriter(new File("friday.out"));
@@ -22,8 +25,6 @@ public class friday {
             stdout.print(counter[i]);
             stdout.print(i == 6 ? '\n' : ' ');
         }
-    }
-    private static boolean isLeap(int year) {
-        return (year % 4 == 0 && year % 100 != 0) || year % 400 == 0;
+        stdin.close();
     }
 }

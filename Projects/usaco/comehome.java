@@ -55,5 +55,6 @@ public class comehome {
         int min = Arrays.stream(graph).limit('Z'-'A').min(Comparator.comparing(Node::getDist)).get().dist;
         int id = 'A' + IntStream.range(0, 'Z'-'A').filter(x -> graph[x].dist == min).findFirst().getAsInt();
         stdout.println(String.format("%c %d", (char) id, min));
+        stdin.close();
     }
 }

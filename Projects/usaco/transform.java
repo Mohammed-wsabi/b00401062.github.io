@@ -4,6 +4,22 @@ import java.io.*;
 import java.util.*;
 
 public class transform {
+    private static char[][] rotate(char[][] before) {
+        int N = before.length;
+        char[][] after = new char[N][N];
+        for (int i = 0; i < N; i++)
+            for (int j = 0; j < N; j++)
+                after[j][N-i-1] = before[i][j];
+        return after;
+    }
+    private static char[][] reflect(char[][] before) {
+        int N = before.length;
+        char[][] after = new char[N][N];
+        for (int i = 0; i < N; i++)
+            for (int j = 0; j < N; j++)
+                after[i][N-j-1] = before[i][j];
+        return after;
+    }
     public static void main(String[] args) throws IOException {
         Scanner stdin = new Scanner(new File("transform.in"));
         PrintWriter stdout = new PrintWriter(new File("transform.out"));
@@ -36,21 +52,6 @@ public class transform {
             stdout.println('6');
         else
             stdout.println('7');
-    }
-    private static char[][] rotate(char[][] before) {
-        int N = before.length;
-        char[][] after = new char[N][N];
-        for (int i = 0; i < N; i++)
-            for (int j = 0; j < N; j++)
-                after[j][N-i-1] = before[i][j];
-        return after;
-    }
-    private static char[][] reflect(char[][] before) {
-        int N = before.length;
-        char[][] after = new char[N][N];
-        for (int i = 0; i < N; i++)
-            for (int j = 0; j < N; j++)
-                after[i][N-j-1] = before[i][j];
-        return after;
+        stdin.close();
     }
 }

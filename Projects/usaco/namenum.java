@@ -36,5 +36,7 @@ public class namenum {
         }
         if (!flag)
             stdout.println("NONE");
+        fin1.close();
+        fin2.close();
     }
 }

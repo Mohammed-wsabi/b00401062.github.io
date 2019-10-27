@@ -28,5 +28,6 @@ public class milk2 {
         }
         max_work = Math.max(max_work, te - ts);
         stdout.println(max_work + " " + max_idle);
+        stdin.close();
     }
 }

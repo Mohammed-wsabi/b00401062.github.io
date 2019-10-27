@@ -27,5 +27,6 @@ public class skidesign {
             cost_min = Math.min(cost_min, cost);
         }
         stdout.println(cost_min);
+        stdin.close();
     }
 }

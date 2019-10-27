@@ -37,5 +37,6 @@ public class hamming {
             stdout.print(codes.get(i));
             stdout.print(i % 10 == 9 || i == N-1 ? '\n' : ' ');
         }
+        stdin.close();
     }
 }
