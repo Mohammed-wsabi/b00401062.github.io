@@ -7,8 +7,10 @@ import java.util.stream.*;
 public class REAR {
     private static int reversal(List<Integer> s, List<Integer> t) {
         final int n = s.size();
-        final Map<List<Integer>, Integer> distance = new HashMap<List<Integer>, Integer>() {{ put(s, 0); }};
-        final Queue<List<Integer>> queue = new LinkedList<List<Integer>>() {{ add(s); }};
+        @SuppressWarnings("serial")
+		final Map<List<Integer>, Integer> distance = new HashMap<List<Integer>, Integer>() {{ put(s, 0); }};
+        @SuppressWarnings("serial")
+		final Queue<List<Integer>> queue = new LinkedList<List<Integer>>() {{ add(s); }};
         while (queue.size() > 0 && !distance.containsKey(t)) {
             List<Integer> u = new ArrayList<>(queue.remove());
             int d = distance.get(u);
@@ -32,5 +34,6 @@ public class REAR {
             List<Integer> t = Arrays.stream(stdin.nextLine().split(" ")).map(Integer::parseInt).collect(Collectors.toList());
             System.out.println(reversal(s, t));
         } while (stdin.hasNext() && stdin.nextLine().equals(""));
+        stdin.close();
     }
 }

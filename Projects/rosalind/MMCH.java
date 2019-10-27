@@ -22,5 +22,6 @@ public class MMCH {
         final int g = (int) read.chars().filter(G::equals).count();
         final int u = (int) read.chars().filter(U::equals).count();
         System.out.println(permute(Math.max(a, u), Math.min(a, u)).multiply(permute(Math.max(c, g), Math.min(c, g))));
+        stdin.close();
     }
 }

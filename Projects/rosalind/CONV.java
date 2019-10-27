@@ -18,5 +18,6 @@ public class CONV {
             System.out.println(e.getValue());
             System.out.println(e.getKey());
         });
+        stdin.close();
     }
 }

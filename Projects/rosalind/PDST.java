@@ -34,5 +34,6 @@ public class PDST {
                 d[i][j] = d[j][i] = (double) hamming(reads.get(i), reads.get(j)) / l;
         for (int i = 0; i < n; i++)
             System.out.println(Arrays.stream(d[i]).mapToObj(String::valueOf).collect(Collectors.joining(" ")));
+        stdin.close();
     }
 }

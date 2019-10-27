@@ -24,5 +24,6 @@ public class KMP {
         while (stdin.hasNext())
             read.append(stdin.next());
         Arrays.stream(preprocess(read.toString())).map(x -> x+1).forEach(System.out::println);
+        stdin.close();
     }
 }

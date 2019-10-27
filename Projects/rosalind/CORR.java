@@ -5,7 +5,8 @@ import java.util.*;
 import java.util.stream.*;
 
 public class CORR {
-    private static final Map<Character, Character> COMPLEMENT = new HashMap<Character, Character>() {{
+    @SuppressWarnings("serial")
+	private static final Map<Character, Character> COMPLEMENT = new HashMap<Character, Character>() {{
         put('A', 'T'); put('C', 'G'); put('G', 'C'); put('T', 'A');
     }};
     public static void main(String[] args) throws IOException {

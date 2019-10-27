@@ -4,7 +4,8 @@ import java.io.*;
 import java.util.*;
 
 public class SPEC {
-    private static final Map<Character, Double> MASS = new HashMap<>() {{
+    @SuppressWarnings("serial")
+	private static final Map<Character, Double> MASS = new HashMap<>() {{
         put('A',  71.03711); put('C', 103.00919); put('D', 115.02694); put('E', 129.04259);
         put('F', 147.06841); put('G',  57.02146); put('H', 137.05891); put('I', 113.08406);
         put('K', 128.09496); put('L', 113.08406); put('M', 131.04049); put('N', 114.04293);
@@ -20,5 +21,6 @@ public class SPEC {
             System.out.print(MASS.entrySet().stream().filter(e -> Math.abs(e.getValue() - diff) < 1e-4).map(Map.Entry::getKey).toArray(Character[]::new)[0]);
         }
         System.out.println();
+        stdin.close();
     }
 }

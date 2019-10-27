@@ -19,5 +19,6 @@ public class SORT {
         System.out.println(steps.size());
         for (int[] step : steps)
             System.out.printf("%d %d\n", step[0], step[1]);
+        stdin.close();
     }
 }

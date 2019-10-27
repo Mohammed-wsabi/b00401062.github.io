@@ -5,7 +5,8 @@ import java.util.*;
 import java.util.stream.*;
 
 public class DBRU {
-    private static final Map<Character, Character> COMPLEMENT = new HashMap<>() {{
+    @SuppressWarnings("serial")
+	private static final Map<Character, Character> COMPLEMENT = new HashMap<>() {{
         put('A', 'T'); put('C', 'G'); put('G', 'C'); put('T', 'A');
     }};
     private static String rc(String seq) {
@@ -17,7 +18,8 @@ public class DBRU {
         .map(String::valueOf)
         .collect(Collectors.joining());
     }
-    private static void add(Map<String, Set<String>> map, String seq) {
+    @SuppressWarnings("serial")
+	private static void add(Map<String, Set<String>> map, String seq) {
         String k = seq.substring(0, seq.length() - 1);
         String v = seq.substring(1);
         if (map.containsKey(k))
@@ -38,5 +40,6 @@ public class DBRU {
             for (String v : entry.getValue())
                 System.out.printf("(%s, %s)\n", k, v);
         }
+        stdin.close();
     }
 }

@@ -34,5 +34,6 @@ public class LCSQ {
         while (stdin.hasNext())
             t += stdin.next();
         System.out.println(lcs(s, t));
+        stdin.close();
     }
 }

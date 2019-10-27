@@ -1,10 +1,10 @@
 package rosalind;
 
-import java.io.*;
 import java.util.*;
 
 public class PRTM {
-    private static final Map<Character, Double> AAWT = new HashMap<Character, Double>() {{
+    @SuppressWarnings("serial")
+	private static final Map<Character, Double> AAWT = new HashMap<Character, Double>() {{
         put('A',  71.037110); put('C', 103.009190); put('D', 115.026940); put('E', 129.042590);
         put('F', 147.068410); put('G',  57.021460); put('H', 137.058910); put('I', 113.084060);
         put('K', 128.094960); put('L', 113.084060); put('M', 131.040490); put('N', 114.042930);

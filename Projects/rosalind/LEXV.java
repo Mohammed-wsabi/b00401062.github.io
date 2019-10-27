@@ -19,10 +19,11 @@ public class LEXV {
                     while ((last = stack.pop()) == N-1);
                     stack.push(last+1);
                 } catch (EmptyStackException e) {
-                    return;
+                    break;
                 }
             }
             System.out.println(stack.stream().map(symbols::get).collect(Collectors.joining()));
         }
+        stdin.close();
     }
 }

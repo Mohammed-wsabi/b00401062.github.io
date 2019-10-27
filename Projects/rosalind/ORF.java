@@ -5,7 +5,8 @@ import java.util.*;
 import java.util.stream.*;
 
 public class ORF {
-    private static final Map<String, Character> CODON = new HashMap<String, Character>() {{
+    @SuppressWarnings("serial")
+	private static final Map<String, Character> CODON = new HashMap<String, Character>() {{
         put("TTT", 'F'); put("CTT", 'L'); put("ATT", 'I'); put("GTT", 'V');
         put("TTC", 'F'); put("CTC", 'L'); put("ATC", 'I'); put("GTC", 'V');
         put("TTA", 'L'); put("CTA", 'L'); put("ATA", 'I'); put("GTA", 'V');
@@ -23,7 +24,8 @@ public class ORF {
         put("TGA", null); put("CGA", 'R'); put("AGA", 'R'); put("GGA", 'G');
         put("TGG", 'W'); put("CGG", 'R'); put("AGG", 'R'); put("GGG", 'G');
     }};
-    private static final Map<Character, Character> COMPLEMENT = new HashMap<Character, Character>() {{
+    @SuppressWarnings("serial")
+	private static final Map<Character, Character> COMPLEMENT = new HashMap<Character, Character>() {{
         put('A', 'T'); put('C', 'G'); put('G', 'C'); put('T', 'A');
     }};
     private static Set<String> translate(String dna) {

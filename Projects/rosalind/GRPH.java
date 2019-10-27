@@ -12,7 +12,8 @@ public class GRPH {
     }
     public static void main(String[] args) throws IOException {
         Scanner stdin = new Scanner(System.in);
-        List<String>[][] table = new ArrayList[64][2];
+        @SuppressWarnings("unchecked")
+		List<String>[][] table = new ArrayList[64][2];
         String name = null, seq = null;
         for (int i = 0; i < 64; i++)
             for (int j = 0; j < 2; j++)

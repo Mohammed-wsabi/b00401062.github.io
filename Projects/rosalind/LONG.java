@@ -27,7 +27,7 @@ public class LONG {
             for (int i = 0; i < reads.size(); i++) {
                 String read = reads.get(i);
                 boolean matched = false;
-                for (int j = 0, m; j < read.length()/2; j++)
+                for (int j = 0; j < read.length()/2; j++)
                     if (read.substring(j, read.length()).equals(genome.substring(0, read.length()-j))) {
                         genome = read.substring(0, j) + genome;
                         matched = true;
@@ -37,7 +37,7 @@ public class LONG {
                     reads.remove(i);
                     break;
                 }
-                for (int j = read.length()/2, m; j <= read.length(); j++)
+                for (int j = read.length()/2; j <= read.length(); j++)
                     if (read.substring(0, j).equals(genome.substring(genome.length()-j))) {
                         genome = genome + read.substring(j);
                         matched = true;

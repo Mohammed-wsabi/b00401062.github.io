@@ -4,7 +4,8 @@ import java.io.*;
 import java.util.*;
 
 public class CAT {
-    private static final Map<String, Integer> CACHE = new HashMap<String, Integer>() {{
+    @SuppressWarnings("serial")
+	private static final Map<String, Integer> CACHE = new HashMap<String, Integer>() {{
         put("", 1);
         put("AA", 0); put("AC", 0); put("AG", 0); put("AU", 1);
         put("CA", 0); put("CC", 0); put("CG", 1); put("CU", 0);

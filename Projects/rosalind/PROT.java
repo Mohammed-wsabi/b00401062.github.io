@@ -5,7 +5,8 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 public class PROT {
-    private static final Map<String, Character> CODON = new HashMap<String, Character>() {{
+    @SuppressWarnings("serial")
+	private static final Map<String, Character> CODON = new HashMap<String, Character>() {{
         put("UUU", 'F'); put("CUU", 'L'); put("AUU", 'I'); put("GUU", 'V');
         put("UUC", 'F'); put("CUC", 'L'); put("AUC", 'I'); put("GUC", 'V');
         put("UUA", 'L'); put("CUA", 'L'); put("AUA", 'I'); put("GUA", 'V');

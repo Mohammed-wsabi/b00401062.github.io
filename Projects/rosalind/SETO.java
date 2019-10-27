@@ -30,5 +30,6 @@ public class SETO {
         X = new HashSet<Integer>(U);
         X.removeAll(B);
         System.out.printf("{%s}\n", X.stream().map(String::valueOf).collect(Collectors.joining(", ")));
+        stdin.close();
     }
 }

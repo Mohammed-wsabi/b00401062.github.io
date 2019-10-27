@@ -20,5 +20,6 @@ public class KMER {
             read = read.substring(read.length()-3);
         }
         System.out.println(Arrays.stream(counts).mapToObj(String::valueOf).collect(Collectors.joining(" ")));
+        stdin.close();
     }
 }

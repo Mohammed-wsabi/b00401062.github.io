@@ -2,7 +2,6 @@ package rosalind;
 
 import java.io.*;
 import java.util.*;
-import java.util.stream.*;
 
 public class EDTA {
     private static String[] lcs(String s, String t) {
@@ -49,5 +48,6 @@ public class EDTA {
             t += stdin.next();
         String[] lcs = lcs(s, t);
         Arrays.stream(lcs).forEach(System.out::println);
+        stdin.close();
     }
 }

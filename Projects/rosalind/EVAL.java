@@ -18,5 +18,6 @@ public class EVAL {
             final double p = stdin.nextDouble();
             System.out.println((n-k+1) * Math.pow(p/2, c+g) * Math.pow((1-p)/2, a+t));
         }
+        stdin.close();
     }
 }

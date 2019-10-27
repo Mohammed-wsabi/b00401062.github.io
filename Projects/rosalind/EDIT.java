@@ -38,5 +38,6 @@ public class EDIT {
                 dp[i][j] = Arrays.stream(dirs).min().getAsInt();
             }
         System.out.println(dp[s.length()][t.length()]);
+        stdin.close();
     }
 }

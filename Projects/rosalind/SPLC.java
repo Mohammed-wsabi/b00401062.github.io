@@ -1,11 +1,11 @@
 package rosalind;
 
-import java.io.*;
 import java.util.*;
 import java.util.stream.*;
 
 public class SPLC {
-    private static final Map<String, Character> CODON = new HashMap<String, Character>() {{
+    @SuppressWarnings("serial")
+	private static final Map<String, Character> CODON = new HashMap<String, Character>() {{
         put("TTT", 'F'); put("CTT", 'L'); put("ATT", 'I'); put("GTT", 'V');
         put("TTC", 'F'); put("CTC", 'L'); put("ATC", 'I'); put("GTC", 'V');
         put("TTA", 'L'); put("CTA", 'L'); put("ATA", 'I'); put("GTA", 'V');

@@ -15,5 +15,6 @@ public class RSTR {
         final int g = (int) read.chars().filter(G::equals).count();
         final int t = (int) read.chars().filter(T::equals).count();
         System.out.println(1 - Math.pow(1 - Math.pow(p/2, c+g) * Math.pow((1-p)/2, a+t), n));
+        stdin.close();
     }
 }

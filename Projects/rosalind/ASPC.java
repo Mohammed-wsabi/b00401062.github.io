@@ -20,5 +20,6 @@ public class ASPC {
         for (int i = k; i <= n; i++)
             sum = sum.add(choose(n, i));
         System.out.println(sum.mod(new BigInteger("1000000")));
+        stdin.close();
     }
 }

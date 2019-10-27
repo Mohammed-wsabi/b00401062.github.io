@@ -1,12 +1,12 @@
 package rosalind;
 
-import java.io.*;
 import java.util.*;
 
 public class NWCK {
     private static int distance(String[] tree, int s, int t) {
         int d = 0;
-        Stack<String> stack = new Stack<>() {{ push("$"); }};
+        @SuppressWarnings("serial")
+		Stack<String> stack = new Stack<>() {{ push("$"); }};
         for (int i = s+1; i < t; i++) {
             switch (tree[i]) {
             case "(":
@@ -55,5 +55,6 @@ public class NWCK {
             int t = Arrays.asList(tree).indexOf(stdin.next());
             System.out.println(distance(tree, Math.min(s, t), Math.max(s, t)));
         }
+        stdin.close();
     }
 }

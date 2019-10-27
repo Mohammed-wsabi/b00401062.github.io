@@ -46,5 +46,6 @@ public class TRIE {
             root.add(stdin.nextLine());
         for (Edge e : root.edges())
             System.out.printf("%d %d %c\n", e.s, e.t, e.c);
+        stdin.close();
     }
 }

@@ -4,7 +4,8 @@ import java.io.*;
 import java.util.*;
 
 public class MOTZ {
-    private static final Map<String, Integer> CACHE = new HashMap<String, Integer>() {{
+    @SuppressWarnings("serial")
+	private static final Map<String, Integer> CACHE = new HashMap<String, Integer>() {{
         put("", 1);
         put("A", 1); put("C", 1); put("G", 1); put("U", 1);
         put("AA", 1); put("AC", 1); put("AG", 1); put("AU", 2);

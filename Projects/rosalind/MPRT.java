@@ -12,7 +12,7 @@ public class MPRT {
         Scanner stdin = new Scanner(System.in);
         PrintStream stdout = System.out;
         while (stdin.hasNext()) {
-            String id = stdin.next(), line = null;
+            String id = stdin.next();
             StringBuilder seq = new StringBuilder();
             URL url = new URL("http://www.uniprot.org/uniprot/" + id + ".fasta");
             Scanner urlin = new Scanner(url.openStream());

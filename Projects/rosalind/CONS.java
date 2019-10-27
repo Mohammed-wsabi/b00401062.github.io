@@ -12,7 +12,7 @@ public class CONS {
     public static void main(String[] args) throws IOException {
         Scanner stdin = new Scanner(System.in);
         int[][] table = null;
-        String name = null, seq = null;
+        String seq = null;
         while (true) {
             if (!stdin.hasNext()) {
                 put(table, seq);
