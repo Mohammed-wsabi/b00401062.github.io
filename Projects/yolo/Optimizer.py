@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-import tensorflow.keras.optimizers
+import keras.optimizers
 
 
 class Optimizer:
@@ -9,4 +9,4 @@ class Optimizer:
         self.lr = C["model"]["optimizer"]["lr"]
 
     def load(self):
-        return getattr(tensorflow.keras.optimizers, self.name)(lr=self.lr)
+        return getattr(keras.optimizers, self.name)(lr=self.lr)

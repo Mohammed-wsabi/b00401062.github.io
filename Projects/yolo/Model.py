@@ -1,17 +1,17 @@
 #!/usr/bin/env python
 
-import tensorflow.keras.applications
-import tensorflow.keras.models
-from tensorflow.keras.layers import GlobalAveragePooling2D
-from tensorflow.keras.layers import Dense
-from yolo.Optimizer import *
-from yolo.Utils import *
+import keras.applications
+import keras.models
+from keras.layers import GlobalAveragePooling2D
+from keras.layers import Dense
+from yolo.Optimizer import Optimizer
+from yolo.Utils import Utils
 
 
 class Model:
     def __init__(self, C):
         self.name = C["model"]["name"]
-        self.input_shape = Shape(**C["data"]["input_shape"])
+        self.input_shape = Utils.Shape(**C["data"]["input_shape"])
         self.units = len(C["data"]["classes"])
         self.activation = C["model"]["activation"]
         self.loss = C["model"]["loss"]
@@ -19,7 +19,7 @@ class Model:
         self.metrics = C["model"]["metrics"]
 
     def load(self):
-        model = getattr(tensorflow.keras.applications, self.name)(
+        model = getattr(keras.applications, self.name)(
             weights="imagenet",
             include_top=False,
             input_shape=self.input_shape,
@@ -28,7 +28,7 @@ class Model:
             layer.trainable = False
         output = GlobalAveragePooling2D()(model.output)
         output = Dense(units=self.units, activation="softmax")(output)
-        model = tensorflow.keras.models.Model(inputs=model.input, outputs=output)
+        model = keras.models.Model(inputs=model.input, outputs=output)
         model.compile(
             loss=self.loss,
             optimizer=self.optimizer,
