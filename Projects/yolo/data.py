@@ -3,7 +3,7 @@
 from pandas import (DataFrame, Series, read_csv)
 from sklearn.model_selection import train_test_split
 from keras.preprocessing.image import ImageDataGenerator
-from yolo.Utils import Utils
+from yolo.utils import Utils
 
 
 class Data:

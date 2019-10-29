@@ -4,8 +4,8 @@ import keras.applications
 import keras.models
 from keras.layers import GlobalAveragePooling2D
 from keras.layers import Dense
-from yolo.Optimizer import Optimizer
-from yolo.Utils import Utils
+from yolo.optimizer import Optimizer
+from yolo.utils import Utils
 
 
 class Model:

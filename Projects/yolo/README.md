@@ -2,17 +2,17 @@
 
 ## Configuration
 
-- [Conf.yaml](Conf.yaml): Configuration file which lists available hyperparameters.
+- [conf.yaml](conf.yaml): Configuration file which lists available hyperparameters.
 
 ## Script Files
 
-- [Conf.py](Conf.py): Loading configuration from [Conf.yaml](Conf.yaml).
-- [Utils.py](Utils.py): Common functions used across the module.
-- [Data.py](Data.py): Loading preprocessed and augmented images.
-- [Model.py](Model.py): Loading compiled model which is ready for fitting.
-- [Optimizer.py](Optimizer.py): Loading optimizer and passing to model.
-- [Callback.py](Callback.py): Loading callbacks and passing to fitting function.
-- [Shower.py](Shower.py): Visualizing training process and inference.
+- [conf.py](conf.py): Loading configuration from [conf.yaml](conf.yaml).
+- [utils.py](utils.py): Common functions used across the module.
+- [data.py](data.py): Loading preprocessed and augmented images.
+- [model.py](model.py): Loading compiled model which is ready for fitting.
+- [optimizer.py](optimizer.py): Loading optimizer and passing to model.
+- [callback.py](callback.py): Loading callbacks and passing to fitting function.
+- [shower.py](shower.py): Visualizing training process and inference.
 
 ## Execution
 
