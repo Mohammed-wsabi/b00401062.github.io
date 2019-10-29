@@ -1,17 +1,21 @@
 package leetcode
 
-import kotlin.math.min
-
 fun jump(nums: IntArray): Int {
     if (nums.size == 1) return 0
-    val jumps = IntArray(nums.size) { Int.MAX_VALUE }
-    jumps[0] = 0
-    for (rt in 1 until nums.size) {
-        for (lt in 0 until rt) {
-            val num = nums[lt]
-            if (lt + num < rt) continue
-            jumps[rt] = min(jumps[rt], jumps[lt] + 1)
+    var jump = 0
+    var curr = 0
+    var next = 0
+    for ((idx, num) in nums.withIndex()) {
+        if (idx + num >= nums.lastIndex) {
+            return jump + 1
+        }
+        if (idx + num > next) {
+            next = idx + num
+        }
+        if (idx == curr) {
+            curr = next
+            jump += 1
         }
     }
-    return jumps.last()
+    return jump
 }
