@@ -4,13 +4,13 @@ import keras.applications
 import keras.models
 from keras.layers import GlobalAveragePooling2D
 from keras.layers import Dense
-from yolo.optimizer import Optimizer
-from yolo.utils import Utils
+from rcnn.optimizer import Optimizer
+from rcnn.utils import Utils
 
 
 class Model:
     def __init__(self, C):
-        self.name = C["model"]["name"]
+        self.backbone = C["model"]["backbone"]
         self.input_shape = Utils.Shape(**C["data"]["input_shape"])
         self.units = len(C["data"]["classes"])
         self.activation = C["model"]["activation"]
@@ -19,7 +19,7 @@ class Model:
         self.metrics = C["model"]["metrics"]
 
     def load(self):
-        model = getattr(keras.applications, self.name)(
+        model = getattr(keras.applications, self.backbone)(
             weights="imagenet",
             include_top=False,
             input_shape=self.input_shape,

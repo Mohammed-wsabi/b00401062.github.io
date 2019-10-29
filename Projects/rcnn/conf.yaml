@@ -19,7 +19,7 @@ data:
         test: 0.2
     batch_size: 128
 model:
-    name: ResNet50
+    backbone: ResNet50
     activation: softmax
     loss: categorical_crossentropy
     optimizer:

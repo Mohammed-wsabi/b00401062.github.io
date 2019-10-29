@@ -1,4 +1,4 @@
-# You Only Look Once (YOLO)
+# Region-based Convolutional Neural Network (RCNN)
 
 ## Configuration
 
@@ -19,5 +19,5 @@
 ```bash
 export PYTHONHASHSEED=0
 export PYTHONPATH=$HOME/Documents/Projects/
-python -B -m yolo
+python -B -m rcnn
 ```
