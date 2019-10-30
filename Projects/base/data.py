@@ -18,7 +18,7 @@ class Data:
         self.split_size = C["data"]["split_size"]
         self.batch_size = C["data"]["batch_size"]
 
-    def load(self):
+    def load(self) -> Utils.Set:
         split_size = Utils.Set(**self.split_size)
         label: DataFrame = read_csv(self.filepath, header=0, dtype=str)
         counts: DataFrame = label[label.columns[1:]].apply(Series.value_counts, axis=0)
