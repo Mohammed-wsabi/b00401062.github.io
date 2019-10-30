@@ -13,11 +13,7 @@ class Shower:
     def __init__(self, history):
         self.history = history
 
-    def show(self, metrics):
-        if "loss" in metrics: self.loss()
-        if "accuracy" in metrics: self.accuracy()
-
-    def loss(self):
+    def show(self):
         plot(self.history.history["loss"])
         plot(self.history.history["val_loss"])
         grid()
@@ -25,16 +21,6 @@ class Shower:
         xlabel("Epoch")
         legend(["Training", "Validation"])
         savefig("loss")
-        close()
-
-    def accuracy(self):
-        plot(self.history.history["acc"])
-        plot(self.history.history["val_acc"])
-        grid()
-        ylabel("Accuracy")
-        xlabel("Epoch")
-        legend(["Training", "Validation"])
-        savefig("accuracy")
         close()
 
     @staticmethod
