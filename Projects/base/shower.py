@@ -13,7 +13,7 @@ class Shower:
     def __init__(self, history):
         self.history = history
 
-    def show(self, metrics):
+    def show(self):
         plot(self.history.history["loss"])
         plot(self.history.history["val_loss"])
         grid()

@@ -10,16 +10,16 @@ from base.shower import Shower
 
 if __name__ == "__main__":
     C = Conf("../conf/conf.yaml").load()
-    data = Utils.Set(*Data(C).load())
+    data: Utils.Set = Data(C).load()
     model = Model(C).load()
     history = model.fit_generator(
-        generator=data.training,
+        generator=data.training.training,
         epochs=C["fitting"]["epochs"],
         verbose=C["fitting"]["verbose"],
         callbacks=Callback(C).load(),
-        validation_data=data.validation,
+        validation_data=data.training.test,
     )
-    Shower(history).show(["loss", "accuracy"])
+    Shower(history).show()
     if data.test is not None:
         files = data.test.filenames
         y = model.predict_generator(
