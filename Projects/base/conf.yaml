@@ -11,9 +11,7 @@ data:
         height: 224
         width: 224
         depth: 3
-    classes:
-        - cat
-        - dog
+    classes: # list
     split_size:
         training: 0.8
         test: 0.2
