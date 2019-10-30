@@ -17,8 +17,6 @@ data:
     batch_size: 128
 model:
     backbone: # https://keras.io/applications/
-    activation: # https://keras.io/activations/
-    loss: # https://keras.io/losses/
     optimizer:
         name: Adam
         lr: 0.0001

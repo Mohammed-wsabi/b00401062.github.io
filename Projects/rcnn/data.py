@@ -15,8 +15,6 @@ class Data:
         self.directory = Utils.Set(**C["data"]["directory"])
         self.input_shape = Utils.Shape(**C["data"]["input_shape"])
         self.filepath = C["data"]["label"]["filepath"]
-        self.x_col = C["data"]["label"]["x_col"]
-        self.y_col = C["data"]["label"]["y_col"]
         self.classes = C["data"]["classes"]
         self.split_size = C["data"]["split_size"]
         self.batch_size = C["data"]["batch_size"]
@@ -92,15 +90,15 @@ class Generator:
                 )
                 batch.x.append(cv2.resize(cv2.imread(paths[0]), target_size))
                 boxes = Generator.boxes(ElementTree.parse(paths[1]))
-                batch.y.append(Grid().labels(boxes))
+                batch.y.append(Grid.labels(boxes))
             batch_idx = (batch_idx + 1) % epoch_size
             yield array(batch.x), array(batch.y)
 
     @staticmethod
     def flow_from_directory(
-            directory: str,
-            target_size: Tuple[int, int],
-            batch_size: int
+        directory: str,
+        target_size: Tuple[int, int],
+        batch_size: int
     ) -> Tuple[ndarray, ndarray]:
         paths: List[str] = glob(directory + "*.jpg")
         batch_idx: int = 0

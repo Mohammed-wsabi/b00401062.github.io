@@ -3,7 +3,7 @@
 from collections import namedtuple
 from itertools import product
 from math import sqrt
-from numpy import zeros
+from numpy import (array, zeros, concatenate, repeat)
 from typing import (List, Tuple)
 
 
@@ -48,29 +48,30 @@ class Rectangle:
 
 
 class Grid:
-    def __init__(self):
-        self.shape = (24, 24)
-        self.stride = (1/25, 1/25)
-        self.ratios = (1/2, 1, 2)
-        self.sizes = (0.16, 0.32, 0.64)
-        self.iou = (0.3, 0.7)
+    shape = (24, 24)
+    strides = (1/25, 1/25)
+    ratios = (1/2, 1, 2)
+    scales = (0.16, 0.32, 0.64)
+    iou = (1/4, 1/2)
 
-    def labels(self, boxes: List[Rectangle]):
-        num_anchors = len(self.ratios) * len(self.sizes)
-        labels_cls = zeros((*self.shape, len(self.ratios), len(self.sizes), 2))
-        labels_reg = zeros((*self.shape, len(self.ratios), len(self.sizes), 4))
+    @staticmethod
+    def labels(boxes: List[Rectangle]):
+        num_anchors = len(Grid.ratios) * len(Grid.scales)
+        labels_box = zeros((*Grid.shape, len(Grid.ratios), len(Grid.scales)))
+        labels_obj = zeros((*Grid.shape, len(Grid.ratios), len(Grid.scales)))
+        labels_reg = zeros((*Grid.shape, len(Grid.ratios), len(Grid.scales), 4))
         for (x, y, i, j) in product(
-                range(self.shape[1]),
-                range(self.shape[0]),
-                range(len(self.ratios)),
-                range(len(self.sizes))
+                range(Grid.shape[1]),
+                range(Grid.shape[0]),
+                range(len(Grid.ratios)),
+                range(len(Grid.scales))
         ):
-            cx = (x + 1) * self.stride[1]
-            cy = (y + 1) * self.stride[0]
-            ratio = self.ratios[i]
-            size = self.sizes[j]
-            w = size * sqrt(ratio)
-            h = size / sqrt(ratio)
+            cx = (x + 1) * Grid.strides[1]
+            cy = (y + 1) * Grid.strides[0]
+            ratio = Grid.ratios[i]
+            scale = Grid.scales[j]
+            w = scale * sqrt(ratio)
+            h = scale / sqrt(ratio)
             if not (w/2 < cx < 1 - w/2 and h/2 < cy < 1 - h/2):
                 continue
             anchor = Rectangle(
@@ -82,14 +83,22 @@ class Grid:
             for box_idx, box in enumerate(boxes):
                 iou = box.iou(anchor)
                 shift = box.minus(anchor)
-                if iou < self.iou[0]:
-                    labels_cls[y, x, i, j] = (1, 0)
-                elif self.iou[0] < iou < self.iou[1]:
-                    labels_cls[y, x, i, j] = (0, 0)
+                if iou < Grid.iou[0]:
+                    labels_box[y, x, i, j] = 1
+                    labels_obj[y, x, i, j] = 0
+                elif Grid.iou[0] < iou < Grid.iou[1]:
+                    labels_box[y, x, i, j] = 0
+                    labels_obj[y, x, i, j] = 0
                 else:
-                    labels_cls[y, x, i, j] = (1, 1)
-                    lu, rl = shift.corners()
-                    labels_reg[y, x, i, j] = (*lu, *rl)
-        labels_cls = labels_cls.reshape((*self.shape, num_anchors * 2))
-        labels_reg = labels_reg.reshape((*self.shape, num_anchors * 4))
+                    labels_box[y, x, i, j] = 1
+                    labels_obj[y, x, i, j] = 1
+                    labels_reg[y, x, i, j] = array(shift.corners()).flatten()
+        labels_cls = concatenate([
+            labels_box.reshape((*Grid.shape, num_anchors)),
+            labels_obj.reshape((*Grid.shape, num_anchors)),
+        ], axis=2)
+        labels_reg = concatenate([
+            labels_reg.reshape((*Grid.shape, num_anchors * 4)),
+            repeat(labels_obj.reshape((*Grid.shape, num_anchors)), repeats=4, axis=2),
+        ], axis=2)
         return labels_cls, labels_reg
