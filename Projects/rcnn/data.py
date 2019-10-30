@@ -1,7 +1,7 @@
 #!/usr/bin/env python
-from glob import glob
 
 import cv2
+from glob import glob
 from numpy import array, ndarray
 from pandas import (DataFrame, read_csv)
 from sklearn.model_selection import train_test_split
