@@ -101,7 +101,7 @@ class Generator:
             directory: str,
             target_size: Tuple[int, int],
             batch_size: int
-    ):
+    ) -> Tuple[ndarray, ndarray]:
         paths: List[str] = glob(directory + "*.jpg")
         batch_idx: int = 0
         epoch_size: int = (len(paths) - 1) // batch_size + 1
