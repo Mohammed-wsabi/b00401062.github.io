@@ -5,28 +5,24 @@ data:
     label:
         filepath: ../data/label.csv
         x_col: filename
-        y_col: class
-        class_mode: categorical
+        y_col: label
     input_shape:
         height: 224
         width: 224
         depth: 3
-    classes:
-        - cat
-        - dog
+    classes: # list
     split_size:
         training: 0.8
         test: 0.2
     batch_size: 128
 model:
-    backbone: ResNet50
-    activation: softmax
-    loss: categorical_crossentropy
+    backbone: # https://keras.io/applications/
+    activation: # https://keras.io/activations/
+    loss: # https://keras.io/losses/
     optimizer:
         name: Adam
         lr: 0.0001
-    metrics:
-        - accuracy
+    metrics: # https://keras.io/metrics/
 fitting:
     epochs: 200
     verbose: 1

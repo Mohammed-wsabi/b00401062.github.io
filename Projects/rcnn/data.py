@@ -1,9 +1,13 @@
 #!/usr/bin/env python
+from glob import glob
 
+import cv2
+from numpy import array
 from pandas import (DataFrame, Series, read_csv)
 from sklearn.model_selection import train_test_split
-from keras.preprocessing.image import ImageDataGenerator
-from rcnn.utils import Utils
+from typing import Tuple, List
+from xml.etree import ElementTree
+from rcnn.utils import (Utils, Rectangle, Grid)
 
 
 class Data:
@@ -13,66 +17,101 @@ class Data:
         self.filepath = C["data"]["label"]["filepath"]
         self.x_col = C["data"]["label"]["x_col"]
         self.y_col = C["data"]["label"]["y_col"]
-        self.class_mode = C["data"]["label"]["class_mode"]
         self.classes = C["data"]["classes"]
         self.split_size = C["data"]["split_size"]
         self.batch_size = C["data"]["batch_size"]
 
     def load(self):
         split_size = Utils.Set(**self.split_size)
-        label: DataFrame = read_csv(self.filepath, header=0, dtype=str)
-        counts: DataFrame = label[label.columns[1:]].apply(Series.value_counts, axis=0)
-        weights: DataFrame = DataFrame(index=label.index, columns=label.columns[1:])
-        for column in weights.columns:
-            weights[column] = label[column].map({
-                self.classes[0]: counts[column][1] * 2 / label.shape[0],
-                self.classes[1]: counts[column][0] * 2 / label.shape[0]
-            })
-        label["weight"] = weights.mean(axis=1)
         df: Utils.Set = Utils.Set(*train_test_split(
-            label,
+            read_csv(self.filepath, header=0),
             test_size=split_size.test,
             random_state=0,
-            stratify=label[self.y_col],
         ))
         return Utils.Set(
             training=Utils.Set(
-                training=ImageDataGenerator(
-                    rotation_range=180,
-                    width_shift_range=0.1,
-                    height_shift_range=0.1,
-                    brightness_range=(0.9, 1.1),
-                    shear_range=10,
-                    zoom_range=0.1,
-                    horizontal_flip=True,
-                    vertical_flip=True,
-                    rescale=1/255,
-                ).flow_from_dataframe(
+                training=Generator.flow_from_dataframe(
                     dataframe=df.training,
                     directory=self.directory.training,
                     target_size=self.input_shape[:2],
                     batch_size=self.batch_size,
-                    x_col=self.x_col,
-                    y_col=self.y_col,
-                    weight_col="weight",
-                    class_mode=self.class_mode,
                 ),
-                test=ImageDataGenerator(rescale=1/255).flow_from_dataframe(
+                test=Generator.flow_from_dataframe(
                     dataframe=df.test,
                     directory=self.directory.training,
                     target_size=self.input_shape[:2],
                     batch_size=self.batch_size,
-                    x_col=self.x_col,
-                    y_col=self.y_col,
-                    weight_col="weight",
-                    class_mode=self.class_mode,
                 )
             ),
-            test=ImageDataGenerator(rescale=1/255).flow_from_directory(
+            test=Generator.flow_from_directory(
                 directory=self.directory.test,
                 target_size=self.input_shape[:2],
                 batch_size=self.batch_size,
-                class_mode=None,
-                shuffle=False,
             ) if self.directory.test is not None else None
         )
+
+
+class Generator:
+    def __init__(self, augmentation=None):
+        self.augmentation = augmentation
+
+    @staticmethod
+    def boxes(tree: ElementTree):
+        root = tree.getroot()
+        shape = Utils.Shape(
+            int(root.find("size").find("height").text),
+            int(root.find("size").find("width").text),
+            int(root.find("size").find("depth").text),
+        )
+        return [Rectangle(
+            int(box.find("xmin").text) / shape.width,
+            int(box.find("ymin").text) / shape.height,
+            int(box.find("xmax").text) / shape.width,
+            int(box.find("ymax").text) / shape.height,
+        ) for _ in root.iter("object") for box in _.findall("bndbox")]
+
+    @staticmethod
+    def flow_from_dataframe(
+        dataframe: DataFrame,
+        directory: Tuple[str, str],
+        target_size: Tuple[int, int],
+        batch_size: int
+    ):
+        batch_idx: int = 0
+        epoch_size: int = (dataframe.shape[0] - 1) // batch_size + 1
+        while True:
+            batch = Utils.Variable([], [])
+            idx = (
+                batch_idx * batch_size,
+                min((batch_idx + 1) * batch_size, dataframe.shape[0])
+            )
+            for filename in dataframe.filename[idx[0]:idx[1]]:
+                paths = (
+                    directory[0] + filename + ".jpg",
+                    directory[1] + filename + ".xml"
+                )
+                batch.x.append(cv2.resize(cv2.imread(paths[0]), target_size))
+                boxes = Generator.boxes(ElementTree.parse(paths[1]))
+                batch.y.append(Grid().labels(boxes))
+            batch_idx = (batch_idx + 1) % epoch_size
+            yield array(batch.x), array(batch.y)
+
+    @staticmethod
+    def flow_from_directory(
+            directory: str,
+            target_size: Tuple[int, int],
+            batch_size: int
+    ):
+        paths: List[str] = glob(directory + "*.jpg")
+        batch_idx: int = 0
+        epoch_size: int = (len(paths) - 1) // batch_size + 1
+        while True:
+            batch = Utils.Variable([], None)
+            idx = (
+                batch_idx * batch_size,
+                min((batch_idx + 1) * batch_size, len(paths))
+            )
+            for path in paths[idx[0]:idx[1]]:
+                batch.x.append(cv2.resize(cv2.imread(path), target_size))
+            batch_idx = (batch_idx + 1) % epoch_size
+            yield array(batch.x), None

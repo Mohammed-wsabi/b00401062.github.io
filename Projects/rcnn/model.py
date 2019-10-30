@@ -2,8 +2,9 @@
 
 import keras.applications
 import keras.models
-from keras.layers import GlobalAveragePooling2D
-from keras.layers import Dense
+from keras.engine import Layer
+from keras.layers import (Conv2D, Dense, GlobalAveragePooling2D)
+from typing import List
 from rcnn.optimizer import Optimizer
 from rcnn.utils import Utils
 
@@ -18,17 +19,26 @@ class Model:
         self.optimizer = Optimizer(C).load()
         self.metrics = C["model"]["metrics"]
 
+    def outputs(self, task: str, base: Layer) -> List[Layer]:
+        outputs: List[Layer] = []
+        if task == "classification":
+            output = GlobalAveragePooling2D()(base)
+            output = Dense(units=self.units, activation=self.activation)(output)
+            outputs = [output]
+        elif task == "detection":
+            output = Conv2D(512, (3, 3), padding="same", activation="relu", kernel_initializer="normal")(base)
+            output_cls = Conv2D(9, (1, 1), activation="sigmoid", kernel_initializer="uniform")(output)
+            output_reg = Conv2D(9 * 4, (1, 1), activation="linear", kernel_initializer="zero")(output)
+            outputs = [output_cls, output_reg]
+        return outputs
+
     def load(self):
         model = getattr(keras.applications, self.backbone)(
-            weights="imagenet",
             include_top=False,
             input_shape=self.input_shape,
         )
-        for layer in model.layers:
-            layer.trainable = False
-        output = GlobalAveragePooling2D()(model.output)
-        output = Dense(units=self.units, activation="softmax")(output)
-        model = keras.models.Model(inputs=model.input, outputs=output)
+        outputs = self.outputs("detection", model.output)
+        model = keras.models.Model(inputs=model.input, outputs=outputs)
         model.compile(
             loss=self.loss,
             optimizer=self.optimizer,
