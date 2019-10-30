@@ -2,8 +2,8 @@
 from glob import glob
 
 import cv2
-from numpy import array
-from pandas import (DataFrame, Series, read_csv)
+from numpy import array, ndarray
+from pandas import (DataFrame, read_csv)
 from sklearn.model_selection import train_test_split
 from typing import Tuple, List
 from xml.etree import ElementTree
@@ -21,7 +21,7 @@ class Data:
         self.split_size = C["data"]["split_size"]
         self.batch_size = C["data"]["batch_size"]
 
-    def load(self):
+    def load(self) -> Utils.Set:
         split_size = Utils.Set(**self.split_size)
         df: Utils.Set = Utils.Set(*train_test_split(
             read_csv(self.filepath, header=0),
@@ -56,7 +56,7 @@ class Generator:
         self.augmentation = augmentation
 
     @staticmethod
-    def boxes(tree: ElementTree):
+    def boxes(tree: ElementTree) -> List[Rectangle]:
         root = tree.getroot()
         shape = Utils.Shape(
             int(root.find("size").find("height").text),
@@ -76,7 +76,7 @@ class Generator:
         directory: Tuple[str, str],
         target_size: Tuple[int, int],
         batch_size: int
-    ):
+    ) -> Tuple[ndarray, ndarray]:
         batch_idx: int = 0
         epoch_size: int = (dataframe.shape[0] - 1) // batch_size + 1
         while True:
