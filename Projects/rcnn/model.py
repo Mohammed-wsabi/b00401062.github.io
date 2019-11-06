@@ -25,9 +25,23 @@ class Model:
         num_anchors = len(Grid.ratios) * len(Grid.scales)
         output = Conv2D(
             kernel_size=512,
-            strides=(3, 3), padding="same", activation="relu", kernel_initializer="normal")(base)
-        output_cls = Conv2D(num_anchors, (1, 1), activation="sigmoid", kernel_initializer="uniform")(output)
-        output_reg = Conv2D(num_anchors * 4, (1, 1), activation="linear", kernel_initializer="zero")(output)
+            strides=(3, 3),
+            padding="same",
+            activation="relu",
+            kernel_initializer="normal"
+        )(base)
+        output_cls = Conv2D(
+            kernel_size=num_anchors,
+            strides=(1, 1),
+            activation="sigmoid",
+            kernel_initializer="uniform"
+        )(output)
+        output_reg = Conv2D(
+            kernel_size=num_anchors * 4,
+            strides=(1, 1),
+            activation="linear",
+            kernel_initializer="zero"
+        )(output)
         return [output_cls, output_reg]
 
     @staticmethod
