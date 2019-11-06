@@ -6,7 +6,6 @@ from keras import backend as K
 from keras.engine import Layer
 from keras.layers import Conv2D
 from numpy import ndarray
-from tensorflow import float32
 from typing import List
 from rcnn.optimizer import Optimizer
 from rcnn.utils import (Utils, Grid)
@@ -60,7 +59,7 @@ class Model:
             y_reg: ndarray = y_true[1]
             r: ndarray = y_pred - y_reg
             r_abs = K.abs(r)
-            r_bool = K.cast(K.less_equal(r_abs, 1.0), float32)
+            r_bool = K.cast(K.less_equal(r_abs, 1.0), "float32")
             return K.sum(y_obj * (
                 r_bool * (0.5 * r * r) + (1 - r_bool) * (r_abs - 0.5)
             )) / K.sum(epsilon + y_obj)
