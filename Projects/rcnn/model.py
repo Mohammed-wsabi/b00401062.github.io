@@ -2,8 +2,11 @@
 
 import keras.applications
 import keras.models
+from keras import backend as K
 from keras.engine import Layer
 from keras.layers import Conv2D
+from numpy import ndarray
+from tensorflow import float32
 from typing import List
 from rcnn.optimizer import Optimizer
 from rcnn.utils import (Utils, Grid)
@@ -29,13 +32,24 @@ class Model:
 
     @staticmethod
     def losses() -> List:
-        num_anchors = len(Grid.ratios) * len(Grid.scales)
+        epsilon = 1e-4
 
         def loss_cls(y_true, y_pred):
-            pass
+            y_box = y_true[0]
+            y_obj = y_true[1]
+            return K.sum(
+                y_box * K.binary_crossentropy(y_pred, y_obj)
+            ) / K.sum(epsilon + y_box)
 
         def loss_reg(y_true, y_pred):
-            pass
+            y_obj: ndarray = y_true[0]
+            y_reg: ndarray = y_true[1]
+            r: ndarray = y_pred - y_reg
+            r_abs = K.abs(r)
+            r_bool = K.cast(K.less_equal(r_abs, 1.0), float32)
+            return K.sum(y_obj * (
+                r_bool * (0.5 * r * r) + (1 - r_bool) * (r_abs - 0.5)
+            )) / K.sum(epsilon + y_obj)
 
         return [loss_cls, loss_reg]
 

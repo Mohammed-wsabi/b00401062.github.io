@@ -93,12 +93,12 @@ class Grid:
                     labels_box[y, x, i, j] = 1
                     labels_obj[y, x, i, j] = 1
                     labels_reg[y, x, i, j] = array(shift.corners()).flatten()
-        labels_cls = concatenate([
+        labels_cls = array([
             labels_box.reshape((*Grid.shape, num_anchors)),
             labels_obj.reshape((*Grid.shape, num_anchors)),
-        ], axis=2)
-        labels_reg = concatenate([
-            labels_reg.reshape((*Grid.shape, num_anchors * 4)),
+        ])
+        labels_reg = array([
             repeat(labels_obj.reshape((*Grid.shape, num_anchors)), repeats=4, axis=2),
-        ], axis=2)
+            labels_reg.reshape((*Grid.shape, num_anchors * 4)),
+        ])
         return labels_cls, labels_reg

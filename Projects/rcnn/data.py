@@ -92,7 +92,7 @@ class Generator:
                 boxes = Generator.boxes(ElementTree.parse(paths[1]))
                 batch.y.append(Grid.labels(boxes))
             batch_idx = (batch_idx + 1) % epoch_size
-            yield array(batch.x), array(batch.y)
+            yield batch.x, batch.y
 
     @staticmethod
     def flow_from_directory(
