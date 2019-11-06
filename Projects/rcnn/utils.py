@@ -61,10 +61,10 @@ class Grid:
         labels_obj = zeros((*Grid.shape, len(Grid.ratios), len(Grid.scales)))
         labels_reg = zeros((*Grid.shape, len(Grid.ratios), len(Grid.scales), 4))
         for (x, y, i, j) in product(
-                range(Grid.shape[1]),
-                range(Grid.shape[0]),
-                range(len(Grid.ratios)),
-                range(len(Grid.scales))
+            range(Grid.shape[1]),
+            range(Grid.shape[0]),
+            range(len(Grid.ratios)),
+            range(len(Grid.scales))
         ):
             cx = (x + 1) * Grid.strides[1]
             cy = (y + 1) * Grid.strides[0]
