@@ -48,8 +48,8 @@ class Rectangle:
 
 
 class Grid:
-    shape = (24, 24)
-    strides = (1/25, 1/25)
+    shape = (15, 15)
+    strides = (1/16, 1/16)
     ratios = (1/2, 1, 2)
     scales = (0.16, 0.32, 0.64)
     iou = (1/4, 1/2)

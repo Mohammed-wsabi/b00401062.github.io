@@ -1,19 +1,13 @@
 data:
-    directory:
+    image_directory:
         training: ../data/
         test: ../data/
-    label:
-        filepath: ../data/label.csv
-        x_col: filename
-        y_col: label
+    label_directory: ../data/
     input_shape:
-        height: 224
-        width: 224
+        height: 360
+        width: 360
         depth: 3
     classes: # list
-    split_size:
-        training: 0.8
-        test: 0.2
     batch_size: 128
 model:
     backbone: # https://keras.io/applications/
