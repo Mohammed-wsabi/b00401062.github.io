@@ -14,7 +14,6 @@ class Model:
     def __init__(self, C):
         self.backbone = C["model"]["backbone"]
         self.input_shape = Utils.Shape(**C["data"]["input_shape"])
-        self.units = len(C["data"]["classes"])
         self.optimizer = Optimizer(C).load()
         self.metrics = C["model"]["metrics"]
 
@@ -73,7 +72,7 @@ class Model:
         outputs = Model.outputs(model.output)
         model = keras.models.Model(inputs=model.input, outputs=outputs)
         model.compile(
-            loss=self.losses(),
+            loss=Model.losses(),
             optimizer=self.optimizer,
             metrics=self.metrics,
         )
