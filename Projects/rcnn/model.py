@@ -3,8 +3,7 @@
 import keras.applications
 import keras.models
 from keras import backend as K
-from keras.engine import Layer
-from keras.layers import Conv2D
+from keras.layers import Conv2D, Layer
 from numpy import ndarray
 from typing import List
 from rcnn.optimizer import Optimizer

@@ -3,7 +3,7 @@
 from collections import namedtuple
 from itertools import product
 from math import sqrt
-from numpy import (array, zeros, concatenate, repeat)
+from numpy import (array, zeros, repeat)
 from typing import (List, Tuple)
 
 
