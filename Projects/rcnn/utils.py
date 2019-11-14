@@ -3,7 +3,7 @@
 from collections import namedtuple
 from itertools import product
 from math import sqrt
-from numpy import (array, zeros, repeat)
+from numpy import (array, concatenate, repeat, zeros)
 from typing import (List, Tuple)
 
 
@@ -93,12 +93,12 @@ class Grid:
                     labels_box[y, x, i, j] = 1
                     labels_obj[y, x, i, j] = 1
                     labels_reg[y, x, i, j] = array(shift.corners()).flatten()
-        labels_cls = array([
+        labels_cls = concatenate([
             labels_box.reshape((*Grid.shape, num_anchors)),
             labels_obj.reshape((*Grid.shape, num_anchors)),
-        ])
-        labels_reg = array([
+        ], axis=2)
+        labels_reg = concatenate([
             repeat(labels_obj.reshape((*Grid.shape, num_anchors)), repeats=4, axis=2),
             labels_reg.reshape((*Grid.shape, num_anchors * 4)),
-        ])
+        ], axis=2)
         return labels_cls, labels_reg
