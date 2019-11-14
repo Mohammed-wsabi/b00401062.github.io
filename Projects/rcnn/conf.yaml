@@ -1,16 +1,16 @@
 data:
     image_directory:
-        training: ../data/
-        test: ../data/
-    label_directory: ../data/
+        training: ../data/JPEGImages/
+        test:
+    label_directory: ../data/Annotations/
     input_shape:
-        height: 360
-        width: 360
+        height: 480
+        width: 480
         depth: 3
     classes: # list
-    batch_size: 128
+    batch_size: 16
 model:
-    backbone: # https://keras.io/applications/
+    backbone: ResNet50
     optimizer:
         name: Adam
         lr: 0.0001
