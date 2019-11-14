@@ -78,7 +78,7 @@ class Generator:
         batch_idx: int = 0
         epoch_size: int = (len(instances) - 1) // batch_size + 1
         while True:
-            batch = Utils.Variable([], [])
+            batch = Utils.Variable([], [[], []])
             idx = (
                 batch_idx * batch_size,
                 min((batch_idx + 1) * batch_size, len(instances))
@@ -90,9 +90,11 @@ class Generator:
                 )
                 batch.x.append(cv2.resize(cv2.imread(paths[0]), target_size))
                 boxes = Generator.boxes(ElementTree.parse(paths[1]))
-                batch.y.append(Grid.labels(boxes))
+                labels_cls, labels_reg = Grid.labels(boxes)
+                batch.y[0].append(labels_cls)
+                batch.y[1].append(labels_reg)
             batch_idx = (batch_idx + 1) % epoch_size
-            yield batch.x, batch.y
+            yield array(batch.x), [array(batch.y[0]), array(batch.y[1])]
 
     @staticmethod
     def flow_from_directory(
