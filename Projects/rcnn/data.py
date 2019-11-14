@@ -20,7 +20,7 @@ class Data:
 
     def load(self) -> Utils.Set:
         instances: Utils.Set = Utils.Set(*train_test_split(
-            list(map(lambda x: x[:-4], listdir(self.label_directory))),
+            list(map(lambda x: x[:-4], listdir(self.image_directory.training))),
             random_state=0,
         ))
         return Utils.Set(
