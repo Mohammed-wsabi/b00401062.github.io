@@ -24,7 +24,6 @@ class H2O {
         } catch (BrokenBarrierException e) {
             e.printStackTrace();
         }
-
     }
 
     public final void oxygen(Runnable releaseOxygen) throws InterruptedException {

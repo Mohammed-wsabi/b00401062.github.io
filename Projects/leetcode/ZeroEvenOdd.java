@@ -7,9 +7,9 @@ class ZeroEvenOdd {
 
     private int n;
     private Semaphore[] locks = new Semaphore[] {
-            new Semaphore(1),
-            new Semaphore(1),
-            new Semaphore(1)
+        new Semaphore(1),
+        new Semaphore(1),
+        new Semaphore(1)
     };
 
     public ZeroEvenOdd(int n) {
