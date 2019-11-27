@@ -76,13 +76,11 @@ title: Life Code
 
 - [base](Projects/base): Pipeline for deep learning that modularizes the training and teseting process.
 - [codechef](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/codechef): Collection of Java programs solving [CodeChef](https://www.codechef.com) problems.
-- [dfkt](Projects/dfkt): DataFrame for Kotlin in view of the lack of similar functionality in the ecosystem.
 - [dlc](Projects/dlc): Pipeline for merchandise detection and classification.
 - [leetcode](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/leetcode): Collection of Kotlin programs solving [LeetCode](https://leetcode.com/problemset/all/) problems.
 - [ndpi](Projects/ndpi): Utility functions that extract raw images from NDPI files to allow for editing and processing.
 - [nmmi](Projects/nmmi): Pipeline to create a normative model for microstructural integrity of the white matter tracts.
 - [osccm](Projects/osccm): Pipeline for metagenomics analysis to study association between microbiota and cancer.
-- [rcnn](Projects/rcnn): Pipeline for object detection with the Faster R-CNN algorithm.
 - [rosalind](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/rosalind): Collection of Java programs solving [ROSALIND](http://rosalind.info/problems/locations/) problems.
 - [sdp](Projects/sdp): Pipeline to predict schizophrenia development using DSI.
 - [strp](Projects/strp): Pipeline to predict antipsychotic treatment response using DSI.
