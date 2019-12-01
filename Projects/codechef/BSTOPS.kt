@@ -8,14 +8,26 @@ internal object BSTOPS {
         if (root == null) {
             println(p)
             return Node(x, p)
-        } else if (x < root.x) root.lt = insert(root.lt, x, p * 2) else if (x > root.x) root.rt = insert(root.rt, x, p * 2 + 1)
+        } else if (x < root.x) {
+            root.lt = insert(root.lt, x, p * 2)
+        } else if (x > root.x) {
+            root.rt = insert(root.rt, x, p * 2 + 1)
+        }
         return root
     }
 
     private fun delete(root: Node?, x: Int): Node? {
-        if (x < root!!.x) root.lt = delete(root.lt, x) else if (x > root.x) root.rt = delete(root.rt, x) else {
+        if (x < root!!.x) {
+            root.lt = delete(root.lt, x)
+        } else if (x > root.x) {
+            root.rt = delete(root.rt, x)
+        } else {
             println(root.p)
-            if (root.lt == null) return root.rt else if (root.rt == null) return root.lt else {
+            if (root.lt == null) {
+                return root.rt
+            } else if (root.rt == null) {
+                return root.lt
+            } else {
                 var successor = root.rt
                 while (successor!!.lt != null) successor = successor.lt
                 root.x = successor.x

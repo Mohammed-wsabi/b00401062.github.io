@@ -2,6 +2,8 @@ package codechef
 
 import java.io.IOException
 import java.util.*
+import kotlin.math.max
+import kotlin.math.sign
 
 internal object CHNUM {
     @Throws(IOException::class)
@@ -12,8 +14,14 @@ internal object CHNUM {
         while (t-- > 0) {
             val n = stdin.nextInt()
             val c = IntArray(3)
-            for (i in 0 until n) c[Math.signum(stdin.nextInt().toFloat()).toInt() + 1]++
-            System.out.printf("%d %d\n", Math.max(c[0], c[2]) + c[1], Arrays.stream(c).filter { a: Int -> a > 0 }.min().asInt)
+            for (i in 0 until n) {
+                c[sign(stdin.nextInt().toFloat()).toInt() + 1]++
+            }
+            System.out.printf(
+                "%d %d\n",
+                max(c[0], c[2]) + c[1],
+                c.filter { it > 0 }.min()
+            )
         }
         stdin.close()
     }
