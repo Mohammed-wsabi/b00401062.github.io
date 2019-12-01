@@ -4,12 +4,13 @@ import java.io.*;
 import java.util.*;
 
 class RUNDIR {
-    private static enum Dir {
+    private enum Dir {
         LT(-1), RT(1);
         private final int dir;
         Dir(int dir) { this.dir = dir; }
         public int toInt() { return this.dir; }
-    };
+    }
+
     private static class Child {
         int x, v;
         Dir dir;
