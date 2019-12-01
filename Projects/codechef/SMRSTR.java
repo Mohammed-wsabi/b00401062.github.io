@@ -6,7 +6,7 @@ import java.util.*;
 class SMRSTR {
     public static void main (String[] args) throws IOException {
         Scanner stdin = new Scanner(System.in);
-        int t = stdin.nextInt();;
+        int t = stdin.nextInt();
         while (t-- > 0) {
             int n = stdin.nextInt();
             int q = stdin.nextInt();
