@@ -18,7 +18,7 @@
 
 ||Cross Section|Case Control|Cohort|
 |-|-|-|-|
-|Time|Time point|Retrospective|Perspective|
+|Time|Time point|Retrospective|Prospective|
 |Incidence|-|-|+|
 |Prevalence|+|-|-|
 |Causality|-|+|+|
