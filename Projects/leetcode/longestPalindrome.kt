@@ -1,8 +1,8 @@
 package leetcode;
 
-private fun check(s: String, _l: Int, _r: Int): String {
-    var l = _l
-    var r = _r
+private fun check(s: String, l: Int, r: Int): String {
+    var l = l
+    var r = r
     while (l >= 0 && r < s.length && s[l] == s[r]) {
         l--
         r++
