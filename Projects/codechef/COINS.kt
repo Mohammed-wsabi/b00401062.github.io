@@ -5,11 +5,10 @@ import kotlin.math.max
 
 object COINS {
 
-    private val map: MutableMap<Int, Long> = mutableMapOf()
+    private val map = mutableMapOf(0 to 0L)
 
-    private fun exchange(n: Int): Long = when {
-        0 -> 0
-        n in map -> map[n]!!
+    private fun exchange(n: Int): Long = when (n) {
+        in map -> map[n]!!
         else -> {
             val subtotal2 = exchange(n / 2)
             val subtotal3 = exchange(n / 3)
