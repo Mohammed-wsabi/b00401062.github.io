@@ -8,8 +8,7 @@ object COINS {
     private val map: MutableMap<Int, Long> = mutableMapOf()
 
     private fun exchange(n: Int): Long = when {
-        n < 12 -> n.toLong()
-        n == 12 -> 13
+        0 -> 0
         n in map -> map[n]!!
         else -> {
             val subtotal2 = exchange(n / 2)
@@ -27,5 +26,6 @@ object COINS {
             val n = stdin.nextLine().toInt()
             println(exchange(n))
         }
+        stdin.close()
     }
 }
