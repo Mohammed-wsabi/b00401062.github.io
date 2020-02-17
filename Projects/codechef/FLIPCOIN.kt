@@ -313,14 +313,14 @@ internal object FLIPCOIN {
         }
 
         fun rank(k: K): Int {
-            return rank(root!!, k)
+            return rank(root, k)
         }
 
         private fun rank(x: Node?, k: K): Int {
             if (x == null) return 0
             return when {
-                k < x.k -> rank(x.lt!!, k)
-                k > x.k -> 1 + size(x.lt) + rank(x.rt!!, k)
+                k < x.k -> rank(x.lt, k)
+                k > x.k -> 1 + size(x.lt) + rank(x.rt, k)
                 else -> size(x.lt)
             }
         }
