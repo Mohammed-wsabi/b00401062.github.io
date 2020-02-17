@@ -298,13 +298,13 @@ internal object FLIPCOIN {
         }
 
         fun select(k: Int): K {
-            require(!(k < 0 || k >= size()))
+            require(k >= 0 && k < size())
             val x = select(root, k)
             return x!!.k
         }
 
-        private fun select(x: Node?, k: Int): Node? {
-            val t = size(x!!.lt)
+        private fun select(x: Node, k: Int): Node? {
+            val t = size(x.lt)
             return when {
                 t > k -> select(x.lt, k)
                 t < k -> select(x.rt, k - t - 1)
@@ -313,14 +313,14 @@ internal object FLIPCOIN {
         }
 
         fun rank(k: K): Int {
-            return rank(k, root)
+            return rank(root!!, k)
         }
 
-        private fun rank(k: K, x: Node?): Int {
+        private fun rank(x: Node?, k: K): Int {
             if (x == null) return 0
             return when {
-                k < x.k -> rank(k, x.lt)
-                k > x.k -> 1 + size(x.lt) + rank(k, x.rt)
+                k < x.k -> rank(x.lt!!, k)
+                k > x.k -> 1 + size(x.lt) + rank(x.rt!!, k)
                 else -> size(x.lt)
             }
         }
