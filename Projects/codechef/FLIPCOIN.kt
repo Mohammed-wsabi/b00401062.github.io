@@ -110,15 +110,15 @@ internal object FLIPCOIN {
                 delete(k)
                 return
             }
-            root = put(root, k, v)
+            root = set(root, k, v)
             root!!.color = BLACK
         }
 
-        private fun put(h: Node?, k: K, v: V): Node {
+        private operator fun set(h: Node?, k: K, v: V): Node {
             var h = h ?: return Node(k, v, RED, 1)
             when {
-                k < h.k -> h.lt = put(h.lt, k, v)
-                k > h.k -> h.rt = put(h.rt, k, v)
+                k < h.k -> h.lt = set(h.lt, k, v)
+                k > h.k -> h.rt = set(h.rt, k, v)
                 else -> h.v = v
             }
             if (isRed(h.rt) && !isRed(h.lt)) h = rotateLeft(h)
@@ -305,7 +305,11 @@ internal object FLIPCOIN {
 
         private fun select(x: Node?, k: Int): Node? {
             val t = size(x!!.lt)
-            return if (t > k) select(x.lt, k) else if (t < k) select(x.rt, k - t - 1) else x
+            return when {
+                t > k -> select(x.lt, k)
+                t < k -> select(x.rt, k - t - 1)
+                else -> x
+            }
         }
 
         fun rank(k: K): Int {
