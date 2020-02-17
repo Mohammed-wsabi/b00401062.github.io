@@ -42,9 +42,7 @@ internal object FLIPCOIN {
                 }
                 println(sum)
             }
-            else -> {
-                throw IllegalArgumentException()
-            }
+            else -> throw IllegalArgumentException()
         }
     }
 
@@ -374,7 +372,7 @@ internal object FLIPCOIN {
         private val isRankConsistent: Boolean
             get() {
                 for (i in 0 until size()) if (i != rank(select(i))) return false
-                for (k in keys()) if (k.compareTo(select(rank(k))) != 0) return false
+                for (k in keys()) if (k != select(rank(k))) return false
                 return true
             }
 
