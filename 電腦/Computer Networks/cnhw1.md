@@ -20,4 +20,4 @@ The first problem is always to clarify the structure of a problem. For example, 
 What follows is socket programming, which requires a background knowledge in the protocols behind the scene. Calling the correct functions is always the easiest part. However, without knowing the mechanism can lead to a error-prone program which is usually hard to debug. A flowchart, like the one listed in the slide, would be helpful to figure out each step of connection and message transmission.
 
 ### Screenshot
-![cnhw1.png](https://github.com/b00401062/b00401062.github.io/raw/master/Computer/Computer%20Networks/cnhw1.png)
+![cnhw1.png](https://github.com/b00401062/b00401062.github.io/raw/master/電腦/Computer%20Networks/cnhw1.png)

@@ -12,14 +12,14 @@ class Dataset:
         dataset = {"training": {"X": None, "y": None}, "test": {"X": None, "y": None}}
         values = empty((128, 0))
         for index in indices:
-            raw = loadmat("./Downloads/Projects/SDP/Datasets/all_array_{}.mat".format(index.lower()))
+            raw = loadmat("./Downloads/專案/SDP/Datasets/all_array_{}.mat".format(index.lower()))
             for tract in tracts:
                 values = hstack((values, array(list(map(lambda x: x[tract.indices].mean(axis = 0), raw["array"][0])))))
         pattern = "F:\\\\[^\\\\]+\\\\[^\\\\]+\\\\([^\\\\]+)\\\\.*"
         subjects = array(list(map(compile(pattern).findall, map(lambda x: x[0][0], raw["index_name"])))).flatten()
         subjects = array(list(map(str.upper, subjects)))
         for set in Set._fields:
-            file = "./Downloads/Projects/SDP/Datasets/{}.csv".format(set.capitalize())
+            file = "./Downloads/專案/SDP/Datasets/{}.csv".format(set.capitalize())
             metadata = read_csv(file, index_col = 0)
             mask = isin(subjects, metadata.index)
             dataset[set]["X"] = DataFrame(values[mask], index = subjects[mask]).dropna(axis = 1)

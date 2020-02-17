@@ -51,7 +51,7 @@ class Regression:
         plot(AGES, self.piecewise(arange(18., 89.), *self.b))
         xlabel("Age")
         ylabel("Integrity")
-        savefig("./Downloads/Projects/NMMI/Figures/Regression/{}/{}".format(self.sex.capitalize(), self.tract))
+        savefig("./Downloads/專案/NMMI/Figures/Regression/{}/{}".format(self.sex.capitalize(), self.tract))
         clf()
 
     @staticmethod
@@ -68,20 +68,20 @@ class Regression:
         colorbar(aspect=10).ax.set_title("-log(p)sign(b)")
         n = len(TRACTS) * 2 - array(isnan(pvalues)).sum()
         clim(log10(ALPHA / n), -log10(ALPHA / n))
-        savefig("./Downloads/Projects/NMMI/Figures/Regression/Heatmap ({})".format(sex.capitalize()))
+        savefig("./Downloads/專案/NMMI/Figures/Regression/Heatmap ({})".format(sex.capitalize()))
         clf()
 
     @staticmethod
     def dump(SLOPES, PVALUES):
-        with open("./Downloads/Projects/NMMI/Datasets/Slopes.pkl", "wb") as fout:
+        with open("./Downloads/專案/NMMI/Datasets/Slopes.pkl", "wb") as fout:
             pickle.dump(SLOPES, fout, pickle.HIGHEST_PROTOCOL)
-        with open("./Downloads/Projects/NMMI/Datasets/Pvalues.pkl", "wb") as fout:
+        with open("./Downloads/專案/NMMI/Datasets/Pvalues.pkl", "wb") as fout:
             pickle.dump(PVALUES, fout, pickle.HIGHEST_PROTOCOL)
 
     @staticmethod
     def load():
-        with open("./Downloads/Projects/NMMI/Datasets/Slopes.pkl", "rb") as fin:
+        with open("./Downloads/專案/NMMI/Datasets/Slopes.pkl", "rb") as fin:
             SLOPES = pickle.load(fin)
-        with open("./Downloads/Projects/NMMI/Datasets/Pvalues.pkl", "rb") as fin:
+        with open("./Downloads/專案/NMMI/Datasets/Pvalues.pkl", "rb") as fin:
             PVALUES = pickle.load(fin)
         return (SLOPES, PVALUES)

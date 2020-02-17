@@ -52,15 +52,15 @@
                 |Branch|XOR gate/puzzle|
                 |:----:|:-------------:|
                 |![][2]|![][4]|
-                ![](https://github.com/b00401062/b00401062.github.io/raw/master/Computer/Algorithm%20Design%20and%20Analysis/fig5.png =x100)
+                ![](https://github.com/b00401062/b00401062.github.io/raw/master/電腦/Algorithm%20Design%20and%20Analysis/fig5.png =x100)
         - __Claim 3__: A circuit is satisfiable iff the puzzle is solvable.
             - &rArr;: Suppose a circuit is satisfiable, there is an assignment of variables such that the last output evaluates to true. No contradiction of assignments occurs along the gates. Hence, there is always a way to put a light bulb on a row/column of white cells. The puzzle is solvable.
             - &lArr;: Suppose the puzzle is solvable, there is no contradiction of assignments occurs along the white cells. Hence, there is an assignment of variables such that the last output evaluates to true. The circuit is satisfiable.
         - __Claim 4__: The reduction is done in polynomial-time since every gate and branch/cross of a circuit reduces to a fixed number of puzzle grids.
         - __Conclusion__: The decision problem of Light-Up is NP-hard.
 
-[1]: https://github.com/b00401062/b00401062.github.io/raw/master/Computer/Algorithm%20Design%20and%20Analysis/fig1.png
-[2]: https://github.com/b00401062/b00401062.github.io/raw/master/Computer/Algorithm%20Design%20and%20Analysis/fig2.png
-[3]: https://github.com/b00401062/b00401062.github.io/raw/master/Computer/Algorithm%20Design%20and%20Analysis/fig3.png
-[4]: https://github.com/b00401062/b00401062.github.io/raw/master/Computer/Algorithm%20Design%20and%20Analysis/fig4.png
-[5]: https://github.com/b00401062/b00401062.github.io/raw/master/Computer/Algorithm%20Design%20and%20Analysis/fig5.png
+[1]: https://github.com/b00401062/b00401062.github.io/raw/master/電腦/Algorithm%20Design%20and%20Analysis/fig1.png
+[2]: https://github.com/b00401062/b00401062.github.io/raw/master/電腦/Algorithm%20Design%20and%20Analysis/fig2.png
+[3]: https://github.com/b00401062/b00401062.github.io/raw/master/電腦/Algorithm%20Design%20and%20Analysis/fig3.png
+[4]: https://github.com/b00401062/b00401062.github.io/raw/master/電腦/Algorithm%20Design%20and%20Analysis/fig4.png
+[5]: https://github.com/b00401062/b00401062.github.io/raw/master/電腦/Algorithm%20Design%20and%20Analysis/fig5.png

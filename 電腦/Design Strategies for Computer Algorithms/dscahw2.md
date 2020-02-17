@@ -1,7 +1,7 @@
 ## The weighted center of a tree
 
 ### 問題定義
-&emsp;&emsp;首先定義一棵樹的 weighted center。假設一棵樹 $T=(V,E)$ 有 $n$ 個頂點，每條邊 $(i,j)$ 有一個非負的長度 $d_{ij}$，每個頂點 $i$ 有一個非負的權重 $w_i$，$(i,j)$ 邊上可以定義一個點 $(i,j;t)$，代表距離 $i$ 的長度為 $t$，距離 $j$ 的長度為 $d_{ij}-t$（如下圖）。 ![](https://github.com/b00401062/b00401062.github.io/raw/master/Computer/Design%20Strategies%20for%20Computer%20Algorithms/fig2-1.png)
+&emsp;&emsp;首先定義一棵樹的 weighted center。假設一棵樹 $T=(V,E)$ 有 $n$ 個頂點，每條邊 $(i,j)$ 有一個非負的長度 $d_{ij}$，每個頂點 $i$ 有一個非負的權重 $w_i$，$(i,j)$ 邊上可以定義一個點 $(i,j;t)$，代表距離 $i$ 的長度為 $t$，距離 $j$ 的長度為 $d_{ij}-t$（如下圖）。 ![](https://github.com/b00401062/b00401062.github.io/raw/master/電腦/Design%20Strategies%20for%20Computer%20Algorithms/fig2-1.png)
 則 weighted center 定義為 $T$ 上的一個點 $x^*$，使得所有頂點到 $x^*$ 的距離乘上權重之最大值為最小的，數學表示如下： minimize $r(x) = \max\{w_id(x,i)|i\in V\}$。以下簡稱 weighted center 為 center，或以 $x^*$ 表示。
 
 ### 解法敘述
@@ -11,7 +11,7 @@
     - 把所有的頂點分成 $l$ 群 $V_1(x),V_2(x),...,V_l(x)$，其中 $V_n(x)$ for $n=1,2,...,l$ 包含所有的頂點，使得 $j_n$ 落在任一頂點 $i\in V_n(x)$ 到 $x$ 的 simple path 上。
     - 所有的 subtrees 分別為 $T_1(x),T_2(x),...,T_l(x)$，其中 $T_n(x)$ for $n=1,2,...,l$ 為 $V_n(x)\cup\{x\}$ 所形成的 spanning subtree。
 
-    下圖所示，為 $x$ 剛好落在一條邊的內部，則 $x$ 一定只有兩個相鄰的頂點 $j$、$k$。![](https://github.com/b00401062/b00401062.github.io/raw/master/Computer/Design%20Strategies%20for%20Computer%20Algorithms/fig2-2.png)定義 $r_j(x) = \max\{w_id(x,i)|i\in V_j(x)\}$，則原本的 $r(x)$ 可以表示成 $r(x)=\max\{r_{j_1}(x),r_{j_2}(x),...,r_{j_l}(x)\}$，跟原本的公式只差在把 $V$ 分成 $l$ 群。考慮以下兩種情形：
+    下圖所示，為 $x$ 剛好落在一條邊的內部，則 $x$ 一定只有兩個相鄰的頂點 $j$、$k$。![](https://github.com/b00401062/b00401062.github.io/raw/master/電腦/Design%20Strategies%20for%20Computer%20Algorithms/fig2-2.png)定義 $r_j(x) = \max\{w_id(x,i)|i\in V_j(x)\}$，則原本的 $r(x)$ 可以表示成 $r(x)=\max\{r_{j_1}(x),r_{j_2}(x),...,r_{j_l}(x)\}$，跟原本的公式只差在把 $V$ 分成 $l$ 群。考慮以下兩種情形：
     - 若最大值的 index 不只一個，則 $x$ 必然是 $T$ 的 center。為什麼？因為不管 $x$ 往哪個方向移動，都會使得其中一個 $r_j(x)$ 增加，則所得到的 $r(x)$ 就不是最小值了，故 $x$ 是 local minimum，也是 global minimum。
     - 若最大值的 index 只有一個，則 $T$ 的 center 必然落在那個 subtree。為什麼？因為如果我們把 $x$ 往那個 subtree 移動，則可以使得目前最大的 $r_j(x)$ 減少，那麼又可以得到更小的 $r(x)$。
 
@@ -20,7 +20,7 @@
     - 計算所有的 $d(x,i)$ for $i\in V$。
     - 對於所有的邊 $(i,j)$，如果 $d(x,i)≤t≤d(x,j)$，則 $(i,j)$ 必然包含一個唯一的 $y_v$ 使得 $d(x,y_v)=t$。
     
-    所有滿足 $d(x,z)≥t$ 之點 $z$ 的集合就是以 $y_1,y_2,...,y_l$ 為 root 之 subtrees 的聯集（union）。令這些 subtrees 是 $T_1,T_2,...,T_m$，並分別以 $u_1,u_2,...,u_m$ 為 root，並且令 $V_i$ 是 $T_i$ 內除了 $u_i$ 所有頂點的集合。顯然地，$V_i$ 彼此不相交（disjoint）。如下圖所示：![](https://github.com/b00401062/b00401062.github.io/raw/master/Computer/Design%20Strategies%20for%20Computer%20Algorithms/fig2-3.png)定義 $R_i(x)=\max\{w_kd(x,k)|k\in V_i\}$，令 $R=\max\{R_i(u_i)|i=1,2,..., m\}$。考慮 $R_i(u_i)$ 跟 $R$ 的關係：
+    所有滿足 $d(x,z)≥t$ 之點 $z$ 的集合就是以 $y_1,y_2,...,y_l$ 為 root 之 subtrees 的聯集（union）。令這些 subtrees 是 $T_1,T_2,...,T_m$，並分別以 $u_1,u_2,...,u_m$ 為 root，並且令 $V_i$ 是 $T_i$ 內除了 $u_i$ 所有頂點的集合。顯然地，$V_i$ 彼此不相交（disjoint）。如下圖所示：![](https://github.com/b00401062/b00401062.github.io/raw/master/電腦/Design%20Strategies%20for%20Computer%20Algorithms/fig2-3.png)定義 $R_i(x)=\max\{w_kd(x,k)|k\in V_i\}$，令 $R=\max\{R_i(u_i)|i=1,2,..., m\}$。考慮 $R_i(u_i)$ 跟 $R$ 的關係：
     - 如果 $R_i(u_i)<R$，則 $x^*$ 不會落在 $T_i$。
     - 如果存在 $i_1≠i_2$ 使得 $R_{i_1}(u_{i_1})=R_{i_2}(u_{i_2})=R$，則 $x^*$ 不會落在 $T_1,T_2,...,T_m$ 中的任一。
     - 否則有一個唯一的 $u_i$ 使得 $R_i(u_i)=R$，則 $x^*$ 有可能落在 $T_i$。要如何判斷是否落在 $T_i$？那就要用到觀察 2 的方法，計算 $r(u_i)$ 來決定 $x^*$ 究竟是落在哪邊。

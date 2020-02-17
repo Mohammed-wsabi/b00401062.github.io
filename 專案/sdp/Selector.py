@@ -18,6 +18,6 @@ class Selector:
         xlabel("Steps")
         ylabel("Mean GFA")
         legend(loc="lower center")
-        savefig("./Downloads/Projects/SDP/Figures/Tracts/{}".format(self.tract.nickname))
+        savefig("./Downloads/專案/SDP/Figures/Tracts/{}".format(self.tract.nickname))
         clf()
         return self

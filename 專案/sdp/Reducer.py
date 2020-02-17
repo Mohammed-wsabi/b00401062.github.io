@@ -16,6 +16,6 @@ class Reducer:
         xticks(linspace(0, 100, 11), list(map("{:.1f}".format, linspace(0, 1, 11))))
         xlabel("Percentage")
         ylabel("Log marginal likelihood")
-        savefig("./Downloads/Projects/SDP/Figures/Reducer")
+        savefig("./Downloads/專案/SDP/Figures/Reducer")
         clf()
         return PCA(param_grid[argmax(score)])

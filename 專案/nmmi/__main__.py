@@ -66,7 +66,7 @@ if __name__ == "__main__":
             xlabel("Z-score")
             ylabel("Frequency")
             legend(list(map(str.capitalize, Sex._fields)))
-            savefig("./Downloads/Projects/NMMI/Figures/Residual/{}/{}".format(model.__name__, TRACTS[i].nickname))
+            savefig("./Downloads/專案/NMMI/Figures/Residual/{}/{}".format(model.__name__, TRACTS[i].nickname))
             clf()
     Selection.dump(SCORES, STANDARDS, PERCENTAGES)
     (SCORES, STANDARDS, PERCENTAGES) = Selection.load()

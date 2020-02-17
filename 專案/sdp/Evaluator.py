@@ -19,6 +19,6 @@ class Evaluator:
         ylabel("Sensitivity")
         legend(loc="lower right")
         axes().set_aspect("equal")
-        savefig("./Downloads/Projects/SDP/Figures/ROC")
+        savefig("./Downloads/專案/SDP/Figures/ROC")
         clf()
         return self

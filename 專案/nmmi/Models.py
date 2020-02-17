@@ -22,7 +22,7 @@ class Model:
         legend(list(map(str.capitalize, Sex._fields)), loc="lower left")
         xlabel("Age")
         ylabel("Integrity")
-        savefig("./Downloads/Projects/NMMI/Figures/Scatter/{}/{}".format(self.model.__class__.__name__, self.tract.nickname))
+        savefig("./Downloads/專案/NMMI/Figures/Scatter/{}/{}".format(self.model.__class__.__name__, self.tract.nickname))
         clf()
 
 

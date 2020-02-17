@@ -12,6 +12,6 @@
 
 ```bash
 export PYTHONHASHSEED=0
-export PYTHONPATH=$HOME/Documents/Projects/
+export PYTHONPATH=$HOME/Documents/專案/
 python -B -m dlc
 ```

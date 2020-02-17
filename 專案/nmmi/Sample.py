@@ -8,8 +8,8 @@ from matplotlib.pyplot import *
 class Sample:
     @staticmethod
     def load():
-        DF = read_csv("./Downloads/Projects/NMMI/Datasets/Demographics.csv", index_col=0)
-        with open("./Downloads/Projects/NMMI/Datasets/Indices/FA.pkl", "rb") as fin:
+        DF = read_csv("./Downloads/專案/NMMI/Datasets/Demographics.csv", index_col=0)
+        with open("./Downloads/專案/NMMI/Datasets/Indices/FA.pkl", "rb") as fin:
             FA = pickle.load(fin)
         return (DF, FA)
 
@@ -25,5 +25,5 @@ class Sample:
         xlabel("Age")
         ylabel("Frequency")
         yticks(range(0, 20, 2))
-        savefig("./Downloads/Projects/NMMI/Figures/Sample")
+        savefig("./Downloads/專案/NMMI/Figures/Sample")
         clf()

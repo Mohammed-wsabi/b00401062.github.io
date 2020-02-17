@@ -4,13 +4,13 @@
 
 &emsp;&emsp;__Voronoi diagram__ 為根據幾何圖形的距離將空間分割的方法。本篇所探討的二維 __Laguerre geometry__ 敘述如下。首先，在平面上給定一圓 $C_i=C_i(Q_i;r_i)$，其圓心為 $Q_i=(x_i,y_i)$，半徑為 $r_i$，以及一點 $P=(x,y)$，定義圓跟點的距離 $d_L^2(C_i,P)=(x-x_i)^2+(y-y_i)^2-r_i^2$，當 $P$ 在圓內、圓上、圓外，$d_L^2(C_i,P)$ 分別是負數、零、正數。當 $P$ 在圓外，$d_L(C_i,P)$ 正是 $P$ 到 $C$ 之切線的長度。接著，在平面上給定兩圓 $C_i$ 和 $C_j$，我們可以在平面上找到一直線，其上所有的點與兩圓等距，此直線稱作 __radical axis__。 再者，在平面上給定三圓 $C_i$、$C_j$ 和 $C_k$，其圓心不共線，則所產生的三條 radical axis 會交在一點，稱作 __radical center__。Radical axis 和 radical center 的例子如下圖。<br><br>
 
-![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/Computer/Design%20Strategies%20for%20Computer%20Algorithms/fig4-1.png =x160)
+![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/電腦/Design%20Strategies%20for%20Computer%20Algorithms/fig4-1.png =x160)
 
 &emsp;&emsp;在平面上給定 $n$ 個圓，定義 __Voronoi polygon__ 為 $V(C_i)=\cap_j\{ P \in \mathbb{R}^2 | d_L^2(C_i,P) ≤ d_L^2(C_j,P) \}$，在空間中所構成的區域為一 convex set，而 $n$ 個圓各自的 Voronoi polygon 之聯集會形成平面的分割（partition），這樣的圖形稱作 __Voronoi diagram__。Voronoi polygon 的頂點和邊分別稱作 __Voronoi point__ 和 __Voronoi edge__。一圓之 Voronoi polygon 若非（是）空集合，則分別稱作 __substantial (trivial) circle__。一圓若與其 Voronoi polygon 有（不）相交，則分別稱作 __proper (improper) circle__。以上名詞透過下圖來舉例：<br><br>
 
 |名詞|圖 2|
 |-|-|
-|__Substantial__: 1, 2, 4, 5, 6, 7, 8<br>__Trivial__: 3<br>__Proper__: 1, 4, 5, 6, 7, 8<br>__Improper__: 2, 3|![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/Computer/Design%20Strategies%20for%20Computer%20Algorithms/fig4-2.png =x220)|
+|__Substantial__: 1, 2, 4, 5, 6, 7, 8<br>__Trivial__: 3<br>__Proper__: 1, 4, 5, 6, 7, 8<br>__Improper__: 2, 3|![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/電腦/Design%20Strategies%20for%20Computer%20Algorithms/fig4-2.png =x220)|
 
 ### 解法敘述
 
@@ -26,7 +26,7 @@
 
 |名詞|圖 3|
 |-|-|
-|落在頂點：$C_1, C_3, C_5, C_6$ 無界。<br>落在不含頂點之邊界：$C_2$ 是空集合。<br>不落在頂點或邊界：$C_4$ 有界。|![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/Computer/Design%20Strategies%20for%20Computer%20Algorithms/fig4-3.png =x220)|
+|落在頂點：$C_1, C_3, C_5, C_6$ 無界。<br>落在不含頂點之邊界：$C_2$ 是空集合。<br>不落在頂點或邊界：$C_4$ 有界。|![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/電腦/Design%20Strategies%20for%20Computer%20Algorithms/fig4-3.png =x220)|
 
 &emsp;&emsp;本篇借用了針對 $n$ 個點之 Voronoi diagram 的演算法繼續發展。給定二維平面上的 $n$ 個點之集合 $S = \{ P_1,P_2,...,P_n \}$，目標是求出其 Voronoi diagram $V(S)$。我們首先對每個點的座標排序，按照排序重新編號，再利用 divide and conquer 來解決 Voronoi diagram：
 - Divide：將所有的點分成左右兩半，$L = \{ P_1,P_2,...,P_{[n/2]} \}$ 和 $R = \{ P_{[n/2]+1},...,P_n \}$。
@@ -46,7 +46,7 @@
 
 |圖 4|圖 5|
 |-|-|
-|![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/Computer/Design%20Strategies%20for%20Computer%20Algorithms/fig4-5.png =x170)|![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/Computer/Design%20Strategies%20for%20Computer%20Algorithms/fig4-6.png =x230)|
+|![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/電腦/Design%20Strategies%20for%20Computer%20Algorithms/fig4-5.png =x170)|![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/電腦/Design%20Strategies%20for%20Computer%20Algorithms/fig4-6.png =x230)|
 
 &emsp;&emsp;為了解決多個圓心在 convex hull 邊界上共線的這個問題，有了下面這個定理：
 
@@ -69,7 +69,7 @@
 
 |圖 6|圖 7|
 |-|-|
-|![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/Computer/Design%20Strategies%20for%20Computer%20Algorithms/fig4-7.png =x240)|![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/Computer/Design%20Strategies%20for%20Computer%20Algorithms/fig4-8.png =x260)|
+|![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/電腦/Design%20Strategies%20for%20Computer%20Algorithms/fig4-7.png =x240)|![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/電腦/Design%20Strategies%20for%20Computer%20Algorithms/fig4-8.png =x260)|
 
 &emsp;&emsp;總結本篇的演算法：
 

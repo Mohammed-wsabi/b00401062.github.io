@@ -31,16 +31,16 @@ digraph hierarchy {
 - 將此元素從 digraph 中移除。
 
 &emsp;&emsp;舉例：參考上圖的 digraph，執行上述的步驟可以產生下圖的 tree。考慮一開始 topological sorting 還沒有任何元素時， indegree $= 0$ 的元素有 $J_1$ 和 $J_2$，所以 root 有兩個 child nodes 可以分別作為 topological sorting 的頭。假設我們先挑選 $J_1$ 執行 depth first search（DFS），並將 $J_1$ 從 digraph 中移除，剩下的 digraph 再重複執行上述的步驟，直到所有的 nodes 都被移除。Tree 中的每一條從 root 到 leaf 的路徑都是合法的 topological sorting 序列。
-![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/Computer/Design%20Strategies%20for%20Computer%20Algorithms/fig3-1.png =262x200)
+![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/電腦/Design%20Strategies%20for%20Computer%20Algorithms/fig3-1.png =262x200)
 &emsp;&emsp;每次選入一個元素放進 tree 的時候，B&B 會估計這個選擇的 lower bound，如果選擇這個 node 所估計的 lower bound 高於目前的最佳解，則可以直接捨棄這個分支，不繼續往下執行 DFS。Lower bound 的估計如下。給定所有成本 $C_{ij}$ 的集合，可以透過成本矩陣表示（下表 1），每一列代表一個人員，而每一行代表一個任務。接下來，我們從每一列、每一行減去一個常數，使得新成本 $≥ 0$，並產生新的成本矩陣，而這樣的操作並不會改變最佳解。以下表 1 為例，一開始有一個原始的成本矩陣，首先從第 1 到第 4 列分別減去 12、26、3、10，再從第 2 行減去 3，於是產生下表 2。觀察下表 2，可以發現，每一列、每一行都至少有一個 0，所以無法再繼續扣除。而所有被扣除的常數之總和就是目前這個矩陣的 lower bound。以下表 2 為例，lower bound $= 12+26+3+10+3 = 54$，就是 root 的成本，還沒繼續往下執行 DFS 就已經有 54 的成本。<br><br>
 |表 1|表 2|
 |----|---|
-|![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/Computer/Design%20Strategies%20for%20Computer%20Algorithms/fig3-2.png =414x160)|![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/Computer/Design%20Strategies%20for%20Computer%20Algorithms/fig3-3.png =533x160)|
+|![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/電腦/Design%20Strategies%20for%20Computer%20Algorithms/fig3-2.png =414x160)|![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/電腦/Design%20Strategies%20for%20Computer%20Algorithms/fig3-3.png =533x160)|
 &emsp;&emsp;每次挑選一個 node 放入 topological sorting 序列，並更新成本矩陣。假設決定在 tree 的第 $i$ 層放入第 $j$ 個任務，則這個選擇所導致的 lower bound 必須加上目前的 $C_{ij}$，同時把成本矩陣的第 $i$ 列跟第 $j$ 行都更新為 $∞$，意味著第 $i$ 個人員暫時不能被分配到其他任務，而第 $j$ 個任務暫時不能分配給其他人，並接著確認是否還能夠從每一列、每一行減去常數。
 
-![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/Computer/Design%20Strategies%20for%20Computer%20Algorithms/fig3-4.png =354x200)
+![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/電腦/Design%20Strategies%20for%20Computer%20Algorithms/fig3-4.png =354x200)
 &emsp;&emsp;接續同樣的 tree，每個選擇所對應的 lower bound 如上圖的 tree 所示。這裡舉一個例子。假設決定在 tree 的第 1 層放入第 2 個任務，則 lower bound 必須加上 $C_{12}=4$ 而成 $54+4=58$，而成本矩陣的第 1 列跟第 2 行都更新為 $∞$，所產生的成本矩陣如下表。<br>
-![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/Computer/Design%20Strategies%20for%20Computer%20Algorithms/fig3-5.png =400x160)
+![image alt](https://github.com/b00401062/b00401062.github.io/raw/master/電腦/Design%20Strategies%20for%20Computer%20Algorithms/fig3-5.png =400x160)
 &emsp;&emsp;可以估計 lower bound 之後，我們每次選擇 lower bound 較小的那個分支先繼續往下執行 DFS，直到 leaf 後停止，並更新目前為止的最佳解。只要一發現某個選擇的 lower bound 大於目前的最佳解，則根本就不需要繼續往下執行。
 &emsp;&emsp;總結本演算法的所有步驟：
 Algorithm($P$,$J$,$C$)：

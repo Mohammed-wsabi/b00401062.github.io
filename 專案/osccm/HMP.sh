@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 export PATH=~/Library/Conda/bin/:$PATH
-export OSCCMPATH=~/Documents/Projects/osccm
+export OSCCMPATH=~/Documents/專案/osccm
 export DATASETS=~/Downloads/Researches/OSCCM/Datasets
 
 source activate qiime

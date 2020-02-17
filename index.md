@@ -2,7 +2,7 @@
 title: Life Code
 ---
 
-## Computer
+## 電腦
 
 - [Algorithm Design and Analysis](電腦/Algorithm%20Design%20and%20Analysis.html)
 - Bioinformatics
@@ -29,7 +29,7 @@ title: Life Code
 - Systems Programming
 - [Topics in Machine Learning](電腦/Topics%20in%20Machine%20Learning.html)
 
-## Medicine
+## 醫學
 
 - [Anatomy](醫學/Anatomy.html)
 - [Anesthesiology](醫學/Anesthesiology.html)
@@ -63,7 +63,7 @@ title: Life Code
 - [Surgery](醫學/Surgery.html)
 - [Toxicology](醫學/Toxicology.html)
 
-## Memoirs
+## 筆記
 
 - [Alpaydin's Introduction to Machine Learning](筆記/Alpaydin's%20Introduction%20to%20Machine%20Learning.html)
 - [Case and Disease Discussion](筆記/Case%20and%20Disease%20Discussion.html)
@@ -73,15 +73,15 @@ title: Life Code
 - [Thaler's The Only EKG Book You'll Ever Need](筆記/Thaler's%20The%20Only%20EKG%20Book%20You'll%20Ever%20Need.pdf)
 - [Thompson's Type Theory & Functional Programming](筆記/Thompson's%20Type%20Theory%20&%20Functional%20Programming.pdf)
 
-## Projects
+## 專案
 
-- [codechef](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/codechef): Collection of Java programs solving [CodeChef](https://www.codechef.com) problems.
+- [codechef](https://github.com/b00401062/b00401062.github.io/tree/master/專案/codechef): Collection of Java programs solving [CodeChef](https://www.codechef.com) problems.
 - [dlc](專案/dlc): Pipeline for merchandise detection and classification.
-- [leetcode](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/leetcode): Collection of Kotlin programs solving [LeetCode](https://leetcode.com/problemset/all/) problems.
+- [leetcode](https://github.com/b00401062/b00401062.github.io/tree/master/專案/leetcode): Collection of Kotlin programs solving [LeetCode](https://leetcode.com/problemset/all/) problems.
 - [ndpi](專案/ndpi): Utility functions that extract raw images from NDPI files to allow for editing and processing.
 - [nmmi](專案/nmmi): Pipeline to create a normative model for microstructural integrity of the white matter tracts.
 - [osccm](專案/osccm): Pipeline for metagenomics analysis to study association between microbiota and cancer.
-- [rosalind](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/rosalind): Collection of Java programs solving [ROSALIND](http://rosalind.info/problems/locations/) problems.
+- [rosalind](https://github.com/b00401062/b00401062.github.io/tree/master/專案/rosalind): Collection of Java programs solving [ROSALIND](http://rosalind.info/problems/locations/) problems.
 - [sdp](專案/sdp): Pipeline to predict schizophrenia development using DSI.
 - [strp](專案/strp): Pipeline to predict antipsychotic treatment response using DSI.
-- [usaco](https://github.com/b00401062/b00401062.github.io/tree/master/Projects/usaco): Collection of Java programs solving [USACO](http://train.usaco.org/usacogate) problems.
+- [usaco](https://github.com/b00401062/b00401062.github.io/tree/master/專案/usaco): Collection of Java programs solving [USACO](http://train.usaco.org/usacogate) problems.
