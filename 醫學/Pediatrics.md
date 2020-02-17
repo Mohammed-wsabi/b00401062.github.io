@@ -61,7 +61,7 @@
 |HAV|12 & 18|
 |Japanese encephalitis (JE)|15 & 27|
 
-![](../Figures/Childhood%20Immunization.gif)
+![](../圖片/Childhood%20Immunization.gif)
 
 ## Pathogens of Perinatal Infection {TORCH-BEL}
 
@@ -85,7 +85,7 @@
 - Barlow test
 - Ortolani test
 
-![](../Figures/Developmental%20Dysplasia%20of%20Hip%20(DDH)%20>%20Barlow%20and%20Ortolani%20Test.jpg)
+![](../圖片/Developmental%20Dysplasia%20of%20Hip%20(DDH)%20>%20Barlow%20and%20Ortolani%20Test.jpg)
 
 ## VACTERL Association {VACTERL}
 

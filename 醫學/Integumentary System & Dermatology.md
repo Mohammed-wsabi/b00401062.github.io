@@ -69,7 +69,7 @@
 
 ## Types of Melanocytic Nevi
 
-![](../Figures/Types%20of%20Melanocytic%20Nevi.jpg)
+![](../圖片/Types%20of%20Melanocytic%20Nevi.jpg)
 
 ## ABCDE of Melanoma {ABCDE}
 
@@ -86,4 +86,4 @@
 - Lentigo maligna melanoma
 - Acral lentiginous melanoma
 
-![](../Figures/Types%20of%20Melanoma.jpg)
+![](../圖片/Types%20of%20Melanoma.jpg)

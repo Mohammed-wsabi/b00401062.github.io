@@ -23,7 +23,7 @@
 
 ## Layers of Gastrointestinal Tract
 
-![](../Figures/Layers%20of%20Gastrointestinal%20Tract.png)
+![](../圖片/Layers%20of%20Gastrointestinal%20Tract.png)
 
 ## Layers of Abdominal Wall & Spermatic Chord
 
@@ -55,15 +55,15 @@
 |Parietal cell|Gastric acid & Intrinsic factor|
 |S cell|Secretin|
 
-![](../Figures/Gastrointestinal%20Secretion.png)
+![](../圖片/Gastrointestinal%20Secretion.png)
 
 ## Segments of the Liver
 
-![](../Figures/Segments%20of%20the%20Liver.jpg)
+![](../圖片/Segments%20of%20the%20Liver.jpg)
 
 ## Biliary Structures
 
-![](../Figures/Biliary%20Structures.png)
+![](../圖片/Biliary%20Structures.png)
 
 ## Etiology of Nausea and Vomiting
 
@@ -171,19 +171,19 @@
 
 ### Gastric Reconstruction Following Proximal Gastrectomy
 
-![](../Figures/Gastric%20Reconstruction%20Following%20Proximal%20Gastrectomy.jpg)
+![](../圖片/Gastric%20Reconstruction%20Following%20Proximal%20Gastrectomy.jpg)
 
 ### Gastric Reconstruction Following Segmental Gastrectomy
 
-![](../Figures/Gastric%20Reconstruction%20Following%20Segmental%20Gastrectomy.jpg)
+![](../圖片/Gastric%20Reconstruction%20Following%20Segmental%20Gastrectomy.jpg)
 
 ### Gastric Reconstruction Following Distal Gastrectomy
 
-![](../Figures/Gastric%20Reconstruction%20Following%20Distal%20Gastrectomy.jpg)
+![](../圖片/Gastric%20Reconstruction%20Following%20Distal%20Gastrectomy.jpg)
 
 ### Gastric Reconstruction Following Total Gastrectomy
 
-![](../Figures/Gastric%20Reconstruction%20Following%20Total%20Gastrectomy.jpg)
+![](../圖片/Gastric%20Reconstruction%20Following%20Total%20Gastrectomy.jpg)
 
 ## Complications of Gastrectomy
 
@@ -271,18 +271,18 @@
 
 ## Park Classification of Anal Fistulas
 
-![](../Figures/Park%20Classification%20of%20Anal%20Fistulas.jpg)
+![](../圖片/Park%20Classification%20of%20Anal%20Fistulas.jpg)
 
 ## Goodsall Rule for Anal Fistula
 
-![](../Figures/Goodsall%20Rule%20for%20Anal%20Fistula.jpg)
+![](../圖片/Goodsall%20Rule%20for%20Anal%20Fistula.jpg)
 
 ## Anorectal Malformation
 
 - Pubococcygeal (PC) line
 - Ischial (I) line
 
-![](../Figures/Anorectal%20Malformation.jpg)
+![](../圖片/Anorectal%20Malformation.jpg)
 
 ## Etiology of Ascites
 
@@ -349,7 +349,7 @@
 	- Child-Pugh score ≤ B: Chemotherapy
 	- Child-Pugh score = C: Supportive care
 
-![](../Figures/Barcelona%20Clinic%20Liver%20Cancer%20(BCLC)%20Staging.gif)
+![](../圖片/Barcelona%20Clinic%20Liver%20Cancer%20(BCLC)%20Staging.gif)
 
 ## Criteria for Liver Transplantation in Hepatocellular Carcinoma (HCC)
 
@@ -371,7 +371,7 @@
 
 ## Makuuchi Criteria for Hepatectomy
 
-![](../Figures/Makuuchi%20Criteria%20for%20Hepatectomy.png)
+![](../圖片/Makuuchi%20Criteria%20for%20Hepatectomy.png)
 
 ## Etiology of Hyperbilirubinemia & Jaundice
 
@@ -427,7 +427,7 @@
 - Cholangiojejunostomy
 - ± Roux-en-Y reconstruction
 
-![](../Figures/Whipple%20Procedure.jpg)
+![](../圖片/Whipple%20Procedure.jpg)
 
 ## Presentation of VIPoma {WDHA}
 

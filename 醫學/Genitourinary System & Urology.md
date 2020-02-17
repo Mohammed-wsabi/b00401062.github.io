@@ -26,7 +26,7 @@
 - Grade 4: blunting of the fornix
 - Grade 5: loss of papillary impressions
 
-![](../Figures/International%20Classification%20of%20Vesicoureteral%20Reflux%20(VUR).jpg)
+![](../圖片/International%20Classification%20of%20Vesicoureteral%20Reflux%20(VUR).jpg)
 
 ## Indications for Voiding Cystourethrogram (VCUG)
 

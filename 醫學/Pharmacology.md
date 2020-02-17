@@ -586,7 +586,7 @@
 
 ## Target Therapy
 
-![](../Figures/Target%20Therapy.png)
+![](../圖片/Target%20Therapy.png)
 
 ## Medications Causing QT Prolongation {ABCDE}
 

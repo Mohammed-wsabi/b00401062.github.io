@@ -10,15 +10,15 @@
 
 ## Pupillary Reflex
 
-![](../Figures/Pupillary%20Reflex.png)
+![](../圖片/Pupillary%20Reflex.png)
 
 ## Conjugate Eye Movements
 
-![](../Figures/Conjugate%20Eye%20Movements.jpg)
+![](../圖片/Conjugate%20Eye%20Movements.jpg)
 
 ## Vestibulo-ocular Reflex
 
-![](../Figures/Vestibulo-ocular%20Reflex.png)
+![](../圖片/Vestibulo-ocular%20Reflex.png)
 
 ## Etiology of Ophthalmoplegia & Nystagmus
 
@@ -87,35 +87,35 @@
 
 ### Normal
 
-![](../Figures/Audiogram%20>%20Normal.png)
+![](../圖片/Audiogram%20>%20Normal.png)
 
 ### Conductive Hearing Loss
 
-![](../Figures/Audiogram%20>%20Conductive%20Hearing%20Loss.png)
+![](../圖片/Audiogram%20>%20Conductive%20Hearing%20Loss.png)
 
 ### Sensorineural Hearing Loss
 
-![](../Figures/Audiogram%20>%20Sensorineural%20Hearing%20Loss.png)
+![](../圖片/Audiogram%20>%20Sensorineural%20Hearing%20Loss.png)
 
 ### Mixed Hearing Loss
 
-![](../Figures/Audiogram%20>%20Mixed%20Hearing%20Loss.png)
+![](../圖片/Audiogram%20>%20Mixed%20Hearing%20Loss.png)
 
 ### Noise-induced Hearing Loss
 
-![](../Figures/Audiogram%20>%20Noise-induced%20Hearing%20Loss.png)
+![](../圖片/Audiogram%20>%20Noise-induced%20Hearing%20Loss.png)
 
 ### Presbycusis
 
-![](../Figures/Audiogram%20>%20Presbycusis.png)
+![](../圖片/Audiogram%20>%20Presbycusis.png)
 
 ### Meniere Disease
 
-![](../Figures/Audiogram%20>%20Meniere%20Disease.png)
+![](../圖片/Audiogram%20>%20Meniere%20Disease.png)
 
 ### Osteosclerosis
 
-![](../Figures/Audiogram%20>%20Osteosclerosis.png)
+![](../圖片/Audiogram%20>%20Osteosclerosis.png)
 
 ## Tympanometry
 
@@ -127,7 +127,7 @@
 |B|Perforation|
 |C|Eustachian tube dysfunction|
 
-![](../Figures/Tympanometry.gif)
+![](../圖片/Tympanometry.gif)
 
 ## Pathogens of Otitis Media {SHM}
 

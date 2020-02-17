@@ -138,7 +138,7 @@
 
 ## Steroid Synthesis of Adrenal Gland
 
-![](../Figures/Steroid%20Synthesis%20of%20Adrenal%20Gland.png)
+![](../圖片/Steroid%20Synthesis%20of%20Adrenal%20Gland.png)
 
 ## Congenital Adrenal Hyperplasia
 

@@ -2,7 +2,7 @@
 
 ## Gram Positive Lab Algorithm
 
-![](../Figures/Gram%20Positive%20Lab%20Algorithm.png)
+![](../圖片/Gram%20Positive%20Lab%20Algorithm.png)
 
 ### Gram-Positive Cocci (GPC)
 
@@ -31,7 +31,7 @@
 
 ## Gram Negative Lab Algorithm
 
-![](../Figures/Gram%20Negative%20Lab%20Algorithm.png)
+![](../圖片/Gram%20Negative%20Lab%20Algorithm.png)
 
 ### Gram-Negative Cocci (GNC)
 
@@ -299,7 +299,7 @@
 
 ## Hemolysis
 
-![](../Figures/Hemolysis.png)
+![](../圖片/Hemolysis.png)
 
 ## β-Hemolytic Bacteria {LABS}
 
@@ -614,11 +614,11 @@
 |Recovery|-|+|IgG|
 |Vaccination|-|+|-|
 
-![](../Figures/Serological%20Test%20for%20HBV%20Infection.jpg)
+![](../圖片/Serological%20Test%20for%20HBV%20Infection.jpg)
 
 ## Serological Test for EBV Infection
 
-![](../Figures/Serological%20Test%20for%20EBV%20Infection.jpg)
+![](../圖片/Serological%20Test%20for%20EBV%20Infection.jpg)
 
 ## Presentation of Streptococcus Pneumonia Infection {MOPS}
 
@@ -718,7 +718,7 @@
 |Immunity|Cellular|Humoral|
 |Neuropathy|Localized|Generalized|
 
-![](../Figures/Classification%20of%20Leprosy.jpg)
+![](../圖片/Classification%20of%20Leprosy.jpg)
 
 ## Mechanisms of Action of Antibiotics
 
@@ -764,7 +764,7 @@
 |↓ DNA synthesis|Topoisomerase|Fluoroquinolones|
 |↑ DNA intercalation|DNA|Metronidazole|
 
-![](../Figures/Mechanisms%20of%20Action%20of%20Antibiotics.png)
+![](../圖片/Mechanisms%20of%20Action%20of%20Antibiotics.png)
 
 ## Classification of Penicillin
 
@@ -805,7 +805,7 @@
 
 ## Spectrum of Antibiotics
 
-![](../Figures/Spectrum%20of%20Antibiotics.png)
+![](../圖片/Spectrum%20of%20Antibiotics.png)
 
 ## Side Effects of Antibiotics
 
@@ -906,7 +906,7 @@
 
 ## Mechanisms of Action of Antifungals
 
-![](../Figures/Mechanisms%20of%20Action%20of%20Antifungals.png)
+![](../圖片/Mechanisms%20of%20Action%20of%20Antifungals.png)
 
 ## Mechanisms of Action of Antivirals
 
@@ -942,7 +942,7 @@
 |||Foscarnet|HSV & CMV|
 |↓ Protein synthesis|-|IFN-α|HBV & HCV|
 
-![](../Figures/Mechanisms%20of%20Action%20of%20Antivirals.png)
+![](../圖片/Mechanisms%20of%20Action%20of%20Antivirals.png)
 
 ## Highly Active Antiretroviral Therapy (HAART) for HIV Infection
 

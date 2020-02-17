@@ -112,15 +112,15 @@
 
 ## Cerebellum
 
-![](../Figures/Cerebellum.png)
+![](../圖片/Cerebellum.png)
 
 ## Basal Ganglion
 
-![](../Figures/Basal%20Ganglion.png)
+![](../圖片/Basal%20Ganglion.png)
 
 ## Basal Ganglia and Diseases
 
-![](../Figures/Basal%20Ganglia%20and%20Diseases.png)
+![](../圖片/Basal%20Ganglia%20and%20Diseases.png)
 
 ## Limbic System
 
@@ -135,7 +135,7 @@
 
 ## Circle of Willis
 
-![](../Figures/Circle%20of%20Willis.png)
+![](../圖片/Circle%20of%20Willis.png)
 
 ## Sleep Stages
 
@@ -148,7 +148,7 @@
 |NREM sleep :: stage 3 & 4|δ wave|
 |REM sleep|β wave|
 
-![](../Figures/Sleep%20Stage.jpg)
+![](../圖片/Sleep%20Stage.jpg)
 
 ## Groups of Cranial Nerves
 
@@ -281,7 +281,7 @@
 
 ## Factors Affecting Cerebral Blood Flow
 
-![](../Figures/Factors%20Affecting%20Cerebral%20Blood%20Flow.jpg)
+![](../圖片/Factors%20Affecting%20Cerebral%20Blood%20Flow.jpg)
 
 ## Craniosynostosis
 
@@ -293,7 +293,7 @@
 |Plagiocephaly :: anterior|Unilateral coronal|
 |Plagiocephaly :: posterior|Unilateral lambdoid|
 
-![](../Figures/Craniosynostosis.jpg)
+![](../圖片/Craniosynostosis.jpg)
 
 ## Primary Headaches
 

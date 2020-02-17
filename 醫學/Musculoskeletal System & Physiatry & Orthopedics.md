@@ -44,11 +44,11 @@
 
 ## Waves on Evoked Electromyography (EMG)
 
-![](../Figures/Waves%20on%20Evoked%20Electromyography%20(EMG).png)
+![](../圖片/Waves%20on%20Evoked%20Electromyography%20(EMG).png)
 
 ## Types of Fractures
 
-![](../Figures/Types%20of%20Fractures.jpg)
+![](../圖片/Types%20of%20Fractures.jpg)
 
 ## Lab Values in Bone Disorders
 

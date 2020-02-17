@@ -17,11 +17,11 @@
 |IRV & TV & ERV|Spirometry|
 |RV|Helium dilution method & Plethysmography|
 
-![](../Figures/Lung%20Volumes.png)
+![](../圖片/Lung%20Volumes.png)
 
 ## Perfusion and Diffusion Limited Pulmonary Circulation
 
-![](../Figures/Perfusion%20and%20Diffusion%20Limited%20Pulmonary%20Circulation.png)
+![](../圖片/Perfusion%20and%20Diffusion%20Limited%20Pulmonary%20Circulation.png)
 
 ## Ventilation/Perfusion (V/Q) Ratio
 
@@ -88,7 +88,7 @@
 
 ## Treatment of Asthma
 
-![](../Figures/Treatment%20of%20Asthma.gif)
+![](../圖片/Treatment%20of%20Asthma.gif)
 
 ## Mechanisms of Action of Medications for Asthma
 

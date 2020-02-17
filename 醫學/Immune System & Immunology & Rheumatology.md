@@ -2,7 +2,7 @@
 
 ## Secondary Lymphoid Tissues
 
-![](../Figures/Secondary%20Lymphoid%20Tissues.png)
+![](../圖片/Secondary%20Lymphoid%20Tissues.png)
 
 ## Macrophages
 
@@ -30,7 +30,7 @@
 
 ## Toll-Like Receptors (TLR) on Antigen-Presenting Cells (APC)
 
-![](../Figures/Toll-Like%20Receptors%20(TLR)%20on%20Antigen-Presenting%20Cells%20(APC).png)
+![](../圖片/Toll-Like%20Receptors%20(TLR)%20on%20Antigen-Presenting%20Cells%20(APC).png)
 
 ## Complement Systems
 
@@ -40,11 +40,11 @@
 |Alternative|Spontaneous and microbial surfaces|3BD356789|
 |Lectin|Microbial surfaces|M42356789|
 
-![](../Figures/Complement%20Systems.png)
+![](../圖片/Complement%20Systems.png)
 
 ## Respiratory [Oxidative] Burst
 
-![](../Figures/Respiratory%20Burst%20(Oxidative%20Burst).png)
+![](../圖片/Respiratory%20Burst%20(Oxidative%20Burst).png)
 
 ## Functions of Complements & Cytokines
 
@@ -106,20 +106,20 @@
 
 ## Structure of MHC
 
-![](../Figures/Structure%20of%20MHC.png)
+![](../圖片/Structure%20of%20MHC.png)
 
 ## Structure of Lymphocyte Receptors
 
-![](../Figures/Structure%20of%20Lymphocyte%20Receptors.png)
+![](../圖片/Structure%20of%20Lymphocyte%20Receptors.png)
 
 ## Development of Lymphocytes
 
-![](../Figures/T%20Cell%20Development.png)
-![](../Figures/B%20Cell%20Development.png)
+![](../圖片/T%20Cell%20Development.png)
+![](../圖片/B%20Cell%20Development.png)
 
 ## Activation of Lymphocytes
 
-![](../Figures/Activation%20of%20Lymphocytes.png)
+![](../圖片/Activation%20of%20Lymphocytes.png)
 
 ## Immunoglobulins {MDGEA}
 
@@ -351,7 +351,7 @@
 
 ## Mechanisms of Action of Immunosuppressants
 
-![](../Figures/Mechanisms%20of%20Action%20of%20Immunosuppressants.png)
+![](../圖片/Mechanisms%20of%20Action%20of%20Immunosuppressants.png)
 
 ## Mechanisms of Action of Immunosuppressants
 

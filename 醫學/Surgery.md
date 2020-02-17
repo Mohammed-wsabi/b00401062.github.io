@@ -15,11 +15,11 @@
 
 ### Metabolic Equivalent (MET)
 
-![](../Figures/Metabolic%20Equivalent%20(MET).jpg)
+![](../圖片/Metabolic%20Equivalent%20(MET).jpg)
 
 ### Mallampati Classification
 
-![](../Figures/Mallampati%20Classification.jpg)
+![](../圖片/Mallampati%20Classification.jpg)
 
 ### EuroSCORE
 
@@ -29,7 +29,7 @@
 |Medium|3 ~ 5|2.9%|
 |High|≥ 6|10.9 ~ 11.5%|
 
-![](../Figures/EuroSCORE.png)
+![](../圖片/EuroSCORE.png)
 
 ## Minimal Fasting Time
 
@@ -42,7 +42,7 @@
 
 ## Therapeutic Intervention Scoring System (TISS)
 
-![](../Figures/Therapeutic%20Intervention%20Scoring%20System%20(TISS).png)
+![](../圖片/Therapeutic%20Intervention%20Scoring%20System%20(TISS).png)
 
 ## Acute Physiology and Chronic Health Evaluation (APACHE) II
 
@@ -90,7 +90,7 @@
 
 ## Types of Wound Healing
 
-![](../Figures/Wound%20Healing.jpg)
+![](../圖片/Wound%20Healing.jpg)
 
 ## Types of Suture Materials
 
@@ -120,7 +120,7 @@
 
 ## Types of Skin Grafts
 
-![](../Figures/Skin%20Grafts.jpg)
+![](../圖片/Skin%20Grafts.jpg)
 
 ## Types of Flaps
 
@@ -159,4 +159,4 @@
 
 ## Wallace Rule of Nines
 
-![](../Figures/Wallace%20Rule%20of%20Nines.jpg)
+![](../圖片/Wallace%20Rule%20of%20Nines.jpg)

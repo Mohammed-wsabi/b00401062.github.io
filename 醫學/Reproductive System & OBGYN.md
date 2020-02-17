@@ -35,7 +35,7 @@
 |Cardinal ligament|Cervix ~ Pelvis :: lateral|Uterine vessels|
 |Uterosacral ligament|Cervix ~ Sacrum|Inferior hypogastric plexus|
 
-![](../Figures/Ligaments%20of%20Uterus%20and%20Ovary.png)
+![](../圖片/Ligaments%20of%20Uterus%20and%20Ovary.png)
 
 ## Sex Hormone Production
 
@@ -66,7 +66,7 @@
 ||Progesterone|Corpus luteum & Placenta|
 |Y|CRH|Plcenta|
 
-![](../Figures/Hormone%20Change%20During%20Pregnancy.png)
+![](../圖片/Hormone%20Change%20During%20Pregnancy.png)
 
 ## Differential Diagnoses for Size/Date Discrepancy
 
@@ -282,7 +282,7 @@
 |Anthropoid|Vertical ellipse|Prominent|Vertex :: OP|
 |Platypelloid|Horizontal ellipse|Non-prominent|Tranverse|
 
-![](../Figures/Pelvis%20Shapes.jpg)
+![](../圖片/Pelvis%20Shapes.jpg)
 
 ## Bishop Score
 
@@ -292,11 +292,11 @@
 - Dilation
 - Station
 
-![](../Figures/Bishop%20Score.png)
+![](../圖片/Bishop%20Score.png)
 
 ## Apgar Score
 
-![](../Figures/Apgar%20Score.jpg)
+![](../圖片/Apgar%20Score.jpg)
 
 ## Classification of Perineal Lacerations
 
@@ -518,7 +518,7 @@
 |Claudin-low|-|BRCA|
 |Interferon-rich|-|BRCA|
 
-![](../Figures/Breast%20Cancer%20>%20Molecular%20Subtypes.png)
+![](../圖片/Breast%20Cancer%20>%20Molecular%20Subtypes.png)
 
 ## Types of Flaps for Breast Reconstruction
 

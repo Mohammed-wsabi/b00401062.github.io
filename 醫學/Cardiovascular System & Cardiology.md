@@ -2,7 +2,7 @@
 
 ## Fetal Circulation
 
-![](../Figures/Fetal%20Circulation.png)
+![](../圖片/Fetal%20Circulation.png)
 
 ## Heart Development
 
@@ -51,7 +51,7 @@
 |5|Vasopressors|
 |6|Vasodilators & AV shunt|
 
-![](../Figures/Cardiac%20and%20Vascular%20Function%20Curves.png)
+![](../圖片/Cardiac%20and%20Vascular%20Function%20Curves.png)
 
 ## Heart Sounds
 
@@ -177,11 +177,11 @@
 |Inferior|RCA & LCX|II & III & aVF|
 |Posterior|RCA / LCX|V1 & V2 & V3|
 
-![](../Figures/Localization%20on%20ECG.png)
+![](../圖片/Localization%20on%20ECG.png)
 
 ## Views of Echocardiography
 
-![](../Figures/Views%20of%20Echocardiography.png)
+![](../圖片/Views%20of%20Echocardiography.png)
 
 ## Cardiac Stress Test
 
@@ -198,11 +198,11 @@
 |Sinus venosus|10%|
 |Coronary sinus|< 1%|
 
-![](../Figures/Atrial%20Septal%20Defects%20(ASD).jpg)
+![](../圖片/Atrial%20Septal%20Defects%20(ASD).jpg)
 
 ## Ventricular Septal Defects (VSD)
 
-![](../Figures/Ventricular%20Septal%20Defects%20(VSD).png)
+![](../圖片/Ventricular%20Septal%20Defects%20(VSD).png)
 
 ## Cyanotic Congenital Heart Defects (CHD) {5T-HE}
 
@@ -267,11 +267,11 @@
 
 ### NYHA
 
-![](../Figures/NYHA%20Functional%20Classes.png)
+![](../圖片/NYHA%20Functional%20Classes.png)
 
 ### ACC/AHA
 
-![](../Figures/ACC-AHA%20Stages%20of%20Heart%20Failure.png)
+![](../圖片/ACC-AHA%20Stages%20of%20Heart%20Failure.png)
 
 ## Treatment of Heart failure (HF)
 
@@ -553,7 +553,7 @@
 	- IgA vasculitis [Henoch-Schonlein purpura (HSP)]
 	- Cryoglobulinemic vasculitis
 	
-![](../Figures/Vasculitis.png)
+![](../圖片/Vasculitis.png)
 
 ## Indications for Permanent Pacemaker
 

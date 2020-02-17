@@ -183,7 +183,7 @@
 
 ## Presentation of Autosomal Trisomies
 
-![](../Figures/Presentation%20of%20Autosomal%20Trisomies.jpg)
+![](../圖片/Presentation%20of%20Autosomal%20Trisomies.jpg)
 
 ## Autosomal Dominant Disorders
 

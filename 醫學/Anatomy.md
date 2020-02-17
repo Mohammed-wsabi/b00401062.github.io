@@ -2,7 +2,7 @@
 
 ## Types of Joints
 
-![](../Figures/Types%20of%20Joints.png)
+![](../圖片/Types%20of%20Joints.png)
 
 ## Vertebral Ligaments {SIFPA}
 
@@ -22,7 +22,7 @@
 
 ## Brain Sutures and Fontanels
 
-![](../Figures/Brain%20Sutures%20and%20Fontanels.jpg)
+![](../圖片/Brain%20Sutures%20and%20Fontanels.jpg)
 
 ## Orbital Bones
 
@@ -43,7 +43,7 @@
 - Ethmoid sinus
 - Sphenoid sinus
 
-![](../Figures/Paranasal%20Sinuses.png)
+![](../圖片/Paranasal%20Sinuses.png)
 
 ## Pterygopalatine Fossa
 
@@ -57,7 +57,7 @@
 
 ## Cavernous Sinus
 
-![](../Figures/Cavernous%20Sinus.png)
+![](../圖片/Cavernous%20Sinus.png)
 
 ## Cranial Passages
 
@@ -273,7 +273,7 @@
 |Cell|Cord|Lateral pectoral nerve & Medial pectoral & Thoracodorsal & Subscapular nerve|
 |Biology|Branch|Axillary & Musculocutaneous & Medial & Ulnar & Radial nerve|
 
-![](../Figures/Brachial%20Plexus.png)
+![](../圖片/Brachial%20Plexus.png)
 
 ## Axillary Spaces
 

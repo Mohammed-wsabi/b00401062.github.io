@@ -120,7 +120,7 @@
 |Alanine transaminase (ALT)|Vitamin B<sub>6</sub>|-|-|
 |Lactate dehydrogenase (LDH)|-|-|-|
 
-![](../Figures/Summary%20of%20Pathways.png)
+![](../圖片/Summary%20of%20Pathways.png)
 
 ## Carbohydrate Metabolism
 
@@ -152,7 +152,7 @@
 |Citric acid [Krebs] cycle|Acetyl-CoA → Energy|Mitochondria|
 |Lactic acid [Cori] cycle|-|-|
 
-![](../Figures/Carbohydrate%20Metabolism.png)
+![](../圖片/Carbohydrate%20Metabolism.png)
 
 ## Glycolysis Enzymes & Products {KI-KAI-DK-MEK}
 
@@ -222,15 +222,15 @@
 
 ## Glycolysis and Gluconeogenesis Regulation
 
-![](../Figures/Glycolysis%20and%20Gluconeogenesis%20Regulation.png)
+![](../圖片/Glycolysis%20and%20Gluconeogenesis%20Regulation.png)
 
 ## Glycogenolysis and Glycogenesis Regulation
 
-![](../Figures/Glycogenolysis%20and%20Glycogenesis%20Regulation.png)
+![](../圖片/Glycogenolysis%20and%20Glycogenesis%20Regulation.png)
 
 ## Electron Transport Chain (ETC)
 
-![](../Figures/Electron%20Transport%20Chain%20(ETC).png)
+![](../圖片/Electron%20Transport%20Chain%20(ETC).png)
 
 ## Monosaccharide Transporters
 
@@ -269,11 +269,11 @@
 
 ## Fatty Acid Metabolism
 
-![](../Figures/Fatty%20Acid%20Metabolism.png)
+![](../圖片/Fatty%20Acid%20Metabolism.png)
 
 ## Fatty Acid Oxidation
 
-![](../Figures/Fatty%20Acid%20Oxidation.png)
+![](../圖片/Fatty%20Acid%20Oxidation.png)
 
 ## Lipoproteins & Apolipoproteins
 
@@ -401,11 +401,11 @@
 
 ## Amino Acid Catabolism
 
-![](../Figures/Amino%20Acid%20Catabolism.jpg)
+![](../圖片/Amino%20Acid%20Catabolism.jpg)
 
 ## Catecholamine Metabolism
 
-![](../Figures/Catecholamine%20Metabolism.png)
+![](../圖片/Catecholamine%20Metabolism.png)
 
 ## Urea Cycle Enzymes & Products
 
@@ -419,11 +419,11 @@
 
 ## Urea Cycle Enzymes and Products
 
-![](../Figures/Urea%20Cycle%20Enzymes%20and%20Products.png)
+![](../圖片/Urea%20Cycle%20Enzymes%20and%20Products.png)
 
 ## Cori Cycle & Cahill Cycle
 
-![](../Figures/Cori%20and%20Cahill%20Cycle.png)
+![](../圖片/Cori%20and%20Cahill%20Cycle.png)
 
 ## Nucleobases & Nucleosides
 
@@ -439,11 +439,11 @@
 
 ## Hexose Monophosphate (HMP) Shunt
 
-![](../Figures/Hexose%20Monophosphate%20(HMP) Shunt.png)
+![](../圖片/Hexose%20Monophosphate%20(HMP) Shunt.png)
 
 ## Compositions of Purine and Pyrimidine
 
-![](../Figures/Compositions%20of%20Purine%20and%20Pyrimidine.png)
+![](../圖片/Compositions%20of%20Purine%20and%20Pyrimidine.png)
 
 ## De Novo Pathways for Purines & Pyrimidines
 
@@ -456,11 +456,11 @@
 
 ## De Novo Pathways for Purines and Pyrimidines
 
-![](../Figures/De%20Novo%20Pathways%20for%20Purines%20and%20Pyrimidines.png)
+![](../圖片/De%20Novo%20Pathways%20for%20Purines%20and%20Pyrimidines.png)
 
 ## Purine Salvage
 
-![](../Figures/Purine%20Salvage.png)
+![](../圖片/Purine%20Salvage.png)
 
 ## Symptoms of Lesch-Nyhan Syndrome {HGPRT}
 
@@ -480,7 +480,7 @@
 
 ## DNA Replication
 
-![](../Figures/DNA%20Replication.png)
+![](../圖片/DNA%20Replication.png)
 
 ## Enzymes for DNA Replication
 
@@ -603,4 +603,4 @@
 
 ## Enzyme-linked Immunosorbent Assay (ELISA)
 
-![](../Figures/Enzyme-Linked%20Immunosorbent%20Assay%20(ELISA).png)
+![](../圖片/Enzyme-Linked%20Immunosorbent%20Assay%20(ELISA).png)

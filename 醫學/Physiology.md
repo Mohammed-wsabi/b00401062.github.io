@@ -89,12 +89,12 @@
 
 ## Skeletal Muscle Contraction
 
-![](../Figures/Skeletal%20Muscle%20Contraction.png)
+![](../圖片/Skeletal%20Muscle%20Contraction.png)
 
 ## Crossbridge Cycling
 
-![](../Figures/Crossbridge%20Cycling.jpg)
+![](../圖片/Crossbridge%20Cycling.jpg)
 
 ## Smooth Muscle Contraction
 
-![](../Figures/Smooth%20Muscle%20Contraction.png)
+![](../圖片/Smooth%20Muscle%20Contraction.png)

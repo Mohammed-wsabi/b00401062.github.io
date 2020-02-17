@@ -40,4 +40,4 @@
 
 ## Neuromuscular Blockade
 
-![](../Figures/Neuromuscular%20Blockade.png)
+![](../圖片/Neuromuscular%20Blockade.png)

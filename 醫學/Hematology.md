@@ -2,7 +2,7 @@
 
 ## Hematopoiesis
 
-![](../Figures/Hematopoiesis.gif)
+![](../圖片/Hematopoiesis.gif)
 
 ## Granules in Blood Cells
 
@@ -26,11 +26,11 @@
 
 ## Heme Synthesis
 
-![](../Figures/Heme%20Synthesis%20and%20Diseases.png)
+![](../圖片/Heme%20Synthesis%20and%20Diseases.png)
 
 ## Hemoglobin Genes
 
-![](../Figures/Hemoglobin%20Genes.jpg)
+![](../圖片/Hemoglobin%20Genes.jpg)
 
 ## Hemoglobin Variants
 
@@ -63,7 +63,7 @@
 
 ## Etiology of Anemia
 
-![](../Figures/Differential%20Diagnosis%20of%20Anemia.png)
+![](../圖片/Differential%20Diagnosis%20of%20Anemia.png)
 
 ### Microcytic Anemia {TAILS}
 
@@ -256,7 +256,7 @@
 
 ## Coagulation Pathway
 
-![](../Figures/Coagulation%20Pathway.png)
+![](../圖片/Coagulation%20Pathway.png)
 
 ## Etiology of Hypocoagulability
 

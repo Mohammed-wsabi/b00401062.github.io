@@ -49,11 +49,11 @@
 
 ## Magnetic Resonance (MR) Imaging
 
-![](../Figures/Magnetic%20Resonance%20(MR)%20Imaging.png)
+![](../圖片/Magnetic%20Resonance%20(MR)%20Imaging.png)
 
 ## Radioactive Decay
 
-![](../Figures/Radioactive%20Decay.jpg)
+![](../圖片/Radioactive%20Decay.jpg)
 
 ## Radiopharmaceuticals for Diagnosis
 
@@ -75,7 +75,7 @@
 
 ## Percentage Depth Dose Curve
 
-![](../Figures/Percentage%20Depth%20Dose%20Curve.jpg)
+![](../圖片/Percentage%20Depth%20Dose%20Curve.jpg)
 
 ## Cancers Treated with Radiotherapy Only
 

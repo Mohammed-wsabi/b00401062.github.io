@@ -16,17 +16,17 @@
 
 ## Relative Concentrations Along Proximal Convoluted Tubules
 
-![](../Figures/Relative%20Concentrations%20Along%20Proximal%20Convoluted%20Tubules.png)
+![](../圖片/Relative%20Concentrations%20Along%20Proximal%20Convoluted%20Tubules.png)
 
 ## Ion Channels of the Kidney
 
 ### Loop of Henle
 
-![](../Figures/Ion%20Channels%20of%20Loop%20of%20Henle.gif)
+![](../圖片/Ion%20Channels%20of%20Loop%20of%20Henle.gif)
 
 ### Distal Convoluted Tubule (DCT)
 
-![](../Figures/Ion%20Channels%20of%20Distal%20Convoluted%20Tubule%20(DCT).gif)
+![](../圖片/Ion%20Channels%20of%20Distal%20Convoluted%20Tubule%20(DCT).gif)
 
 ## Urine Color & Diseases
 
@@ -84,7 +84,7 @@
 |Removal|Small molecules|All molecules & Water|
 |Fluids|Dialysate|Replacement fluid|
 
-![](../Figures/Mechanisms%20of%20Dialysis.jpg)
+![](../圖片/Mechanisms%20of%20Dialysis.jpg)
 
 ## Modes of Dialysis
 
