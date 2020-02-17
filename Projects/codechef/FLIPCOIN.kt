@@ -299,15 +299,15 @@ internal object FLIPCOIN {
 
         fun select(k: Int): K {
             require(k >= 0 && k < size())
-            val x = select(root, k)
+            val x = select(root!!, k)
             return x!!.k
         }
 
         private fun select(x: Node, k: Int): Node? {
             val t = size(x.lt)
             return when {
-                t > k -> select(x.lt, k)
-                t < k -> select(x.rt, k - t - 1)
+                t > k -> select(x.lt!!, k)
+                t < k -> select(x.rt!!, k - t - 1)
                 else -> x
             }
         }
