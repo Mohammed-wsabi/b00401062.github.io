@@ -5,6 +5,7 @@
 ## Contents
 
 - [Introduction](#introduction)
+- [First order logic and automated reasoning in a nutshell](#first-order-logic-and-automated-reasoning-in-a-nutshell)
 
 ---
 
@@ -49,5 +50,15 @@
 
 - Data integration: schema-based v.s. data-based.
 - How to prevent the integration problems form happening in the first place? Through generating conceptual models for related new applications based on the knowledge represented in the ontology.
+
+---
+
+## First order logic and automated reasoning in a nutshell
+
+- [First order logic syntax and semantics](#first-order-logic-syntax-and-semantics)
+
+---
+
+### First order logic syntax and semantics
 
 ---
