@@ -262,9 +262,8 @@ class BST<K : Comparable<K>, V> {
         }
     }
 
-    fun keys(): Iterable<K> {
-        return if (isEmpty) ArrayDeque() else keys(min(), max(), true)
-    }
+    val keys: Iterable<K>
+        get() = if (isEmpty) ArrayDeque() else keys(min(), max(), true)
 
     fun keys(lo: K, hi: K, inclusive: Boolean = false): Iterable<K> {
         val queue: Queue<K> = ArrayDeque()
@@ -311,7 +310,7 @@ class BST<K : Comparable<K>, V> {
     val isRankConsistent: Boolean
         get() {
             for (i in 0 until size) if (i != rank(select(i))) return false
-            for (k in keys()) if (k != select(rank(k))) return false
+            for (k in keys) if (k != select(rank(k))) return false
             return true
         }
 
@@ -333,7 +332,7 @@ class BST<K : Comparable<K>, V> {
             var x = root
             while (x != null) {
                 if (!isRed(x)) black++
-                x = x.lt
+                x = x!!.lt
             }
             return isBalanced(root, black)
         }
