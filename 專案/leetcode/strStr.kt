@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode
 
 private fun compile(needle: String): IntArray {
     val table = IntArray(needle.length)

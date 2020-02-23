@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode
 
 private fun recur(candidates: IntArray, target: Int): List<List<Int>> {
     if (target == 0)

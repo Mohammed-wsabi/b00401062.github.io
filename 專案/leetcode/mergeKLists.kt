@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode
 
 private fun select(lists: Array<ListNode?>): Int {
     var argmin: Int = -1

@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode
 
 fun mergeTwoLists(l1: ListNode?, l2: ListNode?): ListNode? {
     if (l1 == null) return l2

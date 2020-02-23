@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode
 
 fun findSubstring(s: String, words: Array<String>): List<Int> {
     if (s.isEmpty() || words.isEmpty())

@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode
 
 fun fourSum(nums: IntArray, target: Int): List<List<Int>> {
     val list = mutableListOf<List<Int>>()

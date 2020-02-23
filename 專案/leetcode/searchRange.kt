@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode
 
 private fun searchLtMargin(nums: IntArray, target: Int): Int {
     if (nums.isEmpty())

@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode
 
 fun nextPermutation(nums: IntArray): Unit {
     var l = nums.lastIndex - 1

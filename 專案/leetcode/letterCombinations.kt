@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode
 
 val map = mapOf(
     '2' to "abc",

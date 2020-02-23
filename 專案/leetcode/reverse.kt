@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode
 
 fun reverse(x: Int): Int {
     var x = x

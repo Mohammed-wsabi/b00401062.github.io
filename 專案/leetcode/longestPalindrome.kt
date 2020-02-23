@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode
 
 private fun check(s: String, l: Int, r: Int): String {
     var l = l

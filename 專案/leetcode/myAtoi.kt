@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode
 
 fun myAtoi(str: String): Int {
     val trimmed = str.trim()

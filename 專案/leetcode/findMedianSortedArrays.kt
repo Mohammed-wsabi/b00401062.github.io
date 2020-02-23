@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode
 
 private fun select(l1: IntArray, l2: IntArray, k: Int): Double {
     if (l1.isEmpty()) return l2[k].toDouble()

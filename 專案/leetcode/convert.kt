@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode
 
 fun convert(s: String, numRows: Int): String {
     if (numRows == 1)

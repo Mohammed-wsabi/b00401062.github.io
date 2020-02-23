@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode
 
 fun countAndSay(n: Int): String {
     var s = "1"

@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode
 
 fun searchInsert(nums: IntArray, target: Int): Int {
     if (nums.isEmpty())

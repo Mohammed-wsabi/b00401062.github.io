@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode
 
 fun lengthOfLongestSubstring(s: String): Int {
     var length = 0

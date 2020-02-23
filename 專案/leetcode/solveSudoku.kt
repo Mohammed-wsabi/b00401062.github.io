@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode
 
 private fun solve(
     board: Array<CharArray>,

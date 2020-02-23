@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode
 
 fun swapPairs(head: ListNode?): ListNode? {
     val root = ListNode(0)
