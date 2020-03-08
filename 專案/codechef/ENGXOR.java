@@ -9,19 +9,19 @@ class ENGXOR {
             int n = stdin.nextInt();
             int q = stdin.nextInt();
             int lastA = 0;
-            int nEvens = 0;
+            int nOdds = 0;
             for (int i = 0; i < n; i++) {
                 lastA = stdin.nextInt();
                 int cardinality = Integer.bitCount(lastA);
-                nEvens += (cardinality % 2 == 0) ? 1 : 0;
+                nOdds += cardinality % 2;
             }
-            boolean isLastACardinalityEven = Integer.bitCount(lastA) % 2 == 0;
+            int lastACardinality = Integer.bitCount(lastA);
             while (q-- > 0) {
                 int p = stdin.nextInt();
                 int cardinality = Integer.bitCount(p ^ lastA);
-                boolean isCardinalitySame = (cardinality % 2 == 0) == isLastACardinalityEven;
-                int resNEvens = isCardinalitySame ? nEvens : n - nEvens;
-                stdout.write(String.format("%d %d\n", resNEvens, n - resNEvens));
+                boolean isSame = (cardinality % 2) == (lastACardinality % 2);
+                int resNOdds = isSame ? nOdds : n - nOdds;
+                stdout.write(String.format("%d %d\n", n - resNOdds, resNOdds));
             }
         }
         stdin.close();
