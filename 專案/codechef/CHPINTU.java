@@ -1,7 +1,5 @@
 package codechef;
 
-import java.util.Arrays;
-
 class CHPINTU {
     public static void main(String[] args) {
         Scanner stdin = new Scanner(System.in);
