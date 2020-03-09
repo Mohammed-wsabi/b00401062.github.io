@@ -1,7 +1,5 @@
 package codechef;
 
-import java.util.*;
-
 class LAZER {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
