@@ -22,20 +22,24 @@ class LAZER {
     }
 
     public static void main(String[] args) {
-        Scanner reader = new Scanner(System.in);
-        int t = reader.nextInt();
+        BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+        PrintWriter writer = new PrintWriter(System.out);
+        int t = Integer.parseInt(reader.readLine());
         while (t-- > 0) {
-            int n = reader.nextInt();
-            int q = reader.nextInt();
+            String[] words = reader.readLine().split(" ");
+            int n = Integer.parseInt(words[0]);
+            int q = Integer.parseInt(words[1]);
             Integer[] A = new Integer[n];
+            StringTokenizer st = new StringTokenizer(reader.readLine());
             for (int i = 0; i < n; i++) {
-                A[i] = reader.nextInt();
+                A[i] = Integer.parseInt(st.nextToken());
             }
             Query[] Q = new Query[q];
             for (int i = 0; i < q; i++) {
-                int x1 = reader.nextInt();
-                int x2 = reader.nextInt();
-                int y = reader.nextInt();
+                words = reader.readLine().split(" ");
+                int x1 = Integer.parseInt(words[0]);
+                int x2 = Integer.parseInt(words[1]);
+                int y = Integer.parseInt(words[2]);
                 Q[i] = new Query(i, x1, x2, y);
             }
             Map<Integer, List<Integer>> xAtMinY = new HashMap<>();
@@ -79,9 +83,11 @@ class LAZER {
             }
             Arrays.sort(Q, Comparator.comparing(Query::getID));
             for (int i = 0; i < q; i++) {
-                System.out.println(Q[i].n);
+                writer.println(Q[i].n);
             }
         }
         reader.close();
+        writer.flush();
+        writer.close();
     }
 }
