@@ -58,12 +58,8 @@ class LAZER {
                 xAtMaxY.put(maxY, maxYXs);
             }
             TreeSet<Integer> yEvents = new TreeSet<>();
-            for (int i = 0; i < n; i++) {
-                yEvents.add(A[i]);
-            }
-            for (int i = 0; i < q; i++) {
-                yEvents.add(Q[i].y);
-            }
+            yEvents.addAll(Arrays.asList(A));
+            yEvents.addAll(Arrays.stream(Q).map(Query::getY).collect(Collectors.toList()));
             Arrays.sort(Q, Comparator.comparing(Query::getY));
             TreeSet<Integer> xCandis = new TreeSet<>();
             int nProcessedQueries = 0;
