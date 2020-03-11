@@ -63,17 +63,21 @@ class LAZER {
                 queries.add(Q[i]);
                 yEvents.put(Q[i].y, queries);
             }
-            TreeSet<Integer> xCandis = new TreeSet<>();
+            BST<Integer> xCandis = new BST<>();
             for (Map.Entry<Integer, List<Query>> yEvent : yEvents.entrySet()) {
                 int y = yEvent.getKey();
                 if (minYs.containsKey(y)) {
-                    xCandis.addAll(minYs.get(y));
+                    for (Integer x : minYs.get(y)) {
+                        xCandis.add(x);
+                    }
                 }
                 for (Query query : yEvent.getValue()) {
-                    query.n = xCandis.subSet(query.x1, query.x2).size();
+                    query.n = xCandis.size(query.x1, query.x2);
                 }
                 if (maxYs.containsKey(y)) {
-                    xCandis.removeAll(maxYs.get(y));
+                    for (Integer x : maxYs.get(y)) {
+                        xCandis.remove(x);
+                    }
                 }
             }
             for (int i = 0; i < q; i++) {
