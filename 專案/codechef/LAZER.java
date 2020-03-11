@@ -24,22 +24,23 @@ class LAZER {
     public static void main(String[] args) {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         PrintWriter writer = new PrintWriter(System.out);
+        StringTokenizer st;
         int t = Integer.parseInt(reader.readLine());
         while (t-- > 0) {
-            String[] words = reader.readLine().split(" ");
-            int n = Integer.parseInt(words[0]);
-            int q = Integer.parseInt(words[1]);
+            st = new StringTokenizer(reader.readLine());
+            int n = Integer.parseInt(st.nextToken());
+            int q = Integer.parseInt(st.nextToken());
             Integer[] A = new Integer[n];
-            StringTokenizer st = new StringTokenizer(reader.readLine());
+            st = new StringTokenizer(reader.readLine());
             for (int i = 0; i < n; i++) {
                 A[i] = Integer.parseInt(st.nextToken());
             }
             Query[] Q = new Query[q];
             for (int i = 0; i < q; i++) {
-                words = reader.readLine().split(" ");
-                int x1 = Integer.parseInt(words[0]);
-                int x2 = Integer.parseInt(words[1]);
-                int y = Integer.parseInt(words[2]);
+                st = new StringTokenizer(reader.readLine());
+                int x1 = Integer.parseInt(st.nextToken());
+                int x2 = Integer.parseInt(st.nextToken());
+                int y = Integer.parseInt(st.nextToken());
                 Q[i] = new Query(i, x1, x2, y);
             }
             Map<Integer, List<Integer>> xAtMinY = new HashMap<>();
