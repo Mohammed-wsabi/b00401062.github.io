@@ -16,9 +16,6 @@ class LAZER {
             this.x2 = x2;
             this.y = y;
         }
-
-        protected int getID() { return this.id; }
-        protected int getY() { return this.y; }
     }
 
     public static void main(String[] args) {
@@ -43,42 +40,42 @@ class LAZER {
                 int y = Integer.parseInt(st.nextToken());
                 Q[i] = new Query(i, x1, x2, y);
             }
-            Map<Integer, List<Integer>> xAtMinY = new HashMap<>();
-            Map<Integer, List<Integer>> xAtMaxY = new HashMap<>();
+            Map<Integer, List<Integer>> minYs = new HashMap<>();
+            Map<Integer, List<Integer>> maxYs = new HashMap<>();
             for (int i = 1; i < n; i++) {
                 int y1 = A[i - 1];
                 int y2 = A[i];
                 int minY = Math.min(y1, y2);
                 int maxY = Math.max(y1, y2);
-                List<Integer> minYXs = xAtMinY.getOrDefault(minY, new ArrayList<>());
+                List<Integer> minYXs = minYs.getOrDefault(minY, new ArrayList<>());
                 minYXs.add(i);
-                xAtMinY.put(minY, minYXs);
-                List<Integer> maxYXs = xAtMaxY.getOrDefault(maxY, new ArrayList<>());
+                minYs.put(minY, minYXs);
+                List<Integer> maxYXs = maxYs.getOrDefault(maxY, new ArrayList<>());
                 maxYXs.add(i);
-                xAtMaxY.put(maxY, maxYXs);
+                maxYs.put(maxY, maxYXs);
             }
-            TreeSet<Integer> yEvents = new TreeSet<>();
-            yEvents.addAll(Arrays.asList(A));
-            yEvents.addAll(Arrays.stream(Q).map(Query::getY).collect(Collectors.toList()));
-            Arrays.sort(Q, Comparator.comparing(Query::getY));
+            TreeMap<Integer, List<Query>> yEvents = new TreeMap<>();
+            for (int i = 0; i < n; i++) {
+                yEvents.put(A[i], new ArrayList<>());
+            }
+            for (int i = 0; i < q; i++) {
+                List<Query> queries = yEvents.getOrDefault(Q[i].y, new ArrayList<>());
+                queries.add(Q[i]);
+                yEvents.put(Q[i].y, queries);
+            }
             TreeSet<Integer> xCandis = new TreeSet<>();
-            int nProcessedQueries = 0;
-            for (int y : yEvents) {
-                if (xAtMinY.containsKey(y)) {
-                    xCandis.addAll(xAtMinY.get(y));
+            for (Map.Entry<Integer, List<Query>> yEvent : yEvents.entrySet()) {
+                int y = yEvent.getKey();
+                if (minYs.containsKey(y)) {
+                    xCandis.addAll(minYs.get(y));
                 }
-                while (nProcessedQueries < q && y == Q[nProcessedQueries].y) {
-                    Query query = Q[nProcessedQueries];
-                    int x1 = query.x1;
-                    int x2 = query.x2;
-                    query.n = xCandis.subSet(x1, x2).size();
-                    nProcessedQueries++;
+                for (Query query : yEvent.getValue()) {
+                    query.n = xCandis.subSet(query.x1, query.x2).size();
                 }
-                if (xAtMaxY.containsKey(y)) {
-                    xCandis.removeAll(xAtMaxY.get(y));
+                if (maxYs.containsKey(y)) {
+                    xCandis.removeAll(maxYs.get(y));
                 }
             }
-            Arrays.sort(Q, Comparator.comparing(Query::getID));
             for (int i = 0; i < q; i++) {
                 writer.println(Q[i].n);
             }
