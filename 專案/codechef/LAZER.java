@@ -45,17 +45,16 @@ class LAZER {
                 Q[i] = new Query(i, x1, x2, y);
             }
             Map<Integer, Event> events = new TreeMap<>();
-            for (int i = 1; i < n; i++) {
-                int y1 = A[i - 1];
-                int y2 = A[i];
-                int minY = Math.min(y1, y2);
-                int maxY = Math.max(y1, y2);
-                Event minYEvent = events.getOrDefault(minY, new Event());
-                minYEvent.xis.add(i);
-                events.put(minY, minYEvent);
-                Event maxYEvent = events.getOrDefault(maxY, new Event());
-                maxYEvent.xos.add(i);
-                events.put(maxY, maxYEvent);
+            for (int i = 0; i < n; i++) {
+                int y = A[i];
+                Event event = events.getOrDefault(y, new Event());
+                if (i < n - 1) {
+                    ((y <= A[i + 1]) ? event.xis : event.xos).add(i + 1);
+                }
+                if (i > 0) {
+                    ((A[i - 1] <= y) ? event.xos : event.xis).add(i);
+                }
+                events.put(y, event);
             }
             for (int i = 0; i < q; i++) {
                 Event event = events.getOrDefault(Q[i].y, new Event());
