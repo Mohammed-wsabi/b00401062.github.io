@@ -2,14 +2,12 @@ package codechef;
 
 class LAZER {
     private static class Query {
-        protected int id;
         protected int x1;
         protected int x2;
         protected int y;
         protected int n;
 
-        Query(int id, int x1, int x2, int y) {
-            this.id = id;
+        Query(int x1, int x2, int y) {
             this.x1 = x1;
             this.x2 = x2;
             this.y = y;
@@ -42,7 +40,7 @@ class LAZER {
                 int x1 = Integer.parseInt(st.nextToken());
                 int x2 = Integer.parseInt(st.nextToken());
                 int y = Integer.parseInt(st.nextToken());
-                Q[i] = new Query(i, x1, x2, y);
+                Q[i] = new Query(x1, x2, y);
             }
             Map<Integer, Event> events = new TreeMap<>();
             for (int i = 0; i < n; i++) {
