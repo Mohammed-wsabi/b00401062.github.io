@@ -1,7 +1,5 @@
 package codechef;
 
-import java.util.stream.Collectors;
-
 class LAZER {
     private static class Query {
         protected int id;
@@ -16,6 +14,12 @@ class LAZER {
             this.x2 = x2;
             this.y = y;
         }
+    }
+
+    private static class Event {
+        protected List<Integer> xis = new ArrayList<>();
+        protected List<Integer> xos = new ArrayList<>();
+        protected List<Query> queries = new ArrayList<>();
     }
 
     public static void main(String[] args) {
@@ -40,44 +44,34 @@ class LAZER {
                 int y = Integer.parseInt(st.nextToken());
                 Q[i] = new Query(i, x1, x2, y);
             }
-            Map<Integer, List<Integer>> minYs = new HashMap<>();
-            Map<Integer, List<Integer>> maxYs = new HashMap<>();
+            Map<Integer, Event> events = new TreeMap<>();
             for (int i = 1; i < n; i++) {
                 int y1 = A[i - 1];
                 int y2 = A[i];
                 int minY = Math.min(y1, y2);
                 int maxY = Math.max(y1, y2);
-                List<Integer> minYXs = minYs.getOrDefault(minY, new ArrayList<>());
-                minYXs.add(i);
-                minYs.put(minY, minYXs);
-                List<Integer> maxYXs = maxYs.getOrDefault(maxY, new ArrayList<>());
-                maxYXs.add(i);
-                maxYs.put(maxY, maxYXs);
-            }
-            TreeMap<Integer, List<Query>> yEvents = new TreeMap<>();
-            for (int i = 0; i < n; i++) {
-                yEvents.put(A[i], new ArrayList<>());
+                Event minYEvent = events.getOrDefault(minY, new Event());
+                minYEvent.xis.add(i);
+                events.put(minY, minYEvent);
+                Event maxYEvent = events.getOrDefault(maxY, new Event());
+                maxYEvent.xos.add(i);
+                events.put(maxY, maxYEvent);
             }
             for (int i = 0; i < q; i++) {
-                List<Query> queries = yEvents.getOrDefault(Q[i].y, new ArrayList<>());
-                queries.add(Q[i]);
-                yEvents.put(Q[i].y, queries);
+                Event event = events.getOrDefault(Q[i].y, new Event());
+                event.queries.add(Q[i]);
+                events.put(Q[i].y, event);
             }
             BST<Integer> xCandis = new BST<>();
-            for (Map.Entry<Integer, List<Query>> yEvent : yEvents.entrySet()) {
-                int y = yEvent.getKey();
-                if (minYs.containsKey(y)) {
-                    for (Integer x : minYs.get(y)) {
-                        xCandis.add(x);
-                    }
+            for (Event event : events.values()) {
+                for (Integer x : event.xis) {
+                    xCandis.add(x);
                 }
-                for (Query query : yEvent.getValue()) {
+                for (Query query : event.queries) {
                     query.n = xCandis.size(query.x1, query.x2);
                 }
-                if (maxYs.containsKey(y)) {
-                    for (Integer x : maxYs.get(y)) {
-                        xCandis.remove(x);
-                    }
+                for (Integer x : event.xos) {
+                    xCandis.remove(x);
                 }
             }
             for (int i = 0; i < q; i++) {
