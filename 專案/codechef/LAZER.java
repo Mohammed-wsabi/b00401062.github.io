@@ -43,32 +43,32 @@ class LAZER {
                 Q[i] = new Query(x1, x2, y);
             }
             Map<Integer, Event> events = new TreeMap<>();
-            for (int i = 0; i < n; i++) {
-                int y = A[i];
-                Event event = events.getOrDefault(y, new Event());
-                if (i < n - 1) {
-                    ((y <= A[i + 1]) ? event.xis : event.xos).add(i + 1);
-                }
-                if (i > 0) {
-                    ((A[i - 1] <= y) ? event.xos : event.xis).add(i);
-                }
-                events.put(y, event);
-            }
             for (int i = 0; i < q; i++) {
                 Event event = events.getOrDefault(Q[i].y, new Event());
                 event.queries.add(Q[i]);
                 events.put(Q[i].y, event);
             }
-            BST<Integer> xCandis = new BST<>();
+            for (int i = 0; i < n; i++) {
+                int y = A[i];
+                Event event = events.getOrDefault(y, new Event());
+                if (i < n - 1) {
+                    (y <= A[i + 1] ? event.xis : event.xos).add(i + 1);
+                }
+                if (i > 0) {
+                    (A[i - 1] <= y ? event.xos : event.xis).add(i);
+                }
+                events.put(y, event);
+            }
+            BST<Integer> candidates = new BST<>();
             for (Event event : events.values()) {
                 for (Integer x : event.xis) {
-                    xCandis.add(x);
+                    candidates.add(x);
                 }
                 for (Query query : event.queries) {
-                    query.n = xCandis.size(query.x1, query.x2);
+                    query.n = candidates.size(query.x1, query.x2);
                 }
                 for (Integer x : event.xos) {
-                    xCandis.remove(x);
+                    candidates.remove(x);
                 }
             }
             for (int i = 0; i < q; i++) {
