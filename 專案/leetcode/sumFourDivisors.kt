@@ -35,12 +35,7 @@ fun sumFourDivisors(nums: IntArray): Int {
             }
         }
         if (counts.reduce(Int::times) == 4) {
-            val factors = mutableListOf<Int>()
-            for ((countIdx, count) in counts.withIndex()) {
-                if (count > 1) {
-                    factors.add(primes[countIdx])
-                }
-            }
+            val factors = primes.zip(counts).filter { it.second > 1 }.map { it.first }
             res += when (factors.size) {
                 2 -> 1 + factors[0] + factors[1] + factors[0] * factors[1]
                 1 -> 1 + factors[0] + factors[0] * factors[0] + factors[0] * factors[0] * factors[0]
