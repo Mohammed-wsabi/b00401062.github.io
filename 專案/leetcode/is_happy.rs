@@ -2,7 +2,7 @@ use std::collections::HashSet;
 
 pub fn is_happy(n: i32) -> bool {
     let mut curr = n;
-    let mut seen = HashSet::new();
+    let seen = &mut HashSet::new();
     while curr != 1 && !seen.contains(&curr){
         seen.insert(curr);
         let mut next = 0;
