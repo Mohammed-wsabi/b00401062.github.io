@@ -1,5 +1,7 @@
 package leetcode;
 
+import java.util.*;
+
 class CreateTargetArray {
     public int[] createTargetArray(int[] nums, int[] index) {
         List<Integer> res = new ArrayList<>();
