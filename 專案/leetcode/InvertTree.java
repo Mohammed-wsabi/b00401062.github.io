@@ -1,3 +1,5 @@
+package leetcode;
+
 class InvertTree {
     public TreeNode invertTree(TreeNode root) {
         if (root == null) {
