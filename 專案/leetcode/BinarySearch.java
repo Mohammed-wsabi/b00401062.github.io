@@ -1,6 +1,6 @@
 package leetcode;
 
-public int binarySearch(int[] v, int k) {
+public int BinarySearch(int[] v, int k) {
     int lt = 0;
     int rt = v.length;
     int md = (lt + rt) / 2;
