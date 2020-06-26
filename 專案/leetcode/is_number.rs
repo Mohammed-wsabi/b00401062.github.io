@@ -20,7 +20,7 @@ pub fn is_number(s: String) -> bool {
             },
             'e' => match state {
                 "num" | "frac" => "exp",
-                _ => "dead"
+                _ => "dead",
             },
             _ => "dead",
         };
