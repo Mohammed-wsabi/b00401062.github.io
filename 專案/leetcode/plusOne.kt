@@ -1,3 +1,5 @@
+package leetcode
+
 fun insert(src: IntArray, idx: Int, element: Int): IntArray {
     val dst = IntArray(src.size + 1)
     System.arraycopy(src, 0, dst, 0, idx)
