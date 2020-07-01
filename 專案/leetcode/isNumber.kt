@@ -1,3 +1,5 @@
+package leetcode
+
 fun isNumber(s: String): Boolean {
     var state = "init";
     for (c in s.trim().chars().mapToObj(Int::toChar)) {
