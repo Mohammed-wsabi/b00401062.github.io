@@ -78,7 +78,6 @@ title: Life Code
 - [codechef](https://github.com/b00401062/b00401062.github.io/tree/master/專案/codechef): Collection of Java programs solving [CodeChef](https://www.codechef.com) problems.
 - [dlc](專案/dlc): Pipeline for merchandise detection and classification.
 - [leetcode](https://github.com/b00401062/b00401062.github.io/tree/master/專案/leetcode): Collection of Kotlin programs solving [LeetCode](https://leetcode.com/problemset/all/) problems.
-- [ndpi](專案/ndpi): Utility functions that extract raw images from NDPI files to allow for editing and processing.
 - [nmmi](專案/nmmi): Pipeline to create a normative model for microstructural integrity of the white matter tracts.
 - [osccm](專案/osccm): Pipeline for metagenomics analysis to study association between microbiota and cancer.
 - [rosalind](https://github.com/b00401062/b00401062.github.io/tree/master/專案/rosalind): Collection of Java programs solving [ROSALIND](http://rosalind.info/problems/locations/) problems.
