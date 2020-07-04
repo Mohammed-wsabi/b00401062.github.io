@@ -12,25 +12,9 @@ fun addBinary(a: String, b: String): String {
     for ((ca, cb) in (a zip b).reversed()) {
         val da = ca - '0'
         val db = cb - '0'
-        when (da + db + carry) {
-            0 -> {
-                res.append('0')
-                carry = 0
-            }
-            1 -> {
-                res.append('1')
-                carry = 0
-            }
-            2 -> {
-                res.append('0')
-                carry = 1
-            }
-            3 -> {
-                res.append('1')
-                carry = 1
-            }
-            else -> throw Exception()
-        }
+        val sum = (da + db + carry).toString(2)
+        carry = sum.length - 1
+        res.append(sum.last())
     }
     if (carry == 1) {
         res.append('1')
