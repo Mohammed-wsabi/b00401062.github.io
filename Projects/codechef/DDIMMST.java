@@ -7,12 +7,10 @@ import java.lang.reflect.Method;
 
 class DDIMMST {
     private static class Point {
-        private int i;
         private int[] x;
         private int w = 0;
 
-        public Point(int i, int[] x) {
-            this.i = i;
+        public Point(int[] x) {
             this.x = x;
         }
 
@@ -27,11 +25,11 @@ class DDIMMST {
 
     private static int distance(Point p1, Point p2) {
         int D = p1.x.length;
-        int distance = 0;
+        int w = 0;
         for (int i = 0; i < D; i++) {
-            distance += Math.abs(p1.x[i] - p2.x[i]);
+            w += Math.abs(p1.x[i] - p2.x[i]);
         }
-        return distance;
+        return w;
     }
 
     public static void main(String[] args) throws Exception {
@@ -48,7 +46,7 @@ class DDIMMST {
             for (int d = 0; d < D; d++) {
                 x[d] = stdin.nextInt();
             }
-            p[n] = new Point(n, x);
+            p[n] = new Point(x);
         }
         int weight = 0;
         PriorityQueue<Point> pool = new PriorityQueue<>(N, Comparator.comparingInt(Point::w).reversed());
