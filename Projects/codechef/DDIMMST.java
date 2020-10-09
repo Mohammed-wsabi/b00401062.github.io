@@ -7,7 +7,7 @@ import java.lang.reflect.Method;
 
 class DDIMMST {
     private static class Point {
-        private int[] x;
+        final private int[] x;
         private int w = 0;
 
         public Point(int[] x) {
@@ -24,7 +24,7 @@ class DDIMMST {
     }
 
     private static int distance(Point p1, Point p2) {
-        int D = p1.x.length;
+        final int D = p1.x.length;
         int w = 0;
         for (int i = 0; i < D; i++) {
             w += Math.abs(p1.x[i] - p2.x[i]);
@@ -33,11 +33,11 @@ class DDIMMST {
     }
 
     public static void main(String[] args) throws Exception {
-        Field queue = PriorityQueue.class.getDeclaredField("queue");
+        final Field queue = PriorityQueue.class.getDeclaredField("queue");
         queue.setAccessible(true);
-        Method siftUp = PriorityQueue.class.getDeclaredMethod("siftUp", int.class, Object.class);
+        final Method siftUp = PriorityQueue.class.getDeclaredMethod("siftUp", int.class, Object.class);
         siftUp.setAccessible(true);
-        Scanner stdin = new Scanner(new BufferedReader(new InputStreamReader(System.in)));
+        final Scanner stdin = new Scanner(new BufferedReader(new InputStreamReader(System.in)));
         final int N = stdin.nextInt();
         final int D = stdin.nextInt();
         final Point[] p = new Point[N];
@@ -49,14 +49,14 @@ class DDIMMST {
             p[n] = new Point(x);
         }
         int weight = 0;
-        PriorityQueue<Point> pool = new PriorityQueue<>(N, Comparator.comparingInt(Point::w).reversed());
+        final PriorityQueue<Point> pool = new PriorityQueue<>(N, Comparator.comparingInt(Point::w).reversed());
         pool.addAll(Arrays.asList(p));
-        Object[] array = (Object[]) queue.get(pool);
+        final Object[] array = (Object[]) queue.get(pool);
         while (!pool.isEmpty()) {
-            Point s = pool.remove();
+            final Point s = pool.remove();
             Point t = null;
             for (int n = 0; n < N && (t = (Point) array[n]) != null; n++) {
-                int w = distance(s, t);
+                final int w = distance(s, t);
                 if (w > t.w) {
                     t.set(w);
                     siftUp.invoke(pool, n, t);
