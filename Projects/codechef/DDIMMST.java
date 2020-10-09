@@ -42,7 +42,7 @@ class DDIMMST {
         final int D = stdin.nextInt();
         final Point[] p = new Point[N];
         for (int n = 0; n < N; n++) {
-            int[] x = new int[D];
+            final int[] x = new int[D];
             for (int d = 0; d < D; d++) {
                 x[d] = stdin.nextInt();
             }
