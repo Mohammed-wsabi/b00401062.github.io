@@ -1,3 +1,5 @@
+package leetcode;
+
 class FullJustify {
     public List<String> fullJustify(String[] words, int maxWidth) {
         List<String> res = new ArrayList<>();
