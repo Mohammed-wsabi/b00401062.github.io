@@ -16,12 +16,11 @@ class Find132pattern {
         final Stack<Range> stack = new Stack<>();
         stack.push(new Range(Integer.MAX_VALUE, Integer.MAX_VALUE));
         for (final int num : nums) {
-            Range range = stack.peek();
-            final int min = Math.min(num, range.min);
-            while (range.max <= num) {
+            final int min = Math.min(num, stack.peek().min);
+            while (stack.peek().max <= num) {
                 stack.pop();
-                range = stack.peek();
             }
+            final Range range = stack.peek();
             if (num <= range.min) {
                 stack.push(new Range(min, num));
             } else if (range.min < num && num < range.max) {
