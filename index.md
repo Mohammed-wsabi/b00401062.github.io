@@ -66,6 +66,7 @@ title: Life Code
 ## Memoirs
 
 - [Alpaydin's Introduction to Machine Learning](Memoirs/Alpaydin's%20Introduction%20to%20Machine%20Learning.html)
+- [Bloch's Effective Java](Memoirs/Bloch's%20Effective%20Java.html)
 - [Case and Disease Discussion](Memoirs/Case%20and%20Disease%20Discussion.html)
 - [Keet's An Introduction to Ontology Engineering](Memoirs/Keet's%20An%20Introduction%20to%20Ontology%20Engineering.html)
 - [Literature Review](Memoirs/Literature%20Review.html)
