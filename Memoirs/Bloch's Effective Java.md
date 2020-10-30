@@ -26,3 +26,13 @@
 - Static factory methods are hard for programmers to find.
 
 ### Consider a builder when faced with many constructor parameters
+
+- The **telescoping constructor pattern** does not scale well to large numbers of optional parameters.
+- A **JavaBean pattern** may be in an inconsistent state partway through its construction.
+- The JavaBeans pattern precludes the possibility of making a class immutable.
+- The **builder pattern** combines the safety of the telescoping constructor pattern with the readability of the JavaBeans pattern.
+- The Builder pattern simulates named optional parameters.
+- To detect invalid parameters as soon as possible, check parameter validity in the builder’s constructor and methods.
+- The Builder pattern is well suited to class hierarchies.
+- **Covariant return typing**: a subclass method is declared to return a subtype of the return type declared in the superclass.
+- The builder pattern is a good choice when designing classes whose constructors or static factories would have more than a handful of parameters.
