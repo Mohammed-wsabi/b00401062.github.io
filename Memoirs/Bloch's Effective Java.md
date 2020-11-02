@@ -15,6 +15,8 @@
 - [Consider static factory methods instead of constructors](#consider-static-factory-methods-instead-of-constructors)
 - [Consider a builder when faced with many constructor parameters](#consider-a-builder-when-faced-with-many-constructor-parameters)
 - [Enforce the singleton property with a private constructor or an enum type](#enforce-the-singleton-property-with-a-private-constructor-or-an-enum-type)
+- [Enforce noninstantiability with a private constructor](#enforce-noninstantiability-with-a-private-constructor)
+- [Prefer dependency injection to hardwiring resources](#prefer-dependency-injection-to-hardwiring-resources)
 
 ### Consider static factory methods instead of constructors
 
@@ -45,3 +47,18 @@
 - To maintain the singleton guarantee, declare all instance fields transient and provide a `readResolve` method.
 - Enum singleton provides an ironclad guarantee against multiple instantiation.
 - A single-element enum type is often the best way to implement a singleton.
+
+### Enforce noninstantiability with a private constructor
+
+- A class can be made noninstantiable by including a private constructor.
+- Such classes can be used to group static methods or methods on a final class.
+- Attempting to enforce noninstantiability by making a class abstract does not work.
+- The private constructor prevents the class from being subclassed.
+
+### Prefer dependency injection to hardwiring resources
+
+- Inappropriate use of singleton makes the class inflexible and untestable.
+- Static utility classes and singletons are inappropriate for classes whose behavior is parameterized by an underlying resource.
+- **Dependency injection**: pass the resource into the constructor when creating a new instance.
+- Dependency injection provides flexibility and testability.
+- Dependency injection is applicable to constructors, static factories, and builders.
