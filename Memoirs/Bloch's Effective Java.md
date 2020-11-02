@@ -14,6 +14,7 @@
 
 - [Consider static factory methods instead of constructors](#consider-static-factory-methods-instead-of-constructors)
 - [Consider a builder when faced with many constructor parameters](#consider-a-builder-when-faced-with-many-constructor-parameters)
+- [Enforce the singleton property with a private constructor or an enum type](#enforce-the-singleton-property-with-a-private-constructor-or-an-enum-type)
 
 ### Consider static factory methods instead of constructors
 
@@ -36,3 +37,11 @@
 - The Builder pattern is well suited to class hierarchies.
 - **Covariant return typing**: a subclass method is declared to return a subtype of the return type declared in the superclass.
 - The builder pattern is a good choice when designing classes whose constructors or static factories would have more than a handful of parameters.
+
+### Enforce the singleton property with a private constructor or an enum type
+
+- Making a class a singleton can make it difficult to test its clients.
+- The singleton pattern keeps the constructor private and exports a public static member to provide access to the sole instance.
+- To maintain the singleton guarantee, declare all instance fields transient and provide a `readResolve` method.
+- Enum singleton provides an ironclad guarantee against multiple instantiation.
+- A single-element enum type is often the best way to implement a singleton.
