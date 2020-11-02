@@ -1,6 +1,5 @@
 package leetcode;
 
-
 class RecoverTree {
     private static class TreeNode {
         int val;
