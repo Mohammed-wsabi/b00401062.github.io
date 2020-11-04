@@ -17,6 +17,10 @@
 - [Enforce the singleton property with a private constructor or an enum type](#enforce-the-singleton-property-with-a-private-constructor-or-an-enum-type)
 - [Enforce noninstantiability with a private constructor](#enforce-noninstantiability-with-a-private-constructor)
 - [Prefer dependency injection to hardwiring resources](#prefer-dependency-injection-to-hardwiring-resources)
+- [Avoid creating unnecessary objects](#avoid-creating-unnecessary-objects)
+- [Eliminate obsolete object references](#eliminate-obsolete-object-references)
+- [Avoid finalizers and cleaners](#avoid-finalizers-and-cleaners)
+- [Prefer try-with-resources to try-finally](#prefer-try-with-resources-to-try-finally)
 
 ### Consider static factory methods instead of constructors
 
@@ -62,3 +66,37 @@
 - **Dependency injection**: pass the resource into the constructor when creating a new instance.
 - Dependency injection provides flexibility and testability.
 - Dependency injection is applicable to constructors, static factories, and builders.
+
+### Avoid creating unnecessary objects
+
+- Avoid creating unnecessary objects by using static factory methods.
+- Lazy initialization would complicate the implementation with no measurable performance improvement.
+- Autoboxing blurs but does not erase the distinction between primitive and boxed primitive types.
+- Prefer primitives to boxed primitives, and watch out for unintentional autoboxing.
+
+### Eliminate obsolete object references
+
+- An obsolete reference is simply a reference that will never be dereferenced again.
+- Memory leaks in garbage-collected languages (more properly known as **unintentional object retentions**) are insidious.
+- Null out references once they become obsolete.
+- Nulling out object references should be the exception rather than the norm.
+- The best way to eliminate an obsolete reference is to let the variable that contained the reference fall out of scope.
+- Whenever a class manages its own memory, the pro- grammer should be alert for memory leaks.
+- A third common source of memory leaks is listeners and other callbacks.
+
+### Avoid finalizers and cleaners
+
+- Finalizers are unpredictable, often dangerous, and generally unnecessary.
+- Cleaners are less dangerous than finalizers, but still unpredictable, slow, and generally unnecessary.
+- There is no guarantee finalizers and cleaners will be executed promptly.
+- Never do anything time-critical in a finalizer or cleaner.
+- The promptness with which finalizers and cleaners are executed is primarily a function of the garbage collection algorithm.
+- Never depend on a finalizer or cleaner to update persistent state.
+- An uncaught exception thrown during finalization is ignored, and finalization of that object terminates.
+- There is a severe performance penalty for using finalizers and cleaners.
+- Finalizers open your class up to **finalizer attacks**.
+- Unlike finalizers, cleaners do not pollute a class’s public API.
+- Have your class implement `AutoCloseable`!
+- The behavior of cleaners during `System.exit` is implementation specific.
+
+### Prefer try-with-resources to try-finally
