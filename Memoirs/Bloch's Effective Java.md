@@ -9,6 +9,7 @@
 
 - Introduction
 - [Creating and Destroying Objects](#creating-and-destroying-objects)
+- [Methods Common to All Objects](#methods-common-to-all-objects)
 
 ## Creating and Destroying Objects
 
@@ -100,3 +101,12 @@
 - The behavior of cleaners during `System.exit` is implementation specific.
 
 ### Prefer try-with-resources to try-finally
+
+- Try-finally is no longer the best way to close resources!
+- To be usable with the try-with-resources construct, a resource must implement the `AutoCloseable` interface.
+
+## Methods Common to All Objects
+
+- [Obey the general contract when overriding equals](#obey-the-general-contract-when-overriding-equals)
+
+### Obey the general contract when overriding equals
