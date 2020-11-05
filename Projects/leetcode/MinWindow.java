@@ -60,14 +60,14 @@ class MinWindow {
         final Map<Character, Integer> letterMap = letterMap(t);
         Window curWindow = initialWindow(s, letterMap);
         if (curWindow == null) return "";
-        refineWindow(s, curWindow, letterMap);
+        refineWindow(curWindow, s, letterMap);
         Window minWindow = curWindow;
         for (int end = curWindow.end; end < s.length(); end++) {
             final char endC = s.charAt(end);
             if (!letterMap.containsKey(endC)) continue;
             letterMap.put(endC, letterMap.get(endC) - 1);
             curWindow = new Window(curWindow.start, end + 1);
-            refineWindow(s, curWindow, letterMap);
+            refineWindow(curWindow, s, letterMap);
             minWindow = minWindow.compareTo(curWindow) == -1 ? minWindow : curWindow;
         }
         return s.substring(minWindow.start, minWindow.end);
