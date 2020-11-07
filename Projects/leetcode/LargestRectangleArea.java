@@ -11,24 +11,25 @@ class LargestRectangleArea {
         }
     }
 
+    public static int insert(Stack<Bar> stack, int i, int height, int maxArea) {
+        int startIndex = i;
+        while (stack.peek().height >= height) {
+            Bar bar = stack.pop();
+            startIndex = bar.i;
+            maxArea = Math.max(maxArea, bar.height * (i - startIndex));
+        }
+        stack.push(new Bar(startIndex, height));
+        return maxArea;
+    }
+
     public static int largestRectangleArea(int[] heights) {
-        Stack<Bar> stack = new Stack<>();
+        final Stack<Bar> stack = new Stack<>();
         stack.push(new Bar(-1, -1));
         int maxArea = 0;
         for (int i = 0; i < heights.length; i++) {
-            int startIndex = i;
-            final int height = heights[i];
-            while (stack.peek().height >= height) {
-                Bar bar = stack.pop();
-                startIndex = bar.i;
-                maxArea = Math.max(maxArea, bar.height * (i - startIndex));
-            }
-            stack.push(new Bar(startIndex, height));
+            maxArea = insert(stack, i, heights[i], maxArea);
         }
-        while (!stack.isEmpty()) {
-            Bar bar = stack.pop();
-            maxArea = Math.max(maxArea, bar.height * (heights.length - bar.i));
-        }
+        maxArea = insert(stack, heights.length, 0, maxArea);
         return maxArea;
     }
 }
