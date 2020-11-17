@@ -1,6 +1,5 @@
 package leetcode;
 
-
 class TreeNode {
     int val;
     TreeNode left;
