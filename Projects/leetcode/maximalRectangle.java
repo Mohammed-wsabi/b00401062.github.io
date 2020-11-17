@@ -1,6 +1,8 @@
 package leetcode;
 
-class Solution {
+import java.util.Stack;
+
+class maximalRectangle {
     private static class Bar {
         final int i;
         final int height;

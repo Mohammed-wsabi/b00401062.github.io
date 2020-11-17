@@ -1,6 +1,6 @@
 package leetcode;
 
-class Solution {
+class search {
     private static boolean bruteForceSearch(int[] nums, int lt, int rt, int target) {
         for (int i = lt; i < rt; i++) {
             if (nums[i] == target) return true;

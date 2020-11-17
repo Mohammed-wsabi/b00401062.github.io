@@ -1,5 +1,7 @@
 package leetcode;
 
+import java.util.Stack;
+
 class LargestRectangleArea {
     private static class Bar {
         final int i;

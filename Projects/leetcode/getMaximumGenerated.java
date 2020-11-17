@@ -1,6 +1,8 @@
 package leetcode;
 
-class Solution {
+import java.util.Arrays;
+
+class getMaximumGenerated {
     public static int getMaximumGenerated(int n) {
         if (n == 0) return 0;
         final int[] nums = new int[n + 1];

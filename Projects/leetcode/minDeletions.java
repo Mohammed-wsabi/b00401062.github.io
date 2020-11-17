@@ -1,6 +1,10 @@
 package leetcode;
 
-class Solution {
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.Map;
+
+class minDeletions {
     public static int minDeletions(String s) {
         Map<Character, Integer> table = new HashMap<>();
         for (char c : s.toCharArray()) {
