@@ -1,5 +1,7 @@
 package leetcode;
 
+import java.util.HashMap;
+
 class LRUCache {
     private static class ListNode {
         int key;
