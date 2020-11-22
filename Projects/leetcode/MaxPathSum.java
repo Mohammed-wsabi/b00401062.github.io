@@ -11,16 +11,12 @@ class MaxPathSum {
         }
     }
 
-    private static int max(int... args) {
-        return Arrays.stream(args).max().orElseThrow();
-    }
-
     private static int traverse(TreeNode root, Maximum max) {
         if (root == null) return 0;
-        int maxLt = traverse(root.left, max);
-        int maxRt = traverse(root.right, max);
-        max.compareAndSet(root.val + max(0, maxLt, maxRt, maxLt + maxRt));
-        return root.val + max(0, maxLt, maxRt);
+        int maxLt = Math.max(0, traverse(root.left, max));
+        int maxRt = Math.max(0, traverse(root.right, max));
+        max.compareAndSet(root.val + maxLt + maxRt);
+        return root.val + Math.max(maxLt, maxRt);
     }
 
     public static int maxPathSum(TreeNode root) {
