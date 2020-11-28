@@ -1,6 +1,14 @@
 package leetcode;
 
 class SortList {
+    private static class ListNode {
+        int val;
+        ListNode next;
+        ListNode() {}
+        ListNode(int val) { this.val = val; }
+        ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+    }
+
     private static int size(ListNode head) {
         int size = 0;
         for (ListNode ptr = head; ptr != null; ptr = ptr.next) size++;
@@ -14,19 +22,16 @@ class SortList {
         return head;
     }
 
-    private static ListNode merge(ListNode tail, int m, int r) {
-        final ListNode lNode = tail.next;
-        final ListNode mNode = get(lNode, m);
-        final ListNode rNode = get(mNode, r - m);
+    private static ListNode merge(ListNode tail, ListNode lNode, ListNode mNode, ListNode rNode) {
         ListNode lPtr = lNode;
-        ListNode mPtr = mNode;
-        while (lPtr != mNode || mPtr != rNode) {
-            if (mPtr == rNode || (lPtr != mNode && lPtr.val <= mPtr.val)) {
+        ListNode rPtr = mNode;
+        while (lPtr != mNode || rPtr != rNode) {
+            if (rPtr == rNode || (lPtr != mNode && lPtr.val <= rPtr.val)) {
                 tail.next = lPtr;
                 lPtr = lPtr.next;
             } else {
-                tail.next = mPtr;
-                mPtr = mPtr.next;
+                tail.next = rPtr;
+                rPtr = rPtr.next;
             }
             tail = tail.next;
             tail.next = null;
@@ -41,9 +46,12 @@ class SortList {
         for (int width = 1; width < size; width *= 2) {
             ListNode tail = dummyHead;
             for (int l = 0; l < size; l += 2 * width) {
-                final int m = Math.min(l + width, size) - l;
-                final int r = Math.min(l + 2 * width, size) - l;
-                tail = merge(tail, m, r);
+                final int m = Math.min(l + width, size);
+                final int r = Math.min(l + 2 * width, size);
+                final ListNode lNode = tail.next;
+                final ListNode mNode = get(lNode, m - l);
+                final ListNode rNode = get(mNode, r - m);
+                tail = merge(tail, lNode, mNode, rNode);
             }
         }
         return dummyHead.next;
