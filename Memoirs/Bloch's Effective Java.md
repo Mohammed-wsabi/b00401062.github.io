@@ -108,5 +108,23 @@
 ## Methods Common to All Objects
 
 - [Obey the general contract when overriding equals](#obey-the-general-contract-when-overriding-equals)
+- [Always override hashCode when you override equals](#always-override-hashCode-when-you-override-equals)
 
 ### Obey the general contract when overriding equals
+
+- Each instance of the class is inherently unique.
+- There is no need for the class to provide a "logical equality" test.
+- A superclass has already overridden equals, and the superclass behavior is appropriate for this class.
+- The class is private or package-private,and you arec ertain that its equals method will never be invoked.
+- The equals method implements an *equivalence relation*.
+- Once the equals contract is violated, the behavior of other objects is undefined when confronted with your object.
+- There is no way to extend an instantiable class and add a value component while preserving the equals contract.
+- A recipe for a high-quality equals method:
+    - Use the == operator to check if the argument is a reference to this object.
+    - Use the instanceof operator to check if the argument has the correct type.
+    - Cast the argument to the correct type.
+    - For each “significant” field in the class, check if the fields of the two objects match.
+- Always override hashCode when you override equals.
+- Don’t substitute another type for Object in the equals declaration.
+
+### Always override hashCode when you override equals
