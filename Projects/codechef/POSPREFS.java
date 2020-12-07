@@ -8,7 +8,7 @@ public class POSPREFS {
     }
 
     private static int[] solve(int n, int k) {
-        int[] a = new int[Math.max(n + 1, 10)];
+        int[] a = new int[n + 1];
         int m = k == n ? n : (int) formula((k + 1) * (k + 2) / 2);
         for (int i = 1; i <= m; i++) {
             a[i] = i;
