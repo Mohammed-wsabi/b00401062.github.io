@@ -1,6 +1,6 @@
 package codechef;
 
-import java.io.BufferedWriter;
+import java.util.stream.Collector;
 
 public class POSPREFS {
     private static double formula(int x) {
@@ -24,19 +24,19 @@ public class POSPREFS {
 
     public static void main(String[] args) throws IOException {
         Scanner stdin = new Scanner(System.in);
-        BufferedWriter stdout = new BufferedWriter(new OutputStreamWriter(System.out));
         int t = stdin.nextInt();
         while (t-- > 0) {
             int n = stdin.nextInt();
             int k = stdin.nextInt();
             int[] a = solve(n, k);
-            for (int i = 1; i <= n; i++) {
-                stdout.write(String.format("%d ", a[i]));
-            }
-            stdout.write('\n');
+            System.out.println(
+                Arrays
+                .stream(a)
+                .skip(1)
+                .mapToObj(Integer::toString)
+                .collect(Collectors.joining(" "))
+            );
         }
         stdin.close();
-        stdout.flush();
-        stdout.close();
     }
 }
