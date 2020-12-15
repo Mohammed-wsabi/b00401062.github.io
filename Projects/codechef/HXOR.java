@@ -4,25 +4,27 @@ import java.util.Scanner;
 import java.util.stream.Collectors;
 
 public class HXOR {
+    private static int find(int[] a, int i, int p) {
+        final int n = a.length;
+        for (int j = i + 1; j < n; j++) {
+            if ((a[j] & (1 << p)) != 0) return j;
+        }
+        return n - 1;
+    }
+
     private static void solve(int[] a, int x) {
         final int n = a.length;
-        int i = 0;
-        do {
-            for (i = 0; i < n - 2; i++) {
-                if (a[i] != 0) break;
+        for (int i = 0; i < n - 1; i++) {
+            while (a[i] != 0 && x-- > 0) {
+                int p = a[i] == 0 ? 0 : (int) (Math.log(a[i]) / Math.log(2));
+                int j = find(a, i, p);
+                a[i] ^= (1 << p);
+                a[j] ^= (1 << p);
             }
-            int p = a[i] == 0 ? 0 : (int) (Math.log(a[i]) / Math.log(2));
-            int j = i + 1;
-            for (; j < n - 1; j++) {
-                if ((a[j] & (1 << p)) != 0) break;
-            }
-            if (i == n - 2 && j == n - 1 && a[i] == 0) break;
-            a[i] ^= (1 << p);
-            a[j] ^= (1 << p);
-        } while (--x > 0);
-        if (n == 2 && x % 2 == 1) {
-            a[0] ^= 1;
-            a[1] ^= 1;
+        }
+        if ((n == 2 && x % 2 == 1) || x == 1) {
+            a[n - 2] ^= 1;
+            a[n - 1] ^= 1;
         }
     }
 
