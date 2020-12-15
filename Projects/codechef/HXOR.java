@@ -16,7 +16,7 @@ public class HXOR {
         final int n = a.length;
         for (int i = 0; i < n - 1; i++) {
             while (a[i] != 0 && x-- > 0) {
-                int p = a[i] == 0 ? 0 : (int) (Math.log(a[i]) / Math.log(2));
+                int p = (int) (Math.log(a[i]) / Math.log(2));
                 int j = find(a, i, p);
                 a[i] ^= (1 << p);
                 a[j] ^= (1 << p);
