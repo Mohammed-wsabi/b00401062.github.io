@@ -1,19 +1,20 @@
 package leetcode;
 
-class MaxResult {
-    public static int maxResult(int[] nums, int k) {
+class Jump {
+    public int jump(int[] nums) {
         final int n = nums.length;
-        final int[] cache = new int[n];
-        cache[0] = nums[0];
-        for (int i = 1; i < n; i++) {
-            cache[i] = Integer.MIN_VALUE;
-        }
-        for (int i = 1; i < n; i++) {
-            final int num = nums[i];
-            for (int j = 1; j <= Math.min(k, i); j++) {
-                cache[i] = Math.max(cache[i], num + cache[i - j]);
+        if (n == 1) return 0;
+        int currJump = 0;
+        int nextMaxReach = 0;
+        int currMaxReach = 0;
+        for (int i = 0; i < n; i++) {
+            nextMaxReach = Math.max(nextMaxReach, i + nums[i]);
+            if (nextMaxReach >= n - 1) break;
+            if (i == currMaxReach) {
+                currJump++;
+                currMaxReach = nextMaxReach;
             }
         }
-        return cache[n - 1];
+        return currJump + 1;
     }
 }
