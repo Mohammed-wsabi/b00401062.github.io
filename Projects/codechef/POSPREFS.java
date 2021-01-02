@@ -1,6 +1,9 @@
 package codechef;
 
-import java.util.stream.Collector;
+import java.io.IOException;
+import java.util.Arrays;
+import java.util.Scanner;
+import java.util.stream.Collectors;
 
 public class POSPREFS {
     private static double formula(int x) {

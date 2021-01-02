@@ -1,5 +1,6 @@
 package codechef;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 class VACCINE2 {
