@@ -1,3 +1,5 @@
+package leetcode;
+
 public class ConcatenatedBinary {
     static final int MODULO = 1000000007;
 

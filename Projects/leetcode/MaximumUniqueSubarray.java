@@ -1,6 +1,7 @@
 package leetcode;
 
 import java.util.HashSet;
+import java.util.Set;
 
 class MaximumUniqueSubarray {
     public static int maximumUniqueSubarray(int[] nums) {
@@ -12,12 +13,12 @@ class MaximumUniqueSubarray {
             final int num = nums[tail];
             if (set.contains(num)) {
                 maxScore = Math.max(maxScore, curScore);
-                while (nums[start] != num) {
-                    int removedNum = nums[start++];
+                while (nums[head] != num) {
+                    int removedNum = nums[head++];
                     set.remove(removedNum);
                     curScore -= removedNum;
                 }
-                start++;
+                head++;
             } else {
                 set.add(num);
                 curScore += num;

@@ -1,5 +1,7 @@
 package leetcode;
 
+import java.util.Stack;
+
 class Find132pattern {
     private static class Range {
         final int min;

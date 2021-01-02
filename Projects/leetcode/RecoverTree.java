@@ -1,5 +1,8 @@
 package leetcode;
 
+import java.util.ArrayList;
+import java.util.List;
+
 class RecoverTree {
     private static class TreeNode {
         int val;
@@ -24,7 +27,7 @@ class RecoverTree {
         TreeNode preNode = new TreeNode(Integer.MIN_VALUE);
         TreeNode curNode = root;
         boolean pairIsFound = false;
-        ArrayList<TreeNode> candNodes = new ArrayList<>();
+        List<TreeNode> candNodes = new ArrayList<>();
         while (curNode != null) {
             if (curNode.left == null) {
                 pairIsFound = true;

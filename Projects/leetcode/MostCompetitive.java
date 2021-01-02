@@ -1,5 +1,7 @@
 package leetcode;
 
+import java.util.Stack;
+
 class MostCompetitive {
     public int[] mostCompetitive(int[] nums, int k) {
         Stack<Integer> stack = new Stack<>();

@@ -1,5 +1,8 @@
 package leetcode;
 
+import java.util.HashMap;
+import java.util.Map;
+
 class MinWindow {
     private static Map<Character, Integer> letterMap(String t) {
         final Map<Character, Integer> letterMap = new HashMap<>();
@@ -29,7 +32,7 @@ class MinWindow {
                 -1
             );
         }
-        
+
         public static Window from(String s, Map<Character, Integer> letterMap) {
             int start = -1;
             for (int i = 0; i < s.length(); i++) {

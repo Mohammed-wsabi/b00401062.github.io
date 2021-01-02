@@ -1,5 +1,7 @@
 package leetcode;
 
+import java.util.Arrays;
+
 public class CanPartition {
     public static boolean canPartition(int[] nums) {
         final int sum = Arrays.stream(nums).sum();
