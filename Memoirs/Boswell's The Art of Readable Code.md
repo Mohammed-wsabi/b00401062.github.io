@@ -13,6 +13,9 @@
 
 - [Packing Information into Names](#packing-information-into-names)
 - [Names That Can’t Be Misconstrued](#names-that-cant-be-misconstrued)
+- [Aesthetics](#aesthetics)
+- [Knowing What to Comment](#knowing-what-to-comment)
+- [Making Comments Precise and Compact](#making-comments-precise-and-compact)
 
 ### Packing Information into Names
 
@@ -24,4 +27,31 @@
 
 ### Names That Can’t Be Misconstrued
 
+- The best names are ones that can’t be misconstrued.
 - The clearest way to name a limit is to put max_ or min_ in front of the thing being limited.
+- When naming a boolean, use words like is/has/can/use to make it clear that it’s a boolean.
+
+### Aesthetics
+
+- If multiple blocks of code are doing similar things, try to give them the same silhouette.
+- Aligning parts of the code into “columns” can make code easy to skim through.
+- Pick a meaningful order and stick with it.
+- Use empty lines to break apart large blocks into logical “paragraphs.”
+- Consistent style is more important than the “right” style.
+
+### Knowing What to Comment
+
+- The purpose of commenting is to help the reader know as much as the writer did.
+- Don’t comment on facts that can be derived quickly from the code itself.
+- Rule: good code > bad code + good comments.
+
+### Making Comments Precise and Compact
+
+- Avoid pronouns like “it” and “this” when they can refer to multiple things.
+- Describe a function’s behavior with as much precision as is practical.
+- Illustrate your comments with carefully chosen input/output examples.
+- State the high-level intent of your code, rather than the obvious details.
+- Use inline comments to explain mysterious function arguments.
+- Keep your comments brief by using words that pack a lot of meaning.
+- Comments should have a high information-to-space ratio.
+
