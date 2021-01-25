@@ -8,6 +8,7 @@
 ## Contents
 
 - [Surface-Level Improvements](#surface-level-improvements)
+- [Simplifying Loops and Logic](#simplifying-loops-and-logic)
 
 ## Surface-Level Improvements
 
@@ -55,3 +56,15 @@
 - Keep your comments brief by using words that pack a lot of meaning.
 - Comments should have a high information-to-space ratio.
 
+## Simplifying Loops and Logic
+
+- [Making Control Flow Easy to Read](#making-control-flow-easy-to-Read)
+
+### Making Control Flow Easy to Read
+
+- Make conditionals, loops, and other changes to control flow as "natural" as possible.
+- A guideline that can be useful:
+    - Left-hand side: The expression "being interrogated," whose value is more in flux. 
+    - Right-hand side: The expression being compared against, whose value is more constant.
+- Instead of minimizing the number of lines, a better metric is to minimize the time needed for someone to understand it.
+- By default, use an if/else. The ternary ?: should be used only for the simplest cases.
