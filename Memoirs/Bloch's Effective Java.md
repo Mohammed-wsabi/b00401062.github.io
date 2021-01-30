@@ -108,7 +108,8 @@
 ## Methods Common to All Objects
 
 - [Obey the general contract when overriding equals](#obey-the-general-contract-when-overriding-equals)
-- [Always override hashCode when you override equals](#always-override-hashCode-when-you-override-equals)
+- [Always override hashCode when you override equals](#always-override-hashcode-when-you-override-equals)
+- [Always override toString](#always-override-tostring)
 
 ### Obey the general contract when overriding equals
 
@@ -128,3 +129,17 @@
 - Don’t substitute another type for Object in the equals declaration.
 
 ### Always override hashCode when you override equals
+
+- You must override hashCode in every class that overrides equals.
+- General contract for `hashCode`: equal objects must have equal hash codes.
+- If every object has the same hash code, hash tables degenerate to linked lists.
+- Any fields that are not used in equals comparisons should be excluded.
+- Never exclude significant fields from the hash code com- putation to improve performance.
+
+### Always override toString
+
+- The benefits of providing a good `toString` implementation:
+    - Make your class much more pleasant to use.
+    - Make systems using the class easier to debug.
+- When practical, the `toString` method should return all of the interesting information contained in the object.
+- Whether or not you decide to specify the format, you should clearly document your intentions.
