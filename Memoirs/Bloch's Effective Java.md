@@ -111,6 +111,7 @@
 - [Always override hashCode when you override equals](#always-override-hashcode-when-you-override-equals)
 - [Always override toString](#always-override-tostring)
 - [Override clone judiciously](#override-clone-judiciously)
+- [Consider implementing Comparable](#consider-implementing-comparable)
 
 ### Obey the general contract when overriding equals
 
@@ -118,7 +119,7 @@
 - There is no need for the class to provide a "logical equality" test.
 - A superclass has already overridden equals, and the superclass behavior is appropriate for this class.
 - The class is private or package-private,and you arec ertain that its equals method will never be invoked.
-- The equals method implements an *equivalence relation*.
+- The equals method implements an *equivalence relation*: *reflexive*, *symmetric* and *transitive*.
 - Once the equals contract is violated, the behavior of other objects is undefined when confronted with your object.
 - There is no way to extend an instantiable class and add a value component while preserving the equals contract.
 - A recipe for a high-quality equals method:
@@ -160,3 +161,13 @@
 - The `Cloneable` architecture is incompatible with normal use of final fields referring to mutable objects,
 - Public `clone` methods should omit the `throws` clause,
 - A better approach to object copying is to provide a *copy constructor* or *copy factory*.
+
+### Consider implementing Comparable
+
+- The general contract of the `compareTo` method:
+    - Returns a negative integer, zero, or a positive integer.
+    - Throws ClassCastException if the specified object’s type cannot be compared to this object.
+- Classes that depend on comparison include:
+    - The sorted collections `TreeSet` and `TreeMap`.
+    - The utility classes `Collections` and `Arrays`, which contain searching and sorting algorithms.
+- The ordering imposed by the `compareTo` method can be *consistent* or *inconsistent* with `equals`.
