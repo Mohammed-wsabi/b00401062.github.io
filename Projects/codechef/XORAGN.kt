@@ -13,10 +13,10 @@ internal object XORAGN {
             stdin.nextLine().toInt()
             println(
                 stdin.nextLine()
-                    .split(" ")
-                    .map(String::toInt)
-                    .map { x: Int -> x * 2 }
-                    .reduce { x1: Int, x2: Int -> x1 xor x2 }
+                .split(" ")
+                .map(String::toInt)
+                .map { x: Int -> x * 2 }
+                .reduce { x1: Int, x2: Int -> x1 xor x2 }
             )
         }
         stdin.close()
