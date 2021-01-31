@@ -35,17 +35,17 @@ internal object UCL {
             }
             println(
                 teams.entries
-                    .stream()
-                    .sorted(
-                        Map.Entry.comparingByValue(
-                            Comparator.comparingInt(Team::point)
-                                .thenComparingInt(Team::goal)
-                                .reversed()
-                        )
+                .stream()
+                .sorted(
+                    Map.Entry.comparingByValue(
+                        Comparator.comparingInt(Team::point)
+                        .thenComparingInt(Team::goal)
+                        .reversed()
                     )
-                    .limit(2)
-                    .map<String> { it.key }
-                    .collect(Collectors.joining(" "))
+                )
+                .limit(2)
+                .map<String> { it.key }
+                .collect(Collectors.joining(" "))
             )
         }
         stdin.close()
