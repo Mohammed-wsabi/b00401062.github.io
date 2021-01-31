@@ -110,6 +110,7 @@
 - [Obey the general contract when overriding equals](#obey-the-general-contract-when-overriding-equals)
 - [Always override hashCode when you override equals](#always-override-hashcode-when-you-override-equals)
 - [Always override toString](#always-override-tostring)
+- [Override clone judiciously](#override-clone-judiciously)
 
 ### Obey the general contract when overriding equals
 
@@ -143,3 +144,19 @@
     - Make systems using the class easier to debug.
 - When practical, the `toString` method should return all of the interesting information contained in the object.
 - Whether or not you decide to specify the format, you should clearly document your intentions.
+
+### Override clone judiciously
+
+- Behaviors of the `clone` method:
+    - If a class implements `Cloneable`, `Object`’s `clone` method returns a field-by-field copy of the object
+    - Otherwise, it throws `CloneNotSupportedException`.
+- `Object`’s `clone` method is protected. Therefore, `clone` cannot be invoked on an object merely because it implements `Cloneable`.
+- A class implementing `Cloneable` is expected to provide a properly functioning public clone method.
+- The general contract for the clone method is weak:
+    - `x.clone() != x`
+    - `x.clone().getClass() == x.getClass()`
+    - `x.clone().equals(x)`
+- By convention, the object returned by the `clone` method should be obtained by calling `super.clone`
+- The `Cloneable` architecture is incompatible with normal use of final fields referring to mutable objects,
+- Public `clone` methods should omit the `throws` clause,
+- A better approach to object copying is to provide a *copy constructor* or *copy factory*.
