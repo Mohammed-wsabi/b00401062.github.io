@@ -10,6 +10,7 @@
 - Introduction
 - [Creating and Destroying Objects](#creating-and-destroying-objects)
 - [Methods Common to All Objects](#methods-common-to-all-objects)
+- [Classes and Interfaces](#classes-and-interfaces)
 
 ## Creating and Destroying Objects
 
@@ -171,3 +172,23 @@
     - The sorted collections `TreeSet` and `TreeMap`.
     - The utility classes `Collections` and `Arrays`, which contain searching and sorting algorithms.
 - The ordering imposed by the `compareTo` method can be *consistent* or *inconsistent* with `equals`.
+
+## Classes and Interfaces
+
+- [Minimize the accessibility of classes and members](#minimize-the-accessibility-of-classes-and-members)
+
+### Minimize the accessibility of classes and members
+
+- **Information hiding** or **encapsulation** decouples the components that comprise a system.
+- The access control mechanism specifies the accessibility of classes, interfaces, and members.
+- Rule of thumb: make each class or member as inaccessible as possible.
+- For top-level (non-nested) classes and interfaces, there are only two possible access levels: *package-private* and *public*.
+- For members (fields, methods, nested classes, and nested interfaces), there are four possible access levels: *private*, *package-private*, *protected*, and *public*.
+- Both protected and public members are part of the class’s exported APIs.
+- It is acceptable to make a *private* member *package-private* in order to test it.
+- *Liskov substitution principle* implies that a subclass method overriding a superclass method cannot have a more restrictive access level.
+- Instance fields of public classes should rarely be public.
+- Classes with public mutable fields are not generally thread-safe.
+- A field containing a reference to a mutable object has all the disadvantages of a nonfinal field.
+- A **module** is a grouping of packages, like a package is a grouping of classes.
+- A module may explicitly export some of its packages via *export declarations* in its *module declaration*.
