@@ -31,6 +31,11 @@
 - Static factory methods can return an object of any subtype of their return type.
 - The class of the returned object can vary from call to call as a function of the input parameters.
 - The class of the returned object need not exist when the class containing the method is written.
+- Three essential components in a *service provider framework*:
+    - *Service interface*: for providers to implement.
+    - *Provider registration API*: providers use to register implementations.
+    - *Service access API*: clients use to obtain instances of the service.
+    - *Service provider interface* (optional): a factory object that produce instances of the service interface.
 - Classes providing only static factory methods (without public or protected constructors) cannot be subclassed.
 - Static factory methods are hard for programmers to find.
 
@@ -176,6 +181,8 @@
 ## Classes and Interfaces
 
 - [Minimize the accessibility of classes and members](#minimize-the-accessibility-of-classes-and-members)
+- [In public classes, use accessor methods, not public fields](#in-public-classes-use-accessor-methods-not-public-fields)
+- [Minimize mutability](#minimize-mutability)
 
 ### Minimize the accessibility of classes and members
 
@@ -183,7 +190,7 @@
 - The access control mechanism specifies the accessibility of classes, interfaces, and members.
 - Rule of thumb: make each class or member as inaccessible as possible.
 - For top-level (non-nested) classes and interfaces, there are only two possible access levels: *package-private* and *public*.
-- For members (fields, methods, nested classes, and nested interfaces), there are four possible access levels: *private*, *package-private*, *protected*, and *public*.
+- For members (fields, methods, nested classes, and nested interfaces), there are four possible access levels: *private*, *package-private* (default), *protected*, and *public*.
 - Both protected and public members are part of the class’s exported APIs.
 - It is acceptable to make a *private* member *package-private* in order to test it.
 - *Liskov substitution principle* implies that a subclass method overriding a superclass method cannot have a more restrictive access level.
@@ -192,3 +199,22 @@
 - A field containing a reference to a mutable object has all the disadvantages of a nonfinal field.
 - A **module** is a grouping of packages, like a package is a grouping of classes.
 - A module may explicitly export some of its packages via *export declarations* in its *module declaration*.
+
+### In public classes, use accessor methods, not public fields
+
+- If a class is accessible outside its package, provide accessor methods.
+- If a class is package-private or is a private nested class, there is nothing inherently wrong with exposing its data fields.
+- Public classes should never expose mutable fields.
+
+### Minimize mutability
+
+- Five rules for immutable classes:
+    - Don’t provide methods that modify the object’s state.
+    - Ensure that the class can’t be extended.
+    - Make all fields final.
+    - Make all fields private.
+    - Ensure exclusive access to any mutable components.
+- Immutable objects are inherently thread-safe; they require no synchronization.
+- A `clone` method or copy constructor need not and should not be provided on an immutable class.
+- Performance issue: immutable classes require a separate object for each distinct value.
+- Constructors should create fully initialized objects with all of their invariants established.
