@@ -7,7 +7,7 @@ import java.lang.reflect.Method;
 
 class DDIMMST {
     private static class Point {
-        final private int[] x;
+        private final int[] x;
         private int w = 0;
 
         public Point(int[] x) {
