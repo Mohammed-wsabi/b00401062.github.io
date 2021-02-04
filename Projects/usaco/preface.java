@@ -4,8 +4,8 @@ import java.io.*;
 import java.util.*;
 
 public class preface {
-    private final static int[] keys = new int[] { 1, 4, 5, 9, 10, 40, 50, 90, 100, 400, 500, 900, 1000 };
-    private final static String[] values = new String[] { "I", "IV", "V", "IX", "X", "XL", "L", "XC", "C", "CD", "D", "CM", "M" };
+    private static final int[] keys = new int[] { 1, 4, 5, 9, 10, 40, 50, 90, 100, 400, 500, 900, 1000 };
+    private static final String[] values = new String[] { "I", "IV", "V", "IX", "X", "XL", "L", "XC", "C", "CD", "D", "CM", "M" };
     private static Map<Integer, String> dict = new HashMap<>(13);
     private static String toRoman(int num) {
         String roman = "";

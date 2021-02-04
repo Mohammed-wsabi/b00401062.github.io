@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.*;
 
 public class concom {
-    private final static int MAX = 100;
+    private static final int MAX = 100;
     private static int[][] table = new int[MAX + 1][MAX + 1];
     private static int[] counts;
     private static boolean[] visited;
