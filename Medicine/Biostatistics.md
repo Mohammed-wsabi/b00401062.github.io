@@ -90,4 +90,4 @@
 [5]: https://latex.codecogs.com/gif.latex?\hat{p}\pm{z}\sqrt{\frac{\hat{p}(1-\hat{p})}{n}}
 [6]: https://latex.codecogs.com/gif.latex?z=(\hat{p}-p)/\sqrt{\frac{p(1-p)}{n}}
 [7]: https://latex.codecogs.com/gif.latex?(\hat{p}_1-\hat{p}_2)\pm{z}\sqrt{\frac{\hat{p}_1(1-\hat{p}_1)}{n_1}&plus;\frac{\hat{p}_2(1-\hat{p}_2)}{n_2}}
-[8]: https://latex.codecogs.com/gif.latex?z=(\hat{p}_1-\hat{p}_2)/\sqrt{p_\text{pooled}(1-p_\text{pooled})(\frac{1}{n_1}&plus;\frac{1}{n_2})},p_\text{pooled}=\frac{n_1\hat{p}_1&plus;n_2\hat{p}_2}{n_1&plus;n_2}
+[8]: https://latex.codecogs.com/gif.latex?z=(\hat{p}_1-\hat{p}_2)/\sqrt{\frac{p(1-p)}{n_1}&plus;\frac{p(1-p)}{n_2}},p=\frac{n_1\hat{p}_1&plus;n_2\hat{p}_2}{n_1&plus;n_2}
