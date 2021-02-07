@@ -28,8 +28,8 @@
 
 |Independent Variable|Dependent Variable|Sampling|Parametric|Test|
 |-|-|-|-|-|
-|-|Dichotomous|Independent|-|Goodness of fit & Binomial test|
-|-|Polytomous|Independent|-|Goodness of fit & Multinomial test|
+|-|Dichotomous|Independent|-|Pearson Chi-squared test & Binomial test|
+|-|Polytomous|Independent|-|Pearson Chi-squared test & Multinomial test|
 |-|Continuous|Independent|+|Z-test & T-test|
 |Dichotomous|Dichotomous|Independent|-|Pearson Chi-squared test & Fisher exact test|
 |Dichotomous|Dichotomous|Dependent|-|McNemar Chi-squared test|
