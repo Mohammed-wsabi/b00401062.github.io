@@ -162,16 +162,16 @@
 - **Log likelihood**: $`L(θ|X)`$ = $`\log I(θ|X)`$ = $`\log P(X|θ)`$ = $`\sum_{i=1}^NP(x_i|θ)`$.
 - **Maximum likelihood estimation (MLE)**: $`\hat{θ}`$ = $`\text{argmax}_θI(θ|X)`$ = $`\text{argmax}_θL(θ|X)`$.
 - **Bernoulli density**:
-	- $`X\sim B(N,θ)`$.
+	- $`X`$ ~ $`B(N,θ)`$.
 	- $`P(x_i|θ)`$ = $`θ^{x_i}(1-θ)^{1-x_i}`$.
 	- $`L(θ|X)`$ = $`\log\prod_{i=1}^Nθ^{x_i}(1-θ)^{1-x_i}`$ = $`\sum_ix_i\logθ+(N-\sum_ix_i)\log(1-θ)`$.
 	- $`\hat{θ}`$ = $`\sum_ix_i/N`$.
 - **Multinomial density**:
-	- $`X\sim\text{multinomial}(N,θ)`$, where $`θ`$ = $`\{θ_i|i=1,...,K\}`$.
+	- $`X`$ ~ $`\text{multinomial}(N,θ)`$, where $`θ`$ = $`\{θ_i|i=1,...,K\}`$.
 	- $`P(x_i|θ)`$ = $`\prod_{k=1}^Kθ_i^{x_{ik}}`$ where $`x_{ik}`$ is 1 if $`x_i`$ = $`k`$, or 0 if $`x_i`$ ≠ $`k`$.
 	- $`\hat{θ_k}`$ = $`\sum_ix_{ik}/N`$, $`k\in\{1,...,K\}`$.
 - **Gaussian density**:
-	- $`X\sim N(μ,σ^2)`$.
+	- $`X`$ ~ $`N(μ,σ^2)`$.
 	- $`P(x_i|μ,σ^2)`$ = $`\frac{1}{\sqrt{2πσ^2}}\exp(-\frac{(x_i-μ)^2}{2σ^2})`$.
 	- $`\hat{μ}`$ = $`\sum_ix_i/N`$.
 	- $`\hat{σ^2}`$ = $`\sum_i(x_i-\hat{μ})^2/N`$.
@@ -207,13 +207,19 @@
 
 ### Parametric Classification
 
-- In the case of *Bayes' classification*, the discriminant function for class $`i\in\{1,...,K\}`$ is<br>$`g_i(x)`$ = $`P(x|y=i)P(y=i)`$, or $`g_i(x)`$ = $`\log P(x|y=i)+\log P(y=i)`$.
-- In the case of *Gaussian Bayes' classification*:
-	- $`P(x|y=i)`$ = $`\frac{1}{\sqrt{2πσ_i^2}}\exp(-\frac{(x-μ_i)^2}{2σ_i^2})`$.
+- In *Bayes' classification*, the discriminant function for class $`i\in\{1,...,K\}`$ is
+		- $`g_i(x)`$ = $`P(x|y=i)P(y=i)`$
+		- $`g_i(x)`$ = $`\log P(x|y=i)+\log P(y=i)`$.
+- **Gaussian Bayes' classification**:
+	- Assume $`P(x|y=i)`$ ~ $`N(μ_i,σ_i^2)`$.
 	- $`g_i(x)`$ = $`-\frac{1}{2}\log2π-\logσ_i-\frac{(x-μ_i)^2}{2σ_i^2}+\log P(y=i)`$.
-	- $`μ_i`$ and $`σ_i^2`$ are estimated based on $`N`$ observations.
-	- If the priors and the variance are equal, then $`\text{argmax}_ig_i(x)`$ = $`\text{argmax}_i-(x-μ_i)^2`$ = $`\text{argmin}_i|x-μ_i|`$.
-	- The threshold of decision is the midpoint between the two means.
+	- $`μ_i`$ ~ $`m_i`$ and $`σ_i^2`$ ~ $`s_i^2`$ are estimated from $`N`$ observations using maximum likelihood estimation.
+- Simplified *Gaussian Bayes' classification*:
+	- Assumption(s):
+		- Equal variances, i.e., $`σ^2`$ = $`σ_i^2`$ for class $`i\in\{1,...,K\}`$.
+		- Equal priors, i.e., $`P`$ = $`P(y=i)`$ for class $`i\in\{1,...,K\}`$.
+	- $`g_i(x)`$ ∝ $`-\frac{(x-m_i)^2}{2s_i^2}`$ and $`\text{argmax}_ig_i(x)`$ = $`\text{argmin}_i|x-m_i|`$if
+	- The decision boundary is the midpoint between the two means.
 
 ---
 
@@ -225,11 +231,12 @@
 - By placing $`\hat{f}(x|θ)`$ in place of $`f(x)`$, we have $`P(y|x)\sim N(\hat{f}(x|θ),σ^2)`$.
 - $`P(x,y)`$ = $`P(y|x)P(x)`$, where $`P(y|x)`$ is the output given the input, and $`P(x)`$ is the input density.
 - $`L(θ|X)`$ = $`\log \prod_{i=1}^NP(x_i,y_i)`$ = $`\log\prod_{i=1}^NP(y_i|x_i)+\log\prod_{i=1}^NP(x_i)`$.
-- In the case of *linear regression*:
+- **Linear regression**:
+	- Assume Gaussian distributed error.
+	- Maximizing likelihood corresponds to minimizing the sum of squared errors.
 	- $`\hat{f}(x|w_0,w_1)`$ = $`w_0+w_1x`$.
 	- $`\text{argmax}_{w_0,w_1}L(w_0,w_1|X)`$ = $`\text{argmax}_{w_0,w_1}\log\prod_{i=1}^NP(y_i|x_i)`$ = $`\text{argmax}_{w_0,w_1}\sum_{i=1}^N(y_i-\hat{f}(x_i|w_0,w_1))^2`$.
-	- Assuming Gaussian distributed error and maximizing likelihood corresponds to minimizing the sum of squared errors.
-- **Relative square error (RSE)**: RSE = residual sum of squares (RSS) / total sum of squares (TSS) = $`\sum_i(y_i-\hat{y}_i)^2/\sum_i(y_i-\bar{y})^2`$.
+- **Relative squared error (RSE)**: RSE = residual sum of squares (RSS) / total sum of squares (TSS) = $`\sum_i(y_i-\hat{y}_i)^2/\sum_i(y_i-\bar{y})^2`$.
 - **Coefficient of determination**: $`R^2`$ = 1 - RSE.
 
 ---
@@ -237,7 +244,7 @@
 ### Tuning Model Complexity: Bias/Variance Dilemma
 
 - Consider $`y`$ = $`f(x)+ε`$, where $`ε\sim N(0,σ^2)`$ and $`\hat{f}`$ is an estimator of $`f`$.
-- **Mean square error (MSE)** of a model: $`E[(y-\hat{f})^2]`$ = $`E[(f-\hat{f}+ε)^2]`$ = $`E[(f-\hat{f})^2]+2E[(f-\hat{f})ε]+E[ε^2]`$ = $`E[(f-\hat{f})^2]+E[ε^2]`$ = $`b_f(\hat{f})^2+r_f(\hat{f})+σ^2`$ = bias<sup>2</sup> + variance + noise.
+- **Mean squared error (MSE)** of a model: $`E[(y-\hat{f})^2]`$ = $`E[(f-\hat{f}+ε)^2]`$ = $`E[(f-\hat{f})^2]+2E[(f-\hat{f})ε]+E[ε^2]`$ = $`E[(f-\hat{f})^2]+E[ε^2]`$ = $`b_f(\hat{f})^2+r_f(\hat{f})+σ^2`$ = bias<sup>2</sup> + variance + noise.
 - **Bias/variance dilemma**: Models with a lower bias in parameter estimation have a higher variance of the parameter estimates across samples, and vice versa.
 - In a sense, high bias implies **underfitting** and high variance implies **overfitting**.
 
@@ -267,10 +274,10 @@
 - Parameter Estimation
 - [Estimation of Missing Values](#estimation-of-missing-values)
 - Multivariate Normal Distribution
-- Multivariate Classification
-- Tuning Complexity
+- [Multivariate Classification](#multivariate-classification)
+- [Tuning Complexity](#tuning-complexity)
+- Discrete Features
 - Multivariate Regression
-
 
 ---
 
@@ -279,5 +286,62 @@
 - **Imputation**: the process of replacing missing data with substituted values.
 	- **Mean imputation** substitutes the mean (average) of the available data for that variable in the sample.
 	- **Imputation by regression** predicts the value of a missing variable from other variables whose values are known for that case.
+
+---
+
+### Multivariate Classification
+
+- Assume that the feature space is $`D`$-dimensional.
+- The discriminant function for class $`i\in\{1,...,K\}`$: $`g_i(x)`$ = $`\log P(x|y=i)+\log P(y=i)`$.
+- Assume $`P(x|y=i)`$ ~ $`N(μ_i,Σ_i)`$.
+- $`g_i(x)`$ = $`-\frac{D}{2}\log2π-\frac{1}{2}\log|Σ_i|-\frac{1}{2}(x-μ_i)^\text{T}Σ_i^{-1}(x-μ_i)+\log P(y=i)`$.
+- $`μ_i`$ ~ $`m_i`$ and $`Σ_i`$ ~ $`S_i`$ are estimated from $`N`$ observations using maximum likelihood estimation.
+- **Quadratic discriminant analysis (QDA)**:
+	- $`g_i(x)`$ ∝ $`x^\text{T}W_ix+w_i^\text{T}x+b_i`$, where
+		- $`W_i`$ = $`-\frac{1}{2}S_i^{-1}`$.
+		- $`w_i`$ = $`S_i^{-1}m_i`$.
+		- $`b_i`$ = $`-\frac{1}{2}\log|S_i|-\frac{1}{2}m_i^\text{T}+\log\hat{P}(y=i)`$.
+	- The decision boundary is a quadric hypersurface in $`D`$-dimensional space.
+	- The number of parameters is $`KD`$ for the means and $`KD(D+1)/2`$ for the covariance matrices.
+- **Linear discriminant analysis (LDA)**:
+	- Assumption(s):
+		- Covariance matrix for each class is shared, i.e., $`Σ`$ = $`Σ_i`$ for class $`i\in\{1,...,K\}`$.
+	- $`g_i(x)`$ ∝ $`w_i^\text{T}x+b_i`$, where
+		- $`w_i`$ = $`S^{-1}m_i`$.
+		- $`b_i`$ = $`-\frac{1}{2}m_i^\text{T}S^{-1}m_i+\log\hat{P}(y=i)`$.
+	- The number of parameters is $`KD`$ for the means and $`D(D+1)/2`$ for the shared covariance matrix.
+- **Naive Bayes' classifier**:
+	- Assumption(s):
+		- Covariance matrix for each class is shared, i.e., $`Σ`$ = $`Σ_i`$ for class $`i\in\{1,...,K\}`$.
+		- Independent variables, i.e., $`Σ`$ is diagnoal.
+	- The number of parameters is $`KD`$ for the means and $`D`$ for the shared variances.
+- **Euclidean distance classifier**:
+	- Assumption(s):
+		- Covariance matrix for each class is shared, i.e., $`Σ`$ = $`Σ_i`$ for class $`i\in\{1,...,K\}`$.
+		- Independent variables, i.e., $`Σ`$ is diagnoal.
+		- Equal variances, i.e., $`Σ`$ = $`σ^2I`$.
+	- The number of parameters is $`KD`$ for the means and 1 for the shared variance.
+- **Nearest centroid classifier**:
+	- Assumption(s):
+		- Covariance matrix for each class is shared, i.e., $`Σ`$ = $`Σ_i`$ for class $`i\in\{1,...,K\}`$.
+		- Independent variables, i.e., $`Σ`$ is diagnoal.
+		- Equal variances, i.e., $`Σ`$ = $`σ^2I`$.
+		- Equal priors, i.e., $`P`$ = $`P(y=i)`$ for class $`i\in\{1,...,K\}`$.
+	- The number of parameters is $`KD`$ for the means and 1 for the shared variance.
+
+---
+
+### Tuning Complexity
+
+- **Regularized discriminant analysis (RDA)**:
+	- Substitute covariance matrix for class $`S_i'`$ is the sum of three weighted components:
+		- $`αs^2I`$: identity matrix.
+		- $`βS`$: shared covariance matrix.
+		- $`(1−α−β)S_i`$: class-specific covariance matrix.
+	- Consider three scenarios:
+		- $`α=β=0`$: quadratic discriminant analysis (QDA).
+		- $`α=0`$ and $`β=1`$: linear discriminant analysis (LDA).
+		- $`α=1`$ and $`β=0`$: nearest centroid classifier.
+	- $`α`$ and $`β`$ are optimized by cross-validation.
 
 ---
