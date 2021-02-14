@@ -302,32 +302,42 @@
 		- $`w_i`$ = $`S_i^{-1}m_i`$.
 		- $`b_i`$ = $`-\frac{1}{2}\log|S_i|-\frac{1}{2}m_i^\text{T}+\log\hat{P}(y=i)`$.
 	- The decision boundary is a quadric hypersurface in $`D`$-dimensional space.
-	- The number of parameters is $`KD`$ for the means and $`KD(D+1)/2`$ for the covariance matrices.
+	- The number of parameters:
+		- $`KD`$ for the means.
+		- $`KD(D+1)/2`$ for the covariance matrices.
 - **Linear discriminant analysis (LDA)**:
 	- Assumption(s):
 		- Covariance matrix for each class is shared, i.e., $`Σ`$ = $`Σ_i`$ for class $`i\in\{1,...,K\}`$.
 	- $`g_i(x)`$ ∝ $`w_i^\text{T}x+b_i`$, where
 		- $`w_i`$ = $`S^{-1}m_i`$.
 		- $`b_i`$ = $`-\frac{1}{2}m_i^\text{T}S^{-1}m_i+\log\hat{P}(y=i)`$.
-	- The number of parameters is $`KD`$ for the means and $`D(D+1)/2`$ for the shared covariance matrix.
+	- The number of parameters:
+		- $`KD`$ for the means.
+		- $`D(D+1)/2`$ for the shared covariance matrix.
 - **Naive Bayes' classifier**:
 	- Assumption(s):
 		- Covariance matrix for each class is shared, i.e., $`Σ`$ = $`Σ_i`$ for class $`i\in\{1,...,K\}`$.
 		- Independent variables, i.e., $`Σ`$ is diagnoal.
-	- The number of parameters is $`KD`$ for the means and $`D`$ for the shared variances.
+	- The number of parameters:
+		- $`KD`$ for the means.
+		- $`D`$ for the shared variances.
 - **Euclidean distance classifier**:
 	- Assumption(s):
 		- Covariance matrix for each class is shared, i.e., $`Σ`$ = $`Σ_i`$ for class $`i\in\{1,...,K\}`$.
 		- Independent variables, i.e., $`Σ`$ is diagnoal.
 		- Equal variances, i.e., $`Σ`$ = $`σ^2I`$.
-	- The number of parameters is $`KD`$ for the means and 1 for the shared variance.
+	- The number of parameters
+		- $`KD`$ for the means.
+		- 1 for the shared variance.
 - **Nearest centroid classifier**:
 	- Assumption(s):
 		- Covariance matrix for each class is shared, i.e., $`Σ`$ = $`Σ_i`$ for class $`i\in\{1,...,K\}`$.
 		- Independent variables, i.e., $`Σ`$ is diagnoal.
 		- Equal variances, i.e., $`Σ`$ = $`σ^2I`$.
 		- Equal priors, i.e., $`P`$ = $`P(y=i)`$ for class $`i\in\{1,...,K\}`$.
-	- The number of parameters is $`KD`$ for the means and 1 for the shared variance.
+	- The number of parameters:
+		- $`KD`$ for the means.
+		- 1 for the shared variance.
 
 ---
 
