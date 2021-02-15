@@ -380,5 +380,5 @@
 
 ### Subset Selection
 
-- Two approaches: **Forward selection** vs **Backward selection**.
+- Two approaches: **forward selection** vs **backward selection**.
 - Subset selection is *supervised*.
