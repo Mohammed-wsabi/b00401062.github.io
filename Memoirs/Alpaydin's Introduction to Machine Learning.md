@@ -14,6 +14,7 @@
 - [Bayesian Decision Theory](#bayesian-decision-theory)
 - [Parametric Methods](#parametric-methods)
 - [Multivariate Methods](#multivariate-methods)
+- [Dimensionality Reduction](#dimensionality-reduction)
 
 ---
 
@@ -355,3 +356,29 @@
 	- $`α`$ and $`β`$ are optimized by cross-validation.
 
 ---
+
+## Dimensionality Reduction
+
+- [Introduction](#introduction)
+- [Subset Selection](#subset-selection)
+
+---
+
+### Introduction
+
+- The complexity depends on the number of input dimensions.
+- Two main methods for reducing dimensionality:
+	- **Feature selection**: finding $`k`$ of the $`d`$ dimensions.
+	- **Feature extraction**: finding a new set of $`k`$ dimensions that are combinations of the original $`d`$ dimensions.
+- Categories of *feature extraction* methods:
+	- *Unsupervised*:
+		- *Linear*: principal component analysis, factor analysis, multidimensional scaling
+		- *Nonlinear*: isometric feature mapping, locally linear embedding, Laplacian eigenmaps
+	- *Supervised*: linear discriminant analysis,
+
+---
+
+### Subset Selection
+
+- Two approaches: **Forward selection** vs **Backward selection**.
+- Subset selection is *supervised*.
