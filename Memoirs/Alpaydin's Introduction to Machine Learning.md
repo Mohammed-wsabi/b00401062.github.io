@@ -41,10 +41,9 @@
 
 ### Probably Approximately Correct Learning
 
-- **Probably approximately correct (PAC) learning**:
-	- Given a class $`C`$, and examples drawn from some unknown but fixed probability distribution $`p(x)`$.
-	- We want to find the number of examples, $`N`$, such that with probability at least $`1-δ`$, the hypothesis $`H`$ has error at most $`ε`$, for arbitrary $`δ≤\frac{1}{2}`$ and $`ε>0`$,.
-	- $`P(C\Delta H≤ε)≥1-δ`$, where $`C\Delta H`$ is the region of difference between $`C`$ and $`H`$.
+- Given a class $`C`$, and examples drawn from some unknown but fixed probability distribution $`p(x)`$.
+- We want to find the number of examples, $`N`$, such that with probability at least $`1-δ`$, the hypothesis $`H`$ has error at most $`ε`$, for arbitrary $`δ≤\frac{1}{2}`$ and $`ε>0`$,.
+- $`P(C\Delta H≤ε)≥1-δ`$, where $`C\Delta H`$ is the region of difference between $`C`$ and $`H`$.
 
 ---
 
