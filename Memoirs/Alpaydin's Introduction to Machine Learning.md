@@ -401,12 +401,14 @@
 - Given data $`x_1`$, ..., $`x_n`$, with $`\text{Cov}(x)=Σ`$.
 - PCA is an optimization problem that maximizes the variance of the projection of $`x`$ on the direction of $`w`$, where $`w`$ is a unit vector.
 - Mathematical definition: maximize $`\text{Var}(w^⊤x)=w^⊤Σw`$ subject to $`w^⊤w=1`$.
-- Lagrange problem: maximize $`w^⊤w-λ(w^⊤w-1)`$.
+- Lagrange problem: maximize $`w^⊤Σw-λ(w^⊤w-1)`$.
 - Taking the derivative with respect to $`w`$ and setting it equal to 0, we have $`Σw=λw`$.
 - The principal component is the eigenvector of the covariance matrix with the largest eigenvalue.
-- **Proportion of variance** explained by the $`k`$ principal components is $`(λ_1+...+λ_k)/(λ_1+...+λ_d)`$.
+- **Proportion of variance** explained by the $`k`$ principal components is $`\sum_{i=1}^kλ_i/\sum_{i=1}^dλ_i`$.
 - **Scree graph**: the plot of explained variance as a function of the number of eigenvectors kept.
 - **Karhunen-Loève expansion** allows using class information.
 - **Common principal components** assumes:
 	- The principal components are the same for each class.
 	- The variances of these components differ for different classes.
+
+---
