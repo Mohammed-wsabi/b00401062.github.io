@@ -41,7 +41,10 @@
 
 ### Probably Approximately Correct Learning
 
-- **Probably approximately correct (PAC) learning**: Given a class $`C`$, and examples drawn from some unknown but fixed probability distribution $`p(x)`$, we want to find the number of examples, $`N`$, such that with probability at least $`1-δ`$, the hypothesis $`H`$ has error at most $`ε`$, for arbitrary $`δ≤\frac{1}{2}`$ and $`ε>0`$, i.e., $`P(C\Delta H≤ε)≥1-δ`$, where $`C\Delta H`$ is the region of difference between $`C`$ and $`H`$.
+- **Probably approximately correct (PAC) learning**:
+	- Given a class $`C`$, and examples drawn from some unknown but fixed probability distribution $`p(x)`$.
+	- We want to find the number of examples, $`N`$, such that with probability at least $`1-δ`$, the hypothesis $`H`$ has error at most $`ε`$, for arbitrary $`δ≤\frac{1}{2}`$ and $`ε>0`$,.
+	- $`P(C\Delta H≤ε)≥1-δ`$, where $`C\Delta H`$ is the region of difference between $`C`$ and $`H`$.
 
 ---
 
@@ -274,7 +277,7 @@
 - Multivariate Data
 - Parameter Estimation
 - [Estimation of Missing Values](#estimation-of-missing-values)
-- Multivariate Normal Distribution
+- [Multivariate Normal Distribution](#multivariate-normal-distribution)
 - [Multivariate Classification](#multivariate-classification)
 - [Tuning Complexity](#tuning-complexity)
 - Discrete Features
@@ -290,18 +293,26 @@
 
 ---
 
+### Multivariate Normal Distribution
+
+- **Mahalanobis distance**: $`(x−μ)^⊤Σ^{−1}(x−μ)`$.
+- The projection of a $`d`$-dimensional normal on the vector $`w`$ is univariate normal.
+- Suppose $`x~N(μ,Σ)`$. Then, $`w^⊤x~N(w^⊤μ,w^⊤Σw)`$.
+
+---
+
 ### Multivariate Classification
 
 - Assume that the feature space is $`D`$-dimensional.
 - The discriminant function for class $`i\in\{1,...,K\}`$: $`g_i(x)`$ = $`\log P(x|y=i)+\log P(y=i)`$.
 - Assume $`P(x|y=i)`$ ~ $`N(μ_i,Σ_i)`$.
-- $`g_i(x)`$ = $`-\frac{D}{2}\log2π-\frac{1}{2}\log|Σ_i|-\frac{1}{2}(x-μ_i)^\text{T}Σ_i^{-1}(x-μ_i)+\log P(y=i)`$.
+- $`g_i(x)`$ = $`-\frac{D}{2}\log2π-\frac{1}{2}\log|Σ_i|-\frac{1}{2}(x-μ_i)^⊤Σ_i^{-1}(x-μ_i)+\log P(y=i)`$.
 - $`μ_i`$ ~ $`m_i`$ and $`Σ_i`$ ~ $`S_i`$ are estimated from $`N`$ observations using maximum likelihood estimation.
 - **Quadratic discriminant analysis (QDA)**:
-	- $`g_i(x)`$ ∝ $`x^\text{T}W_ix+w_i^\text{T}x+b_i`$, where
+	- $`g_i(x)`$ ∝ $`x^⊤W_ix+w_i^⊤x+b_i`$, where
 		- $`W_i`$ = $`-\frac{1}{2}S_i^{-1}`$.
 		- $`w_i`$ = $`S_i^{-1}m_i`$.
-		- $`b_i`$ = $`-\frac{1}{2}\log|S_i|-\frac{1}{2}m_i^\text{T}+\log\hat{P}(y=i)`$.
+		- $`b_i`$ = $`-\frac{1}{2}\log|S_i|-\frac{1}{2}m_i^⊤+\log\hat{P}(y=i)`$.
 	- The decision boundary is a quadric hypersurface in $`D`$-dimensional space.
 	- The number of parameters:
 		- $`KD`$ for the means.
@@ -309,9 +320,9 @@
 - **Linear discriminant analysis (LDA)**:
 	- Assumption(s):
 		- Covariance matrix for each class is shared, i.e., $`Σ`$ = $`Σ_i`$ for class $`i\in\{1,...,K\}`$.
-	- $`g_i(x)`$ ∝ $`w_i^\text{T}x+b_i`$, where
+	- $`g_i(x)`$ ∝ $`w_i^⊤x+b_i`$, where
 		- $`w_i`$ = $`S^{-1}m_i`$.
-		- $`b_i`$ = $`-\frac{1}{2}m_i^\text{T}S^{-1}m_i+\log\hat{P}(y=i)`$.
+		- $`b_i`$ = $`-\frac{1}{2}m_i^⊤S^{-1}m_i+\log\hat{P}(y=i)`$.
 	- The number of parameters:
 		- $`KD`$ for the means.
 		- $`D(D+1)/2`$ for the shared covariance matrix.
@@ -361,6 +372,7 @@
 
 - [Introduction](#introduction)
 - [Subset Selection](#subset-selection)
+- [Principal Component Analysis](#principal-component-analysis)
 
 ---
 
@@ -382,3 +394,20 @@
 
 - Two approaches: **forward selection** vs **backward selection**.
 - Subset selection is *supervised*.
+
+---
+
+### Principal Component Analysis
+
+- Given data $`x_1`$, ..., $`x_n`$, with $`\text{Cov}(x)=Σ`$.
+- PCA is an optimization problem that maximizes the variance of the projection of $`x`$ on the direction of $`w`$, where $`w`$ is a unit vector.
+- Mathematical definition: maximize $`\text{Var}(w^⊤x)=w^⊤Σw`$ subject to $`w^⊤w=1`$.
+- Lagrange problem: maximize $`w^⊤w-λ(w^⊤w-1)`$.
+- Taking the derivative with respect to $`w`$ and setting it equal to 0, we have $`Σw=λw`$.
+- The principal component is the eigenvector of the covariance matrix with the largest eigenvalue.
+- **Proportion of variance** explained by the $`k`$ principal components is $`(λ_1+...+λ_k)/(λ_1+...+λ_d)`$.
+- **Scree graph**: the plot of explained variance as a function of the number of eigenvectors kept.
+- **Karhunen-Loève expansion** allows using class information.
+- **Common principal components** assumes:
+	- The principal components are the same for each class.
+	- The variances of these components differ for different classes.
