@@ -65,7 +65,7 @@ title: Life Code
 
 ## Memoirs
 
-- [Alpaydin's Introduction to Machine Learning](Memoirs/Alpaydin's%20Introduction%20to%20Machine%20Learning.html)
+- [Alpaydin's Introduction to Machine Learning](Memoirs/Alpaydin's%20Introduction%20to%20Machine%20Learning.pdf)
 - [Bloch's Effective Java](Memoirs/Bloch's%20Effective%20Java.html)
 - [Boswell's The Art of Readable Code](Memoirs/Boswell's%20The%20Art%20of%20Readable%20Code.pdf)
 - [Case and Disease Discussion](Memoirs/Case%20and%20Disease%20Discussion.html)
