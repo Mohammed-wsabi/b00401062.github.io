@@ -185,6 +185,7 @@
 - [Minimize mutability](#minimize-mutability)
 - [Favor composition over inheritance](#favor-composition-over-inheritance)
 - [Design and document for inheritance or else prohibit it](#design-and-document-for-inheritance-or-else-prohibit-it)
+- [Prefer interfaces to abstract classes](#prefer-interfaces-to-abstract-classes)
 
 ### Minimize the accessibility of classes and members
 
@@ -232,3 +233,17 @@
 - The class must document its self-use of overridable methods.
 - Designing a class for inheritance requires great effort and places substantial limitations on the class.
 - The best practice is to prohibit subclassing in classes that are not designed and documented to be safely subclassed.
+
+### Prefer interfaces to abstract classes
+
+- Java permits only single inheritance.
+- Existing classes can easily be retrofitted to implement a new interface.
+- Interfaces are ideal for defining mixins.
+- Interfaces allow for the construction of nonhierarchical type frameworks.
+- Interfaces enable safe, powerful functionality enhancements via the *wrapper class* idiom.
+- **Default method** is an obvious implementation of an interface method in terms of other interface methods.
+- Interfaces are not permitted to contain instance fields or nonpublic static members (with the exception of private static methods).
+- Good documentation is absolutely essential in a skeletal implementation.
+- **Skeletal implementation class** combine the advantages of interfaces and abstract classes:
+    - Can provide some default methods.
+    - Implements the remaining non-primitive interface.
