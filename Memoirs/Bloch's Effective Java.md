@@ -132,7 +132,7 @@
     - Use the == operator to check if the argument is a reference to this object.
     - Use the instanceof operator to check if the argument has the correct type.
     - Cast the argument to the correct type.
-    - For each “significant” field in the class, check if the fields of the two objects match.
+    - For each "significant" field in the class, check if the fields of the two objects match.
 - Always override hashCode when you override equals.
 - Don’t substitute another type for Object in the equals declaration.
 
@@ -183,6 +183,8 @@
 - [Minimize the accessibility of classes and members](#minimize-the-accessibility-of-classes-and-members)
 - [In public classes, use accessor methods, not public fields](#in-public-classes-use-accessor-methods-not-public-fields)
 - [Minimize mutability](#minimize-mutability)
+- [Favor composition over inheritance](#favor-composition-over-inheritance)
+- [Design and document for inheritance or else prohibit it](#design-and-document-for-inheritance-or-else-prohibit-it)
 
 ### Minimize the accessibility of classes and members
 
@@ -218,3 +220,15 @@
 - A `clone` method or copy constructor need not and should not be provided on an immutable class.
 - Performance issue: immutable classes require a separate object for each distinct value.
 - Constructors should create fully initialized objects with all of their invariants established.
+
+### Favor composition over inheritance
+
+- Unlike method invocation, inheritance violates encapsulation.
+- This "self-use" is an implementation detail, not guaranteed to hold.
+- **Forwarding**: Each instance method in the new **forwarding class** invokes the corresponding method on the contained instance of the existing class and returns the results.
+
+### Design and document for inheritance or else prohibit it
+
+- The class must document its self-use of overridable methods.
+- Designing a class for inheritance requires great effort and places substantial limitations on the class.
+- The best practice is to prohibit subclassing in classes that are not designed and documented to be safely subclassed.
