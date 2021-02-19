@@ -243,7 +243,7 @@
 - Interfaces enable safe, powerful functionality enhancements via the *wrapper class* idiom.
 - **Default method** is an obvious implementation of an interface method in terms of other interface methods.
 - Interfaces are not permitted to contain instance fields or nonpublic static members (with the exception of private static methods).
-- Good documentation is absolutely essential in a skeletal implementation.
 - **Skeletal implementation class** combine the advantages of interfaces and abstract classes:
     - Can provide some default methods.
-    - Implements the remaining non-primitive interface.
+    - Implements the remaining non-primitive interface methods atop the primitive interface methods.
+- Good documentation is absolutely essential in a skeletal implementation.
