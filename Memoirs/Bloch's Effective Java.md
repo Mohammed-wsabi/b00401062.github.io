@@ -186,6 +186,11 @@
 - [Favor composition over inheritance](#favor-composition-over-inheritance)
 - [Design and document for inheritance or else prohibit it](#design-and-document-for-inheritance-or-else-prohibit-it)
 - [Prefer interfaces to abstract classes](#prefer-interfaces-to-abstract-classes)
+- [Design interfaces for posterity](#design-interfaces-for-posterity)
+- [Use interfaces only to define types](#use-interfaces-only-to-define-types)
+- [Prefer class hierarchies to tagged classes](#prefer-class-hierarchies-to-tagged-classes)
+- [Favor static member classes over nonstatic](#favor-static-member-classes-over-nonstatic)
+- [Limit source files to a single top-level class](#limit-source-files-to-a-single-top-level-class)
 
 ### Minimize the accessibility of classes and members
 
@@ -247,3 +252,27 @@
     - Can provide some default methods.
     - Implements the remaining non-primitive interface methods atop the primitive interface methods.
 - Good documentation is absolutely essential in a skeletal implementation.
+
+### Design interfaces for posterity
+
+- In the presence of default methods, existing implementations of an inter- face may compile without error or warning but fail at runtime.
+
+### Use interfaces only to define types
+
+- The constant interface pattern is a poor use of interfaces. Instead, a constant utility class is a better alternative.
+- Use static import to avoid qualifying constants.
+
+### Prefer class hierarchies to tagged classes
+
+- Tagged classes are verbose, error-prone, and inefficient.
+- A tagged class is just a pallid imitation of a class hierarchy.
+
+### Favor static member classes over nonstatic
+
+- Four kinds of nested classes: static member classes, nonstatic member classes, anonymous classes, and local classes.
+- Each instance of a nonstatic member class is implicitly associated with an enclosing instance of its containing class.
+- When declaring a member class that does not require access to an enclosing instance, always put the `static` modifier in its declaration,
+
+### Limit source files to a single top-level class
+
+- Never put multiple top-level classes or interfaces in a single source file.
