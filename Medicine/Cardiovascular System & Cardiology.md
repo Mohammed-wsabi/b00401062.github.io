@@ -332,7 +332,7 @@
 
 |Arrhythmia|Etiology|
 |-|-|
-|Atrial tachycardia (AT)|Automaticity|
+|Atrial tachycardia (AT) :: focal & multifocal|Automaticity|
 |Atrial flutter|Reentry|
 |Atrial fibrillation|Reentry|
 |AV nodal reentrant tachycardia (AVNRT)|Reentry|
