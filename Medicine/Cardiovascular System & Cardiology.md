@@ -330,22 +330,18 @@
 
 ### Supraventricular Arrhythmias
 
-|Arrhythmia|Etiology|
-|-|-|
-|Atrial tachycardia (AT) :: focal & multifocal|Automaticity|
-|Atrial flutter|Reentry|
-|Atrial fibrillation|Reentry|
-|AV nodal reentrant tachycardia (AVNRT)|Reentry|
-|AV reentrant/reciprocating tachycardia (AVRT)|Reentry|
+- Atrial tachycardia (AT) :: focal & multifocal
+- AV nodal reentrant tachycardia (AVNRT)
+- AV reentrant/reciprocating tachycardia (AVRT)
+- Atrial flutter
+- Atrial fibrillation
 
 ### Ventricular Arrhythmias
 
-|Arrhythmia|Etiology|
-|-|-|
-|Premature ventricular contraction (PVC)|Automaticity|
-|Accelerated idioventricular rhythm|Automaticity|
-|Ventricular tachycardia (VT)|Reentry|
-|Ventricular fibrillation (VF)|Reentry|
+- Premature ventricular contraction (PVC)
+- Accelerated idioventricular rhythm (AIVR)
+- Ventricular tachycardia (VT)
+- Ventricular fibrillation (VF)
 
 ## Types of Pre-excitation
 
