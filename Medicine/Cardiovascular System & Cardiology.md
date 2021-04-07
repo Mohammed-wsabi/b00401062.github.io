@@ -6,7 +6,7 @@
 
 ## Heart Development
 
-|Mnemonic|Embryonic structure|Gives rise to|
+|Mnemonic|Embryonic structure|Derivatives|
 |-|-|-|
 |Small|Sinus venosus|Smooth part of RA & Coronary sinus|
 |Pump|Primitive atrium|Trabeculated part of RA & LA|
@@ -311,12 +311,12 @@
 
 ## Pathogenesis of Arrhythmias
 
-|Type|Subtype|
-|-|-|
-|Impulse formation|Enhanced automaticity|
-||Triggered activity: EAD & DAD|
-|Conduction|Conduction delay|
-||Reentry|
+- Automaticity
+- Triggered activity
+    - Early after-depolarization (EAD)
+    - Delayed after-depolarization (DAD)
+- Reentry
+- Conduction delay
 
 ## Classification of Arrhythmias
 
@@ -332,21 +332,24 @@
 
 |Arrhythmia|Etiology|
 |-|-|
-|Atrial tachycardia (AT)|Enhanced automaticity|
-|Multifocal atrial tachycardia (MAT)|Enhanced automaticity|
+|Atrial tachycardia (AT)|Automaticity|
 |Atrial flutter|Reentry|
 |Atrial fibrillation|Reentry|
 |AV nodal reentrant tachycardia (AVNRT)|Reentry|
-|AV reciprocating tachycardia (AVRT)|Reentry|
+|AV reentrant/reciprocating tachycardia (AVRT)|Reentry|
 
 ### Ventricular Arrhythmias
 
 |Arrhythmia|Etiology|
 |-|-|
-|Premature ventricular contraction (PVC)|Enhanced automaticity|
-|Accelerated idioventricular rhythm|Enhanced automaticity|
+|Premature ventricular contraction (PVC)|Automaticity|
+|Accelerated idioventricular rhythm|Automaticity|
 |Ventricular tachycardia (VT)|Reentry|
 |Ventricular fibrillation (VF)|Reentry|
+
+## Types of Pre-excitation
+
+![](../Figures/Types%20of%20Pre-excitation.png)
 
 ## Rules of Malignancy for PVC
 
