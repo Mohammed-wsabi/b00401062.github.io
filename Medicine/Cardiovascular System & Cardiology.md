@@ -60,7 +60,7 @@
 |S<sub>1</sub>|-|MV & TV closure|-|-|
 |S<sub>2</sub>|-|AV & PV closure|-|-|
 |S<sub>3</sub>|Ventricular gallop & Opening snap|MV & TV opening|Volume overload|HF & DCMP & MR & TR|
-|S<sub>4</sub>|Atrial gallop & Atrial kick|Atrial contration|Diastolic dysfunction|HF & HCMP|
+|S<sub>4</sub>|Atrial gallop & Atrial kick|Atrial contraction|Diastolic dysfunction|HF & HCMP|
 
 ## Splitting
 
