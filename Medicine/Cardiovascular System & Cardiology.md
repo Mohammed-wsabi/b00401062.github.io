@@ -410,7 +410,7 @@
 - Hypertension
 - Age ≥ 75
 - Diabetes mellitus
-- Stroke & other cerebral vascular accidents (CVA)
+- Stroke / CVA history
 
 ### CHA<sub>2</sub>DS<sub>2</sub>-VASc Score
 
