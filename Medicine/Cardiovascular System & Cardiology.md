@@ -554,6 +554,19 @@
 
 ![](../Figures/Vasculitis.png)
 
+## Indications for Defibrillation
+
+- Pulseless monomorphic VT
+- Polymorphic VT
+- VF
+
+## Indications for Synchronized Cardioversion
+
+- Unstable narrow-QRS tachycardia
+- Unstable atrial flutter
+- Unstable atrial fibrillation
+- Unstable monomorphic VT
+
 ## Indications for Permanent Pacemaker
 
 - Sinus bradycardia :: < 40 & symptomatic
