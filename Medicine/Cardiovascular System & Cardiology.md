@@ -136,6 +136,13 @@
 |Epinephrine|100|
 |Isoproterenol|100|
 
+## Medications Slowing Conduction
+
+- Adenosine
+- β antagonists
+- Ca channel blockers
+- Digoxin & Digitalis
+
 ## Physical Examination for Cardiovascular System
 
 |Finding|Indications|
