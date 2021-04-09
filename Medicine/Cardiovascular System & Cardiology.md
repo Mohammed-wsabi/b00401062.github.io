@@ -89,7 +89,7 @@
 |Dobutamine: β<sub>1</sub> > β<sub>2</sub>|↑ (1°)|↓|↑|
 |Norepinephrine: α<sub>1</sub> > β<sub>1</sub>|-|↑ (1°)|↑|
 |Epinephrine: β > α<sub>1</sub>|↑ (1°)|-|↑|
-|Isoproterenol: β|↑ (1°)|↓ (1°)|-|
+|Isoproterenol: β<sub>1</sub> = β<sub>2</sub>|↑ (1°)|↓ (1°)|-|
 
 ## Mechanisms of Action of Venodilators
 
@@ -435,6 +435,12 @@
 - Antiarrhythmics
 	- Rate control :: Class 2 & 4 & Digoxin
 	- Rhythm control :: Class 1 & 3
+
+## Etiology of Torsades de Pointes
+
+- QT prolongation
+- Hypokalemia
+- Hypomagnesemia
 
 ## Etiology of ST Segment Elevation
 
