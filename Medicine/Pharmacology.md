@@ -558,7 +558,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|Gp2b/3a inhibitors|Abxicimab|Antiplatelet|
+|Gp2b/3a inhibitors|Abciximab|Antiplatelet|
 |RANKL inhibitors|Denosumab|Osteoporosis|
 |IgE inhibitors|Omalizumab|Asthma|
 |IL-2R inhibitors|Basiliximab|Immunosuppression|
