@@ -460,7 +460,7 @@
 ## Pathogenesis & Presentation of Acute Coronary Syndrome (ACS)
 
 |Types|Pathogenesis|T Wave|ST Segment|Q Wave|Triggers|Cardiac Enzymes|
-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|
 |Stable angina|Coronary artery thrombosis|-|STD|-|Exertion|-|
 |Unstable angina|Coronary artery thrombosis|TWI|STD|-|Anytime|-|
 |Variant [Prinzmetal] angina|Coronary artery spasm|HTW|STE|-|Drugs|-|
