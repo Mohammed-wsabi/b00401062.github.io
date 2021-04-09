@@ -293,7 +293,7 @@
 
 - ACEI & ARB
 - β<sub>1</sub> antagonists :: Carvedilol & Bisoprolol & Metoprolol
-- Diuretics :: Spironolactone
+- Digoxin & Diuretics :: Spironolactone
 - Vasodilators :: NO donors
 
 ## Etiology of Dilated Cardiomyopathy (DCMP) {ABCD}
