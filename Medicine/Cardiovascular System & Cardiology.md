@@ -320,8 +320,8 @@
 
 - Automaticity
 - Triggered activity
-    - Early after-depolarization (EAD)
-    - Delayed after-depolarization (DAD)
+	- Early after-depolarization (EAD)
+	- Delayed after-depolarization (DAD)
 - Reentry
 - Conduction delay
 
@@ -362,7 +362,7 @@
 - Acute myocardial infraction
 - Multiform PVC
 
-## Correlation of ECG & Antiarrhythmics
+## Correlation of ECG with Antiarrhythmics
 
 |ECG|Heart|Phase|Ion Channel|Antiarrhythmics|
 |-|-|-|-|-|
@@ -432,7 +432,9 @@
 	- If < 48 hours
 	- If no atrial thrombus on echocardiogram
 	- If anticoagulated
-- Antiarrhythmics :: Class 2 & 4 & Digoxin
+- Antiarrhythmics
+	- Rate control :: Class 2 & 4 & Digoxin
+	- Rhythm control :: Class 1 & 3
 
 ## Etiology of ST Segment Elevation
 
