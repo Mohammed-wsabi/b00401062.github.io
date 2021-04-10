@@ -511,7 +511,7 @@
 |-|-|-|-|-|
 |Pancreatic lipase inhibitors|Orlistat|↓↓|-|-|
 |Cholesterol absorption inhibitors|Ezetimibe|↓↓|-|-|
-|Bile acid resin|Cholestyramine|↓↓|-|-|
+|Bile acid resin|Cholestyramine & Colestipol & Colesevelam|↓↓|-|-|
 |HMG-CoA reductase inhibitors|Statins|↓↓↓|↑|↓|
 |HSL & VLDL synthesis inhibitors|Niacin (B3)|↓↓|↑↑|↓|
 |LPL & PPAR-α inducers|Fibrates|↓|↑|↓↓↓|
