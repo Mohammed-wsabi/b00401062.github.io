@@ -64,8 +64,8 @@
 |Carbonic anhydrase inhibitors|Abnormal|Acetazolamide|Diuretics|Proximal convoluted tubule (PCT)|↓|↑|-|
 |Na-K-2Cl sympoter blockers|Loss|Loop diuretics: Furosemide & Bumetanide & Torsemide|Diuretics|Ascending loop of Henle|↓|↓|↓|
 |Na-Cl sympoter blockers|Through|Thiazide|Diuretics|Distal convoluted tubule (DCT)|↓|↓|↑|
-|Aldosterone antagonists|Kidney|K-sparing diuretics: Spironolactone & Eplerenone|Diuretics|Collecting tubule (CT)|↑|↑|-|
 |Na channel blockers|Kidney|K-sparing diuretics: Amiloride & Triamterene|Diuretics|Collecting tubule (CT)|↑|↑|-|
+|Aldosterone antagonists|Kidney|K-sparing diuretics: Spironolactone & Eplerenone|Diuretics|Collecting tubule (CT)|↑|↑|-|
 
 ## Indications for Acute Dialysis {AEIOU}
 
