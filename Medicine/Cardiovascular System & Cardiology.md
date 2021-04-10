@@ -503,6 +503,11 @@
 - Venodilators :: Morphine & NO donors
 - Oxygen
 
+## Ideal Length of Time Between Presentation and Therapy for ACS
+
+- Door-to-needle < 30 minutes
+- Door-to-bolloon < 90 minutes
+
 ## Indications for Coronary Artery Bypass Grafting (CABG)
 
 - LCA > 50% stenosis
