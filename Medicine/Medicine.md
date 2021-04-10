@@ -451,13 +451,13 @@
 
 |Vitamin|Presentation|
 |-|-|
-|A|Night blindness & Xeroderma|
-|B<sub>1</sub>|Dry beriberi & Wet beriberi & Wernicke-Korsakoff syndrome|
-|B<sub>2</sub> {2C}|Cheliosis & Corneal vascularization|
-|B<sub>3</sub> {3D}|Diarrhea & Dementia & Dermatitis :: pellagra|
-|B<sub>6</sub>|Homocystinuria & Sideroblastic anemia & Peripheral neuropathy|
-|B<sub>9</sub>|Homocystinuria & Megaloblastic anemia & Hypersegmented PMN|
-|B<sub>12</sub>|Homocystinuria & Megaloblastic anemia & Hypersegmented PMN & Methylmalonic acidemia & Subacute combined degeneration|
+|A|Night blindness<br>Xeroderma|
+|B<sub>1</sub>|Dry beriberi<br>Wet beriberi<br>Wernicke-Korsakoff syndrome|
+|B<sub>2</sub> {2C}|Cheliosis<br>Corneal vascularization|
+|B<sub>3</sub> {3D}|Diarrhea<br>Dementia<br>Dermatitis :: pellagra|
+|B<sub>6</sub>|Homocystinuria<br>Sideroblastic anemia<br>Peripheral neuropathy|
+|B<sub>9</sub>|Homocystinuria<br>Megaloblastic anemia<br>Hypersegmented PMN|
+|B<sub>12</sub>|Homocystinuria<br>Megaloblastic anemia<br>Hypersegmented PMN<br>Methylmalonic acidemia<br>Subacute combined degeneration|
 |C|Scurvy|
 
 ## Etiology of Vitamin B<sub>9</sub> Deficiency
