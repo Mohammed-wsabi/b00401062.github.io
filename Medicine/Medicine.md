@@ -515,3 +515,5 @@
 |HMG-CoA reductase inhibitors|Statins|↓↓↓|↑|↓|
 |HSL & VLDL synthesis inhibitors|Niacin (B3)|↓↓|↑↑|↓|
 |LPL & PPAR-α inducers|Fibrates|↓|↑|↓↓↓|
+
+![](../Figures/Mechanisms%20of%20Action%20of%20Medications%20for%20Hyperlipidemia.png)
