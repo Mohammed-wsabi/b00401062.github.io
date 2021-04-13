@@ -1,14 +1,12 @@
 # Respiratory System & Pulmonology
 
-## Respiratory Tract Embryology Stages
+## Respiratory Tract Embryology Stages {EPCSA}
 
-|Mnemonic|Stage|
-|-|-|
-|Empty|Embryonic|
-|Pockets|Pseudoglandular|
-|Can|Canalicular|
-|Store|Saccular|
-|Air|Alveolar|
+- Embryonic
+- Pseudoglandular
+- Canalicular
+- Saccular
+- Alveolar
 
 ## Lung Volumes and Measurements
 
