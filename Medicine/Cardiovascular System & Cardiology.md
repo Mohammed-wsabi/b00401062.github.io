@@ -136,7 +136,7 @@
 |Epinephrine|100|
 |Isoproterenol|100|
 
-## Medications Slowing Conduction
+## Medications Slowing Conduction {ABCD}
 
 - Adenosine
 - β antagonists
