@@ -566,8 +566,8 @@
 	- Thromboangiitis obliterans [Buerger disease]
 - Small-vessel
 	- ANCA-associated vasculitis (AAV)
-		- Granulomatosis with polyangiitis (GPA)
-		- Eosinophilic granulomatosis with polyangiitis (EGPA)
+		- Granulomatosis with polyangiitis (GPA) [Wegener's granulomatosis]
+		- Eosinophilic granulomatosis with polyangiitis (EGPA) [Churg-Strauss syndrome]
 		- Microscopic polyangiitis
 	- IgA vasculitis [Henoch-Schonlein purpura (HSP)]
 	- Cryoglobulinemic vasculitis
