@@ -429,6 +429,7 @@
 	- If > 48 hours
 	- If CHA<sub>2</sub>DS<sub>2</sub>-VASc ≥ 2
 - Cardioversion
+	- If hemodynamically unstable
 	- If < 48 hours
 	- If no atrial thrombus on echocardiogram
 	- If anticoagulated
