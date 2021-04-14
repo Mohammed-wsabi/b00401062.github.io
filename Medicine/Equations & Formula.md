@@ -155,7 +155,7 @@
 |-|-|
 |PAO<sub>2</sub>|Alveolar O<sub>2</sub> pressure (mmHg)|
 |PIO<sub>2</sub>|Inspired Air O<sub>2</sub> pressure (mmHg)|
-|PaO<sub>2</sub>|Arterial O<sub>2</sub> pressure (mmHg)|
+|PaCO<sub>2</sub>|Arterial CO<sub>2</sub> pressure (mmHg)|
 |RQ|Respiratory quotient|
 
 ## Oxygen Content
