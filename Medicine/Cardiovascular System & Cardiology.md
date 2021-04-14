@@ -329,24 +329,27 @@
 
 ### Sinus Arrhythmias
 
-- Sinus tachycardia
 - Sinus bradycardia
-- Sick sinus syndrome
-- Sinus node block
-- Sinus arrest
+- Sinus tachycardia
 
-### Supraventricular Arrhythmias
+### Supraventricular Arrhythmias :: Atrial
 
-- Atrial tachycardia (AT) :: focal & multifocal
+- Atrial tachycardia (AT)
+	- Focal atrial tachycardia (FAT)
+	- Multifocal atrial tachycardia (MAT)
+- Atrial flutter
+- Atrial fibrillation (AF)
+
+### Supraventricular Arrhythmias :: Junctional
+
+- Junctional escape [Idiojunctional] rhythm
+- Junctional tachycardia (JT)
 - AV nodal reentrant tachycardia (AVNRT)
 - AV reentrant/reciprocating tachycardia (AVRT)
-- Atrial flutter
-- Atrial fibrillation
 
 ### Ventricular Arrhythmias
 
-- Premature ventricular contraction (PVC)
-- Accelerated idioventricular rhythm (AIVR)
+- Ventricular escape [Idioventricular] rhythm
 - Ventricular tachycardia (VT)
 - Ventricular fibrillation (VF)
 
