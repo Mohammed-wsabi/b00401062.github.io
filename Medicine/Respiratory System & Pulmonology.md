@@ -30,23 +30,26 @@
 |High|Lung apex|
 |∞|Dead space|
 
-### Shunt
+### Shunt (↓ V/Q)
 
-- Anatomic shunt
+- Anatomic shunt (↑ Q)
 	- Intracardiac shunt
 	- Pulmonary arteriovenous malformation (AVM)
 	- Hepatopulmonary syndrome
-- Physiologic shunt
-	- Atelectasis
-	- Pneumonia
-	- Acute respiratory distress syndrome (ARDS)
+- Physiologic shunt (↓ V)
 	- Obstructive lung diseases
+	- Alveolar lung diseases
 
-### Dead Space
+### Dead Space (↑ V/Q)
 
 - Pulmonary embolism
 - Pulmonary vascular diseases
 - Obstructive lung diseases
+
+## Etiology of Increased A-a Gradient
+
+- Interstitial lung diseases
+- V/Q mismatch
 
 ## Etiology of Kussmaul Breathing {KUSSMAUL}
 
