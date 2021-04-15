@@ -103,6 +103,16 @@
 ||Nedocromil|Asthma|
 |IgE inhibitors|Omalizumab|Asthma|
 
+## Modified Wells Criteria for Pulmonary Embolism
+
+- Signs/symptoms of DVT
+- PE is most likely clinical diagnosis
+- Tachycardia
+- Immobilization
+- Previous PE/DVT
+- Hemoptysis
+- Malignancy
+
 ## Pathogens of Bronchiolitis
 
 - Adenovirus
