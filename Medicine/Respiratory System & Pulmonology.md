@@ -44,7 +44,6 @@
 
 - Pulmonary embolism
 - Pulmonary vascular diseases
-- Obstructive lung diseases
 
 ## Etiology of Increased A-a Gradient
 
