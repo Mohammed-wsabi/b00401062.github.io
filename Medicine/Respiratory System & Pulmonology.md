@@ -105,6 +105,15 @@
 ||Nedocromil|Asthma|
 |IgE inhibitors|Omalizumab|Asthma|
 
+## Types of Pneumoconioses
+
+|Type|Deposit|Location|Findings|Associations|
+|-|-|-|-|-|
+|Asbestosis|Asbestos|Lung base|Calcified pleural plaques<br>Ferruginous bodies|Bronchogenic carcinoma<br>Mesothelioma|
+|Coal worker’s disease|Coal dust|Lung apex|-|-|
+|Silicosis|Silica|Lung apex|Eggshell calcifications|Tuberculosis|
+|Berylliosis|Beryllium|Hilum|Hilar adenopathy|-|
+
 ## Modified Wells Criteria for Pulmonary Embolism
 
 - Signs/symptoms of DVT
