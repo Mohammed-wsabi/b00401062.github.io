@@ -199,7 +199,7 @@
 ||30 ~ 65|Pap smear|Every 3 years|
 |||Pap smear & HPV testing|Every 5 years|
 |Colon|50 ~ 75|Fecal occult blood testing|Every year|
-|||Sigmoidoscopy with barium enema|Every 5 years|
+|||Sigmoidoscopy|Every 5 years|
 |||Colonoscopy|Every 10 years|
 
 ## Primary Survey for Trauma {ABCDE}
