@@ -552,6 +552,17 @@
 - β<sub>1</sub> antagonists :: Labetalol
 - Venodilators & Vasodilators :: NO donors & Ca channel blockers
 
+## Fontaine Staging of Peripheral Artery Disease (PAD)
+
+|Stage|Symptoms|
+|-|-|
+|1|Asymptomatic|
+|2|Intermittent claudication|
+|3|Ischemic rest pain|
+|4|Ulceration & Gangrene|
+
+![](../Figures/Fontaine%20Staging%20of%20Peripheral%20Artery%20Disease%20(PAD).png)
+
 ## Treatment of Peripheral Artery Disease (PAD)
 
 - PDE inhibitors :: Cilostazol
