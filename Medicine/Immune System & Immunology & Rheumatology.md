@@ -312,11 +312,11 @@
 - Sclerodactyly
 - Telangiectasia
 
-## Presentation of Henoch-Schonlein Purpura
+## Presentation of Henoch-Schonlein Purpura (HSP)
 
+- Abdominal pain
 - Arthritis
 - Rashes
-- Abdominal pain
 
 ## Presentation of Dermatomyositis
 
@@ -325,7 +325,7 @@
 - Gower sign
 - Proximal muscle weakness
 
-## Diagnostic Criteria for Antiphospholipid Syndrome
+## Diagnostic Criteria for Antiphospholipid Syndrome (APS)
 
 - Clinical criteria ≥ 1
 	- Vascular thrombosis
