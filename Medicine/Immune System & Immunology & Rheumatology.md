@@ -159,13 +159,13 @@
 |Graves disease|Anti-TSH receptor|
 |Guillain-Barre syndrome|Anti-ganglioside|
 |Heparin-induced thrombocytopenia (HIT)|Anti-platelet factor 4 (Anti-PF4)|
-|Immune thrombocytopenic purpura (ITP)|Anti-Gp1b & Anti-Gp2b/3a|
+|Immune thrombocytopenic purpura (ITP)|Anti-Gp1b<br>Anti-Gp2b/3a|
 |Lambert-Eaton myasthenic syndrome|Anti-presynatic Ca channel|
 |Myasthenia gravis|Anti-ACh receptor|
 |Pemphigus vulgaris|Anti-desmosome|
 |Pernicious anemia|Anti-parietal cell|
 |Rheumatic fever|Anti-M protein|
-|Transfusion reaction :: acute hemolytic (AHTR)|Anti-ABO & Anti-Rh|
+|Transfusion reaction :: acute hemolytic (AHTR)|Anti-ABO<br>Anti-Rh|
 |Transplant reaction :: hyperacute|-|
 
 ### Type 3
@@ -175,7 +175,7 @@
 |Vasculitis :: granulomatosis with polyangiitis (GPA)|PR3-ANCA [c-ANCA]|
 |Vasculitis :: eosinophilic granulomatosis with polyangiitis (EGPA)|MPO-ANCA [p-ANCA]|
 |Vasculitis :: microscopic polyangiitis|MPO-ANCA [p-ANCA]|
-|Antiphospholipid syndrome (APS)|Anti-cardiolipin & Anti-β2-glycoprotein I & Lupus anticoagulant|
+|Antiphospholipid syndrome (APS)|Anti-cardiolipin<br>Anti-β2-glycoprotein I<br>Lupus anticoagulant|
 |Arthus reaction|-|
 |Autoimmune hepatitis|Anti-smooth muscle|
 |Dermatitis herpetiformis|Anti-tissue transglutaminase (Anti-tTG) IgA|
@@ -185,14 +185,14 @@
 |Membranoproliferative glomerulonephritis|C3 nephritic factor|
 |Mixed connective tissue disease (MCTD)|Anti-U1 RNP|
 |Polyarteritis nodosa|-|
-|Polymyositis & Dermatomyositis|Anti-Jo-1 & Anti-Mi-2 & Anti-SRP|
+|Polymyositis<br>Dermatomyositis|Anti-Jo-1<br>Anti-Mi-2<br>Anti-SRP|
 |Primary biliary cirrhosis (PBC)|Anti-mitochondrium|
-|Rheumatoid arthritis|Rheumatoid factor [Anti-IgG] & Anti-CCP|
+|Rheumatoid arthritis|Rheumatoid factor [Anti-IgG]<br>Anti-CCP|
 |Scleroderma :: diffuse|Anti-Scl-70 [Anti-topoisomerase]|
 |Scleroderma :: limited|Anti-centromere|
 |Serum sickness|-|
-|Sjogren syndrome|Anti-Ro [Anti-SSA] & Anti-La [Anti-SSB]|
-|Systemic lupus erythematosus (SLE)|Anti-dsDNA & Anti-Smith [Anti-snRNP]|
+|Sjogren syndrome|Anti-Ro [Anti-SSA]<br>Anti-La [Anti-SSB]|
+|Systemic lupus erythematosus (SLE)|Anti-dsDNA<br>Anti-Smith [Anti-snRNP]|
 
 ### Type 4
 
@@ -202,7 +202,7 @@
 |Contact dermatitis|-|
 |DM type 1|Anti-glutamate decarboxylase (Anti-GAD-65)|
 |Graft-versus-host disease (GVHD)|-|
-|Hashimoto thyroiditis|Anti-thyroglobulin & Anti-TPO & Anti-microsome|
+|Hashimoto thyroiditis|Anti-thyroglobulin<br>Anti-TPO<br>Anti-microsome|
 |Multiple sclerosis|-|
 |PPD skin test|-|
 |Transplant reaction :: acute & chronic|-|
