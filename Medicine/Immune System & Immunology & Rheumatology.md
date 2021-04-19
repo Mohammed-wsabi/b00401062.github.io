@@ -212,13 +212,13 @@
 |HLA|Diseases|
 |-|-|
 |A3|Hemochromatosis|
-|B27|Psoriatic arthritis & Ankylosing spondylitis & Inammatory bowel disease & Reactive arthritis|
+|B27|Psoriatic arthritis<br>Ankylosing spondylitis<br>Inammatory bowel disease<br>Reactive arthritis|
 |B5801|Stevens-Johnson syndrome (SJS)|
-|DQ2 & DQ8|Celiac disease|
-|DR2|Multiple sclerosis & Hay fever & SLE & Goodpasture syndrome|
-|DR3|DM type 1 & SLE & Graves disease & Hashimoto thyroiditis|
-|DR4|Rheumatoid arthritis & DM type 1|
-|DR5|Pernicious anemia & Hashimoto thyroiditis|
+|DQ2<br>DQ8|Celiac disease|
+|DR2|Multiple sclerosis<br>Hay fever<br>SLE<br>Goodpasture syndrome|
+|DR3|DM type 1<br>SLE<br>Graves disease<br>Hashimoto thyroiditis|
+|DR4|Rheumatoid arthritis<br>DM type 1|
+|DR5|Pernicious anemia<br>Hashimoto thyroiditis|
 
 ## Immunodeficiency {WASH-CHILD-CBS}
 
