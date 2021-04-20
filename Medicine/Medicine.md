@@ -517,3 +517,8 @@
 |LPL & PPAR-α inducers|Fibrates|↓|↑|↓↓↓|
 
 ![](../Figures/Mechanisms%20of%20Action%20of%20Medications%20for%20Hyperlipidemia.png)
+
+## Pain Relieved By Leaning Forward
+
+- Pericarditis
+- Pancreatitis
