@@ -114,6 +114,15 @@
 |Silicosis|Silica|Lung apex|Eggshell calcifications|Tuberculosis|
 |Berylliosis|Beryllium|Hilum|Hilar adenopathy|-|
 
+## Types of Lung Cancers
+
+|Type|Location|Paraneoplastic Syndromes|
+|-|-|-|
+|Small cell carcinoma|Central|ACTH & SIADH<br>Lambert-Eaton myasthenic syndrome<br>Paraneoplastic myelitis/encephalitis|
+|Squamous cell carcinoma|Central|PTHrP|
+|Adenocarcinoma|Peripheral|-|
+|Large cell carcinoma|Peripheral|β-hCG|
+
 ## Modified Wells Criteria for Pulmonary Embolism
 
 - Signs/symptoms of DVT
