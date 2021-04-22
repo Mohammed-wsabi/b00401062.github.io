@@ -94,8 +94,10 @@
 
 - Osmotic
 - Secretory
-- Inflammatory
 - Exudative
+	- Infectious
+	- Inflammatory
+- Dysmotility
 
 ## Mechanisms of Action of Laxatives {SHELB}
 
