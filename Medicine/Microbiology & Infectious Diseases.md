@@ -359,7 +359,7 @@
 
 |Parasite|Disease|Treatment|
 |-|-|-|
-|Entamoeba histolytica|Amebiasis & Blood diarrhea|Metronidazole|
+|Entamoeba histolytica|Amebiasis & Bloody diarrhea|Metronidazole|
 |Cryptosporidium|Watery diarrhea|Nitazoxanide|
 |Giardia lamblia|Giardiasis & Fatty diarrhea|Metronidazole|
 
