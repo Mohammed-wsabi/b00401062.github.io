@@ -266,14 +266,9 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|H<sub>1</sub> antagonists|1° Antihistamine :: Chlorpheniramine|Allergy & Emesis :: motion sickness|
-||1° Antihistamine :: Diphenhydramine|Allergy & Emesis :: motion sickness|
-||1° Antihistamine :: Meclizine|Allergy & Emesis :: motion sickness|
-||1° Antihistamine :: Promethazine|Allergy & Emesis :: motion sickness|
-||2° Antihistamine :: Cetirizine|Allergy|
-||2° Antihistamine :: Fexofenadine|Allergy|
-||2° Antihistamine :: Loratadine|Allergy|
-||Antipsychotics|-|
+|H<sub>1</sub> antagonists :: 1°|Chlorpheniramine<br>Diphenhydramine<br>Meclizine<br>Promethazine|Allergy<br>Emesis :: motion sickness|
+|H<sub>1</sub> antagonists :: 2°|Cetirizine<br>Fexofenadine<br>Loratadine|Allergy|
+|H<sub>1</sub> antagonists|Antipsychotics|-|
 ||Antidepressants :: TCA|-|
 |H<sub>2</sub> antagonists|Cimetidine|PUD|
 ||Ranitidine|PUD|
@@ -409,8 +404,9 @@
 ||Methylxanthine: Theophylline & Caffeine|Asthma|
 ||Sildenafil & Vardenafil|Impotence & Pulmonary HTN|
 ||Dipyridamole & Cilostazol|Antiplatelet & Vasodilation|
-|COX inhibitors|Acetaminophen<br>Sulfasalazine|Inflammation|
-|COX inhibitors :: NSAIDs|Aspirin<br>Ibuprofen<br>Naproxen<br>Diclofenac<br>Ketorolac<br>Meloxicam<br>Indomethacin|Inflammation<br>Tocolysis<br>PDA closure|
+|COX inhibitors :: NSAIDs|Aspirin<br>Ibuprofen<br>Naproxen<br>Diclofenac<br>Ketorolac<br>Meloxicam<br>Indomethacin|Antipyresis<br>Analgesia<br>Inflammation<br>Tocolysis<br>PDA closure|
+|COX inhibitors|Acetaminophen|Antipyresis<br>Analgesia|
+||Sulfasalazine|Inflammation|
 |COX-2 inhibitors|Celecoxib|Arthritis|
 |LOX inhibitors|Zileuton|Asthma|
 |ADH inhibitors|Ethanol|Methanol antidote|
