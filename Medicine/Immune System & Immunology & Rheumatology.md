@@ -269,6 +269,12 @@
 - Noncaseating granuloma
 - γ globulinemia
 
+## Triad of Lofgren Syndrome
+
+- Erythema nodosum
+- Adenopathy :: hilar
+- Arthritis :: migratory
+
 ## Seronegative Spondyloarthropathy {PAIR}
 
 - Psoriatic arthritis
