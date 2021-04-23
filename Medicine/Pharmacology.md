@@ -409,13 +409,8 @@
 ||Methylxanthine: Theophylline & Caffeine|Asthma|
 ||Sildenafil & Vardenafil|Impotence & Pulmonary HTN|
 ||Dipyridamole & Cilostazol|Antiplatelet & Vasodilation|
-|COX inhibitors|Acetaminophen|Inflammation|
-|COX inhibitors :: NSAIDs|Aspirin|Inflammation|
-||Ibuprofen|Inflammation|
-||Naproxen|Inflammation|
-||Diclofenac|Inflammation|
-||Ketorolac|Inflammation|
-||Meloxicam|Inflammation|
+|COX inhibitors|Acetaminophen<br>Sulfasalazine|Inflammation|
+|COX inhibitors :: NSAIDs|Aspirin<br>Ibuprofen<br>Naproxen<br>Diclofenac<br>Ketorolac<br>Meloxicam|Inflammation|
 ||Indomethacin|Inflammation & Tocolysis & PDA closure|
 |COX-2 inhibitors|Celecoxib|Arthritis|
 |LOX inhibitors|Zileuton|Asthma|
