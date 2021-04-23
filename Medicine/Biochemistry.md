@@ -1,13 +1,13 @@
 # Biochemistry
 
-## Antioxidants
+## Antioxidants {GCSV}
 
-|Mnemonic|Antioxidant|Reaction|
-|-|-|-|
-|Check|Catalase|2H<sub>2</sub>O<sub>2</sub> → 2H<sub>2</sub>O + O<sub>2</sub>|
-|Groaning|Glutathione peroxidase|H<sub>2</sub>O<sub>2</sub> + 2GSH → 2H<sub>2</sub>O + GSSG|
-|Visiting|Vitamin A & C & E|-|
-|Staffs|Superoxide dismutase|2O<sub>2</sub><sup>-</sup> + 4H<sup>+</sup> → 2H<sub>2</sub>O + O<sub>2</sub>|
+|Antioxidant|Reaction|
+|-|-|
+|Glutathione peroxidase|H<sub>2</sub>O<sub>2</sub> + 2GSH → 2H<sub>2</sub>O + GSSG|
+|Catalase|2H<sub>2</sub>O<sub>2</sub> → 2H<sub>2</sub>O + O<sub>2</sub>|
+|Superoxide dismutase|2O<sub>2</sub><sup>-</sup> + 4H<sup>+</sup> → 2H<sub>2</sub>O + O<sub>2</sub>|
+|Vitamin A & C & E|-|
 
 ## Vitamin B
 
