@@ -410,8 +410,7 @@
 ||Sildenafil & Vardenafil|Impotence & Pulmonary HTN|
 ||Dipyridamole & Cilostazol|Antiplatelet & Vasodilation|
 |COX inhibitors|Acetaminophen<br>Sulfasalazine|Inflammation|
-|COX inhibitors :: NSAIDs|Aspirin<br>Ibuprofen<br>Naproxen<br>Diclofenac<br>Ketorolac<br>Meloxicam|Inflammation|
-||Indomethacin|Inflammation & Tocolysis & PDA closure|
+|COX inhibitors :: NSAIDs|Aspirin<br>Ibuprofen<br>Naproxen<br>Diclofenac<br>Ketorolac<br>Meloxicam<br>Indomethacin|Inflammation<br>Tocolysis<br>PDA closure|
 |COX-2 inhibitors|Celecoxib|Arthritis|
 |LOX inhibitors|Zileuton|Asthma|
 |ADH inhibitors|Ethanol|Methanol antidote|
