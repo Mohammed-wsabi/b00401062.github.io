@@ -77,7 +77,7 @@
 
 ![](../Figures/Biliary%20Structures.png)
 
-## Composition of Bile {BBC}
+## Composition of Bile
 
 - Bile salts = Bile acids + glycine / taurine
 - Bilirubin
