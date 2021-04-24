@@ -257,17 +257,17 @@
 - Eczema ← ↑ IgE & IgA
 - Recurrent infection
 
-## Presentation of Sarcoidosis {SHARING}
+## Presentation of Sarcoidosis {GAUSH}
 
-- Schaumann body
-- Hypercalcemia
-- ↑ 1α-hydroxylase
+- Granuloma :: non-caseating
+- γ globulinemia
 - ↑ Angiotensin converting enzyme (ACE)
 - Asteroid body
-- Rheumatoid arthritis
-- Interstitial fibrosis
-- Noncaseating granuloma
-- γ globulinemia
+- Arthritis
+- Uveitis
+- Schaumann body
+- ↑ 1α-hydroxylase
+- Hypercalcemia
 
 ## Triad of Lofgren Syndrome
 
