@@ -462,7 +462,7 @@
 ||Thymidylate synthase|Flucytosine|Fungus|
 |||5-Fluorouracil (5-FU)|Human|
 |↓ dNTP synthesis|Ribonucleotide reductase|Hydroxyurea|Human|
-|↓ Folate synthesis|Dihydropteroate synthase|Sulfonamide|Bacterium|
+|↓ Folate synthesis|Dihydropteroate synthase|Sulfonamide ::<br>Sulfamethoxazole<br>Sulfisoxazole<br>Sulfadiazine|Bacterium|
 ||Dihydrofolate reductase|Trimethoprim|Bacterium|
 |||Pyrimethamine|Protozoa|
 |||Methotrexate|Human|
