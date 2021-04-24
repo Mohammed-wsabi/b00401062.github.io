@@ -14,17 +14,6 @@
 |Gastrocolic ligament: greater omentum|Stomach ~ Transverse colon|Gastroepiploic artery|
 |Splenorenal ligament|Spleen ~ Kidney|Splenic artery|
 
-## Layers of Gastrointestinal Tract {MSMS}
-
-- Mucosa layer
-- Submucosa layer
-- Muscular layer
-- Serous layer
-
-## Layers of Gastrointestinal Tract
-
-![](../Figures/Layers%20of%20Gastrointestinal%20Tract.png)
-
 ## Layers of Abdominal Wall & Spermatic Chord
 
 |Abdominal wall|Spermatic chord|
@@ -38,6 +27,21 @@
 |Scarpa's fascia|Dartos' fascia|
 |Camper's fascia|-|
 |Skin|Skin|
+
+## Hesselbach Triangle
+
+- Rectus abdominis
+- Inferior epigastric artery
+- Inguinal ligament
+
+## Layers of Gastrointestinal Tract {MSMS}
+
+- Mucosa layer
+- Submucosa layer
+- Muscular layer
+- Serous layer
+
+![](../Figures/Layers%20of%20Gastrointestinal%20Tract.png)
 
 ## Gastrointestinal Secretion
 
