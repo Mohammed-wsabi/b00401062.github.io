@@ -243,10 +243,7 @@
 ||Cabergoline|Parkinson & Prolactinoma|
 ||Pramipexole|Parkinson|
 ||Ropinirole|Parkinson|
-|D<sub>2</sub> antagonists|Metoclopramide|Emesis|
-||Prochlorperazine|Emesis|
-||Domperidone|Emesis|
-||Droperidol|Emesis|
+|D<sub>2</sub> antagonists|Metoclopramide<br>Prochlorperazine<br>Domperidone<br>Droperidol|Emesis|
 ||Antipsychotics|Psychosis|
 
 ## Mechanisms of Action of Medications Targeting Serotonin Receptor
