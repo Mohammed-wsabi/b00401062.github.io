@@ -270,10 +270,7 @@
 |H<sub>1</sub> antagonists :: 2°|Cetirizine<br>Fexofenadine<br>Loratadine|Allergy|
 |H<sub>1</sub> antagonists|Antipsychotics|-|
 ||Antidepressants :: TCA|-|
-|H<sub>2</sub> antagonists|Cimetidine|PUD|
-||Ranitidine|PUD|
-||Famotidine|PUD|
-||Nizatidine|PUD|
+|H<sub>2</sub> antagonists|Cimetidine<br>Ranitidine<br>Famotidine<br>Nizatidine|PUD|
 
 ## Mechanisms of Action of Medications Targeting Glutamate Receptor
 
