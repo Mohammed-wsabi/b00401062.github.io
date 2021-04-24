@@ -77,15 +77,9 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |M antagonists|Scopolamine|Emesis :: motion sickness|
-|D<sub>2</sub> antagonists|Metoclopramide|Emesis|
-||Prochlorperazine|Emesis|
-||Domperidone|Emesis|
-||Droperidol|Emesis|
+|D<sub>2</sub> antagonists|Metoclopramide<br>Prochlorperazine<br>Domperidone<br>Droperidol|Emesis|
 |5-HT<sub>3</sub> antagonists|-Setrons|Emesis :: chemotherapy|
-|H<sub>1</sub> antagonists|Chlorpheniramine|Emesis :: motion sickness|
-||Diphenhydramine|Emesis :: motion sickness|
-||Meclizine|Emesis :: motion sickness|
-||Promethazine|Emesis :: motion sickness|
+|H<sub>1</sub> antagonists :: 1°|Chlorpheniramine<br>Diphenhydramine<br>Meclizine<br>Promethazine|Emesis :: motion sickness|
 |Neurokinin antagonists|Aprepitant|Emesis :: chemotherapy|
 |Cannabinoid agonists|Dronabinol|Emesis :: chemotherapy|
 |-|Steroids|Emesis :: chemotherapy|
@@ -147,14 +141,9 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |H-K pump blockers|Proton pump inhibitors (PPI): Prazoles|PUD|
-|H<sub>2</sub> antagonists|Cimetidine|PUD|
-||Ranitidine|PUD|
-||Famotidine|PUD|
-||Nizatidine|PUD|
+|H<sub>2</sub> antagonists|Cimetidine<br>Ranitidine<br>Famotidine<br>Nizatidine|PUD|
 |PGE1 agonists|Misoprostol|PUD|
-|Antacids|Aluminum hydroxide|PUD|
-||Calcium carbonate|PUD|
-||Magnesium hydroxide|PUD|
+|Antacids|Aluminum hydroxide<br>Calcium carbonate<br>Magnesium hydroxide|PUD|
 |Antimicrobials|Bismuth|PUD|
 ||Amoxicillin / Metronidazole|PUD|
 ||Clarithromycin|PUD|
