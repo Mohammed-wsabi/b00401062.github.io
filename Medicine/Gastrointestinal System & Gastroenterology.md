@@ -82,6 +82,7 @@
 - Bile salts = Bile acids + glycine / taurine
 - Bilirubin
 - Cholesterol
+- Phospholipids
 
 ## Etiology of Nausea and Vomiting
 
