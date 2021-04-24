@@ -79,7 +79,7 @@
 
 ## Composition of Bile
 
-- Bile salts = Bile acids + glycine / taurine
+- Bile salts = Bile acids + Glycine / Taurine
 - Bilirubin
 - Cholesterol
 - Phospholipids
