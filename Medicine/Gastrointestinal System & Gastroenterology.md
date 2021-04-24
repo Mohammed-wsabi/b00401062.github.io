@@ -37,8 +37,16 @@
 ## Layers of Gastrointestinal Tract {MSMS}
 
 - Mucosa layer
+	- Epithelium
+	- Lamina propria
+	- Muscularis mucosa
 - Submucosa layer
+	- Submucosal gland
+	- Submucosal [Meimeissner] plexus
 - Muscular layer
+	- Inner circular layer
+	- Myenteric [Auerbach] plexus
+	- Outer longitudinal layer
 - Serous layer
 
 ![](../Figures/Layers%20of%20Gastrointestinal%20Tract.png)
@@ -68,6 +76,12 @@
 ## Biliary Structures
 
 ![](../Figures/Biliary%20Structures.png)
+
+## Composition of Bile {BBC}
+
+- Bile salts = Bile acids + glycine / taurine
+- Bilirubin
+- Cholesterol
 
 ## Etiology of Nausea and Vomiting
 
