@@ -73,12 +73,8 @@
 ||Ouabain|-|
 |H-K pump blockers|Proton pump inhibitors (PPI): Prazoles|PUD|
 |Na-Cl sympoter blockers|Thiazide|Diuretics|
-|Na-K-2Cl sympoter blockers|Loop diuretics :: Furosemide|Diuretics|
-||Loop diuretics :: Bumetanide|Diuretics|
-||Loop diuretics :: Torsemide|Diuretics|
-|Na-I sympoter blockers|Thiocyanate|Hyperthyroidism|
-||Perchlorate|Hyperthyroidism|
-||Iodine|Hyperthyroidism|
+|Na-K-2Cl sympoter blockers|Loop diuretics:<br>Furosemide<br>Bumetanide<br>Torsemide|Diuretics|
+|Na-I sympoter blockers|Thiocyanate<br>Perchlorate<br>Iodine|Hyperthyroidism|
 
 ## Mechanisms of Action of Medications Targeting Cholinergic Neurons
 
@@ -462,7 +458,7 @@
 ||Thymidylate synthase|Flucytosine|Fungus|
 |||5-Fluorouracil (5-FU)|Human|
 |↓ dNTP synthesis|Ribonucleotide reductase|Hydroxyurea|Human|
-|↓ Folate synthesis|Dihydropteroate synthase|Sulfonamides ::<br>Sulfamethoxazole<br>Sulfisoxazole<br>Sulfadiazine|Bacterium|
+|↓ Folate synthesis|Dihydropteroate synthase|Sulfonamides:<br>Sulfamethoxazole<br>Sulfisoxazole<br>Sulfadiazine|Bacterium|
 ||Dihydrofolate reductase|Trimethoprim|Bacterium|
 |||Pyrimethamine|Protozoa|
 |||Methotrexate|Human|
@@ -473,14 +469,8 @@
 |-|-|-|-|
 |↓ DNA synthesis|Reverse transcriptase|NRTI|Virus|
 |||NNRTI|Virus|
-||DNA polymerase|Acyclovir|Virus|
-|||Famciclovir|Virus|
-|||Ganciclovir|Virus|
-|||Cidofovir|Virus|
-|||Foscarnet|Virus|
-|||Cladribine|Human|
-|||Cytarabine|Human|
-|||Gemcitabine|Human|
+||DNA polymerase|Acyclovir<br>Famciclovir<br>Ganciclovir<br>Cidofovir<br>Foscarnet|Virus|
+|||Cladribine<br>Cytarabine<br>Gemcitabine|Human|
 ||Topoisomerase|Fluoroquinolone|Bacterium|
 ||Topoisomerase 1|Camptothecins [-Tecans]|Human|
 ||Topoisomerase 2|Podophyllotoxins [-Posides]|Human|
