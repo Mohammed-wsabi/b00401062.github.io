@@ -267,6 +267,12 @@
 |Citrate shuttle|-|Mitochondria|
 |Carnitine shuttle|-|Mitochondria|
 
+## Ketone Bodies
+
+- Acetoacetate
+- Acetone
+- β-hydroxybutyrate
+
 ## Fatty Acid Metabolism
 
 ![](../Figures/Fatty%20Acid%20Metabolism.png)
