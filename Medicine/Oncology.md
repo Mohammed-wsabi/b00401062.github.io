@@ -41,17 +41,17 @@
 
 |Marker|Tumors|
 |-|-|
-|ALP|Bone metastasis & Seminoma|
-|AFP|Hepatocellular carcinoma & Germ cell tumors (GCT)|
-|hCG|Hydatidiform moles & Germ cell tumors (GCT)|
+|ALP|Bone metastasis<br>Seminoma|
+|AFP|Hepatocellular carcinoma<br>Germ cell tumors (GCT)|
+|hCG|Hydatidiform moles<br>Germ cell tumors (GCT)|
 |CA 15-3|Breast cancer|
 |CA 19-9|Pancreatic adenocarcinoma|
 |CA 125|Ovarian cancer|
 |Calcitonin|Medullary thyroid carcinoma|
-|CEA|Colorectal & Pancreatic cancers|
+|CEA|Colorectal cancer<br>Pancreatic adenocarcinoma|
 |Chromogranin|Neuroendocrine tumors (NET)|
 |PSA|Prostate cancer|
-|S-100|Melanoma & Schwannoma & Neurofibroma & Histiocytoma|
+|S-100|Melanoma<br>Schwannoma<br>Neurofibroma<br>Histiocytoma|
 
 ## Presentation of Neurofibromatosis Type 1
 
