@@ -177,7 +177,7 @@
 |Vasculitis :: microscopic polyangiitis|MPO-ANCA [p-ANCA]|
 |Antiphospholipid syndrome (APS)|Anti-cardiolipin<br>Anti-β2-glycoprotein I<br>Lupus anticoagulant|
 |Arthus reaction|-|
-|Autoimmune hepatitis|Anti-smooth muscle|
+|Autoimmune hepatitis|Anti-smooth muscle<br>Anti-liver cytosol|
 |Dermatitis herpetiformis|Anti-tissue transglutaminase (Anti-tTG) IgA|
 |Drug-induced lupus|Anti-histone|
 |IgA vasculitis [Henoch-Schonlein purpura (HSP)]|IgA|
