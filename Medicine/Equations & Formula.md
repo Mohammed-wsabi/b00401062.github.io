@@ -100,6 +100,14 @@
 |K|Urine potassium (mEq/L)|
 |Cl|Urine chloride (mEq/L)|
 
+## Stool Osmotic Gap
+
+|Parameter|P<sub>Osmolality</sub> - 2 × (Na + K)|
+|-|-|
+|P<sub>Osmolality</sub>|Serum osmolality|
+|Na|Stool sodium (mEq/L)|
+|K|Stool potassium (mEq/L)|
+
 ## LaPlace's Law
 
 |Parameter|γ ∝ P × R ÷ T|
