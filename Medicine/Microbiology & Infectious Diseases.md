@@ -921,14 +921,14 @@
 |↓ Release|Neuraminidase|Oseltamivir|Influenza|
 |||Zanamivir|Influenza|
 |↓ Purine synthesis|IMP dehydrogenase|Ribavirin|RSV & HCV|
-|↓ DNA synthesis|Reverse transcriptase<br>:: nucleoside (NRTI)|Abacavir|HIV|
+|↓ DNA synthesis|Reverse transcriptase<br>:: nucleoside (NRTI)|Adefovir|HBV|
 |||Entecavir|HBV|
+|||Telbivudine|HBV|
+|||Abacavir|HIV|
+|||Stavudine|HIV|
+|||Zidovudine|HIV|
 |||Didanosine|HIV|
 |||Lamivudine|HBV & HIV|
-|||Stavudine|HIV|
-|||Telbivudine|HBV|
-|||Zidovudine|HIV|
-|||Adefovir|HBV|
 |||Tenofovir|HBV & HIV|
 ||Reverse transcriptase<br>:: non-nucleoside (NNRTI)|Delavirdine|HIV|
 |||Efavirenz|HIV|
