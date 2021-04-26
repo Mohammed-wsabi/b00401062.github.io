@@ -275,6 +275,7 @@
 |Depth|Transmural|Mucosal & Submucosal|
 |Radiography|String sign|Lead pipe|
 |Colonoscopy|Cobblestones|Pseudopolyps|
+|Immunology|Th1|Th2|
 |Risk of colorectal cancer|↑|↑↑|
 
 ## Grading of Hemorrhoids
