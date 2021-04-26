@@ -522,3 +522,24 @@
 
 - Pericarditis
 - Pancreatitis
+
+## Triad of Hemochromatosis
+
+- Cirrhosis
+- Diabetes melitus
+- Skin pigmentation
+
+## Treatment of Hemochromatosis
+
+- Phlebotomy
+- Chelation
+	- Deferasirox
+	- Deferoxamine
+	- Deferiprone
+
+## Treatment of Wilson Disease
+
+- Zinc
+- Chelation
+	- Penicillamine
+	- Trientine
