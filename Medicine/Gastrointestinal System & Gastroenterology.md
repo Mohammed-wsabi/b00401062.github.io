@@ -84,6 +84,18 @@
 - Cholesterol
 - Phospholipids
 
+## Management of Abdominal Trauma
+
+- Abdominal CT: stable
+- Focused assessment with sonography in trauma (FAST): unstable & blunt trauma
+- Diagnostic peritoneal lavage (DPL): unstable & blunt trauma
+- Exploratory laparotomy: unstable & (penetrating trauma / known etiology)
+
+## Signs of Retroperitoneal Hemorrhage
+
+- Cullen sign
+- Grey Turner sign
+
 ## Etiology of Nausea and Vomiting
 
 - Motion sickness
@@ -258,11 +270,12 @@
 
 ||Crohn Disease|Ulcerative Colitis|
 |-|-|-|
-|Origin|Terminal ileus|Rectum|
+|Involvement|Ileum & Colon|Colon & Rectum|
 |Pattern|Skip|Contiguous|
-|Thickness|Transmural|Mucosal & Submucosal|
+|Depth|Transmural|Mucosal & Submucosal|
 |Radiography|String sign|Lead pipe|
-|Risk of colon cancer|↑|↑↑|
+|Colonoscopy|Cobblestones|Pseudopolyps|
+|Risk of colorectal cancer|↑|↑↑|
 
 ## Grading of Hemorrhoids
 
