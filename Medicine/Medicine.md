@@ -381,25 +381,31 @@
 
 ## Workup of Hyponatremia
 
-- Volume status :: hypovolemic
-	- Urine Na < 20 & FE<sub>NA</sub> < 1%
-		- **GI losses**
-		- **Third spacing**
-	- Urine Na > 20 & FE<sub>Na</sub> > 1%
-		- **Diuretics**
-		- **Adrenal insufficiency**
-- Volume status :: euvolemic
-	- Urine osmolarity < 100
-		- **Polydipsia**
-	- Urine osmolarity > 100
-		- **SIADH**
-		- **Hypothyroidism**
-- Volume status :: hypervolemic
-	- Urine Na < 20 & FE<sub>NA</sub> < 1%
-		- **Heart failure**
-		- **Hepatic failure**
-	- Urine Na > 20 & FE<sub>Na</sub> > 1%
-		- **Renal failure**
+- Serum osmolarity < 280 mEq/L [Hypotonic]
+	- Volume status :: hypovolemic
+		- Urine Na < 20 & FE<sub>NA</sub> < 1%
+			- **GI losses**
+			- **Third spacing**
+		- Urine Na > 20 & FE<sub>Na</sub> > 1%
+			- **Diuretics**
+			- **Adrenal insufficiency**
+	- Volume status :: euvolemic
+		- Urine osmolarity < 100
+			- **Polydipsia**
+		- Urine osmolarity > 100
+			- **SIADH**
+			- **Hypothyroidism**
+	- Volume status :: hypervolemic
+		- Urine Na < 20 & FE<sub>NA</sub> < 1%
+			- **Heart failure**
+			- **Hepatic failure**
+		- Urine Na > 20 & FE<sub>Na</sub> > 1%
+			- **Renal failure**
+- Serum osmolarity 280 ~ 295 mEq/L [Isotonic]
+	- **Hyperlipidemia**
+	- **Hyperproteinemia**
+- Serum osmolarity > 295 mEq/L [Hypertonic]
+	- **Hyperglycemia**
 
 ## Workup of Hypernatremia
 
