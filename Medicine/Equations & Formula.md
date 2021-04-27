@@ -71,7 +71,7 @@
 
 ## Free Water Deficit (FWD)
 
-|Parameter|0.6 × W × (Na - 140) / 140|
+|Parameter|0.6 × W × (Na ÷ 140 - 1)|
 |-|-|
 |W|Weight (kg)|
 |Na|Serum sodium (mEq/L)|
