@@ -380,7 +380,7 @@
 
 ## Workup of Hyponatremia
 
-- Serum osmolarity < 280 mEq/L [Hypotonic]
+- Serum osmolality < 280 mOsm/kg [Hypotonic]
 	- Volume status :: hypovolemic
 		- Urine Na < 20 & FE<sub>Na</sub> < 1%
 			- **GI losses**
@@ -401,10 +401,10 @@
 			- **Hepatic failure**
 		- Urine Na > 20 & FE<sub>Na</sub> > 1%
 			- **Renal failure**
-- Serum osmolarity 280 ~ 295 mEq/L [Isotonic]
+- Serum osmolality 280 ~ 295 mOsm/kg [Isotonic]
 	- **Hyperlipidemia**
 	- **Hyperproteinemia**
-- Serum osmolarity > 295 mEq/L [Hypertonic]
+- Serum osmolality > 295 mOsm/kg [Hypertonic]
 	- **Hyperglycemia**
 
 ## Workup of Hypernatremia
