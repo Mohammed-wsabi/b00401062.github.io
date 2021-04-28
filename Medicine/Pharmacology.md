@@ -360,6 +360,15 @@
 |5α-Reductase inhibitors|Finasteride|BPH & Alopecia|
 ||Spironolactone|Hirsutism|
 
+## Mechanisms of Action of Medications Targeting RAAS
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|Renin inhibitors|Aliskiren|HTN|
+|ACE inhibitors (ACEI)|-Prils|HTN & HF|
+|Angiotensin antagonists (ARB)|-Sartans|HTN & HF|
+|Aldosterone antagonists|Spironolactone<br>Eplerenone|Diuretics|
+
 ## Mechanisms of Action of Medications Targeting Vasopressin Receptor
 
 |Mechanism|Medication|Indications|
