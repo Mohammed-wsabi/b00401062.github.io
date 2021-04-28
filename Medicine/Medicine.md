@@ -385,6 +385,7 @@
 	- Volume status :: hypovolemic
 		- Urine Na < 20 & FE<sub>Na</sub> < 1%
 			- **GI losses**
+			- **Skin losses**
 			- **Third spacing**
 		- Urine Na > 20 & FE<sub>Na</sub> > 1%
 			- **Diuretics**
