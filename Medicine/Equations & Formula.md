@@ -104,7 +104,7 @@
 
 |Parameter|P<sub>Osmolality</sub> - 2 × (Na + K)|
 |-|-|
-|S<sub>Osmolality</sub>|Stool osmolality|
+|S<sub>Osmolality</sub>|Stool osmolality (mOsm/kg)|
 |Na|Stool sodium (mEq/L)|
 |K|Stool potassium (mEq/L)|
 
