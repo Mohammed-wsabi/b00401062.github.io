@@ -390,9 +390,9 @@
 			- **Diuretics**
 			- **Adrenal insufficiency**
 	- Volume status :: euvolemic
-		- Urine osmolarity < 100
+		- Urine osmolality < 100 mOsm/kg
 			- **Polydipsia**
-		- Urine osmolarity > 100
+		- Urine osmolality > 100 mOsm/kg
 			- **SIADH**
 			- **Hypothyroidism**
 	- Volume status :: hypervolemic
@@ -409,10 +409,10 @@
 
 ## Workup of Hypernatremia
 
-- Urine osmolarity < 600
+- Urine osmolality < 600 mOsm/kg
 	- **Diabetes insipidus**
 	- **Diuretics** :: osmotic
-- Urine osmolarity > 800
+- Urine osmolality > 800 mOsm/kg
 	- Urine Na < 25
 		- **GI losses**
 		- **Seizures**
