@@ -412,8 +412,8 @@
 - Urine osmolality < 600 mOsm/kg
 	- **Diabetes insipidus**
 	- **Diuretics** :: osmotic
-- Urine osmolality > 800 mOsm/kg
-	- Urine Na < 20
+- Urine osmolality > 600 mOsm/kg
+	- Urine Na < 25
 		- **GI losses**
 		- **Skin losses**
 		- **Seizures**
