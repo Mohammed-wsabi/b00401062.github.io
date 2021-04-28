@@ -396,7 +396,7 @@
 			- **SIADH**
 			- **Hypothyroidism**
 	- Volume status :: hypervolemic
-		- Urine Na < 20 & FE<sub>NA</sub> < 1%
+		- Urine Na < 20 & FE<sub>Na</sub> < 1%
 			- **Heart failure**
 			- **Hepatic failure**
 		- Urine Na > 20 & FE<sub>Na</sub> > 1%
