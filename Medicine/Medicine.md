@@ -413,13 +413,13 @@
 	- **Diabetes insipidus**
 	- **Diuretics** :: osmotic
 - Urine osmolality > 800 mOsm/kg
-	- Urine Na < 25
+	- Urine Na < 20
 		- **GI losses**
+		- **Skin losses**
 		- **Seizures**
 		- **Eexercise**
 	- Urine Na > 100
 		- **Fluids** :: hypertonic saline
-		- **Hyperaldosteronism**
 
 ## Treatment of Hyperkalemia
 
