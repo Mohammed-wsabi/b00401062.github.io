@@ -51,7 +51,7 @@
 |-|-|-|
 |Na channel activators|Batrachotoxin & Ciguatoxin|-|
 |Na channel blockers|Class 1 antiarrhythmics|Arrhythmia|
-||Caines|Anesthesia|
+||-Caines|Anesthesia|
 ||Amiloride & Triamterene|Diuretics :: K-sparing diuretics|
 ||Carbamazepine|Seizure & Bipolar|
 ||Phenytoin|Seizure|
