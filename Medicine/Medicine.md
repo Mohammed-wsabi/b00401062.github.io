@@ -427,7 +427,7 @@
 - β agonists :: Albuterol
 - Bicarbonate
 - Calcium
-- Polystyrene sulfonate: Kalimate / Kayexalate
+- Polystyrene sulfonate: Kalimate & Kayexalate
 - Diuretics :: Loop diuretics
 
 ## Etiology of Hypercalcemia {CHIMPANZEES}
