@@ -347,7 +347,6 @@
 	- **Cystic fibrosis**
 - Urine Cl > 20 [Saline-resistant]
 	- Normotensive
-		- **Hypokalemia**
 		- **Bartter syndrome**
 		- **Gitelman syndrome**
 		- **Diuretics** :: Loop diuretics & Thiazide
