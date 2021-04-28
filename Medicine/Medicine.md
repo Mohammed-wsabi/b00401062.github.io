@@ -448,7 +448,7 @@
 ## Treatment of Hypercalcemia
 
 - Hydration
-- Diuretics :: loop diuretics
+- Diuretics :: Loop diuretics
 - Calcitonin
 - Bisphosphonate
 - Glucocorticoids
