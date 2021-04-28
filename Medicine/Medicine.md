@@ -374,7 +374,7 @@
 
 |System|Hypocalcemia|Hypercalcemia|
 |-|-|-|
-|Endocrine|2° Hyperparathyroidism|2° Hyperparathyroidism|
+|Endocrine|2° Hyperparathyroidism|2° Hypoparathyroidism|
 |Cardiovascular|Prolonged QT interval & Bradycardia|Shortened QT interval & Tachycardia|
 |Neuromuscular|Muscle spasms → Trousseau sign & Chvostek sign|Muscle weakness|
 
@@ -429,6 +429,14 @@
 - Calcium
 - Polystyrene sulfonate: Kalimate & Kayexalate
 - Diuretics :: Loop diuretics
+
+## Presentation of Hypercalcemia
+
+- Constipation
+- Polyuria
+- Kidney stones
+- Bone pain
+- Psychiatric overtones
 
 ## Etiology of Hypercalcemia {CHIMPANZEES}
 
