@@ -72,8 +72,8 @@
 |Na-K pump blockers|Digoxin & Digitalis|Arrhythmia & Inotrope|
 ||Ouabain|-|
 |H-K pump blockers|Proton pump inhibitors (PPI) [-Prazoles]|PUD|
-|Na-Cl sympoter blockers|Thiazide|Diuretics|
 |Na-K-2Cl sympoter blockers|Loop diuretics:<br>Furosemide<br>Bumetanide<br>Torsemide|Diuretics|
+|Na-Cl sympoter blockers|Thiazide|Diuretics|
 |Na-I sympoter blockers|Thiocyanate<br>Perchlorate<br>Iodine|Hyperthyroidism|
 
 ## Mechanisms of Action of Medications Targeting Cholinergic Neurons
