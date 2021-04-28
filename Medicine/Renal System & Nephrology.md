@@ -47,16 +47,6 @@
 |Oliguria|< 0.5 mL/kg/h|< 500 mL/d|
 |Anuria|0 mL/kg/h|< 100 mL/d|
 
-## Mechanisms of Action of Medications Targeting RAAS
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|Renin inhibitors|Aliskiren|HTN|
-|ACE inhibitors (ACEI)|-Prils|HTN & HF|
-|Angiotensin antagonists (ARB)|-Sartans|HTN & HF|
-|Aldosterone antagonists|Spironolactone|Diuretics|
-||Eplerenone|Diuretics|
-
 ## Mechanisms of Action of Diuretics
 
 |Mechanism|Mnemonic|Medication|Indications|Location|Serum K|Serum H|Serum Ca|
