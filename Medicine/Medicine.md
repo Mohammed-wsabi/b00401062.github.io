@@ -383,7 +383,7 @@
 
 - Serum osmolarity < 280 mEq/L [Hypotonic]
 	- Volume status :: hypovolemic
-		- Urine Na < 20 & FE<sub>NA</sub> < 1%
+		- Urine Na < 20 & FE<sub>Na</sub> < 1%
 			- **GI losses**
 			- **Third spacing**
 		- Urine Na > 20 & FE<sub>Na</sub> > 1%
