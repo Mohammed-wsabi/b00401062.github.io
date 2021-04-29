@@ -354,29 +354,29 @@
 		- **Hyperaldosteronism**
 		- **Liddle syndrome**
 
-## Presentation of Electrolyte Disturbances
+## ECG Changes in Electrolyte Disturbances
 
-### Sodium
+### Hypokalemia
 
-|System|Hyponatremia|Hypernatremia|
-|-|-|-|
-|Neurological|Cerebral edema|Thirst & Restlessness|
-|Neuromuscular|Muscle cramps|Muscle weakness|
+- Flattened T waves
+- U waves
 
-### Potassium
+### Hyperkalemia
 
-|System|Hypokalemia|Hyperkalemia|
-|-|-|-|
-|Cardiovascular|Flattened T waves<br>U waves|Flattened P waves<br>Widened QRS complexes<br>Peaked T waves<br>Sine waves|
-|Neuromuscular|Muscle cramps|Muscle weakness|
+- Flattened P waves
+- Widened QRS complexes
+- Peaked T waves
+- Sine waves
 
-### Calcium
+### Hypocalcemia
 
-|System|Hypocalcemia|Hypercalcemia|
-|-|-|-|
-|Endocrine|2° Hyperparathyroidism|2° Hypoparathyroidism|
-|Cardiovascular|Prolonged QT interval & Bradycardia|Shortened QT interval & Tachycardia|
-|Neuromuscular|Muscle spasms → Trousseau sign & Chvostek sign|Muscle weakness|
+-- Prolonged QT interval
+-- Bradycardia
+
+### Hypercalcemia
+
+- Shortened QT interval
+- Tachycardia
 
 ## Workup of Hyponatremia
 
