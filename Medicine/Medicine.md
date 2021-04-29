@@ -370,8 +370,8 @@
 
 ### Hypocalcemia
 
--- Prolonged QT interval
--- Bradycardia
+- Prolonged QT interval
+- Bradycardia
 
 ### Hypercalcemia
 
