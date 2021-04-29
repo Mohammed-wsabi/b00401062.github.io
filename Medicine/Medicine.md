@@ -258,7 +258,6 @@
 		- **Pneumothorax**
 		- **Pleural effusions**
 		- **Hemothorax**
-		-
 	- Alveoli
 		- **Emphysema**
 		- **Pulmonary edema**
