@@ -318,11 +318,12 @@
 - Sclerodactyly
 - Telangiectasia
 
-## Presentation of Henoch-Schonlein Purpura (HSP)
+## Triad of Henoch-Schonlein Purpura (HSP)
 
 - Abdominal pain
 - Arthritis
 - Rashes
+- ± IgA nephropathy
 
 ## Presentation of Dermatomyositis
 
