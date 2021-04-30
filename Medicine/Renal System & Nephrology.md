@@ -95,12 +95,12 @@
 
 ## Classification of Acute Kidney Injury (AKI)
 
-|Variable|Prerenal|Renal|
-|-|-|-|
-|Urine osmolality|> 500|< 350|
-|Urine Na|< 20|> 40|
-|FE<sub>Na</sub>|< 1%|> 2%|
-|Serum BUN/Cr|> 20|< 15|
+|Variable|Prerenal|Renal|Postrenal|
+|-|-|-|-|
+|Urine osmolality|> 500|< 350|-|
+|Urine Na|< 20|> 40|-|
+|FE<sub>Na</sub>|< 1%|> 2%|-|
+|Serum BUN/Cr|> 20|< 15|-|
 
 ## Staging of Acute Kidney Injury (AKI)
 
@@ -196,4 +196,5 @@
 |-|-|-|-|-|
 |1|Distal|H secretion|↓|↑|
 |2|Proximal|HCO<sub>3</sub> reabsorption|↓|↑|
+|3|Mixed|-|-|-|
 |4|Hyperkalemic|Aldosterone|↑|↑|
