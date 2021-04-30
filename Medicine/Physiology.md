@@ -62,9 +62,7 @@
 |-|-|-|
 |Calcitonin|Bone|↓ Resorption|
 |PTH|Bone|↑ Resorption|
-||Kidney|↑ Reabsorption of Ca|
-|||↓ Reabsorption of phosphate|
-|||↑ 1α-hydroxylase|
+||Kidney|↑ Reabsorption of Ca<br>↓ Reabsorption of phosphate<br>↑ 1α-hydroxylase|
 |Vitamin D|Bone|↑ Mineralization & Resorption|
 ||Kidney|↑ Reabsorption of Ca & phosphate|
 ||Intestine|↑ Absorption of Ca & phosphate|
