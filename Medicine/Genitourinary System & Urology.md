@@ -13,7 +13,6 @@
 
 |Type|Urgency|Nocturia|Residual volume|Etiology|
 |-|-|-|-|-|
-|Irritative|+|+|-|Irritation|
 |Stress|-|-|-|Pelvic relaxation|
 |Urge|+|+|↓|Overactive bladder (OAB)|
 |Overflow|-|+|↑|Neuromuscular disorders|
