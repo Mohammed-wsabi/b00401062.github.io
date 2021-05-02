@@ -153,7 +153,7 @@
 
 ## Classification of Glomerulopathy {IAA-GEM-RAMD-MMF-DA}
 
-|Glomerulopathy|Nephritis|Nephrosis|LM/EM|IF|IC|C3|Associations|
+|Glomerulopathy|Nephritis|Nephrosis|LM/IF/EM|IC Shape|IC Location|C3|Associations|
 |-|-|-|-|-|-|-|-|
 |IgA nephropathy [Berger disease]|+|-|Mesangial proliferation|Mesangial|Mesangial|-|HSP|
 |Alport syndrome|+|-|Basket-weave|-|-|-|-|
