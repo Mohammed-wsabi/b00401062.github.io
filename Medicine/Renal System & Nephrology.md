@@ -167,7 +167,7 @@
 |Diffuse proliferative glomerulonephritis (DPGN)|+|+|Wire looping|Granular|Subendothelial|↓|SLE|
 |Membranous nephropathy|-|+|GBM thickening<br>Spike-and-dome|Granular|Subepithelial|-|SLE & HBV & HCV|
 |Minimal change disease (MCD)|-|+|Podocyte effacement|-|-|-|-|
-|Focal segmental glomerulosclerosis (FSGS)|-|+|Segmental sclerosis<br>Podocyte effacement|-|-|-|HIV|
+|Focal segmental glomerulosclerosis (FSGS)|-|+|Segmental sclerosis<br>Hyalinosis<br>Podocyte effacement|-|-|-|HIV|
 |Diabetic nephropathy|-|+|Nodular sclerosis|-|-|-|-|
 |Amyloid nephropathy|-|+|Nodular sclerosis|-|-|-|-|
 
