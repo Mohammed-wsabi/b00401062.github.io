@@ -163,7 +163,7 @@
 |Microscopic polyangiitis|+|-|Crescent|-|-|-|MPO-ANCA [p-ANCA]|
 |Rapidly progressive glomerulonephritis (RPGN)|+|-|Crescent|-|-|-|-|
 |Acute proliferative glomerulonephritis (APGN)|+|-|Lumpy-bumpy<br>Starry sky|Granular|Subepithelial|↓|GAS|
-|Membranoproliferative glomerulonephritis (MPGN)|+|+|Tram-track|Granular|Subendothelial|↓|SLE & HBV & HCV|
+|Membranoproliferative glomerulonephritis (MPGN)|+|+|Mesangial proliferation<br>Tram-track|Granular|Subendothelial|↓|SLE & HBV & HCV|
 |Diffuse proliferative glomerulonephritis (DPGN)|+|+|Wire looping|Granular|Subendothelial|↓|SLE|
 |Membranous nephropathy|-|+|GBM thickening<br>Spike-and-dome|Granular|Subepithelial|-|SLE & HBV & HCV|
 |Minimal change disease (MCD)|-|+|Podocyte effacement|-|-|-|-|
