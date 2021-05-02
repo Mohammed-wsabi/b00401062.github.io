@@ -158,8 +158,8 @@
 |IgA nephropathy [Berger disease]|+|-|Mesangial proliferation|Mesangial|Mesangial|-|HSP|
 |Alport syndrome|+|-|Basket-weave|-|-|-|-|
 |Anti-GBM disease [Goodpasture syndrome]|+|-|Crescent|Linear|GBM|-|-|
-|Granulomatosis with polyangiitis (GPA)|+|-|Crescent|-|-|-|PR3-ANCA [c-ANCA]|
-|Eosinophilic granulomatosis with polyangiitis (EGPA)|+|-|Crescent|-|-|-|MPO-ANCA [p-ANCA]|
+|Granulomatosis with polyangiitis (GPA) [Wegener granulomatosis]|+|-|Crescent|-|-|-|PR3-ANCA [c-ANCA]|
+|Eosinophilic granulomatosis with polyangiitis (EGPA) [Churg-Strauss syndrome]|+|-|Crescent|-|-|-|MPO-ANCA [p-ANCA]|
 |Microscopic polyangiitis|+|-|Crescent|-|-|-|MPO-ANCA [p-ANCA]|
 |Rapidly progressive glomerulonephritis (RPGN)|+|-|Crescent|-|-|-|-|
 |Acute proliferative glomerulonephritis (APGN)|+|-|Lumpy-bumpy<br>Starry sky|Granular|Subepithelial|↓|GAS|
