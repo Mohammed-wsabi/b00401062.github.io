@@ -66,11 +66,11 @@
 
 |Diagnosis|TRH|TSH|TH|
 |-|-|-|-|
-|Primary hypothyroidism|↑|↑|↓ (1°)|
-|Central hypothyroidism|↑|↓ (1°)|↓|
+|1° hypothyroidism|↑|↑|↓ (1°)|
+|2° hypothyroidism|↑|↓ (1°)|↓|
 |Struma ovarii|↓|↓|↑ (1°)|
-|Primary hyperthyroidism|↓|↓|↑ (1°)|
-|Central hyperthyroidism|↓|↑ (1°)|↑|
+|1° hyperthyroidism|↓|↓|↑ (1°)|
+|2° hyperthyroidism|↓|↑ (1°)|↑|
 
 ## Presentation of Hypothyroidism {WAS-TIRED}
 
