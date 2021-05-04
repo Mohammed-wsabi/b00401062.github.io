@@ -50,6 +50,10 @@
 - Interstitial lung diseases
 - V/Q mismatch
 
+## Respiratory Patterns
+
+![](../Figures/Respiratory%20Patterns.png)
+
 ## Etiology of Kussmaul Breathing {KUSSMAUL}
 
 - Ketoacidosis
