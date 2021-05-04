@@ -256,15 +256,12 @@
 
 |Mechanism|Effects|Medication|Indications|
 |-|-|-|-|
-|Insulin :: rapid acting|↑ Insulin|Lispro & Aspart & Glulisine|DM|
-|Insulin :: short acting|↑ Insulin|Regular insulin|DM|
-|Insulin :: intermediate acting|↑ Insulin|NPH insulin|DM|
-|Insulin :: long acting|↑ Insulin|Glargine & Detemir|DM|
-|K channel blockers|↑ Insulin|1° Sulfonylurea :: Tolbutamide|DM type 2|
-|||1° Sulfonylurea :: Chlorpropamide|DM type 2|
-|||2° Sulfonylurea :: Glimepiride|DM type 2|
-|||2° Sulfonylurea :: Glipizide|DM type 2|
-|||2° Sulfonylurea :: Glyburide|DM type 2|
+|Insulin|↑ Insulin|Rapid acting:<br>Lispro<br>Aspart<br>Glulisine|DM|
+|||Short acting:<br>Regular insulin|DM|
+|||Intermediate acting:<br>NPH insulin|DM|
+|||Long acting:<br>Glargine<br>Detemir|DM|
+|K channel blockers|↑ Insulin|1° Sulfonylurea:<br>Tolbutamide<br>Chlorpropamide|DM type 2|
+|||2° Sulfonylurea:<br>Glimepiride<br>Glipizide<br>Glyburide|DM type 2|
 |||Meglitinides [-Glinides]|DM type 2|
 |DPP-4 inhibitors|↑ Insulin & ↓ Glucagon|-Gliptins|DM type 2|
 |GLP-1 analogs|↑ Insulin & ↓ Glucagon|Exenatide|DM type 2|
