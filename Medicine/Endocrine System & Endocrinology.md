@@ -273,6 +273,8 @@
 |AMPK inducers|↑ Insulin sensitivity|Biguanides:<br>Metformin|DM type 2|
 |PPAR-γ inducers|↑ Insulin sensitivity|Thiazolidinediones [-Glitazones]|DM type 2|
 
+![](../Figures/Types%20of%20Insulin.png)
+
 ## Treatment of Acute Hyperglycemia
 
 - Fluids :: isotonic saline
