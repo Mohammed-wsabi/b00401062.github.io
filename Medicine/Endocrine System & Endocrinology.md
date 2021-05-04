@@ -269,7 +269,7 @@
 |Amylin analogs|↓ Glucagon|Pramlintide|DM|
 |α-Glucosidase inhibitors|↓ Glucose|Acarbose|DM type 2|
 |||Miglitol|DM type 2|
-|SGLT-2 inhibitors|↓ Glucose|Gliflozins|DM type 2|
+|SGLT-2 inhibitors|↓ Glucose|-Gliflozins|DM type 2|
 |AMPK inducers|↑ Insulin sensitivity|Biguanides:<br>Metformin|DM type 2|
 |PPAR-γ inducers|↑ Insulin sensitivity|Thiazolidinediones [-Glitazones]|DM type 2|
 
