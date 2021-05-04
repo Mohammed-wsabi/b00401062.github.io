@@ -271,7 +271,7 @@
 |||Miglitol|DM type 2|
 |SGLT-2 inhibitors|↓ Glucose|Gliflozins|DM type 2|
 |AMPK inducers|↑ Insulin sensitivity|Biguanides:<br>Metformin|DM type 2|
-|PPAR-γ inducers|↑ Insulin sensitivity|Thiazolidinedione [-Glitazones]|DM type 2|
+|PPAR-γ inducers|↑ Insulin sensitivity|Thiazolidinediones [-Glitazones]|DM type 2|
 
 ## Treatment of Acute Hyperglycemia
 
