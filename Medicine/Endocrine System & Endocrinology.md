@@ -19,7 +19,7 @@
 |Hypothalamus|Pituitary|Periphery|
 |-|-|-|
 |TRH|↑ TSH & PRL|TH|
-|CRH|↑ ACTH|Cortisol|
+|CRH|↑ ACTH & MSH|Cortisol & Melanin|
 |GnRH|↑ LH & FSH|SH|
 |GHRH|↑ GH|IGF-1|
 |Somatostatin|↓ GH & TSH & 5-HT|-|
