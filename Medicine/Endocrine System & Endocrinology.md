@@ -23,7 +23,7 @@
 |GnRH|↑ LH & FSH|SH|
 |GHRH|↑ GH|IGF-1|
 |Somatostatin|↓ GH & TSH & 5-HT|-|
-|Dopamine|↓ GH & PRL|-|
+|Dopamine|↓ TSH & PRL|-|
 |Vasopressin|↑ ACTH|-|
 |Oxytocin|-|-|
 
