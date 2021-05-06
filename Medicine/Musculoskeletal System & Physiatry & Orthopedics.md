@@ -80,7 +80,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|PTH antagonists|Teriparatide :: pulsatile|Osteoporosis|
+|PTH antagonists<br>Osteoblast inducers|Teriparatide :: pulsatile|Osteoporosis|
 |Estrogen modulators|Raloxifene|Osteoporosis|
 |Osteoclast inhibitors|Bisphosphonate [-Dronates]|Osteoporosis|
 |RANKL inhibitors|Denosumab|Osteoporosis|
