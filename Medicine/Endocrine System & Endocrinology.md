@@ -131,6 +131,21 @@
 - Psychiatric overtones
 - Depression
 
+## Treatment of Acromegaly
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|Somatostatin agonists|Octreotide|Acromegaly|
+||Lanreotide|Acromegaly|
+|GH antagonists|Pegvisomant|Acromegaly|
+
+## Treatment of Hyperprolactinemia
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|D<sub>2</sub> agonists|Bromocriptine|Hyperprolactinemia|
+||Cabergoline|Hyperprolactinemia|
+
 ## Layers of Adrenal Cortex
 
 |Mnemonic|Layer|Mnemonic|Secretion|
