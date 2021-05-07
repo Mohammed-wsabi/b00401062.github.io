@@ -42,7 +42,7 @@
 	- Muscularis mucosa
 - Submucosa layer
 	- Submucosal gland
-	- Submucosal [Meimeissner] plexus
+	- Submucosal [Meissner] plexus
 - Muscular layer
 	- Inner circular layer
 	- Myenteric [Auerbach] plexus
