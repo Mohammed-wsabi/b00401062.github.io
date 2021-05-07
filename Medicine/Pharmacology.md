@@ -187,7 +187,7 @@
 ||Salmeterol & Formoterol|Asthma :: chronic|
 ||Terbutaline & Ritodrine|Tocolysis|
 |β agonists|Epinephrine: β > α<sub>1</sub>|Hypotension & Asthma & Shock|
-||Isoproterenol: β|-|
+||Isoproterenol: β<sub>1</sub> = β<sub>2</sub>|-|
 
 ## Mechanisms of Action of Adrenergic Antagonists
 
