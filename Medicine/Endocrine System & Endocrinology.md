@@ -32,7 +32,7 @@
 |Endocrine Gland|1° Hormones|2° Stimulation|3° Stimulation|Effect|
 |-|-|-|-|-|
 |Hypothalamus|Vasopressin|-|-|↓ Osmolarity & ↑ BP|
-||Oxytocin|-|-|-|↑ Contraction|
+||Oxytocin|-|-|↑ Contraction|
 |Thyroid|TH|↑ TSH|↑ TRH|↑ Metabolism|
 ||Calcitonin|-|-|↓ Ca|
 |Parathyroid|PTH|-|-|↑ Ca & ↓ Phosphate|
