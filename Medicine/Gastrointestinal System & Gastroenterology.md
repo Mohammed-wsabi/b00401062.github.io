@@ -312,7 +312,7 @@
 
 ||SAAG < 1.1|SAAG > 1.1|
 |-|-|-|
-|TAP < 2.5|Nephrotic syndrome|Cirrhosis|
+|TAP < 2.5|Nephrosis|Cirrhosis|
 |TAP > 2.5|Cancer & Infection|Right heart failure & Budd-Chiari syndrome|
 
 - Serum-Ascites albumin gradient (SAAG)
