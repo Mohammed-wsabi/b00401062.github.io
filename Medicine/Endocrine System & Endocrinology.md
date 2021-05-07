@@ -31,17 +31,19 @@
 
 |Endocrine Gland|1° Hormones|2° Stimulation|3° Stimulation|Effect|
 |-|-|-|-|-|
+|Hypothalamus|Vasopressin|-|-|↓ Osmolarity & ↑ BP|
+||Oxytocin|-|-|-|↑ Contraction|
 |Thyroid|TH|↑ TSH|↑ TRH|↑ Metabolism|
-||Calcitonin|↑ Ca|-|↓ Ca|
-|Parathyroid|PTH|↓ Ca & ↑ Phosphate|-|↑ Ca & ↓ Phosphate|
-|Adrenal|Aldosterone|↑ Renin|↓ Na & BP|↑ Na & BP|
+||Calcitonin|-|-|↓ Ca|
+|Parathyroid|PTH|-|-|↑ Ca & ↓ Phosphate|
+|Adrenal|Aldosterone|↑ Angiotensin|↑ Renin|↑ Na & BP|
 ||Cortisol|↑ ACTH|↑ CRH|↑ Glucose|
 ||SH|-|-|↑ Sex|
 |Gonad|SH|↑ LH & FSH|↑ GnRH|↑ Sex|
 |Liver|IGF-1|↑ GH|↑ GHRH|↑ Glucose|
-|Pancreas|Glucagon|↓ Glucose|-|↑ Glucose|
-||Insulin|↑ Glucose|-|↓ Glucose|
-|Kidney|EPO|↓ O<sub>2</sub> & Hb|-|↑ O<sub>2</sub> & Hb|
+|Pancreas|Glucagon|-|-|↑ Glucose|
+||Insulin|-|-|↓ Glucose|
+|Kidney|EPO|-|-|↑ O<sub>2</sub> & Hb|
 
 ## Insensitivity of Endocrine Receptors
 
