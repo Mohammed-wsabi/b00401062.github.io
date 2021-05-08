@@ -213,6 +213,7 @@
 |-|-|
 |A3|Hemochromatosis|
 |B27|Psoriatic arthritis<br>Ankylosing spondylitis<br>Inammatory bowel disease<br>Reactive arthritis|
+|B51|Behcet disease|
 |B5801|Stevens-Johnson syndrome (SJS)|
 |DQ2<br>DQ8|Celiac disease|
 |DR2|Multiple sclerosis<br>Hay fever<br>SLE<br>Goodpasture syndrome|
