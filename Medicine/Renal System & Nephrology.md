@@ -196,5 +196,5 @@
 |-|-|-|-|-|
 |1|Distal|H secretion|↓|↑|
 |2|Proximal|HCO<sub>3</sub> reabsorption|↓|↑|
-|3|Mixed|-|-|-|
+|3|Mixed|-|↓|↑|
 |4|Hyperkalemic|Aldosterone|↑|↑|
