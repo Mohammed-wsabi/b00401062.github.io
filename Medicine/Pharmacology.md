@@ -678,6 +678,11 @@
 |Awesome|Alcohol|
 |Knockers|Ketoconazole|
 
+## Medications Causing Nephrogenic DI
+
+- Lithium
+- Demeclocycline
+
 ## Medications Causing SIADH
 
 |Mnemonic|Medication|
