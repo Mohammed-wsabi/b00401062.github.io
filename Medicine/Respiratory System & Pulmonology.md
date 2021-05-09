@@ -137,6 +137,11 @@
 - Hemoptysis
 - Malignancy
 
+## Sputum Sample for Gram Stain
+
+- PMNs > 25/HPF
+- Epithelial cells < 10/HPF
+
 ## Pathogens of Bronchiolitis
 
 - Adenovirus
