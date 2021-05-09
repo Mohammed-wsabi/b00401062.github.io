@@ -163,6 +163,14 @@
 - Chlamydia
 - RSV
 
+## CURB-65 Score for Pneumonia Severity
+
+- Confusion
+- Uremia :: BUN > 19
+- Respiratory rate > 30
+- Blood pressure :: SBP/DBP < 90/60 mm Hg
+- Age > 65 years
+
 ## Empirical Antibiotics for Pneumonia
 
 |Patient|Antibiotics|
