@@ -141,6 +141,12 @@
 - Antihistamine :: intranasal
 - 1° antihistamine :: oral
 
+## Pathogens of Sinusitis {SHM}
+
+- Streptococcus pneumonia
+- Haemophilus influenzae
+- Moraxella catarrhalis
+
 ## Pathogens of Tonsillitis
 
 - Group A streptococcus (GAS)
