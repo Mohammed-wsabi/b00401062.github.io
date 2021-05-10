@@ -181,7 +181,7 @@
 
 |Patient|Antibiotics|
 |-|-|
-|CAP & Uncomplicated|Macrolides<br>Doxycycline|
+|CAP & Uncomplicated|Amoxicillin<br>Macrolides / Doxycycline|
 |CAP & Complicated|Amoxicillin & (Macrolides / Doxycycline)<br>Fluoroquinolones|
 |CAP & Inpatient|Anti-pseudomonal β-lactams & (Macrolides / Doxycycline)<br>Fluoroquinolones|
 |CAP & ICU|Anti-pseudomonal β-lactams & (Macrolides / Doxycycline / Fluoroquinolones)|
