@@ -153,15 +153,21 @@
 
 ## Pathogens of Pneumonia
 
+### Lobar Pneumonia & Bronchopneumonia
+
+- Staphylococcus aureus
 - Streptococcus pneumonia
 - Haemophilus influenzae
-- Moraxella catarrhalis
 - Klebsiella pneumoniae
 - Pseudomonas aeruginosa
+- Anaerobes
+- Viruses
+
+### Atypical Pneumonia {LCM}
+
 - Legionella
-- Mycoplasma
 - Chlamydia
-- RSV
+- Mycoplasma
 
 ## CURB-65 Score for Pneumonia Severity
 
