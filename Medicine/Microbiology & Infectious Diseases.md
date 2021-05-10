@@ -914,25 +914,15 @@
 |-|-|-|-|
 |↓ Attachment|Gp120|Maraviroc|HIV|
 |↓ Penetration|Gp41|Enfuvirtide|HIV|
-|↓ Uncoating|-|Amantadine|Influenza|
-||-|Rimantadine|Influenza|
+|↓ Uncoating|-|Amantadine<br>Rimantadine|Influenza|
 |↓ Systhesis|Purine & DNA & Protein|-|-|
 |↓ Assembly|Protease (PI) :: Pol|Navirs|HIV|
-|↓ Release|Neuraminidase|Oseltamivir|Influenza|
-|||Zanamivir|Influenza|
+|↓ Release|Neuraminidase|Oseltamivir<br>Zanamivir|Influenza|
 |↓ Purine synthesis|IMP dehydrogenase|Ribavirin|RSV & HCV|
-|↓ DNA synthesis|Reverse transcriptase<br>:: nucleoside (NRTI)|Adefovir|HBV|
-|||Entecavir|HBV|
-|||Telbivudine|HBV|
-|||Abacavir|HIV|
-|||Stavudine|HIV|
-|||Zidovudine|HIV|
-|||Didanosine|HIV|
-|||Lamivudine|HBV & HIV|
-|||Tenofovir|HBV & HIV|
-||Reverse transcriptase<br>:: non-nucleoside (NNRTI)|Delavirdine|HIV|
-|||Efavirenz|HIV|
-|||Nevirapine|HIV|
+|↓ DNA synthesis|Reverse transcriptase<br>:: nucleoside (NRTI)|Adefovir<br>Entecavir<br>Telbivudine|HBV|
+|||Abacavir<br>Stavudine<br>Zidovudine<br>Didanosine|HIV|
+|||Lamivudine<br>Tenofovir|HBV & HIV|
+||Reverse transcriptase<br>:: non-nucleoside (NNRTI)|Delavirdine<br>Efavirenz<br>Nevirapine|HIV|
 ||Integrase (INSTI)|Gravirs|HIV|
 ||Protease (PI) :: NS3/4A|Previrs|HCV|
 ||DNA polymerase|Acyclovir|HSV & VZV|
