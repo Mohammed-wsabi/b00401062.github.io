@@ -553,7 +553,7 @@
 
 |Patient|Antibiotics|
 |-|-|
-|≤ 1 month|Penicillinase-sensitive penicillin & (3° Cephalosporins / Aminoglycosides)|
+|≤ 1 month|Ampicillin & (3° Cephalosporins / Aminoglycosides)|
 |1 ~ 3 months|3° Cephalosporins & Vancomycin|
 |3 months ~ 60 years|3° Cephalosporins & Vancomycin|
 |≥ 60 years / Complicated|Ampicillin & 3° Cephalosporins & Vancomycin|
