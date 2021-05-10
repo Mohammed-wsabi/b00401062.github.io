@@ -129,6 +129,11 @@
 
 ![](../Figures/Tympanometry.gif)
 
+## Pathogens of Otitis Externa
+
+- Enterobacter
+- Pseudomonas
+
 ## Pathogens of Otitis Media {SHM}
 
 - Streptococcus pneumonia
