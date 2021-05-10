@@ -146,6 +146,7 @@
 - Streptococcus pneumonia
 - Haemophilus influenzae
 - Moraxella catarrhalis
+- Mucor and Rhizopus
 
 ## Pathogens of Tonsillitis
 
