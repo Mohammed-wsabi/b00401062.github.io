@@ -693,9 +693,9 @@
 
 ## Presentation of Measle Virus Infection {3C1K1R}
 
-- Cough
-- Coryza
 - Conjunctivitis
+- Coryza
+- Cough
 - Koplik spot
 - Rash :: downward
 
