@@ -966,6 +966,14 @@
 - Rheumatic fever & Rheumatoid arthritis
 - Lupus & Leprosy
 
+## Presentation and Stages of Syphilis
+
+|Stage|Presentation|
+|-|-|
+|1|Painless chancre|
+|2|condylomata lata<br>Maculopapular rash|
+|3|Gummas<br>Aortitis<br>Tabes dorsalis<br>Argyll Robertson pupil|
+
 ## Treatment of Syphilis
 
 - Penicillin
