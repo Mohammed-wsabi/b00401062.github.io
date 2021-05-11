@@ -405,8 +405,9 @@
 |Gardnerella vaginalis|Discharge :: grayish & fishy|Metronidazole|
 |Neisseria gonorrhoea|Pelvic inflammatory disease (PID)|Ceftriaxone|
 |Haemophilus ducreyi|Painful chancroid|-|
+|Klebsiella granulomatis|Granuloma inguinale|Macrolides<br>Doxycycline|
 |Treponema pallidum|Painless chancre & Condyloma lata|Penicillin|
-|Chlamydia trachomatis|Pelvic inflammatory disease (PID) & Lymphogranuloma venereum|Azithromycin / Doxycycline|
+|Chlamydia trachomatis|Pelvic inflammatory disease (PID)<br>Lymphogranuloma venereum|Macrolides<br>Doxycycline|
 |Candida albicans|Discharge :: white & curdy|-|
 |Trichomonas vaginalis|Discharge :: green & frothy|Metronidazole|
 |HPV|Condyloma accumulata|-|
