@@ -965,3 +965,8 @@
 - Drugs
 - Rheumatic fever & Rheumatoid arthritis
 - Lupus & Leprosy
+
+## Treatment of Syphilis
+
+- Penicillin
+- Doxycycline
