@@ -408,7 +408,7 @@
 |Klebsiella granulomatis|Granuloma inguinale|Macrolides<br>Doxycycline|
 |Treponema pallidum|Painless chancre & Condyloma lata|Penicillin|
 |Chlamydia trachomatis|Pelvic inflammatory disease (PID)<br>Lymphogranuloma venereum|Macrolides<br>Doxycycline|
-|Candida albicans|Discharge :: white & curdy|-|
+|Candida albicans|Discharge :: white & curdy|Azoles|
 |Trichomonas vaginalis|Discharge :: green & frothy|Metronidazole|
 |HPV|Condyloma accumulata|-|
 |HSV|Paniful ulcers|-|
