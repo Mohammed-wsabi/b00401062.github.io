@@ -530,16 +530,7 @@
 - Bisection of lines
 - Copy of drawings
 
-## Pathogens of Meningitis
-
-- Streptococcus pneumonia
-- Haemophilus influenzae
-- Neisseria meningitidis
-- Enterovirus
-- HSV & HIV
-- Cryptococcus
-
-## CSF Findings in Meningitis
+## CSF Findings in Meningitis & Encephalitis
 
 ||Pressure|Cell|Glucose|Protein|
 |-|-|-|-|-|
@@ -548,6 +539,25 @@
 |Bacterial|↑|PMN|↓|↑|
 |Fungal & TB|↑|Lymphocyte|↓|↑|
 |Viral|↑|Lymphocyte|-|↑|
+
+## Pathogens of Encephalitis
+
+- Arbovirus
+- Enterovirus
+- HSV
+- VZV
+- CMV
+- Toxoplasmosis
+- Malaria
+
+## Pathogens of Meningitis
+
+- Streptococcus pneumonia
+- Haemophilus influenzae
+- Neisseria meningitidis
+- Enterovirus
+- HSV & HIV
+- Cryptococcus
 
 ## Empirical Antibiotics for Meningitis
 
