@@ -403,13 +403,13 @@
 |Pathogen|Presentation|Treatment|
 |-|-|-|
 |Gardnerella vaginalis|Discharge :: grayish & fishy|Metronidazole|
-|Neisseria gonorrhoea|Pelvic inflammatory disease (PID)|Ceftriaxone|
+|Neisseria gonorrhoea|Discharge :: greenish-yellow<br>Pelvic inflammatory disease (PID)|Ceftriaxone|
 |Haemophilus ducreyi|Painful chancroid|-|
 |Klebsiella granulomatis|Granuloma inguinale|Macrolides<br>Doxycycline|
 |Treponema pallidum|Painless chancre & Condyloma lata|Penicillin|
-|Chlamydia trachomatis|Pelvic inflammatory disease (PID)<br>Lymphogranuloma venereum (LGV)|Macrolides<br>Doxycycline|
+|Chlamydia trachomatis|Discharge :: greenish-yellow<br>Pelvic inflammatory disease (PID)<br>Lymphogranuloma venereum (LGV)|Macrolides<br>Doxycycline|
 |Candida albicans|Discharge :: white & curdy|Azoles|
-|Trichomonas vaginalis|Discharge :: green & frothy|Metronidazole|
+|Trichomonas vaginalis|Discharge :: greenish-yellow & frothy|Metronidazole|
 |HPV|Condyloma accumulata|-|
 |HSV|Paniful ulcers|-|
 
