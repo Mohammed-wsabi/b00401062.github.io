@@ -63,11 +63,10 @@
 
 |Patient|Antibiotics|
 |-|-|
-|Uncomplicated & Child|3° Cephalosporins|
-|Uncomplicated & Adult|Nitrofurantoin / TMP-SMX / Fluoroquinolones|
-|Uncomplicated & Pregnant|Nitrofurantoin / Amoxicillin|
-|Complicated|Fluoroquinolones|
-|Inpatient|Tazocin / Ceftriaxone / Fluoroquinolones|
+|Child|3° Cephalosporins|
+|Adult|Nitrofurantoin<br>TMP-SMX<br>Fluoroquinolones|
+|Pregnant|Nitrofurantoin<br>Amoxicillin<br>3° Cephalosporins|
+|Inpatient|Anti-pseudomonal β-lactams<br>3° Cephalosporins<br>Fluoroquinolones|
 |ICU|Carbapenems & Vancomycin|
 
 ### Complicated Patients
