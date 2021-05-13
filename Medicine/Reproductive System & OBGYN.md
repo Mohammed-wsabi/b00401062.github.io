@@ -406,7 +406,7 @@
 |Neisseria gonorrhoea|Discharge :: greenish-yellow<br>Pelvic inflammatory disease (PID)|Ceftriaxone|
 |Haemophilus ducreyi|Painful chancroid|-|
 |Klebsiella granulomatis|Granuloma inguinale|Macrolides<br>Doxycycline|
-|Treponema pallidum|Painless chancre & Condyloma lata|Penicillin|
+|Treponema pallidum|Painless chancre<br>Condyloma lata|Penicillin|
 |Chlamydia trachomatis|Discharge :: greenish-yellow<br>Lymphogranuloma venereum (LGV)<br>Pelvic inflammatory disease (PID)|Macrolides<br>Doxycycline|
 |Candida albicans|Discharge :: white & curdy|Azoles|
 |Trichomonas vaginalis|Discharge :: greenish-yellow & frothy|Metronidazole|
