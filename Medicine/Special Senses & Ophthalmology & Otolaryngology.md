@@ -153,11 +153,13 @@
 - Moraxella catarrhalis
 - Mucor and Rhizopus
 
-## Pathogens of Tonsillitis
+## Pathogens of Pharyngitis & Tonsillitis
 
 - Group A streptococcus (GAS)
 - Adenovirus
 - HSV
 - EBV
+- CMV
+- HIV
 - Parainfluenza virus
 - Influenza virus
