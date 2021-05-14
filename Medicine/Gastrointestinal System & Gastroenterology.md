@@ -171,7 +171,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|H-K pump blockers|Proton pump inhibitors (PPI): Prazoles|PUD|
+|H-K pump blockers|Proton pump inhibitors (PPI) [-Prazoles]|PUD|
 |H<sub>2</sub> antagonists|Cimetidine<br>Ranitidine<br>Famotidine<br>Nizatidine|PUD|
 |PGE1 agonists|Misoprostol|PUD|
 |Antacids|Aluminum hydroxide<br>Calcium carbonate<br>Magnesium hydroxide|PUD|
