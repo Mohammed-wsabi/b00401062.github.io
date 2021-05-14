@@ -864,6 +864,8 @@
 |Acinetobacter baumannii|Anti-pseudomonal β-lactams|
 |MDRAB|Tigecycline & Polymyxin|
 |Helicobacter pylori|Penicillinase-sensitive penicillin & Macrolides & Metronidazole|
+|Borrelia|Tetracyclines & Macrolides & 3° Cephalosporins|
+|Treponema|Penicillin & Tetracyclines & 3° Cephalosporins|
 |Chlamydia|Tetracyclines & Macrolides|
 |Rickettsia|Tetracyclines & Macrolides|
 |Spirochete|Penicillin & Tetracyclines|
