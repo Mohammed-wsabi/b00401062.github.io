@@ -577,6 +577,8 @@
 |Yersinia pestis|Flea|Plague|
 |Yellow fever virus|Mosquito :: Aedes|Yellow fever|
 |Dengue virus|Mosquito :: Aedes|Dengue fever|
+|Chikungunya virus|Mosquito :: Aedes|Chikungunya fever|
+|Zika virus|Mosquito :: Aedes|Zika fever|
 |Japanese encephalitis virus|Mosquito :: Culix|Japanese encephalitis|
 |Plasmodium|Mosquito :: Anopheles|Malaria|
 |Trypanosoma brucei|Tsetse fly|African sleeping sickness|
