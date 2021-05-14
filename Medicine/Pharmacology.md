@@ -434,10 +434,7 @@
 
 |Mechanism|Target|Medication|Species|
 |-|-|-|-|
-|↓ Peptidoglycan crosslinking|Penicillin binding protein|Penicillin|Bacterium|
-|||Cephalosporin|Bacterium|
-|||Monobactam|Bacterium|
-|||Carbapenem|Bacterium|
+|↓ Peptidoglycan crosslinking|Penicillin binding protein|Penicillin<br>Cephalosporin<br>Carbapenem<br>Monobactam|Bacterium|
 |↓ Peptidoglycan synthesis|Peptidoglycan|Glycopeptide|Bacterium|
 |↓ Mycolate synthesis|Enoyl-ACP reductase|Isoniazid|Mycobacterium|
 |↓ Arabinogalactan synthesis|Arabinosyl transferase|Ethambutol|Mycobacterium|
