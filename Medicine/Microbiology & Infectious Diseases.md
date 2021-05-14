@@ -377,7 +377,7 @@
 |Parasite|Disease|Treatment|
 |-|-|-|
 |Babesia|Babesiosis|Atovaquone & Azithromycin|
-|Plasmodium|Malaria|Chloroquine & Primaquine|
+|Plasmodium|Malaria|Chloroquine<br>Primaquine<br>Mefloquine<br>Atovaquone-Proguanil<br>Artemisinin|
 
 ### Protozoan Parasites :: Visceral Infections
 
@@ -578,7 +578,7 @@
 |Yellow fever virus|Mosquito :: Aedes|Yellow fever|
 |Dengue virus|Mosquito :: Aedes|Dengue fever|
 |Japanese encephalitis virus|Mosquito :: Culix|Japanese encephalitis|
-|Plasmodium|Mosquito|Malaria|
+|Plasmodium|Mosquito :: Anopheles|Malaria|
 |Trypanosoma brucei|Tsetse fly|African sleeping sickness|
 |Trypanosoma cruzi|Reduviid bug [Kissing bug]|Chagas disease|
 |Leishmania donovani|Sandfly|Leishmaniasis|
