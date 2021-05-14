@@ -867,10 +867,10 @@
 |Spirochete|Penicillin & Tetracyclines|
 |Bacteroides fragilis|Carbapenems & Metronidazole|
 
-## Triple Therapy for Helicobacter Pylori Infection
+## Triple Therapy for Helicobacter Pylori Infection {MAP}
 
 - Macrolides
-- Penicillinase-sensitive penicillin / Metronidazole
+- Amoxicillin / Metronidazole
 - Proton pump inhibitors (PPI)
 
 ## Anti-pseudomonal Antibiotics
