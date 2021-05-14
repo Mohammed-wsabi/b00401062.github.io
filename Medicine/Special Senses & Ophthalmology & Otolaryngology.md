@@ -158,7 +158,7 @@
 - Group A streptococcus (GAS)
 - Adenovirus
 - HSV
-- EBV
+- EBV → infectious mononucleosis
 - CMV
 - HIV
 - Parainfluenza virus
