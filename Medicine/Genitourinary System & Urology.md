@@ -66,7 +66,7 @@
 |Child|3° Cephalosporins|
 |Adult|Nitrofurantoin<br>TMP-SMX<br>Fluoroquinolones|
 |Pregnant|Nitrofurantoin<br>Amoxicillin<br>3° Cephalosporins|
-|Inpatient|Anti-pseudomonal β-lactams<br>3° Cephalosporins<br>Fluoroquinolones|
+|Inpatient|Anti-pseudomonal β-lactams<br>Fluoroquinolones|
 |ICU|Carbapenems & Vancomycin|
 
 ### Complicated Patients
