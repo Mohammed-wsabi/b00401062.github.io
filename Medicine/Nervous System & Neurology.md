@@ -567,3 +567,13 @@
 |1 ~ 3 months|3° Cephalosporins & Vancomycin|
 |3 months ~ 60 years|3° Cephalosporins & Vancomycin|
 |≥ 60 years / Complicated|Ampicillin & 3° Cephalosporins & Vancomycin|
+
+## Routes of Brain Abscess Transmission
+
+- Hematogenous spread
+- Direct spread
+  - Paranasal sinusitis
+  - Otitis media
+  - Mastoiditis
+  - Dental infection
+- Direct innoculation
