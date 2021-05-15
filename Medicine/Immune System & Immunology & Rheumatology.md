@@ -283,6 +283,14 @@
 - Inflammatory bowel disease
 - Reactive arthritis [Reiter syndrome]
 
+## Precipitating Factors of Reactive Arthritis
+
+- Chlamydia
+- Campylobacter
+- Salmonella
+- Shigella
+- Ureaplasma
+
 ## Triad of Reactive Arthritis {AUC}
 
 - Arthritis
