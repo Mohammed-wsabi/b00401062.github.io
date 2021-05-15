@@ -106,6 +106,8 @@
 - Anaerobes
 - Candida
 
-## Treatment of Osteomyelitis
+## Empirical Antibiotics for Osteomyelitis
 
-- 
+- Anti-staphylococcal penicillin / Vancomycin
+- Anti-pseudomonal β-lactams / Fluoroquinolones
+- Clindamycin
