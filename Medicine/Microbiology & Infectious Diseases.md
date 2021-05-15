@@ -774,7 +774,7 @@
 |-|-|
 |Penicillin|Penicillin G & Penicillin V|
 |Penicillinase-sensitive|Ampicillin & Amoxicillin|
-|Penicillinase-resistant|Nafcillin & Oxacillin & Dicloxacillin|
+|Penicillinase-resistant|Methicillin & Nafcillin & Oxacillin & Dicloxacillin|
 |Anti-pseudomonal|Piperacillin & Ticarcillin|
 
 ## Classification of Cephalosporins
