@@ -100,5 +100,12 @@
 ## Pathogens of Osteomyelitis
 
 - Staphylococcus aureus
-- Neisseria gonorrhoea
+- Staphylococcus epidermidis
 - Pseudomonas aeruginosa
+- Salmonella
+- Anaerobes
+- Candida
+
+## Treatment of Osteomyelitis
+
+- 
