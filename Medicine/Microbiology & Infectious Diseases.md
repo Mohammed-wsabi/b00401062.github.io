@@ -816,7 +816,8 @@
 |Nephrotoxicity|Cephalosporins & Vancomycin & Aminoglycosides|
 |Ototoxicity|Vancomycin & Aminoglycosides|
 |Photosensitivity|Tetracyclines & Sulfonamide|
-|Bone & Cartilage toxicity|Tetracyclines & Fluoroquinolones|
+|Tooth & Bone toxicity|Tetracyclines|
+|Cartilage toxicity|Fluoroquinolones|
 |Marrow toxicity|Chloramphenicol & Trimethoprim|
 |QT prolongation|Macrolides & Fluoroquinolones|
 
