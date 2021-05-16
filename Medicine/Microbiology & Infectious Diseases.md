@@ -28,7 +28,7 @@
 |-|-|-|
 |Actinomyces|-|-|
 |Nocardia|Acid fast|-|
-
+ 
 ## Gram Negative Lab Algorithm
 
 ![](../Figures/Gram%20Negative%20Lab%20Algorithm.png)
