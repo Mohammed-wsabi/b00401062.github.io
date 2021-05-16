@@ -49,10 +49,11 @@
 |Haemophilus|-|Chocolate|
 |Legionella|Silver|Charcoal yeast|
 
-### Gram-Negative Bacilli (GNB) :: Enteric {SEEK-P-SSPY}
+### Gram-Negative Bacilli (GNB) :: Enteric {B-SEEK-P-SSPY}
 
 |Bacteria|Stain|Culture|Lactose Fermentation|Oxidase|H<sub>2</sub>S|
 |-|-|-|-|-|-|
+|Bacteroides|-|-|+|±|-|
 |Serratia|-|MacConkey|+|-|-|
 |Escherichia|-|MacConkey & EMB|+|-|-|
 |Enterobacter|-|MacConkey|+|-|-|
@@ -836,6 +837,7 @@
 |Haemophilus influenzae|Penicillinase-sensitive penicillin & 2° Cephalosporins|
 |Legionella pneumophilia|Macrolides|
 |GNB :: enteric|2° Cephalosporins & Fluoroquinolones & Trimethoprim & Sulfonamides|
+|Bacteroides fragilis|Carbapenems & Metronidazole|
 |Pseudomonas aeruginosa|Anti-pseudomonal β-lactams & Anti-pseudomonal fluoroquinolones|
 |ESBL|Carbapenems & Tigecycline & Polymyxin|
 |CRE|Tigecycline & Polymyxin|
@@ -844,7 +846,6 @@
 |Treponema|Penicillin & Tetracyclines & 3° Cephalosporins|
 |Chlamydia|Tetracyclines & Macrolides|
 |Rickettsia|Tetracyclines & Macrolides|
-|Bacteroides fragilis|Carbapenems & Metronidazole|
 |Pneumocystis jiroveci|Trimethoprim & Sulfonamides|
 
 ## Triple Therapy for Helicobacter Pylori Infection {MAP}
