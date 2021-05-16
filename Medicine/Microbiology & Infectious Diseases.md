@@ -50,18 +50,18 @@
 
 ### Gram-Negative Rods (GNR) :: Enteric {SEEK-PP-SSAY}
 
-|Bacteria|Stain|Culture|
-|-|-|-|
-|Serratia|-|MacConkey|
-|Escherichia|-|MacConkey & EMB|
-|Enterobacter|-|MacConkey|
-|Klebsiella|-|MacConkey|
-|Pseudomonas|-|-|
-|Proteus|-|-|
-|Salmonella|-|-|
-|Shigella|-|-|
-|Acinetobacter|-|-|
-|Yersinia|-|-|
+|Bacteria|Stain|Culture|Lactose Fermentation|Oxidase|
+|-|-|-|-|-|
+|Serratia|-|MacConkey|+|-|
+|Escherichia|-|MacConkey & EMB|+|-|
+|Enterobacter|-|MacConkey|+|-|
+|Klebsiella|-|MacConkey|+|-|
+|Pseudomonas|-|-|-|+|
+|Proteus|-|-|-|-|
+|Salmonella|-|-|-|-|
+|Shigella|-|-|-|-|
+|Acinetobacter|-|-|-|-|
+|Yersinia|-|-|-|-|
 
 ### Gram-Negative :: Curved
 
@@ -113,21 +113,6 @@
 |Streptococcus viridans|Optochin|R|
 |GAS :: Streptococcus pyogenes|Bacitracin|S|
 |GBS :: Streptococcus agalactiae|Bacitracin|R|
-
-## Classification of Enteric Gram Negative Rods {SEEK-PP-SSAY}
-
-|Bacteria|Lactose Fermentation|Oxidase|
-|-|-|-|
-|Serratia|+|-|
-|Escherichia|+|-|
-|Enterobacter|+|-|
-|Klebsiella|+|-|
-|Pseudomonas|-|+|
-|Proteus|-|-|
-|Salmonella|-|-|
-|Shigella|-|-|
-|Acinetobacter|-|-|
-|Yersinia|-|-|
 
 ## Stain & Culture Techniques
 
