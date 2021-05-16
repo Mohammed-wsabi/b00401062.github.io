@@ -817,7 +817,7 @@
 |Ototoxicity|Vancomycin & Aminoglycosides|
 |Photosensitivity|Tetracyclines & Sulfonamide|
 |Tooth & Bone toxicity|Tetracyclines|
-|Cartilage toxicity|Fluoroquinolones|
+|Cartilage & Tendon toxicity|Fluoroquinolones|
 |Marrow toxicity|Chloramphenicol & Trimethoprim|
 |QT prolongation|Macrolides & Fluoroquinolones|
 
