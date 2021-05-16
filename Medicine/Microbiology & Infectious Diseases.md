@@ -831,14 +831,14 @@
 |Neisseria meningitides|Penicillinase-sensitive penicillin & 3° Cephalosporins|
 |Neisseria gonorrhoeae|3° Cephalosporins & Macrolides|
 |Acinetobacter baumannii|Anti-pseudomonal β-lactams|
+|MDRAB|Tigecycline & Polymyxin|
 |Bordetella pertussis|Macrolides|
 |Haemophilus influenzae|Penicillinase-sensitive penicillin & 2° Cephalosporins|
 |Legionella pneumophilia|Macrolides|
 |GNB :: enteric|2° Cephalosporins & Fluoroquinolones & Trimethoprim & Sulfonamides|
+|Pseudomonas aeruginosa|Anti-pseudomonal β-lactams & Anti-pseudomonal fluoroquinolones|
 |ESBL|Carbapenems & Tigecycline & Polymyxin|
 |CRE|Tigecycline & Polymyxin|
-|Pseudomonas aeruginosa|Anti-pseudomonal β-lactams & Anti-pseudomonal fluoroquinolones|
-|MDRAB|Tigecycline & Polymyxin|
 |Helicobacter pylori|Penicillinase-sensitive penicillin & Macrolides & Metronidazole|
 |Borrelia|Tetracyclines & Macrolides & 3° Cephalosporins|
 |Treponema|Penicillin & Tetracyclines & 3° Cephalosporins|
