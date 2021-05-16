@@ -139,34 +139,26 @@
 
 ### Acid Fast Stain (AFS)
 
-|Mnemonic|Bacteria|
-|-|-|
-|M|Mycobacterium|
-|N|Nocardia|
+- Mycobacterium
+- Nocardia
 
 ### Silver Stain
 
-|Mnemonic|Bacteria|
-|-|-|
-|Fuck|Fungi|
-|Healthy|Helicobacter|
-|Lungs|Legionella|
+- Helicobacter
+- Legionella
+- Fungi
 
 ### India Ink Stain
 
-|Mnemonic|Bacteria|
-|-|-|
-|C|Cryptococcus|
-|E|Encapsulated bacteria|
+- Encapsulated bacteria
+- Cryptococcus
 
-### MacConkey Agar
+### MacConkey Agar {SEEK}
 
-|Mnemonic|Bacteria|
-|-|-|
-|S|Serratia|
-|E|Escherichia|
-|E|Enterobacter|
-|K|Klebsiella|
+- Serratia
+- Escherichia
+- Enterobacter
+- Klebsiella
 
 ## Virulence Factors
 
