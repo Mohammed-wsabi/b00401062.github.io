@@ -11,7 +11,7 @@
 |Staphylococcus|-|-|
 |Streptococcus|-|-|
 
-### Gram-Positive Rods (GPR)
+### Gram-Positive Bacilli (GPB)
 
 |Bacteria|Stain|Culture|
 |-|-|-|
@@ -40,15 +40,16 @@
 |Moraxella|-|-|
 |Neisseria|-|Thayer-Martin|
 
-### Gram-Negative Rods (GNR) :: Respiratory
+### Gram-Negative Bacilli (GNB) :: Respiratory
 
 |Bacteria|Stain|Culture|
 |-|-|-|
+|Acinetobacter|-|-|
 |Bordetella|-|Bordet-Gengou|
 |Haemophilus|-|Chocolate|
 |Legionella|Silver|Charcoal yeast|
 
-### Gram-Negative Rods (GNR) :: Enteric {SEEK-PP-SSAY}
+### Gram-Negative Bacilli (GNB) :: Enteric {SEEK-PP-SSAY}
 
 |Bacteria|Stain|Culture|Lactose Fermentation|Oxidase|
 |-|-|-|-|-|
@@ -57,11 +58,19 @@
 |Enterobacter|-|MacConkey|+|-|
 |Klebsiella|-|MacConkey|+|-|
 |Pseudomonas|-|-|-|+|
-|Proteus|-|-|-|-|
 |Salmonella|-|-|-|-|
 |Shigella|-|-|-|-|
-|Acinetobacter|-|-|-|-|
+|Proteus|-|-|-|-|
 |Yersinia|-|-|-|-|
+
+### Gram-Negative Bacilli (GNB) :: Zoonotic
+
+|Bacteria|Stain|Culture|
+|-|-|-|
+|Bartonella|-|-|
+|Brucella|-|-|
+|Francisella|-|-|
+|Pasteurella|-|-|
 
 ### Gram-Negative :: Curved
 
@@ -79,22 +88,14 @@
 |Leptospira|-|-|
 |Treponema|-|-|
 
-### Gram-Negative :: Pleomorphic {CCR}
+### Gram-Negative :: Intracellular
 
 |Bacteria|Stain|Culture|
 |-|-|-|
 |Coxiella|-|-|
 |Chlamydia|Giemsa|-|
 |Rickettsia|Giemsa|-|
-
-### Gram-Negative :: Zoonotic
-
-|Bacteria|Stain|Culture|
-|-|-|-|
-|Bartonella|-|-|
-|Brucella|-|-|
-|Francisella|-|-|
-|Pasteurella|-|-|
+|Ehrlichia|Giemsa|-|
 
 ### Gram-Negative :: w/o Cell Wall
 
@@ -204,21 +205,18 @@
 
 ### Obligate Anaerobes {ABC}
 
-|Mnemonic|Bacteria|
-|-|-|
-|A|Actinomyces|
-|B|Bacteroides|
-|C|Clostridium|
+- Actinomyces
+- Bacteroides
+- Clostridium
 
 ## Intracellular Bacteria
 
 ### Obligate
 
-|Mnemonic|Bacteria|
-|-|-|
-|Cross|Coxiella|
-|Culture|Chlamydia|
-|Romantics|Rickettsia|
+- Coxiella
+- Chlamydia
+- Rickettsia
+- Ehrlichia
 
 ### Facultative
 
@@ -805,8 +803,8 @@
 |GPC|1° Cephalosporins|
 |MRSA|Vancomycin|
 |Enterococcus|Unasyn|
-|GNR :: GI|2° Cephalosporins / Aminoglycosides|
-|GNR :: GU|TMP-SMX / Fluoroquinolones|
+|GNB :: GI|2° Cephalosporins / Aminoglycosides|
+|GNB :: GU|TMP-SMX / Fluoroquinolones|
 |Anaerobes|Clindamycin / Metronidazole|
 
 ## Therapeutic Antibiotics
@@ -832,14 +830,14 @@
 |Nocardia|Trimethoprim & Sulfonamides|
 |Neisseria meningitides|Penicillinase-sensitive penicillin & 3° Cephalosporins|
 |Neisseria gonorrhoeae|3° Cephalosporins & Macrolides|
+|Acinetobacter baumannii|Anti-pseudomonal β-lactams|
 |Bordetella pertussis|Macrolides|
 |Haemophilus influenzae|Penicillinase-sensitive penicillin & 2° Cephalosporins|
 |Legionella pneumophilia|Macrolides|
-|GNR :: enteric|2° Cephalosporins & Fluoroquinolones & Trimethoprim & Sulfonamides|
+|GNB :: enteric|2° Cephalosporins & Fluoroquinolones & Trimethoprim & Sulfonamides|
 |ESBL|Carbapenems & Tigecycline & Polymyxin|
 |CRE|Tigecycline & Polymyxin|
 |Pseudomonas aeruginosa|Anti-pseudomonal β-lactams & Anti-pseudomonal fluoroquinolones|
-|Acinetobacter baumannii|Anti-pseudomonal β-lactams|
 |MDRAB|Tigecycline & Polymyxin|
 |Helicobacter pylori|Penicillinase-sensitive penicillin & Macrolides & Metronidazole|
 |Borrelia|Tetracyclines & Macrolides & 3° Cephalosporins|
