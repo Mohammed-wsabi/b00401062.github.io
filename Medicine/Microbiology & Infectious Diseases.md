@@ -870,6 +870,7 @@
 |Chlamydia|Tetracyclines & Macrolides|
 |Rickettsia|Tetracyclines & Macrolides|
 |Bacteroides fragilis|Carbapenems & Metronidazole|
+|Pneumocystis jiroveci|Trimethoprim & Sulfonamides|
 
 ## Triple Therapy for Helicobacter Pylori Infection {MAP}
 
