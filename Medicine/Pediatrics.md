@@ -63,22 +63,19 @@
 
 ![](../Figures/Childhood%20Immunization.gif)
 
-## Pathogens of Perinatal Infection {TORCH-BEL}
+## Pathogens of Perinatal Infection {TORCH}
 
 |Pathogen|Presentation|Transmission|
 |-|-|-|
-|Toxoplasma|Intracranial calcifications & Hydrocephalus & Chorioretinitis|Transplacental|
-|Rubella|Cataracts & Deafness & PDA|Transplacental|
-|CMV|Periventricular calcifications & Deafness & Petechial rash|Transplacental|
-|HSV|Encephalitis & Herpetic whitlow|Intrapartum|
+|Toxoplasma|Intracranial calcifications<br>Hydrocephalus<br>Chorioretinitis|Transplacental|
+|Rubella|Cataracts<br>Deafness<br>PDA<br>Blueberry muffin syndrome|Transplacental|
+|CMV|Periventricular calcifications<br>Deafness<br>Petechial rash|Transplacental|
+|HSV|Encephalitis<br>Herpetic whitlow|Intrapartum|
 |HIV|AIDS|Intrapartum|
-|Syphilis|Deafness & Saddle nose & Hutchinson teeth & Saber shins|Transplacental|
+|Syphilis|Deafness<br>Saddle nose<br>Hutchinson teeth<br>Saber shins|Transplacental|
 |Parvovirus B19|Hydrops fetalis|Transplacental|
-|Group B streptococcus (GBS)|Pneumonia & Meningitis|Intrapartum|
-|Escherichia coli|Pneumonia & Meningitis|Intrapartum|
-|Listeria|Pneumonia & Meningitis|Intrapartum|
-|Neisseria gonorrhoea|Conjunctivitis|Intrapartum|
-|Chlamydia trachomatis|Conjunctivitis|Intrapartum|
+|GBS<br>Escherichia coli<br>Listeria|Pneumonia<br>Meningitis|Intrapartum|
+|Neisseria gonorrhoea<br>Chlamydia trachomatis|Conjunctivitis|Intrapartum|
 
 ## Developmental Dysplasia of Hip (DDH)
 
