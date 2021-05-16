@@ -813,13 +813,13 @@
 
 |Side Effects|Antibiotics|
 |-|-|
-|Nephrotoxicity|Cephalosporins & Vancomycin & Aminoglycosides|
-|Ototoxicity|Vancomycin & Aminoglycosides|
-|Photosensitivity|Tetracyclines & Sulfonamide|
+|Nephrotoxicity|Cephalosporins<br>Vancomycin<br>Aminoglycosides|
+|Ototoxicity|Vancomycin<br>Aminoglycosides|
+|Photosensitivity|Tetracyclines<br>Sulfonamides|
 |Tooth & Bone toxicity|Tetracyclines|
 |Cartilage & Tendon toxicity|Fluoroquinolones|
-|Marrow toxicity|Chloramphenicol & Trimethoprim|
-|QT prolongation|Macrolides & Fluoroquinolones|
+|Marrow toxicity|Chloramphenicol<br>Trimethoprim|
+|QT prolongation|Macrolides<br>Fluoroquinolones|
 
 ## Prophylactic Antibiotics
 
