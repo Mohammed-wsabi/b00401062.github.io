@@ -542,11 +542,12 @@
 
 |Pathogen|Arthropod|Disease|
 |-|-|-|
-|Babesia|Tick :: Ixodes|Babesiosis|
-|Borrelia burgdorferi|Tick :: Ixodes|Lyme disease|
+|Babesia|Tick|Babesiosis|
+|Borrelia burgdorferi|Tick|Lyme disease|
 |Borrelia recurrentis|Louse|Relapsing fever|
-|Francisella tularensis|Tick :: Dermacentor|Tularemia|
-|Rickettsia rickettsii|Tick :: Dermacentor|Rocky Mountain spotted fever (RMSF)|
+|Francisella tularensis|Tick|Tularemia|
+|Ehrlichia chaffeensis|Tick|Ehrlichiosis|
+|Rickettsia rickettsii|Tick :: Dermacentor [Dog tick]|Rocky Mountain spotted fever (RMSF)|
 |Rickettsia tsutsugamushi|Mite|Scrub typhus|
 |Rickettsia prowazekii|Louse|Epidemic typhus|
 |Rickettsia typhi|Flea|Endemic typhus|
