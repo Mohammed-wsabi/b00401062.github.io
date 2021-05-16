@@ -51,17 +51,17 @@
 
 ### Gram-Negative Bacilli (GNB) :: Enteric {SEEK-P-SSPY}
 
-|Bacteria|Stain|Culture|Lactose Fermentation|Oxidase|
-|-|-|-|-|-|
-|Serratia|-|MacConkey|+|-|
-|Escherichia|-|MacConkey & EMB|+|-|
-|Enterobacter|-|MacConkey|+|-|
-|Klebsiella|-|MacConkey|+|-|
-|Pseudomonas|-|-|-|+|
-|Salmonella|-|-|-|-|
-|Shigella|-|-|-|-|
-|Proteus|-|-|-|-|
-|Yersinia|-|-|-|-|
+|Bacteria|Stain|Culture|Lactose Fermentation|Oxidase|H<sub>2</sub>S|
+|-|-|-|-|-|-|
+|Serratia|-|MacConkey|+|-|-|
+|Escherichia|-|MacConkey & EMB|+|-|-|
+|Enterobacter|-|MacConkey|+|-|-|
+|Klebsiella|-|MacConkey|+|-|-|
+|Pseudomonas|-|-|-|+|-|
+|Salmonella|-|-|-|-|+|
+|Shigella|-|-|-|-|-|
+|Proteus|-|-|-|-|+|
+|Yersinia|-|-|-|-|-|
 
 ### Gram-Negative Bacilli (GNB) :: Zoonotic
 
@@ -74,11 +74,11 @@
 
 ### Gram-Negative :: Curved
 
-|Bacteria|Stain|Culture|
-|-|-|-|
-|Campylobacter|-|-|
-|Helicobacter|Silver|-|
-|Vibrio|-|-|
+|Bacteria|Stain|Culture|Oxidase|
+|-|-|-|-|
+|Campylobacter|-|-|+|
+|Helicobacter|Silver|-|+|
+|Vibrio|-|-|+|
 
 ### Gram-Negative :: Spirochete {BLT}
 
