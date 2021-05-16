@@ -757,7 +757,7 @@
 |Mechanism|Targets|Medication|
 |-|-|-|
 |↓ Folate synthesis|Dihydrofolate reductase|Trimethoprim|
-|↓ Folate synthesis|Dihydropteroate synthase|Sulfonamide|
+|↓ Folate synthesis|Dihydropteroate synthase|Sulfonamides|
 
 ### DNA Inhibitors
 
@@ -852,13 +852,13 @@
 |Mycobacterium leprae|Dapsone & Rifampin & Clofazimine|
 |Mycobacterium avium|Macrolides|
 |Actinomyces|Penicillin|
-|Nocardia|Trimethoprim & Sulfonamide|
+|Nocardia|Trimethoprim & Sulfonamides|
 |Neisseria meningitides|Penicillinase-sensitive penicillin & 3° Cephalosporins|
 |Neisseria gonorrhoeae|3° Cephalosporins & Macrolides|
 |Bordetella pertussis|Macrolides|
 |Haemophilus influenzae|Penicillinase-sensitive penicillin & 2° Cephalosporins|
 |Legionella pneumophilia|Macrolides|
-|GNR :: enteric|2° Cephalosporins & Fluoroquinolones & Trimethoprim & Sulfonamide|
+|GNR :: enteric|2° Cephalosporins & Fluoroquinolones & Trimethoprim & Sulfonamides|
 |ESBL|Carbapenems & Tigecycline & Polymyxin|
 |CRE|Tigecycline & Polymyxin|
 |Pseudomonas aeruginosa|Anti-pseudomonal β-lactams & Anti-pseudomonal fluoroquinolones|
@@ -869,8 +869,8 @@
 |Treponema|Penicillin & Tetracyclines & 3° Cephalosporins|
 |Chlamydia|Tetracyclines & Macrolides|
 |Rickettsia|Tetracyclines & Macrolides|
-|Spirochete|Penicillin & Tetracyclines|
 |Bacteroides fragilis|Carbapenems & Metronidazole|
+|Pneumocystis jiroveci|Trimethoprim & Sulfonamides|
 
 ## Triple Therapy for Helicobacter Pylori Infection {MAP}
 
