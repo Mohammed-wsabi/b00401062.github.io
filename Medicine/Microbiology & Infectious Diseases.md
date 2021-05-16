@@ -49,7 +49,7 @@
 |Haemophilus|-|Chocolate|
 |Legionella|Silver|Charcoal yeast|
 
-### Gram-Negative Bacilli (GNB) :: Enteric {SEEK-PP-SSAY}
+### Gram-Negative Bacilli (GNB) :: Enteric {SEEK-P-SSPY}
 
 |Bacteria|Stain|Culture|Lactose Fermentation|Oxidase|
 |-|-|-|-|-|
