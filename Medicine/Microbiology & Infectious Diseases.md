@@ -571,7 +571,7 @@
 |Borrelia recurrentis|Louse|Relapsing fever|
 |Francisella tularensis|Tick :: Dermacentor|Tularemia|
 |Rickettsia rickettsii|Tick :: Dermacentor|Rocky Mountain spotted fever (RMSF)|
-|Rickettsia tsutsugamushi|Mite|Scrub fever|
+|Rickettsia tsutsugamushi|Mite|Scrub typhus|
 |Rickettsia prowazekii|Louse|Epidemic typhus|
 |Rickettsia typhi|Flea|Endemic typhus|
 |Yersinia pestis|Flea|Plague|
