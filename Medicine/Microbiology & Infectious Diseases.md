@@ -814,12 +814,10 @@
 |Pathogens|Antibiotics|
 |-|-|
 |Staphylococcus aureus|Penicillinase-resistant penicillin|
-|MRSA|Ceftaroline & Vancomycin & Linezolid & Daptomycin|
 |Streptococcus pneumoniae|Penicillinase-sensitive penicillin & 3° Cephalosporins & Macrolides|
 |GAS :: Streptococcus pyogenes|Penicillinase-sensitive penicillin|
 |GBS :: Streptococcus agalactiae|Penicillinase-sensitive penicillin|
 |Enterococcus|Penicillinase-sensitive penicillin|
-|VRE|Linezolid & Daptomycin|
 |Bacillus anthracis|Carbapenems & Fluoroquinolones|
 |Clostridium perfringens|Penicillin & Clindamycin|
 |Clostridium difficile|Vancomycin & Metronidazole|
@@ -833,21 +831,28 @@
 |Neisseria meningitides|Penicillinase-sensitive penicillin & 3° Cephalosporins|
 |Neisseria gonorrhoeae|3° Cephalosporins & Macrolides|
 |Acinetobacter baumannii|Anti-pseudomonal β-lactams|
-|MDRAB|Tigecycline & Polymyxin|
 |Bordetella pertussis|Macrolides|
 |Haemophilus influenzae|Penicillinase-sensitive penicillin & 2° Cephalosporins|
 |Legionella pneumophilia|Macrolides|
 |GNB :: enteric|2° Cephalosporins & Fluoroquinolones & Trimethoprim & Sulfonamides|
 |Bacteroides fragilis|Carbapenems & Metronidazole|
 |Pseudomonas aeruginosa|Anti-pseudomonal β-lactams & Anti-pseudomonal fluoroquinolones|
-|ESBL|Carbapenems & Tigecycline & Polymyxin|
-|CRE|Tigecycline & Polymyxin|
 |Helicobacter pylori|Penicillinase-sensitive penicillin & Macrolides & Metronidazole|
 |Borrelia|Tetracyclines & Macrolides & 3° Cephalosporins|
 |Treponema|Penicillin & Tetracyclines & 3° Cephalosporins|
 |Chlamydia|Tetracyclines & Macrolides|
 |Rickettsia|Tetracyclines & Macrolides|
 |Pneumocystis jiroveci|Trimethoprim & Sulfonamides|
+
+## Therapeutic Antibiotics for Drug-resistant Bacteria
+
+|Pathogens|Antibiotics|
+|-|-|
+|MRSA|Ceftaroline & Vancomycin & Linezolid & Daptomycin|
+|VRE|Linezolid & Daptomycin|
+|MDRAB|Tigecycline & Polymyxin|
+|ESBL|Carbapenems & Tigecycline & Polymyxin|
+|CRE|Tigecycline & Polymyxin|
 
 ## Triple Therapy for Helicobacter Pylori Infection {MAP}
 
