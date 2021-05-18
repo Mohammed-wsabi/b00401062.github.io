@@ -91,6 +91,8 @@
 - Diagnostic peritoneal lavage (DPL): unstable & blunt trauma
 - Exploratory laparotomy: unstable & (penetrating trauma / known etiology)
 
+![](../Figures/Workup%20of%20Blunt%20Abdominal%20Trauma.png)
+
 ## Signs of Retroperitoneal Hemorrhage
 
 - Cullen sign
