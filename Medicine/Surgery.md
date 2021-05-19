@@ -124,6 +124,15 @@
 - Natural > Synthetic
 - Monofilament < Braided
 
+## Degrees of Skin Burns
+
+|Degree|Depth|Painful|Blistered|Color|
+|-|-|-|-|-|
+|1|Epidermis|+|-|Erythema|
+|2|Partial thickness of dermis|+|+|Erythema|
+|3|Full thickness of dermis|-|-|White / Eschar|
+|4|Hypodermis|-|-|White / Eschar|
+
 ## Types of Skin Grafts
 
 ![](../Figures/Skin%20Grafts.jpg)
