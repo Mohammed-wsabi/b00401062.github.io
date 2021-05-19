@@ -48,3 +48,9 @@
 - Hallucinosis
 - Seizure & Sleep deprivation
 - Delirium tremens
+
+## Treatment of Cyanide Poisoning {HTN}
+
+- Hydroxocobalamin
+- Thiosulfate
+- Nitrate
