@@ -556,3 +556,9 @@
 - Chelation
 	- Penicillamine
 	- Trientine
+
+## Treatment of Cyanide Poisoning {HTN}
+
+- Hydroxocobalamin
+- Thiosulfate
+- Nitrate
