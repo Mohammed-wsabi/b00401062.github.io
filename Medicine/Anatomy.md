@@ -267,11 +267,11 @@
 
 |Mnemonic|Plexus|Nerve|
 |-|-|-|
-|Read|Root|Dorsal scapular & Long thoracic nerve|
+|Read|Root|Dorsal scapular nerve<br>Long thoracic nerve|
 |That|Trunk|Suprascapular nerve|
 |Damn|Division|-|
-|Cell|Cord|Lateral pectoral nerve & Medial pectoral & Thoracodorsal & Subscapular nerve|
-|Biology|Branch|Axillary & Musculocutaneous & Medial & Ulnar & Radial nerve|
+|Cell|Cord|Lateral pectoral nerve<br>Medial pectoral nerve<br>Thoracodorsal nerve<br>Subscapular nerve|
+|Biology|Branch|Axillary nerve<br>Musculocutaneous nerve<br>Medial nerve<br>Ulnar nerve<br>Radial nerve|
 
 ![](../Figures/Brachial%20Plexus.png)
 
