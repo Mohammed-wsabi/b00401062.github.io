@@ -112,6 +112,12 @@
 		- Dexon
 		- Polydioxanone (PDS)
 
+## Types of Wound Closure
+
+- 1° closure [1° intent]
+- 2° closure [2° intent]
+- Delayed 1° closure [3° intent]
+
 ## Tissue Reactions to Suture Materials
 
 - Non-absorbable < Absorbable
