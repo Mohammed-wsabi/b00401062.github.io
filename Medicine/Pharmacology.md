@@ -259,9 +259,9 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|H<sub>1</sub> antagonists :: 1°|Chlorpheniramine<br>Diphenhydramine<br>Meclizine<br>Promethazine|Allergy<br>Emesis :: motion sickness|
-|H<sub>1</sub> antagonists :: 2°|Cetirizine<br>Fexofenadine<br>Loratadine|Allergy|
-|H<sub>1</sub> antagonists|Antipsychotics|-|
+|H<sub>1</sub> antagonists|1° Antihistamines:<br>Chlorpheniramine<br>Diphenhydramine<br>Meclizine<br>Promethazine|Allergy<br>Emesis :: motion sickness|
+||2° Antihistamines:<br>Cetirizine<br>Fexofenadine<br>Loratadine|Allergy|
+||Antipsychotics|-|
 ||Antidepressants :: TCA|-|
 |H<sub>2</sub> antagonists|Cimetidine<br>Ranitidine<br>Famotidine<br>Nizatidine|PUD|
 
@@ -403,8 +403,8 @@
 ||Methylxanthine: Theophylline & Caffeine|Asthma|
 ||Sildenafil & Vardenafil|Impotence & Pulmonary HTN|
 ||Dipyridamole & Cilostazol|Antiplatelet & Vasodilation|
-|COX inhibitors :: NSAIDs|Aspirin<br>Ibuprofen<br>Naproxen<br>Diclofenac<br>Ketorolac<br>Meloxicam<br>Indomethacin|Antipyresis<br>Analgesia<br>Inflammation<br>Tocolysis<br>PDA closure|
-|COX inhibitors|Acetaminophen|Antipyresis<br>Analgesia|
+|COX inhibitors|NSAIDs:<br>Aspirin<br>Ibuprofen<br>Naproxen<br>Diclofenac<br>Ketorolac<br>Meloxicam<br>Indomethacin|Antipyresis<br>Analgesia<br>Inflammation<br>Tocolysis<br>PDA closure|
+||Acetaminophen|Antipyresis<br>Analgesia|
 ||Sulfasalazine|Inflammation|
 |COX-2 inhibitors|Celecoxib|Arthritis|
 |LOX inhibitors|Zileuton|Asthma|
