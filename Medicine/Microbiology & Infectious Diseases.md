@@ -758,10 +758,10 @@
 
 |Generation|Penicillin|
 |-|-|
-|1°|Cefazolin & Cephalexin|
-|2°|Cefaclor & Cefoxitin & Cefotetan & Cefuroxime & Cefmetazole|
-|3° :: non-anti-pseudomonal|Ceftriaxone & Cefotaxime & Cefixime & Cefpodoxime & Ceftibuten|
-|3° :: anti-pseudomonal|Ceftazidime & Cefoperazone|
+|1°|Cefazolin<br>Cephalexin|
+|2°|Cefaclor<br>Cefoxitin<br>Cefotetan<br>Cefuroxime<br>Cefmetazole|
+|3°|Non-anti-pseudomonal:<br>Ceftriaxone<br>Cefotaxime<br>Cefixime<br>Cefpodoxime<br>Ceftibuten|
+||Anti-pseudomonal:<br>Ceftazidime<br>Cefoperazone|
 |4°|Cefepime|
 |5°|Ceftaroline|
 
