@@ -749,10 +749,10 @@
 
 |Class|Penicillin|
 |-|-|
-|Penicillin|Penicillin G & Penicillin V|
-|Penicillinase-sensitive|Ampicillin & Amoxicillin|
-|Penicillinase-resistant|Methicillin & Nafcillin & Oxacillin & Dicloxacillin|
-|Anti-pseudomonal|Piperacillin & Ticarcillin|
+|Penicillin|Penicillin G<br>Penicillin V|
+|Penicillinase-sensitive|Ampicillin<br>Amoxicillin|
+|Penicillinase-resistant|Methicillin<br>Nafcillin<br>Oxacillin<br>Dicloxacillin|
+|Anti-pseudomonal|Piperacillin<br>Ticarcillin|
 
 ## Classification of Cephalosporins
 
@@ -805,9 +805,9 @@
 |GPC|1° Cephalosporins|
 |MRSA|Vancomycin|
 |Enterococcus|Unasyn|
-|GNB :: GI|2° Cephalosporins / Aminoglycosides|
-|GNB :: GU|TMP-SMX / Fluoroquinolones|
-|Anaerobes|Clindamycin / Metronidazole|
+|GNB :: GI|2° Cephalosporins<br>Aminoglycosides|
+|GNB :: GU|TMP-SMX<br>Fluoroquinolones|
+|Anaerobes|Clindamycin<br>Metronidazole|
 
 ## Therapeutic Antibiotics
 
