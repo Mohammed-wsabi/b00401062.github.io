@@ -53,4 +53,4 @@
 
 - Hydroxocobalamin
 - Thiosulfate
-- Nitrate
+- Nitrites
