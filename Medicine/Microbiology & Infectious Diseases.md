@@ -849,11 +849,11 @@
 
 |Pathogens|Antibiotics|
 |-|-|
-|MRSA|Ceftaroline & Vancomycin & Linezolid & Daptomycin|
-|VRE|Linezolid & Daptomycin|
-|MDRAB|Tigecycline & Polymyxin|
-|ESBL|Carbapenems & Tigecycline & Polymyxin|
-|CRE|Tigecycline & Polymyxin|
+|MRSA|Ceftaroline<br>Vancomycin<br>Linezolid<br>Daptomycin|
+|VRE|Linezolid<br>Daptomycin|
+|MDRAB|Tigecyclin<br>Polymyxin|
+|ESBL|Carbapenems<br>Tigecycline<br>Polymyxin|
+|CRE|Tigecycline<br>Polymyxin|
 
 ## Triple Therapy for Helicobacter Pylori Infection {MAP}
 
