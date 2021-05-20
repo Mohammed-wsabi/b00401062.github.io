@@ -173,16 +173,9 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|1° [Typical] Antipsychotics|Haloperidol|Psychosis :: high potency|
-||Trifluoperazine|Psychosis :: high potency|
-||Fluphenazine|Psychosis :: high potency|
-||Thioridazine|Psychosis :: low potency|
-||Chlorpromazine|Psychosis :: low potency|
-|2° [Atypical] Antipsychotics|Clozapine|Psychosis|
-||Olanzapine|Psychosis|
-||Quetiapine|Psychosis|
-||Risperidone|Psychosis|
-||Ziprasidone|Psychosis|
+|D2 antagonists|1° [Typical] Antipsychotics :: high potency:<br>Haloperidol<br>Trifluoperazine<br>Fluphenazine|Psychosis|
+||1° [Typical] Antipsychotics :: low potency:<br>Chlorpromazine<br>Thioridazine|Psychosis|
+||2° [Atypical] Antipsychotics:<br>Clozapine<br>Olanzapine<br>Quetiapine<br>Risperidone<br>Ziprasidone|Psychosis|
 
 ## Side Effects of Antipsychotics
 
