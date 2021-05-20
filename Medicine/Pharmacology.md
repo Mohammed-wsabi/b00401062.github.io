@@ -29,7 +29,7 @@
 - Ritonavir
 - Macrolide
 - Amiodarone
-- Sulfonamide
+- Sulfonamides
 - Ketoconazole
 - Quinolone
 - Quinidine
@@ -41,9 +41,9 @@
 - Acetazolamide
 - Celecoxib
 - Thiazide
-- Sulfonamide
+- Sulfonamides
 - Sulfasalazine
-- Sulfonylurea
+- Sulfonylureas
 
 ## Mechanisms of Action of Medications Targeting Ion Channels
 
@@ -60,7 +60,7 @@
 |K channel activators|Diazoxide|Vasodilation & Insulinoma|
 ||Minoxidil|Vasodilation & Alopecia|
 |K channel blockers|Class 3 antiarrhythmics|Arrhythmia|
-||Sulfonylurea|DM type 2|
+||Sulfonylureas|DM type 2|
 ||Aminopyridine|-|
 |Ca channel activators|-|-|
 |Ca channel blockers|Class 4 antiarrhythmics|Arrhythmia|
@@ -609,7 +609,7 @@
 ## Medications Causing Hemolysis in G6PD Deficiency {IS-D-PAIN}
 
 - Isoniazid
-- Sulfonamide
+- Sulfonamides
 - Dapsone
 - Primaquine
 - Aspirin
@@ -625,7 +625,7 @@
 
 - Flucytosine
 - Amiodarone
-- Sulfonamide
+- Sulfonamides
 - Tetracycline
 
 ## Medications Causing SLE-like Syndrome {HIPPIES}
@@ -656,7 +656,7 @@
 - Griseofulvin
 - Metronidazole
 - Procarbazine
-- Sulfonylurea
+- Sulfonylureas
 
 ## Medications Causing Nephrotoxicity & Ototoxicity
 
