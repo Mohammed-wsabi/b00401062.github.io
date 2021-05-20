@@ -428,14 +428,12 @@
 
 ## Treatment of Atrial Fibrillation
 
-- Anticoagulants
-	- If > 48 hours
-	- If CHA<sub>2</sub>DS<sub>2</sub>-VASc ≥ 2
 - Cardioversion
-	- If hemodynamically unstable
-	- If < 48 hours
-	- If no atrial thrombus on echocardiogram
-	- If anticoagulated
+	- Duration < 48 hours<br>Hemodynamically unstable
+	- Anticoagulated<br>No atrial thrombus on echocardiogram
+- Anticoagulants
+	- Duration > 48 hours
+	- CHA<sub>2</sub>DS<sub>2</sub>-VASc ≥ 2
 - Antiarrhythmics
 	- Rate control :: Class 2 & 4 & Digoxin
 	- Rhythm control :: Class 1 & 3
