@@ -97,8 +97,8 @@
 - Alert
 - Lethargic
 - Obtunded
-- Stupor
-- Coma
+- Stuporous
+- Comatose
 
 ## Muscle Power (MP)
 
