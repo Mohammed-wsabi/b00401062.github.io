@@ -837,9 +837,10 @@
 |GNB :: enteric|2° Cephalosporins & Fluoroquinolones & Trimethoprim & Sulfonamides|
 |Bacteroides fragilis|Carbapenems & Metronidazole|
 |Pseudomonas aeruginosa|Anti-pseudomonal β-lactams & Anti-pseudomonal fluoroquinolones|
+|Bartonella henselae|Tetracyclines & Macrolides|
 |Helicobacter pylori|Penicillinase-sensitive penicillin & Macrolides & Metronidazole|
-|Borrelia|Tetracyclines & Macrolides & 3° Cephalosporins|
-|Treponema|Penicillin & Tetracyclines & 3° Cephalosporins|
+|Borrelia burgdorferi|Tetracyclines & Amoxicillin & 3° Cephalosporins|
+|Treponema pallidum|Penicillin & Tetracyclines & 3° Cephalosporins|
 |Chlamydia|Tetracyclines & Macrolides|
 |Rickettsia|Tetracyclines & Macrolides|
 |Pneumocystis jiroveci|Trimethoprim & Sulfonamides|
