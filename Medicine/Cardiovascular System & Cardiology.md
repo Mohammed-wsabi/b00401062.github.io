@@ -430,7 +430,7 @@
 
 - Cardioversion
 	- Duration < 48 hours<br>Hemodynamically unstable
-	- Anticoagulated<br>No atrial thrombus on echocardiogram
+	- Anticoagulated<br>No atrial thrombus on TEE
 - Anticoagulants
 	- Duration > 48 hours
 	- CHA<sub>2</sub>DS<sub>2</sub>-VASc ≥ 2
