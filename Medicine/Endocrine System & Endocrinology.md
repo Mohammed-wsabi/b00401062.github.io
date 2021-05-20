@@ -280,8 +280,8 @@
 |||Short acting:<br>Regular insulin|DM|
 |||Intermediate acting:<br>NPH insulin|DM|
 |||Long acting:<br>Glargine<br>Detemir|DM|
-|K channel blockers|↑ Insulin|1° Sulfonylurea:<br>Tolbutamide<br>Chlorpropamide|DM type 2|
-|||2° Sulfonylurea:<br>Glimepiride<br>Glipizide<br>Glyburide|DM type 2|
+|K channel blockers|↑ Insulin|1° Sulfonylureas:<br>Tolbutamide<br>Chlorpropamide|DM type 2|
+|||2° Sulfonylureas:<br>Glimepiride<br>Glipizide<br>Glyburide|DM type 2|
 |||Meglitinides [-Glinides]|DM type 2|
 |DPP-4 inhibitors|↑ Insulin<br>↓ Glucagon|-Gliptins|DM type 2|
 |GLP-1 analogs|↑ Insulin<br>↓ Glucagon|Exenatide|DM type 2|
