@@ -52,10 +52,10 @@
 |Mechanism|Mnemonic|Medication|Indications|Location|Serum K|Serum H|Serum Ca|
 |-|-|-|-|-|-|-|-|
 |Carbonic anhydrase inhibitors|Abnormal|Acetazolamide|Diuretics|Proximal convoluted tubule (PCT)|↓|↑|-|
-|Na-K-2Cl sympoter blockers|Loss|Loop diuretics: Furosemide & Bumetanide & Torsemide|Diuretics|Ascending loop of Henle|↓|↓|↓|
+|Na-K-2Cl sympoter blockers|Loss|Loop diuretics:<br>Furosemide<br>Bumetanide<br>Torsemide|Diuretics|Ascending loop of Henle|↓|↓|↓|
 |Na-Cl sympoter blockers|Through|Thiazide|Diuretics|Distal convoluted tubule (DCT)|↓|↓|↑|
-|Na channel blockers|Kidney|K-sparing diuretics: Amiloride & Triamterene|Diuretics|Collecting tubule (CT)|↑|↑|-|
-|Aldosterone antagonists|Kidney|K-sparing diuretics: Spironolactone & Eplerenone|Diuretics|Collecting tubule (CT)|↑|↑|-|
+|Na channel blockers|Kidney|K-sparing diuretics:<br>Amiloride<br>Triamterene|Diuretics|Collecting tubule (CT)|↑|↑|-|
+|Aldosterone antagonists|Kidney|K-sparing diuretics:<br>Spironolactone<br>Eplerenone|Diuretics|Collecting tubule (CT)|↑|↑|-|
 
 ## Indications for Acute Dialysis {AEIOU}
 
@@ -110,7 +110,7 @@
 |-|-|-|-|
 |Risk|1.5x ~ 2x|50 ~ 75%|< 0.5 mL/kg/h for 6 ~ 12 hours|
 |Injury|2x ~ 3x|25 ~ 50%|< 0.5 mL/kg/h for 12 ~ 24 hours|
-|Failure|> 3x / ↑ > 0.5 mg/dL to > 4.0 mg/dL|< 25%|< 0.3 mL/kg/h for > 24 hours / 0 mL/kg/h for > 12 hours|
+|Failure|> 3x<br>↑ > 0.5 mg/dL to > 4.0 mg/dL|< 25%|< 0.3 mL/kg/h for > 24 hours<br>0 mL/kg/h for > 12 hours|
 |Loss|Failure > 4 weeks|||
 |ESRD|Failure > 3 months|||
 
@@ -118,9 +118,9 @@
 
 |Stage|Cr|Urine|
 |-|-|-|
-|1|1.5x ~ 2x / ↑ > 0.3 mg/dL|< 0.5 mL/kg/h for 6 ~ 12 hours|
+|1|1.5x ~ 2x<br>↑ > 0.3 mg/dL|< 0.5 mL/kg/h for 6 ~ 12 hours|
 |2|2x ~ 3x|< 0.5 mL/kg/h for 12 ~ 24 hours|
-|3|> 3x / ↑ > 0.5 mg/dL to > 4.0 mg/dL|< 0.3 mL/kg/h for > 24 hours / 0 mL/kg/h for > 12 hours|
+|3|> 3x<br>↑ > 0.5 mg/dL to > 4.0 mg/dL|< 0.3 mL/kg/h for > 24 hours<br>0 mL/kg/h for > 12 hours|
 
 ## Staging of Chronic Kidney Disease (CKD)
 
