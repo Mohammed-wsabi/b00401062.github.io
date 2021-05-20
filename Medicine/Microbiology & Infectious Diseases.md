@@ -814,36 +814,36 @@
 |Pathogens|Antibiotics|
 |-|-|
 |Staphylococcus aureus|Penicillinase-resistant penicillin|
-|Streptococcus pneumoniae|Penicillinase-sensitive penicillin & 3° Cephalosporins & Macrolides|
+|Streptococcus pneumoniae|Penicillinase-sensitive penicillin<br>3° Cephalosporins<br>Macrolides|
 |GAS :: Streptococcus pyogenes|Penicillinase-sensitive penicillin|
 |GBS :: Streptococcus agalactiae|Penicillinase-sensitive penicillin|
 |Enterococcus|Penicillinase-sensitive penicillin|
-|Bacillus anthracis|Carbapenems & Fluoroquinolones|
-|Clostridium perfringens|Penicillin & Clindamycin|
-|Clostridium difficile|Vancomycin & Metronidazole|
-|Corynebacterium|Penicillin & Macrolides|
+|Bacillus anthracis|Carbapenems<br>Fluoroquinolones|
+|Clostridium perfringens|Penicillin<br>Clindamycin|
+|Clostridium difficile|Vancomycin<br>Metronidazole|
+|Corynebacterium|Penicillin<br>Macrolides|
 |Listeria|Penicillinase-sensitive penicillin|
-|Mycobacterium tuberculosis|Rifampin & Isoniazid & Pyrazinamide & Ethambutol|
-|Mycobacterium leprae|Dapsone & Rifampin & Clofazimine|
+|Mycobacterium tuberculosis|Rifampin<br>Isoniazid<br>Pyrazinamide<br>Ethambutol|
+|Mycobacterium leprae|Dapsone<br>Rifampin<br>Clofazimine|
 |Mycobacterium avium|Macrolides|
 |Actinomyces|Penicillin|
-|Nocardia|Trimethoprim & Sulfonamides|
-|Neisseria meningitides|Penicillinase-sensitive penicillin & 3° Cephalosporins|
-|Neisseria gonorrhoeae|3° Cephalosporins & Macrolides|
+|Nocardia|Trimethoprim<br>Sulfonamides|
+|Neisseria meningitides|Penicillinase-sensitive penicillin<br>3° Cephalosporins|
+|Neisseria gonorrhoeae|3° Cephalosporins<br>Macrolides|
 |Acinetobacter baumannii|Anti-pseudomonal β-lactams|
 |Bordetella pertussis|Macrolides|
-|Haemophilus influenzae|Penicillinase-sensitive penicillin & 2° Cephalosporins|
+|Haemophilus influenzae|Penicillinase-sensitive penicillin<br>2° Cephalosporins|
 |Legionella pneumophilia|Macrolides|
-|GNB :: enteric|2° Cephalosporins & Fluoroquinolones & Trimethoprim & Sulfonamides|
-|Bacteroides fragilis|Carbapenems & Metronidazole|
-|Pseudomonas aeruginosa|Anti-pseudomonal β-lactams & Anti-pseudomonal fluoroquinolones|
-|Bartonella henselae|Tetracyclines & Macrolides|
-|Helicobacter pylori|Penicillinase-sensitive penicillin & Macrolides & Metronidazole|
-|Borrelia burgdorferi|Tetracyclines & Amoxicillin & 3° Cephalosporins|
-|Treponema pallidum|Penicillin & Tetracyclines & 3° Cephalosporins|
-|Chlamydia|Tetracyclines & Macrolides|
-|Rickettsia|Tetracyclines & Macrolides|
-|Pneumocystis jiroveci|Trimethoprim & Sulfonamides|
+|GNB :: enteric|2° Cephalosporins<br>Fluoroquinolones<br>Trimethoprim<br>Sulfonamides|
+|Bacteroides fragilis|Carbapenems<br>Metronidazole|
+|Pseudomonas aeruginosa|Anti-pseudomonal β-lactams<br>Anti-pseudomonal fluoroquinolones|
+|Bartonella henselae|Tetracyclines<br>Macrolides|
+|Helicobacter pylori|Penicillinase-sensitive penicillin<br>Macrolides<br>Metronidazole|
+|Borrelia burgdorferi|Tetracyclines<br>Penicillinase-sensitive penicillin<br>3° Cephalosporins|
+|Treponema pallidum|Penicillin<br>Tetracyclines<br>3° Cephalosporins|
+|Chlamydia|Tetracyclines<br>Macrolides|
+|Rickettsia|Tetracyclines<br>Macrolides|
+|Pneumocystis jiroveci|Trimethoprim<br>Sulfonamides|
 
 ## Therapeutic Antibiotics for Drug-resistant Bacteria
 
