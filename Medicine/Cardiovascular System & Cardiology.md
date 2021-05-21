@@ -102,15 +102,12 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|α<sub>1</sub> antagonists|Terazosin|Vasodilation|
-||Doxazosin|Vasodilation|
-||Prazosin|Vasodilation|
-|α<sub>2</sub> agonists|Clonidine|Vasodilation|
-||Methyldopa|Vasodilation|
+|α<sub>1</sub> antagonists|Terazosin<br>Doxazosin<br>Prazosin|Vasodilation|
+|α<sub>2</sub> agonists|Clonidine<br>Methyldopa|Vasodilation|
 |Ca channel blockers|-Dipines|Vasodilation|
-|K channel activators|Minoxidil & Diazoxide|Vasodilation|
-|NO donors|Nitroprusside & Hydralazine|Vasodilation|
-|PDE inhibitors|Dipyridamole & Cilostazol|Vasodilation|
+|K channel activators|Minoxidil<br>Diazoxide|Vasodilation|
+|NO donors|Nitroprusside<br>Hydralazine|Vasodilation|
+|PDE inhibitors|Dipyridamole<br>Cilostazol|Vasodilation|
 |A<sub>1</sub> agonists|Adenosine|Vasodilation|
 
 ## Mechanisms of Action of Inotropes
