@@ -163,11 +163,11 @@
 |Microscopic polyangiitis|+|-|Crescent|-|-|-|MPO-ANCA [p-ANCA]|
 |Rapidly progressive glomerulonephritis (RPGN)|+|-|Crescent|-|-|-|-|
 |Acute proliferative glomerulonephritis (APGN)|+|-|Lumpy-bumpy<br>Starry sky|Granular|Subepithelial|↓|GAS|
-|Membranoproliferative glomerulonephritis (MPGN)|+|+|Mesangial proliferation<br>GBM thickening<br>Tram-track|Granular|Subendothelial|↓|SLE & HBV & HCV|
+|Membranoproliferative glomerulonephritis (MPGN)|+|+|Mesangial proliferation<br>GBM thickening<br>Tram-track|Granular|Subendothelial|↓|SLE<br>HBV<br>HCV|
 |Diffuse proliferative glomerulonephritis (DPGN)|+|+|Wire looping|Granular|Subendothelial|↓|SLE|
-|Membranous nephropathy|-|+|GBM thickening<br>Spike-and-dome|Granular|Subepithelial|-|SLE & HBV & HCV|
+|Membranous nephropathy|-|+|GBM thickening<br>Spike-and-dome|Granular|Subepithelial|-|SLE<br>HBV<br>HCV|
 |Minimal change disease (MCD)|-|+|Podocyte effacement|-|-|-|-|
-|Focal segmental glomerulosclerosis (FSGS)|-|+|Segmental sclerosis<br>Hyalinosis<br>Podocyte effacement|-|-|-|HIV & SCD|
+|Focal segmental glomerulosclerosis (FSGS)|-|+|Segmental sclerosis<br>Hyalinosis<br>Podocyte effacement|-|-|-|HIV<br>SCD|
 |Diabetic nephropathy|-|+|Nodular sclerosis|-|-|-|-|
 |Amyloid nephropathy|-|+|Nodular sclerosis|-|-|-|-|
 
