@@ -54,3 +54,26 @@
 - Hydroxocobalamin
 - Thiosulfate
 - Nitrites
+
+## Antidotes for Toxins
+
+|Toxin|Antidotes|
+|-|-|
+|Acetaminophen|N-acetylcysteine|
+|Anticholinesterases<br>Organophosphates|Atropine<br>pralidoxime|
+|Anticholinergics|Physostigmine|
+|Cyanide|Hydroxocobalamin<br>Thiosulfate<br>Nitrites|
+|Methemoglobin|Methylene blue<br>Vitamin C|
+|Arsenic [As]<br>Mercury [Hg]<br>Gold [Au]|Succimer<br>Dimercaprol|
+|Iron [Fe]|Deferasirox<br>Deferoxamine<br>Deferiprone|
+|Copper|Penicillamin<br>Trientine|
+|Carbon monoxide [CO]|100% O<sub>2</sub><br>Hyperbaric O<sub>2</sub>|
+|Lead|EDTA<br>Dimercaprol<br>Succimer<br>Penicillamine|
+|Methanol<br>Ethylene glycol|Fomepizole<br>Ethanol|
+|Barbiturates|NaHCO<sub>3</sub>|
+|Benzodiazepines|Flumazenil|
+|Opioids|Naloxone|
+|Salicylate<br>TCAs|NaHCO<sub>3</sub>|
+|Digitalis|Anti-digitalis|
+|Heparin|Protamine sulfate|
+|Warfarin|FFP<br>Vitamin K|
