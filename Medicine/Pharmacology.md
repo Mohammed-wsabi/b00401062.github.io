@@ -280,8 +280,8 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|GABA-A agonists|Barbiturate|Anesthesia & Seizure|
-||Benzodiazepine|Anesthesia & Seizure|
+|GABA-A agonists|Barbiturates|Anesthesia & Seizure|
+||Benzodiazepines|Anesthesia & Seizure|
 ||Propofol|Anesthesia|
 ||Etomidate|Anesthesia|
 ||Alcohol|-|
