@@ -76,4 +76,5 @@
 |Salicylate<br>TCAs|NaHCO<sub>3</sub>|
 |Digitalis|Anti-digitalis|
 |Heparin|Protamine sulfate|
-|Warfarin|FFP<br>Vitamin K|
+|Warfarin|Fresh frozen plasma (FFP)<br>Vitamin K|
+|tPA|Aminocaproic acid|
