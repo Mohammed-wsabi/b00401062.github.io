@@ -156,14 +156,14 @@
 |Glomerulopathy|Nephritis|Nephrosis|LM/IF/EM|IC Shape|IC Location|C3|Associations|
 |-|-|-|-|-|-|-|-|
 |IgA nephropathy [Berger disease]|+|-|Mesangial proliferation|Mesangial|Mesangial|-|HSP|
-|Alport syndrome|+|-|Basket-weave appearance|-|-|-|-|
+|Alport syndrome|+|-|GBM thinning<br>GBM splitting<br>Basket-weave appearance|-|-|-|-|
 |Anti-GBM disease [Goodpasture syndrome]|+|-|Crescent shape|Linear|GBM|-|-|
 |Granulomatosis with polyangiitis (GPA) [Wegener granulomatosis]|+|-|Crescent shape|-|-|-|PR3-ANCA [c-ANCA]|
 |Eosinophilic granulomatosis with polyangiitis (EGPA) [Churg-Strauss syndrome]|+|-|Crescent shape|-|-|-|MPO-ANCA [p-ANCA]|
 |Microscopic polyangiitis|+|-|Crescent shape|-|-|-|MPO-ANCA [p-ANCA]|
 |Rapidly progressive glomerulonephritis (RPGN)|+|-|Crescent shape|-|-|-|-|
 |Acute proliferative glomerulonephritis (APGN)|+|-|Lumpy-bumpy appearance<br>Starry sky appearance|Granular|Subepithelial|↓|GAS|
-|Membranoproliferative glomerulonephritis (MPGN)|+|+|Mesangial proliferation<br>GBM thickening<br>Tram-track appearance|Granular|Subendothelial|↓|SLE<br>HBV<br>HCV|
+|Membranoproliferative glomerulonephritis (MPGN)|+|+|Mesangial proliferation<br>GBM thickening<br>GBM splitting<br>Tram-track appearance|Granular|Subendothelial|↓|SLE<br>HBV<br>HCV|
 |Diffuse proliferative glomerulonephritis (DPGN)|+|+|Wire looping appearance|Granular|Subendothelial|↓|SLE|
 |Membranous nephropathy|-|+|GBM thickening<br>Spike-and-dome appearance|Granular|Subepithelial|-|SLE<br>HBV<br>HCV|
 |Minimal change disease (MCD)|-|+|Podocyte effacement|-|-|-|-|
