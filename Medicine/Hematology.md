@@ -254,6 +254,12 @@
 - Karyotyping
 - Genotyping
 
+## Virchow Triad for Thrombosis {SHE}
+
+- Stasis of blood flow
+- Hypercoagulability
+- Endothelial injury
+
 ## Coagulation Pathway
 
 ![](../Figures/Coagulation%20Pathway.png)
