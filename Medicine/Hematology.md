@@ -350,8 +350,8 @@
 
 ||UFH|LMWH|
 |-|-|-|
-|Bioavailability|-|Better|
-|Specificity to Factor 10a|-|Better|
+|Bioavailability|-|↑|
+|Specificity to Factor 10a|-|↑|
 |Monitor|PTT|-|
 |Side Effect|HIT & Osteoporosis|-|
 |Antidote|Protamine sulfate|-|
