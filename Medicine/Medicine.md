@@ -336,7 +336,7 @@
 	- **Iron & Isoniazid**
 	- **Lactate**
 	- **Ethanol & Ethylene glycol**
-	- **Salicylate**
+	- **Salicylates**
 
 ## Workup of Metabolic Alkalosis
 
