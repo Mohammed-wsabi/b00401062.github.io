@@ -77,4 +77,4 @@
 |Digitalis|Anti-digitalis|
 |Heparin|Protamine sulfate|
 |Warfarin|Fresh frozen plasma (FFP)<br>Vitamin K|
-|tPA|Aminocaproic acid|
+|tPAs|Aminocaproic acid|
