@@ -254,15 +254,29 @@
 - Karyotyping
 - Genotyping
 
-## Virchow Triad for Thrombosis {SHE}
-
-- Stasis of blood flow
-- Hypercoagulability
-- Endothelial injury
-
 ## Coagulation Pathway
 
 ![](../Figures/Coagulation%20Pathway.png)
+
+## Virchow Triad for Thrombosis {SHE}
+
+- Stasis → VTE
+- Hypercoagulability → ATE / VTE
+- Endothelial injury → ATE
+
+## Thromboembolism Diseases
+
+### Arterial
+
+- Myocardial infarction
+- Peripheral artery disease (PAD)
+- Intestinal ischemia
+- Ischemic stroke
+
+### Venous
+
+- Deep vein thrombosis (DVT)
+- Pulmonary embolism (PE)
 
 ## Etiology of Hypocoagulability
 
