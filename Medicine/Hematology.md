@@ -262,7 +262,7 @@
 
 |Enzyme|Targets|
 |-|-|
-|VKOR inhibitors|Factor 2 & **7** & 9 & 10 & **Protein C/S**|
+|VKOR|Factor 2 & **7** & 9 & 10 & **Protein C/S**|
 |Antithrombin|Factor **2** & 7 & 9 & **10** & 11 & 12|
 |Protein C/S|Factor 5 & 8|
 |Plasmin|Factor 1|
