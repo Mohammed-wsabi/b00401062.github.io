@@ -332,7 +332,7 @@
 ||Bivalirudin|Anticoagulant|
 ||Argatroban|Anticoagulant|
 ||Dabigatran|Anticoagulant|
-|tPA inducers|Urokinase|Anticoagulant|
+|Tissue plasminogen activators (tPAs)|Urokinase|Anticoagulant|
 ||Streptokinase|Anticoagulant|
 ||Alteplase|Anticoagulant|
 ||Reteplase|Anticoagulant|
