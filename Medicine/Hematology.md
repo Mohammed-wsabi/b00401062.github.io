@@ -332,8 +332,8 @@
 |-|-|-|
 |VKOR inhibitors|Warfarin|Anticoagulant|
 ||Coumadin|Anticoagulant|
-|Antithrombin inducers|UFH: Heparin|Anticoagulant|
-||LMWH:<br>Enoxaparin<br>Dalteparin|Anticoagulant|
+|Antithrombin inducers|Unfractionated heparin (UFH)|Anticoagulant|
+||Low-molecular-weight heparin (LMWH):<br>Enoxaparin<br>Dalteparin|Anticoagulant|
 |Factor 10a inhibitors|Apixaban|Anticoagulant|
 ||Rivaroxaban|Anticoagulant|
 |Factor 2a inhibitors|Hirudin|Anticoagulant|
