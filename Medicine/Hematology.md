@@ -258,6 +258,15 @@
 
 ![](../Figures/Coagulation%20Pathway.png)
 
+## Enzymes Targeting Coagulation Factors
+
+|Enzyme|Targets|
+|-|-|
+|VKOR inhibitors|Factor 2 & **7** & 9 & 10 & **Protein C/S**|
+|Antithrombin|Factor **2** & 7 & 9 & **10** & 11 & 12|
+|Protein C/S|Factor 5 & 8|
+|Plasmin|Factor 1|
+
 ## Virchow Triad for Thrombosis {SHE}
 
 - Stasis → VTE
@@ -291,7 +300,7 @@
 |Bernard-Soulier disease (BSD)|↓ Gp1b|-|↑|-|-|
 |Glanzmann disease|↓ Gp2b/3a|-|↑|-|-|
 |Hemophilia A & B & C|↓ Factor 8 & 9 & 11|-|-|-|↑|
-|Vitamin K deficiency|↓ Factor 2 & 7 & 9 & 10 & C & S|-|-|↑|↑|
+|Vitamin K deficiency|↓ Factor 2 & 7 & 9 & 10|-|-|↑|↑|
 
 ## Etiology of Hypercoagulability
 
@@ -323,9 +332,8 @@
 |-|-|-|
 |VKOR inhibitors|Warfarin|Anticoagulant|
 ||Coumadin|Anticoagulant|
-|Antithrombin inducers|UFH :: Heparin|Anticoagulant|
-||LMWH :: Enoxaparin|Anticoagulant|
-||LMWH :: Dalteparin|Anticoagulant|
+|Antithrombin inducers|UFH: Heparin|Anticoagulant|
+||LMWH:<br>Enoxaparin<br>Dalteparin|Anticoagulant|
 |Factor 10a inhibitors|Apixaban|Anticoagulant|
 ||Rivaroxaban|Anticoagulant|
 |Factor 2a inhibitors|Hirudin|Anticoagulant|
@@ -337,15 +345,6 @@
 ||Alteplase|Anticoagulant|
 ||Reteplase|Anticoagulant|
 ||Tenecteplase|Anticoagulant|
-
-## Targets of Anticoagulants
-
-|Anticoagulants|Targets|
-|-|-|
-|VKOR inhibitors|Factor 2 & **7** & 9 & 10 & **Protein C/S**|
-|Antithrombin|Factor **2** & 7 & 9 & **10** & 11 & 12|
-|Plasmin|Factor 1|
-|Protein C/S|Factor 5 & 8|
 
 ## Heparin Variants
 
