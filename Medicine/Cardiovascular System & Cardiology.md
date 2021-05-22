@@ -71,12 +71,6 @@
 |Fixed|ASD|
 |Paradoxical|Aortic stenosis & LBBB|
 
-## Virchow Triad for Thrombosis {SHE}
-
-- Stasis of blood flow
-- Hypercoagulability
-- Endothelial injury
-
 ## Effects of Adrenergic Agents
 
 |Agent|CO|SVR|MAP|
