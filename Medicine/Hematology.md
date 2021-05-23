@@ -185,7 +185,7 @@
 |Hodgkin lymphoma|-|
 |Burkitt lymphoma|t(8;14) → C-MYC/IGH|
 |Diffuse large B-cell lymphoma (DLBCL)|-|
-|Marginal zone lymphoma & MALT lymphoma|-|
+|Marginal zone lymphoma<br>MALT lymphoma (MALToma)|-|
 |Mantle cell lymphoma|t(11;14) → Cyclin D (CCND)|
 |Follicular lymphoma|t(14;18) → BCL2|
 
@@ -289,19 +289,19 @@
 
 ## Etiology of Hypocoagulability
 
-|Etiology|Mechanism|PLT|BT|PT|PTT|
-|-|-|-|-|-|-|
-|Disseminated intravascular coagulation (DIC)|-|↓|↑|↑|↑|
-|Thrombotic thrombocytopenic purpura (TTP)|↓ ADAMTS13|↓|↑|-|-|
-|Hemolytic uremic syndrome (HUS)|Shiga toxin<br>Shiga-like toxin|↓|↑|-|-|
-|Immune thrombocytopenic purpura (ITP)|Anti-Gp1b<br>Anti-Gp2b/3a|↓|↑|-|-|
-|Heparin-induced thrombocytopenia (HIT)|Anti-platelet factor 4 (Anti-PF4)|↓|↑|-|-|
-|Antiphospholipid syndrome|Anti-cardiolipin<br>Anti-β2-glycoprotein I<br>Lupus anticoagulant|-|-|-|↑|
-|Von Willebrand disease (VWD)|↓ vWF|-|↑|-|↑|
-|Bernard-Soulier disease (BSD)|↓ Gp1b|-|↑|-|-|
-|Glanzmann disease|↓ Gp2b/3a|-|↑|-|-|
-|Hemophilia A & B & C|↓ Factor 8 & 9 & 11|-|-|-|↑|
-|Vitamin K deficiency|↓ Factor 2 & 7 & 9 & 10|-|-|↑|↑|
+|Etiology|Mechanism|PLT|BT|PT|PTT|Clots|
+|-|-|-|-|-|-|-|
+|Disseminated intravascular coagulation (DIC)|-|↓|↑|↑|↑|+|
+|Thrombotic thrombocytopenic purpura (TTP)|↓ ADAMTS13|↓|↑|-|-|+|
+|Hemolytic uremic syndrome (HUS)|Shiga toxin<br>Shiga-like toxin|↓|↑|-|-|-|
+|Immune thrombocytopenic purpura (ITP)|Anti-Gp1b<br>Anti-Gp2b/3a|↓|↑|-|-|-|
+|Heparin-induced thrombocytopenia (HIT)|Anti-platelet factor 4 (Anti-PF4)|↓|↑|-|-|+|
+|Antiphospholipid syndrome (APS)|Anti-cardiolipin<br>Anti-β2-glycoprotein I<br>Lupus anticoagulant|-|-|-|↑|+|
+|Von Willebrand disease (VWD)|↓ vWF|-|↑|-|↑|-|
+|Bernard-Soulier disease (BSD)|↓ Gp1b|-|↑|-|-|-|
+|Glanzmann disease|↓ Gp2b/3a|-|↑|-|-|-|
+|Hemophilia A & B & C|↓ Factor 8 & 9 & 11|-|-|-|↑|-|
+|Vitamin K deficiency|↓ Factor 2 & 7 & 9 & 10|-|-|↑|↑|-|
 
 ## Etiology of Hypercoagulability
 
