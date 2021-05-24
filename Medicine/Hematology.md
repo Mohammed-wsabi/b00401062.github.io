@@ -67,12 +67,12 @@
 
 ### Microcytic Anemia {TSAI}
 
-|Anemia|Fe|Ferritin|Transferrin [TIBC]|Saturation = Fe ÷ TIBC|
-|-|-|-|-|-|
-|Sideroblastic anemia|↑ (1°)|↑|↓|↑|
-|Iron deficiency anemia (IDA)|↓ (1°)|↓|↑|↓|
-|Thalassemia|-|-|-|-|
-|Anemia of chronic disorders|↓|↑ (1°)|↓|-|
+|Anemia|Fe|Ferritin|Transferrin [TIBC]|Saturation = Fe ÷ TIBC|Defect|
+|-|-|-|-|-|-|
+|Sideroblastic anemia|↑ (1°)|↑|↓|↑|Fe|
+|Iron deficiency anemia (IDA)|↓ (1°)|↓|↑|↓|Fe|
+|Thalassemia|-|-|-|-|Hemoglobin|
+|Anemia of chronic disorders|↓|↑ (1°)|↓|-|Heme|
 
 ### Normocytic Anemia :: Hemolytic Anemia
 
