@@ -65,17 +65,14 @@
 
 ![](../Figures/Differential%20Diagnosis%20of%20Anemia.png)
 
-### Microcytic Anemia {TAILS}
+### Microcytic Anemia {TSAI}
 
 |Anemia|Fe|Ferritin|Transferrin [TIBC]|Saturation = Fe ÷ TIBC|
 |-|-|-|-|-|
+|Sideroblastic anemia|↑ (1°)|↑|↓|↑|
+|Iron deficiency anemia (IDA)|↓ (1°)|↓|↑|↓|
 |Thalassemia|-|-|-|-|
 |Anemia of chronic disorders|↓|↑ (1°)|↓|-|
-|Iron deficiency anemia (IDA)|↓ (1°)|↓|↑|↓|
-|Lead poisoning|↑ (1°)|↑|↓|↑|
-|Sideroblastic anemia|↑ (1°)|↑|↓|↑|
-|Hemochromatosis|↑ (1°)|↑|↓|↑|
-|Pregnancy & OCP|-|-|↑ (1°)|↓|
 
 ### Normocytic Anemia :: Hemolytic Anemia
 
