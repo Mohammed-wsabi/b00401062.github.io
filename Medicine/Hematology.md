@@ -352,6 +352,7 @@
 ||UFH|LMWH|
 |-|-|-|
 |Bioavailability|-|↑|
+|Half-life|-|↑|
 |Specificity to Factor 10a|-|↑|
 |Monitor|PTT|-|
 |Side Effect|HIT & Osteoporosis|-|
