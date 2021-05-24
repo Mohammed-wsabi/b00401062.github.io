@@ -335,6 +335,7 @@
 ||Coumadin|Anticoagulant|
 |Antithrombin inducers|Unfractionated heparin (UFH)|Anticoagulant|
 ||Low-molecular-weight heparin (LMWH):<br>Enoxaparin<br>Dalteparin|Anticoagulant|
+||Fondaparinux|Anticoagulant|
 |Factor 10a inhibitors|Apixaban|Anticoagulant|
 ||Rivaroxaban|Anticoagulant|
 |Factor 2a inhibitors|Hirudin|Anticoagulant|
