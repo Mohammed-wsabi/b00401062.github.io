@@ -115,7 +115,7 @@
 
 ||Thalassemia|IDA|
 |-|-|-|
-|Mentzer index|< 13|> 13|
+|Mentzer index = MCV ÷ RBC|< 13|> 13|
 |RDW|-|↑|
 |Iron profile|Normal|Abnormal|
 
