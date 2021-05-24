@@ -305,7 +305,7 @@
 |Glanzmann disease|↓ Gp2b/3a|-|↑|-|-|-|
 |Hemophilia A & B & C|↓ Factor 8 & 9 & 11|-|-|-|↑|-|
 |Vitamin K deficiency|↓ Factor 2 & 7 & 9 & 10|-|-|↑|↑|-|
-|Cirrhosis|↓ Thrombopoietin (TPO) & Factors|↓|↑|↑|-|-|
+|Cirrhosis|↓ Thrombopoietin (TPO)<br>↓ Factors|↓|↑|↑|-|-|
 
 ## Etiology of Hypercoagulability
 
