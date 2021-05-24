@@ -98,6 +98,9 @@
 	- Infusion
 	- Macroangiopathic hemolytic anemia (MAHA)
 	- Microangiopathic hemolytic anemia (MAHA)
+		- Disseminated intravascular coagulation (DIC)
+		- Thrombotic thrombocytopenic purpura (TTP)
+		- Hemolytic uremic syndrome (HUS)
 	- Paroxysmal nocturnal hematuria (PNH)
 - Extravascular {PHAGES}
 	- Pyruvate kinase deficiency
