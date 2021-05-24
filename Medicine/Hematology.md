@@ -296,7 +296,7 @@
 |-|-|-|-|-|-|-|
 |Disseminated intravascular coagulation (DIC)|-|↓|↑|↑|↑|+|
 |Thrombotic thrombocytopenic purpura (TTP)|↓ ADAMTS13|↓|↑|-|-|+|
-|Hemolytic uremic syndrome (HUS)|Shiga toxin<br>Shiga-like toxin|↓|↑|-|-|-|
+|Hemolytic uremic syndrome (HUS)|↓ ADAMTS13<br>Shiga-like toxin|↓|↑|-|-|+|
 |Immune thrombocytopenic purpura (ITP)|Anti-Gp1b<br>Anti-Gp2b/3a|↓|↑|-|-|-|
 |Heparin-induced thrombocytopenia (HIT)|Anti-platelet factor 4 (Anti-PF4)|↓|↑|-|-|+|
 |Antiphospholipid syndrome (APS)|Anti-cardiolipin<br>Anti-β2-glycoprotein I<br>Lupus anticoagulant|-|-|-|↑|+|
