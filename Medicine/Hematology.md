@@ -305,6 +305,7 @@
 |Glanzmann disease|↓ Gp2b/3a|-|↑|-|-|-|
 |Hemophilia A & B & C|↓ Factor 8 & 9 & 11|-|-|-|↑|-|
 |Vitamin K deficiency|↓ Factor 2 & 7 & 9 & 10|-|-|↑|↑|-|
+|Cirrhosis|↓ Thrombopoietin (TPO) & Factors|↓|↑|↑|-|-|
 
 ## Etiology of Hypercoagulability
 
@@ -314,6 +315,8 @@
 |Prothrombin gene mutation|↑ Factor 2|
 |Antithrombin deficiency|↓ Antithrombin|
 |Protein C/S deficiency|↓ Protein C/S|
+|Nephrosis|↓ Protein C/S|
+|Pregnancy|↑ Factor 1|
 
 ## Mechanisms of Action of Antiplatelets
 
