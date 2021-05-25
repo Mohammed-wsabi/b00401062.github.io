@@ -79,7 +79,7 @@
 - Iron deficiency anemia (IDA)
 - Sideroblastic anemia
 	- Lead poisoning
-	- Vitamin B6 deficiency
+	- Vitamin B<sub>6</sub> deficiency
 
 ### Normocytic Anemia :: Non-hemolytic Anemia
 
@@ -123,7 +123,7 @@
 ### Macrocytic Anemia :: Megaloblastic
 
 - Folate deficiency
-- Vitamin B12 deficiency
+- Vitamin B<sub>12</sub> deficiency
 - Orotic aciduria
 - Fanconi anemia
 
