@@ -69,10 +69,22 @@
 
 |Anemia|Fe|Ferritin|Transferrin [TIBC]|Saturation = Fe ÷ TIBC|Defect|
 |-|-|-|-|-|-|
-|Sideroblastic anemia|↑ (1°)|↑|↓|↑|Fe|
-|Iron deficiency anemia (IDA)|↓ (1°)|↓|↑|↓|Fe|
 |Thalassemia|-|-|-|-|Hemoglobin|
-|Anemia of chronic disorders|↓|↑ (1°)|↓|-|Heme|
+|Anemia of chronic disease (ACD)|↓|↑ (1°)|↓|-|Heme|
+|Iron deficiency anemia (IDA)|↓ (1°)|↓|↑|↓|Fe|
+|Sideroblastic anemia|↑ (1°)|↑|↓|↑|Fe|
+
+- Thalassemia
+- Anemia of chronic disease (ACD)
+- Iron deficiency anemia (IDA)
+- Sideroblastic anemia
+	- Lead poisoning
+	- Vitamin B6 deficiency
+
+### Normocytic Anemia :: Non-hemolytic Anemia
+
+- Aplastic anemia
+- Chronic kidney disease (CKD)
 
 ### Normocytic Anemia :: Hemolytic Anemia
 
@@ -107,6 +119,18 @@
 	- G6PD deficiency
 	- Elliptocytosis
 	- Sickle cell disease (SCD)
+
+### Macrocytic Anemia :: Megaloblastic
+
+- Folate deficiency
+- Vitamin B12 deficiency
+- Orotic aciduria
+- Fanconi anemia
+
+### Macrocytic Anemia :: Non-megaloblastic
+
+- Alcoholism
+- Reticulocytosis
 
 ## Difference Between Thalassemia and IDA
 
