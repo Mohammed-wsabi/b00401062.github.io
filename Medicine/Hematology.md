@@ -65,7 +65,7 @@
 
 ![](../Figures/Differential%20Diagnosis%20of%20Anemia.png)
 
-### Microcytic Anemia {TSAI}
+### Microcytic Anemia {TAIS}
 
 |Anemia|Fe|Ferritin|Transferrin [TIBC]|Saturation = Fe ÷ TIBC|Defect|
 |-|-|-|-|-|-|
