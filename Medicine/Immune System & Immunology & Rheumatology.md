@@ -163,7 +163,7 @@
 |Lambert-Eaton myasthenic syndrome|Anti-presynatic Ca channel|
 |Myasthenia gravis|Anti-ACh receptor|
 |Pemphigus vulgaris|Anti-desmosome|
-|Pernicious anemia|Anti-parietal cell|
+|Pernicious anemia|Anti-parietal cell<br>Anti-intrinsic factor|
 |Rheumatic fever|Anti-M protein|
 |Transfusion reaction :: acute hemolytic (AHTR)|Anti-ABO<br>Anti-Rh|
 |Transplant reaction :: hyperacute|-|
