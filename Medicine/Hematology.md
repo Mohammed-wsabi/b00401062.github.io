@@ -310,6 +310,7 @@
 
 - Deep vein thrombosis (DVT)
 - Pulmonary embolism (PE)
+- Hepatic vein thrombosis
 
 ## Etiology of Hypocoagulability
 
