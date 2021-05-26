@@ -609,7 +609,7 @@
 ## Medications Causing Hemolysis in G6PD Deficiency {IS-D-PAIN}
 
 - Isoniazid
-- Sulfonamides
+- Sulfa drugs
 - Dapsone
 - Primaquine
 - Aspirin
