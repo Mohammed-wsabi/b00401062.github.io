@@ -70,9 +70,9 @@
 |Anemia|Fe|Ferritin|Transferrin [TIBC]|Saturation = Fe ÷ TIBC|Defect|
 |-|-|-|-|-|-|
 |Thalassemia|-|-|-|-|Hemoglobin|
-|Anemia of chronic disease (ACD)|↓|↑ (1°)|↓|-|Heme|
+|Anemia of chronic disease (ACD)|↓|↑ (1°)|↓|-|Fe|
 |Iron deficiency anemia (IDA)|↓ (1°)|↓|↑|↓|Fe|
-|Sideroblastic anemia|↑ (1°)|↑|↓|↑|Fe|
+|Sideroblastic anemia|↑ (1°)|↑|↓|↑|Heme|
 
 - Thalassemia
 - Anemia of chronic disease (ACD)
