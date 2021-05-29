@@ -564,6 +564,7 @@
 |C-KIT inhibitors|Imatinib|Gastrointestinal stromal tumor (GIST)|
 |EGFR inhibitors|Gefitinib & Erlotinib|Non-small cell lung cancer (NSCLC)|
 |VEGFR inhibitors|Sunitinib & Sorafenib|-|
+|JAK2 inhibitors|Ruxolitinib|Polycythemia vera (PCV)|
 
 ## Target Therapy
 
