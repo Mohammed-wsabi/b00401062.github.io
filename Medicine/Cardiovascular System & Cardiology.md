@@ -237,7 +237,7 @@
 |Shock|PCWP|CO|SVR|MAP|Treatment|
 |-|-|-|-|-|-|
 |Hypovolemic|↓ (1°)|↓|↑|↓|Fluids|
-|Cardiogenic|↑|↓ (1°)|↑|↓|Inotropes & Diuretics & Venodilators|
+|Cardiogenic|↑|↓ (1°)|↑|↓|Inotropes<br>Diuretics<br>Venodilators|
 |Distributive|-|↑|↓ (1°)|↓|Vasopressors|
 
 ## Types of Distributive Shock
