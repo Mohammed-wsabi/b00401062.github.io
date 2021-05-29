@@ -183,7 +183,7 @@
 |Drug-induced lupus|Anti-histone|
 |IgA vasculitis [Henoch-Schonlein purpura (HSP)]|IgA|
 |IgA nephropathy [Berger disease]|IgA|
-|Membranoproliferative glomerulonephritis|C3 nephritic factor|
+|Membranoproliferative glomerulonephritis (MPGN)|C3 nephritic factor|
 |Mixed connective tissue disease (MCTD)|Anti-U1 RNP|
 |Polyarteritis nodosa|-|
 |Polymyositis<br>Dermatomyositis|Anti-Jo-1<br>Anti-Mi-2<br>Anti-SRP|
