@@ -4,10 +4,11 @@
 
 ![](../Figures/Secondary%20Lymphoid%20Tissues.png)
 
-## Macrophages
+## Derivatives of Monocytes
 
 |Name|Site|
 |-|-|
+|Macrophage|Blood|
 |Microglia|Brain|
 |Alveolar macrophage|Lung|
 |Kupffer cell|Liver|
