@@ -125,7 +125,6 @@
 - Folate deficiency
 - Vitamin B<sub>12</sub> deficiency
 - Orotic aciduria
-- Fanconi anemia
 
 ### Macrocytic Anemia :: Non-megaloblastic
 
@@ -153,6 +152,24 @@
 - Asplenia
 - Liver disease
 - Thalassemia
+
+## Etiology of Aplastic Anemia
+
+- Fanconi anemia
+- Virus
+	- Parvovirus B19
+	- EBV
+	- CMV
+	- HIV
+	- Hepatitis
+- Toxins :: Benzene
+- Drugs
+	- Carbamazepine
+	- Methimazole
+	- Propylthiouracil
+	- NSAIDs
+	- Chloramphenicol
+- Radiation
 
 ## Presentation of Sickle Cell Disease (SCD)
 
