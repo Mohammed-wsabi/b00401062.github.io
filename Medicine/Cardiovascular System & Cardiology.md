@@ -232,7 +232,7 @@
 - Overriding aorta
 - Ventricular septal defect
 
-## Classification of Shocks
+## Classification of Shock
 
 |Shock|PCWP|CO|SVR|MAP|Treatment|
 |-|-|-|-|-|-|
