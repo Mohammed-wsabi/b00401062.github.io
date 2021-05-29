@@ -154,6 +154,27 @@
 - Liver disease
 - Thalassemia
 
+## Presentation of Sickle Cell Disease (SCD)
+
+- Vaso-occlusive crisis (VOC)
+- Acute chest syndrome
+- Mesenteric ischemia
+- Ischemic stroke
+- Hemolysis :: extravascular
+- Splenic sequestration
+- Aplastic anemia
+- Avascular necrosis
+- Osteomyelitis
+- Dactylitis
+- Priapism
+
+## Triggers of Vaso-occlusive Crisis (VOC) in Sickle Cell Disease (SCD)
+
+- Dehydration
+- Infection
+- Hypoxia
+- Cold temperatures
+
 ## Presentation of Acute Intermittent Porphyria (AIP) {5P}
 
 - Pain :: abdomen
