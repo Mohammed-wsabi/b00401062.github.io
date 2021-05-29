@@ -239,7 +239,12 @@
 |Hypovolemic|↓ (1°)|↓|↑|↓|Fluids|
 |Cardiogenic|↑|↓ (1°)|↑|↓|Inotropes & Diuretics & Venodilators|
 |Distributive|-|↑|↓ (1°)|↓|Vasopressors|
-|Neurogenic|↓|↓ (1°)|↓ (1°)|↓|Vasopressors|
+
+## Types of Distributive Shock
+
+- Anaphylactic shock
+- Septic shock
+- Neurogenic shock
 
 ## Classification of Hypovolemic Shock
 
