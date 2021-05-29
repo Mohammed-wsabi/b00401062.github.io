@@ -187,7 +187,10 @@
 
 - Phlebotomy
 - Antiplatelets :: Aspirin
-- Cytoreductive agents :: Hydroxyurea & Interferon & Busulfan
+- Cytoreductive agents
+	- Hydroxyurea
+	- Interferon
+	- Busulfan
 
 ## Leukemia & Lymphoma
 
