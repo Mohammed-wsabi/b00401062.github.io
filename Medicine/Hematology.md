@@ -162,13 +162,13 @@
 	- CMV
 	- HIV
 	- Hepatitis
-- Toxins :: Benzene
 - Drugs
 	- Carbamazepine
 	- Methimazole
 	- Propylthiouracil
 	- NSAIDs
 	- Chloramphenicol
+- Toxins :: Benzene
 - Radiation
 
 ## Presentation of Sickle Cell Disease (SCD)
