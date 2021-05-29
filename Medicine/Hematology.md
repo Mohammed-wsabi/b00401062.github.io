@@ -209,6 +209,14 @@
 	- Interferon
 	- Busulfan
 
+## Types of Transfusion Reactions
+
+|Type|Causes|
+|-|-|
+|Allergic|Anti-plasma proteins IgE<br>Anti-IgA IgE|
+|Hemolytic: acute & delayed|Anti-ABO<br>Anti-Rh|
+|Febrile nonhemolytic|Cytokines|
+
 ## Leukemia & Lymphoma
 
 ### Myeloid Leukemia
