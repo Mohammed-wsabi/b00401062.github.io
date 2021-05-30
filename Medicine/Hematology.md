@@ -276,7 +276,7 @@
 - Vincristine
 - Prednisolone
 
-## Monoclonal Spike [M Spike]
+## Causes of Monoclonal Spike [M Spike]
 
 - Multiple myeloma
 - Waldenström macroglobulinemia
