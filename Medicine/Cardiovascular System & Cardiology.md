@@ -90,7 +90,7 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |μ-opioid agonists|Morphine|Venodilation|
-|NO donors|Nitroglycerin & Isosorbide|Venodilation|
+|NO donors|Nitroglycerin<br>Isosorbide|Venodilation|
 
 ## Mechanisms of Action of Vasodilators
 
