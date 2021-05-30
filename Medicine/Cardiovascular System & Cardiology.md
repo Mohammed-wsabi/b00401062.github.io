@@ -495,8 +495,9 @@
 
 ## Treatment of Acute Coronary Syndrome (ACS) {MONAB}
 
-- Venodilators :: Morphine & NO donors
+- Morphine
 - Oxygen
+- Venodilators :: NO donors
 - Antiplatelets :: Aspirin & ADP antagonists
 - Anticoagulants :: Heparin
 - β<sub>1</sub> antagonists
