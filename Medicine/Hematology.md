@@ -276,11 +276,12 @@
 - Vincristine
 - Prednisolone
 
-## Monoclonal Antibody Spike
+## Monoclonal Spike [M Spike]
 
 - Multiple myeloma
-- Monoclonal gammopathy of undetermined significance (MGUS)
 - Waldenström macroglobulinemia
+- Monoclonal gammopathy of undetermined significance (MGUS)
+- AL amyloidosis
 
 ## Presentation of Multiple Myeloma {CRAB}
 
