@@ -249,7 +249,7 @@
 |Tumors|Mutations|
 |-|-|
 |Adult T-cell lymphoma|-|
-|Mycosis fungoides & Sezary syndrome|-|
+|Mycosis fungoides<br>Sezary syndrome|-|
 
 ### B-cell Lymphoma {HBD-MMF}
 
