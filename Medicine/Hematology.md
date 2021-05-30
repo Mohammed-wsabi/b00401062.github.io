@@ -161,7 +161,7 @@
 	- EBV
 	- CMV
 	- HIV
-	- Hepatitis
+	- Hepatitis virus
 - Drugs
 	- Carbamazepine
 	- Methimazole
