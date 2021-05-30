@@ -559,8 +559,8 @@
 |ABL1 inhibitors|Imatinib|CML|
 |BRAF inhibitors|Vemurafenib|Melanoma|
 |C-KIT inhibitors|Imatinib|Gastrointestinal stromal tumor (GIST)|
-|EGFR inhibitors|Gefitinib & Erlotinib|Non-small cell lung cancer (NSCLC)|
-|VEGFR inhibitors|Sunitinib & Sorafenib|-|
+|EGFR inhibitors|Gefitinib<br>Erlotinib|Non-small cell lung cancer (NSCLC)|
+|VEGFR inhibitors|Sunitinib<br>Sorafenib|-|
 |JAK2 inhibitors|Ruxolitinib|Polycythemia vera (PCV)|
 
 ## Target Therapy
