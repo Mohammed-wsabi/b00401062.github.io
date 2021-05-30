@@ -542,12 +542,9 @@
 |Gp2b/3a inhibitors|Abciximab|Antiplatelet|
 |RANKL inhibitors|Denosumab|Osteoporosis|
 |IgE inhibitors|Omalizumab|Asthma|
-|IL-2R inhibitors|Basiliximab|Immunosuppression|
-||Daclizumab|Immunosuppression|
-|TNF-α inhibitors|Infliximab|Immunosuppression|
-||Adalimumab|Immunosuppression|
-|CD20 inhibitors|Rituximab|Immunosuppression|
-|||Non-Hodgkin lymphoma|
+|IL-2R inhibitors|Basiliximab<br>Daclizumab|Immunosuppression|
+|TNF-α inhibitors|Infliximab<br>Adalimumab|Immunosuppression|
+|CD20 inhibitors|Rituximab|Immunosuppression<br>Non-Hodgkin lymphoma|
 |EGFR inhibitors|Cetuximab|Colorectal cancer|
 |HER2 inhibitors|Trastuzumab|Breast cancer|
 |VEGF inhibitors|Bevacizumab|Solid tumors|
