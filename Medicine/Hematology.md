@@ -268,6 +268,14 @@
 - Night sweats
 - Weight loss
 
+## Treatment of B-cell Non-Hodgkin Lymphoma {R-CHOP}
+
+- Rituximab
+- Cyclophosphamide
+- Doxorubicin
+- Vincristine
+- Prednisolone
+
 ## Monoclonal Antibody Spike
 
 - Multiple myeloma
