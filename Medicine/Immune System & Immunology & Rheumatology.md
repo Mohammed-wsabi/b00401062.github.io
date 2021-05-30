@@ -259,6 +259,17 @@
 - Eczema ← ↑ IgE & IgA
 - Recurrent infection
 
+## Etiology of Cold Sensitive Antibodies (CSA)
+
+- Infection
+	- Mycoplasma
+	- HCV
+	- EBV
+- Autoimmune disorders
+- IgM monoclonal gammopathy
+	- Waldenström macroglobulinemia
+	- IgM monoclonal gammopathy of undetermined signifi- cance (MGUS)
+
 ## Presentation of Sarcoidosis {GAUSH}
 
 - Granuloma :: non-caseating
