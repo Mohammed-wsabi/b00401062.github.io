@@ -262,7 +262,7 @@
 |Mantle cell lymphoma|t(11;14) → Cyclin D (CCND)|
 |Follicular lymphoma|t(14;18) → BCL2|
 
-## B Symptoms of Hodgkin Lymphoma
+## B Symptoms of Lymphoma
 
 - Fever
 - Night sweats
