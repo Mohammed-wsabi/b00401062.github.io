@@ -494,7 +494,7 @@
 	- Adenocarcinoma in situ (AIS)
 	- Adenocarcinoma
 
-![](../Figures/Bethesda%20System%20for%20Pap%20Smear%20Results.png)
+![](../Figures/Bethesda%20System%20for%20Pap%20Smear%20Results.jpg)
 
 ## Breast Imaging Reporting and Data System (BI-RADS)
 
