@@ -195,9 +195,8 @@
 |Cancer|Age|Tests|Frequency|
 |-|-|-|-|
 |Breast|50 ~ 75|Mammography|Every 2 years|
-|Cervical|20 ~ 30|Pap smear|Every 3 years|
-||30 ~ 65|Pap smear|Every 3 years|
-|||Pap smear & HPV testing|Every 5 years|
+|Cervical|20 ~ 65|Pap smear|Every 3 years|
+||30 ~ 65|Pap smear<br>HPV testing|Every 5 years|
 |Colon|50 ~ 75|Fecal occult blood testing|Every year|
 |||Sigmoidoscopy|Every 5 years|
 |||Colonoscopy|Every 10 years|
