@@ -491,7 +491,8 @@
 	- Squamous cell carcinoma
 - Glandular cell abnormalities
 	- Atypical glandular cell (AGC)
-	- Adenocarcinoma in situ
+	- Adenocarcinoma in situ (AIS)
+	- Adenocarcinoma
 
 ![](../Figures/Bethesda%20System%20for%20Pap%20Smear%20Results.png)
 
