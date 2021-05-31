@@ -482,6 +482,19 @@
 |GnRH agonists|Leuprolide :: pulsatile|Infertility|
 |hCG agonists|Choriogonadotropin|Infertility|
 
+## Bethesda System for Pap Smear Results
+
+- Squamous cell abnormalities
+	- Atypical squamous cell (ASC)
+	- Low-grade squamous intraepithelial lesion (LSIL)
+	- High-grade squamous intraepithelial lesion (HSIL)
+	- Squamous cell carcinoma
+- Glandular cell abnormalities
+	- Atypical glandular cell (AGC)
+	- Adenocarcinoma in situ
+
+![](../Figures/Bethesda%20System%20for%20Pap%20Smear%20Results.png)
+
 ## Breast Imaging Reporting and Data System (BI-RADS)
 
 |Category|Interpretation|Management|Likelihood of cancer|
