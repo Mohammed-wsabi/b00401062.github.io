@@ -949,7 +949,9 @@
 
 ## VDRL False Positives {VDRL}
 
-- Virus :: mononucleosis & hepatitis
+- Virus
+	- Hepatitis virus
+	- EBV
 - Drugs
 - Rheumatic fever & Rheumatoid arthritis
 - Lupus & Leprosy
