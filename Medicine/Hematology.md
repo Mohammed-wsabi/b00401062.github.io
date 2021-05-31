@@ -268,12 +268,19 @@
 - Night sweats
 - Weight loss
 
+## Treatment of Hodgkin Lymphoma {ABVD}
+
+- Doxorubicin [Adriamycin]
+- Bleomycin
+- Vinblastine
+- Dacarbazine
+
 ## Treatment of B-cell Non-Hodgkin Lymphoma {R-CHOP}
 
 - Rituximab
 - Cyclophosphamide
 - Doxorubicin
-- Vincristine
+- Vincristine [Oncovin]
 - Prednisolone
 
 ## Causes of Monoclonal Spike [M Spike]
