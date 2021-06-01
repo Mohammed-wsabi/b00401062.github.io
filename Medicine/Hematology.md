@@ -214,8 +214,8 @@
 |Type|Causes|
 |-|-|
 |Allergic|Anti-plasma proteins IgE<br>Anti-IgA IgE|
-|Hemolytic: acute & delayed|Anti-ABO<br>Anti-Rh|
-|Febrile nonhemolytic|Cytokines|
+|Hemolytic (HTR): acute & delayed|Anti-ABO<br>Anti-Rh|
+|Febrile non-hemolytic (FNHTR)|Cytokines|
 
 ## Leukemia & Lymphoma
 
