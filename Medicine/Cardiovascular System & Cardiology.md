@@ -285,12 +285,12 @@
 - Oxygen
 - Position
 
-### Compensated {ABDV}
+### Compensated {ABVD}
 
 - ACEI & ARB
 - β<sub>1</sub> antagonists :: Carvedilol & Bisoprolol & Metoprolol
-- Digoxin & Diuretics :: Spironolactone
 - Vasodilators :: NO donors
+- Digoxin & Diuretics :: Spironolactone
 
 ## Etiology of Dilated Cardiomyopathy (DCMP) {ABCD}
 
@@ -535,12 +535,12 @@
 - Jugular vein distension (JVD) & Kussmaul sign
 - Distant heart sound
 
-## Treatment of Hypertension {ABDV}
+## Treatment of Hypertension {ABVD}
 
 - ACEI & ARB
 - β<sub>1</sub> antagonists
-- Diuretics
 - Vasodilators
+- Diuretics
 
 ## Treatment of Hypertensive Emergency
 
