@@ -334,3 +334,23 @@
 - Fluids :: hypertonic saline
 - V<sub>2</sub> antagonists: -Vaptans
 - Nephrogenic DI-inducing drugs :: Lithium & Demeclocycline
+
+## Multiple Endocrine Neoplasias (MEN)
+
+### MEN Type 1
+
+- Pituitary adenoma
+- Parathyroid adenoma
+- Pancreatic endocrine tumors
+
+### MEN Type 2A
+
+- Parathyroid adenoma
+- Medullary thyroid carcinoma
+- Pheochromocytoma
+
+### MEN Type 2B
+
+- Medullary thyroid carcinoma
+- Pheochromocytoma
+- Mucosal neuroma
