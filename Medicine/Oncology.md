@@ -33,7 +33,7 @@
 |PTEN|-|Breast & Prostate cancer|
 |RB|E2F inhibitors|Retinoblastoma & Osteosarcoma|
 |TSC1 & TSC2|Hamartin & Tuberlin|Tuberous sclerosis|
-|VHL|HIF inhibitors|Von Hippel-Lindau disease|
+|VHL|HIF inhibitors|Von Hippel-Lindau (VHL) disease|
 |WT1 & WT2|-|Wilms tumor & WAGR syndrome|
 
 ## Tumor Markers
@@ -94,10 +94,10 @@
 - Episcleral hemangioma
 - Leptomeningeal angiomatosis
 
-## Presentation of von Hippel-Lindau Disease
+## Presentation of von Hippel-Lindau (VHL) Disease {HARP}
 
-- VHL gene
 - Hemangioblastoma
+- Angiomatosis
 - Renal cell carcinoma (RCC)
 - Pheochromocytoma
 
