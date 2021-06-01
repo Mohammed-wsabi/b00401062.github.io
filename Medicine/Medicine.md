@@ -324,7 +324,7 @@
 		- **Diarrhea**
 		- **Saline**
 	- Urine anion gap :: positive
-		- **Addison disease**
+		- **1° Adrenal insufficiency**
 		- **Renal tubular acidosis (RTA)**
 		- **Diuretics** :: Acetazolamide & K-sparing diuretics
 - Anion gap :: high {MUDPILES}
@@ -386,7 +386,7 @@
 			- **Third spacing**
 		- Urine Na > 20 & FE<sub>Na</sub> > 1%
 			- **Diuretics**
-			- **Adrenal insufficiency**
+			- **1° Adrenal insufficiency**
 	- Volume status :: euvolemic
 		- Urine osmolality < 100 mOsm/kg
 			- **Polydipsia**
