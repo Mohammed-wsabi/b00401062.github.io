@@ -198,7 +198,10 @@
 - Port wine-colored urine
 - Polyneuropathy
 - Psychological disturbances
-- Precipitation ← starvation & alcohol & drugs
+- Precipitation
+	- Starvation
+	- Alcohol
+	- Cytochrome P-450 (CYP450) inducers
 
 ## Treatment of Polycythemia
 
