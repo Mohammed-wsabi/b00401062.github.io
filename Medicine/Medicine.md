@@ -345,12 +345,13 @@
 	- **Cystic fibrosis**
 - Urine Cl > 20 [Saline-resistant]
 	- Normotensive
+		- **Diuretics** :: Loop diuretics & Thiazide
 		- **Bartter syndrome**
 		- **Gitelman syndrome**
-		- **Diuretics** :: Loop diuretics & Thiazide
 	- Hypertensive
 		- **Hyperaldosteronism**
 		- **Liddle syndrome**
+		- **Syndrome of apparent mineralocorticoid excess (SAME)**
 
 ## ECG Changes in Electrolyte Disturbances
 
