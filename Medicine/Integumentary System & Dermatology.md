@@ -67,6 +67,20 @@
 |Erythema nodosum|Inflammatory bowel disease & Sarcoidosis & Non-Hodgkins lymphoma|Anywhere|
 |Necrolytic migratory erythema|Glucagonoma|Face & Extremities|
 
+## Etiology of Erythema Nodosum {DOSUM}
+
+- Drugs
+  - Sulfa drugs
+  - NSAIDs
+  - Iodides
+- OCPs
+- Sarcoidosis
+- Ulcerative colitis / Crohn disease
+- Microbiology
+  - Tuberculosis
+  - Leprosy
+  - Histoplasmosis
+
 ## Types of Melanocytic Nevi
 
 ![](../Figures/Types%20of%20Melanocytic%20Nevi.jpg)
