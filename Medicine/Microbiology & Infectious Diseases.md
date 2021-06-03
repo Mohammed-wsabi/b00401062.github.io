@@ -535,7 +535,7 @@
 |Amine whiff test|Gardnerella vaginalis|
 |VDRL & FTA-ABS|Treponema pallidum|
 |Tzanck test|HSV & VZV|
-|Cold agglutinin test|Mycoplasma & Mononucleosis|
+|Cold agglutinin test|Mycoplasma & HCV & EBV|
 |Monospot test|EBV|
 |Latex agglutination test|Cryptococcus neoformans|
 |Germ tube test|Candida albicans|
