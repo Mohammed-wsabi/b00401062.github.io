@@ -1,5 +1,14 @@
 # Microbiology & Infectious Diseases
 
+## Routes of Infectious Disease Transmission
+
+- Airborne
+- Blood
+- Contact
+- Droplet
+- Fecal-oral
+- Vector-borne
+
 ## Gram Positive Lab Algorithm
 
 ![](../Figures/Gram%20Positive%20Lab%20Algorithm.png)
@@ -322,13 +331,6 @@
 - Malassezia
 - Dermatophyte
 
-## Sporotrichoid Lymphocutaneous Infection {LMNS}
-
-- Leishmania brasiliensis
-- Mycobacterium
-- Nocardia brasiliensis
-- Sporothrix schenckii
-
 ## Classification of Parasites
 
 ### Protozoan Parasites :: GI Infections {ECG}
@@ -562,144 +564,6 @@
 |Trypanosoma cruzi|Reduviid bug [Kissing bug]|Chagas disease|
 |Leishmania donovani|Sandfly|Leishmaniasis|
 
-## Routes of Infectious Disease Transmission
-
-- Airborne
-- Blood
-- Contact
-- Droplet
-- Fecal-oral
-- Vector-borne
-
-## Presentation of Staphylococcus Aureus Infection {SOFT-PENIS}
-
-- Staphylococcal scalded skin syndrome (SSSS)
-- Osteomyelitis
-- Food poisoning
-- Toxic shock syndrome
-- Pneumonia
-- Endocarditis
-- Necrotizing fasciitis
-- Infectious arthritis
-- Impetigo
-- Sepsis
-
-## Serological Test for HBV Infection
-
-|Diagnosis|HBsAg|Anti-HBs|Anti-HBc|
-|-|-|-|-|
-|Infection :: acute|+|-|IgM|
-|Infection :: chronic|+|-|IgG|
-|Window|-|-|IgM / IgG|
-|Recovery|-|+|IgG|
-|Vaccination|-|+|-|
-
-![](../Figures/Serological%20Test%20for%20HBV%20Infection.jpg)
-
-## Serological Test for EBV Infection
-
-![](../Figures/Serological%20Test%20for%20EBV%20Infection.jpg)
-
-## Presentation of Streptococcus Pneumonia Infection {MOPS}
-
-- Meningitis
-- Otitis media
-- Pneumonia :: lobar
-- Sinusitis
-
-## Presentation of Streptococcus Pyogenes Infection
-
-- Erysipelas
-- Glomerulonephritis :: APGN
-- Impetigo
-- Lymphangitis
-- Necrotizing fasciitis
-- Pharyngitis
-- Pyogenic
-- Rheumatic fever
-- Scarlet fever
-- Toxic shock-like syndrome
-
-## Jones Criteria for Rheumatic Fever {JONES}
-
-- Joint :: migratory polyarthritis
-- Heart :: mitral valve regurgitation & stenosis
-- Nodules :: subcutaneous
-- Erythema marginatum
-- Sydenham chorea [Chorea minor]
-
-## Facts About Corynebacterium Diphtheria {ABCDEFG}
-
-- ADP-ribosylation
-- β prophage
-- Corynebacterium
-- Diphtheria
-- Elongation
-- Factor 2
-- Granule :: metachromatic
-
-## Presentation of Haemophilus Influenzae Infection
-
-- Epiglottitis
-- Meningitis
-- Otitis media
-- Pneumonia
-
-## Associations with Pseudomonas Aeruginosa Infection {PSEUDO}
-
-- Pneumonia
-- Sepsis
-- Endocarditis :: tricuspid valve
-- Ecthyma gangrenosum
-- UTI
-- Drugs
-- Diabetes
-- Otitis externa
-- Osteomyelitis
-
-## Presentation of Lyme Disease {FACE}
-
-- Facial palsy
-- Arthritis :: migratory
-- Cardiac :: AV nodal block
-- Erythema migrans
-
-## Presentation of Mumps Virus Infection {MOPS}
-
-- Meningitis
-- Orchitis
-- Parotitis
-- Sterility
-
-## Presentation of Measle Virus Infection {3C1K1R}
-
-- Conjunctivitis
-- Coryza
-- Cough
-- Koplik spot
-- Rash :: downward
-
-## Presentation of Rubella Virus Infection {RUBELLA}
-
-- Rash :: downward
-- -
-- Blueberry muffin rash
-- Eyes :: cataract
-- Ears :: deafness
-- Lymphadenopathy
-- -
-- Arthritis
-
-## Classification of Leprosy [Hansen Disease]
-
-||Tuberculoid|Lepromatous|
-|-|-|
-|AFB|Paucibacillary|Multibacillary|
-|Immunity|Cellular|Humoral|
-|Neuropathy|Localized|Generalized|
-
-![](../Figures/Classification%20of%20Leprosy.jpg)
-
 ## Mechanisms of Action of Antibiotics
 
 ### Cell Wall Inhibitors
@@ -880,19 +744,6 @@
 - Clindamycin
 - Metronidazole
 
-## Treatment of Leprosy [Hansen Disease]
-
-### Tuberculoid Disease
-
-- Dapsone
-- Rifampin
-
-### Lepromatous Disease
-
-- Dapsone
-- Rifampin
-- Clofazimine
-
 ## Mechanisms of Action of Antifungals
 
 ![](../Figures/Mechanisms%20of%20Action%20of%20Antifungals.png)
@@ -923,6 +774,165 @@
 
 ![](../Figures/Mechanisms%20of%20Action%20of%20Antivirals.png)
 
+## Presentation of Staphylococcus Aureus Infection {SOFT-PENIS}
+
+- Staphylococcal scalded skin syndrome (SSSS)
+- Osteomyelitis
+- Food poisoning
+- Toxic shock syndrome
+- Pneumonia
+- Endocarditis
+- Necrotizing fasciitis
+- Infectious arthritis
+- Impetigo
+- Sepsis
+
+## Presentation of Streptococcus Pneumonia Infection {MOPS}
+
+- Meningitis
+- Otitis media
+- Pneumonia :: lobar
+- Sinusitis
+
+## Presentation of Streptococcus Pyogenes Infection
+
+- Erysipelas
+- Glomerulonephritis :: APGN
+- Impetigo
+- Lymphangitis
+- Necrotizing fasciitis
+- Pharyngitis
+- Pyogenic
+- Rheumatic fever
+- Scarlet fever
+- Toxic shock-like syndrome
+
+## Jones Criteria for Rheumatic Fever {JONES}
+
+- Joint :: migratory polyarthritis
+- Heart :: mitral valve regurgitation & stenosis
+- Nodules :: subcutaneous
+- Erythema marginatum
+- Sydenham chorea [Chorea minor]
+
+## Facts About Corynebacterium Diphtheria {ABCDEFG}
+
+- ADP-ribosylation
+- β prophage
+- Corynebacterium
+- Diphtheria
+- Elongation
+- Factor 2
+- Granule :: metachromatic
+
+## Classification of Leprosy [Hansen Disease]
+
+||Tuberculoid|Lepromatous|
+|-|-|
+|AFB|Paucibacillary|Multibacillary|
+|Immunity|Cellular|Humoral|
+|Neuropathy|Localized|Generalized|
+
+![](../Figures/Classification%20of%20Leprosy.jpg)
+
+## Treatment of Leprosy [Hansen Disease]
+
+### Tuberculoid Disease
+
+- Dapsone
+- Rifampin
+
+### Lepromatous Disease
+
+- Dapsone
+- Rifampin
+- Clofazimine
+
+## Presentation of Haemophilus Influenzae Infection
+
+- Epiglottitis
+- Meningitis
+- Otitis media
+- Pneumonia
+
+## Associations with Pseudomonas Aeruginosa Infection {PSEUDO}
+
+- Pneumonia
+- Sepsis
+- Endocarditis :: tricuspid valve
+- Ecthyma gangrenosum
+- UTI
+- Drugs
+- Diabetes
+- Otitis externa
+- Osteomyelitis
+
+## Presentation and Stages of Syphilis
+
+|Stage|Presentation|
+|-|-|
+|1|Painless chancre|
+|2|condylomata lata<br>Maculopapular rash|
+|3|Gummas<br>Aortitis<br>Tabes dorsalis<br>Argyll Robertson pupil|
+
+## VDRL False Positives {VDRL}
+
+- Virus
+	- Hepatitis virus
+	- EBV
+- Drugs
+- Rheumatic fever & Rheumatoid arthritis
+- Lupus & Leprosy
+
+## Presentation of Lyme Disease {FACE}
+
+- Facial palsy
+- Arthritis :: migratory
+- Cardiac :: AV nodal block
+- Erythema migrans
+
+## Serological Test for HBV Infection
+
+|Diagnosis|HBsAg|Anti-HBs|Anti-HBc|
+|-|-|-|-|
+|Infection :: acute|+|-|IgM|
+|Infection :: chronic|+|-|IgG|
+|Window|-|-|IgM / IgG|
+|Recovery|-|+|IgG|
+|Vaccination|-|+|-|
+
+![](../Figures/Serological%20Test%20for%20HBV%20Infection.jpg)
+
+## Serological Test for EBV Infection
+
+![](../Figures/Serological%20Test%20for%20EBV%20Infection.jpg)
+
+## Presentation of Mumps Virus Infection {MOPS}
+
+- Meningitis
+- Orchitis
+- Parotitis
+- Sterility
+
+## Presentation of Measle Virus Infection {3C1K1R}
+
+- Conjunctivitis
+- Coryza
+- Cough
+- Koplik spot
+- Rash :: downward
+
+## Presentation of Rubella Virus Infection {RUBELLA}
+
+- Rash :: downward
+- -
+- Blueberry muffin rash
+- Eyes :: cataract
+- Ears :: deafness
+- Lymphadenopathy
+- -
+- Arthritis
+
 ## Highly Active Antiretroviral Therapy (HAART) for HIV Infection
 
 - 2 NRTI
@@ -948,24 +958,9 @@
 - Rickettsia rickettsii → Rocky Mountain spotted fever (RMSF)
 - Treponema pallidum → syphilis
 
-## VDRL False Positives {VDRL}
+## Sporotrichoid Lymphocutaneous Infection {LMNS}
 
-- Virus
-	- Hepatitis virus
-	- EBV
-- Drugs
-- Rheumatic fever & Rheumatoid arthritis
-- Lupus & Leprosy
-
-## Presentation and Stages of Syphilis
-
-|Stage|Presentation|
-|-|-|
-|1|Painless chancre|
-|2|condylomata lata<br>Maculopapular rash|
-|3|Gummas<br>Aortitis<br>Tabes dorsalis<br>Argyll Robertson pupil|
-
-## Treatment of Syphilis
-
-- Penicillin
-- Doxycycline
+- Leishmania brasiliensis
+- Mycobacterium
+- Nocardia brasiliensis
+- Sporothrix schenckii
