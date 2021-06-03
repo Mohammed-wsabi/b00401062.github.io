@@ -720,22 +720,6 @@
 |ESBL|Carbapenems<br>Tigecycline<br>Polymyxin|
 |CRE|Tigecycline<br>Polymyxin|
 
-## Triple Therapy for Helicobacter Pylori Infection {MAP}
-
-- Macrolides
-- Amoxicillin / Metronidazole
-- Proton pump inhibitors (PPI)
-
-## Anti-pseudomonal Antibiotics
-
-- Penicillin :: Piperacillin & Ticarcillin
-- Cephalosporins
-	- 3°: Ceftazidime & Cefoperazone
-	- 4°: Cefepime
-- Carbapenems - Ertapenem
-- Monobactams
-- Fluoroquinolones - Moxifloxacin
-
 ## Anti-anaerobic Antibiotics
 
 - β-lactams w/ β-lactamase inhibitors
@@ -866,6 +850,22 @@
 - Diabetes
 - Otitis externa
 - Osteomyelitis
+
+## Anti-pseudomonal Antibiotics
+
+- Penicillin :: Piperacillin & Ticarcillin
+- Cephalosporins
+	- 3°: Ceftazidime & Cefoperazone
+	- 4°: Cefepime
+- Carbapenems - Ertapenem
+- Monobactams
+- Fluoroquinolones - Moxifloxacin
+
+## Triple Therapy for Helicobacter Pylori Infection {MAP}
+
+- Macrolides
+- Amoxicillin / Metronidazole
+- Proton pump inhibitors (PPI)
 
 ## Presentation and Stages of Syphilis
 
