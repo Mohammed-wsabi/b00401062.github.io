@@ -581,6 +581,7 @@
 - Endocarditis
 - Necrotizing fasciitis
 - Infectious arthritis
+- Impetigo
 - Sepsis
 
 ## Serological Test for HBV Infection
