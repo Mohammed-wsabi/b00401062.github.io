@@ -25,6 +25,7 @@
 |Trendelenburg test|Gluteus medius|
 |FABER test|Sacroilius joint|
 |FADIR test|Piriformis|
+|Lachman test|Knee ACL|
 |Anterior & Posterior drawer test|Knee ACL & PCL|
 |Valgus & Varus stress test|Knee MCL & LCL|
 |McMurray test|Knee meniscus|
