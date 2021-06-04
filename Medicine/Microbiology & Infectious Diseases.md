@@ -533,10 +533,10 @@
 |Urea breath test & Fecal antigen test|Helicobacter pylori|
 |Weil-Felix test|Rickettsia|
 |Amine whiff test|Gardnerella vaginalis|
-|VDRL & FTA-ABS|Treponema pallidum|
+|VDRL/RPR & FTA-ABS|Treponema pallidum|
 |Tzanck test|HSV & VZV|
-|Cold agglutinin test|Mycoplasma & HCV & EBV|
 |Monospot test|EBV|
+|Cold agglutinin test|Mycoplasma & HCV & EBV|
 |Latex agglutination test|Cryptococcus neoformans|
 |Germ tube test|Candida albicans|
 
