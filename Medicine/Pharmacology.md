@@ -438,16 +438,14 @@
 |↓ Peptidoglycan synthesis|Peptidoglycan|Glycopeptide|Bacterium|
 |↓ Mycolate synthesis|Enoyl-ACP reductase|Isoniazid|Mycobacterium|
 |↓ Arabinogalactan synthesis|Arabinosyl transferase|Ethambutol|Mycobacterium|
-|↓ β-glucan synthesis|Glucan synthase|Echinocandin|Fungus|
+|↓ β-glucan synthesis|Glucan synthase|Echinocandins [-Fungins]:<br>Anidulafungin<br>Capsofungin<br>Micafungin|Fungus|
 
 ### Cell Membrane Inhibitors
 
 |Mechanism|Target|Medication|Species|
 |-|-|-|-|
-|↑ Cell membrane damage|-|Daptomycin|Bacterium|
-||-|Polymyxin|Bacterium|
-||Ergosterol|Amphotericin B|Fungus|
-|||Nystatin|Fungus|
+|↑ Cell membrane damage|-|Daptomycin<br>Polymyxin|Bacterium|
+||Ergosterol|Polyenes:<br>Amphotericin B<br>Nystatin|Fungus|
 |↓ Ergosterol synthesis|Squalene epoxidase|Terbinafine|Fungus|
 ||Demethylase|Azoles|Fungus|
 
