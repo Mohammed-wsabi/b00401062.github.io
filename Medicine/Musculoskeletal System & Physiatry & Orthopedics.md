@@ -30,7 +30,6 @@
 |McMurray test|Knee meniscus|
 |Apley Test|Knee meniscus|
 |Thompson test|Achilles tendon tear|
-|Homans sign|Deep venous thrombosis (DVT)|
 
 ## Electromyograghy (EMG)
 
