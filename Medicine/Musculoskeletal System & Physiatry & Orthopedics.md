@@ -22,7 +22,7 @@
 |Tinel sign|Carpal tunnel syndrome|
 |Phalen test|Carpal tunnel syndrome|
 |Finkelstein test|De Quervain's tenosynovitis|
-|Trendelenburg test|Gluteus medius|
+|Trendelenburg test|Gluteus medius<br>Gluteus minimus<br>Tensor fascia latae|
 |FABER test|Sacroilius joint|
 |FADIR test|Piriformis|
 |Lachman test|Knee ACL|
