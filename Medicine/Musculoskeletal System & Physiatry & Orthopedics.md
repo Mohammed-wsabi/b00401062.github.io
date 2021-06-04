@@ -54,12 +54,12 @@
 
 |Nerve injury|Muscles|Signs|
 |-|-|-|
-|Upper trunk:<br>Suprascapular nerve<br>Musculocutaneous nerve<br>Axillary nerve|Deltoid<br>Supraspinatus<br>Infraspinatus<br>Biceps brachii|Erb palsy|
+|Upper trunk:<br>Suprascapular nerve<br>Musculocutaneous nerve<br>Axillary nerve|Deltoid<br>Supraspinatus<br>Infraspinatus<br>Biceps brachii|Erb palsy<br>Waiter's tip|
 |Lower trunk:<br>Median nerve<br>Radial nerve<br>Ulnar nerve|Flexor digitorum profundus|Klumpke palsy<br>Total claw hand|
 |Long thoracic nerve|Serratus anterior|Winged scapula|
 |Proximal median nerve|Flexor digitorum profundus :: 1st & 2nd|Pope's blessing|
 |Distal median nerve|Lumbrical muscle :: 1st & 2nd|Median claw hand|
-|Radial nerve|Wrist extensors|Wrist drop|
+|Radial nerve|Wrist extensors|Saturday night palsy<br>Wrist drop|
 |Proximal ulnar nerve|Flexor digitorum profundus :: 3rd & 4th|OK gesture|
 |Distal ulnar nerve|Lumbrical muscle :: 3rd & 4th|Ulnar claw hand|
 |Superior gluteal nerve|Gluteus medius<br>Gluteus minimus<br>Tensor fascia latae|Trendelenburg gait|
