@@ -120,3 +120,12 @@
 - Adenopathy :: neck
 - Rashes :: desquamating
 - Edema :: limbs
+
+## Common Skin Rashes in Neonates
+
+- Erythema toxicum
+- Seborrheic dermatitis
+  - Cradle cap
+  - Diaper rash
+- Cherry angioma
+- Mongolian spots
