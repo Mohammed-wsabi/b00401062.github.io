@@ -300,11 +300,9 @@
 
 ## Muscles of Lesser Tubercle
 
-|Mnemonic|Muscle|
-|-|-|
-|Shiga|Subscapularis|
-|Like|Latissimus dorsi|
-|Toxin|Teres major|
+- Latissimus dorsi
+- Subscapularis
+- Teres major
 
 ## Rotator Cuff Muscles & Nerves {SITS}
 
