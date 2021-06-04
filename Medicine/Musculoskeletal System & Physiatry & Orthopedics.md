@@ -62,6 +62,8 @@
 |Radial nerve|Wrist extensors|Wrist drop|
 |Proximal ulnar nerve|Flexor digitorum profundus :: 3rd & 4th|OK gesture|
 |Distal ulnar nerve|Lumbrical muscle :: 3rd & 4th|Ulnar claw hand|
+|Superior gluteal nerve|Gluteus medius<br>Gluteus minimus<br>Tensor fascia latae|Trendelenburg gait|
+|Common fibular nerve|Ankle dorsiflexors|Foot drop|
 
 ## Lab Values in Bone Disorders
 
