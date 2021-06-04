@@ -124,9 +124,8 @@
 ## Common Skin Rashes in Neonates
 
 - Erythema toxicum
-- Seborrheic dermatitis
-  - Cradle cap
-  - Diaper rash
+- Seborrheic dermatitis :: cradle cap
+- Diaper rash
 - Cherry angioma
 - Mongolian spots
 - Milia
