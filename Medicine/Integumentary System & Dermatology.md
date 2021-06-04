@@ -81,6 +81,15 @@
   - Leprosy
   - Histoplasmosis
 
+## Presentation of Lichen Planus {6P}
+
+- Planar
+- Purple
+- Polygonal
+- Pruritus
+- Papules
+- Plaques
+
 ## Types of Melanocytic Nevi
 
 ![](../Figures/Types%20of%20Melanocytic%20Nevi.jpg)
