@@ -129,3 +129,4 @@
   - Diaper rash
 - Cherry angioma
 - Mongolian spots
+- Milia
