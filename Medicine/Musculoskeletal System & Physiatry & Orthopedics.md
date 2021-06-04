@@ -50,6 +50,19 @@
 
 ![](../Figures/Types%20of%20Fractures.jpg)
 
+## Nerve Injuries
+
+|Nerve injury|Muscles|Signs|
+|-|-|-|
+|Upper trunk:<br>Suprascapular nerve<br>Musculocutaneous nerve<br>Axillary nerve|Deltoid<br>Supraspinatus<br>Infraspinatus<br>Biceps brachii|Erb palsy|
+|Lower trunk:<br>Median nerve<br>Radial nerve<br>Ulnar nerve|Klumpke palsy<br>Total claw hand|
+|Long thoracic nerve|Serratus anterior|Winged scapula|
+|Proximal median nerve|Flexor digitorum profundus :: 1st & 2nd|Pope's blessing|
+|Distal median nerve|Lumbrical muscle :: 1st & 2nd|Median claw hand|
+|Radial nerve|Wrist extensors|Wrist drop|
+|Proximal ulnar nerve|Flexor digitorum profundus :: 3rd & 4th|OK gesture|
+|Distal ulnar nerve|Lumbrical muscle :: 3rd & 4th|Ulnar claw hand|
+
 ## Lab Values in Bone Disorders
 
 |Disorder|ALP|Calcium|Phosphate|PTH|
