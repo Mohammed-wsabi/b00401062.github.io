@@ -65,8 +65,8 @@
 |Distal ulnar nerve|Hook of hamate fracture|Lumbrical muscle :: 3rd & 4th|Ulnar claw hand|
 |Obturator nerve|Anterior hip dislocation|Medial compartment of thigh|-|
 |Femoral nerve|-|Anterior compartment of thigh|-|
-|Common fibular nerve|-|Anterior compartment of leg<br>Lateral compartment of leg|Foot drop|
-|Tibial nerve|-|Posterior compartment of leg|-|
+|Common fibular nerve|Fibular neck fracture|Anterior compartment of leg<br>Lateral compartment of leg|Foot drop|
+|Tibial nerve|Baker cyst<br>Tarsal tunnel syndrome|Posterior compartment of leg|-|
 |Sciatic nerve|Posterior dislocation of hip|Posterior compartment of thigh|-|
 |Superior gluteal nerve|-|Gluteus medius<br>Gluteus minimus<br>Tensor fascia latae|Trendelenburg gait|
 
