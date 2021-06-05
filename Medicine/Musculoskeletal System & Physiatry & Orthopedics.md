@@ -54,7 +54,7 @@
 
 |Nerve injury|Muscles|Signs|
 |-|-|-|
-|Upper trunk:<br>Suprascapular nerve<br>Musculocutaneous nerve<br>Axillary nerve|Deltoid<br>Supraspinatus<br>Infraspinatus<br>Biceps brachii|Erb palsy<br>Waiter's tip|
+|Upper trunk:<br>Suprascapular nerve<br>Musculocutaneous nerve<br>Axillary nerve|Supraspinatus<br>Infraspinatus<br>Biceps brachii<br>Deltoid|Erb palsy<br>Waiter's tip|
 |Lower trunk:<br>Median nerve<br>Radial nerve<br>Ulnar nerve|Flexor digitorum profundus|Klumpke palsy<br>Total claw hand|
 |Long thoracic nerve|Serratus anterior|Winged scapula|
 |Proximal median nerve|Flexor digitorum profundus :: 1st & 2nd|Pope's blessing|
