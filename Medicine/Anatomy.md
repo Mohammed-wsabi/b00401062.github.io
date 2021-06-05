@@ -425,8 +425,8 @@
 |Branch|Sensory|Motor|
 |-|-|-|
 |**Iliohypogastric nerve**|Suprapubis|Internal oblique muscle<br>Transverse abdominal muscle|
-|**Ilioinguinal nerve**|Scrotum & Labia majora|Internal oblique muscle<br>Transverse abdominal muscle|
-|**Genitofemoral nerve**|Scrotum & Labia majora & Upper anterior thigh|Cremaster muscle|
+|**Ilioinguinal nerve**|Scrotum<br>Labia majora|Internal oblique muscle<br>Transverse abdominal muscle|
+|**Genitofemoral nerve**|Scrotum<br>Labia majora<br>Upper anterior thigh|Cremaster muscle|
 |**Lateral femoral cutaneous nerve**|Lateral thigh|-|
 |**Obturator nerve**|Medial thigh|Medial compartment of thigh|
 |**Femoral nerve**|Anterior thigh|Anterior compartment of thigh|
