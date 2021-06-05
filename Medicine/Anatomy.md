@@ -539,8 +539,8 @@
 
 |Muscle|Compartment|
 |-|-|
-|Sartorius|Anterior|
 |Gracilis|Medial|
+|Sartorius|Anterior|
 |Semitendinosus|Posterior|
 
 ## Muscles of Leg
