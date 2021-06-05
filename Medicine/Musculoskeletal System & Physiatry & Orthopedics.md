@@ -34,13 +34,13 @@
 
 ## Electromyograghy (EMG)
 
-||Normal|Neuropathy :: UMN|Neuropathy :: LMN|Myopathy ::<br/>non-inflammatory|Myopathy ::<br/>inflammatory|
+|Condition|Rest|Amplitude|Duration|Phase|Recruitment|
 |-|-|-|-|-|-|
-|Rest|-|-|Fibrillations|-|Fibrillations|
-|Amplitude|0.2 ~ 2 mV|-|↑|↓|↓|
-|Duration|5 ~ 15 ms|-|↑|↓|↓|
-|Phase|Triphasic|Triphasic|Polyphasic|Polyphasic|Polyphasic|
-|Recruitment|-|-|↓|↑|↑|
+|Normal|-|0.2 ~ 2 mV|5 ~ 15 ms|Triphasic|-|
+|Neuropathy :: UMN|-|-|-|Triphasic|-|
+|Neuropathy :: LMN|Fibrillations|↑|↑|Polyphasic|↓|
+|Myopathy ::<br/>non-inflammatory|-|↓|↓|Polyphasic|↑|
+|Myopathy ::<br/>inflammatory|Fibrillations|↓|↓|Polyphasic|↑|
 
 ## Waves on Evoked Electromyography (EMG)
 
