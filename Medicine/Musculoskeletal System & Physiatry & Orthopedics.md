@@ -57,13 +57,13 @@
 |Upper trunk:<br>Suprascapular nerve<br>Musculocutaneous nerve<br>Axillary nerve|-|Supraspinatus<br>Infraspinatus<br>Biceps brachii<br>Deltoid|Erb palsy<br>Waiter's tip|
 |Lower trunk:<br>Median nerve<br>Radial nerve<br>Ulnar nerve|Flexor digitorum profundus|-|Klumpke palsy<br>Total claw hand|
 |Long thoracic nerve|Clavicle fracture|Serratus anterior|Winged scapula|
-|Axillary nerve|Anterior dislocation of humerus<br>Proximal humerus fracture|Deltoid<br>Teres minor|
+|Axillary nerve|Anterior shoulder dislocation<br>Proximal humerus fracture|Deltoid<br>Teres minor|
 |Radial nerve|Midshaft humerus fracture|Posterior compartment of forearm|Saturday night palsy<br>Wrist drop|
 |Proximal median nerve|Supracondylar humerus fracture|Flexor digitorum profundus :: 1st & 2nd|Pope's blessing|
 |Distal median nerve|Carpal tunnel syndrome|Lumbrical muscle :: 1st & 2nd|Median claw hand|
 |Proximal ulnar nerve|Medial epicondyle fracture<br>Cubital tunnel syndrome|Flexor digitorum profundus :: 3rd & 4th|OK gesture|
 |Distal ulnar nerve|Hook of hamate fracture|Lumbrical muscle :: 3rd & 4th|Ulnar claw hand|
-|Obturator nerve|Anterior dislocation of hip|Medial compartment of thigh|-|
+|Obturator nerve|Anterior hip dislocation|Medial compartment of thigh|-|
 |Femoral nerve|-|Anterior compartment of thigh|-|
 |Common fibular nerve|-|Anterior compartment of leg<br>Lateral compartment of leg|Foot drop|
 |Tibial nerve|-|Posterior compartment of leg|-|
