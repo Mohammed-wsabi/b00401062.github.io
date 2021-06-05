@@ -67,7 +67,7 @@
 |Femoral nerve|-|Anterior compartment of thigh|-|
 |Common fibular nerve|Fibular neck fracture|Anterior compartment of leg<br>Lateral compartment of leg|Foot drop|
 |Tibial nerve|Baker cyst<br>Tarsal tunnel syndrome|Posterior compartment of leg|-|
-|Sciatic nerve|Posterior dislocation of hip|Posterior compartment of thigh|-|
+|Sciatic nerve|Posterior hip dislocation|Posterior compartment of thigh|-|
 |Superior gluteal nerve|-|Gluteus medius<br>Gluteus minimus<br>Tensor fascia latae|Trendelenburg gait|
 
 ## Lab Values in Bone Disorders
