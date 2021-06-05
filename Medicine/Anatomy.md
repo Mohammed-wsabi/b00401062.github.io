@@ -291,12 +291,12 @@
 |Back|Biceps :: short head|
 |Pain|Pectoralis minor|
 
-## Muscles of Greater Tubercle {TIPS}
+## Muscles of Greater Tubercle
 
-- Teres minor
-- Infraspinatus
-- Pectoris major
 - Supraspinatus
+- Infraspinatus
+- Teres minor
+- Pectoris major
 
 ## Muscles of Lesser Tubercle
 
