@@ -424,8 +424,8 @@
 
 |Branch|Sensory|Motor|
 |-|-|-|
-|**Iliohypogastric nerve**|Suprapubis|Internal oblique muscle & Transverse abdominal muscle|
-|**Ilioinguinal nerve**|Scrotum & Labia majora|Internal oblique muscle & Transverse abdominal muscle|
+|**Iliohypogastric nerve**|Suprapubis|Internal oblique muscle<br>Transverse abdominal muscle|
+|**Ilioinguinal nerve**|Scrotum & Labia majora|Internal oblique muscle<br>Transverse abdominal muscle|
 |**Genitofemoral nerve**|Scrotum & Labia majora & Upper anterior thigh|Cremaster muscle|
 |**Lateral femoral cutaneous nerve**|Lateral thigh|-|
 |**Obturator nerve**|Medial thigh|Medial compartment of thigh|
@@ -437,9 +437,9 @@
 |Branch|Sensory|Motor|
 |-|-|-|
 |**Sciatic nerve**|Posterior thigh|Posterior compartment of thigh|
-|Common fibular nerve|Anterolateral leg|Anterior & Lateral compartment of leg|
+|Common fibular nerve|Anterolateral leg|Anterior compartment of leg<br>Lateral compartment of leg|
 |Tibial nerve|Posterolateral leg|Posterior compartment of leg|
-|**Superior gluteal nerve**|-|Gluteus minimus & Gluteus medius & Tensor fascia lata|
+|**Superior gluteal nerve**|-|Gluteus minimus<br>Gluteus medius<br>Tensor fascia lata|
 |**Inferior gluteal nerve**|-|Gluteus maximus|
 |**Posterior femoral cutaneous nerve**|Posterior thigh|-|
 |**Pudendal nerve**|||
