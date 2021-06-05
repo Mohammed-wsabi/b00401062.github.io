@@ -632,5 +632,5 @@
 |L2|Hip flexion|
 |L3|Knee extension|
 |L4|Ankle dorsiflexion|
-|L5|Toe extension|
+|L5|Big toe extension|
 |S1|Ankle plantar flexion<br>Hip extension|
