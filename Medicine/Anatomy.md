@@ -508,15 +508,6 @@
 
 ## Muscles of Thigh
 
-### Anterior compartment
-
-|Muscle|Nerve|
-|-|-|
-|Iliopsoas|Femoral nerve|
-|Pectineus|Femoral nerve|
-|Quadriceps femoris|Femoral nerve|
-|Sartorius|Femoral nerve|
-
 ### Medial compartment
 
 |Muscle|Nerve|
@@ -526,6 +517,15 @@
 |Adductor longus|Obturator nerve|
 |Gracilis|Obturator nerve|
 |Obturator externus|Obturator nerve|
+
+### Anterior compartment
+
+|Muscle|Nerve|
+|-|-|
+|Iliopsoas|Femoral nerve|
+|Pectineus|Femoral nerve|
+|Quadriceps femoris|Femoral nerve|
+|Sartorius|Femoral nerve|
 
 ### Posterior compartment
 
@@ -545,6 +545,12 @@
 
 ## Muscles of Leg
 
+### Lateral compartment
+
+|Muscle|Nerve|
+|-|-|
+|Fibularis|Superficial fibular nerve|
+
 ### Anterior compartment
 
 |Muscle|Nerve|
@@ -552,12 +558,6 @@
 |Tibialis anterior|Deep fibular nerve|
 |Extensor hallucis longus|Deep fibular nerve|
 |Extensor digitorum longus|Deep fibular nerve|
-
-### Lateral compartment
-
-|Muscle|Nerve|
-|-|-|
-|Fibularis|Superficial fibular nerve|
 
 ### Posterior compartment
 
