@@ -59,11 +59,15 @@
 |Long thoracic nerve|Serratus anterior|Winged scapula|
 |Proximal median nerve|Flexor digitorum profundus :: 1st & 2nd|Pope's blessing|
 |Distal median nerve|Lumbrical muscle :: 1st & 2nd|Median claw hand|
-|Radial nerve|Wrist extensors|Saturday night palsy<br>Wrist drop|
+|Radial nerve|Posterior compartment of forearm|Saturday night palsy<br>Wrist drop|
 |Proximal ulnar nerve|Flexor digitorum profundus :: 3rd & 4th|OK gesture|
 |Distal ulnar nerve|Lumbrical muscle :: 3rd & 4th|Ulnar claw hand|
+|Obturator nerve|Medial compartment of thigh|-|
+|Femoral nerve|Anterior compartment of thigh|-|
+|Common fibular nerve|Anterior compartment of leg<br>Lateral compartment of leg|Foot drop|
+|Tibial nerve|Posterior compartment of leg|-|
+|Sciatic nerve|Posterior compartment of thigh|-|
 |Superior gluteal nerve|Gluteus medius<br>Gluteus minimus<br>Tensor fascia latae|Trendelenburg gait|
-|Common fibular nerve|Ankle dorsiflexors|Foot drop|
 
 ## Lab Values in Bone Disorders
 
