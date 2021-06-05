@@ -616,6 +616,6 @@
 |Passage|Covering|Contents|
 |-|-|-|
 |Cubital tunnel|-|Ulnar nerve|
-|Guyon canal|-|Ulnar nerve & Ulnar artery|
-|Carpal tunnel|Flexor retinaculum|Median nerve & Flexor digitorum superficialis & Flexor digitorum profundus & Flexor pollicis longus|
-|Tarsal tunnel|Flexor retinaculum|Tibialis posterior & Flexor digitorum longus & Tibial artery & Tibial nerve & Flexor hallucis longus|
+|Guyon canal|-|Ulnar nerve<br>Ulnar artery|
+|Carpal tunnel|Flexor retinaculum|Median nerve<br>Flexor digitorum superficialis<br>Flexor digitorum profundus<br>Flexor pollicis longus|
+|Tarsal tunnel|Flexor retinaculum|Tibialis posterior<br>Flexor digitorum longus<br>Tibial artery<br>Tibial nerve<br>Flexor hallucis longus|
