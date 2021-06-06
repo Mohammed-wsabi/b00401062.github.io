@@ -468,14 +468,6 @@
 
 ![](../Figures/Purine%20Salvage.png)
 
-## Symptoms of Lesch-Nyhan Syndrome {HGPRT}
-
-- Hyperuricemia
-- Gout
-- Psychosis :: aggression & self-mutilation
-- Retardation :: intellectual disability
-- Dystonia
-
 ## Cell Cycle Phases
 
 |Cell Type|Examples|
