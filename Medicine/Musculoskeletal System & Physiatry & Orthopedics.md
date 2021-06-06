@@ -96,7 +96,7 @@
 ||WBCs|PMNs|
 |-|-|-|
 |Normal|< 200/mm<sup>3</sup>|< 25%|
-|Non-inflammatory|-|< 25%|
+|Non-inflammatory|-|-|
 |Inflammatory|↑|> 50%|
 |Septic|↑|> 75%|
 
