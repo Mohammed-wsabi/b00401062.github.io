@@ -409,17 +409,12 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|NF-κB inhibitors|Steroids|Immunosuppression|
-|Calcineurin inhibitors|Cyclosporine|Immunosuppression|
-||Tacrolimus|Immunosuppression|
-|mTOR inhibitors|Sirolimus|Immunosuppression|
-||Everolimus|Immunosuppression|
-|Purine synthesis inhibitors|Mycophenolate|Immunosuppression|
-||Azathioprine|Immunosuppression|
-|Pyrimidine synthesis inhibitors|Leflunomide|Immunosuppression|
-|IL-2R inhibitors|Basiliximab|Immunosuppression|
-||Daclizumab|Immunosuppression|
+|↓ Purine synthesis|Mycophenolate<br>Azathioprine|Immunosuppression|
+|↓ Pyrimidine synthesis|Leflunomide|Immunosuppression|
+|NF-κB inhibitors|Steroids<br>Mesalazine|Immunosuppression|
+|Calcineurin inhibitors|Cyclosporine<br>Tacrolimus|Immunosuppression|
+|mTOR inhibitors|Sirolimus<br>Everolimus|Immunosuppression|
+|IL-2R inhibitors|Basiliximab<br>Daclizumab|Immunosuppression|
 |TNF-α inhibitors|Etanercept|Immunosuppression|
-||Infliximab|Immunosuppression|
-||Adalimumab|Immunosuppression|
+||Infliximab<br>Adalimumab|Immunosuppression|
 |CD20 inhibitors|Rituximab|Immunosuppression|
