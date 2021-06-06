@@ -875,7 +875,7 @@
 |2|condylomata lata<br>Maculopapular rash|
 |3|Gummas<br>Aortitis<br>Tabes dorsalis<br>Argyll Robertson pupil|
 
-## VDRL False Positives {VDRL}
+## VDRL/RPR False Positives {VDRL}
 
 - Virus
 	- Hepatitis virus
