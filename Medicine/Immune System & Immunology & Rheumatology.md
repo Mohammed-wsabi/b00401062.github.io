@@ -323,6 +323,16 @@
 - Immunologic disorders
 - Neurologic disorders
 
+## Presentation of Rheumatoid Arthritis
+
+- Pannus
+- Symmetric polyarthritis
+- Swan neck deformity
+- Boutonniere deformity
+- Ulnar deviation
+- Atlanto-axial subluxation
+- Keratoconjunctivitis sicca
+
 ## Diagnostic Criteria for Rheumatoid Arthritis
 
 - Polyarthritis :: joints ≥ 3
