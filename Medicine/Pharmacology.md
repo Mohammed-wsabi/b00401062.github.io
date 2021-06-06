@@ -462,7 +462,7 @@
 ||Thymidylate synthase|Flucytosine|Fungus|
 |||5-Fluorouracil (5-FU)|Human|
 |↓ dNTP synthesis|Ribonucleotide reductase|Hydroxyurea|Human|
-|↓ Folate synthesis|Dihydropteroate synthase|Sulfonamides:<br>Sulfamethoxazole<br>Sulfisoxazole<br>Sulfadiazine|Bacterium<br>Protozoa|
+|↓ Folate synthesis|Dihydropteroate synthase|Sulfonamides:<br>Sulfamethoxazole<br>Sulfisoxazole<br>Sulfadiazine<br>Sulfapyridine|Bacterium<br>Protozoa|
 ||Dihydrofolate reductase|Trimethoprim|Bacterium|
 |||Pyrimethamine|Protozoa|
 |||Methotrexate|Human|
@@ -527,11 +527,9 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|NF-κB inhibitors|Steroids|Immunosuppression|
-|Calcineurin inhibitors|Cyclosporine|Immunosuppression|
-||Tacrolimus|Immunosuppression|
-|mTOR inhibitors|Sirolimus|Immunosuppression|
-||Everolimus|Immunosuppression|
+|NF-κB inhibitors|Steroids<br>Mesalazine|Immunosuppression|
+|Calcineurin inhibitors|Cyclosporine<br>Tacrolimus|Immunosuppression|
+|mTOR inhibitors|Sirolimus<br>Everolimus|Immunosuppression|
 
 ## Mechanisms of Action of Monoclonal Antibodies
 
@@ -541,6 +539,7 @@
 |RANKL inhibitors|Denosumab|Osteoporosis|
 |IgE inhibitors|Omalizumab|Asthma|
 |IL-2R inhibitors|Basiliximab<br>Daclizumab|Immunosuppression|
+|IL-6R inhibitors|Tocilizumab|Immunosuppression|
 |TNF-α inhibitors|Infliximab<br>Adalimumab|Immunosuppression|
 |CD20 inhibitors|Rituximab|Immunosuppression<br>Non-Hodgkin lymphoma|
 |EGFR inhibitors|Cetuximab|Colorectal cancer|
