@@ -367,7 +367,7 @@
 - Abdominal pain
 - Arthritis
 - Rashes
-- ± IgA nephropathy
+- ± IgA nephropathy [Berger disease]
 
 ## Presentation of Dermatomyositis
 
