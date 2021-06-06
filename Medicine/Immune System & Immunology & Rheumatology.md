@@ -337,6 +337,7 @@
 |-|-|
 |COX inhibitors|NSAIDs|
 |↓ Folate synthesis|Methotrexate|
+|↓ Purine synthesis|Azathioprine|
 |↓ Pyrimidine synthesis|Leflunomide|
 |-|Chloroquine|
 |NF-κB inhibitors|Mesalazine|
