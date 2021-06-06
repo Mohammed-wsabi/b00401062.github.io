@@ -82,20 +82,6 @@
 |Hypophosphatemic rickets|↑|-|↓ (1°)|-|
 |Paget disease|↑|-|-|-|
 
-## Bone Tumors
-
-|Origin|Tumors|Location|
-|-|-|-|
-|Bone|Giant cell tumor [Osteoclastoma]|Epiphysis|
-||Osteoid osteoma [Osteoblastoma]|Diaphysis|
-||Osteosarcoma|Metaphysis|
-|Cartilage|Chondroblastoma|Epiphysis|
-||Enchondroma|Metaphysis|
-||Osteochondroma|Metaphysis|
-||Chondrosarcoma|Metaphysis|
-|PNET|Ewing sarcoma|Diaphysis|
-|Marrow|Multiple myeloma|Diaphysis|
-
 ## Mechanisms of Action of Medications for Osteoporosis
 
 |Mechanism|Medication|Indications|
@@ -104,6 +90,15 @@
 |Estrogen modulators|Raloxifene|Osteoporosis|
 |Osteoclast inhibitors|Bisphosphonate [-Dronates]|Osteoporosis|
 |RANKL inhibitors|Denosumab|Osteoporosis|
+
+## Synovial Fluid Analysis
+
+||WBCs|PMNs|
+|-|-|-|
+|Normal|< 200/mm<sup>3</sup>|< 25%|
+|Non-inflammatory|-|< 25%|
+|Inflammatory|↑|> 50%|
+|Septic|↑|> 75%|
 
 ## Mechanisms of Action of Medications for Gouty Arthritis
 
@@ -131,3 +126,17 @@
 - Anti-staphylococcal penicillin / Vancomycin
 - Anti-pseudomonal β-lactams / Fluoroquinolones
 - Clindamycin
+
+## Bone Tumors
+
+|Origin|Tumors|Location|
+|-|-|-|
+|Bone|Giant cell tumor [Osteoclastoma]|Epiphysis|
+||Osteoid osteoma [Osteoblastoma]|Diaphysis|
+||Osteosarcoma|Metaphysis|
+|Cartilage|Chondroblastoma|Epiphysis|
+||Enchondroma|Metaphysis|
+||Osteochondroma|Metaphysis|
+||Chondrosarcoma|Metaphysis|
+|PNET|Ewing sarcoma|Diaphysis|
+|Marrow|Multiple myeloma|Diaphysis|
