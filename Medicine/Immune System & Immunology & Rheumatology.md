@@ -336,9 +336,9 @@
 |Mechanism|Medication|
 |-|-|
 |COX inhibitors|NSAIDs|
-|-|Chloroquine|
 |↓ Folate synthesis|Methotrexate|
 |↓ Pyrimidine synthesis|Leflunomide|
+|-|Chloroquine|
 |NF-κB inhibitors|Mesalazine|
 |TNF-α inhibitors|Infliximab<br>Adalimumab|
 |CD20 inhibitors|Rituximab|
