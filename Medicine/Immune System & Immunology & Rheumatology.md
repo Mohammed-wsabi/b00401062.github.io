@@ -350,7 +350,7 @@
 |↓ Purine synthesis|Azathioprine|
 |↓ Pyrimidine synthesis|Leflunomide|
 |-|Chloroquine|
-|NF-κB inhibitors|Mesalazine|
+|NF-κB inhibitors|Steroids<br>Mesalazine|
 |TNF-α inhibitors|Infliximab<br>Adalimumab|
 |CD20 inhibitors|Rituximab|
 
