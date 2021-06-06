@@ -361,8 +361,9 @@
 
 ## Presentation of Dermatomyositis
 
-- Gottron sign
 - Heliotrope sign
+- Shawl sign
+- Gottron sign
 - Gower sign
 - Proximal muscle weakness
 
