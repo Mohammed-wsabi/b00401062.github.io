@@ -534,7 +534,7 @@
 
 ||Pressure|WBCs|Glucose|Protein|
 |-|-|-|-|-|
-|Healthy|50 ~ 180 mmH<sub>2</sub>O|< 5/mm<sup>3</sup>|40 ~ 70 mg/dL|20 ~ 45 mg/dL|
+|Normal|50 ~ 180 mmH<sub>2</sub>O|< 5/mm<sup>3</sup>|40 ~ 70 mg/dL|20 ~ 45 mg/dL|
 |Bacterial|↑|↑ PMNs|↓|↑|
 |TB & Fungal|↑|↑ Lymphocytes|↓|↑|
 |Viral|↑|↑ Lymphocytes|-|↑|
