@@ -526,6 +526,7 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |NF-κB inhibitors|Steroids<br>Mesalazine|Immunosuppression|
+|TNF-α inhibitors|Etanercept|Immunosuppression|
 |Calcineurin inhibitors|Cyclosporine<br>Tacrolimus|Immunosuppression|
 |mTOR inhibitors|Sirolimus<br>Everolimus|Immunosuppression|
 
