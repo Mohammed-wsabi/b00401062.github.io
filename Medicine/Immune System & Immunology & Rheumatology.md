@@ -410,7 +410,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|COX inhibitors|NSAIDs|
+|COX inhibitors|NSAIDs|Immunosuppression|
 |↓ Folate synthesis|Methotrexate|Immunosuppression|
 |↓ Purine synthesis|Mycophenolate<br>Azathioprine|Immunosuppression|
 |↓ Pyrimidine synthesis|Leflunomide|Immunosuppression|
