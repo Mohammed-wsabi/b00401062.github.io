@@ -349,6 +349,7 @@
 |↓ Folate synthesis|Methotrexate|
 |↓ Purine synthesis|Azathioprine|
 |↓ Pyrimidine synthesis|Leflunomide|
+|↑ DNA crosslinking|Cyclophosphamide|
 |-|Chloroquine|
 |NF-κB inhibitors|Steroids<br>Mesalazine|
 |TNF-α inhibitors|Infliximab<br>Adalimumab|
@@ -409,8 +410,10 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
+|↓ Folate synthesis|Methotrexate|
 |↓ Purine synthesis|Mycophenolate<br>Azathioprine|Immunosuppression|
 |↓ Pyrimidine synthesis|Leflunomide|Immunosuppression|
+|↑ DNA crosslinking|Cyclophosphamide|Immunosuppression|
 |NF-κB inhibitors|Steroids<br>Mesalazine|Immunosuppression|
 |Calcineurin inhibitors|Cyclosporine<br>Tacrolimus|Immunosuppression|
 |mTOR inhibitors|Sirolimus<br>Everolimus|Immunosuppression|
