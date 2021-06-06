@@ -568,3 +568,11 @@
 - Chelation
 	- Penicillamine
 	- Trientine
+
+## Symptoms of Lesch-Nyhan Syndrome {HGPRT}
+
+- Hyperuricemia
+- Gout
+- Psychosis :: aggression & self-mutilation
+- Retardation :: intellectual disability
+- Dystonia
