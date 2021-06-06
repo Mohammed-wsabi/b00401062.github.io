@@ -530,15 +530,15 @@
 - Bisection of lines
 - Copy of drawings
 
-## CSF Findings in Meningitis & Encephalitis
+## CSF Analysis
 
-||Pressure|Cell|Glucose|Protein|
+||Pressure|WBCs|Glucose|Protein|
 |-|-|-|-|-|
-|Mnemonic|Please|Check|Groaning|Patients|
 |Healthy|50 ~ 180 mmH<sub>2</sub>O|< 5/mm<sup>3</sup>|40 ~ 70 mg/dL|20 ~ 45 mg/dL|
-|Bacterial|↑|PMN|↓|↑|
-|Fungal & TB|↑|Lymphocyte|↓|↑|
-|Viral|↑|Lymphocyte|-|↑|
+|Bacterial|↑|↑ PMNs|↓|↑|
+|TB & Fungal|↑|↑ Lymphocytes|↓|↑|
+|Viral|↑|↑ Lymphocytes|-|↑|
+|Guillain-Barre syndrome|-|↑ Lymphocytes|-|↑|
 
 ## Pathogens of Encephalitis
 
