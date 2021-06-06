@@ -331,6 +331,18 @@
 - Elevated ESR / CRP
 - Exclusion of alternative diagnoses
 
+## Treatment of Rheumatoid Arthritis
+
+|Mechanism|Medication|
+|-|-|
+|COX inhibitors|NSAIDs|
+|-|Chloroquine|
+|↓ Folate synthesis|Methotrexate|
+|↓ Pyrimidine synthesis|Leflunomide|
+|NF-κB inhibitors|Mesalazine|
+|TNF-α inhibitors|Infliximab<br>Adalimumab|
+|CD20 inhibitors|Rituximab|
+
 ## Presentation of Limited Scleroderma {CREST}
 
 - Calcinosis
