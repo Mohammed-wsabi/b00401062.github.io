@@ -18,7 +18,7 @@
 - Acetaminophen
 - Theophylline
 - Warfarin
-- OCP
+- OCPs
 
 ### Inhibitors {CIGAR-MASK-QQ}
 
@@ -42,7 +42,6 @@
 - Celecoxib
 - Thiazide
 - Sulfonamides
-- Sulfasalazine
 - Sulfonylureas
 
 ## Mechanisms of Action of Medications Targeting Ion Channels
@@ -405,7 +404,6 @@
 ||Dipyridamole & Cilostazol|Antiplatelet & Vasodilation|
 |COX inhibitors|NSAIDs:<br>Aspirin<br>Ibuprofen<br>Naproxen<br>Diclofenac<br>Ketorolac<br>Meloxicam<br>Indomethacin|Antipyresis<br>Analgesia<br>Inflammation<br>Tocolysis<br>PDA closure|
 ||Acetaminophen|Antipyresis<br>Analgesia|
-||Sulfasalazine|Inflammation|
 |COX-2 inhibitors|Celecoxib|Arthritis|
 |LOX inhibitors|Zileuton|Asthma|
 |ADH inhibitors|Ethanol|Methanol antidote|
