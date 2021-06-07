@@ -98,7 +98,20 @@
 |Normal|< 200/mm<sup>3</sup>|< 25%|
 |Non-inflammatory|-|-|
 |Inflammatory|↑|> 50%|
-|Septic|↑|> 75%|
+|Infectious|↑|> 75%|
+
+## Etiology of Non-infectious Inflammatory Arthritis
+
+- Crystal arthropathy
+- Rheumatoid Arthritis
+- Seronegative spondyloarthropathy
+- Polymyositis
+- Dermatomyositis
+- Systemic lupus erythematosus
+- Henoch-Schonlein Purpura (HSP)
+- Complex regional pain syndrome (CRPS)
+- Polymyalgia rheumatica
+- Sarcoidosis
 
 ## Mechanisms of Action of Medications for Gouty Arthritis
 
