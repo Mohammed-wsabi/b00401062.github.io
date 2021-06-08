@@ -188,6 +188,17 @@
 - Vestibulospinal tract
 - Reticulospinal tract
 
+## Spinal Tracts
+
+|Tract|Side|Functions|
+|-|-|-|
+|Dorsal column|Ipsilateral|Proprioception<br>Touch<br>Pressure<br>Vibration|
+|Spinothalamic tract|Contralateral|Pain<br>Temperature|
+|Lateral corticospinal tract|Contralateral|Motion|
+|Ventral corticospinal tract|Ipsilateral|Motion|
+
+![](../Figures/Spinal%20Tracts.png)
+
 ## Pathways of Dorsal Column-Medial Lemniscus System
 
 |Structures|Level|Side|Structure|
@@ -282,17 +293,6 @@
 ## Factors Affecting Cerebral Blood Flow
 
 ![](../Figures/Factors%20Affecting%20Cerebral%20Blood%20Flow.jpg)
-
-## Spinal Tracts
-
-|Tract|Side|Functions|
-|-|-|-|
-|Dorsal column|Ipsilateral|Proprioception<br>Touch<br>Pressure<br>Vibration|
-|Spinothalamic tract|Contralateral|Pain<br>Temperature|
-|Lateral corticospinal tract|Contralateral|Motion|
-|Ventral corticospinal tract|Ipsilateral|Motion|
-
-![](../Figures/Spinal%20Tracts.png)
 
 ## Craniosynostosis
 
