@@ -133,9 +133,9 @@
 - Parahippocampus
 - Amygdala
 
-## Circle of Willis
+## Cerebral Circulation
 
-![](../Figures/Circle%20of%20Willis.png)
+![](../Figures/Cerebral%20Circulation.png)
 
 ## Sleep Stages
 
