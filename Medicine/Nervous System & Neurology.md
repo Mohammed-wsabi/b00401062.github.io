@@ -232,9 +232,9 @@
 |Neuron|Fiber|Mnemonic|Sensation|
 |-|-|-|-|
 |I|-|Post|Proprioception|
-|II|A-β|Traumatic|Touch & Pressure & Vibration & Stretch|
-|III|A-δ|Stress|Cold & Sharp pain|
-|IV|C|Disorder|Warmth & Dull pain|
+|II|A-β|Traumatic|Touch<br>Pressure<br>Vibration|
+|III|A-δ|Stress|Sharp pain<br>Cold|
+|IV|C|Disorder|Dull pain<br>Warm|
 
 ## Autonomic Nervous System
 
@@ -287,7 +287,7 @@
 
 |Tract|Side|Functions|
 |-|-|-|
-|Dorsal column|Ipsilateral|Proprioception<br>Touch<br>Pressure<br>Vibration<br>Stretch|
+|Dorsal column|Ipsilateral|Proprioception<br>Touch<br>Pressure<br>Vibration|
 |Spinothalamic tract|Contralateral|Pain<br>Temperature|
 |Lateral corticospinal tract|Contralateral|Motion|
 |Ventral corticospinal tract|Ipsilateral|Motion|
