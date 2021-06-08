@@ -44,11 +44,11 @@
 
 |Nuclueus|Function|
 |-|-|
-|LGN|Vision|
-|MGN|Audition|
-|VA & VL|Motion|
-|VPL|Sensation below the neck|
-|VPM|Sensation above the neck|
+|Lateral geniculate nucleus (LGN)|Vision|
+|Medial geniculate nucleus (MGN)|Audition|
+|Ventral anterior (VA)<br>Ventral lateral (VL)|Motion|
+|Ventral posterolateral (VPL)|Sensation below the neck|
+|Ventral posteromedial (VPM)|Sensation above the neck|
 
 ## Hypothalamus
 
@@ -208,6 +208,7 @@
 ||Spinal cord|Ipsilateral|Gracile & Cuneate fasciculus|
 |**2° Neuron**|Medulla|Ipsilateral|Gracile & Cuneate nucleus|
 ||Medulla|Decussation|Internal arcuate fiber|
+||Medulla|Contralateral|Medial lemniscus|
 |**3° Neuron**|Thalamus|Contralateral|VPL nucleus|
 ||Cerebrum|Contralateral|Internal capsule|
 ||Cerebrum|Contralateral|Primary somatic cortex|
