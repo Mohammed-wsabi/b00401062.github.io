@@ -137,6 +137,22 @@
 
 ![](../Figures/Cerebral%20Circulation.png)
 
+## Dural Venous Sinuses
+
+![](../Figures/Dural%20Venous%20Sinuses.png)
+
+## Ventricular System of the Brain
+
+- Choroid plexus
+- Lateral ventricles
+- 3rd ventricle
+- Cerebral aqueduct of Sylvius
+- 4th ventricle
+- Central canal
+- Achnoid granulations
+
+![](../Figures/Ventricular%20System%20of%20the%20Brain.png)
+
 ## Sleep Stages
 
 |Stage|Waves|
