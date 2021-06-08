@@ -403,22 +403,6 @@
 |Anterior spinal artery syndrome|-|+|+|+|
 |Brown-Sequard syndrome|+|+|+|+|
 
-## Brachial Plexus Injuries and Findings
-
-|Nerve Injury|Findings|
-|-|-|
-|Upper trunk|Erb palsy & Waiter's tip|
-|Lower trunk|Klumpke palsy & Claw hand|
-|Long thoracic nerve|Winged scapula|
-|Suprascapular nerve|Erb palsy & Waiter's tip|
-|Axillary nerve|Erb palsy & Waiter's tip|
-|Musculocutaneous nerve|Erb palsy & Waiter's tip|
-|Median nerve :: proximal|Ape hand & Pope's blessing|
-|Median nerve :: distal|Median claw|
-|Ulnar nerve :: proximal|OK gesture|
-|Ulnar nerve :: distal|Ulnar claw|
-|Radial nerve|Wrist drop & Saturday night palsy|
-
 ## Charcot Triad of Multiple Sclerosis {SIN}
 
 - Scanning speech
