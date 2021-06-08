@@ -178,8 +178,8 @@
 
 ### Pyramidal
 
-- Anterior corticospinal tract
 - Lateral corticospinal tract
+- Ventral corticospinal tract
 
 ### Extrapyramidal
 
@@ -199,9 +199,9 @@
 
 ![](../Figures/Spinal%20Tracts.png)
 
-## Pathways of Dorsal Column-Medial Lemniscus System
+## Pathway of Dorsal Column-Medial Lemniscus System
 
-|Structures|Level|Side|Structure|
+|Neuron|Level|Side|Structure|
 |-|-|-|-|
 |**1° Neuron**|Periphery|Ipsilateral|Peripheral nerve|
 ||Periphery|Ipsilateral|Dorsal root ganglion|
@@ -211,11 +211,11 @@
 ||Medulla|Contralateral|Medial lemniscus|
 |**3° Neuron**|Thalamus|Contralateral|VPL nucleus|
 ||Cerebrum|Contralateral|Internal capsule|
-||Cerebrum|Contralateral|Primary somatic cortex|
+||Cerebrum|Contralateral|1°  somatic cortex|
 
-## Pathways of Anterolateral System
+## Pathway of Anterolateral System
 
-|Structures|Level|Side|Structure|
+|Neuron|Level|Side|Structure|
 |-|-|-|-|
 |**1° Neuron**|Periphery|Ipsilateral|Peripheral nerve|
 ||Periphery|Ipsilateral|Dorsal root ganglion|
@@ -224,7 +224,19 @@
 ||Spinal cord|Contralateral|Spinothalamic tract|
 |**3° Neuron**|Thalamus|Contralateral|VPL nucleus|
 ||Cerebrum|Contralateral|Internal capsule|
-||Cerebrum|Contralateral|Primary somatic cortex|
+||Cerebrum|Contralateral|1°  somatic cortex|
+
+## Pathway of Corticospinal Tract
+
+|Neuron|Level|Side|Structure|
+|-|-|-|-|
+|**1° Neuron**|Cerebrum|Ipsilateral|1° motor cortex|
+||Cerebrum|Ipsilateral|Internal capsule|
+||Midbrain|Ipsilateral|Cerebral peduncle|
+||Medulla|Decussation|Pyramidal decussation|
+||Spinal cord|Contralateral|Corticospinal tract|
+|**2° Neuron**|Spinal cord|Contralateral|Anterior horn|
+||Periphery|Contralateral|Ventral root|
 
 ## Levels of the Structures in the Spinal Cord
 
@@ -515,7 +527,9 @@
 
 - Age :: ≥ 􏳧60 years
 - BP :: ≥ 􏳧140/90
-- Clinical features :: Unilateral weakness &/ Speech impairment
+- Clinical features
+  - Unilateral weakness
+  - Speech impairment
 - Duration
 - Diabetes
 
