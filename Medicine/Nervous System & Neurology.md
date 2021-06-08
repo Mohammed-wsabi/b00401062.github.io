@@ -205,8 +205,8 @@
 |-|-|-|-|
 |**1° Neuron**|Periphery|Ipsilateral|Peripheral nerve|
 ||Periphery|Ipsilateral|Dorsal root ganglion|
-||Spinal cord|Ipsilateral|Gracile & Cuneate fasciculus|
-|**2° Neuron**|Medulla|Ipsilateral|Gracile & Cuneate nucleus|
+||Spinal cord|Ipsilateral|Dorsal column:<br>Gracile<br>Cuneate fasciculus|
+|**2° Neuron**|Medulla|Ipsilateral|Gracile nucleus<br>Cuneate nucleus|
 ||Medulla|Decussation|Internal arcuate fiber|
 ||Medulla|Contralateral|Medial lemniscus|
 |**3° Neuron**|Thalamus|Contralateral|VPL nucleus|
@@ -219,7 +219,7 @@
 |-|-|-|-|
 |**1° Neuron**|Periphery|Ipsilateral|Peripheral nerve|
 ||Periphery|Ipsilateral|Dorsal root ganglion|
-|**2° Neuron**|Spinal cord|Ipsilateral|Substantia gelatinosa & Nucleus proprius|
+|**2° Neuron**|Spinal cord|Ipsilateral|Substantia gelatinosa<br>Nucleus proprius|
 ||Spinal cord|Decussation|Anterior white commissure|
 ||Spinal cord|Contralateral|Spinothalamic tract|
 |**3° Neuron**|Thalamus|Contralateral|VPL nucleus|
