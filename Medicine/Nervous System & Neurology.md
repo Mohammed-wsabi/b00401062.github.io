@@ -236,7 +236,7 @@
 |III|A-δ|Stress|Cold & Sharp pain|
 |IV|C|Disorder|Warmth & Dull pain|
 
-## Innervations of Sympathetic & Parasympathetic Systems
+## Autonomic Nervous System
 
 ### Sympathetic {ABSDE}
 
@@ -282,6 +282,17 @@
 ## Factors Affecting Cerebral Blood Flow
 
 ![](../Figures/Factors%20Affecting%20Cerebral%20Blood%20Flow.jpg)
+
+## Spinal Tracts
+
+|Tract|Side|Functions|
+|-|-|-|
+|Dorsal column|Ipsilateral|Proprioception<br>Touch<br>Pressure<br>Vibration<br>Stretch|
+|Spinothalamic tract|Contralateral|Pain<br>Temperature|
+|Lateral corticospinal tract|Contralateral|Motion|
+|Ventral corticospinal tract|Ipsilateral|Motion|
+
+![](../Figures/Spinal%20Tracts.png)
 
 ## Craniosynostosis
 
