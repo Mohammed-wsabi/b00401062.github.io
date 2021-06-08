@@ -205,7 +205,7 @@
 |-|-|-|-|
 |**1° Neuron**|Periphery|Ipsilateral|Peripheral nerve|
 ||Periphery|Ipsilateral|Dorsal root ganglion|
-||Spinal cord|Ipsilateral|Dorsal column:<br>Gracile<br>Cuneate fasciculus|
+||Spinal cord|Ipsilateral|Dorsal column:<br>Gracile fasciculus<br>Cuneate fasciculus|
 |**2° Neuron**|Medulla|Ipsilateral|Gracile nucleus<br>Cuneate nucleus|
 ||Medulla|Decussation|Internal arcuate fiber|
 ||Medulla|Contralateral|Medial lemniscus|
