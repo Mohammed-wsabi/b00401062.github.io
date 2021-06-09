@@ -182,25 +182,25 @@
 
 |Group|Cranial Nerves|
 |-|-|
-|Pure sensory nerve|1 & 2 & 8|
-|Pure motor nerve|3 & 4 & 6 & 11 & 12|
-|Mixed and branchial arch innervation|5 & 7 & 9 & 10|
-|Parasympathetic nucleus|3 & 7 & 9 & 10|
-|Solitary nucleus|7 & 9 & 10|
-|Ambiguous nucleus|9 & 10 & 11|
+|Pure sensory nerve|I & II & VIII|
+|Pure motor nerve|III & IV & VI & XI & XII|
+|Mixed and branchial arch innervation|V & VII & IX & X|
+|Parasympathetic nucleus|III & VII & IX & X|
+|Solitary nucleus|VII & IX & X|
+|Ambiguous nucleus|IX & X & XI|
 
 ## Afferent Pathways
 
 |Pathway|Function|1° Neuron|2° Neuron|3° Neuron|
 |-|-|-|-|-|
-|CN 1|SVA|Olfactory epithelium|Olfactory bulb|-|
-|CN 2|SSA|Retina|Thalamus :: LGN|-|
-|CN 5|GSA|Trigeminal ganglion|Trigeminal nucleus|Thalamus :: VPM|
-|CN 7|SVA|Geniculate ganglion|Solitary nucleus|Thalamus|
-|CN 8|SSA|Vestibular ganglion|Vestibular nucleus|Thalamus :: MGN|
-|CN 8|SSA|Spiral ganglion|Cochlear nucleus|Thalamus :: MGN|
-|CN 9|GVA|Superior & Inferior ganglion|Solitary nucleus|Thalamus|
-|CN 10|GVA|Superior & Inferior ganglion|Solitary nucleus|Thalamus|
+|CN I|SVA|Olfactory epithelium|Olfactory bulb|-|
+|CN II|SSA|Retina|Thalamus :: LGN|-|
+|CN V|GSA|Trigeminal ganglion|Trigeminal nucleus|Thalamus :: VPM|
+|CN VII|SVA|Geniculate ganglion|Solitary nucleus|Thalamus|
+|CN VIII|SSA|Vestibular ganglion|Vestibular nucleus|Thalamus :: MGN|
+|CN VIII|SSA|Spiral ganglion|Cochlear nucleus|Thalamus :: MGN|
+|CN IX|GVA|Superior & Inferior ganglion|Solitary nucleus|Thalamus|
+|CN X|GVA|Superior & Inferior ganglion|Solitary nucleus|Thalamus|
 
 ## Somatic Efferent Pathways
 
@@ -590,10 +590,10 @@
 |Anterior cerebral artery (ACA)|Motor & sensory cortices :: lower limb|Contralateral paralysis<br>Contralateral paresthesia|
 |Posterior cerebral artery (PCA)|Occipital lobe|Contralateral hemianopia w/ macular sparing|
 |Lenticulo-striate artery|Internal capsule<br>Striatum|Contralateral paralysis|
-|Basilar artery|CN6<br>Paramedian pontine reticular formation (PPRF)<br>Corticobulbar tract<br>Corticospinal tract|Medial pontine syndrome:<br>Horizontal gaze palsy<br>Contralateral paralysis|
-|Anterior inferior cerebellar artery (AICA)|CN7 & CN8<br>Sympathetic fibers<br>Cerebellar peduncles|Lateral pontine syndrome:<br>Ipsilateral facial palsy<br>Ipsilateral deafness<br>Ipsilateral vertigo<br>Ipsilateral Horner syndrome<br>Ipsilateral ataxia|
+|Basilar artery|CN VI<br>Paramedian pontine reticular formation (PPRF)<br>Corticobulbar tract<br>Corticospinal tract|Medial pontine syndrome:<br>Horizontal gaze palsy<br>Contralateral paralysis|
+|Anterior inferior cerebellar artery (AICA)|CN VII & CN VIII<br>Sympathetic fibers<br>Cerebellar peduncles|Lateral pontine syndrome:<br>Ipsilateral facial palsy<br>Ipsilateral deafness<br>Ipsilateral vertigo<br>Ipsilateral Horner syndrome<br>Ipsilateral ataxia|
 |Posterior inferior cerebellar artery (PICA)|Ambiguous nucleus<br>Lateral spinothalamic tract<br>Sympathetic fibers<br>Inferior cerebellar peduncle|Lateral medullary [Wallenberg] syndrome:<br>Dysphagia<br>↓ Gag reflex<br>Ipsilateral Horner syndrome<br>Ipsilateral ataxia|
-|Anterior spinal artery (ASA)|CN12<br>Corticospinal tract<br>Medial lemniscus|Medial medullary syndrome:<br>Ipsilateral tongue deviation<br>Contralateral paralysis<br>Contralateral paresthesia|
+|Anterior spinal artery (ASA)|CN XII<br>Corticospinal tract<br>Medial lemniscus|Medial medullary syndrome:<br>Ipsilateral tongue deviation<br>Contralateral paralysis<br>Contralateral paresthesia|
 
 ## Neurological Examination for Hemineglect
 
