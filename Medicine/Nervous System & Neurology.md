@@ -566,9 +566,9 @@
 |Posterior cerebral artery (PCA)|Occipital lobe|Contralateral hemianopia w/ macular sparing|
 |Lenticulo-striate artery|Internal capsule<br>Striatum|Contralateral paralysis|
 |Basilar artery|Pons<br>Paramedian pontine reticular formation (PPRF)<br>Corticobulbar tract<br>Corticospinal tract|Medial pontine syndrome:<br>Horizontal gaze palsy<br>Contralateral paralysis|
-|Anterior inferior cerebellar artery (AICA)|
-|Posterior inferior cerebellar artery (PICA)|
-|Anterior spinal artery (ASA)|
+|Anterior inferior cerebellar artery (AICA)|Lateral pontine syndrome|
+|Posterior inferior cerebellar artery (PICA)|Lateral medullary [Wallenberg] syndrome
+|Anterior spinal artery (ASA)|Medial medullary syndrome|
 
 ## Neurological Examination for Hemineglect
 
