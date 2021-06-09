@@ -561,14 +561,15 @@
 
 |Artery|Lesions|Symptoms|
 |-|-|-|
-|Middle cerebral artery (MCA)|Motor & sensory cortices :: upper limb & face<br>Wernicke area<br>Broca area|Contralateral paralysis & paresthesia<br>Aphasia<br>Hemineglect|
+|Middle cerebral artery (MCA)|Motor & sensory cortices :: upper limb & face<br>Wernicke area<br>Broca area|Contralateral paralysis<br>Contralateral paresthesia<br>Aphasia<br>Hemineglect|
 |Anterior cerebral artery (ACA)|Motor & sensory cortices :: lower limb|Contralateral paralysis & paresthesia|
 |Posterior cerebral artery (PCA)|Occipital lobe|Contralateral hemianopia w/ macular sparing|
 |Lenticulo-striate artery|Internal capsule<br>Striatum|Contralateral paralysis|
-|Basilar artery|Pons<br>Paramedian pontine reticular formation (PPRF)<br>Corticobulbar tract<br>Corticospinal tract|Medial pontine syndrome:<br>Horizontal gaze palsy<br>Contralateral paralysis|
-|Anterior inferior cerebellar artery (AICA)||Lateral pontine syndrome|
-|Posterior inferior cerebellar artery (PICA)||Lateral medullary [Wallenberg] syndrome
-|Anterior spinal artery (ASA)||Medial medullary syndrome|
+|Basilar artery|CN6<br>Paramedian pontine reticular formation (PPRF)<br>Corticobulbar tract<br>Corticospinal tract|Medial pontine syndrome:<br>Horizontal gaze palsy<br>Contralateral paralysis|
+|Anterior inferior cerebellar artery (AICA)|CN7 & CN8<br>Sympathetic fibers<br>Cerebellar
+peduncles|Lateral pontine syndrome:<br>Ipsilateral facial palsy<br>ipsilateral deafness<br>Ipsilateral vertigo<br>Ipsilateral Horner syndrome<br>Ipsilateral ataxia|
+|Posterior inferior cerebellar artery (PICA)|Ambiguous nucleus<br>Lateral spinothalamic tract<br>Sympathetic fibers<br>Inferior cerebellar peduncle|Lateral medullary [Wallenberg] syndrome:<br>Dysphagia<br>↓ Gag reflex<br>Ipsilateral Horner syndrome<br>Ipsilateral ataxia|
+|Anterior spinal artery (ASA)|CN12<br>Corticospinal tract<br>Medial lemniscus|Medial medullary syndrome:<br>Ipsilateral tongue deviation<br>Contralateral paralysis<br>Contralateral paresthesia|
 
 ## Neurological Examination for Hemineglect
 
