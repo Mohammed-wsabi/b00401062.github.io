@@ -501,7 +501,7 @@
 - Intravenous immunoglobulin (IVIG)
 - Splenectomy
 
-## Indications of Thrombolytics
+## Indications for Thrombolytics
 
 - Acute coronary syndrome
 	- Duration < 12 ~ 24 hours
