@@ -541,13 +541,26 @@
 
 ## Risk of Progression of TIA to Stroke {ABCD2}
 
-- Age :: ≥ 􏳧60 years
-- BP :: ≥ 􏳧140/90
+- Age :: ≥􏳧60 years
+- BP :: ≥􏳧140/90
 - Clinical features
   - Unilateral weakness
   - Speech impairment
 - Duration
 - Diabetes
+
+## Presentation of Strokes
+
+|Artery|Lesions|
+|-|-|
+|Middle cerebral artery (MCA)|Motor and sensory cortices :: upper limb & face<br>Wernicke area<br>Broca area|
+|Anterior cerebral artery (ACA)|Motor and sensory cortices :: lower limb|
+|Posterior cerebral artery (PCA)|
+|Lenticulo-striate artery|
+|Basilar artery|
+|Anterior inferior cerebellar artery (AICA)|
+|Posterior inferior cerebellar artery (PICA)|
+|Anterior spinal artery (ASA)|
 
 ## Neurological Examination for Hemineglect
 
