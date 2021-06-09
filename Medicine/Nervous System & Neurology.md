@@ -351,7 +351,7 @@
 |Awake :: eyes open|β wave|
 |Awake :: eyes closed|α wave|
 |NREM sleep :: stage 1|θ wave|
-|NREM sleep :: stage 2|Sleep spindles & K complexes|
+|NREM sleep :: stage 2|Sleep spindles<br>K complexes|
 |NREM sleep :: stage 3 & 4|δ wave|
 |REM sleep|β wave|
 
