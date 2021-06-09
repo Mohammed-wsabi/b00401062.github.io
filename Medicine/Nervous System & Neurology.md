@@ -198,7 +198,7 @@
 |CN V|GSA|Trigeminal ganglion|Trigeminal nucleus|Thalamus :: VPM|
 |CN VII|SVA|Geniculate ganglion|Solitary nucleus|Thalamus|
 |CN VIII|SSA|Vestibular ganglion|Vestibular nucleus|Thalamus :: MGN|
-|CN VIII|SSA|Spiral ganglion|Cochlear nucleus|Thalamus :: MGN|
+|||Spiral ganglion|Cochlear nucleus|Thalamus :: MGN|
 |CN IX|GVA|Superior & Inferior ganglion|Solitary nucleus|Thalamus|
 |CN X|GVA|Superior & Inferior ganglion|Solitary nucleus|Thalamus|
 
