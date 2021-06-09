@@ -184,7 +184,7 @@
 |-|-|
 |Pure sensory nerves|I & II & VIII|
 |Pure motor nerves|III & IV & VI & XI & XII|
-|Mixed sensory & motor nerves<br>ranchial arch innervation|V & VII & IX & X|
+|Mixed sensory & motor nerves<br>Branchial arch innervation|V & VII & IX & X|
 |Parasympathetic nucleus|III & VII & IX & X|
 |Solitary nucleus|VII & IX & X|
 |Ambiguous nucleus|IX & X & XI|
