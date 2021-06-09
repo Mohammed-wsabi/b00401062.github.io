@@ -562,7 +562,7 @@
 |Artery|Lesions|Symptoms|
 |-|-|-|
 |Middle cerebral artery (MCA)|Motor & sensory cortices :: upper limb & face<br>Wernicke area<br>Broca area|Contralateral paralysis<br>Contralateral paresthesia<br>Aphasia<br>Hemineglect|
-|Anterior cerebral artery (ACA)|Motor & sensory cortices :: lower limb|Contralateral paralysis & paresthesia|
+|Anterior cerebral artery (ACA)|Motor & sensory cortices :: lower limb|Contralateral paralysis<br>Contralateral paresthesia|
 |Posterior cerebral artery (PCA)|Occipital lobe|Contralateral hemianopia w/ macular sparing|
 |Lenticulo-striate artery|Internal capsule<br>Striatum|Contralateral paralysis|
 |Basilar artery|CN6<br>Paramedian pontine reticular formation (PPRF)<br>Corticobulbar tract<br>Corticospinal tract|Medial pontine syndrome:<br>Horizontal gaze palsy<br>Contralateral paralysis|
