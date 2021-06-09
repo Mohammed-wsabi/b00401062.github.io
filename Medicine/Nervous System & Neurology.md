@@ -566,7 +566,7 @@
 |Posterior cerebral artery (PCA)|Occipital lobe|Contralateral hemianopia w/ macular sparing|
 |Lenticulo-striate artery|Internal capsule<br>Striatum|Contralateral paralysis|
 |Basilar artery|CN6<br>Paramedian pontine reticular formation (PPRF)<br>Corticobulbar tract<br>Corticospinal tract|Medial pontine syndrome:<br>Horizontal gaze palsy<br>Contralateral paralysis|
-|Anterior inferior cerebellar artery (AICA)|CN7 & CN8<br>Sympathetic fibers<br>Cerebellar peduncles|Lateral pontine syndrome:<br>Ipsilateral facial palsy<br>ipsilateral deafness<br>Ipsilateral vertigo<br>Ipsilateral Horner syndrome<br>Ipsilateral ataxia|
+|Anterior inferior cerebellar artery (AICA)|CN7 & CN8<br>Sympathetic fibers<br>Cerebellar peduncles|Lateral pontine syndrome:<br>Ipsilateral facial palsy<br>Ipsilateral deafness<br>Ipsilateral vertigo<br>Ipsilateral Horner syndrome<br>Ipsilateral ataxia|
 |Posterior inferior cerebellar artery (PICA)|Ambiguous nucleus<br>Lateral spinothalamic tract<br>Sympathetic fibers<br>Inferior cerebellar peduncle|Lateral medullary [Wallenberg] syndrome:<br>Dysphagia<br>↓ Gag reflex<br>Ipsilateral Horner syndrome<br>Ipsilateral ataxia|
 |Anterior spinal artery (ASA)|CN12<br>Corticospinal tract<br>Medial lemniscus|Medial medullary syndrome:<br>Ipsilateral tongue deviation<br>Contralateral paralysis<br>Contralateral paresthesia|
 
