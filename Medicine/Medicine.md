@@ -518,6 +518,12 @@
 - Liver failure → Hyperammonemia
 - End stage renal disease (ESRD) → Uremia
 
+## Presentation of Hyperlipidemia
+
+- Xanthomas
+- Xanthelasma
+- Corneal arcus
+
 ## Mechanisms of Action of Medications for Hyperlipidemia {OECSNF}
 
 |Mechanism|Medication|LDL|HDL|Triglyceride|
