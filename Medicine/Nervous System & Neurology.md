@@ -182,9 +182,9 @@
 
 |Group|Cranial Nerves|
 |-|-|
-|Pure sensory nerve|I & II & VIII|
-|Pure motor nerve|III & IV & VI & XI & XII|
-|Mixed and branchial arch innervation|V & VII & IX & X|
+|Pure sensory nerves|I & II & VIII|
+|Pure motor nerves|III & IV & VI & XI & XII|
+|Mixed sensory & motor nerves<br>ranchial arch innervation|V & VII & IX & X|
 |Parasympathetic nucleus|III & VII & IX & X|
 |Solitary nucleus|VII & IX & X|
 |Ambiguous nucleus|IX & X & XI|
