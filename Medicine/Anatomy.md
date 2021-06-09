@@ -63,28 +63,28 @@
 
 |Passage|Nerves|Vessels|
 |-|-|-|
-|Cribriform plate|CN 1|-|
-|Optic canal|CN 2|Ophthalmic artery|
-|Superior orbital fissure|CN 3 & 4 & 5-1 & 6|Ophthalmic vein|
-|Inferior orbital fissure|CN 5-2|Ophthalmic vein|
-|Foramen rotundum|CN 5-2|-|
-|Foramen ovale|CN 5-3|-|
+|Cribriform plate|CN I|-|
+|Optic canal|CN II|Ophthalmic artery|
+|Superior orbital fissure|CN III & IV & V<sub>1</sub> & VI|Ophthalmic vein|
+|Inferior orbital fissure|CN V<sub>2</sub>|Ophthalmic vein|
+|Foramen rotundum|CN V<sub>2</sub>|-|
+|Foramen ovale|CN V<sub>3</sub>|-|
 |Foramen spinosum|-|Middle meningeal artery|
-|Internal auditory meatus|CN 7 & 8|-|
-|Jugular foramen|CN 9 & 10 & 11|Jugular vein|
-|Hypoglossal canal|CN 12|-|
+|Internal auditory meatus|CN VII & VIII|-|
+|Jugular foramen|CN IX & X & XI|Jugular vein|
+|Hypoglossal canal|CN XII|-|
 |Foramen magnum|Brainstem|Vertebral artery|
-|Common tendinous ring|CN 2 & 3 & 5-1 & 6|Ophthalmic artery|
-|Cavernous sinus|CN 3 & 4 & 5-1 & 5-2 & 6|Internal carotid artery|
+|Common tendinous ring|CN II & III & V<sub>1</sub> & VI|Ophthalmic artery|
+|Cavernous sinus|CN III & IV & V<sub>1</sub> & V<sub>2</sub> & VI|Internal carotid artery|
 
 ## Cranial Parasympathetic Ganglia
 
 |Ganglion|Nerve|Innervation|
 |-|-|-|
-|Ciliary ganglion|CN 3|Sphincter pupillae & Ciliary muscle|
-|Pterygopalatine ganglion|CN 7|Lacrimal gland & Nasal glands|
-|Submandibular ganglion|CN 7|Submandibular & Sublingual glands|
-|Otic ganglion|CN 9|Parotid gland|
+|Ciliary ganglion|CN III|Sphincter pupillae & Ciliary muscle|
+|Pterygopalatine ganglion|CN VII|Lacrimal gland & Nasal glands|
+|Submandibular ganglion|CN VII|Submandibular & Sublingual glands|
+|Otic ganglion|CN IX|Parotid gland|
 
 ## Branches of Facial Nerve
 
@@ -102,68 +102,68 @@
 
 |Muscle|Nerve|Function|
 |-|-|-|
-|Temporalis|CN 5|Elevation|
-|Masseter|CN 5|Elevation|
-|Medial pterygoid|CN 5|Elevation|
-|Lateral pterygoid|CN 5|Depression|
+|Temporalis|CN V|Elevation|
+|Masseter|CN V|Elevation|
+|Medial pterygoid|CN V|Elevation|
+|Lateral pterygoid|CN V|Depression|
 
 ### Face
 
 |Muscle|Nerve|Function|
 |-|-|-|
 |Superior tarsal muscle|Sympathetic nerve|-|
-|Levator palpebrae superioris|CN 3|-|
-|Buccinator|CN 7|-|
-|Corrugator|CN 7|-|
-|Risorius|CN 7|-|
-|Orbicularis oculi|CN 7|-|
-|Orbicularis oris|CN 7|-|
-|Occipitofrontalis|CN 7|-|
+|Levator palpebrae superioris|CN III|-|
+|Buccinator|CN VII|-|
+|Corrugator|CN VII|-|
+|Risorius|CN VII|-|
+|Orbicularis oculi|CN VII|-|
+|Orbicularis oris|CN VII|-|
+|Occipitofrontalis|CN VII|-|
 
 ### Palate
 
 |Muscle|Nerve|Function|
 |-|-|-|
-|Tensor veli palatini|CN 5|-|
-|Levator veli palatini|CN 10|-|
-|Palatopharyngeus|CN 10|-|
-|Palatoglossus|CN 10|-|
+|Tensor veli palatini|CN V|-|
+|Levator veli palatini|CN X|-|
+|Palatopharyngeus|CN X|-|
+|Palatoglossus|CN X|-|
 
 ### Pharynx
 
 |Muscle|Nerve|Function|
 |-|-|-|
-|Stylopharyngeus|CN 9|-|
-|Salpingopharyngeus|CN 10|-|
-|Palatopharyngeus|CN 10|-|
-|Pharyngeal constrictor|CN 10|-|
+|Stylopharyngeus|CN IX|-|
+|Salpingopharyngeus|CN X|-|
+|Palatopharyngeus|CN X|-|
+|Pharyngeal constrictor|CN X|-|
 
 ### Larynx
 
 |Muscle|Nerve|Function|
 |-|-|-|
-|Cricothyroid|CN 10 :: superior laryngeal nerve|-|
-|Cricoarytenoid|CN 10 :: recurrent laryngeal nerve|-|
-|Thyroarytenoid|CN 10 :: recurrent laryngeal nerve|-|
-|Arytenoid|CN 10 :: recurrent laryngeal nerve|-|
+|Cricothyroid|CN X :: superior laryngeal nerve|-|
+|Cricoarytenoid|CN X :: recurrent laryngeal nerve|-|
+|Thyroarytenoid|CN X :: recurrent laryngeal nerve|-|
+|Arytenoid|CN X :: recurrent laryngeal nerve|-|
 
 ### Tongue
 
 |Muscle|Nerve|Function|
 |-|-|-|
-|Palatoglossus|CN 10|Elevation|
-|Styloglossus|CN 12|Elevation & Retraction|
-|Hyoglossus|CN 12|Depression & Retraction|
-|Genioglossus|CN 12|Depression & Protrusion|
+|Palatoglossus|CN X|Elevation|
+|Styloglossus|CN XII|Elevation & Retraction|
+|Hyoglossus|CN XII|Depression & Retraction|
+|Genioglossus|CN XII|Depression & Protrusion|
 
 ### Hyoid
 
 |Muscle|Nerve|Function|
 |-|-|-|
-|Digastric muscle :: anterior belly|CN 5|-|
-|Digastric muscle :: posterior belly|CN 7|-|
-|Mylohyoid|CN 5|-|
-|Stylohyoid|CN 7|-|
+|Digastric muscle :: anterior belly|CN V|-|
+|Digastric muscle :: posterior belly|CN VII|-|
+|Mylohyoid|CN V|-|
+|Stylohyoid|CN VII|-|
 |Geniohyoid|C1|-|
 |Thyrohyoid|C1|-|
 |Sternothyroid|AC|-|
@@ -394,7 +394,7 @@
 |Structure|Contents|
 |-|-|
 |Inferior vena cave|Right phrenic nerve|
-|Esophagus|CN 10|
+|Esophagus|CN X|
 |Aorta|Azygous nerve & Thoracic duct|
 
 ### Arcuate ligament
