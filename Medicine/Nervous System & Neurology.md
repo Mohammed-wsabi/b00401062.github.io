@@ -201,21 +201,6 @@
 |Jaw Jerk|CN V<sub>3</sub>|CN VII|
 |Gag|CN IX|CN X|
 
-## Nerve Roots & Motor Functions
-
-|Nerve root|Motor functions|Reflex|
-|-|-|-|
-|C5|Elbow flexion|Biceps reflex<br>Brachioradialis reflex|
-|C6|Wrist extension|-|
-|C7|Elbow extension|Triceps reflex|
-|C8|Finger flexion|-|
-|T1|Finger abduction|-|
-|L2|Hip flexion|-|
-|L3|Knee extension|-|
-|L4|Ankle dorsiflexion|Patellar reflex|
-|L5|Big toe extension|-|
-|S1|Ankle plantar flexion<br>Hip extension|Achilles reflex|
-
 ## Primitive Reflexes
 
 - Moro reflex
@@ -275,7 +260,7 @@
 |**2° Neuron**|Spinal cord|Contralateral|Anterior horn|
 ||Periphery|Contralateral|Ventral root|
 
-## Levels of the Structures in the Spinal Cord
+## Structures in the Spinal Cord
 
 |Structure|Level|
 |-|-|
@@ -296,6 +281,21 @@
 |II|A-β|Traumatic|Touch<br>Pressure<br>Vibration|
 |III|A-δ|Stress|Sharp pain<br>Cold|
 |IV|C|Disorder|Dull pain<br>Warm|
+
+## Nerve Roots & Motor Functions
+
+|Nerve root|Motor functions|Reflex|
+|-|-|-|
+|C5|Elbow flexion|Biceps reflex<br>Brachioradialis reflex|
+|C6|Wrist extension|-|
+|C7|Elbow extension|Triceps reflex|
+|C8|Finger flexion|-|
+|T1|Finger abduction|-|
+|L2|Hip flexion|-|
+|L3|Knee extension|-|
+|L4|Ankle dorsiflexion|Patellar reflex|
+|L5|Big toe extension|-|
+|S1|Ankle plantar flexion<br>Hip extension|Achilles reflex|
 
 ## Autonomic Nervous System
 
