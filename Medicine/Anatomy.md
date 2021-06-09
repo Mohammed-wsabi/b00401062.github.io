@@ -619,18 +619,3 @@
 |Guyon canal|-|Ulnar nerve<br>Ulnar artery|
 |Carpal tunnel|Flexor retinaculum|Median nerve<br>Flexor digitorum superficialis<br>Flexor digitorum profundus<br>Flexor pollicis longus|
 |Tarsal tunnel|Flexor retinaculum|Tibialis posterior<br>Flexor digitorum longus<br>Tibial artery<br>Tibial nerve<br>Flexor hallucis longus|
-
-## Nerve Roots & Motor Functions
-
-|Nerve root|Motor functions|Reflex|
-|-|-|-|
-|C5|Elbow flexion|Biceps reflex<br>Brachioradialis reflex|
-|C6|Wrist extension|-|
-|C7|Elbow extension|Triceps reflex|
-|C8|Finger flexion|-|
-|T1|Finger abduction|-|
-|L2|Hip flexion|-|
-|L3|Knee extension|-|
-|L4|Ankle dorsiflexion|Patellar reflex|
-|L5|Big toe extension|-|
-|S1|Ankle plantar flexion<br>Hip extension|Achilles reflex|
