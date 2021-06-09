@@ -153,31 +153,6 @@
 
 ![](../Figures/Ventricular%20System%20of%20the%20Brain.png)
 
-## Cranial Nerve Reflexes
-
-|Reflex|Afferent|Efferent|
-|-|-|-|
-|Pupillary|CN II|CN III|
-|Corneal|CN V<sub>1</sub>|CN VII|
-|Lacrimation|CN V<sub>1</sub>|CN VII|
-|Jaw Jerk|CN V<sub>3</sub>|CN VII|
-|Gag|CN IX|CN X|
-
-## Nerve Roots & Motor Functions
-
-|Nerve root|Motor functions|Reflex|
-|-|-|-|
-|C5|Elbow flexion|Biceps reflex<br>Brachioradialis reflex|
-|C6|Wrist extension|-|
-|C7|Elbow extension|Triceps reflex|
-|C8|Finger flexion|-|
-|T1|Finger abduction|-|
-|L2|Hip flexion|-|
-|L3|Knee extension|-|
-|L4|Ankle dorsiflexion|Patellar reflex|
-|L5|Big toe extension|-|
-|S1|Ankle plantar flexion<br>Hip extension|Achilles reflex|
-
 ## Groups of Cranial Nerves
 
 |Group|Cranial Nerves|
@@ -215,6 +190,40 @@
 - Rubrospinal tract
 - Vestibulospinal tract
 - Reticulospinal tract
+
+## Cranial Nerve Reflexes
+
+|Reflex|Afferent|Efferent|
+|-|-|-|
+|Pupillary|CN II|CN III|
+|Corneal|CN V<sub>1</sub>|CN VII|
+|Lacrimation|CN V<sub>1</sub>|CN VII|
+|Jaw Jerk|CN V<sub>3</sub>|CN VII|
+|Gag|CN IX|CN X|
+
+## Nerve Roots & Motor Functions
+
+|Nerve root|Motor functions|Reflex|
+|-|-|-|
+|C5|Elbow flexion|Biceps reflex<br>Brachioradialis reflex|
+|C6|Wrist extension|-|
+|C7|Elbow extension|Triceps reflex|
+|C8|Finger flexion|-|
+|T1|Finger abduction|-|
+|L2|Hip flexion|-|
+|L3|Knee extension|-|
+|L4|Ankle dorsiflexion|Patellar reflex|
+|L5|Big toe extension|-|
+|S1|Ankle plantar flexion<br>Hip extension|Achilles reflex|
+
+## Primitive Reflexes
+
+- Moro reflex
+- Rooting reflex
+- Sucking reflex
+- Galant reflex
+- Palmar reflex
+- Plantar reflex
 
 ## Spinal Tracts
 
