@@ -583,8 +583,8 @@
 
 ## Risk of Progression of TIA to Stroke {ABCD2}
 
-- Age :: ≥􏳧60 years
-- BP :: ≥􏳧140/90
+- Age :: ≥ 60 years
+- BP :: ≥ 140/90
 - Clinical features
   - Unilateral weakness
   - Speech impairment
