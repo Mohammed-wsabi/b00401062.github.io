@@ -446,8 +446,16 @@
 ## Charcot Triad of Multiple Sclerosis {SIN}
 
 - Scanning speech
-- Intention tremor & Incontinence & Internuclear ophthalmoplegia
+- Intention tremor
+- Incontinence
+- Internuclear ophthalmoplegia
 - Nystagmus
+
+## White Matters Affected By Multiple Sclerosis
+
+- Medial longitudinal fasciculus (MLF)
+- Dorsal column
+- Spinothalamic tract
 
 ## Presentation of Parkinson Disease {PARTS}
 
@@ -551,13 +559,13 @@
 
 ## Presentation of Strokes
 
-|Artery|Lesions|
-|-|-|
-|Middle cerebral artery (MCA)|Motor and sensory cortices :: upper limb & face<br>Wernicke area<br>Broca area|
-|Anterior cerebral artery (ACA)|Motor and sensory cortices :: lower limb|
-|Posterior cerebral artery (PCA)|
-|Lenticulo-striate artery|
-|Basilar artery|
+|Artery|Lesions|Symptoms|
+|-|-|-|
+|Middle cerebral artery (MCA)|Motor & sensory cortices :: upper limb & face<br>Wernicke area<br>Broca area|Contralateral paralysis & paresthesia<br>Aphasia<br>Hemineglect|
+|Anterior cerebral artery (ACA)|Motor & sensory cortices :: lower limb|Contralateral paralysis & paresthesia|
+|Posterior cerebral artery (PCA)|Occipital lobe|Contralateral hemianopia w/ macular sparing|
+|Lenticulo-striate artery|Internal capsule<br>Striatum|Contralateral paralysis|
+|Basilar artery|Pons<br>Paramedian pontine reticular formation (PPRF)<br>Corticobulbar tract<br>Corticospinal tract|Medial pontine syndrome:<br>Horizontal gaze palsy<br>Contralateral paralysis|
 |Anterior inferior cerebellar artery (AICA)|
 |Posterior inferior cerebellar artery (PICA)|
 |Anterior spinal artery (ASA)|
