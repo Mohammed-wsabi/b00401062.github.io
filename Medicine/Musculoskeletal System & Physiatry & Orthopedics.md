@@ -59,10 +59,10 @@
 |Long thoracic nerve|Clavicle fracture|Serratus anterior|Winged scapula|
 |Axillary nerve|Anterior shoulder dislocation<br>Proximal humerus fracture|Deltoid<br>Teres minor|
 |Radial nerve|Midshaft humerus fracture|Posterior compartment of forearm|Saturday night palsy<br>Wrist drop|
-|Proximal median nerve|Supracondylar humerus fracture|Flexor digitorum profundus :: 1st & 2nd|Pope's blessing|
-|Distal median nerve|Carpal tunnel syndrome|Lumbrical muscle :: 1st & 2nd|Median claw hand|
-|Proximal ulnar nerve|Medial epicondyle fracture<br>Cubital tunnel syndrome|Flexor digitorum profundus :: 3rd & 4th|OK gesture|
-|Distal ulnar nerve|Hook of hamate fracture<br>Guyon canal syndrome|Lumbrical muscle :: 3rd & 4th|Ulnar claw hand|
+|Median nerve :: proximal|Supracondylar humerus fracture|Flexor digitorum profundus :: 1st & 2nd|Pope's blessing|
+|Median nerve :: distal|Carpal tunnel syndrome|Lumbrical muscle :: 1st & 2nd|Median claw hand|
+|Ulnar nerve :: proximal|Medial epicondyle fracture<br>Cubital tunnel syndrome|Flexor digitorum profundus :: 3rd & 4th|OK gesture|
+|Ulnar nerve :: distal|Hook of hamate fracture<br>Guyon canal syndrome|Lumbrical muscle :: 3rd & 4th|Ulnar claw hand|
 |Obturator nerve|Anterior hip dislocation|Medial compartment of thigh|-|
 |Femoral nerve|-|Anterior compartment of thigh|-|
 |Common fibular nerve|Fibular neck fracture|Anterior compartment of leg<br>Lateral compartment of leg|Foot drop|
