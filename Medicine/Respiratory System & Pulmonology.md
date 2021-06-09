@@ -50,7 +50,7 @@
 - Interstitial lung diseases
 - V/Q mismatch
 
-## Respiratory Patterns
+## Breathing Patterns
 
 ![](../Figures/Respiratory%20Patterns.png)
 
