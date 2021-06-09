@@ -153,18 +153,30 @@
 
 ![](../Figures/Ventricular%20System%20of%20the%20Brain.png)
 
-## Sleep Stages
+## Cranial Nerve Reflexes
 
-|Stage|Waves|
-|-|-|
-|Awake :: eyes open|β wave|
-|Awake :: eyes closed|α wave|
-|NREM sleep :: stage 1|θ wave|
-|NREM sleep :: stage 2|Sleep spindles & K complexes|
-|NREM sleep :: stage 3 & 4|δ wave|
-|REM sleep|β wave|
+|Reflex|Afferent|Efferent|
+|-|-|-|
+|Pupillary|CN II|CN III|
+|Corneal|CN V<sub>1</sub>|CN VII|
+|Lacrimation|CN V<sub>1</sub>|CN VII|
+|Jaw Jerk|CN V<sub>3</sub>|CN VII|
+|Gag|CN IX|CN X|
 
-![](../Figures/Sleep%20Stage.jpg)
+## Nerve Roots & Motor Functions
+
+|Nerve root|Motor functions|Reflex|
+|-|-|-|
+|C5|Elbow flexion|Biceps reflex<br>Brachioradialis reflex|
+|C6|Wrist extension|-|
+|C7|Elbow extension|Triceps reflex|
+|C8|Finger flexion|-|
+|T1|Finger abduction|-|
+|L2|Hip flexion|-|
+|L3|Knee extension|-|
+|L4|Ankle dorsiflexion|Patellar reflex|
+|L5|Big toe extension|-|
+|S1|Ankle plantar flexion<br>Hip extension|Achilles reflex|
 
 ## Groups of Cranial Nerves
 
@@ -322,6 +334,19 @@
 ## Factors Affecting Cerebral Blood Flow
 
 ![](../Figures/Factors%20Affecting%20Cerebral%20Blood%20Flow.jpg)
+
+## Sleep Stages
+
+|Stage|Waves|
+|-|-|
+|Awake :: eyes open|β wave|
+|Awake :: eyes closed|α wave|
+|NREM sleep :: stage 1|θ wave|
+|NREM sleep :: stage 2|Sleep spindles & K complexes|
+|NREM sleep :: stage 3 & 4|δ wave|
+|REM sleep|β wave|
+
+![](../Figures/Sleep%20Stage.jpg)
 
 ## Craniosynostosis
 
