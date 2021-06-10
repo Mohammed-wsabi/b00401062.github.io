@@ -437,7 +437,7 @@
 |-|-|-|
 |Epidural|Middle meningeal artery|-|
 |Subdural|Bridging veins|+|
-|Subarachnoid|Aneurysm<br>AVM|+|
+|Subarachnoid|Aneurysm<br>Arteriovenous malformation (AVM)|+|
 |Intraparenchymal|Microaneurysm|+|
 
 ## Presentation of Increased Intracranial Pressure (ICP)
