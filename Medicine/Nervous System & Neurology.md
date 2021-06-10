@@ -199,6 +199,7 @@
 |Corneal|CN V<sub>1</sub>|CN VII|
 |Lacrimation|CN V<sub>1</sub>|CN VII|
 |Jaw Jerk|CN V<sub>3</sub>|CN VII|
+|Vestibulo-ocular|CN VIII|CN III & IV & VI|
 |Gag|CN IX|CN X|
 
 ## Primitive Reflexes
