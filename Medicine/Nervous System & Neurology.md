@@ -507,6 +507,13 @@
 - Dorsal column
 - Spinothalamic tract
 
+## Types of Multiple Sclerosis
+
+- Relapsing-remitting
+- Progressive relapsing
+- 1° progressive
+- 2° progressive
+
 ## Presentation of Parkinson Disease {PARTS}
 
 - Postural instability
