@@ -413,13 +413,13 @@
 
 |Aphasia|Comprehension|Repetition|Fluency|
 |-|-|-|-|
-|Global|-|-|-|
-|Broca|+|-|-|
-|Wernicke|-|-|+|
-|Conduction|+|-|+|
-|Mixed transcortical|-|+|-|
-|Transcortical motor|+|+|-|
-|Transcortical sensory|-|+|+|
+|Global|↓|↓|↓|
+|Broca|-|↓|↓|
+|Wernicke|↓|↓|-|
+|Conduction|-|↓|-|
+|Mixed transcortical|↓|-|↓|
+|Transcortical motor|-|-|↓|
+|Transcortical sensory|↓|-|-|
 
 ## Hemorrhage
 
