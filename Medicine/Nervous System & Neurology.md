@@ -374,12 +374,12 @@
 ||Cluster|Migraine|Tension|
 |-|-|-|-|
 |Sex|Male|Female|-|
-|Laterality|Unilateral|Unilateral / Bilateral|Bilateral|
+|Laterality|Unilateral|Unilateral|Bilateral|
 |Location|Periorbital|Head|Band|
 |Duration|15 minutes ~ 3 hours|4 hours ~ 3 days|30 minutes ~ 7 days|
 |Triggers|-|+|+|
 
-## “Red Flags” for Secondary Headaches
+## Red Flags for Secondary Headaches
 
 - Sudden onset
 - Onset after 50 y/o
@@ -404,6 +404,10 @@
 |Upper pons|Apneustic respiration|
 |Lower pons|Cluster respiration|
 |Medulla|Ataxic [Biot] respiration|
+
+## Seizures
+
+![](../Figures/Seizures.png)
 
 ## Aphasia
 
@@ -475,8 +479,8 @@
 ## Contraindications for Lumbar Puncture
 
 - Increased intracranial pressure (ICP)
-- Bleeding tendency
 - Suspected brain abscess
+- Bleeding tendency
 
 ## Spinal Cord Lesions
 
