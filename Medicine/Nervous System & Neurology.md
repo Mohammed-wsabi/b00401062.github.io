@@ -405,10 +405,6 @@
 |Lower pons|Cluster respiration|
 |Medulla|Ataxic [Biot] respiration|
 
-## Seizures
-
-![](../Figures/Seizures.png)
-
 ## Aphasia
 
 |Aphasia|Comprehension|Repetition|Fluency|
@@ -548,6 +544,10 @@
 |Microglia|Mesoderm|-|
 |PNS neuron|Neural crest|-|
 |Schwann cell|Neural crest|Schwannoma|
+
+## Seizures
+
+![](../Figures/Seizures.png)
 
 ## Mechanisms of Action of Anticonvulsants
 
