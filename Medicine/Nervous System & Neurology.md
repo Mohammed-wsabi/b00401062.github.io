@@ -379,6 +379,16 @@
 |Duration|15 minutes ~ 3 hours|4 hours ~ 3 days|30 minutes ~ 7 days|
 |Triggers|-|+|+|
 
+## “Red Flags” for Secondary Headaches
+
+- Sudden onset
+- Onset after 50 y/o
+- ↑ frequency or severity
+- New onset with an underlying medical condition
+- Focal neurologic sequelae
+- Papilledema
+- Preceding head trauma
+
 ## Presentation of Horner Syndrome {MAP}
 
 - Miosis
@@ -426,11 +436,16 @@
 |Subarachnoid|Aneurysm / AVM|+|
 |Intraparenchymal|Microaneurysm|+|
 
-## Cushing Triad of Increased Intracranial Pressure (ICP)
+## Presentation of Increased Intracranial Pressure (ICP)
 
-- Pressure :: hypertension & increased pulse pressure
-- Pulse :: bradycardia
-- Respiration :: pattern change
+- Cushing triad
+  - Pressure :: hypertension & increased pulse pressure
+  - Pulse :: bradycardia
+  - Respiration :: pattern change
+- Headache
+- Nausea ± vomiting
+- Papilledema
+- ↓ Consciousness
 
 ## Treatment of Increased Intracranial Pressure (ICP)
 
