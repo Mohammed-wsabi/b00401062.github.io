@@ -67,7 +67,7 @@
 |Secretion|Location|
 |-|-|
 |Acetylcholine|Basal nucleus of Meynert|
-|Dopamine|Ventral tegmentum & Substantia nigra|
+|Dopamine|Ventral tegmentum<br>Substantia nigra|
 |Norepinephrine|Nucleus ceruleus|
 |Serotonin|Raphe nucleus|
 |GABA|Nucleus accumbens|
@@ -437,7 +437,7 @@
 |-|-|-|
 |Epidural|Middle meningeal artery|-|
 |Subdural|Bridging veins|+|
-|Subarachnoid|Aneurysm / AVM|+|
+|Subarachnoid|Aneurysm<br>AVM|+|
 |Intraparenchymal|Microaneurysm|+|
 
 ## Presentation of Increased Intracranial Pressure (ICP)
