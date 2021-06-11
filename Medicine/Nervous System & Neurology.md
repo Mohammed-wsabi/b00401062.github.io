@@ -626,9 +626,9 @@
 |Anterior cerebral artery (ACA)|Motor & sensory cortices :: lower limb|Contralateral paralysis<br>Contralateral paresthesia|
 |Posterior cerebral artery (PCA)|Occipital lobe|Contralateral hemianopia w/ macular sparing|
 |Lenticulo-striate artery|Internal capsule<br>Striatum|Contralateral paralysis|
-|Basilar artery|CN VI<br>Paramedian pontine reticular formation (PPRF)<br>Corticobulbar tract<br>Corticospinal tract|Medial pontine syndrome:<br>Horizontal gaze palsy<br>Contralateral paralysis|
+|Basilar artery|CN VI<br>Paramedian pontine reticular formation (PPRF)<br>Corticobulbar tract<br>Corticospinal tract|Locked-in syndrome<br>Medial pontine syndrome:<br>Horizontal gaze palsy<br>Contralateral paralysis|
 |Anterior inferior cerebellar artery (AICA)|CN VII & CN VIII<br>Sympathetic fibers<br>Cerebellar peduncles|Lateral pontine syndrome:<br>Ipsilateral facial palsy<br>Ipsilateral deafness<br>Ipsilateral vertigo<br>Ipsilateral Horner syndrome<br>Ipsilateral ataxia|
-|Posterior inferior cerebellar artery (PICA)|Ambiguous nucleus<br>Lateral spinothalamic tract<br>Sympathetic fibers<br>Inferior cerebellar peduncle|Lateral medullary [Wallenberg] syndrome:<br>Dysphagia<br>↓ Gag reflex<br>Ipsilateral Horner syndrome<br>Ipsilateral ataxia|
+|Posterior inferior cerebellar artery (PICA)|Ambiguous nucleus<br>Lateral spinothalamic tract<br>Sympathetic fibers<br>Inferior cerebellar peduncle|Lateral medullary [Wallenberg] syndrome:<br>Dysphagia<br>↓ Gag reflex<br>Contralateral palate deviation<br>Ipsilateral Horner syndrome<br>Ipsilateral ataxia|
 |Anterior spinal artery (ASA)|CN XII<br>Corticospinal tract<br>Medial lemniscus|Medial medullary syndrome:<br>Ipsilateral tongue deviation<br>Contralateral paralysis<br>Contralateral paresthesia|
 
 ## Neurological Examination for Hemineglect
