@@ -214,11 +214,11 @@
 
 ## Types of Transfusion Reactions
 
-|Type|Causes|
-|-|-|
-|Allergic|Anti-plasma proteins IgE<br>Anti-IgA IgE|
-|Hemolytic (HTR): acute & delayed|Anti-ABO<br>Anti-Rh|
-|Febrile non-hemolytic (FNHTR)|Cytokines|
+|Type|Causes|Onset|
+|-|-|-|
+|Allergic|Anti-plasma proteins IgE<br>Anti-IgA IgE|Minutes ~ Hours|
+|Hemolytic (HTR): acute & delayed|Anti-ABO<br>Anti-Rh|Minutes ~ Days|
+|Febrile non-hemolytic (FNHTR)|Cytokines|Hours|
 
 ## Leukemia & Lymphoma
 
