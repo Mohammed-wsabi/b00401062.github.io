@@ -654,10 +654,10 @@
 ||Pressure|WBCs|Glucose|Protein|
 |-|-|-|-|-|
 |Normal|50 ~ 180 mmH<sub>2</sub>O|< 5/mm<sup>3</sup>|40 ~ 70 mg/dL|20 ~ 45 mg/dL|
+|Inflammatory|-|-|-|↑|
 |Bacterial|↑|↑ PMNs|↓|↑|
 |TB & Fungal|↑|↑ Lymphocytes|↓|↑|
 |Viral|↑|↑ Lymphocytes|-|↑|
-|Guillain-Barre syndrome|-|↑ Lymphocytes|-|↑|
 
 ## Pathogens of Encephalitis
 
