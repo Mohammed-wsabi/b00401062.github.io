@@ -513,8 +513,10 @@
 
 ## White Matters Affected By Multiple Sclerosis
 
+- Optic nerve
 - Medial longitudinal fasciculus (MLF)
 - Cerebellum
+- Spinal cord
 
 ## Types of Multiple Sclerosis
 
