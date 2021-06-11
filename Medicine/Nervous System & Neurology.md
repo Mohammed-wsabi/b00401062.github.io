@@ -116,6 +116,13 @@
 
 ## Basal Ganglion
 
+- Striatum
+  - Putamen
+  - Caudate nucleus
+- Lentiform nucleus
+  - Putamen
+  - Globus pallidus
+
 ![](../Figures/Basal%20Ganglion.png)
 
 ## Basal Ganglia and Diseases
@@ -591,15 +598,16 @@
 
 ## Neurodegenerative Disorders
 
-|Disorder|Findings|
-|-|-|
-|Parkinson disease|Lewy body|
-|Huntington disease|-|
-|Alzheimer disease|Senile plaque<br>Neurofibrillary tangle<br>Hirano body|
-|Frontotemporal dementia|Pick body|
-|Lewy body dementia|Lewy body|
-|Vascular dementia|-|
-|Creutzfeldt-Jakob disease|Prion|
+|Disorder|Findings|Lesions|
+|-|-|-|
+|Parkinson disease|Lewy body ← α-synuclein|Substantia nigra pars compacta|
+|Huntington disease|-|Striatum|
+|Alzheimer disease|Senile plaque ← Amyloid β (Aβ)<br>Neurofibrillary tangle <- Tau protein<br>Hirano body|Cortex<br>Hippocampus|
+|Frontotemporal dementia|Pick body ← Tau protein|Frontotemporal lobe|
+|Lewy body dementia|Lewy body ← α-synuclein|Cortex|
+|Vascular dementia|-|Cortex|
+|Normal pressure hydrocephalus (NPH)|-|-|
+|Creutzfeldt-Jakob disease|Prion|Striatum|
 
 ## Mechanisms of Action of Medications for Huntington Disease
 
