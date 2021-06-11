@@ -530,21 +530,6 @@
 - Steroids
 - Plasmapheresis
 
-## Presentation of Parkinson Disease {PARTS}
-
-- Postural instability
-- Akinesia & Bradykinesia
-- Rigidity :: cogwheel
-- Tremor :: resting & pill-rolling
-- Shuffling gait
-
-## Extrapyramidal Symptoms (EPS) {DABT}
-
-- Dystonia
-- Akathisia
-- Bradykinesia
-- Tardive dyskinesia
-
 ## Classic Triad of Wernicke's Encephalopathy {CAO}
 
 - Confusion
@@ -623,6 +608,21 @@
 |Vesicular transporter inhibitors|Reserpine|Huntington|
 ||Tetrabenazine|Huntington|
 |D<sub>2</sub> antagonists|2° Antipsychotics|Huntington|
+
+## Presentation of Parkinson Disease {PARTS}
+
+- Postural instability
+- Akinesia & Bradykinesia
+- Rigidity :: cogwheel
+- Tremor :: resting & pill-rolling
+- Shuffling gait
+
+## Extrapyramidal Symptoms (EPS) {DABT}
+
+- Dystonia
+- Akathisia
+- Bradykinesia
+- Tardive dyskinesia
 
 ## Mechanisms of Action of Medications for Parkinson Disease
 
