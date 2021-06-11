@@ -92,7 +92,7 @@
 
 ## Amyloidosis
 
-|Disease|Amyloid|Origin|
+|Disease|Amyloid|Precursor|
 |-|-|-|
 |Primary amyloidosis|Amyloid light-chain (AL)|Immunoglobulin light-chain|
 ||Amyloid transthyretin (ATTR)|Transthyretin|
