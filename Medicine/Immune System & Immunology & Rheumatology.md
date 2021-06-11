@@ -402,6 +402,14 @@
 - Rashes salmon-colored & non-pruritic
 - Splenomegaly
 
+## Types of Transplant Reactions
+
+|Type|Causes|Onset|
+|-|-|-|
+|Hyperacute|Anti-ABO<br>Anti-Rh|Minutes|
+|Acute|T-cell|Months|
+|Chronic|-|Years|
+
 ## Mechanisms of Action of Immunosuppressants
 
 ![](../Figures/Mechanisms%20of%20Action%20of%20Immunosuppressants.png)
