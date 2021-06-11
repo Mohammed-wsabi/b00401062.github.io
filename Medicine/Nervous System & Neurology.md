@@ -592,38 +592,6 @@
 |-|Topiramate|Seizure|
 |-|Lamotrigine|Seizure|
 
-## Mechanisms of Action of Medications for Huntington Disease
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|Vesicular transporter inhibitors|Reserpine|Huntington|
-||Tetrabenazine|Huntington|
-|D<sub>2</sub> antagonists|2° Antipsychotics|Huntington|
-
-## Mechanisms of Action of Medications for Parkinson Disease
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|M antagonists|Benztropine|Parkinson|
-|D<sub>2</sub> agonists|Bromocriptine|Parkinson|
-||Pramipexole|Parkinson|
-||Ropinirole|Parkinson|
-|MAO inhibitors|Selegiline|Parkinson|
-|COMT inhibitors|Capones|Parkinson|
-|Dopa|Levodopa|Parkinson|
-|Dopa decarboxylase inhibitors|Carbidopa|Parkinson|
-||Benserazide|Parkinson|
-|NMDA antagonists|Amantadine|Parkinson|
-
-## Mechanisms of Action of Medications for Alzheimer Disease
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|ACh esterase inhibitors|Rivastigmine|Alzheimer|
-||Galantamine|Alzheimer|
-||Donepezil|Alzheimer|
-|NMDA antagonists|Memantine|Alzheimer|
-
 ## Risk of Progression of TIA to Stroke {ABCD2}
 
 - Age :: ≥ 60 years
@@ -658,13 +626,45 @@
 
 |Disorder|Findings|
 |-|-|
-|Parkinson disease|
-|Huntington disease|
-|Alzheimer disease|
-|Frontotemporal dementia|
-|Lewy body dementia|
-|Vascular dementia|
-|Creutzfeldt-Jakob disease|
+|Parkinson disease|Lewy body|
+|Huntington disease|-|
+|Alzheimer disease|Senile plaque<br>Neurofibrillary tangle<br>Hirano body|
+|Frontotemporal dementia|Pick body|
+|Lewy body dementia|Lewy body|
+|Vascular dementia|-|
+|Creutzfeldt-Jakob disease|Prion|
+
+## Mechanisms of Action of Medications for Huntington Disease
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|Vesicular transporter inhibitors|Reserpine|Huntington|
+||Tetrabenazine|Huntington|
+|D<sub>2</sub> antagonists|2° Antipsychotics|Huntington|
+
+## Mechanisms of Action of Medications for Parkinson Disease
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|M antagonists|Benztropine|Parkinson|
+|D<sub>2</sub> agonists|Bromocriptine|Parkinson|
+||Pramipexole|Parkinson|
+||Ropinirole|Parkinson|
+|MAO inhibitors|Selegiline|Parkinson|
+|COMT inhibitors|Capones|Parkinson|
+|Dopa|Levodopa|Parkinson|
+|Dopa decarboxylase inhibitors|Carbidopa|Parkinson|
+||Benserazide|Parkinson|
+|NMDA antagonists|Amantadine|Parkinson|
+
+## Mechanisms of Action of Medications for Alzheimer Disease
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|ACh esterase inhibitors|Rivastigmine|Alzheimer|
+||Galantamine|Alzheimer|
+||Donepezil|Alzheimer|
+|NMDA antagonists|Memantine|Alzheimer|
 
 ## CSF Analysis
 
