@@ -543,7 +543,7 @@
 |CD20 inhibitors|Rituximab|Immunosuppression<br>Non-Hodgkin lymphoma|
 ||Ocrelizumab|Multiple sclerosis|
 |CD52 inhibitors|Alemtuzumab|Chronic lymphocytic leukemia (CLL)<br>Multiple sclerosis|
-|α4-integrin|Natalizumab|Multiple sclerosis<br>Crohn disease|
+|α4-integrin inhibitors|Natalizumab|Multiple sclerosis<br>Crohn disease|
 |EGFR inhibitors|Cetuximab|Colorectal cancer|
 |HER2 inhibitors|Trastuzumab|Breast cancer|
 |VEGF inhibitors|Bevacizumab|Solid tumors|
