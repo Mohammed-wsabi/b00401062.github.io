@@ -525,6 +525,11 @@
 - 1° progressive
 - 2° progressive
 
+## Treatment of Multiple Sclerosis
+
+- Steroids
+- Plasmapheresis
+
 ## Presentation of Parkinson Disease {PARTS}
 
 - Postural instability
