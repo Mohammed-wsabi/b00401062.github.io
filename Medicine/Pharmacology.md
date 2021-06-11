@@ -542,6 +542,7 @@
 |TNF-α inhibitors|Infliximab<br>Adalimumab|Immunosuppression|
 |CD20 inhibitors|Rituximab|Immunosuppression<br>Non-Hodgkin lymphoma|
 ||Ocrelizumab|Multiple sclerosis|
+|CD52 inhibitors|Alemtuzumab|Chronic lymphocytic leukemia (CLL)<br>Multiple sclerosis|
 |EGFR inhibitors|Cetuximab|Colorectal cancer|
 |HER2 inhibitors|Trastuzumab|Breast cancer|
 |VEGF inhibitors|Bevacizumab|Solid tumors|
