@@ -217,8 +217,8 @@
 |-|-|-|
 |Dorsal column|Ipsilateral|Proprioception<br>Touch<br>Pressure<br>Vibration|
 |Spinothalamic tract|Contralateral|Pain<br>Temperature|
-|Lateral corticospinal tract|Contralateral|Motion|
-|Ventral corticospinal tract|Ipsilateral|Motion|
+|Lateral corticospinal tract|Ipsilateral|Motion|
+|Ventral corticospinal tract|Contralateral|Motion|
 
 ![](../Figures/Spinal%20Tracts.png)
 
