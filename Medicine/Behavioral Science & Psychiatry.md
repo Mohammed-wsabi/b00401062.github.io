@@ -173,7 +173,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|D2 antagonists|1° [Typical] Antipsychotics :: high potency:<br>Haloperidol<br>Trifluoperazine<br>Fluphenazine|Psychosis|
+|D<sub>2</sub> antagonists|1° [Typical] Antipsychotics :: high potency:<br>Haloperidol<br>Trifluoperazine<br>Fluphenazine|Psychosis|
 ||1° [Typical] Antipsychotics :: low potency:<br>Chlorpromazine<br>Thioridazine|Psychosis|
 ||2° [Atypical] Antipsychotics:<br>Clozapine<br>Olanzapine<br>Quetiapine<br>Risperidone<br>Ziprasidone|Psychosis|
 
