@@ -274,6 +274,17 @@
 |Lumbosacral plexus|T12 ~ S4|
 |Lumbar puncture|L3 ~ L5|
 
+## Demyelinating Diseases
+
+- Multiple sclerosis
+- Central pontine myelinolysis (CPM)
+- Progressive multifocal leukoencephalopathy (PML)
+- Tabes dorsalis
+- Subacute combined degeneration (SCD)
+- Leukodystrophies
+- Guillain–Barre syndrome
+- Charcot-Marie-Tooth disease
+
 ## Afferent Neurons
 
 |Neuron|Fiber|Mnemonic|Sensation|
@@ -487,9 +498,8 @@
 |Spinal muscular atrophy (SMA)|-|-|-|+|
 |Amyotrophic lateral sclerosis (ALS)|-|-|+|+|
 |Tabes dorsalis|+|-|-|-|
-|Multiple sclerosis|+|+|-|-|
 |Syringomyelia|-|-|-|-|
-|Subacute combined degeneration|+|-|+|-|
+|Subacute combined degeneration (SCD)|+|-|+|-|
 |Anterior spinal artery syndrome|-|+|+|+|
 |Brown-Sequard syndrome|+|+|+|+|
 
@@ -504,8 +514,7 @@
 ## White Matters Affected By Multiple Sclerosis
 
 - Medial longitudinal fasciculus (MLF)
-- Dorsal column
-- Spinothalamic tract
+- Cerebellum
 
 ## Types of Multiple Sclerosis
 
