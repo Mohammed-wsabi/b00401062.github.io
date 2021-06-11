@@ -257,7 +257,7 @@
 ||Cerebrum|Ipsilateral|Internal capsule|
 ||Midbrain|Ipsilateral|Cerebral peduncle|
 ||Medulla|Decussation|Pyramidal decussation|
-||Spinal cord|Contralateral|Corticospinal tract|
+||Spinal cord|Contralateral|Lateral corticospinal tract|
 |**2° Neuron**|Spinal cord|Contralateral|Anterior horn|
 ||Periphery|Contralateral|Ventral root|
 
