@@ -408,7 +408,7 @@
 |-|-|-|
 |Hyperacute|Anti-ABO<br>Anti-Rh|Minutes|
 |Acute|T-cell|Months|
-|Chronic|-|Years|
+|Chronic|T-cell|Years|
 
 ## Mechanisms of Action of Immunosuppressants
 
