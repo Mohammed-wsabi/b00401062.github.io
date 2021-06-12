@@ -335,6 +335,8 @@
 - Ciliary muscle
 - Erection
 - Exocrine glands - sweat gland
+  - Lacrimal gland
+  - Salivary gland
 - Heart
 - Insulin
 - Smooth muscle
