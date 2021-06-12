@@ -125,10 +125,6 @@
 
 ![](../Figures/Basal%20Ganglion.png)
 
-## Basal Ganglia and Diseases
-
-![](../Figures/Basal%20Ganglia%20and%20Diseases.png)
-
 ## Limbic System
 
 - Fimbria
@@ -614,13 +610,9 @@
 |Normal pressure hydrocephalus (NPH)|-|-|
 |Creutzfeldt-Jakob disease|Prion|Striatum|
 
-## Mechanisms of Action of Medications for Huntington Disease
+## Basal Ganglia and Diseases
 
-|Mechanism|Medication|Indications|
-|-|-|-|
-|Vesicular transporter inhibitors|Reserpine|Huntington|
-||Tetrabenazine|Huntington|
-|D<sub>2</sub> antagonists|2° Antipsychotics|Huntington|
+![](../Figures/Basal%20Ganglia%20and%20Diseases.png)
 
 ## Presentation of Parkinson Disease {PARTS}
 
@@ -651,6 +643,14 @@
 |Dopa decarboxylase inhibitors|Carbidopa|Parkinson|
 ||Benserazide|Parkinson|
 |NMDA antagonists|Amantadine|Parkinson|
+
+## Mechanisms of Action of Medications for Huntington Disease
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|Vesicular transporter inhibitors|Reserpine|Huntington|
+||Tetrabenazine|Huntington|
+|D<sub>2</sub> antagonists|2° Antipsychotics|Huntington|
 
 ## Mechanisms of Action of Medications for Alzheimer Disease
 
