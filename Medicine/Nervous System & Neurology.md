@@ -320,11 +320,13 @@
 - Aqueous humor
 - Blood vessels
 - Bronchus
-- Dilator muscle :: pupil
+- Dilator muscle :: pupil → mydriasis
 - Ejaculation
 - Heart
 - Renin
-- Sphincter muscle :: intestine & bladder
+- Sphincter muscle
+  - Intestine
+  - Bladder
 - Sweat gland
 
 ### Parasympathetic
@@ -332,12 +334,13 @@
 - Bronchus
 - Ciliary muscle
 - Erection
-- Exocrine glands
+- Exocrine glands - Sweat gland
 - Heart
 - Insulin
-- Peristalsis
-- Smooth muscle :: intestine & bladder
-- Sphincter muscle :: pupil
+- Smooth muscle
+  - Intestine → peristalsis
+  - Bladder → micturition
+- Sphincter muscle :: pupil → miosis
 
 ## Signalling Pathways of Neurotransmitters
 
