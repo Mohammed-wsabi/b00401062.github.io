@@ -334,7 +334,7 @@
 - Bronchus
 - Ciliary muscle
 - Erection
-- Exocrine glands - Sweat gland
+- Exocrine glands - sweat gland
 - Heart
 - Insulin
 - Smooth muscle
