@@ -79,7 +79,8 @@
 - Autosomal dominant
 - Mental retardation
 - Angiomyolipoma :: kidney
-- Seizure & Shagreen patch
+- Seizure
+- Shagreen patch
 
 ## Presentation of Sturge-Weber Syndrome {STURGE-L}
 
