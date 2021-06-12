@@ -341,6 +341,17 @@
 - Elevated ESR / CRP
 - Exclusion of alternative diagnoses
 
+## Disorders Associated with Rheumatoid Arthritis
+
+- Felty syndrome
+	- Rheumatoid arthritis
+	- Splenomegaly
+	- Neutropenia
+- Caplan syndrome
+	- Rheumatoid Arthritis
+	- Pneumoconiosis
+	- Lung nodules
+
 ## Treatment of Rheumatoid Arthritis
 
 |Mechanism|Medication|
