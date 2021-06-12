@@ -75,7 +75,7 @@
 - Mitral regurgitation
 - Ash-leaf spot
 - Rhabdomyoma :: heart
-- Tubers of cortex
+- Tubers :: cortex
 - Autosomal dominant
 - Mental retardation
 - Angiomyolipoma :: kidney
