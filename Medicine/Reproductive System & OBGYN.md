@@ -454,7 +454,7 @@
 
 ## Indications of In Vitro Fertilization (IVF)
 
-- Female age > 38
+- Female age > 38 years
 - ↓ ovarian reserve
 - Bilateral fallopian tube occlusion
 - Advanced endometriosis
