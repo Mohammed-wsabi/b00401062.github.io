@@ -646,7 +646,7 @@
 ||Pramipexole|Parkinson|
 ||Ropinirole|Parkinson|
 |MAO inhibitors|Selegiline|Parkinson|
-|COMT inhibitors|Capones|Parkinson|
+|COMT inhibitors|-Capones|Parkinson|
 |Dopa|Levodopa|Parkinson|
 |Dopa decarboxylase inhibitors|Carbidopa|Parkinson|
 ||Benserazide|Parkinson|
