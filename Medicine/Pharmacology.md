@@ -578,22 +578,22 @@
 |Mnemonic|Medication|
 |-|-|
 |Cannot|Carbamazepine|
+|Properly|Propylthiouracil|
 |Make|Methimazole|
 |Circulating|Clozapine|
 |Granulo-|Ganciclovir|
 |Cytes|Colchicine|
-|Properly|Propylthiouracil|
 
 ## Medications Causing Aplastic Anemia
 
 |Mnemonic|Medication|
 |-|-|
 |Cannot|Carbamazepine|
+|Properly|Propylthiouracil|
 |Make|Methimazole|
 |New|NSAIDs|
 |Blood|Benzene|
 |Cells|Chloramphenicol|
-|Properly|Propylthiouracil|
 
 ## Medications Causing Megaloblastic Anemia
 
