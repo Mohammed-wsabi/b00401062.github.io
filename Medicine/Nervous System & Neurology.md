@@ -289,7 +289,7 @@
 - Tabes dorsalis
 - Subacute combined degeneration (SCD)
 - Leukodystrophies
-- Guillain–Barre syndrome
+- Guillain-Barre syndrome
 - Charcot-Marie-Tooth disease
 
 ## Afferent Neurons
