@@ -314,19 +314,30 @@
 
 ## Autonomic Nervous System
 
-### Sympathetic {ABSDE}
+### Sympathetic
 
 - Adrenal gland
+- Aqueous humor
 - Blood vessels
-- Sweat gland
-- Dilator muscle of pupil
+- Bronchus
+- Dilator muscle :: pupil
 - Ejaculation
+- Heart
+- Renin
+- Sphincter muscle :: intestine & bladder
+- Sweat gland
 
-### Parasympathetic {CES}
+### Parasympathetic
 
+- Bronchus
 - Ciliary muscle
 - Erection
-- Sphincter muscle of pupil
+- Exocrine glands
+- Heart
+- Insulin
+- Peristalsis
+- Smooth muscle :: intestine & bladder
+- Sphincter muscle :: pupil
 
 ## Signalling Pathways of Neurotransmitters
 
