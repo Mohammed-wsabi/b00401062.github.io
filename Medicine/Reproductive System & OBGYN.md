@@ -459,7 +459,7 @@
 - Bilateral fallopian tube occlusion
 - Advanced endometriosis
 - Donor eggs
-- Total motile sperm count (TMSC) < 10 M
+- Total motile sperm count (TMSC) < 10<sup>7</sup>/mL
 - Genetic screening
 
 ## Controlled Ovarian Hyperstimulation
