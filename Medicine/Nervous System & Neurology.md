@@ -534,8 +534,13 @@
 
 ## Treatment of Multiple Sclerosis
 
-- Steroids
-- Plasmapheresis
+|Mechanism|Medication|Indications|
+|-|-|-|
+|NF-κB inhibitors|Steroids|Multiple sclerosis|
+|-|Plasmapheresis|Multiple sclerosis|
+|CD20 inhibitors|Ocrelizumab|Multiple sclerosis|
+|CD52 inhibitors|Alemtuzumab|Multiple sclerosis|
+|α4-integrin inhibitors|Natalizumab|Multiple sclerosis|
 
 ## Classic Triad of Wernicke's Encephalopathy {CAO}
 
