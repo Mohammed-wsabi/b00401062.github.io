@@ -457,10 +457,11 @@
   - Pressure :: hypertension & increased pulse pressure
   - Pulse :: bradycardia
   - Respiration :: pattern change
+- ↓ Consciousness
 - Headache
 - Nausea ± vomiting
 - Papilledema
-- ↓ Consciousness
+- Diplopia
 
 ## Treatment of Increased Intracranial Pressure (ICP)
 
