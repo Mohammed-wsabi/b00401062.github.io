@@ -547,8 +547,8 @@
 |α4-integrin inhibitors|Natalizumab|Multiple sclerosis<br>Crohn disease|
 |EGFR inhibitors|Cetuximab|Colorectal cancer|
 |HER2 inhibitors|Trastuzumab|Breast cancer|
-|VEGF inhibitors|Bevacizumab|Solid tumors|
-||Ranibizumab|Diabetic retinopathy|
+|VEGF inhibitors|Bevacizumab|Solid tumors<br>Age-related macular degeneration (AMD)|
+||Ranibizumab|Diabetic retinopathy<br>Age-related macular degeneration (AMD)|
 |F protein inhibitors|Palivizumab|RSV|
 
 ## Mechanisms of Action of Tyrosine Kinase Inhibitors
@@ -560,6 +560,7 @@
 |C-KIT inhibitors|Imatinib|Gastrointestinal stromal tumor (GIST)|
 |EGFR inhibitors|Gefitinib<br>Erlotinib|Non-small cell lung cancer (NSCLC)|
 |VEGFR inhibitors|Sunitinib<br>Sorafenib|-|
+||Pegaptanib|Age-related macular degeneration (AMD)|
 |JAK2 inhibitors|Ruxolitinib|Polycythemia vera (PCV)|
 
 ## Target Therapy
