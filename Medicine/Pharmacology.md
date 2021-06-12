@@ -548,7 +548,6 @@
 |HER2 inhibitors|Trastuzumab|Breast cancer|
 |VEGF inhibitors|Bevacizumab|Solid tumors|
 ||Ranibizumab|Diabetic retinopathy|
-|CAM inhibitors|Natalizumab|Multiple sclerosis|
 |F protein inhibitors|Palivizumab|RSV|
 
 ## Mechanisms of Action of Tyrosine Kinase Inhibitors
