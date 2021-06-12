@@ -499,11 +499,11 @@
 
 |Lesion|Dorsal Column|Spinothalamic|Corticospinal|Anterior Horn|
 |-|-|-|-|-|
+|Syringomyelia|-|-|-|-|
 |Poliomyelitis|-|-|-|+|
 |Spinal muscular atrophy (SMA)|-|-|-|+|
 |Amyotrophic lateral sclerosis (ALS)|-|-|+|+|
 |Tabes dorsalis|+|-|-|-|
-|Syringomyelia|-|-|-|-|
 |Subacute combined degeneration (SCD)|+|-|+|-|
 |Anterior spinal artery syndrome|-|+|+|+|
 |Brown-Sequard syndrome|+|+|+|+|
