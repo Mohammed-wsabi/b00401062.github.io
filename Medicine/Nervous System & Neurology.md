@@ -468,6 +468,7 @@
 - Position :: head elevation
 - Hyperventilation
 - Diuretics :: Mannitol
+- Steroids
 - Sedation
 - Craniectomy
 
