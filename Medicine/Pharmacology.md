@@ -129,6 +129,7 @@
 ||Phenelzine|Depression|
 ||Isocarboxazid|Depression|
 ||Selegiline|Depression & Parkinson|
+|COMT inhibitors|-Capones|Parkinson|
 
 ## Mechanisms of Action of Medications Targeting Neurotransmitter Reuptake
 
