@@ -602,7 +602,7 @@
 |-|-|-|
 |Parkinson disease|Lewy body ← α-synuclein|Substantia nigra pars compacta|
 |Huntington disease|-|Striatum|
-|Alzheimer disease|Senile plaque ← Amyloid β (Aβ)<br>Neurofibrillary tangle <- Tau protein<br>Hirano body|Cortex<br>Hippocampus|
+|Alzheimer disease|Senile plaque ← Amyloid β (Aβ)<br>Neurofibrillary tangle ← Tau protein<br>Hirano body|Cortex<br>Hippocampus|
 |Frontotemporal dementia|Pick body ← Tau protein|Frontotemporal lobe|
 |Lewy body dementia|Lewy body ← α-synuclein|Cortex|
 |Vascular dementia|-|Cortex|
