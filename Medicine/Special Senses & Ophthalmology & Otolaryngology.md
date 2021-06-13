@@ -23,13 +23,14 @@
 ## Etiology of Ophthalmoplegia & Nystagmus
 
 - Cavernous sinus thrombosis
-- Cerebellopontine angle tumor :: Bruns nystagmus
+- Cerebellopontine angle tumor → Bruns nystagmus
 - Chiari malformation
 - Epilepsy
 - Idiopathic intracranial hypertension (IIH)
-- Multiple sclerosis
+- Multiple sclerosis → internuclear ophthalmoplegia (INO)
 - Myasthenic syndrome
-- Parinaud syndrome :: convergence-retraction nystagmus
+- Parinaud syndrome → convergence-retraction nystagmus
+- Paramedian pontine reticular formation (PPRF)
 - Peripheral vestibular nystagmus
 - Posterior communicating artery aneurysm
 - Stroke
