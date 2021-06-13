@@ -31,11 +31,6 @@
 - Myasthenic syndrome
 - Parinaud syndrome :: convergence-retraction nystagmus
 - Peripheral vestibular nystagmus
-	- Benign paroxysmal positional vertigo (BPPV)
-	- Labyrinthine concussion
-	- Meniere disease
-	- Vestibular neuritis
-	- Vestibular schwannoma
 - Posterior communicating artery aneurysm
 - Stroke
 - Thyroid ophthalmopathy
@@ -128,6 +123,14 @@
 |C|Eustachian tube dysfunction|
 
 ![](../Figures/Tympanometry.gif)
+
+## Etiology of Peripheral Vertigo
+
+- Benign paroxysmal positional vertigo (BPPV)
+- Labyrinthine concussion
+- Meniere disease
+- Vestibular neuritis
+- Vestibular schwannoma
 
 ## Pathogens of Otitis Externa
 
