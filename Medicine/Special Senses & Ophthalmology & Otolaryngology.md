@@ -8,6 +8,10 @@
 - Descemet's membrane
 - Endothelium
 
+## Visual Pathway
+
+![](../Figures/Visual%20Pathway.jpg)
+
 ## Pupillary Reflex
 
 ![](../Figures/Pupillary%20Reflex.png)
@@ -58,6 +62,10 @@
 - Pilocarpine
 - Punctal occlusion
 - Autologous serum tears
+
+## Auditory Pathway
+
+![](../Figures/Auditory%20Pathway.gif)
 
 ## Physical Examinations for Hearing Loss
 
