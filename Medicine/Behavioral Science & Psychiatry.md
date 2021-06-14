@@ -251,13 +251,13 @@
 ||Paroxetine|Depression|
 ||Sertraline|Depression|
 ||Citalopram|Depression|
-|NDRI|Bupropion|Depression & Smoking cessation|
-|5-HT modulators|Trazodone|Depression & Insomnia|
+|NDRI|Bupropion|Depression<br>Smoking cessation|
+|5-HT modulators|Trazodone|Depression<br>Insomnia|
 |α<sub>2</sub> antagonists|Mirtazapine|Depression|
 |MAO inhibitors|Tranylcypromine|Depression|
 ||Phenelzine|Depression|
 ||Isocarboxazid|Depression|
-||Selegiline|Depression & Parkinson|
+||Selegiline|Depression<br>Parkinson|
 
 ## Presentation of Manic Episode {DIG-FAST}
 
@@ -275,8 +275,8 @@
 |-|-|-|
 |Mood stabilizer|Lithium|Bipolar|
 |D<sub>2</sub> & 5-HT<sub>2</sub> antagonists|2° Antipsychotics|Bipolar|
-|Na channel blockers|Carbamazepine|Bipolar & Seizure|
-|↑ GABA|Valproate|Bipolar & Seizure|
+|Na channel blockers|Carbamazepine|Bipolar<br>Seizure|
+|↑ GABA|Valproate|Bipolar<br>Seizure|
 
 ## Mechanisms of Action of Anxiolytics
 
