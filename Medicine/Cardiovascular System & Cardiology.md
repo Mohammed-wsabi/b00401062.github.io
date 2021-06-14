@@ -584,6 +584,14 @@
 
 ![](../Figures/Vasculitis.png)
 
+## ANCA-associated vasculitis (AAV)
+
+|Vasculitis|Antibodies|Affected Organs|
+|-|-|-|
+|Granulomatosis with polyangiitis (GPA) [Wegener granulomatosis]|PR3-ANCA [c-ANCA]|Nasopharynx & & Sinus & Lung & Kidney|
+|Eosinophilic granulomatosis with polyangiitis (EGPA) [Churg-Strauss syndrome]|MPO-ANCA [p-ANCA]|Sinus & Asthma & Kidney & Nerve|
+|Microscopic polyangiitis|MPO-ANCA [p-ANCA]|Lung & Kidney|
+
 ## Indications for Defibrillation
 
 - Pulseless monomorphic VT: 120 ~ 200 J
