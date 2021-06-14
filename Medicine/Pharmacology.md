@@ -97,21 +97,6 @@
 ||Amphetamine|ADHD & Narcolepsy|
 ||Modafinil|ADHD & Narcolepsy|
 
-## Mechanisms of Action of Medications Targeting Neurotransmitter Release
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|ACh release inhibitors|Botulinum toxin|Muscle relaxant|
-|ACh release inducers|-|-|
-|NE release inhibitors|Bretylium|Arrhythmia|
-||Guanethidine|HTN|
-|NE release inducers|Tyramine|-|
-||Ephedrine|Decongestant|
-||Amphetamine|ADHD & Narcolepsy|
-||Modafinil|ADHD & Narcolepsy|
-|GABA & Glycine release inhibitors|Tetanus toxin|-|
-|GABA & Glycine release inducers|-|-|
-
 ## Mechanisms of Action of Medications Targeting Neurotransmitter Breakdown
 
 |Mechanism|Medication|Indications|
