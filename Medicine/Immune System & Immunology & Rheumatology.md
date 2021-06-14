@@ -145,14 +145,14 @@
 
 ### Type 1
 
-|Disease|Defects|
+|Disease|Antibodies|
 |-|-|
 |Allergy|IgE|
 |Transfusion reaction :: allergic|IgE|
 
 ### Type 2
 
-|Disease|Defects|
+|Disease|Antibodies|
 |-|-|
 |Autoimmune hemolytic anemia (AHA)|Anti-RBC|
 |Bullous pemphigoid|Anti-hemidesmosome|
@@ -171,7 +171,7 @@
 
 ### Type 3
 
-|Disease|Defects|
+|Disease|Antibodies|
 |-|-|
 |Vasculitis :: granulomatosis with polyangiitis (GPA)|PR3-ANCA [c-ANCA]|
 |Vasculitis :: eosinophilic granulomatosis with polyangiitis (EGPA)|MPO-ANCA [p-ANCA]|
@@ -197,7 +197,7 @@
 
 ### Type 4
 
-|Disease|Defects|
+|Disease|Antibodies|
 |-|-|
 |Celiac disease|Anti-tissue transglutaminase (Anti-tTG) IgA|
 |Contact dermatitis|-|
