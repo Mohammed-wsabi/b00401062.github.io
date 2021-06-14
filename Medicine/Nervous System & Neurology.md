@@ -640,11 +640,11 @@
 - Tremor :: resting & pill-rolling
 - Shuffling gait
 
-## Extrapyramidal Symptoms (EPS) {DABT}
+## Extrapyramidal Symptoms (EPS)
 
 - Dystonia
-- Akathisia
 - Bradykinesia
+- Akathisia
 - Tardive dyskinesia
 
 ## Mechanisms of Action of Medications for Parkinson Disease
