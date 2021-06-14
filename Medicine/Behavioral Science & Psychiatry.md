@@ -154,7 +154,9 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-||||
+|NE reuptake inhibitors|Atomoxetine<br>Amphetamine<br>Methylphenidate<br>Modafinil|ADHD|
+||TCA & NDRI|ADHD|
+|α<sub>2</sub> agonists|Clonidine|ADHD|
 
 ## Types of Delusions
 
