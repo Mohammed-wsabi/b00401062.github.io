@@ -94,8 +94,6 @@
 ||Guanethidine|HTN|
 |NE release inducers|Tyramine|-|
 ||Ephedrine|Decongestant|
-||Amphetamine|ADHD & Narcolepsy|
-||Modafinil|ADHD & Narcolepsy|
 
 ## Mechanisms of Action of Medications Targeting Neurotransmitter Breakdown
 
@@ -123,6 +121,7 @@
 ||Atomoxetine|ADHD|
 ||Amphetamine|ADHD & Narcolepsy|
 ||Methylphenidate|ADHD & Narcolepsy|
+||Modafinil|ADHD & Narcolepsy|
 ||TCA & SNRI & NDRI|Depression|
 |5-HT reuptake inhibitors|TCA & SNRI & SSRI|Depression|
 
