@@ -151,17 +151,14 @@
 - Hypercoagulability
 - Hyperlipidemia
 
-## Classification of Glomerulopathy {IAA-GEM-RAMD-MMF-DA}
+## Classification of Glomerulopathy {IAA-RAMD-MMF-DA}
 
 |Glomerulopathy|Nephritis|Nephrosis|LM/IF/EM|IC Shape|IC Location|C3|Associations|
 |-|-|-|-|-|-|-|-|
 |IgA nephropathy [Berger disease]|+|-|Mesangial proliferation|Mesangial|Mesangial|-|HSP|
 |Alport syndrome|+|-|GBM thinning<br>GBM splitting<br>Basket-weave appearance|-|-|-|-|
 |Anti-GBM disease [Goodpasture syndrome]|+|-|Crescent shape|Linear|GBM|-|-|
-|Granulomatosis with polyangiitis (GPA) [Wegener granulomatosis]|+|-|Crescent shape|-|-|-|PR3-ANCA [c-ANCA]|
-|Eosinophilic granulomatosis with polyangiitis (EGPA) [Churg-Strauss syndrome]|+|-|Crescent shape|-|-|-|MPO-ANCA [p-ANCA]|
-|Microscopic polyangiitis|+|-|Crescent shape|-|-|-|MPO-ANCA [p-ANCA]|
-|Rapidly progressive glomerulonephritis (RPGN)|+|-|Crescent shape|-|-|-|-|
+|Rapidly progressive glomerulonephritis (RPGN)|+|-|Crescent shape|-|-|-|ANCA|
 |Acute proliferative glomerulonephritis (APGN)|+|-|Lumpy-bumpy appearance<br>Starry sky appearance|Granular|Subepithelial|↓|GAS|
 |Membranoproliferative glomerulonephritis (MPGN)|+|+|Mesangial proliferation<br>GBM thickening<br>GBM splitting<br>Tram-track appearance|Granular|Subendothelial|↓|SLE<br>HBV<br>HCV|
 |Diffuse proliferative glomerulonephritis (DPGN)|+|+|Wire looping appearance|Granular|Subendothelial|↓|SLE|
