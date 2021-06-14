@@ -652,14 +652,11 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |M antagonists|Benztropine|Parkinson|
-|D<sub>2</sub> agonists|Bromocriptine|Parkinson|
-||Pramipexole|Parkinson|
-||Ropinirole|Parkinson|
+|D<sub>2</sub> agonists|Bromocriptine<br>Cabergoline<br>Pramipexole<br>Ropinirole|Parkinson|
 |MAO inhibitors|Selegiline|Parkinson|
 |COMT inhibitors|-Capones|Parkinson|
 |Dopa|Levodopa|Parkinson|
-|Dopa decarboxylase inhibitors|Carbidopa|Parkinson|
-||Benserazide|Parkinson|
+|Dopa decarboxylase inhibitors|Carbidopa<br>Benserazide|Parkinson|
 |NMDA antagonists|Amantadine|Parkinson|
 
 ## Mechanisms of Action of Medications for Huntington Disease
