@@ -150,6 +150,12 @@
 - Intermittent explosive disorder
 - Conduct disorder
 
+## Treatment of ADHD
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+||||
+
 ## Types of Delusions
 
 - Delusion of control
