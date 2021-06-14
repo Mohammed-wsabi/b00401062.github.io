@@ -66,8 +66,7 @@
 ||-Dipines|Vasodilation|
 ||Dantrolene|Malignant hyperthermia & Neuroleptic malignant syndrome|
 ||Ethosuximide|Seizure :: absence|
-||Gabapentin|Seizure & Neuropathic pain|
-||Pregabalin|Seizure & Neuropathic pain|
+||Gabapentin<br>Pregabalin|Seizure & Neuropathic pain|
 |Na-K pump blockers|Digoxin & Digitalis|Arrhythmia & Inotrope|
 ||Ouabain|-|
 |H-K pump blockers|Proton pump inhibitors (PPI) [-Prazoles]|PUD|
