@@ -578,8 +578,8 @@
 ||Gabapentin|Seizure & Neuropathic pain|
 ||Pregabalin|Seizure & Neuropathic pain|
 |↑ GABA|Valproate|Seizure & Bipolar|
-|↑ GABA|Tiagabine|Seizure|
-|↑ GABA|Vigabatrin|Seizure|
+||Tiagabine|Seizure|
+||Vigabatrin|Seizure|
 |↓ Glutamate|Levetiracetam|Seizure|
 |-|Felbamate|Seizure|
 |-|Topiramate|Seizure|
