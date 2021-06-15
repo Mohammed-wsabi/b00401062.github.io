@@ -335,6 +335,14 @@
 - V<sub>2</sub> antagonists: -Vaptans
 - Nephrogenic DI-inducing drugs :: Lithium & Demeclocycline
 
+## Presentation of Serotonin Syndrome
+
+- Altered mental status (AMS)
+- Hyperthermia
+- Cardiovascular collapse
+- Hyperreflexia
+- Myoclonus
+
 ## Multiple Endocrine Neoplasias (MEN)
 
 ### MEN Type 1
