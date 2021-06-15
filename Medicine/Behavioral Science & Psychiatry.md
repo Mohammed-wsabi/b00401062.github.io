@@ -231,8 +231,8 @@
 - Attention deficit
 - Guilt
 - Psychomotor agitation & retardation
-- Sleep disturbance :: insomnia & hypersomnia
-- Suicidal ideations
+- Sleep disturbances :: insomnia & hypersomnia
+- Suicidal ideation
 
 ## Effects of Depression on Sleep-Wake Cycle
 
