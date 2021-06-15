@@ -162,7 +162,7 @@
 |Acute proliferative glomerulonephritis (APGN)|+|-|Lumpy-bumpy appearance<br>Starry sky appearance|Granular|Subepithelial|↓|GAS|
 |Membranoproliferative glomerulonephritis (MPGN)|+|+|Mesangial proliferation<br>GBM thickening<br>GBM splitting<br>Tram-track appearance|Granular|Subendothelial|↓|SLE<br>HBV<br>HCV|
 |Diffuse proliferative glomerulonephritis (DPGN)|+|+|Wire looping appearance|Granular|Subendothelial|↓|SLE|
-|Membranous nephropathy|-|+|GBM thickening<br>Spike-and-dome appearance|Granular|Subepithelial|-|SLE<br>HBV<br>HCV|
+|Membranous nephropathy|-|+|GBM thickening<br>Spike-and-dome appearance|Granular|Subepithelial|-|Anti-PLA2R<br>SLE<br>HBV<br>HCV|
 |Minimal change disease (MCD)|-|+|Podocyte effacement|-|-|-|-|
 |Focal segmental glomerulosclerosis (FSGS)|-|+|Segmental sclerosis<br>Hyalinosis<br>Podocyte effacement|-|-|-|HIV<br>SCD|
 |Diabetic nephropathy|-|+|Nodular sclerosis<br>GBM thickening|-|-|-|-|
