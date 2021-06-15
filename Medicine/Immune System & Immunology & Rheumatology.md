@@ -162,6 +162,7 @@
 |Heparin-induced thrombocytopenia (HIT)|Anti-platelet factor 4 (Anti-PF4)|
 |Immune thrombocytopenic purpura (ITP)|Anti-Gp1b<br>Anti-Gp2b/3a|
 |Lambert-Eaton myasthenic syndrome|Anti-presynatic Ca channel|
+|Membranous nephropathy|Anti-phospholipase A<sub>2</sub> receptor (Anti-PLA2R)|
 |Myasthenia gravis|Anti-ACh receptor|
 |Pemphigus vulgaris|Anti-desmosome|
 |Pernicious anemia|Anti-parietal cell<br>Anti-intrinsic factor|
