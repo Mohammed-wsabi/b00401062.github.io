@@ -165,7 +165,7 @@
 |Membranous nephropathy|-|+|GBM thickening<br>Spike-and-dome appearance|Granular|Subepithelial|-|SLE<br>HBV<br>HCV|
 |Minimal change disease (MCD)|-|+|Podocyte effacement|-|-|-|-|
 |Focal segmental glomerulosclerosis (FSGS)|-|+|Segmental sclerosis<br>Hyalinosis<br>Podocyte effacement|-|-|-|HIV<br>SCD|
-|Diabetic nephropathy|-|+|Nodular sclerosis|-|-|-|-|
+|Diabetic nephropathy|-|+|Nodular sclerosis<br>GBM thickening|-|-|-|-|
 |Amyloid nephropathy|-|+|Nodular sclerosis|-|-|-|-|
 
 ## Etiology of Acute Tubular Necrosis (ATN)
