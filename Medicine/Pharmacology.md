@@ -264,9 +264,10 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |GABA-A agonists|Barbiturates|Anesthesia & Seizure|
-||Benzodiazepines|Anesthesia & Seizure|
+||Benzodiazepines|Anesthesia & Seizure & Insomnia|
 ||Propofol|Anesthesia|
 ||Etomidate|Anesthesia|
+||Zolpidem<br>Zaleplon<br>Eszopiclone|Insomnia|
 ||Alcohol|-|
 |GABA-B agonists|Baclofen|Spasm|
 |GABA-A antagonists|Flumazenil|Benzodiazepine antidote|
