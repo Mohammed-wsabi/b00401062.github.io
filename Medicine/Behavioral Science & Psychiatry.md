@@ -245,12 +245,12 @@
 |-|-|-|
 |TCA|Triptylines|Depression|
 ||Pramines|Depression|
-|SNRI|Venlafaxine|Depression|
-||Duloxetine|Depression|
 |SSRI|Fluoxetine|Depression|
 ||Paroxetine|Depression|
 ||Sertraline|Depression|
 ||Citalopram|Depression|
+|SNRI|Venlafaxine|Depression|
+||Duloxetine|Depression|
 |NDRI|Bupropion|Depression<br>Smoking cessation|
 |5-HT modulators|Trazodone|Depression<br>Insomnia|
 |α<sub>2</sub> antagonists|Mirtazapine|Depression|
