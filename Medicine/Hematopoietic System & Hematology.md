@@ -13,7 +13,7 @@
 |Eosinophil|Eosinophilic granule|Histaminase<br>Major basic protein (MBP)<br>Eosinophil peroxidase<br>Eosinophil cationic protein|
 |Basophil|Basophilic granule|Heparin<br>Histamine|
 |Platelet|α granule|vWF<br>Fibrinogen<br>Fibronectin<br>Platelet factor 4 (PF4)|
-||Dense granule|ADP<br>Calcium|
+||Dense granule|Calcium<br>ADP<br>Serotonin<br>Histamine|
 
 ## Erythropoiesis
 
