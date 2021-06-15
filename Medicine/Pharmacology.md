@@ -123,7 +123,7 @@
 ||Methylphenidate|ADHD & Narcolepsy|
 ||Modafinil|ADHD & Narcolepsy|
 ||TCA & SNRI & NDRI|Depression|
-|5-HT reuptake inhibitors|TCA & SNRI & SSRI|Depression|
+|5-HT reuptake inhibitors|TCA & SSRI & SNRI|Depression|
 
 ## Mechanisms of Action of Cholinergic Agonists
 
