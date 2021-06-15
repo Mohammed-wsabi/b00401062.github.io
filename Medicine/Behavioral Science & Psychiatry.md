@@ -307,3 +307,11 @@
 |GABA-A agonists|Benzodiazepine|Anxiety|
 |5-HT<sub>1</sub> agonists|Buspirone|Anxiety|
 |β antagonists|Propranolol|Anxiety|
+
+## Somatic Disorders
+
+|Disorder|Symptoms|Motivation|
+|-|-|-|
+|Malingering|Conscious|Conscious|
+|Factitious disorder|Conscious|Unconscious|
+|Somatic symptom|Unconscious|Unconscious|
