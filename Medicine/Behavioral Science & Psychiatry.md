@@ -8,7 +8,28 @@
 - Latency
 - Genital
 
-## Mature Ego Defences {SASH}
+## Ego Defenses
+
+### Immature
+
+- Acting out
+- Denial
+- Displacement
+- Dissociation
+- Fixation
+- Idealization
+- Identification
+- Intellectualization
+- Isolation
+- Passive aggression
+- Projection
+- Rationalization
+- Reaction formation
+- Regression
+- Repression
+- Splitting
+
+### Mature {SASH}
 
 - Suppression
 - Altruism
