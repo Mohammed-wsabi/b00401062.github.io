@@ -9,11 +9,11 @@
 |Cell|Granule|Contents|
 |-|-|-|
 |Neutrophil|Specific granule|Leukocyte alkaline phosphatase (LAP)<br>Collagenase<br>Lactoferrin|
-|Neutrophil|Azurophilic granule|Proteinases<br>Acid phosphatase<br>Myeloperoxidase<br>β-glucuronidase|
+||Azurophilic granule|Proteinases<br>Acid phosphatase<br>Myeloperoxidase<br>β-glucuronidase|
 |Eosinophil|Eosinophilic granule|Histaminase<br>Major basic protein (MBP)<br>Eosinophil peroxidase<br>Eosinophil cationic protein|
 |Basophil|Basophilic granule|Heparin<br>Histamine|
-|Platelet|α granule|vWF<br>Fibrinogen<br>Fibronectin|
-|Platelet|Dense granule|ADP<br>Calcium|
+|Platelet|α granule|vWF<br>Fibrinogen<br>Fibronectin<br>Platelet factor 4 (PF4)|
+||Dense granule|ADP<br>Calcium|
 
 ## Erythropoiesis
 
