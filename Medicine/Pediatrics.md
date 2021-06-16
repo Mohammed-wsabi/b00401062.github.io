@@ -67,9 +67,9 @@
 
 |Pathogen|Presentation|Transmission|
 |-|-|-|
-|Toxoplasma|Intracranial calcifications<br>Hydrocephalus<br>Chorioretinitis|Transplacental|
-|Rubella|Cataracts<br>Deafness<br>PDA<br>Blueberry muffin syndrome|Transplacental|
-|CMV|Periventricular calcifications<br>Deafness<br>Petechial rash|Transplacental|
+|Toxoplasma|Intracranial calcifications<br>Hydrocephalus<br>Chorioretinitis<br>Blueberry muffin rash|Transplacental|
+|Rubella|Cataracts<br>Deafness<br>PDA<br>Blueberry muffin rash|Transplacental|
+|CMV|Periventricular calcifications<br>Chorioretinitis<br>Deafness<br>Blueberry muffin rash|Transplacental|
 |HSV|Encephalitis<br>Herpetic whitlow|Intrapartum|
 |HIV|AIDS|Intrapartum|
 |Syphilis|Deafness<br>Saddle nose<br>Hutchinson teeth<br>Saber shins|Transplacental|
