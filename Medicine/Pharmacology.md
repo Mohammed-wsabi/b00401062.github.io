@@ -89,7 +89,7 @@
 |-|-|-|
 |Tyrosine uptake inhibitors|-|-|
 |Vesicular transporter inhibitors|Reserpine|Huntington|
-||Tetrabenazine|Huntington|
+||Tetrabenazine|Huntington & Tourette|
 |NE release inhibitors|Bretylium|Arrhythmia|
 ||Guanethidine|HTN|
 |NE release inducers|Tyramine|-|
@@ -223,7 +223,7 @@
 ||Pramipexole|Parkinson|
 ||Ropinirole|Parkinson|
 |D<sub>2</sub> antagonists|Metoclopramide<br>Prochlorperazine<br>Domperidone<br>Droperidol|Emesis|
-||Antipsychotics|Psychosis|
+||Antipsychotics|Psychosis & Huntington & Tourette|
 
 ## Mechanisms of Action of Medications Targeting Serotonin Receptor
 
@@ -233,7 +233,7 @@
 ||-Triptans|Migraine|
 ||Ergotamine|Migraine|
 |5-HT<sub>2</sub> antagonists|2° Antipsychotics|Psychosis & Bipolar|
-||Cyproheptadine|Carcinoid & Serotonin syndrome|
+||Cyproheptadine|Carcinoid syndrome<br>Serotonin syndrome|
 |5-HT<sub>3</sub> antagonists|-Setrons|Emesis|
 |5-HT<sub>4</sub> agonists|Cisapride|Constipation|
 |5-HT modulators|Trazodone|Depression & Insomnia|
