@@ -298,6 +298,7 @@
 |D<sub>2</sub> & 5-HT<sub>2</sub> antagonists|2° Antipsychotics|Bipolar|
 |Na channel blockers|Carbamazepine|Bipolar<br>Seizure|
 |↑ GABA|Valproate|Bipolar<br>Seizure|
+|-|Lamotrigine|Bipolar<br>Seizure|
 
 ## Mechanisms of Action of Anxiolytics
 
