@@ -258,6 +258,7 @@
 ||Amantadine|Parkinson|
 ||Riluzole|Amyotrophic lateral sclerosis (ALS)|
 ||Dextromethorphan|Coughing|
+||Phencyclidine (PCP)|-|
 
 ## Mechanisms of Action of Medications Targeting GABA Receptor
 
