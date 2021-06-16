@@ -19,9 +19,9 @@
 |N<sub>N</sub> [Ganglionic] agonists|Nicotine|Stimulant|
 |NE release inducers|Amphetamine|Stimulant|
 |NE reuptake inhibitors|Cocaine|Stimulant|
-|-|LSD|Hallucinogen|
-|-|PCP [Angel dust]|Hallucinogen & Stimulant|
+|NMDA antagonists|Phencyclidine (PCP) [Angel dust]|Hallucinogen & Stimulant|
 |-|MDMA [Ecstasy]|Hallucinogen & Stimulant|
+|-|Lysergic acid diethylamide (LSD)|Hallucinogen|
 |-|Cannabis [Marijuana]|Hallucinogen|
 
 ## CAGE Questions for Alcohol Use {CAGE}
