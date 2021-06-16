@@ -583,7 +583,7 @@
 |↓ Glutamate|Levetiracetam|Seizure|
 |-|Felbamate|Seizure|
 |-|Topiramate|Seizure|
-|-|Lamotrigine|Seizure|
+|-|Lamotrigine|Seizure & Bipolar|
 
 ## Risk of Progression of TIA to Stroke {ABCD2}
 
