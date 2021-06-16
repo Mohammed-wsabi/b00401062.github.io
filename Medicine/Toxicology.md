@@ -17,8 +17,8 @@
 |μ-opioid agonists|Heroin|Depressant|
 |A antagonists|Caffeine|Stimulant|
 |N<sub>N</sub> [Ganglionic] agonists|Nicotine|Stimulant|
-|NE release inducers|Amphetamine|Stimulant|
 |NE reuptake inhibitors|Cocaine|Stimulant|
+||Amphetamine|Stimulant|
 |NMDA antagonists|Phencyclidine (PCP) [Angel dust]|Hallucinogen & Stimulant|
 |-|MDMA [Ecstasy]|Hallucinogen & Stimulant|
 |-|Lysergic acid diethylamide (LSD)|Hallucinogen|
