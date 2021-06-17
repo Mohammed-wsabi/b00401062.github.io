@@ -223,7 +223,21 @@
 - Hypoplastic left heart syndrome (HLHS)
 - Critical pulmonary stenosis
 - Critical aortic stenosis
-- Critical coarctation of aorta (CoA)
+- Critical coarctation of the aorta (CoA)
+
+## Heart Defects (CHD) & Disease Associations
+
+|Defect|Associations|
+|-|-|
+|Endocardial cushion defects|Down syndrome|
+|Ventricular septal defect (VSD)|VACTERL association|
+|Patent ductus arteriosus (PDA)|Congenital rubella|
+|Tetralogy of Fallot (TOF)|DiGeorge syndrome<br>Velocardiofacial syndrome|
+|Supravalvular aortic stenosis|Williams syndrome|
+|Coarctation of the aorta (CoA)|Turner syndrome|
+|Ebstein anomaly|Lithium|
+|Libman-Sacks endocarditis|Systemic lupus erythematosus (SLE)|
+|Coronary artery aneurysms|Kawasaki disease|
 
 ## Presentation of Tetralogy of Fallot (TOF) {PROV}
 
