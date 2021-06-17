@@ -155,10 +155,10 @@
 
 ## Microdeletion Disorders
 
-- Angelman syndrome: maternal deletion & paternal imprinting
+- Angelman syndrome
 - Cri-du-chat syndrome
 - DiGeorge syndrome
-- Prader-Willi syndrome: paternal deletion & maternal imprinting
+- Prader-Willi syndrome
 - Williams syndrome
 
 ## Imprinting Disorders
