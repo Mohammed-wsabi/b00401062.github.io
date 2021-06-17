@@ -225,7 +225,7 @@
 - Critical aortic stenosis
 - Critical coarctation of the aorta (CoA)
 
-## Heart Defects (CHD) & Disease Associations
+## Heart Defects & Disease Associations
 
 |Defect|Associations|
 |-|-|
