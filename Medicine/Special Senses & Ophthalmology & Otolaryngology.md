@@ -40,7 +40,7 @@
 - Stroke
 - Thyroid ophthalmopathy
 - Uncal herniation
-- Wernicke's encephalopathy
+- Wernicke encephalopathy
 
 ## Mechanisms of Action of Medications for Glaucoma
 
