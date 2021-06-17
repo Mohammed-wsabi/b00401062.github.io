@@ -230,7 +230,8 @@
 |Defect|Associations|
 |-|-|
 |Endocardial cushion defects|Down syndrome|
-|Ventricular septal defect (VSD)|VACTERL association|
+|Atrial septal defect (ASD)|Down syndrome<br>Fetal alcohol syndrome|
+|Ventricular septal defect (VSD)|Down syndrome<br>Fetal alcohol syndrome<br>VACTERL association<br>Apert syndrome|
 |Patent ductus arteriosus (PDA)|Congenital rubella|
 |Tetralogy of Fallot (TOF)|DiGeorge syndrome<br>Velocardiofacial syndrome|
 |Supravalvular aortic stenosis|Williams syndrome|
@@ -238,6 +239,7 @@
 |Ebstein anomaly|Lithium|
 |Libman-Sacks endocarditis|Systemic lupus erythematosus (SLE)|
 |Coronary artery aneurysms|Kawasaki disease|
+|Aortic dissection|Tertiary syphilis<br>Marfan syndrome|
 
 ## Presentation of Tetralogy of Fallot (TOF) {PROV}
 
