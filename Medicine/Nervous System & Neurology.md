@@ -556,7 +556,7 @@
 |CD52 inhibitors|Alemtuzumab|Multiple sclerosis|
 |α4-integrin inhibitors|Natalizumab|Multiple sclerosis|
 
-## Classic Triad of Wernicke's Encephalopathy {CAO}
+## Classic Triad of Wernicke Encephalopathy {CAO}
 
 - Confusion
 - Ataxia
