@@ -235,7 +235,7 @@
 |Patent ductus arteriosus (PDA)|Congenital rubella|
 |Tetralogy of Fallot (TOF)|DiGeorge syndrome<br>Velocardiofacial syndrome|
 |Supravalvular aortic stenosis|Williams syndrome|
-|Coarctation of the aorta (CoA)|Turner syndrome|
+|Bicuspid aortic value<br>Coarctation of the aorta (CoA)|Turner syndrome|
 |Ebstein anomaly|Lithium|
 |Libman-Sacks endocarditis|Systemic lupus erythematosus (SLE)|
 |Coronary artery aneurysms|Kawasaki disease|
