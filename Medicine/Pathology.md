@@ -206,17 +206,15 @@
 |-|-|
 |ARPKD|PKHD1 gene|
 |Albinism|Tyrosinase|
-|Phenylketonuria (PKU)|Phenylalanine hydroxylase|
-||Tetrahydrobiopterin|
+|Phenylketonuria (PKU)|Phenylalanine hydroxylase<br>Tetrahydrobiopterin|
 |Alkaptonuria (AKU)|Homogentisate oxidase|
-|Homocystinuria|Cystathionine synthase|
-||Methionine synthase|
+|Homocystinuria|Cystathionine synthase<br>Methionine synthase|
 |Cystinuria|Amino acid transporter|
 |Maple syrup urine disease (MSUD)|Branched-chain α-ketoacid dehydrogenase|
 |Cystic fibrosis (CF)|CFTR gene & Cl channel|
 |Kartagener syndrome|Dynein|
 |Sickle cell disease (SCD)|β-Globin|
-|Thalassemia|α-Globin & β-Globin|
+|Thalassemia|α-Globin<br>β-Globin|
 |Hemochromatosis|-|
 |Wilson disease|-|
 |Glycogen storage disease (GSD)|-|
