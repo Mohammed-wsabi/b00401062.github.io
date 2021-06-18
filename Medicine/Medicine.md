@@ -588,5 +588,5 @@
 |Disorder|Defects|Effects|
 |-|-|-|
 |Phenylketonuria (PKU)|Phenylalanine hydroxylase<br>Tetrahydrobiopterin|↓ Tyrosine|
-|Hartnup disease|Proximal convoluted tubule (PCT)||↓ Tryptophan|
+|Hartnup disease|Proximal convoluted tubule (PCT)|↓ Tryptophan|
 |Cystinuria|Proximal convoluted tubule (PCT)|↓ Cystine & Ornithine & Lysine & Arginine (COLA)|
