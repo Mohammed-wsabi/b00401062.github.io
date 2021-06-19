@@ -81,9 +81,9 @@
 
 |Ganglion|Nerve|Innervation|
 |-|-|-|
-|Ciliary ganglion|CN III|Sphincter pupillae & Ciliary muscle|
-|Pterygopalatine ganglion|CN VII|Lacrimal gland & Nasal glands|
-|Submandibular ganglion|CN VII|Submandibular & Sublingual glands|
+|Ciliary ganglion|CN III|Sphincter pupillae<br>Ciliary muscle|
+|Pterygopalatine ganglion|CN VII|Lacrimal gland<br>Nasal glands|
+|Submandibular ganglion|CN VII|Submandibular gland<br>Sublingual glands|
 |Otic ganglion|CN IX|Parotid gland|
 
 ## Branches of Facial Nerve
@@ -132,7 +132,7 @@
 
 |Muscle|Nerve|Function|
 |-|-|-|
-|Tensor veli palatini|CN V|-|
+|Tensor veli palatini|CN V<sub>3</sub>|-|
 |Levator veli palatini|CN X|-|
 |Palatopharyngeus|CN X|-|
 |Palatoglossus|CN X|-|
