@@ -419,7 +419,7 @@
 - Hepatomegaly
 - Leukocytosis
 - Lymphadenopathy
-- Rashes salmon-colored & non-pruritic
+- Rashes :: salmon-colored
 - Splenomegaly
 
 ## Types of Transplant Reactions
