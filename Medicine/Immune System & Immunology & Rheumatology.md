@@ -415,7 +415,7 @@
 
 - Arthralgia
 - Fever
-- Ferritin increased
+- ↑ Ferritin
 - Hepatomegaly
 - Leukocytosis
 - Lymphadenopathy
