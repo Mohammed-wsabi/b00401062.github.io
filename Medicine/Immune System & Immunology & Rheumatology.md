@@ -232,7 +232,7 @@
 |Wiskott-Aldrich syndrome (WAS)|WAS|XR|↓|-|↑|↑|
 |Ataxia telangiectasia|ATM|AR|-|↓|↓|↓|
 |Severe combined immunodeficiency (SCID)|ADA|AR|↓|↓|↓|↓|
-|Severe combined immunodeficiency (SCID)|IL-2R|XR|↓|↓|↓|↓|
+||IL-2R|XR|↓|↓|↓|↓|
 |Hyper-IgM syndrome|CD40L|XR|↑|↓|↓|↓|
 
 ### T Cell Deficiency {CHILD}
