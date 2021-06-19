@@ -139,7 +139,7 @@
 |Marrow suppression|-|
 |Immunosuppression|-|
 |Nephrotoxicity|Platinums|
-|Neurotoxicity|Nitrosoureas & Platinums & Vincas & Taxanes|
-|Cardiotoxicity|Anthracyclines & Trastuzumab|
-|Pulmonary fibrosis|Bleomycin & Busulfan|
+|Neurotoxicity|Nitrosoureas<br>Platinums<br>Vincas<br>Taxanes|
+|Cardiotoxicity|Anthracyclines<br>Trastuzumab|
+|Pulmonary fibrosis|Bleomycin<br>Busulfan|
 |Hemorrhagic cystitis|Cyclophosphamide|
