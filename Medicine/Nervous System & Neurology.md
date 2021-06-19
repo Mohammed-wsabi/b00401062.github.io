@@ -199,6 +199,7 @@
 |Reflex|Afferent|Efferent|
 |-|-|-|
 |Pupillary|CN II|CN III|
+|Acoustic|CN II|CN VII|
 |Corneal|CN V<sub>1</sub>|CN VII|
 |Lacrimation|CN V<sub>1</sub>|CN VII|
 |Jaw Jerk|CN V<sub>3</sub>|CN VII|
