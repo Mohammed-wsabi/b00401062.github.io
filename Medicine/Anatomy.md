@@ -287,9 +287,9 @@
 
 |Space|Contents|
 |-|-|
-|Quadrangular space|Axillary artery & Posterior humeral circumflex artery|
+|Quadrangular space|Axillary artery<br>Posterior humeral circumflex artery|
 |Triangular space|Scapular circumflex vessels|
-|Triangular interval|Deep brachial artery & Radial nerve|
+|Triangular interval|Deep brachial artery<br>Radial nerve|
 
 ## Muscles of Coracoid Process
 
@@ -403,7 +403,7 @@
 |-|-|
 |Inferior vena cave|Right phrenic nerve|
 |Esophagus|CN X|
-|Aorta|Azygous nerve & Thoracic duct|
+|Aorta|Azygous nerve<br>Thoracic duct|
 
 ### Arcuate ligament
 
