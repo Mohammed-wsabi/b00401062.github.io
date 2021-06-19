@@ -133,18 +133,18 @@
 |Muscle|Nerve|Function|
 |-|-|-|
 |Tensor veli palatini|CN V<sub>3</sub>|-|
-|Levator veli palatini|CN X|-|
-|Palatopharyngeus|CN X|-|
-|Palatoglossus|CN X|-|
+|Levator veli palatini|CN X :: pharyngeal branch|-|
+|Palatopharyngeus|CN X :: pharyngeal branch|-|
+|Palatoglossus|CN X :: pharyngeal branch|-|
 
 ### Pharynx
 
 |Muscle|Nerve|Function|
 |-|-|-|
 |Stylopharyngeus|CN IX|-|
-|Salpingopharyngeus|CN X|-|
-|Palatopharyngeus|CN X|-|
-|Pharyngeal constrictor|CN X|-|
+|Salpingopharyngeus|CN X :: pharyngeal branch|-|
+|Palatopharyngeus|CN X :: pharyngeal branch|-|
+|Pharyngeal constrictor|CN X :: pharyngeal branch|-|
 
 ### Larynx
 
