@@ -227,30 +227,30 @@
 
 ### Combined Deficiency {WASH}
 
-|Disease|Defects|Mutation|Inheritance|IgM|IgG|IgE|IgA|
-|-|-|-|-|-|-|-|
-|Wiskott-Aldrich syndrome (WAS)|Actin cytoskeleton|WAS|XR|↓|-|↑|↑|
-|Ataxia telangiectasia|Serine/Threonine kinase (STK)|ATM|AR|-|↓|↓|↓|
-|Severe combined immunodeficiency (SCID)|Adenosine deaminase|ADA|AR|↓|↓|↓|↓|
-|Severe combined immunodeficiency (SCID)|IL-2R|IL-2R|XR|↓|↓|↓|↓|
+|Disease|Mutation|Inheritance|IgM|IgG|IgE|IgA|
+|-|-|-|-|-|-|
+|Wiskott-Aldrich syndrome (WAS)|WAS|XR|↓|-|↑|↑|
+|Ataxia telangiectasia|ATM|AR|-|↓|↓|↓|
+|Severe combined immunodeficiency (SCID)|ADA|AR|↓|↓|↓|↓|
+|Severe combined immunodeficiency (SCID)|IL-2R|XR|↓|↓|↓|↓|
 |Hyper-IgM syndrome|CD40L|CD40L|XR|↑|↓|↓|↓|
 
 ### T Cell Deficiency {CHILD}
 
-|Disease|Defects|Mutation|IgM|IgG|IgE|IgA|
-|-|-|-|-|-|-|-|
-|Chronic mucocutaneous candidiasis|-|-|-|-|-|-|
-|Hyper-IgE [Job] syndrome|-|STAT3|-|-|↑|-|
-|IL-12R deficiency|IL-12R|IL-12R|-|-|-|-|
-|DiGeorge syndrome|Thymus & Parathyroid|22q11|-|-|-|-|
+|Disease|Mutation|IgM|IgG|IgE|IgA|
+|-|-|-|-|-|-|
+|Chronic mucocutaneous candidiasis|-|-|-|-|-|
+|Hyper-IgE [Job] syndrome|STAT3|-|-|↑|-|
+|IL-12R deficiency|IL-12R|-|-|-|-|
+|DiGeorge syndrome|22q11|-|-|-|-|
 
 ### B Cell Deficiency {CBS}
 
-|Disease|Defects|Mutation|IgM|IgG|IgE|IgA|
-|-|-|-|-|-|-|-|
-|Common variable immunodeficiency (CVID)|-|-|↓|↓|↓|↓|
-|Bruton agammaglobulinemia|Bruton tyrosine kinase|BTK|↓|↓|↓|↓|
-|Selective IgA deficiency|-|-|-|-|-|↓|
+|Disease|Mutation|IgM|IgG|IgE|IgA|
+|-|-|-|-|-|-|
+|Common variable immunodeficiency (CVID)|-|↓|↓|↓|↓|
+|Bruton agammaglobulinemia|BTK|↓|↓|↓|↓|
+|Selective IgA deficiency|-|-|-|-|↓|
 
 ## Presentation of Wiskott-Aldrich syndrome (WAS) {WATER}
 
