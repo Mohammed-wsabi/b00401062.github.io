@@ -67,6 +67,10 @@
 
 ![](../Figures/Auditory%20Pathway.gif)
 
+## Acoustic Reflex
+
+![](../Figures/Acoustic%20Reflex.gif)
+
 ## Physical Examinations for Hearing Loss
 
 |Hearing Loss|Rinne Test|Weber Test|
