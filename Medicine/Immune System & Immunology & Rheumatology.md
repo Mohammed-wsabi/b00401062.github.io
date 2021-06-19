@@ -227,17 +227,17 @@
 
 ### Combined Deficiency {WASH}
 
-|Disease|Defects|Genetics|IgM|IgG|IgE|IgA|
+|Disease|Defects|Mutation|Inheritance|IgM|IgG|IgE|IgA|
 |-|-|-|-|-|-|-|
-|Wiskott-Aldrich syndrome (WAS)|Actin cytoskeleton reorganization|WAS|↓|-|↑|↑|
-|Ataxia telangiectasia|Serine/Threonine kinase (STK)|ATM|-|↓|↓|↓|
-|Severe combined immunodeficiency (SCID) :: AR|Adenosine deaminase|ADA|↓|↓|↓|↓|
-|Severe combined immunodeficiency (SCID) :: XR|IL-2R|IL-2R|↓|↓|↓|↓|
-|Hyper-IgM syndrome|CD40L|CD40L|↑|↓|↓|↓|
+|Wiskott-Aldrich syndrome (WAS)|Actin cytoskeleton|WAS|XR|↓|-|↑|↑|
+|Ataxia telangiectasia|Serine/Threonine kinase (STK)|ATM|AR|-|↓|↓|↓|
+|Severe combined immunodeficiency (SCID)|Adenosine deaminase|ADA|AR|↓|↓|↓|↓|
+|Severe combined immunodeficiency (SCID)|IL-2R|IL-2R|XR|↓|↓|↓|↓|
+|Hyper-IgM syndrome|CD40L|CD40L|XR|↑|↓|↓|↓|
 
 ### T Cell Deficiency {CHILD}
 
-|Disease|Defects|Genetics|IgM|IgG|IgE|IgA|
+|Disease|Defects|Mutation|IgM|IgG|IgE|IgA|
 |-|-|-|-|-|-|-|
 |Chronic mucocutaneous candidiasis|-|-|-|-|-|-|
 |Hyper-IgE [Job] syndrome|-|STAT3|-|-|↑|-|
@@ -246,7 +246,7 @@
 
 ### B Cell Deficiency {CBS}
 
-|Disease|Defects|Genetics|IgM|IgG|IgE|IgA|
+|Disease|Defects|Mutation|IgM|IgG|IgE|IgA|
 |-|-|-|-|-|-|-|
 |Common variable immunodeficiency (CVID)|-|-|↓|↓|↓|↓|
 |Bruton agammaglobulinemia|Bruton tyrosine kinase|BTK|↓|↓|↓|↓|
