@@ -102,16 +102,23 @@
 
 |Muscle|Nerve|Function|
 |-|-|-|
-|Temporalis|CN V|Elevation|
-|Masseter|CN V|Elevation|
-|Medial pterygoid|CN V|Elevation|
-|Lateral pterygoid|CN V|Depression|
+|Temporalis|CN V<sub>3</sub>|Elevation|
+|Masseter|CN V<sub>3</sub>|Elevation|
+|Medial pterygoid|CN V<sub>3</sub>|Elevation|
+|Lateral pterygoid|CN V<sub>3</sub>|Depression|
+
+### Middle Ear
+
+|Muscle|Nerve|Function|
+|-|-|-|
+|Tensor tympani|CN V<sub>3</sub>|-|
+|Stapedius|CN VII|-|
 
 ### Face
 
 |Muscle|Nerve|Function|
 |-|-|-|
-|Superior tarsal muscle|Sympathetic nerve|-|
+|Superior tarsal muscle|Sympathetic fibers|-|
 |Levator palpebrae superioris|CN III|-|
 |Buccinator|CN VII|-|
 |Corrugator|CN VII|-|
@@ -160,9 +167,9 @@
 
 |Muscle|Nerve|Function|
 |-|-|-|
+|Mylohyoid|CN V|-|
 |Digastric muscle :: anterior belly|CN V|-|
 |Digastric muscle :: posterior belly|CN VII|-|
-|Mylohyoid|CN V|-|
 |Stylohyoid|CN VII|-|
 |Geniohyoid|C1|-|
 |Thyrohyoid|C1|-|
