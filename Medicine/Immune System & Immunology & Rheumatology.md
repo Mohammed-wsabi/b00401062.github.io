@@ -21,12 +21,12 @@
 |Step|Endothelium|Leukocyte|Disease|
 |-|-|-|-|
 |Rolling|Selectin|SLX|-|
-|Adhesion|CAM|Integrin|Leukocyte adhesion deficiency|
+|Adhesion|CAM|Integrin|Leukocyte adhesion deficiency (LAD)|
 |Diapedesis|PECAM-1 (CD31)|PECAM-1 (CD31)|-|
 |Migration|C5a & IL-8|-|-|
 |Phagocytosis|-|-|-|
-|Fusion|-|Microtubule|Chediak-Higashi syndrome|
-|Degradation|-|NADPH oxidase|Chronic granulomatous disease|
+|Fusion|-|Microtubule|Chediak-Higashi syndrome (CHS)|
+|Degradation|-|NADPH oxidase|Chronic granulomatous disease (CGD)|
 ||-|Myeloperoxidase|Myeloperoxidase deficiency|
 
 ## Toll-Like Receptors (TLR) on Antigen-Presenting Cells (APC)
