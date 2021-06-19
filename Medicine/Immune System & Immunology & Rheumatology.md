@@ -260,6 +260,14 @@
 - Eczema ← ↑ IgE & IgA
 - Recurrent infection
 
+## Presentation of Hyper-IgE [Job] Syndrome {FATE}
+
+- Facies :: coarse
+- Abscess
+- Teeth :: primary
+- Eosinophilia
+- Eczema ← ↑ IgE
+
 ## Etiology of Cold Sensitive Antibodies (CSA)
 
 - Infection
