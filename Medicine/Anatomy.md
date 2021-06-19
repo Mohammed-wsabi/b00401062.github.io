@@ -126,6 +126,7 @@
 |Orbicularis oculi|CN VII|-|
 |Orbicularis oris|CN VII|-|
 |Occipitofrontalis|CN VII|-|
+|Platysma|CN VII|-|
 
 ### Palate
 
