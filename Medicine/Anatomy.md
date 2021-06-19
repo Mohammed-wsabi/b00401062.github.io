@@ -210,16 +210,16 @@
 
 |Structure|Contents|
 |-|-|
-|Anterior|Submental & Submandibular & Carotid & Muscular triangle|
-|Posterior|Occipital & Supraclavicular triangle|
+|Anterior|Submental triangle<br>Submandibular triangle<br>Carotid triangle<br>Muscular triangle|
+|Posterior|Occipital triangle<br>Supraclavicular triangle|
 
 ### Compartments
 
 |Structure|Contents|
 |-|-|
-|Visceral|Thyroid & Trachea & Esophagus|
-|Vascular|Internal jugular vein & Common carotid artery & Vagus nerve|
-|Vertebral|Spine & Paraspinal muscles|
+|Visceral|Thyroid<br>Trachea<br>Esophagus|
+|Vascular|Internal jugular vein<br>Common carotid artery<br>Vagus nerve|
+|Vertebral|Spine<br>Paraspinal muscles|
 
 ### Spaces
 
