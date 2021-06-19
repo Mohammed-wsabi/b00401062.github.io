@@ -233,7 +233,7 @@
 |Ataxia telangiectasia|ATM|AR|-|↓|↓|↓|
 |Severe combined immunodeficiency (SCID)|ADA|AR|↓|↓|↓|↓|
 |Severe combined immunodeficiency (SCID)|IL-2R|XR|↓|↓|↓|↓|
-|Hyper-IgM syndrome|CD40L|CD40L|XR|↑|↓|↓|↓|
+|Hyper-IgM syndrome|CD40L|XR|↑|↓|↓|↓|
 
 ### T Cell Deficiency {CHILD}
 
