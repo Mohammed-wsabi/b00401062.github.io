@@ -321,7 +321,7 @@
 - Aqueous humor
 - Blood vessels
 - Bronchus
-- Dilator muscle :: pupil → mydriasis
+- Dilator pupillae → mydriasis
 - Ejaculation
 - Heart
 - Renin
@@ -343,7 +343,7 @@
 - Smooth muscle
   - Intestine → peristalsis
   - Bladder → micturition
-- Sphincter muscle :: pupil → miosis
+- Sphincter pupillae → miosis
 
 ## Signalling Pathways of Neurotransmitters
 
