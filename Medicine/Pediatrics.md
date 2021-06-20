@@ -56,9 +56,9 @@
 |Haemophilus influenzae type B (Hib)|2 & 4 & 6 & 12|
 |Diphtheria & Tetanus & Pertussis (DTaP)|2 & 4 & 6 & 18 & 48|
 |Poliovirus|2 & 4 & 6 & 48|
-|Measle & Mumps & Rubella (MMR)|12 & 48|
-|Varicella zoster virus (VZV)|12 & 48|
 |Hepatitis A virus (HAV)|12 & 18|
+|Varicella zoster virus (VZV)|12 & 48|
+|Measle & Mumps & Rubella (MMR)|12 & 48|
 |Japanese encephalitis (JE)|15 & 27|
 
 ![](../Figures/Childhood%20Immunization.gif)
