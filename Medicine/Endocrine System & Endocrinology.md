@@ -102,9 +102,11 @@
   - Propylthiouracil
   - Methimazole
   - Iodine [Lugol] solution
-- Deiodinase inhibitors :: Propylthiouracil
+- Deiodinase inhibitors
+  - Propylthiouracil
+  - Propranolol
+  - Steroids
 - β antagonists :: Propranolol
-- Steroids
 - Radioiodine ablation
 - Surgery
 
