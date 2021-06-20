@@ -964,3 +964,12 @@
 - Mycobacterium
 - Nocardia brasiliensis
 - Sporothrix schenckii
+
+## Vaccines
+
+|Type|Vaccines|
+|-|-|
+|Live attenuated|BCG & MMR & Varicella & Rotavirus|
+|Inactivated|Poliovirus & HAV & Influenza & Rabies|
+|Subunit|HBV & HPV & Pneumococcus & Meningococcus & Haemophilus influenzae type B & Pertusis|
+|Toxoid|Diphtheria & Tetanus|
