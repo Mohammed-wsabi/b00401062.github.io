@@ -969,7 +969,7 @@
 
 |Type|Vaccines|
 |-|-|
-|Live attenuated|BCG<br>Rotavirus<br>Measle & Mumps & Rubella (MMR)<br>Varicella zoster virus (VZV)|
+|Live attenuated|BCG<br>Rotavirus<br>Varicella zoster virus (VZV)<br>Measle & Mumps & Rubella (MMR)|
 |Inactivated|Poliovirus<br>Hepatitis A virus (HAV)<br>Influenza<br>Rabies|
 |Subunit|Hepatitis B virus (HBV)<br>Human papillomavirus (HPV)<br>Pneumococcus<br>Meningococcus<br>Haemophilus influenzae type B (Hib)<br>Pertusis|
 |Toxoid|Diphtheria<br>Tetanus|
