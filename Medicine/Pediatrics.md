@@ -38,7 +38,7 @@
 ## Complications of Preterm Delivery {RIP-N-RBC}
 
 - Respiratory distress syndrome (RDS)
-- Intraventricular hemorrhage
+- Intraventricular hemorrhage (IVH)
 - Patent ductus arteriosus (PDA)
 - Necrotizing enterocolitis (NEC)
 - Retinopathy of prematurity
