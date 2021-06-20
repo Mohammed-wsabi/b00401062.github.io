@@ -50,15 +50,15 @@
 |Vaccine|Month|
 |-|-|
 |BCG|0|
-|HBV|0 & 1 & 6|
+|Hepatitis B virus (HBV)|0 & 1 & 6|
 |Rotavirus|2 & 4 & 6|
-|Pneumococcus (PCV)|2 & 4 & 6 & 12|
+|Pneumococcus|2 & 4 & 6 & 12|
 |Haemophilus influenzae type B (Hib)|2 & 4 & 6 & 12|
 |Diphtheria & Tetanus & Pertussis (DTaP)|2 & 4 & 6 & 18 & 48|
-|Poliovirus (IPV)|2 & 4 & 6 & 48|
+|Poliovirus|2 & 4 & 6 & 48|
 |Measle & Mumps & Rubella (MMR)|12 & 48|
-|VZV|12 & 48|
-|HAV|12 & 18|
+|Varicella zoster virus (VZV)|12 & 48|
+|Hepatitis A virus (HAV)|12 & 18|
 |Japanese encephalitis (JE)|15 & 27|
 
 ![](../Figures/Childhood%20Immunization.gif)
