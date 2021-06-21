@@ -35,15 +35,16 @@
 - Scarf sign
 - Square window
 
-## Complications of Preterm Delivery {RIP-N-RBC}
+## Complications of Preterm Delivery
 
-- Respiratory distress syndrome (RDS)
-- Intraventricular hemorrhage (IVH)
 - Patent ductus arteriosus (PDA)
+- Bronchopulmonary dysplasia (BPD)
+- Neonatal respiratory distress syndrome (NRDS)
 - Necrotizing enterocolitis (NEC)
-- Retinopathy of prematurity
-- Bronchopulmonary dysplasia
 - Cerebral palsy
+- Intraventricular hemorrhage (IVH)
+- Periventricular leukomalacia (PVL)
+- Retinopathy of prematurity
 
 ## Vaccination
 
