@@ -8,23 +8,23 @@
 
 ## Classification of Gestational Ages (GA)
 
-|Classification|GA|
+|Classification|G (weeks)|
 |-|-|
-|Early preterm|< 24 w|
-|Preterm|24 ~ 34 w|
-|Late preterm|34 ~ 37 w|
-|Term|37 ~ 42 w|
-|Postterm|> 42 w|
+|Early preterm|< 24|
+|Preterm|24 ~ 34|
+|Late preterm|34 ~ 37|
+|Term|37 ~ 42|
+|Postterm|> 42|
 
 ## Classification of Birth Weights (BW)
 
-|Classification|BW|
+|Classification|BW (g)|
 |-|-|
-|Extremely low (ELBW)|< 1000 g|
-|Very low (VLBW)|1000 ~ 1500 g|
-|Low (LBW)|1500 ~ 2500 g|
-|Normal (NBW)|2500 ~ 4000 g|
-|High (HBW)|> 4000 g|
+|Extremely low (ELBW)|< 1000|
+|Very low (VLBW)|1000 ~ 1500|
+|Low (LBW)|1500 ~ 2500|
+|Normal (NBW)|2500 ~ 4000|
+|High (HBW)|> 4000|
 
 ## New Ballard Score {HAPPSS}
 
