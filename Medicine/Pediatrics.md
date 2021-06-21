@@ -3,12 +3,12 @@
 ## Leading Causes of Death in Newborns
 
 - Congenital anomalies
-- Short gestation age (SGA)
+- Small for gestation age (SGA)
 - Sudden infant death syndrome (SIDS)
 
 ## Classification of Gestational Ages (GA)
 
-|Classification|G (weeks)|
+|Classification|GA (weeks)|
 |-|-|
 |Early preterm|< 24|
 |Preterm|24 ~ 34|
