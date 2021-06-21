@@ -3,7 +3,7 @@
 ## Leading Causes of Death in Newborns
 
 - Congenital anomalies
-- Small for gestation age (SGA)
+- Small for gestational age (SGA)
 - Sudden infant death syndrome (SIDS)
 
 ## Classification of Gestational Ages (GA)
