@@ -100,6 +100,13 @@
 |Hypophosphatemic rickets|↑|-|↓ (1°)|-|
 |Paget disease|↑|-|-|-|
 
+## Presentation of Osteogenesis Imperfecta
+
+- Bone fratures
+- Blue sclerae
+- Hearing loss :: conductive
+- Opalescent teeth
+
 ## Mechanisms of Action of Medications for Osteoporosis
 
 |Mechanism|Medication|Indications|
