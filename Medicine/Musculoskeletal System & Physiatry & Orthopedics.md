@@ -80,6 +80,14 @@
 - Scaphoid fracture
 - Hook of hamate fracture
 
+## Management of Scoliosis
+
+|Curvature|Management|
+|-|-|
+|< 20°|Observation|
+|20° ~ 50°|Spinal bracing|
+|> 50°|Spinal fusion|
+
 ## Lab Values in Bone Disorders
 
 |Disorder|ALP|Calcium|Phosphate|PTH|
