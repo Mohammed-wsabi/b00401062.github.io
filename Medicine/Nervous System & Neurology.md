@@ -116,12 +116,8 @@
 
 ## Basal Ganglion
 
-- Striatum
-  - Putamen
-  - Caudate nucleus
-- Lentiform nucleus
-  - Putamen
-  - Globus pallidus
+- Striatum: putamen & caudate nucleus
+- Lentiform nucleus: putamen & globus pallidus
 
 ![](../Figures/Basal%20Ganglion.png)
 
