@@ -230,7 +230,7 @@
 |G6PD deficiency|Glucose-6-phosphate dehydrogenase|
 |Ocular albinism|-|
 |Lesch-Nyhan syndrome|HGPRT|
-|Duchenne muscular dystrophy<br>Becker muscular dystrophy|Dystrophin|
+|Duchenne muscular dystrophy (DMD)<br>Becker muscular dystrophy (BMD)|Dystrophin|
 |Fabry disease|α-Galactosidase|
 |Hunter syndrome|Iduronate sulfatase|
 |Haemophilia A & B|Factor 8 & 9|
