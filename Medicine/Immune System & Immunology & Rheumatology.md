@@ -8,13 +8,14 @@
 
 |Name|Site|
 |-|-|
-|Macrophage|Blood|
+|Macrophage<br>Histiocyte|Tissue|
 |Microglia|Brain|
 |Alveolar macrophage|Lung|
 |Kupffer cell|Liver|
 |Mesangial cell|Kidney|
 |Osteoclast|Bone|
-|Histiocyte|Connective tissue|
+|Langerhans cell|Skin|
+|Hofbauer cell|Placenta|
 
 ## Leukocyte Extravasation & Phagocytosis
 
