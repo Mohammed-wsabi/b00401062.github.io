@@ -72,9 +72,13 @@
 
 ## Fall Onto an Outstretched Hand (FOOSH) Injuries
 
+- Clavicle fracture
+- Rotator cuff injury
+- Monteggia fracture: proximal ulnar fracture & radial head dislocation 
+- Galeazzi fracture: distal radius fracture & distal radioulnar joint dislocation
+- Colles fracture: distal radius fracture
 - Scaphoid fracture
 - Hook of hamate fracture
-- 
 
 ## Lab Values in Bone Disorders
 
