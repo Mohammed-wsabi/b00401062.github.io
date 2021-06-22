@@ -46,9 +46,9 @@
 
 ![](../Figures/Waves%20on%20Evoked%20Electromyography%20(EMG).png)
 
-## Types of Fractures
+## Types of Fracture
 
-![](../Figures/Types%20of%20Fractures.jpg)
+![](../Figures/Types%20of%20Fracture.jpg)
 
 ## Nerve Injuries
 
