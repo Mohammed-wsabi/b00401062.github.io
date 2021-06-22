@@ -130,3 +130,15 @@
 - Cherry angioma
 - Mongolian spots
 - Milia
+
+## Presentation of Non-accidental Trauma (NAT)
+
+- Burns
+- Fractures
+  - Rib fractures
+  - Corner [Bucket handle] fractures
+  - Spiral fractures
+- Hemorrhage
+  - Subdural hemorrhage
+  - Retinal hemorrhage
+- Neisseria gonorrhoeae
