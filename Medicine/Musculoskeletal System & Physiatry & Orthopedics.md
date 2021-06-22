@@ -55,7 +55,7 @@
 |Nerve|Injury|Muscles|Signs|
 |-|-|-|-|
 |Upper trunk:<br>Suprascapular nerve<br>Axillary nerve<br>Musculocutaneous nerve|-|Supraspinatus<br>Infraspinatus<br>Teres minor<br>Deltoid<br>Biceps brachii|Erb palsy<br>Waiter's tip|
-|Lower trunk:<br>Median nerve<br>Ulnar nerve<br>Radial nerve|Flexor digitorum profundus|-|Klumpke palsy<br>Total claw hand|
+|Lower trunk:<br>Median nerve<br>Ulnar nerve<br>Radial nerve|-|Flexor digitorum profundus|Klumpke palsy<br>Total claw hand|
 |Long thoracic nerve|Clavicle fracture|Serratus anterior|Winged scapula|
 |Axillary nerve|Anterior shoulder dislocation<br>Proximal humerus fracture|Deltoid<br>Teres minor|
 |Median nerve :: proximal|Supracondylar humerus fracture|Flexor digitorum profundus :: 1st & 2nd|Pope's blessing|
@@ -69,6 +69,12 @@
 |Tibial nerve|Baker cyst<br>Tarsal tunnel syndrome|Posterior compartment of leg|-|
 |Sciatic nerve|Posterior hip dislocation|Posterior compartment of thigh|-|
 |Superior gluteal nerve|-|Gluteus medius<br>Gluteus minimus<br>Tensor fascia latae|Trendelenburg gait|
+
+## Fall Onto an Outstretched Hand (FOOSH) Injuries
+
+- Scaphoid fracture
+- Hook of hamate fracture
+- 
 
 ## Lab Values in Bone Disorders
 
