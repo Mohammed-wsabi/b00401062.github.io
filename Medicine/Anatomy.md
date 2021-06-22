@@ -279,7 +279,7 @@
 |That|Trunk|Suprascapular nerve|
 |Damn|Division|-|
 |Cell|Cord|Lateral pectoral nerve<br>Medial pectoral nerve<br>Thoracodorsal nerve<br>Subscapular nerve|
-|Biology|Branch|Musculocutaneous nerve<br>Axillary nerve<br>Radial nerve<br>Medial nerve<br>Ulnar nerve|
+|Biology|Branch|Axillary nerve<br>Musculocutaneous nerve<br>Medial nerve<br>Ulnar nerve<br>Radial nerve|
 
 ![](../Figures/Brachial%20Plexus.png)
 
