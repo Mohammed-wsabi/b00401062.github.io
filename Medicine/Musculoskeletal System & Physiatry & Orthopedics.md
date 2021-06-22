@@ -54,8 +54,8 @@
 
 |Nerve|Injury|Muscles|Signs|
 |-|-|-|-|
-|Upper trunk:<br>Suprascapular nerve<br>Axillary nerve<br>Musculocutaneous nerve|-|Supraspinatus<br>Infraspinatus<br>Teres minor<br>Deltoid<br>Biceps brachii|Erb palsy<br>Waiter's tip|
-|Lower trunk:<br>Median nerve<br>Ulnar nerve<br>Radial nerve|-|Flexor digitorum profundus|Klumpke palsy<br>Total claw hand|
+|Upper trunk:<br>Suprascapular nerve<br>Axillary nerve<br>Musculocutaneous nerve|Lateral traction on neck|Supraspinatus<br>Infraspinatus<br>Teres minor<br>Deltoid<br>Biceps brachii|Erb palsy<br>Waiter's tip|
+|Lower trunk:<br>Median nerve<br>Ulnar nerve<br>Radial nerve|Upward force on arm|Flexor digitorum profundus|Klumpke palsy<br>Total claw hand|
 |Long thoracic nerve|Clavicle fracture|Serratus anterior|Winged scapula|
 |Axillary nerve|Anterior shoulder dislocation<br>Proximal humerus fracture|Deltoid<br>Teres minor|
 |Median nerve :: proximal|Supracondylar humerus fracture|Flexor digitorum profundus :: 1st & 2nd|Pope's blessing|
