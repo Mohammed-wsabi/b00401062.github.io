@@ -37,6 +37,15 @@
 
 ![](../Figures/Ligaments%20of%20Uterus%20and%20Ovary.png)
 
+## Sexual Development
+
+|Female|Male|
+|-|-|
+|Thelarche|Gonadarche|
+|Pubarche|Pubarche|
+|Growth spurt|Adrenarche|
+|Menarche|Growth spurt|
+
 ## Sex Hormone Production
 
 |Hormones|Female|Male|
