@@ -63,7 +63,7 @@
 |-|-|-|-|-|-|
 |Estrone|Androstenedione|Adrenal gland|Aromatase|Adipose cells|Post-menopause|
 |Estradiol|Testosterone|Theca cells|Aromatase|Granulosa cells|Non-pregnancy|
-|Estriol|DHEAS|Fetal adrenal gland|Sulfatase|Placenta|Pregnancy|
+|Estriol|DHEAS|Adrenal gland|Sulfatase|Placenta|Pregnancy|
 
 ## Hormone Change During Pregnancy
 
