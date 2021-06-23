@@ -241,7 +241,7 @@
 |Ca channel blockers|Dantrolene|Neuroleptic malignant syndrome|
 |D<sub>2</sub> agonists|Bromocriptine|Neuroleptic malignant syndrome|
 |NMDA antagonists|Amantadine|Neuroleptic malignant syndrome|
-|GABA-A agonists|Benzodiazepine|Neuroleptic malignant syndrome|
+|GABA-A agonists|Benzodiazepines|Neuroleptic malignant syndrome|
 
 ## Presentation of Major Depressive Episode {FDA-GPS}
 
@@ -305,7 +305,7 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |Antidepressants|TCA & SSRI & SNRI & MAOI|Anxiety|
-|GABA-A agonists|Benzodiazepine|Anxiety|
+|GABA-A agonists|Benzodiazepines|Anxiety|
 |5-HT<sub>1</sub> agonists|Buspirone|Anxiety|
 |β antagonists|Propranolol|Anxiety|
 
