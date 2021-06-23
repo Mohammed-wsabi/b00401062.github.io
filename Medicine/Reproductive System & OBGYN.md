@@ -368,6 +368,7 @@
 |Anorexia nervosa|+|+|
 |Mullerian agenesis|+|-|
 |Androgen insensitivity syndrome (AIS)|+|-|
+|Constitutional growth delay|-|+|
 |Kallmann syndrome|-|+|
 |Hypopituitarism|-|+|
 |Turner syndrome|-|+|
@@ -386,7 +387,7 @@
 |Hypothyroidism|↓|↓|↓|↓|
 |Hyperprolactinemia|↓|↓|↓|↓|
 |Asherman syndrome|-|-|-|-|
-|Outflow tract obstruction|-|-|-|-|
+|Outflow obstruction|-|-|-|-|
 
 ## Presentation of Turner Syndrome
 
