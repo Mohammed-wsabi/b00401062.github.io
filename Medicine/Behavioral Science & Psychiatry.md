@@ -284,13 +284,13 @@
 
 ## Mechanisms of Action of Medications for Bipolar Disorder
 
-|Mechanism|Medication|Indications|
-|-|-|-|
-|Mood stabilizer|Lithium|Bipolar|
-|D<sub>2</sub> antagonists|2° Antipsychotics|Bipolar|
-|Na channel blockers|Carbamazepine|Bipolar<br>Seizure|
-|↑ GABA|Valproate|Bipolar<br>Seizure|
-|-|Lamotrigine|Bipolar<br>Seizure|
+|Mechanism|Medication|
+|-|-|
+|Mood stabilizer|Lithium|
+|D<sub>2</sub> antagonists|2° Antipsychotics|
+|Na channel blockers|Carbamazepine|
+|↑ GABA|Valproate|
+|-|Lamotrigine|
 
 ## Mechanisms of Action of Anxiolytics
 
