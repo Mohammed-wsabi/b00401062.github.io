@@ -369,25 +369,20 @@
 |Mullerian agenesis|+|-|
 |Androgen insensitivity syndrome (AIS)|+|-|
 |Constitutional growth delay|-|+|
-|Kallmann syndrome|-|+|
-|Hypopituitarism|-|+|
 |Turner syndrome|-|+|
-|Gonadal dysgenesis|-|+|
+|2° Hypogonadism|-|+|
 
 ## Etiology of Secondary Amenorrhea
 
-|Etiology|GnRH|LH & FSH|Estrogen|Progesterone|
+|Etiology|GnRH|LH & FSH|SH|
 |-|-|-|-|-|
-|Pregnancy|↓|↓|↑|↑|
-|PCOS|↓|↓|↑|↓|
-|Hypoestrogenism|↑/↓|↑/↓|↓|↓|
-|Menopause|↑|↑|↓|↓|
-|Ovarian failure|↑|↑|↓|↓|
-|Resistant ovary [Savage] syndrome|↑|↑|↓|↓|
-|Hypothyroidism|↓|↓|↓|↓|
-|Hyperprolactinemia|↓|↓|↓|↓|
-|Asherman syndrome|-|-|-|-|
-|Outflow obstruction|-|-|-|-|
+|Pregnancy|↓|↓|↑|
+|Polycystic ovary syndrome (PCOS)|↓|↓|↑|
+|Menopause [Ovarian failure]|↑|↑|↓|
+|Resistant ovary [Savage] syndrome|↑|↑|↓|
+|2° Hypogonadism|↓|↓|↓|
+|Asherman syndrome|-|-|-|
+|Outflow obstruction|-|-|-|
 
 ## Presentation of Turner Syndrome
 
