@@ -50,10 +50,11 @@
 |Endocrine Receptor|Disease|
 |-|-|
 |GH|Laron syndrome|
+|LH & FSH|Resistant ovary [Savage] syndrome|
 |PTH|Pseudohypoparathyroidism (PHP)|
 |Androgen|Androgen insensitive syndrome (AIS)|
-|Insulin|DM type 2|
-|Vasopressin|Nephrogenic DI|
+|Insulin|Diabetes mellitus type 2|
+|Vasopressin|Nephrogenic diabetes insipidus (DI)|
 
 ## Thyroid Hormone Synthesis {OOCD}
 
@@ -206,12 +207,18 @@
 
 |Diagnosis|GnRH|LH & FSH|SH|
 |-|-|-|-|
+|Kallmann syndrome|↓ (1°)|↓|↓|
+|Hypopituitarism|↑|↓ (1°)|↓|
+|Hypothyroidism|↓|↓|↓|
+|Hyperprolactinemia|↓|↓|↓|
 |Klinefelter syndrome|↑|↑|↓ (1°)|
 |Turner syndrome|↑|↑|↓ (1°)|
+|Resistant ovary [Savage] syndrome|↑|↑|↓|
+|Ovarian failure|↑|↑|↓ (1°)|
 |Menopause|↑|↑|↓ (1°)|
-|Hypopituitarism|↑|↓ (1°)|↓|
-|Kallmann syndrome|↓ (1°)|↓|↓|
-|Androgen insensitive syndrome (AIS)|↑ (1°)|↑|↑|
+|Androgen insensitive syndrome (AIS)|↑|↑|↑|
+|Polycystic ovary syndrome (PCOS)|↓|↓|↑|
+|Pregnancy|↓|↓|↑ (1°)|
 |Germ cell tumor|↓|↓|↑ (1°)|
 |Exogenous steroid|↓|↓|↑ (1°)|
 
