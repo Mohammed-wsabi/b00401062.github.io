@@ -26,7 +26,7 @@
 |ERCC|DNA repair|Xeroderma pigmentosum|
 |FANC|DNA repair|Fanconi anemia|
 |MEN1|-|MEN 1|
-|MLH1 & MSH2|DNA repair|Lynch syndrome|
+|MLH1 & MSH2|DNA repair|Hereditary nonpolyposis colorectal cancer (HNPCC)|
 |NF1 & NF2|RAS activators|Neurofibromatosis type 1 & 2|
 |P16|CDK inhibitors|Melanoma|
 |P53|Transcription factor for P21|Li-Fraumeni syndrome|
@@ -108,6 +108,23 @@
 - Aniridia
 - Genitourinary anomaly
 - Retardation
+
+## Gardner Syndrome
+
+- Familial adenomatous polyposis (FAP)
+- Osteomas
+- Soft tissue tumors
+- Congenital hypertrophy of retinal pigment epithelium (RPE)
+- Impacted / Supernumerary teeth
+
+## Turcot Syndrome
+
+- Colorectal cancer
+  - Familial adenomatous polyposis (FAP)
+  - Lynch syndrome
+- CNS tumors
+  - Medulloblastoma
+  - Glioma
 
 ## Lynch Syndrome
 
