@@ -111,8 +111,8 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|PTH antagonists<br>Osteoblast inducers|Teriparatide :: pulsatile|Osteoporosis|
 |Estrogen modulators|Raloxifene|Osteoporosis|
+|PTH antagonists<br>Osteoblast inducers|Teriparatide :: pulsatile|Osteoporosis|
 |Osteoclast inhibitors|Bisphosphonate [-Dronates]|Osteoporosis|
 |RANKL inhibitors|Denosumab|Osteoporosis|
 
