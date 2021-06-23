@@ -358,7 +358,7 @@
 	- Splenomegaly
 	- Neutropenia
 - Caplan syndrome
-	- Rheumatoid Arthritis
+	- Rheumatoid arthritis
 	- Pneumoconiosis
 	- Lung nodules
 
