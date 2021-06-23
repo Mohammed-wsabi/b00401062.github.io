@@ -262,23 +262,15 @@
 
 ## Mechanisms of Action of Antidepressants
 
-|Mechanism|Medication|Indications|
-|-|-|-|
-|TCA|Triptylines|Depression|
-||Pramines|Depression|
-|SSRI|Fluoxetine|Depression|
-||Paroxetine|Depression|
-||Sertraline|Depression|
-||Citalopram|Depression|
-|SNRI|Venlafaxine|Depression|
-||Duloxetine|Depression|
-|NDRI|Bupropion|Depression<br>Smoking cessation|
-|5-HT modulators|Trazodone|Depression<br>Insomnia|
-|α<sub>2</sub> antagonists|Mirtazapine|Depression|
-|MAO inhibitors|Tranylcypromine|Depression|
-||Phenelzine|Depression|
-||Isocarboxazid|Depression|
-||Selegiline|Depression<br>Parkinson|
+|Mechanism|Medication|
+|-|-|
+|Reuptake inhibitors|TCA:<br>Triptylines<br>Pramines|
+||SSRI:<br>Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|
+||SNRI:<br>Venlafaxine<br>Duloxetine|
+||NDRI:<br>Bupropion|
+|5-HT modulators|Trazodone|
+|α<sub>2</sub> antagonists|Mirtazapine|
+|MAO inhibitors|Tranylcypromine<br>Phenelzine<br>Isocarboxazid<br>Selegiline|
 
 ## Presentation of Manic Episode {DIG-FAST}
 
@@ -302,12 +294,12 @@
 
 ## Mechanisms of Action of Anxiolytics
 
-|Mechanism|Medication|Indications|
-|-|-|-|
-|Antidepressants|TCA & SSRI & SNRI & MAOI|Anxiety|
-|GABA-A agonists|Benzodiazepines|Anxiety|
-|5-HT<sub>1</sub> agonists|Buspirone|Anxiety|
-|β antagonists|Propranolol|Anxiety|
+|Mechanism|Medication|
+|-|-|
+|Antidepressants|TCA & SSRI & SNRI<br>MAO inhibitors|
+|GABA-A agonists|Benzodiazepines|
+|5-HT<sub>1</sub> agonists|Buspirone|
+|β antagonists|Propranolol|
 
 ## Mechanisms of Action of Medications for Tourette Syndrome
 
