@@ -26,7 +26,7 @@
 |ERCC|DNA repair|Xeroderma pigmentosum|
 |FANC|DNA repair|Fanconi anemia|
 |MEN1|-|MEN 1|
-|MLH1 & MSH2|DNA repair|Hereditary nonpolyposis colorectal cancer (HNPCC)|
+|MLH1 & MSH2|DNA repair|Lynch syndrome|
 |NF1 & NF2|RAS activators|Neurofibromatosis type 1 & 2|
 |P16|CDK inhibitors|Melanoma|
 |P53|Transcription factor for P21|Li-Fraumeni syndrome|
