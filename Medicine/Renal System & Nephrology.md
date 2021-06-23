@@ -172,10 +172,10 @@
 
 - Ischemia
 - Drug-induced nephrotoxicity
-	- Analgesics :: NSAIDs
-	- Antibiotics :: Vancomycin & Aminoglycosides & Amphotericin B
-	- Antivirals :: DNA polymerase inhibitors
-	- Antineoplastics :: Platinums [-Platins]
+  - Analgesics :: NSAIDs
+  - Antibiotics :: Vancomycin & Aminoglycosides & Amphotericin B
+  - Antivirals :: DNA polymerase inhibitors
+  - Antineoplastics :: Platinums [-Platins]
 - Contrast-induced nephropathy
 - Hematuria :: hemoglobinuria & myoglobinuria
 - Light chain deposition disease (LCDD)

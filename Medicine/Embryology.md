@@ -5,10 +5,10 @@
 - Zygote
 - Morula
 - Blastocyst
-	- Embryoblast [Inner cell mass]
-	- Trophoblast [Outer cell mass]
-		- Cytotrophoblast
-		- Syncitiotrophoblast
+  - Embryoblast [Inner cell mass]
+  - Trophoblast [Outer cell mass]
+    - Cytotrophoblast
+    - Syncitiotrophoblast
 
 ## Extraembryonic Membranes {CAYA}
 
@@ -72,7 +72,7 @@
 ## Endoderm
 
 - Eustachian tube
-- Gastrointestinal tract2 
+- Gastrointestinal tract2
 - Genitalia from urogenital sinus
 - Liver
 - Lung
@@ -107,7 +107,7 @@
 |2|Stapes<br>Styloid process<br>Hyoid :: lesser horn|Stapedius<br>Facial muscles<br>Digastric muscle :: posterior belly<br>Stylohyoid|CN VII|
 |3|Hyoid :: greater horn|Stylopharyngeus|CN IX|
 |4|Laryngeal cartilages|Palatal muscles - Tensor veli palatini<br>Pharyngeal muscles - Stylopharyngeus<br>Levator veli palatini<br>Cricothyroid|CN X :: pharyngeal branch<br>CN X :: superior laryngeal nerve|
-|6|Laryngeal cartilages|Laryngeal muscles - Cricothyroid|CN X :: recurrent laryngeal nerve| 
+|6|Laryngeal cartilages|Laryngeal muscles - Cricothyroid|CN X :: recurrent laryngeal nerve|
 
 ### Pharyngeal Pouch
 

@@ -37,16 +37,16 @@
 ## Layers of Gastrointestinal Tract {MSMS}
 
 - Mucosa layer
-	- Epithelium
-	- Lamina propria
-	- Muscularis mucosa
+  - Epithelium
+  - Lamina propria
+  - Muscularis mucosa
 - Submucosa layer
-	- Submucosal gland
-	- Submucosal [Meissner] plexus
+  - Submucosal gland
+  - Submucosal [Meissner] plexus
 - Muscular layer
-	- Inner circular layer
-	- Myenteric [Auerbach] plexus
-	- Outer longitudinal layer
+  - Inner circular layer
+  - Myenteric [Auerbach] plexus
+  - Outer longitudinal layer
 - Serous layer
 
 ![](../Figures/Layers%20of%20Gastrointestinal%20Tract.png)
@@ -122,8 +122,8 @@
 - Osmotic
 - Secretory
 - Exudative
-	- Infectious
-	- Inflammatory
+  - Infectious
+  - Inflammatory
 - Dysmotility
 
 ## Mechanisms of Action of Laxatives {SHELB}
@@ -215,13 +215,13 @@
 - Internal hernia
 - Marginal ulcer
 - Dumping syndrome
-	- Early dumping syndrome
-	- Late dumping syndrome
+  - Early dumping syndrome
+  - Late dumping syndrome
 - Postvagotomy diarrhea
 - Alkaline gastritis
 - Nutritional deficiencies
-	- Vitamin B<sub>12</sub> deficiency
-	- Iron deficiency
+  - Vitamin B<sub>12</sub> deficiency
+  - Iron deficiency
 
 ## Types of Bariatric Surgery
 
@@ -372,13 +372,13 @@
 ## Management of Hepatocellular Carcinoma (HCC)
 
 - w/o vascular invasion / extrahepatic metastasis
-	- Resectable tumor(s) & Child-Pugh score ≤ B: Resection / (RFA ± TACE)
-	- Resectable tumor(s): Liver transplantation
-	- Non-resectable tumor(s) & Child-Pugh score ≤ B: RFA & TACE
-	- Non-resectable tumor(s) & Child-Pugh score = C: Supportive care
+  - Resectable tumor(s) & Child-Pugh score ≤ B: Resection / (RFA ± TACE)
+  - Resectable tumor(s): Liver transplantation
+  - Non-resectable tumor(s) & Child-Pugh score ≤ B: RFA & TACE
+  - Non-resectable tumor(s) & Child-Pugh score = C: Supportive care
 - w/ vascular invasion / extrahepatic metastasis
-	- Child-Pugh score ≤ B: Chemotherapy
-	- Child-Pugh score = C: Supportive care
+  - Child-Pugh score ≤ B: Chemotherapy
+  - Child-Pugh score = C: Supportive care
 
 ![](../Figures/Barcelona%20Clinic%20Liver%20Cancer%20(BCLC)%20Staging.gif)
 
@@ -387,16 +387,16 @@
 ### Milan Criteria
 
 - Resectable tumor(s):
-	- 1 tumor: < 5 cm
-	- ≤ 3 tumors: each < 3 cm
+  - 1 tumor: < 5 cm
+  - ≤ 3 tumors: each < 3 cm
 - No vascular invasion
 - No extrahepatic metastasis
 
 ### UCSF Criteria
 
 - Resectable tumor(s):
-	- 1 tumor: < 6.5 cm
-	- ≤ 3 tumors: each < 4.5 cm & total < 8 cm
+  - 1 tumor: < 6.5 cm
+  - ≤ 3 tumors: each < 4.5 cm & total < 8 cm
 - No vascular invasion
 - No extrahepatic metastasis
 
@@ -416,17 +416,17 @@
 |Clay-colored stool|-|+|+|
 
 - Indirect
-	- Gilbert syndrome
-	- Crigler-Najjar syndrome
-	- Neonatal jaundice
-	- Extravascular hemolysis
+  - Gilbert syndrome
+  - Crigler-Najjar syndrome
+  - Neonatal jaundice
+  - Extravascular hemolysis
 - Direct
-	- Dubin-Johnson syndrome
-	- Rotor syndrome
-	- Obstructive jaundice
+  - Dubin-Johnson syndrome
+  - Rotor syndrome
+  - Obstructive jaundice
 - Mixed
-	- Hepatitis
-	- Cirrhosis
+  - Hepatitis
+  - Cirrhosis
 
 ## Charcot Triad of Cholangitis
 

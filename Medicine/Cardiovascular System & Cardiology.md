@@ -332,8 +332,8 @@
 
 - Automaticity
 - Triggered activity
-	- Early after-depolarization (EAD)
-	- Delayed after-depolarization (DAD)
+  - Early after-depolarization (EAD)
+  - Delayed after-depolarization (DAD)
 - Reentry
 - Conduction delay
 
@@ -347,8 +347,8 @@
 ### Supraventricular Arrhythmias :: Atrial
 
 - Atrial tachycardia (AT)
-	- Focal atrial tachycardia (FAT)
-	- Multifocal atrial tachycardia (MAT)
+  - Focal atrial tachycardia (FAT)
+  - Multifocal atrial tachycardia (MAT)
 - Atrial flutter
 - Atrial fibrillation (AF)
 
@@ -441,14 +441,14 @@
 ## Treatment of Atrial Fibrillation
 
 - Cardioversion
-	- Duration < 48 hours<br>Hemodynamically unstable
-	- Anticoagulated<br>No atrial thrombus on TEE
+  - Duration < 48 hours<br>Hemodynamically unstable
+  - Anticoagulated<br>No atrial thrombus on TEE
 - Anticoagulants
-	- Duration > 48 hours
-	- CHA<sub>2</sub>DS<sub>2</sub>-VASc ≥ 2
+  - Duration > 48 hours
+  - CHA<sub>2</sub>DS<sub>2</sub>-VASc ≥ 2
 - Antiarrhythmics
-	- Rate control :: Class 2 & 4 & Digoxin
-	- Rhythm control :: Class 1 & 3
+  - Rate control :: Class 2 & 4 & Digoxin
+  - Rhythm control :: Class 1 & 3
 
 ## Etiology of Torsades de Pointes
 
@@ -534,8 +534,8 @@
 
 - Saphenous vein graft
 - Internal mammary artery (IMA) graft
-	- Left internal mammary artery (LIMA) graft
-	- Right internal mammary artery (RIMA) graft
+  - Left internal mammary artery (LIMA) graft
+  - Right internal mammary artery (RIMA) graft
 - Radial artery graft
 
 ## Comparison Between Biosprosthetic and Mechanical Heart Valves
@@ -584,19 +584,19 @@
 ## Vasculitis
 
 - Large-vessel
-	- Takayasu arteritis
-	- Giant cell arteritis [Temporal arteritis]
+  - Takayasu arteritis
+  - Giant cell arteritis [Temporal arteritis]
 - Medium-vessel
-	- Kawasaki disease
-	- Polyarteritis nodosa
-	- Thromboangiitis obliterans [Buerger disease]
+  - Kawasaki disease
+  - Polyarteritis nodosa
+  - Thromboangiitis obliterans [Buerger disease]
 - Small-vessel
-	- ANCA-associated vasculitis (AAV)
-		- Granulomatosis with polyangiitis (GPA) [Wegener's granulomatosis]
-		- Eosinophilic granulomatosis with polyangiitis (EGPA) [Churg-Strauss syndrome]
-		- Microscopic polyangiitis
-	- IgA vasculitis [Henoch-Schonlein purpura (HSP)]
-	- Cryoglobulinemic vasculitis
+  - ANCA-associated vasculitis (AAV)
+    - Granulomatosis with polyangiitis (GPA) [Wegener's granulomatosis]
+    - Eosinophilic granulomatosis with polyangiitis (EGPA) [Churg-Strauss syndrome]
+    - Microscopic polyangiitis
+  - IgA vasculitis [Henoch-Schonlein purpura (HSP)]
+  - Cryoglobulinemic vasculitis
 
 ![](../Figures/Vasculitis.png)
 
@@ -658,11 +658,11 @@
 ## Duke Criteria for Infective Endocarditis
 
 - Major
-	- Microbiological evidence
-	- Endocardial involvement
+  - Microbiological evidence
+  - Endocardial involvement
 - Minor
-	- Fever
-	- Vascular phenomena
-	- Immunologic phenomena
-	- Microbiological evidence
-	- Risk factors
+  - Fever
+  - Vascular phenomena
+  - Immunologic phenomena
+  - Microbiological evidence
+  - Risk factors

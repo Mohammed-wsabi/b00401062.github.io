@@ -33,12 +33,12 @@
 ### Shunt (↓ V/Q)
 
 - Anatomic shunt (↑ Q)
-	- Intracardiac shunt
-	- Pulmonary arteriovenous malformation (AVM)
-	- Hepatopulmonary syndrome
+  - Intracardiac shunt
+  - Pulmonary arteriovenous malformation (AVM)
+  - Hepatopulmonary syndrome
 - Physiologic shunt (↓ V)
-	- Obstructive lung diseases
-	- Alveolar lung diseases
+  - Obstructive lung diseases
+  - Alveolar lung diseases
 
 ### Dead Space (↑ V/Q)
 

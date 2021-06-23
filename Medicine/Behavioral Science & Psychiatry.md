@@ -124,7 +124,7 @@
 - Post-traumatic stress disorder (PTSD)
 - Acute stress disorder
 - Obsessive-compulsive disorder (OCD)
-	- Body dysmorphic disorder
+  - Body dysmorphic disorder
 
 ### Dissociative Disorder
 

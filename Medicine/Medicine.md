@@ -246,23 +246,23 @@
 ## Etiology of Shortness of Breath (SOB)
 
 - Heart
-	- Pericardium
-	- Myocardium
-	- Endocardium
-	- Coronary arteries
-	- Conduction system
+  - Pericardium
+  - Myocardium
+  - Endocardium
+  - Coronary arteries
+  - Conduction system
 - Chest
-	- Ribs
-	- Pleura
-		- **Pneumothorax**
-		- **Pleural effusions**
-		- **Hemothorax**
-	- Alveoli
-		- **Emphysema**
-		- **Pulmonary edema**
-		- **Pneumonia**
-	- Airways
-	- Vessels
+  - Ribs
+  - Pleura
+    - **Pneumothorax**
+    - **Pleural effusions**
+    - **Hemothorax**
+  - Alveoli
+    - **Emphysema**
+    - **Pulmonary edema**
+    - **Pneumonia**
+  - Airways
+  - Vessels
 - Blood
 
 ## Etiology of Desaturation in Intubated Patients
@@ -299,12 +299,12 @@
 ## Etiology of Hypoxemia
 
 - PaCO<sub>2</sub> :: normal
-	- A-a gradient :: normal [**Low FiO<sub>2</sub>**]
-	- A-a gradient :: high
-		- O<sub>2</sub> :: uncorrectable [**Shunt**]
-		- O<sub>2</sub> :: correctable
-			- V/Q :: normal [**Diffusion limitation**]
-			- V/Q :: mismatch [**Dead space**]
+  - A-a gradient :: normal [**Low FiO<sub>2</sub>**]
+  - A-a gradient :: high
+    - O<sub>2</sub> :: uncorrectable [**Shunt**]
+    - O<sub>2</sub> :: correctable
+      - V/Q :: normal [**Diffusion limitation**]
+      - V/Q :: mismatch [**Dead space**]
 - PaCO<sub>2</sub> :: high [**Hypoventilation**]
 
 ## Workup of Acid-Base Disturbances
@@ -319,39 +319,39 @@
 ## Workup of Metabolic Acidosis
 
 - Anion gap :: normal {HARDDS}
-	- Urine anion gap :: negative
-		- **Hyperalimentation**
-		- **Diarrhea**
-		- **Saline**
-	- Urine anion gap :: positive
-		- **1° Adrenal insufficiency**
-		- **Renal tubular acidosis (RTA)**
-		- **Diuretics** :: Acetazolamide & K-sparing diuretics
+  - Urine anion gap :: negative
+    - **Hyperalimentation**
+    - **Diarrhea**
+    - **Saline**
+  - Urine anion gap :: positive
+    - **1° Adrenal insufficiency**
+    - **Renal tubular acidosis (RTA)**
+    - **Diuretics** :: Acetazolamide & K-sparing diuretics
 - Anion gap :: high {MUDPILES}
-	- **Methanol**
-	- **Uremia**
-	- **DKA**
-	- **Propylene glycol**
-	- **Iron & Isoniazid**
-	- **Lactate**
-	- **Ethanol & Ethylene glycol**
-	- **Salicylates**
+  - **Methanol**
+  - **Uremia**
+  - **DKA**
+  - **Propylene glycol**
+  - **Iron & Isoniazid**
+  - **Lactate**
+  - **Ethanol & Ethylene glycol**
+  - **Salicylates**
 
 ## Workup of Metabolic Alkalosis
 
 - Urine Cl < 20 [Saline-responsive]
-	- **Vomiting**
-	- **Laxatives**
-	- **Cystic fibrosis**
+  - **Vomiting**
+  - **Laxatives**
+  - **Cystic fibrosis**
 - Urine Cl > 20 [Saline-resistant]
-	- Normotensive
-		- **Diuretics** :: Loop diuretics & Thiazide
-		- **Bartter syndrome**
-		- **Gitelman syndrome**
-	- Hypertensive
-		- **Hyperaldosteronism**
-		- **Liddle syndrome**
-		- **Syndrome of apparent mineralocorticoid excess (SAME)**
+  - Normotensive
+    - **Diuretics** :: Loop diuretics & Thiazide
+    - **Bartter syndrome**
+    - **Gitelman syndrome**
+  - Hypertensive
+    - **Hyperaldosteronism**
+    - **Liddle syndrome**
+    - **Syndrome of apparent mineralocorticoid excess (SAME)**
 
 ## ECG Changes in Electrolyte Disturbances
 
@@ -380,45 +380,45 @@
 ## Workup of Hyponatremia
 
 - Serum osmolality < 280 mOsm/kg [Hypotonic]
-	- Volume status :: hypovolemic
-		- Urine Na < 20 & FE<sub>Na</sub> < 1%
-			- **GI losses**
-			- **Skin losses**
-			- **Third spacing**
-		- Urine Na > 20 & FE<sub>Na</sub> > 1%
-			- **Diuretics**
-			- **1° Adrenal insufficiency**
-	- Volume status :: euvolemic
-		- Urine osmolality < 100 mOsm/kg
-			- **Polydipsia**
-		- Urine osmolality > 100 mOsm/kg
-			- **SIADH**
-			- **Hypothyroidism**
-	- Volume status :: hypervolemic
-		- Urine Na < 20 & FE<sub>Na</sub> < 1%
-			- **Heart failure**
-			- **Hepatic failure**
-		- Urine Na > 20 & FE<sub>Na</sub> > 1%
-			- **Renal failure**
+  - Volume status :: hypovolemic
+    - Urine Na < 20 & FE<sub>Na</sub> < 1%
+      - **GI losses**
+      - **Skin losses**
+      - **Third spacing**
+    - Urine Na > 20 & FE<sub>Na</sub> > 1%
+      - **Diuretics**
+      - **1° Adrenal insufficiency**
+  - Volume status :: euvolemic
+    - Urine osmolality < 100 mOsm/kg
+      - **Polydipsia**
+    - Urine osmolality > 100 mOsm/kg
+      - **SIADH**
+      - **Hypothyroidism**
+  - Volume status :: hypervolemic
+    - Urine Na < 20 & FE<sub>Na</sub> < 1%
+      - **Heart failure**
+      - **Hepatic failure**
+    - Urine Na > 20 & FE<sub>Na</sub> > 1%
+      - **Renal failure**
 - Serum osmolality 280 ~ 295 mOsm/kg [Isotonic]
-	- **Hyperlipidemia**
-	- **Hyperproteinemia**
+  - **Hyperlipidemia**
+  - **Hyperproteinemia**
 - Serum osmolality > 295 mOsm/kg [Hypertonic]
-	- **Hyperglycemia**
+  - **Hyperglycemia**
 
 ## Workup of Hypernatremia
 
 - Urine osmolality < 600 mOsm/kg
-	- **Diabetes insipidus**
-	- **Diuretics** :: osmotic
+  - **Diabetes insipidus**
+  - **Diuretics** :: osmotic
 - Urine osmolality > 600 mOsm/kg
-	- Urine Na < 25
-		- **GI losses**
-		- **Skin losses**
-		- **Seizures**
-		- **Eexercise**
-	- Urine Na > 100
-		- **Fluids** :: hypertonic saline
+  - Urine Na < 25
+    - **GI losses**
+    - **Skin losses**
+    - **Seizures**
+    - **Eexercise**
+  - Urine Na > 100
+    - **Fluids** :: hypertonic saline
 
 ## Treatment of Hyperkalemia
 
@@ -564,16 +564,16 @@
 
 - Phlebotomy
 - Chelation
-	- Deferasirox
-	- Deferoxamine
-	- Deferiprone
+  - Deferasirox
+  - Deferoxamine
+  - Deferiprone
 
 ## Treatment of Wilson Disease
 
 - Zinc
 - Chelation
-	- Penicillamine
-	- Trientine
+  - Penicillamine
+  - Trientine
 
 ## Symptoms of Lesch-Nyhan Syndrome {HGPRT}
 

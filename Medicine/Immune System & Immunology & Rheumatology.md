@@ -272,13 +272,13 @@
 ## Etiology of Cold Sensitive Antibodies (CSA)
 
 - Infection
-	- Mycoplasma
-	- HCV
-	- EBV
+  - Mycoplasma
+  - HCV
+  - EBV
 - Autoimmune disorders
 - IgM monoclonal gammopathy
-	- Waldenström macroglobulinemia
-	- IgM monoclonal gammopathy of undetermined signifi- cance (MGUS)
+  - Waldenström macroglobulinemia
+  - IgM monoclonal gammopathy of undetermined signifi- cance (MGUS)
 
 ## Presentation of Sarcoidosis {GAUSH}
 
@@ -354,13 +354,13 @@
 ## Disorders Associated with Rheumatoid Arthritis
 
 - Felty syndrome
-	- Rheumatoid arthritis
-	- Splenomegaly
-	- Neutropenia
+  - Rheumatoid arthritis
+  - Splenomegaly
+  - Neutropenia
 - Caplan syndrome
-	- Rheumatoid arthritis
-	- Pneumoconiosis
-	- Lung nodules
+  - Rheumatoid arthritis
+  - Pneumoconiosis
+  - Lung nodules
 
 ## Treatment of Rheumatoid Arthritis
 
@@ -402,15 +402,15 @@
 ## Diagnostic Criteria for Antiphospholipid Syndrome (APS)
 
 - Clinical criteria ≥ 1
-	- Vascular thrombosis
-	- Pregnancy morbidity
-		- Unexplained fetal death > 10 weeks of gestation
-		- Premature births of due to eclampsia / placental insufficiency
-		- Three unexplained consecutive spontaneous abortions < 10 weeks of gestation
+  - Vascular thrombosis
+  - Pregnancy morbidity
+    - Unexplained fetal death > 10 weeks of gestation
+    - Premature births of due to eclampsia / placental insufficiency
+    - Three unexplained consecutive spontaneous abortions < 10 weeks of gestation
 - Laboratory criteria ≥ 1
-	- Lupus anticoagulant at least twice > 12 weeks apart
-	- Anti-cardiolipin at least twice > 12 weeks apart
-	- Anti-β<sub>2</sub> glycoprotein at least twice > 12 weeks apart
+  - Lupus anticoagulant at least twice > 12 weeks apart
+  - Anti-cardiolipin at least twice > 12 weeks apart
+  - Anti-β<sub>2</sub> glycoprotein at least twice > 12 weeks apart
 
 ## Presentation of Adult-onset Still's Disease
 

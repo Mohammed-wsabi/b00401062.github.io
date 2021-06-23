@@ -78,8 +78,8 @@
 - Anemia of chronic disease (ACD)
 - Iron deficiency anemia (IDA)
 - Sideroblastic anemia
-	- Lead poisoning
-	- Vitamin B<sub>6</sub> deficiency
+  - Lead poisoning
+  - Vitamin B<sub>6</sub> deficiency
 
 ### Normocytic Anemia :: Non-hemolytic Anemia
 
@@ -103,22 +103,22 @@
 |Jaundice|-|+|
 
 - Intravascular {TIMP}
-	- Transfusion
-	- Infusion
-	- Macroangiopathic hemolytic anemia (MAHA)
-	- Microangiopathic hemolytic anemia (MAHA)
-		- Disseminated intravascular coagulation (DIC)
-		- Thrombotic thrombocytopenic purpura (TTP)
-		- Hemolytic uremic syndrome (HUS)
-	- Paroxysmal nocturnal hematuria (PNH)
+  - Transfusion
+  - Infusion
+  - Macroangiopathic hemolytic anemia (MAHA)
+  - Microangiopathic hemolytic anemia (MAHA)
+    - Disseminated intravascular coagulation (DIC)
+    - Thrombotic thrombocytopenic purpura (TTP)
+    - Hemolytic uremic syndrome (HUS)
+  - Paroxysmal nocturnal hematuria (PNH)
 - Extravascular {PHAGES}
-	- Pyruvate kinase deficiency
-	- HbC disease
-	- Hereditary spherocytosis
-	- Autoimmune hemolytic anemia (AHA)
-	- G6PD deficiency
-	- Elliptocytosis
-	- Sickle cell disease (SCD)
+  - Pyruvate kinase deficiency
+  - HbC disease
+  - Hereditary spherocytosis
+  - Autoimmune hemolytic anemia (AHA)
+  - G6PD deficiency
+  - Elliptocytosis
+  - Sickle cell disease (SCD)
 
 ### Macrocytic Anemia :: Megaloblastic
 
@@ -157,17 +157,17 @@
 
 - Fanconi anemia
 - Virus
-	- Parvovirus B19
-	- EBV
-	- CMV
-	- HIV
-	- Hepatitis virus
+  - Parvovirus B19
+  - EBV
+  - CMV
+  - HIV
+  - Hepatitis virus
 - Drugs
-	- Carbamazepine
-	- Methimazole
-	- Propylthiouracil
-	- NSAIDs
-	- Chloramphenicol
+  - Carbamazepine
+  - Methimazole
+  - Propylthiouracil
+  - NSAIDs
+  - Chloramphenicol
 - Toxins :: Benzene
 - Radiation
 
@@ -199,18 +199,18 @@
 - Polyneuropathy
 - Psychological disturbances
 - Precipitation
-	- Starvation
-	- Alcohol
-	- Cytochrome P-450 (CYP450) inducers
+  - Starvation
+  - Alcohol
+  - Cytochrome P-450 (CYP450) inducers
 
 ## Treatment of Polycythemia
 
 - Phlebotomy
 - Antiplatelets :: Aspirin
 - Cytoreductive agents
-	- Hydroxyurea
-	- Interferon
-	- Busulfan
+  - Hydroxyurea
+  - Interferon
+  - Busulfan
 
 ## Types of Transfusion Reactions
 
@@ -314,17 +314,17 @@
 ## Diagnosis of Multiple Myeloma
 
 - Histology of bone marrow &/ tumors
-	- Clonal bone marrow plasma cells > 10%
-	- Plasmacytoma
+  - Clonal bone marrow plasma cells > 10%
+  - Plasmacytoma
 - Evidence of end-organ damages {CRAB}
-	- Hypercalcemia
-	- Renal failure
-	- Anemia
-	- Bone lesions
+  - Hypercalcemia
+  - Renal failure
+  - Anemia
+  - Bone lesions
 - Evidence of inevitable end-organ damages
-	- Free light chain (FLC) ratio > 100
-	- Clonal bone marrow plasma cell > 60%
-	- Bone lesions on MRI > 1
+  - Free light chain (FLC) ratio > 100
+  - Clonal bone marrow plasma cell > 60%
+  - Bone lesions on MRI > 1
 
 ## Presentation of Hemophagocytic Lymphohisticytosis (HLH)
 
@@ -493,23 +493,23 @@
 ## Treatment of Thrombotic Thrombocytopenic Purpura (TTP)
 
 - Immunosuppression
-	- Steroids
-	- Rituximab
+  - Steroids
+  - Rituximab
 - Plasma exchange therapy (PEX)
 
 ## Treatment of Immune Thrombocytopenic Purpura (ITP)
 
 - Immunosuppression
-	- Steroids
-	- Rituximab
+  - Steroids
+  - Rituximab
 - Intravenous immunoglobulin (IVIG)
 - Splenectomy
 
 ## Indications for Thrombolytics
 
 - Acute coronary syndrome
-	- Duration < 12 ~ 24 hours
-	- PCI > 2 hours
+  - Duration < 12 ~ 24 hours
+  - PCI > 2 hours
 - Ischemic stroke
-	- Duration < 3 ~ 4.5 hours
-	- BP < 185/110 mmHg
+  - Duration < 3 ~ 4.5 hours
+  - BP < 185/110 mmHg

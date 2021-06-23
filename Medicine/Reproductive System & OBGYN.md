@@ -135,16 +135,16 @@
 ## Etiology of Elevated AFP
 
 -  Germ cell tumors (GCT)
-	- Endodermal sinus tumor (EST)
-	- Embryonal carcinoma
-	- Teratoma
+  - Endodermal sinus tumor (EST)
+  - Embryonal carcinoma
+  - Teratoma
 - Neural tube defects :: open
-	- Anencephaly
-	- Encephalocele
-	- Spina bifida
+  - Anencephaly
+  - Encephalocele
+  - Spina bifida
 - Abdominal wall defects
-	- Gastroschisis
-	- Omphalocele
+  - Gastroschisis
+  - Omphalocele
 - Fetal demise
 - Multiple gestation
 - Placental abruption
@@ -274,13 +274,13 @@
 - Attitude: flexed & neutral & extended
 - Lie: longitudinal & oblique & transverse
 - Presentation
-	- Cephalic: vertex [occiput] & sinciput & brow & face & chin
-	- Breech: frank & complete & incomplete [footling]
-	- Shoulder: arm & shoulder & trunk
+  - Cephalic: vertex [occiput] & sinciput & brow & face & chin
+  - Breech: frank & complete & incomplete [footling]
+  - Shoulder: arm & shoulder & trunk
 - Positions
-	- Anterior: right anterior & anterior & left anterior
-	- Transverse: right transverse & left transverse
-	- Posterior: right posterior & posterior & left posterior
+  - Anterior: right anterior & anterior & left anterior
+  - Transverse: right transverse & left transverse
+  - Posterior: right posterior & posterior & left posterior
 
 ### Pelvis
 
@@ -323,9 +323,9 @@
 - Malpresentation
 - Cord prolapse
 - Abnormal placentation
-	- Placenta previa
-	- Vasa previa
-	- Placenta accreta
+  - Placenta previa
+  - Vasa previa
+  - Placenta accreta
 - Uterine rupture
 - Prior uterine surgery
 - Mechanical obstruction to vaginal birth
@@ -513,14 +513,14 @@
 ## Bethesda System for Pap Smear Results
 
 - Squamous cell abnormalities
-	- Atypical squamous cell (ASC)
-	- Low-grade squamous intraepithelial lesion (LSIL)
-	- High-grade squamous intraepithelial lesion (HSIL)
-	- Squamous cell carcinoma
+  - Atypical squamous cell (ASC)
+  - Low-grade squamous intraepithelial lesion (LSIL)
+  - High-grade squamous intraepithelial lesion (HSIL)
+  - Squamous cell carcinoma
 - Glandular cell abnormalities
-	- Atypical glandular cell (AGC)
-	- Adenocarcinoma in situ (AIS)
-	- Adenocarcinoma
+  - Atypical glandular cell (AGC)
+  - Adenocarcinoma in situ (AIS)
+  - Adenocarcinoma
 
 ![](../Figures/Bethesda%20System%20for%20Pap%20Smear%20Results.jpg)
 

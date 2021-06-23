@@ -95,22 +95,22 @@
 ## Types of Suture Materials
 
 - Non-absorbable
-	- Natural
-		- Cotton
-		- Silk
-		- Steel
-	- Synthetic
-		- Nylon
-		- Polypropylene
-		- Polyester
+  - Natural
+    - Cotton
+    - Silk
+    - Steel
+  - Synthetic
+    - Nylon
+    - Polypropylene
+    - Polyester
 - Absorbable
-	- Natural
-		- Collagen [Catgut]
-	- Synthetic
-		- Vicryl
-		- Monocryl
-		- Dexon
-		- Polydioxanone (PDS)
+  - Natural
+    - Collagen [Catgut]
+  - Synthetic
+    - Vicryl
+    - Monocryl
+    - Dexon
+    - Polydioxanone (PDS)
 
 ## Types of Wound Closure
 
@@ -143,15 +143,15 @@
 
 - Random
 - Axial
-	- Pedicled
-	- Free
+  - Pedicled
+  - Free
 
 ### Proximity
 
 - Local
-	- Advancement
-	- Rotation
-	- Transposition
+  - Advancement
+  - Rotation
+  - Transposition
 - Regional
 - Distant
 

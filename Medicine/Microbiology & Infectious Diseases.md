@@ -855,8 +855,8 @@
 
 - Penicillin :: Piperacillin & Ticarcillin
 - Cephalosporins
-	- 3°: Ceftazidime & Cefoperazone
-	- 4°: Cefepime
+  - 3°: Ceftazidime & Cefoperazone
+  - 4°: Cefepime
 - Carbapenems - Ertapenem
 - Monobactams
 - Fluoroquinolones - Moxifloxacin
@@ -878,8 +878,8 @@
 ## VDRL/RPR False Positives {VDRL}
 
 - Virus
-	- Hepatitis virus
-	- EBV
+  - Hepatitis virus
+  - EBV
 - Drugs
 - Rheumatic fever & Rheumatoid arthritis
 - Lupus & Leprosy
