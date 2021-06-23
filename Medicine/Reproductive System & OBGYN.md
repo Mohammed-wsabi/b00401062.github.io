@@ -375,7 +375,7 @@
 ## Etiology of Secondary Amenorrhea
 
 |Etiology|GnRH|LH & FSH|SH|
-|-|-|-|-|-|
+|-|-|-|-|
 |Pregnancy|↓|↓|↑|
 |Polycystic ovary syndrome (PCOS)|↓|↓|↑|
 |Menopause [Ovarian failure]|↑|↑|↓|
