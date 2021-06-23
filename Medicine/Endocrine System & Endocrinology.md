@@ -208,14 +208,13 @@
 |Diagnosis|GnRH|LH & FSH|SH|
 |-|-|-|-|
 |Kallmann syndrome|↓ (1°)|↓|↓|
-|Hypopituitarism|↑|↓ (1°)|↓|
 |Hypothyroidism|↓|↓|↓|
 |Hyperprolactinemia|↓|↓|↓|
+|Hypopituitarism|↑|↓ (1°)|↓|
 |Klinefelter syndrome|↑|↑|↓ (1°)|
 |Turner syndrome|↑|↑|↓ (1°)|
+|Menopause [Ovarian failure]|↑|↑|↓ (1°)|
 |Resistant ovary [Savage] syndrome|↑|↑|↓|
-|Ovarian failure|↑|↑|↓ (1°)|
-|Menopause|↑|↑|↓ (1°)|
 |Androgen insensitive syndrome (AIS)|↑|↑|↑|
 |Polycystic ovary syndrome (PCOS)|↓|↓|↑|
 |Pregnancy|↓|↓|↑ (1°)|
