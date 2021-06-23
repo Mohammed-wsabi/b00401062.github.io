@@ -401,6 +401,13 @@
 - Cardiovascular disease
 - Sleep disturbances
 
+## Treatment of Menopause
+
+- Hormone replacement therapy (HRT)
+- Topical estrogen
+- SSRI & SNRI
+- Calcium & Vitamin D supplements
+
 ## Rotterdam Criteria for Diagnosis of Polycystic Ovary Syndrome (PCOS)
 
 - Anovulation
