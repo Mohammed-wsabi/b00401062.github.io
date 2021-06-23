@@ -295,7 +295,7 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |Mood stabilizer|Lithium|Bipolar|
-|D<sub>2</sub> & 5-HT<sub>2</sub> antagonists|2° Antipsychotics|Bipolar|
+|D<sub>2</sub> antagonists|2° Antipsychotics|Bipolar|
 |Na channel blockers|Carbamazepine|Bipolar<br>Seizure|
 |↑ GABA|Valproate|Bipolar<br>Seizure|
 |-|Lamotrigine|Bipolar<br>Seizure|
@@ -308,6 +308,12 @@
 |GABA-A agonists|Benzodiazepine|Anxiety|
 |5-HT<sub>1</sub> agonists|Buspirone|Anxiety|
 |β antagonists|Propranolol|Anxiety|
+
+## Mechanisms of Action of Medications for Tourette Syndrome
+
+|Mechanism|Medication|
+|-|-|
+|Vesicular transporter inhibitors|Tetrabenazine|
 
 ## Somatic Disorders
 
