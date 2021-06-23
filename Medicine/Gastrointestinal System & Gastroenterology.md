@@ -310,6 +310,11 @@
 
 ![](../Figures/Anorectal%20Malformation.jpg)
 
+## Disorders Associated with Familial Adenomatous Polyposis (FAP)
+
+- Gardner syndrome
+- Turcot syndrome
+
 ## Etiology of Ascites
 
 ||SAAG < 1.1|SAAG > 1.1|
