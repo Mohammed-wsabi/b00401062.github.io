@@ -314,7 +314,7 @@
 |Mechanism|Medication|
 |-|-|
 |Vesicular transporter inhibitors|Tetrabenazine|
-|D<sub>2</sub> antagonists|2° Antipsychotics|
+|D<sub>2</sub> antagonists|Antipsychotics|
 |α<sub>2</sub> agonists|Clonidine|
 
 ## Somatic Disorders
