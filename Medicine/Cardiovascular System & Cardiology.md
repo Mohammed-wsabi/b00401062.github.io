@@ -423,7 +423,7 @@
 
 - Congestive heart failure (CHF)
 - Hypertension
-- Age ≥ 75
+- Age ≥ 75 years
 - Diabetes mellitus
 - Stroke / CVA history
 
@@ -431,11 +431,11 @@
 
 - Congestive heart failure (CHF)
 - Hypertension
-- Age ≥ 75
+- Age ≥ 75 years
 - Diabetes mellitus
 - Stroke / CVA history
 - Vascular diseases
-- Age 65 ~ 75
+- Age 65 ~ 75 years
 - Sex :: female
 
 ## Treatment of Atrial Fibrillation
