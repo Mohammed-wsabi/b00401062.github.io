@@ -165,7 +165,7 @@
 
 ## Congenital Adrenal Hyperplasia
 
-|Deficiencies|Aldosterone|Cortisol|Androgen|BP|
+|Deficiency|Aldosterone|Cortisol|Androgen|BP|
 |-|-|-|-|-|
 |17-Hydroxylase|↑|↓|↓|↑|
 |21-Hydroxylase|↓|↓|↑|↓|
