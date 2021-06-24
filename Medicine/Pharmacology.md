@@ -18,7 +18,7 @@
 - Acetaminophen
 - Theophylline
 - Warfarin
-- OCPs
+- Oral contraceptive pills (OCPs)
 
 ### Inhibitors {CIGAR-MASK-QQ}
 
@@ -319,15 +319,15 @@
 |LH agonists|Lutropin & Menotropin|Infertility|
 |FSH agonists|Follitropin & Menotropin|Infertility|
 |hCG agonists|Choriogonadotropin|Infertility|
-|Estrogen agonists|Diethylstilbestrol (DES)|HRT & OCP|
-||Mestranol|HRT & OCP|
+|Estrogen agonists|Diethylstilbestrol (DES)|HRT & Contraception|
+||Mestranol|HRT & Contraception|
 |Estrogen modulators|Clomiphene|PCOS & Ovulation|
 ||Tamoxifen|Breast cancer|
 ||Raloxifene|Breast cancer & Osteoporosis|
-|Progesterone agonists|Progestin|HRT & OCP|
-||Medroxyprogesterone|HRT & OCP|
-||Norethindrone|HRT & OCP|
-||Desogestrel|HRT & OCP|
+|Progesterone agonists|Progestin|HRT & Contraception|
+||Medroxyprogesterone|HRT & Contraception|
+||Norethindrone|HRT & Contraception|
+||Desogestrel|HRT & Contraception|
 |Progesterone antagonists|Mifepristone [RU486]|Abortion|
 |Aromatase inhibitors|Anastrozole|Breast cancer|
 ||Letrozole|Breast cancer|
