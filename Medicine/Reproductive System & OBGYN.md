@@ -73,7 +73,7 @@
 ||17-Hydroxyprogesterone|Corpus luteum|
 |X|Human placental lactogen (hPL)|Placenta|
 ||Progesterone|Corpus luteum & Placenta|
-|Y|CRH|Plcenta|
+|Y|Corticotropin-releasing hormone (CRH)|Placenta|
 
 ![](../Figures/Hormone%20Change%20During%20Pregnancy.png)
 
