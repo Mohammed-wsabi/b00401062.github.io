@@ -363,8 +363,7 @@
 
 |Etiology|Breast|Uterus|
 |-|-|-|
-|Imperforate hymen|+|+|
-|Vaginal septum|+|+|
+|Outflow obstruction|+|+|
 |Anorexia nervosa|+|+|
 |Mullerian agenesis|+|-|
 |Androgen insensitivity syndrome (AIS)|+|-|
