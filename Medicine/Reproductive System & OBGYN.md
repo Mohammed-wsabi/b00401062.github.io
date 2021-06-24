@@ -53,7 +53,7 @@
 |Progesterone<br>DHEAS<br>Androstenedione<br>Testosterone|Adrenal gland|Adrenal gland|
 |Progesterone ← LH|Luteal cells|-|
 |Testosterone ← LH|Theca cells|Leydig cells|
-|Estradiol & Inhibin A & AMH ← FSH|Granulosa cells|Sertoli cells|
+|Estradiol & Inhibin & AMH ← FSH|Granulosa cells|Sertoli cells|
 |Estrone|Adipose cells|Adipose cells|
 |Dihydrotestosterone (DHT)|-|Peripheral cells|
 
