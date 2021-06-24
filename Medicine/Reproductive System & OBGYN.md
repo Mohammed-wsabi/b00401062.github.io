@@ -426,7 +426,7 @@
 - Ovulation induction
   - Aromatase inhibitors
   - Estrogen modulators :: Clomiphene
-- Combined hormonal contraception
+- Hormonal contraceptives
 - Androgen antagonists
 - 5α-Reductase inhibitors
 - Metformin ± Statins
