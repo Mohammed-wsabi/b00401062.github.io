@@ -18,7 +18,7 @@
 - Acetaminophen
 - Theophylline
 - Warfarin
-- Oral contraceptive pills (OCPs)
+- Oral contraceptives (OCPs)
 
 ### Inhibitors {CIGAR-MASK-QQ}
 
