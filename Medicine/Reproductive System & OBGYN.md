@@ -422,6 +422,17 @@
 - Hyperandrogenism
 - Polycystic ovaries
 
+## Treatment of Polycystic Ovary Syndrome (PCOS)
+
+- Ovulation induction
+  - Aromatase inhibitors
+  - Estrogen modulators :: Clomiphene
+- Combined hormonal contraception
+- Androgen antagonists
+- 5α-Reductase inhibitors
+- Metformin ± Statins
+- Lifestyle modifications
+
 ## Pathogens of Genital Tract Infection
 
 |Pathogen|Presentation|Treatment|
@@ -496,7 +507,7 @@
 |GnRH agonist flare protocol|Menstruation|
 |GnRH agonist long protocol|Last luteal phase|
 
-### Triggers for Ovulation
+### Ovulation Induction
 
 - (Follicles > 18 mm) ≥ 2
 - Estradiol per co-dominant follicle > 200 pg/mL
