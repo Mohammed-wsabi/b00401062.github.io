@@ -321,7 +321,7 @@
 |hCG agonists|Choriogonadotropin|Infertility|
 |Estrogen agonists|Diethylstilbestrol (DES)|HRT & OCP|
 ||Mestranol|HRT & OCP|
-|Estrogen modulators|Clomifene|PCOS & Ovulation|
+|Estrogen modulators|Clomiphene|PCOS & Ovulation|
 ||Tamoxifen|Breast cancer|
 ||Raloxifene|Breast cancer & Osteoporosis|
 |Progesterone agonists|Progestin|HRT & OCP|
