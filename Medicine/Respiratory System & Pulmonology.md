@@ -189,7 +189,7 @@
 
 ### Complicated Patients
 
-- Age > 65 y/o
+- Age > 65 years
 - Antibiotics within 3 months
 - Commorbid
 
