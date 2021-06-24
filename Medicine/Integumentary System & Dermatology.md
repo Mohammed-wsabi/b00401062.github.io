@@ -73,7 +73,7 @@
   - Sulfa drugs
   - NSAIDs
   - Iodides
-- OCPs
+- Oral contraceptive pill (OCPs)
 - Sarcoidosis
 - Ulcerative colitis / Crohn disease
 - Microbiology
