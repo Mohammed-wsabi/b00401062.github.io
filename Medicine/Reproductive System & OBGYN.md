@@ -48,22 +48,21 @@
 
 ## Sex Hormone Production
 
-|Hormones|Female|Male|
-|-|-|-|
-|Progesterone<br>DHEAS<br>Androstenedione<br>Testosterone|Adrenal gland|Adrenal gland|
-|Progesterone ← LH|Luteal cells|-|
-|Testosterone ← LH|Theca cells|Leydig cells|
-|Estradiol & Inhibin & AMH ← FSH|Granulosa cells|Sertoli cells|
-|Estrone|Adipose cells|Adipose cells|
-|Dihydrotestosterone (DHT)|-|Peripheral cells|
+|Hormones|Regulation|Female|Male|
+|-|-|-|-|
+|Progesterone<br>DHEA<br>Androstenedione<br>Testosterone|ACTH|Adrenal gland|Adrenal gland|
+|Testosterone<br>Progesterone|LH|Theca cells<br>Luteal cells|Leydig cells|
+|Estradiol<br>Inhibin<br>Anti-Mullerian hormone (AMH)|FSH|Granulosa cells<br>Luteal cells|Sertoli cells|
+|Estrone|-|Adipose cells|Adipose cells|
+|Dihydrotestosterone (DHT)|-|Peripheral cells|Peripheral cells|
 
 ## Estrogens in Females
 
-|Hormone|Precursor|Precursor Site|Enzyme|Enzyme Site|During|
+|Hormone|Precursor|Precursor Site|Enzyme|Enzyme Site|Timing|
 |-|-|-|-|-|-|
 |Estrone|Androstenedione|Adrenal gland|Aromatase|Adipose cells|Post-menopause|
 |Estradiol|Testosterone|Theca cells|Aromatase|Granulosa cells|Non-pregnancy|
-|Estriol|DHEAS|Adrenal gland|Sulfatase|Placenta|Pregnancy|
+|Estriol|DHEA sulfate (DHEAS)|Adrenal gland|Sulfatase|Placenta|Pregnancy|
 
 ## Hormone Change During Pregnancy
 
