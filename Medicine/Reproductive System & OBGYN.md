@@ -323,9 +323,9 @@
 - Malpresentation
 - Cord prolapse
 - Abnormal placentation
+  - Placenta accreta
   - Placenta previa
   - Vasa previa
-  - Placenta accreta
 - Uterine rupture
 - Prior uterine surgery
 - Mechanical obstruction to vaginal birth
@@ -349,7 +349,7 @@
 - Leiomyoma
 - Malignancy
 - Coagulopathy
-- Ovulation :: PCOS
+- Ovulatory dysfunction
 - Endometrium
 - Iatrogenic
 - Not yet classified
