@@ -51,8 +51,9 @@
 |Hormones|Regulation|Female|Male|
 |-|-|-|-|
 |Progesterone<br>DHEA<br>Androstenedione<br>Testosterone|ACTH|Adrenal gland|Adrenal gland|
-|Testosterone<br>Progesterone|LH|Theca cells<br>Luteal cells|Leydig cells|
-|Estradiol<br>Inhibin<br>Anti-Mullerian hormone (AMH)|FSH|Granulosa cells<br>Luteal cells|Sertoli cells|
+|Progesterone|LH|Corpus luteum|Testis|
+|Testosterone|LH|Theca cells|Leydig cells|
+|Anti-Mullerian hormone (AMH)<br>Estradiol<br>Inhibin A & Inhibin B|FSH|Granulosa cells|Sertoli cells|
 |Estrone|-|Adipose cells|Adipose cells|
 |Dihydrotestosterone (DHT)|-|Peripheral cells|Peripheral cells|
 
@@ -71,7 +72,7 @@
 |W|Human chorionic gonadotropin (hCG)|Placenta|
 ||17-Hydroxyprogesterone|Corpus luteum|
 |X|Human placental lactogen (hPL)|Placenta|
-||Progesterone|Corpus luteum & Placenta|
+||Progesterone|Corpus luteum<br>Placenta|
 |Y|Corticotropin-releasing hormone (CRH)|Placenta|
 
 ![](../Figures/Hormone%20Change%20During%20Pregnancy.png)
