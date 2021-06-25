@@ -103,9 +103,7 @@
 ||Pyridostigmine|Myasthenia|
 ||Neostigmine|Muscle relaxant reversal|
 ||Physostigmine|Atropine antidote|
-||Rivastigmine|Alzheimer|
-||Galantamine|Alzheimer|
-||Donepezil|Alzheimer|
+||Rivastigmine<br>Galantamine<br>Donepezil|Alzheimer disease|
 ||Organophosphates<br>Sarin|Glaucoma|
 |MAO inhibitors|Tranylcypromine|Depression|
 ||Phenelzine|Depression|
