@@ -42,9 +42,18 @@
 |Myopathy ::<br/>non-inflammatory|-|↓|↓|Polyphasic|↑|
 |Myopathy ::<br/>inflammatory|Fibrillations|↓|↓|Polyphasic|↑|
 
-## Waves on Evoked Electromyography (EMG)
+## Evoked Electromyography (EMG)
 
-![](../Figures/Waves%20on%20Evoked%20Electromyography%20(EMG).png)
+![](../Figures/Evoked%20Electromyography%20(EMG).png)
+
+## Mechanisms of Action of Muscle Relaxants
+
+|Mechanism|Medication|
+|-|-|
+|ACh release inhibitors|Botulinum toxin|
+|N<sub>M</sub> [Neuromuscular] agonists|Succinylcholine|
+|N<sub>M</sub> [Neuromuscular] antagonists|Atracurium<br>Rocuronium|
+|GABA-B agonists|Baclofen|
 
 ## Types of Fracture
 
@@ -109,12 +118,12 @@
 
 ## Mechanisms of Action of Medications for Osteoporosis
 
-|Mechanism|Medication|Indications|
-|-|-|-|
-|Estrogen modulators|Raloxifene|Osteoporosis|
-|PTH antagonists<br>Osteoblast inducers|Teriparatide :: pulsatile|Osteoporosis|
-|Osteoclast inhibitors|Bisphosphonate [-Dronates]|Osteoporosis|
-|RANKL inhibitors|Denosumab|Osteoporosis|
+|Mechanism|Medication|
+|-|-|
+|Estrogen modulators|Raloxifene|
+|PTH antagonists<br>Osteoblast inducers|Teriparatide :: pulsatile|
+|Osteoclast inhibitors|Bisphosphonate [-Dronates]|
+|RANKL inhibitors|Denosumab|
 
 ## Synovial Fluid Analysis
 
