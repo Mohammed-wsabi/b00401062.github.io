@@ -486,15 +486,20 @@
 - Progressive motility > 32%
 - Total motility > 40%
 
-## Indications of In Vitro Fertilization (IVF)
+## Indications of Assisted Reproductive Technology (ART)
 
-- Female age > 38 years
-- ↓ ovarian reserve
-- Bilateral fallopian tube occlusion
-- Advanced endometriosis
+### Intrauterine Insemination (IUI)
+
+- Cervical factors
+- Male factors
+- Donor sperms
+
+### In Vitro Fertilization (IVF)
+
+- Tubal factors
 - Donor eggs
-- Total motile sperm count (TMSC) < 10 M/mL
 - Genetic screening
+- Failed intrauterine insemination (IUI)
 
 ## Controlled Ovarian Hyperstimulation
 
