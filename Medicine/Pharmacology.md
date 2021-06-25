@@ -48,16 +48,16 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|Na channel activators|Batrachotoxin & Ciguatoxin|-|
+|Na channel activators|Batrachotoxin<br>Ciguatoxin|-|
 |Na channel blockers|Class 1 antiarrhythmics|Arrhythmia|
 ||-Caines|Anesthesia|
-||Amiloride & Triamterene|Diuretics :: K-sparing diuretics|
-||Carbamazepine|Seizure & Bipolar|
+||Amiloride<br>Triamterene|Diuretics :: K-sparing diuretics|
+||Carbamazepine|Seizure<br>Bipolar disorder|
 ||Phenytoin|Seizure|
 ||Calcium|-|
-||Saxitoxin & Tetrodotoxin|-|
-|K channel activators|Diazoxide|Vasodilation & Insulinoma|
-||Minoxidil|Vasodilation & Alopecia|
+||Saxitoxin<br>Tetrodotoxin|-|
+|K channel activators|Diazoxide|Vasodilation<br>Insulinoma|
+||Minoxidil|Vasodilation<br>Alopecia|
 |K channel blockers|Class 3 antiarrhythmics|Arrhythmia|
 ||Sulfonylureas|DM type 2|
 ||Aminopyridine|-|
@@ -66,10 +66,10 @@
 ||-Dipines|Vasodilation|
 ||Dantrolene|Malignant hyperthermia<br>Neuroleptic malignant syndrome (NMS)|
 ||Ethosuximide|Seizure :: absence|
-||Gabapentin<br>Pregabalin|Seizure & Neuropathic pain|
-|Na-K pump blockers|Digoxin & Digitalis|Arrhythmia<br>Inotrope|
+||Gabapentin<br>Pregabalin|Seizure<br>Neuropathic pain|
+|Na-K pump blockers|Digoxin<br>Digitalis|Arrhythmia<br>Inotrope|
 ||Ouabain|-|
-|H-K pump blockers|Proton pump inhibitors (PPI) [-Prazoles]|PUD|
+|H-K pump blockers|Proton pump inhibitors (PPI) [-Prazoles]|Peptic ulcer disease (PUD)|
 |Na-K-2Cl sympoter blockers|Loop diuretics:<br>Furosemide<br>Bumetanide<br>Torsemide|Diuretics|
 |Na-Cl sympoter blockers|Thiazide|Diuretics|
 |Na-I sympoter blockers|Thiocyanate<br>Perchlorate<br>Iodine|Hyperthyroidism|
@@ -88,8 +88,8 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |Tyrosine uptake inhibitors|-|-|
-|Vesicular transporter inhibitors|Reserpine|Huntington|
-||Tetrabenazine|Huntington & Tourette|
+|Vesicular transporter inhibitors|Reserpine|Huntington disease|
+||Tetrabenazine|Huntington disease<br>Tourette syndrome|
 |NE release inhibitors|Bretylium|Arrhythmia|
 ||Guanethidine|Hypertension|
 |NE release inducers|Tyramine|-|
@@ -106,7 +106,7 @@
 ||Rivastigmine|Alzheimer|
 ||Galantamine|Alzheimer|
 ||Donepezil|Alzheimer|
-||Organophosphate & Sarin|Glaucoma|
+||Organophosphates<br>Sarin|Glaucoma|
 |MAO inhibitors|Tranylcypromine|Depression|
 ||Phenelzine|Depression|
 ||Isocarboxazid|Depression|
@@ -129,7 +129,7 @@
 |M agonists|Bethanechol|Urinary retention|
 ||Methacholine|Asthma diagnosis|
 ||Carbachol|Glaucoma|
-||Pilocarpine|Glaucoma & Xerophthalmia & Xerostomia|
+||Pilocarpine|Glaucoma<br>Xerophthalmia<br>Xerostomia|
 |N<sub>N</sub> [Ganglionic] agonists|Nicotine|Stimulant|
 |N<sub>M</sub> [Neuromuscular] agonists|Succinylcholine|Muscle relaxant|
 
@@ -139,34 +139,33 @@
 |-|-|-|
 |M antagonists|Atropine<br>Tropicamide|Mydriasis<br>Cycloplegia|
 ||Benztropine|Parkinson disease|
-||Ipratropium & Tiotropium|Asthma|
+||Ipratropium<br>Tiotropium|Asthma|
 ||Scopolamine|Emesis :: motion sickness|
-||Oxybutynin & Tolterodine|Urinary incontinence|
+||Oxybutynin<br>Tolterodine|Urinary incontinence|
 ||Glycopyrrolate|Anesthesia|
 ||Antipsychotics|-|
 ||Antidepressants :: TCA|-|
 ||1° Antihistamines|-|
 |N<sub>N</sub> [Ganglionic] antagonists|Hexamethonium|-|
 ||Mecamylamine|-|
-|N<sub>M</sub> [Neuromuscular] antagonists|Atracurium|Muscle relaxant|
-||Rocuronium|Muscle relaxant|
+|N<sub>M</sub> [Neuromuscular] antagonists|Atracurium<br>Rocuronium|Muscle relaxant|
 
 ## Mechanisms of Action of Adrenergic Agonists
 
 |Mechanism|Medication|Indications|
 |-|-|-|
 |α<sub>1</sub> agonists|Norepinephrine: α<sub>1</sub> > β<sub>1</sub>|Hypotension|
-||Phenylephrine|Hypotension & Decongestant|
+||Phenylephrine|Hypotension<br>Decongestant|
 ||Midodrine|Hypotension|
 |α<sub>2</sub> agonists|Clonidine|Hypertension<br>Attention-deficit hyperactivity disorder (ADHD)<br>Tourette syndrome<br>Opioid withdrawal|
 ||Brimonidine|Glaucoma|
-||Methyldopa|HTN|
+||Methyldopa|Hypertension (HTN)|
 |β<sub>1</sub> agonists|Dopamine: D > β<sub>1</sub> > α<sub>1</sub>|Inotrope|
 ||Dobutamine: β<sub>1</sub> > β<sub>2</sub>|Inotrope|
 |β<sub>2</sub> agonists|Albuterol|Asthma :: acute|
 ||Salmeterol & Formoterol|Asthma :: chronic|
 ||Terbutaline & Ritodrine|Tocolysis|
-|β agonists|Epinephrine: β > α<sub>1</sub>|Hypotension & Asthma & Shock|
+|β agonists|Epinephrine: β > α<sub>1</sub>|Hypotension<br>Asthma<br>Shock|
 ||Isoproterenol: β<sub>1</sub> = β<sub>2</sub>|-|
 
 ## Mechanisms of Action of Adrenergic Antagonists
@@ -241,7 +240,7 @@
 ||2° Antihistamines:<br>Cetirizine<br>Fexofenadine<br>Loratadine|Allergy|
 ||Antipsychotics|-|
 ||Antidepressants :: TCA|-|
-|H<sub>2</sub> antagonists|Cimetidine<br>Ranitidine<br>Famotidine<br>Nizatidine|PUD|
+|H<sub>2</sub> antagonists|Cimetidine<br>Ranitidine<br>Famotidine<br>Nizatidine|Peptic ulcer disease (PUD)|
 
 ## Mechanisms of Action of Medications Targeting Glutamate Receptor
 
@@ -259,8 +258,8 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|GABA-A agonists|Barbiturates|Anesthesia & Seizure|
-||Benzodiazepines|Anesthesia & Seizure & Insomnia|
+|GABA-A agonists|Barbiturates|Anesthesia<br>Seizure|
+||Benzodiazepines|Anesthesia<br>Seizure<br>Insomnia|
 ||Propofol|Anesthesia|
 ||Etomidate|Anesthesia|
 ||Zolpidem<br>Zaleplon<br>Eszopiclone|Insomnia|
@@ -335,8 +334,8 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |Renin inhibitors|Aliskiren|Hypertension|
-|ACE inhibitors (ACEI)|-Prils|Hypertension & Heart failure (HF)|
-|Angiotensin antagonists (ARB)|-Sartans|Hypertension & Heart failure (HF)|
+|ACE inhibitors (ACEI)|-Prils|Hypertension<br>Heart failure (HF)|
+|Angiotensin antagonists (ARB)|-Sartans|Hypertension<br>Heart failure (HF)|
 |Aldosterone antagonists|Spironolactone<br>Eplerenone|Diuretics|
 
 ## Mechanisms of Action of Medications Targeting Vasopressin Receptor
@@ -357,8 +356,8 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|PGE1 agonists|Misoprostol|Abortion & PUD|
-||Alprostadil|Impotence & PDA maintenance|
+|PGE1 agonists|Misoprostol|Abortion<br>Peptic ulcer disease (PUD)|
+||Alprostadil|Impotence<br>PDA maintenance|
 |PGF2 agonists|Latanoprost|Glaucoma|
 |PGI2 agonists|Epoprostenol|Pulmonary hypertension|
 |TXA2 antagonists|-|-|
@@ -370,9 +369,9 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |PDE inhibitors|Inamrinone & Milrinone|Inotrope|
-||Methylxanthine: Theophylline & Caffeine|Asthma|
-||Sildenafil & Vardenafil|Impotence & Pulmonary hypertension|
-||Dipyridamole & Cilostazol|Antiplatelet & Vasodilation|
+||Methylxanthines:<br>Theophylline<br>Caffeine|Asthma|
+||Sildenafil<br>Vardenafil|Impotence<br>Pulmonary hypertension|
+||Dipyridamole<br>Cilostazol|Antiplatelet<br>Vasodilation|
 |COX inhibitors|NSAIDs:<br>Aspirin<br>Ibuprofen<br>Naproxen<br>Diclofenac<br>Ketorolac<br>Meloxicam<br>Indomethacin|Antipyresis<br>Analgesia<br>Inflammation<br>Tocolysis<br>PDA closure|
 ||Acetaminophen|Antipyresis<br>Analgesia|
 |COX-2 inhibitors|Celecoxib|Arthritis|
@@ -393,7 +392,7 @@
 ||β-glucan|Fungus|
 |Cell membrane inhibitors|Ergosterol|Fungus|
 ||Cholesterol|Human|
-|Nucleotide inhibitors|Purine & Pyrimidine & Folate|-|
+|Nucleotide inhibitors|Purine<br>Pyrimidine<br>Folate|-|
 |DNA inhibitors|DNA|-|
 |RNA inhibitors|RNA|-|
 |Microtubule inhibitors|Microtubule|-|
