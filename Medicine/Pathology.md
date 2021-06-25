@@ -26,6 +26,16 @@
 |Metaplasia|-|-|+|+|
 |Dysplasia|-|-|+|+|
 
+## Metaplasia
+
+|Tissue|Normal|Metaplasia|Stimulus|
+|-|-|-|-|
+|Airways|Pseudostratified columnar epithelium|Squamous epithelium|Cigarette|
+|Esophagus|Squamous epithelium|Columnar epithelium|Gastroesophageal reflux disease (GERD)|
+|Urinary bladder|Transitional epithelium|Squamous epithelium|Bladder stone|
+|Endocervix|Columnar epithelium|Squamous epithelium|Low vaginal pH|
+|Muscle|Muscle tissue|Bone tissue|Trauma|
+
 ## Necrosis & Tissues
 
 |Tissue|Infection|Non-infection|
