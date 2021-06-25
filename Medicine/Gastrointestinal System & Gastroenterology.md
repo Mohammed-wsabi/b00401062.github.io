@@ -171,16 +171,16 @@
 
 ## Mechanisms of Action of Medications for Peptic Ulcer Disease (PUD)
 
-|Mechanism|Medication|Indications|
-|-|-|-|
-|H-K pump blockers|Proton pump inhibitors (PPI) [-Prazoles]|PUD|
-|H<sub>2</sub> antagonists|Cimetidine<br>Ranitidine<br>Famotidine<br>Nizatidine|PUD|
-|PGE1 agonists|Misoprostol|PUD|
-|Antacids|Aluminum hydroxide<br>Calcium carbonate<br>Magnesium hydroxide|PUD|
-|Antimicrobials|Bismuth|PUD|
-||Amoxicillin / Metronidazole|PUD|
-||Clarithromycin|PUD|
-|-|Sucralfate|PUD|
+|Mechanism|Medication|
+|-|-|
+|H-K pump blockers|Proton pump inhibitors (PPI) [-Prazoles]|
+|H<sub>2</sub> antagonists|Cimetidine<br>Ranitidine<br>Famotidine<br>Nizatidine|
+|PGE1 agonists|Misoprostol|
+|Antacids|Aluminum hydroxide<br>Calcium carbonate<br>Magnesium hydroxide|
+|Antimicrobials|Bismuth|
+||Amoxicillin / Metronidazole|
+||Macrolides|
+|-|Sucralfate|
 
 ## Types of Gastrectomy
 
