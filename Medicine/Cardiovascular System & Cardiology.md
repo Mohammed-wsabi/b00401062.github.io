@@ -113,8 +113,8 @@
 ||Norepinephrine: α<sub>1</sub> > β<sub>1</sub>|Inotrope|
 ||Epinephrine: β > α<sub>1</sub>|Inotrope|
 ||Isoproterenol: β<sub>1</sub> = β<sub>1</sub>|Inotrope|
-|PDE inhibitors|Inamrinone & Milrinone|Inotrope|
-|Na-K pump blockers|Digoxin & Digitalis|Inotrope|
+|PDE inhibitors|Inamrinone<br>Milrinone|Inotrope|
+|Na-K pump blockers|Digoxin<br>Digitalis|Inotrope|
 
 ## Inotropic Equivalent (IE)
 
