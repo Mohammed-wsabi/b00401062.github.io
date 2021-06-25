@@ -464,7 +464,7 @@
 |Female|Male|Markers|
 |-|-|-|
 |Theca cell tumor [Thecoma]|Leydig cell tumor|-|
-|Granulosa cell tumor|Sertoli cell tumor|Inhibin|
+|Granulosa cell tumor|Sertoli cell tumor|Inhibin A|
 
 ### Epithelial Tumors
 
