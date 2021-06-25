@@ -91,7 +91,7 @@
 |Vesicular transporter inhibitors|Reserpine|Huntington|
 ||Tetrabenazine|Huntington & Tourette|
 |NE release inhibitors|Bretylium|Arrhythmia|
-||Guanethidine|HTN|
+||Guanethidine|Hypertension|
 |NE release inducers|Tyramine|-|
 ||Ephedrine|Decongestant|
 
@@ -161,7 +161,7 @@
 |α<sub>1</sub> agonists|Norepinephrine: α<sub>1</sub> > β<sub>1</sub>|Hypotension|
 ||Phenylephrine|Hypotension & Decongestant|
 ||Midodrine|Hypotension|
-|α<sub>2</sub> agonists|Clonidine|HTN & ADHD & Tourette & Opioid withdrawal|
+|α<sub>2</sub> agonists|Clonidine|Hypertension<br>Attention-deficit hyperactivity disorder (ADHD)<br>Tourette syndrome<br>Opioid withdrawal|
 ||Brimonidine|Glaucoma|
 ||Methyldopa|HTN|
 |β<sub>1</sub> agonists|Dopamine: D > β<sub>1</sub> > α<sub>1</sub>|Inotrope|
@@ -176,27 +176,25 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|α<sub>1</sub> antagonists|Tamsulosin|BPH|
-||Terazosin|BPH & HTN & PCC|
-||Doxazosin|BPH & HTN & PCC|
-||Prazosin|BPH & HTN & PCC & PTSD|
+|α<sub>1</sub> antagonists|Tamsulosin|Benign prostatic hyperplasia (BPH)|
+||Terazosin<br>Doxazosin<br>Prazosin|Benign prostatic hyperplasia (BPH)<br>Hypertension<br>Pheochromocytoma (PCC)|
 |α<sub>2</sub> antagonists|Mirtazapine|Depression|
-|α antagonists|Phentolamine|PCC|
-||Phenoxybenzamine|PCC|
+|α antagonists|Phentolamine|Pheochromocytoma (PCC)|
+||Phenoxybenzamine|Pheochromocytoma (PCC)|
 ||Antipsychotics|-|
 ||Antidepressants :: TCA|-|
 ||1° Antihistamines|-|
 |β<sub>1</sub> antagonists|Acebutolol|Partial agonists|
 ||Atenolol|Arrhythmia|
-||Bisoprolol|HF|
+||Bisoprolol|Heart failure (HF)|
 ||Esmolol|Arrhythmia & Surgery|
-||Metoprolol|Arrhythmia & HF|
+||Metoprolol|Arrhythmia & Heart failure (HF)|
 |β antagonists|Nadolol|-|
 ||Pindolol|Partial agonists|
 ||Propranolol|Arrhythmia|
 ||Sotalol|Arrhythmia|
 ||Timolol|Arrhythmia & Glaucoma|
-|αβ antagonists|Carvedilol|Arrhythmia & HF|
+|αβ antagonists|Carvedilol|Arrhythmia<br>Heart failure (HF)|
 ||Labetalol|Hypertension|
 
 ## Cholinergic & Adrenergic Effects {DUMBBEELSS}
@@ -223,7 +221,7 @@
 ||Pramipexole|Parkinson|
 ||Ropinirole|Parkinson|
 |D<sub>2</sub> antagonists|Metoclopramide<br>Prochlorperazine<br>Domperidone<br>Droperidol|Emesis|
-||Antipsychotics|Psychosis & Huntington & Tourette|
+||Antipsychotics|Psychosis<br>Huntington disease<br>Tourette syndrome|
 
 ## Mechanisms of Action of Medications Targeting Serotonin Receptor
 
@@ -232,11 +230,11 @@
 |5-HT<sub>1</sub> agonists|Buspirone|Anxiety|
 ||-Triptans|Migraine|
 ||Ergotamine|Migraine|
-|5-HT<sub>2</sub> antagonists|2° Antipsychotics|Psychosis & Bipolar|
+|5-HT<sub>2</sub> antagonists|2° Antipsychotics|Psychosis<br>Bipolar disorder|
 ||Cyproheptadine|Carcinoid syndrome<br>Serotonin syndrome|
 |5-HT<sub>3</sub> antagonists|-Setrons|Emesis|
 |5-HT<sub>4</sub> agonists|Cisapride|Constipation|
-|5-HT modulators|Trazodone|Depression & Insomnia|
+|5-HT modulators|Trazodone|Depression<br>Insomnia|
 
 ## Mechanisms of Action of Medications Targeting Histamine Receptor
 
@@ -319,29 +317,29 @@
 |LH agonists|Lutropin & Menotropin|Infertility|
 |FSH agonists|Follitropin & Menotropin|Infertility|
 |hCG agonists|Choriogonadotropin|Infertility|
-|Estrogen agonists|Diethylstilbestrol (DES)<br>Mestranol|HRT & Contraception|
+|Estrogen agonists|Diethylstilbestrol (DES)<br>Mestranol|Hormone replacement therapy (HRT)<br>Contraception|
 |Estrogen modulators|Clomiphene|Infertility|
 ||Tamoxifen|Breast cancer|
 ||Raloxifene|Breast cancer & Osteoporosis|
-|Progesterone agonists|Progestin<br>Medroxyprogesterone<br>Norethindrone<br>Desogestrel|HRT & Contraception|
+|Progesterone agonists|Progestin<br>Medroxyprogesterone<br>Norethindrone<br>Desogestrel|Hormone replacement therapy (HRT)<br>Contraception|
 |Progesterone antagonists|Mifepristone [RU486]|Abortion|
 |Aromatase inhibitors|Anastrozole<br>Letrozole<br>Exemestane|Breast cancer<br>Infertility|
-|Androgen agonists|Danazol|Hypogonadism & Endometriosis|
+|Androgen agonists|Danazol|Hypogonadism<br>Endometriosis|
 ||Methyltestosterone|Hypogonadism|
 |Androgen antagonists|Flutamide|Prostate cancer|
 ||Bicalutamide|Prostate cancer|
-||Ketoconazole|PCOS|
-||Spironolactone|PCOS|
-|5α-Reductase inhibitors|Finasteride|BPH & Alopecia|
+||Ketoconazole|Polycystic ovary syndrome (PCOS)|
+||Spironolactone|Polycystic ovary syndrome (PCOS)|
+|5α-Reductase inhibitors|Finasteride|Benign prostatic hyperplasia (BPH)<br>Alopecia|
 ||Spironolactone|Hirsutism|
 
 ## Mechanisms of Action of Medications Targeting RAAS
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|Renin inhibitors|Aliskiren|HTN|
-|ACE inhibitors (ACEI)|-Prils|HTN & HF|
-|Angiotensin antagonists (ARB)|-Sartans|HTN & HF|
+|Renin inhibitors|Aliskiren|Hypertension|
+|ACE inhibitors (ACEI)|-Prils|Hypertension & Heart failure (HF)|
+|Angiotensin antagonists (ARB)|-Sartans|Hypertension & Heart failure (HF)|
 |Aldosterone antagonists|Spironolactone<br>Eplerenone|Diuretics|
 
 ## Mechanisms of Action of Medications Targeting Vasopressin Receptor
@@ -365,7 +363,7 @@
 |PGE1 agonists|Misoprostol|Abortion & PUD|
 ||Alprostadil|Impotence & PDA maintenance|
 |PGF2 agonists|Latanoprost|Glaucoma|
-|PGI2 agonists|Epoprostenol|Pulmonary HTN|
+|PGI2 agonists|Epoprostenol|Pulmonary hypertension|
 |TXA2 antagonists|-|-|
 |LTD<sub>4</sub> antagonists|Montelukast|Asthma|
 ||Zafirlukast|Asthma|
@@ -376,7 +374,7 @@
 |-|-|-|
 |PDE inhibitors|Inamrinone & Milrinone|Inotrope|
 ||Methylxanthine: Theophylline & Caffeine|Asthma|
-||Sildenafil & Vardenafil|Impotence & Pulmonary HTN|
+||Sildenafil & Vardenafil|Impotence & Pulmonary hypertension|
 ||Dipyridamole & Cilostazol|Antiplatelet & Vasodilation|
 |COX inhibitors|NSAIDs:<br>Aspirin<br>Ibuprofen<br>Naproxen<br>Diclofenac<br>Ketorolac<br>Meloxicam<br>Indomethacin|Antipyresis<br>Analgesia<br>Inflammation<br>Tocolysis<br>PDA closure|
 ||Acetaminophen|Antipyresis<br>Analgesia|
