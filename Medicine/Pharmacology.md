@@ -318,8 +318,8 @@
 |Progesterone agonists|Progestin<br>Medroxyprogesterone<br>Norethindrone<br>Desogestrel|Hormone replacement therapy (HRT)<br>Contraception|
 |Progesterone antagonists|Mifepristone [RU486]|Abortion|
 |Aromatase inhibitors|Anastrozole<br>Letrozole<br>Exemestane|Breast cancer<br>Infertility|
-|Androgen agonists|Danazol|Hypogonadism<br>Endometriosis|
-||Methyltestosterone|Hypogonadism|
+|Androgen agonists|Methyltestosterone|Hormone replacement therapy (HRT)|
+||Danazol|Endometriosis|
 |Androgen antagonists|Flutamide|Prostate cancer|
 ||Bicalutamide|Prostate cancer|
 ||Ketoconazole|Polycystic ovary syndrome (PCOS)|
