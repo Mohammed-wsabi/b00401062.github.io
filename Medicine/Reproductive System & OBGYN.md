@@ -447,6 +447,28 @@
 |HPV|Condyloma accumulata|-|
 |HSV|Paniful ulcers|-|
 
+## Bethesda System for Pap Smear Results
+
+- Squamous cell abnormalities
+  - Atypical squamous cell (ASC)
+  - Low-grade squamous intraepithelial lesion (LSIL)
+  - High-grade squamous intraepithelial lesion (HSIL)
+  - Squamous cell carcinoma
+- Glandular cell abnormalities
+  - Atypical glandular cell (AGC)
+  - Adenocarcinoma in situ (AIS)
+  - Adenocarcinoma
+
+![](../Figures/Bethesda%20System%20for%20Pap%20Smear%20Results.jpg)
+
+## Types of Endometrial Cancer
+
+|Type|1|2|
+|-|-|
+|Histology|Endometrioid|Non-endometrioid|
+|Risk factors|Estrogen|-|
+|Prognosis|Favorable|Poor|
+
 ## Reproductive Tumors
 
 ### Germ Cell Tumors (GCT)
@@ -474,7 +496,7 @@
 - Clear cell carcinoma
 - Mixed cell carcinoma
 - Transitional cell carcinoma [Brenner tumor]
-- Carcinosarcoma [Malignant mixed müllerian tumor (MMMT)]
+- Carcinosarcoma [Malignant mixed Mullerian tumor (MMMT)]
 
 ## Reference Limits of Semen Analysis
 
@@ -522,20 +544,6 @@
 |hCG agonists|Choriogonadotropin|
 
 ![](../Figures/Controlled%20Ovarian%20Hyperstimulation.png)
-
-## Bethesda System for Pap Smear Results
-
-- Squamous cell abnormalities
-  - Atypical squamous cell (ASC)
-  - Low-grade squamous intraepithelial lesion (LSIL)
-  - High-grade squamous intraepithelial lesion (HSIL)
-  - Squamous cell carcinoma
-- Glandular cell abnormalities
-  - Atypical glandular cell (AGC)
-  - Adenocarcinoma in situ (AIS)
-  - Adenocarcinoma
-
-![](../Figures/Bethesda%20System%20for%20Pap%20Smear%20Results.jpg)
 
 ## Breast Imaging Reporting and Data System (BI-RADS)
 
