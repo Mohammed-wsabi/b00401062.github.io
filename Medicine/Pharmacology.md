@@ -135,7 +135,7 @@
 ||Ipratropium<br>Tiotropium|Asthma|
 ||Scopolamine|Emesis :: motion sickness|
 ||Oxybutynin<br>Tolterodine|Urinary incontinence|
-||Glycopyrrolate|Anesthesia|
+||Glycopyrrolate|-|
 ||Antipsychotics|-|
 ||Antidepressants :: TCA|-|
 ||1° Antihistamines|-|
@@ -176,7 +176,7 @@
 |β<sub>1</sub> antagonists|Acebutolol|Partial agonists|
 ||Atenolol|Arrhythmia|
 ||Bisoprolol|Heart failure (HF)|
-||Esmolol|Arrhythmia<br>Surgery|
+||Esmolol|Arrhythmia|
 ||Metoprolol|Arrhythmia<br>Heart failure (HF)|
 |β antagonists|Nadolol|-|
 ||Pindolol|Partial agonists|
