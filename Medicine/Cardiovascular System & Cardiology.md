@@ -138,12 +138,12 @@
 
 |Finding|Indications|
 |-|-|
-|Pulsus paradoxus|Cardiac tamponade & Obstructive lung diseases|
+|Pulsus paradoxus|Cardiac tamponade<br>Obstructive lung diseases|
 |Pulsus parvus et tardus|Aortic stenosis|
 |Pulsus alternans|LV systolic dysfunction|
 |Differential cyanosis :: lower limbs|Eisenmenger syndrome of PDA|
 |Reverse differential cyanosis :: upper limbs|Transposition of great artery (TGA)|
-|Kussmaul sign|Cardiac tamponade & Right heart failure & Restrictive cardiomyopathy|
+|Kussmaul sign|Cardiac tamponade<br>Right heart failure<br>Restrictive cardiomyopathy|
 
 ## Grading of Murmurs
 
@@ -304,14 +304,18 @@
 ### Compensated {ABVD}
 
 - ACEI & ARB
-- β<sub>1</sub> antagonists :: Carvedilol & Bisoprolol & Metoprolol
+- β<sub>1</sub> antagonists
+  - Carvedilol
+  - Bisoprolol
+  - Metoprolol
 - Vasodilators :: NO donors
-- Digoxin & Diuretics :: Spironolactone
+- Digoxin
+- Diuretics :: Spironolactone
 
 ## Etiology of Dilated Cardiomyopathy (DCMP) {ABCD}
 
 - Alcohol
-- Beriberi & Vitamin B1 deficiency
+- Beriberi & Vitamin B<sub>1</sub> deficiency
 - Coxsackie B virus myocarditis
 - Cocaine
 - Chagas disease
@@ -321,7 +325,8 @@
 ## Etiology of Arrhythmia {HIS-BEDS}
 
 - Hypoxia
-- Ischemia & Irritability
+- Ischemia
+- Irritability
 - Sympathetic tone
 - Bradycardia
 - Electrolyte disturbances
@@ -404,7 +409,7 @@
 ||Sotalol|Arrhythmia|
 |Class 4: Ca channel blockers|Verapamil|Arrhythmia|
 ||Diltiazem|Arrhythmia|
-|Miscellaneous|Digoxin & Digitalis|Arrhythmia|
+|Miscellaneous|Digoxin<br>Digitalis|Arrhythmia|
 ||Adenosine|Arrhythmia|
 ||Magnesium|Arrhythmia|
 
@@ -514,7 +519,9 @@
 - Morphine
 - Oxygen
 - Venodilators :: NO donors
-- Antiplatelets :: Aspirin & ADP antagonists
+- Antiplatelets
+  - Aspirin
+  - ADP antagonists
 - Anticoagulants :: Heparin
 - β<sub>1</sub> antagonists
 
@@ -561,7 +568,9 @@
 ## Treatment of Hypertensive Emergency
 
 - β<sub>1</sub> antagonists :: Labetalol
-- Venodilators & Vasodilators :: NO donors & Ca channel blockers
+- Venodilators & Vasodilators
+  - NO donors
+  - Ca channel blockers
 
 ## Fontaine Staging of Peripheral Artery Disease (PAD)
 
@@ -578,8 +587,12 @@
 
 - PDE inhibitors :: Cilostazol
 - PGE1 agonists :: Alprostadil
-- Antiplatelets :: Aspirin & ADP antagonists
-- Revascularization :: percutaneous intervention & bypass grafting
+- Antiplatelets
+  - Aspirin
+  - ADP antagonists
+- Revascularization
+  - Percutaneous intervention (PCI)
+  - Coronary artery bypass grafting (CABG)
 
 ## Vasculitis
 
