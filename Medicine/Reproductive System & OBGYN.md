@@ -424,8 +424,8 @@
 ## Treatment of Polycystic Ovary Syndrome (PCOS)
 
 - Ovulation induction
-  - Aromatase inhibitors
   - Estrogen modulators :: Clomiphene
+  - Aromatase inhibitors
 - Hormonal contraceptives
 - Androgen antagonists
 - 5α-Reductase inhibitors
@@ -507,21 +507,19 @@
 
 |Protocol|Timing|
 |-|-|
-|GnRH antagonist [short] protocol|Leading follicle > 14 mm|
-|GnRH agonist flare protocol|Menstruation|
 |GnRH agonist long protocol|Last luteal phase|
+|GnRH agonist short protocol|Menstruation|
+|GnRH antagonist protocol|Leading follicle > 14 mm|
 
 ### Ovulation Induction
 
 - (Follicles > 18 mm) ≥ 2
 - Estradiol per co-dominant follicle > 200 pg/mL
 
-|Mechanism|Medication|Indications|
+|Mechanism|Medication|
 |-|-|-|
-|GnRH agonists|Leuprolide :: pulsatile|Infertility|
-|hCG agonists|Choriogonadotropin|Infertility|
-|Estrogen modulators|Clomiphene|Infertility|
-|Aromatase inhibitors|Anastrozole<br>Letrozole<br>Exemestane|Infertility|
+|GnRH agonists|Leuprolide :: pulsatile|
+|hCG agonists|Choriogonadotropin|
 
 ## Bethesda System for Pap Smear Results
 
