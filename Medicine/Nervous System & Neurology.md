@@ -645,32 +645,30 @@
 
 ## Mechanisms of Action of Medications for Parkinson Disease
 
-|Mechanism|Medication|Indications|
-|-|-|-|
-|M antagonists|Benztropine|Parkinson|
-|D<sub>2</sub> agonists|Bromocriptine<br>Cabergoline<br>Pramipexole<br>Ropinirole|Parkinson|
-|MAO inhibitors|Selegiline|Parkinson|
-|COMT inhibitors|-Capones|Parkinson|
-|Dopa|Levodopa|Parkinson|
-|Dopa decarboxylase inhibitors|Carbidopa<br>Benserazide|Parkinson|
-|NMDA antagonists|Amantadine|Parkinson|
+|Mechanism|Medication|
+|-|-|
+|M antagonists|Benztropine|
+|D<sub>2</sub> agonists|Bromocriptine<br>Cabergoline<br>Pramipexole<br>Ropinirole|
+|MAO inhibitors|Selegiline|
+|COMT inhibitors|-Capones|
+|Dopa|Levodopa|
+|Dopa decarboxylase inhibitors|Carbidopa<br>Benserazide|
+|NMDA antagonists|Amantadine|
 
 ## Mechanisms of Action of Medications for Huntington Disease
 
-|Mechanism|Medication|Indications|
-|-|-|-|
-|Vesicular transporter inhibitors|Reserpine|Huntington|
-||Tetrabenazine|Huntington|
-|D<sub>2</sub> antagonists|2° Antipsychotics|Huntington|
+|Mechanism|Medication|
+|-|-|
+|Vesicular transporter inhibitors|Reserpine|
+||Tetrabenazine|
+|D<sub>2</sub> antagonists|2° Antipsychotics|
 
 ## Mechanisms of Action of Medications for Alzheimer Disease
 
-|Mechanism|Medication|Indications|
-|-|-|-|
-|ACh esterase inhibitors|Rivastigmine|Alzheimer|
-||Galantamine|Alzheimer|
-||Donepezil|Alzheimer|
-|NMDA antagonists|Memantine|Alzheimer|
+|Mechanism|Medication|
+|-|-|
+|ACh esterase inhibitors|Rivastigmine<br>Galantamine<br>Donepezil|
+|NMDA antagonists|Memantine|
 
 ## CSF Analysis
 
