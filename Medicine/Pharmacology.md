@@ -80,7 +80,7 @@
 |-|-|-|
 |Choline uptake inhibitors|Hemicholinium|-|
 |Vesicular transporter inhibitors|Vesamicol|-|
-|ACh release inhibitors|Botulinum toxin|Muscle relaxant|
+|ACh release inhibitors|Botulinum toxin|Spasm|
 |ACh release inducers|-|-|
 
 ## Mechanisms of Action of Medications Targeting Adrenergic Neurons
@@ -110,18 +110,15 @@
 |MAO inhibitors|Tranylcypromine|Depression|
 ||Phenelzine|Depression|
 ||Isocarboxazid|Depression|
-||Selegiline|Depression & Parkinson|
-|COMT inhibitors|-Capones|Parkinson|
+||Selegiline|Depression<br>Parkinson disease|
+|COMT inhibitors|-Capones|Parkinson disease|
 
 ## Mechanisms of Action of Medications Targeting Neurotransmitter Reuptake
 
 |Mechanism|Medication|Indications|
 |-|-|-|
 |NE reuptake inhibitors|Cocaine|Anesthesia|
-||Atomoxetine|ADHD|
-||Amphetamine|ADHD & Narcolepsy|
-||Methylphenidate|ADHD & Narcolepsy|
-||Modafinil|ADHD & Narcolepsy|
+||Atomoxetine<br>Amphetamine<br>Methylphenidate<br>Modafinil|Attention-deficit hyperactivity disorder (ADHD)<br>Narcolepsy|
 ||TCA & SNRI & NDRI|Depression|
 |5-HT reuptake inhibitors|TCA & SSRI & SNRI|Depression|
 
@@ -140,8 +137,8 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|M antagonists|Atropine & Tropicamide|Mydriatics & Cycloplegia|
-||Benztropine|Parkinson|
+|M antagonists|Atropine<br>Tropicamide|Mydriatics<br>Cycloplegia|
+||Benztropine|Parkinson disease|
 ||Ipratropium & Tiotropium|Asthma|
 ||Scopolamine|Emesis :: motion sickness|
 ||Oxybutynin & Tolterodine|Urinary incontinence|
@@ -216,10 +213,10 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|D<sub>2</sub> agonists|Bromocriptine|Parkinson & Prolactinoma|
-||Cabergoline|Parkinson & Prolactinoma|
-||Pramipexole|Parkinson|
-||Ropinirole|Parkinson|
+|D<sub>2</sub> agonists|Bromocriptine|Parkinson disease<br>Prolactinoma|
+||Cabergoline|Parkinson disease<br>Prolactinoma|
+||Pramipexole|Parkinson disease|
+||Ropinirole|Parkinson disease|
 |D<sub>2</sub> antagonists|Metoclopramide<br>Prochlorperazine<br>Domperidone<br>Droperidol|Emesis|
 ||Antipsychotics|Psychosis<br>Huntington disease<br>Tourette syndrome|
 
@@ -252,8 +249,8 @@
 |-|-|-|
 |NMDA agonists|-|-|
 |NMDA antagonists|Ketamine|Anesthesia|
-||Memantine|Alzheimer|
-||Amantadine|Parkinson|
+||Memantine|Alzheimer disease|
+||Amantadine|Parkinson disease|
 ||Riluzole|Amyotrophic lateral sclerosis (ALS)|
 ||Dextromethorphan|Coughing|
 ||Phencyclidine (PCP)|-|
@@ -279,7 +276,7 @@
 |μ-opioid agonists|Codeine|Analgesia|
 ||Tramadol|Analgesia|
 ||Meperidine|Analgesia|
-||Morphine|Analgesia & Venodilators|
+||Morphine|Analgesia<br>Venodilators|
 ||Fentanyl|Analgesia|
 ||Loperamide|Diarrhea|
 ||Diphenoxylate|Diarrhea|
