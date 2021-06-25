@@ -163,8 +163,8 @@
 |β<sub>1</sub> agonists|Dopamine: D > β<sub>1</sub> > α<sub>1</sub>|Inotrope|
 ||Dobutamine: β<sub>1</sub> > β<sub>2</sub>|Inotrope|
 |β<sub>2</sub> agonists|Albuterol|Asthma :: acute|
-||Salmeterol & Formoterol|Asthma :: chronic|
-||Terbutaline & Ritodrine|Tocolysis|
+||Salmeterol<br>Formoterol|Asthma :: chronic|
+||Terbutaline<br>Ritodrine|Tocolysis|
 |β agonists|Epinephrine: β > α<sub>1</sub>|Hypotension<br>Asthma<br>Shock|
 ||Isoproterenol: β<sub>1</sub> = β<sub>2</sub>|-|
 
@@ -183,13 +183,13 @@
 |β<sub>1</sub> antagonists|Acebutolol|Partial agonists|
 ||Atenolol|Arrhythmia|
 ||Bisoprolol|Heart failure (HF)|
-||Esmolol|Arrhythmia & Surgery|
-||Metoprolol|Arrhythmia & Heart failure (HF)|
+||Esmolol|Arrhythmia<br>Surgery|
+||Metoprolol|Arrhythmia<br>Heart failure (HF)|
 |β antagonists|Nadolol|-|
 ||Pindolol|Partial agonists|
 ||Propranolol|Arrhythmia|
 ||Sotalol|Arrhythmia|
-||Timolol|Arrhythmia & Glaucoma|
+||Timolol|Arrhythmia<br>Glaucoma|
 |αβ antagonists|Carvedilol|Arrhythmia<br>Heart failure (HF)|
 ||Labetalol|Hypertension|
 
@@ -199,7 +199,7 @@
 |-|-|
 |Diarrhea|Constipation|
 |Urinary incontinence|Urinary retention|
-|Miosis|Mydriasis & Cycloplegia|
+|Miosis|Mydriasis<br>Cycloplegia|
 |Bronchoconstriction|Bronchodilation|
 |Bradycardia|Tachycardia|
 |Emesis|-|
@@ -309,14 +309,14 @@
 |-|-|-|
 |GnRH agonists|Leuprolide :: pulsatile|Infertility|
 |GnRH antagonists|Leuprolide :: continuous|Prostate cancer|
-||Cetrorelix & Ganirelix|Infertility|
-|LH agonists|Lutropin & Menotropin|Infertility|
-|FSH agonists|Follitropin & Menotropin|Infertility|
+||Cetrorelix<br>Ganirelix|Infertility|
+|LH agonists|Lutropin<br>Menotropin|Infertility|
+|FSH agonists|Follitropin<br>Menotropin|Infertility|
 |hCG agonists|Choriogonadotropin|Infertility|
 |Estrogen agonists|Diethylstilbestrol (DES)<br>Mestranol|Hormone replacement therapy (HRT)<br>Contraception|
 |Estrogen modulators|Clomiphene|Infertility|
 ||Tamoxifen|Breast cancer|
-||Raloxifene|Breast cancer & Osteoporosis|
+||Raloxifene|Breast cancer<br>Osteoporosis|
 |Progesterone agonists|Progestin<br>Medroxyprogesterone<br>Norethindrone<br>Desogestrel|Hormone replacement therapy (HRT)<br>Contraception|
 |Progesterone antagonists|Mifepristone [RU486]|Abortion|
 |Aromatase inhibitors|Anastrozole<br>Letrozole<br>Exemestane|Breast cancer<br>Infertility|
@@ -368,7 +368,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|PDE inhibitors|Inamrinone & Milrinone|Inotrope|
+|PDE inhibitors|Inamrinone<br>Milrinone|Inotrope|
 ||Methylxanthines:<br>Theophylline<br>Caffeine|Asthma|
 ||Sildenafil<br>Vardenafil|Impotence<br>Pulmonary hypertension|
 ||Dipyridamole<br>Cilostazol|Antiplatelet<br>Vasodilation|
