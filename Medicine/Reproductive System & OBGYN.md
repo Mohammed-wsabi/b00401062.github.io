@@ -247,7 +247,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|β<sub>2</sub> agonists|Terbutaline & Ritodrine|Tocolysis|
+|β<sub>2</sub> agonists|Terbutaline<br>Ritodrine|Tocolysis|
 |COX inhibitors|Indomethacin|Tocolysis|
 |Ca channel blockers|Nifedipine|Tocolysis|
 |MgSO<sub>4</sub>|MgSO<sub>4</sub>|Tocolysis|
