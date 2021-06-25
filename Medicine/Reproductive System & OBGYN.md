@@ -206,7 +206,7 @@
 |Acceleration|↑ 15/min for 15 seconds ~ 2 minutes|Reassuring|
 |Early deceleration|Onset to nadir > 30 seconds during a uterine contraction|Head compression|
 |Late deceleration|Onset to nadir > 30 seconds after a uterine contraction|Uteroplacental insufficiency|
-|Variable deceleration|↓ 15/min for 15 seconds ~ 2 minutes & Onset to nadir < 30 seconds|Cord compression|
+|Variable deceleration|↓ 15/min for 15 seconds ~ 2 minutes<br>Onset to nadir < 30 seconds|Cord compression|
 
 ## Fetal Heart Rate (FHR) Category III
 
