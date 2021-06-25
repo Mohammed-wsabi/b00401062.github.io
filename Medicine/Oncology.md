@@ -13,7 +13,7 @@
 |C-MYC|Transcription factor|Burkitt lymphoma|
 |L-MYC|Transcription factor|Small cell lung cancer (SCLC)|
 |N-MYC|Transcription factor|Neuroblastoma|
-|KRAS|GTPase|Lung & Colorectal & Pancreatic cancer|
+|KRAS|GTPase|Lung cancer<br>Colorectal cancer<br>Pancreatic cancer|
 |RET|Tyrosine kinase|MEN 2A & 2B|
 
 ## Tumor Suppressor Genes
