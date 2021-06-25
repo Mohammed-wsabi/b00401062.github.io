@@ -165,7 +165,7 @@
 |β<sub>2</sub> agonists|Albuterol|Asthma :: acute|
 ||Salmeterol<br>Formoterol|Asthma :: chronic|
 ||Terbutaline<br>Ritodrine|Tocolysis|
-|β agonists|Epinephrine: β > α<sub>1</sub>|Hypotension<br>Asthma<br>Shock|
+|β agonists|Epinephrine: β > α<sub>1</sub>|Hypotension<br>Asthma|
 ||Isoproterenol: β<sub>1</sub> = β<sub>2</sub>|-|
 
 ## Mechanisms of Action of Adrenergic Antagonists
