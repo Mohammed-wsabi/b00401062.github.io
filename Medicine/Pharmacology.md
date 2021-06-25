@@ -320,12 +320,9 @@
 |Aromatase inhibitors|Anastrozole<br>Letrozole<br>Exemestane|Breast cancer<br>Infertility|
 |Androgen agonists|Methyltestosterone|Hormone replacement therapy (HRT)|
 ||Danazol|Endometriosis|
-|Androgen antagonists|Flutamide|Prostate cancer|
-||Bicalutamide|Prostate cancer|
-||Ketoconazole|Polycystic ovary syndrome (PCOS)|
-||Spironolactone|Polycystic ovary syndrome (PCOS)|
+|Androgen antagonists|Flutamide<br>Bicalutamide|Prostate cancer|
 |5α-Reductase inhibitors|Finasteride|Benign prostatic hyperplasia (BPH)<br>Alopecia|
-||Spironolactone|Hirsutism|
+|Androgen synthesis inhibitors|Ketoconazole<br>Spironolactone|Polycystic ovary syndrome (PCOS)|
 
 ## Mechanisms of Action of Medications Targeting RAAS
 
