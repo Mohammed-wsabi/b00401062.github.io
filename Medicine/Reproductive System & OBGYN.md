@@ -521,6 +521,8 @@
 |GnRH agonists|Leuprolide :: pulsatile|
 |hCG agonists|Choriogonadotropin|
 
+![](../Figures/Controlled%20Ovarian%20Hyperstimulation.png)
+
 ## Bethesda System for Pap Smear Results
 
 - Squamous cell abnormalities
