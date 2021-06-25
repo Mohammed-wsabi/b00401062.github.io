@@ -22,7 +22,7 @@
 |-|-|-|
 |APC|-|Familial adenomatous polyposis (FAP)|
 |ATM|DNA repair|Ataxia telangiectasia|
-|BRCA|DNA repair|Breast & Ovarian cancer|
+|BRCA|DNA repair|Breast cancer<br>Ovarian cancer|
 |ERCC|DNA repair|Xeroderma pigmentosum|
 |FANC|DNA repair|Fanconi anemia|
 |MEN1|-|MEN 1|
@@ -30,11 +30,11 @@
 |NF1 & NF2|RAS activators|Neurofibromatosis type 1 & 2|
 |P16|CDK inhibitors|Melanoma|
 |P53|Transcription factor for P21|Li-Fraumeni syndrome|
-|PTEN|-|Breast & Prostate cancer|
-|RB|E2F inhibitors|Retinoblastoma & Osteosarcoma|
-|TSC1 & TSC2|Hamartin & Tuberlin|Tuberous sclerosis|
+|PTEN|-|Breast cancer<br>Prostate cancer|
+|RB|E2F inhibitors|Retinoblastoma<br>Osteosarcoma|
+|TSC1 & TSC2|Hamartin<br>Tuberlin|Tuberous sclerosis|
 |VHL|HIF inhibitors|Von Hippel-Lindau (VHL) disease|
-|WT1 & WT2|-|Wilms tumor & WAGR syndrome|
+|WT1 & WT2|-|Wilms tumor<br>WAGR syndrome|
 
 ## Tumor Markers
 
