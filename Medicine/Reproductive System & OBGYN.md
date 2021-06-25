@@ -518,10 +518,10 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|GnRH agonists|Leuprolide :: pulsatile|Anovulation|
-|hCG agonists|Choriogonadotropin|Anovulation|
-|Estrogen modulators|Clomiphene|Anovulation|
-|Aromatase inhibitors|Anastrozole<br>Letrozole<br>Exemestane|Anovulation|
+|GnRH agonists|Leuprolide :: pulsatile|Infertility|
+|hCG agonists|Choriogonadotropin|Infertility|
+|Estrogen modulators|Clomiphene|Infertility|
+|Aromatase inhibitors|Anastrozole<br>Letrozole<br>Exemestane|Infertility|
 
 ## Bethesda System for Pap Smear Results
 
