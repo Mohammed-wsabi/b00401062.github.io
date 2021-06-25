@@ -319,19 +319,13 @@
 |LH agonists|Lutropin & Menotropin|Infertility|
 |FSH agonists|Follitropin & Menotropin|Infertility|
 |hCG agonists|Choriogonadotropin|Infertility|
-|Estrogen agonists|Diethylstilbestrol (DES)|HRT & Contraception|
-||Mestranol|HRT & Contraception|
-|Estrogen modulators|Clomiphene|PCOS & Ovulation|
+|Estrogen agonists|Diethylstilbestrol (DES)<br>Mestranol|HRT & Contraception|
+|Estrogen modulators|Clomiphene|Infertility|
 ||Tamoxifen|Breast cancer|
 ||Raloxifene|Breast cancer & Osteoporosis|
-|Progesterone agonists|Progestin|HRT & Contraception|
-||Medroxyprogesterone|HRT & Contraception|
-||Norethindrone|HRT & Contraception|
-||Desogestrel|HRT & Contraception|
+|Progesterone agonists|Progestin<br>Medroxyprogesterone<br>Norethindrone<br>Desogestrel|HRT & Contraception|
 |Progesterone antagonists|Mifepristone [RU486]|Abortion|
-|Aromatase inhibitors|Anastrozole|Breast cancer|
-||Letrozole|Breast cancer|
-||Exemestane|Breast cancer|
+|Aromatase inhibitors|Anastrozole<br>Letrozole<br>Exemestane|Breast cancer<br>Infertility|
 |Androgen agonists|Danazol|Hypogonadism & Endometriosis|
 ||Methyltestosterone|Hypogonadism|
 |Androgen antagonists|Flutamide|Prostate cancer|
