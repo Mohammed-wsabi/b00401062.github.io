@@ -82,6 +82,12 @@
 |Vesicular transporter inhibitors|Vesamicol|-|
 |ACh release inhibitors|Botulinum toxin|Muscle relaxant|
 |ACh release inducers|-|-|
+|ACh esterase inhibitors|Edrophonium|Myasthenia diagnosis|
+||Pyridostigmine|Myasthenia|
+||Neostigmine|Muscle relaxant reversal|
+||Physostigmine|Atropine antidote|
+||Rivastigmine<br>Galantamine<br>Donepezil|Alzheimer disease|
+||Organophosphates<br>Sarin|Glaucoma|
 
 ## Mechanisms of Action of Medications Targeting Adrenergic Neurons
 
@@ -94,17 +100,6 @@
 ||Guanethidine|Hypertension|
 |NE release inducers|Tyramine|-|
 ||Ephedrine|Decongestant|
-
-## Mechanisms of Action of Medications Targeting Neurotransmitter Breakdown
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|ACh esterase inhibitors|Edrophonium|Myasthenia diagnosis|
-||Pyridostigmine|Myasthenia|
-||Neostigmine|Muscle relaxant reversal|
-||Physostigmine|Atropine antidote|
-||Rivastigmine<br>Galantamine<br>Donepezil|Alzheimer disease|
-||Organophosphates<br>Sarin|Glaucoma|
 |MAO inhibitors|Tranylcypromine|Depression|
 ||Phenelzine|Depression|
 ||Isocarboxazid|Depression|
