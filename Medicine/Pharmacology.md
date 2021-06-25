@@ -80,7 +80,7 @@
 |-|-|-|
 |Choline uptake inhibitors|Hemicholinium|-|
 |Vesicular transporter inhibitors|Vesamicol|-|
-|ACh release inhibitors|Botulinum toxin|Spasm|
+|ACh release inhibitors|Botulinum toxin|Muscle relaxant|
 |ACh release inducers|-|-|
 
 ## Mechanisms of Action of Medications Targeting Adrenergic Neurons
@@ -137,7 +137,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|M antagonists|Atropine<br>Tropicamide|Mydriatics<br>Cycloplegia|
+|M antagonists|Atropine<br>Tropicamide|Mydriasis<br>Cycloplegia|
 ||Benztropine|Parkinson disease|
 ||Ipratropium & Tiotropium|Asthma|
 ||Scopolamine|Emesis :: motion sickness|
@@ -265,7 +265,7 @@
 ||Etomidate|Anesthesia|
 ||Zolpidem<br>Zaleplon<br>Eszopiclone|Insomnia|
 ||Alcohol|-|
-|GABA-B agonists|Baclofen|Spasm|
+|GABA-B agonists|Baclofen|Muscle relaxant|
 |GABA-A antagonists|Flumazenil|Benzodiazepine antidote|
 |GABA-B antagonists|-|-|
 
