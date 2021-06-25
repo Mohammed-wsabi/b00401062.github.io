@@ -192,14 +192,14 @@
 
 ## Cancer Screening
 
-|Cancer|Age|Tests|Frequency|
+|Cancer|Age (years)|Tests|Interval (years)|
 |-|-|-|-|
-|Breast|50 ~ 75|Mammography|Every 2 years|
-|Cervical|20 ~ 65|Pap smear|Every 3 years|
-||30 ~ 65|Pap smear<br>HPV testing|Every 5 years|
-|Colon|50 ~ 75|Fecal occult blood testing|Every year|
-|||Sigmoidoscopy|Every 5 years|
-|||Colonoscopy|Every 10 years|
+|Breast|50 ~ 75|Mammography|2|
+|Cervical|20 ~ 65|Pap smear|3|
+||30 ~ 65|Pap smear<br>HPV testing|5|
+|Colon|50 ~ 75|Fecal occult blood testing|1|
+|||Sigmoidoscopy|5|
+|||Colonoscopy|10|
 
 ## Primary Survey for Trauma {ABCDE}
 
