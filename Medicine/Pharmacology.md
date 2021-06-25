@@ -64,10 +64,10 @@
 |Ca channel activators|-|-|
 |Ca channel blockers|Class 4 antiarrhythmics|Arrhythmia|
 ||-Dipines|Vasodilation|
-||Dantrolene|Malignant hyperthermia & Neuroleptic malignant syndrome|
+||Dantrolene|Malignant hyperthermia<br>Neuroleptic malignant syndrome (NMS)|
 ||Ethosuximide|Seizure :: absence|
 ||Gabapentin<br>Pregabalin|Seizure & Neuropathic pain|
-|Na-K pump blockers|Digoxin & Digitalis|Arrhythmia & Inotrope|
+|Na-K pump blockers|Digoxin & Digitalis|Arrhythmia<br>Inotrope|
 ||Ouabain|-|
 |H-K pump blockers|Proton pump inhibitors (PPI) [-Prazoles]|PUD|
 |Na-K-2Cl sympoter blockers|Loop diuretics:<br>Furosemide<br>Bumetanide<br>Torsemide|Diuretics|
