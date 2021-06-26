@@ -15,20 +15,14 @@
 |-|-|-|-|-|
 |Stress|-|-|-|Pelvic relaxation|
 |Urge|+|+|↓|Overactive bladder (OAB)|
-|Overflow|-|+|↑|Neuromuscular disorders|
+|Overflow|-|+|↑|Underactive bladder (UAB)|
 
 ## Etiology of Overactive Bladder (OAB)
 
-- Bladder stone
 - Urinary tract infection (UTI)
+- Bladder stone
+- Benign prostatic hyperplasia (BPH)
 - Neurogenic bladder
-
-## Etiology of Neurogenic Bladder
-
-- Cauda equina syndrome
-- Herniated disk
-- Spinal stenosis
-- Diabetic neuropathy
 
 ## International Classification of Vesicoureteral Reflux (VUR)
 
