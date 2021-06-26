@@ -17,6 +17,19 @@
 |Urge|+|+|↓|Overactive bladder (OAB)|
 |Overflow|-|+|↑|Neuromuscular disorders|
 
+## Etiology of Overactive Bladder (OAB)
+
+- Bladder stone
+- Urinary tract infection (UTI)
+- Neurogenic bladder
+
+## Etiology of Neurogenic Bladder
+
+- Cauda equina syndrome
+- Herniated disk
+- Spinal stenosis
+- Diabetic neuropathy
+
 ## International Classification of Vesicoureteral Reflux (VUR)
 
 - Grade 1: reflux to the ureter
