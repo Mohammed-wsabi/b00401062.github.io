@@ -513,6 +513,13 @@
 |LSIL|-|> 25|Repeat in 1 year|
 |Consecutive<br>Otherwise|±/?|Any|Colposcopy|
 
+## Treatment of Cervical Intraepithelial Neoplasia (CIN)
+
+|CIN|Treatment|
+|-|-|
+|I|Observation|
+|II<br>III|Loop electrosurgical excision procedure (LEEP)<br>Conization<br>Cryotherapy<br>Laser ablation|
+
 ## Reference Limits of Semen Analysis
 
 - Volume > 1.5 mL
