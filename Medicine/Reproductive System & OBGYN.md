@@ -65,7 +65,7 @@
 |Estradiol|Testosterone|Theca cells|Aromatase|Granulosa cells|Non-pregnancy|
 |Estriol|DHEA sulfate (DHEAS)|Adrenal gland|Sulfatase|Placenta|Pregnancy|
 
-## Hormone Change During Pregnancy
+## Hormone Changes During Pregnancy
 
 |Item|Hormones|Sources|
 |-|-|-|
@@ -431,6 +431,12 @@
 - 5α-Reductase inhibitors
 - Metformin ± Statins
 - Lifestyle modifications
+
+## Non-surgical Treatment of Pelvic Organ Prolapse (POP)
+
+- Kegel exercise
+- Topical estrogen
+- Pessary
 
 ## Pathogens of Genital Tract Infection
 
