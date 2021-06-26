@@ -507,7 +507,7 @@
 |ASC-US|-|> 25|Repeat in 3 years|
 |LSIL|±/?|< 25|Repeat in 1 year|
 |LSIL|-|> 25|Repeat in 1 year|
-|Otherwise|±|Any|Colposcopy|
+|Consecutive<br>Otherwise|±|Any|Colposcopy|
 
 ## Reference Limits of Semen Analysis
 
