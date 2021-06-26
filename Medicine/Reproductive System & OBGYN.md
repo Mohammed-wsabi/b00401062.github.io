@@ -53,7 +53,7 @@
 |Progesterone<br>DHEA<br>Androstenedione<br>Testosterone|ACTH|Adrenal gland|Adrenal gland|
 |Progesterone|LH<br>FSH|Corpus luteum|Testis|
 |Testosterone|LH|Theca cells<br>Corpus luteum|Leydig cells|
-|Anti-Mullerian hormone (AMH)<br>Estradiol<br>Inhibin A & Inhibin B|FSH|Granulosa cells<br>Corpus luteum|Sertoli cells|
+|Anti-Mullerian hormone (AMH)<br>Estradiol<br>Inhibin|FSH|Granulosa cells<br>Corpus luteum|Sertoli cells|
 |Estrone|-|Adipose cells|Adipose cells|
 |Dihydrotestosterone (DHT)|-|Peripheral cells|Peripheral cells|
 
@@ -464,7 +464,7 @@
 |Female|Male|Markers|
 |-|-|-|
 |Theca cell tumor [Thecoma]|Leydig cell tumor|-|
-|Granulosa cell tumor|Sertoli cell tumor|Inhibin A|
+|Granulosa cell tumor|Sertoli cell tumor|Inhibin|
 
 ### Epithelial Tumors
 
