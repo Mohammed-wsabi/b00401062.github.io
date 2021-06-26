@@ -672,11 +672,12 @@
 
 ## Etiology of Neurogenic Bladder
 
-- Cauda equina syndrome
-- Herniated disk
-- Spinal stenosis
 - Normal pressure hydrocephalus (NPH)
 - Multiple sclerosis
+- Cauda equina syndrome
+- Herniated disk
+- Spinal chord injury
+- Spinal stenosis
 - Diabetic neuropathy
 
 ![](../Figures/Neurogenic%20Bladder.jpg)
