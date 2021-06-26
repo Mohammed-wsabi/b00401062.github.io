@@ -21,8 +21,16 @@
 
 - Urinary tract infection (UTI)
 - Bladder stone
-- Benign prostatic hyperplasia (BPH)
+- Urinary retention
 - Neurogenic bladder
+- Drug-induced
+
+## Etiology of Underactive Bladder (UAB)
+
+- Overdistension
+- Postoperative
+- Neurogenic bladder
+- Drug-induced
 
 ## International Classification of Vesicoureteral Reflux (VUR)
 
