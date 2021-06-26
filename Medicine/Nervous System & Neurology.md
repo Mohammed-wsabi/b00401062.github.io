@@ -591,7 +591,7 @@
 - Duration
 - Diabetes
 
-## Presentation of Strokes
+## Presentation of Stroke
 
 |Artery|Lesions|Symptoms|
 |-|-|-|
@@ -672,8 +672,10 @@
 
 ## Etiology of Neurogenic Bladder
 
+- Stroke
 - Normal pressure hydrocephalus (NPH)
 - Multiple sclerosis
+- Neurodegenerative disorders
 - Cauda equina syndrome
 - Herniated disk
 - Spinal cord injury
