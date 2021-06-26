@@ -502,13 +502,15 @@
 
 |Result|HPV|Age (years)|Management|
 |-|-|-|-|
+|-|±/?|< 30|Routine screening|
+|-|+|> 30|Repeat in 1 year|
+|-|-/?|> 30|Routine screening|
 |ASC-US|+/?|< 25|Repeat in 1 year|
 |ASC-US|-|< 25|Routine screening|
 |ASC-US|?|> 25|Repeat in 1 year|
 |ASC-US|-|> 25|Repeat in 3 years|
 |LSIL|±/?|< 25|Repeat in 1 year|
 |LSIL|-|> 25|Repeat in 1 year|
-|-|+|> 30|Repeat in 1 year|
 |Consecutive<br>Otherwise|±/?|Any|Colposcopy|
 
 ## Reference Limits of Semen Analysis
