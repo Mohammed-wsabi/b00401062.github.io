@@ -465,6 +465,7 @@
 |-|-|-|
 |Theca cell tumor [Thecoma]|Leydig cell tumor|-|
 |Granulosa cell tumor|Sertoli cell tumor|Inhibin|
+|Fibroma|Fibroma|-|
 
 ### Epithelial Tumors
 
@@ -475,6 +476,12 @@
 - Mixed cell carcinoma
 - Transitional cell carcinoma [Brenner tumor]
 - Carcinosarcoma [Malignant mixed Mullerian tumor (MMMT)]
+
+## Triad of Meigs Syndrome
+
+- Ovarian fibroma
+- Pleural effusion
+- Ascites
 
 ## Types of Endometrial Cancer
 
