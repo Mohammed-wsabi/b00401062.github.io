@@ -498,6 +498,17 @@
 
 ![](../Figures/Bethesda%20System%20for%20Pap%20Smear%20Results.jpg)
 
+## Management of Abnormal Pap Smear Results
+
+|Result|HPV|Age (years)|Management|
+|-|-|-|-|
+|ASC-US|+/?|< 25|Repeat in 1 year|
+|ASC-US|-|< 25|Routine screening|
+|ASC-US|-|> 25|Repeat in 3 years|
+|LSIL|±/?|< 25|Repeat in 1 year|
+|LSIL|-|> 25|Repeat in 1 year|
+|Otherwise|±|Any|Colposcopy|
+
 ## Reference Limits of Semen Analysis
 
 - Volume > 1.5 mL
