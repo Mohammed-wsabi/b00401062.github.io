@@ -30,7 +30,7 @@
 |NF1 & NF2|RAS activators|Neurofibromatosis type 1 & 2|
 |P16|CDK inhibitors|Melanoma|
 |P53|Transcription factor for P21|Li-Fraumeni syndrome|
-|PTEN|-|Breast cancer<br>Prostate cancer|
+|PTEN|-|Breast cancer<br>Prostate cancer<br>Endometrial cancer|
 |RB|E2F inhibitors|Retinoblastoma<br>Osteosarcoma|
 |TSC1 & TSC2|Hamartin<br>Tuberlin|Tuberous sclerosis|
 |VHL|HIF inhibitors|Von Hippel-Lindau (VHL) disease|
@@ -136,7 +136,7 @@
 - Sarcoma
 - Breast cancer
 - Leukemia
-- Adrenal cancer
+- Adrenal tumor
 
 ## Immunotherapy
 
