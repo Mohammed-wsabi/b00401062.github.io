@@ -517,7 +517,7 @@
 
 |CIN|Treatment|
 |-|-|
-|I|Observation|
+|I|Repeat in 1 year|
 |II<br>III|Loop electrosurgical excision procedure (LEEP)<br>Conization<br>Cryotherapy<br>Laser ablation|
 
 ## Reference Limits of Semen Analysis
