@@ -676,7 +676,7 @@
 - Multiple sclerosis
 - Cauda equina syndrome
 - Herniated disk
-- Spinal chord injury
+- Spinal cord injury
 - Spinal stenosis
 - Diabetic neuropathy
 
