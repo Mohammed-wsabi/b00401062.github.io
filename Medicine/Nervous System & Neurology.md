@@ -670,6 +670,25 @@
 |ACh esterase inhibitors|Rivastigmine<br>Galantamine<br>Donepezil|
 |NMDA antagonists|Memantine|
 
+## Etiology of Neurogenic Bladder
+
+- Cauda equina syndrome
+- Herniated disk
+- Spinal stenosis
+- Normal pressure hydrocephalus (NPH)
+- Multiple sclerosis
+- Diabetic neuropathy
+
+![](../Figures/Neurogenic%20Bladder.jpg)
+
+## Disorders of Consciousness
+
+||Aware|Sleep-wake cycles|Brainstem reflexes|Respiration|
+|-|-|-|-|-|
+|Locked-in syndrome|+|+|±|+|
+|Persistent vegetative state|-|+|±|+|
+|Brain death|-|-|-|-|
+
 ## CSF Analysis
 
 ||Pressure|WBCs|Glucose|Protein|
@@ -730,11 +749,3 @@
 |Microglia|Mesoderm|-|
 |PNS neuron|Neural crest|-|
 |Schwann cell|Neural crest|Schwannoma|
-
-## Disorders of Consciousness
-
-||Aware|Sleep-wake cycles|Brainstem reflexes|Respiration|
-|-|-|-|-|-|
-|Locked-in syndrome|+|+|±|+|
-|Persistent vegetative state|-|+|±|+|
-|Brain death|-|-|-|-|
