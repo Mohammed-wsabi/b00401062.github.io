@@ -191,9 +191,9 @@
 
 |Mnemonic|Cancer|
 |-|-|
-|O|Oral cancer|
-|N|Nasopharyngeal cancer|
-|L|Laryngeal cancer|
+|O|Oral|
+|N|Nasopharyngeal|
+|L|Laryngeal|
 |Y|Lymphoma|
-|Cure|Cervical cancer|
-|Possible|Prostate cancer|
+|Cure|Cervical|
+|Possible|Prostate|
