@@ -461,15 +461,15 @@
 
 ## Reproductive Tumors
 
-### Germ Cell Tumors (GCT)
+### Epithelial Tumors
 
-|Female|Male|Markers|
-|-|-|-|
-|Dysgerminoma|Seminoma|ALP & LDH|
-|Choriocarcinoma|Choriocarcinoma|hCG|
-|Endodermal sinus tumor (EST)|Endodermal sinus tumor (EST)|AFP|
-|Embryonal carcinoma|Embryonal carcinoma|hCG & AFP|
-|Teratoma|Teratoma|hCG & AFP|
+- Serous cystadenoma<br>cystadenocarcinoma
+- Mucinous cystadenoma<br>cystadenocarcinoma
+- Endometrioid carcinoma
+- Clear cell carcinoma
+- Mixed cell carcinoma
+- Transitional cell carcinoma [Brenner tumor]
+- Carcinosarcoma [Malignant mixed Mullerian tumor (MMMT)]
 
 ### Stromal Tumors
 
@@ -479,15 +479,15 @@
 |Granulosa cell tumor|Sertoli cell tumor|Inhibin|
 |Fibroma|Fibroma|-|
 
-### Epithelial Tumors
+### Germ Cell Tumors (GCT)
 
-- Serous cystadenoma / cystadenocarcinoma
-- Mucinous cystadenoma / cystadenocarcinoma
-- Endometrioid carcinoma
-- Clear cell carcinoma
-- Mixed cell carcinoma
-- Transitional cell carcinoma [Brenner tumor]
-- Carcinosarcoma [Malignant mixed Mullerian tumor (MMMT)]
+|Female|Male|Markers|
+|-|-|-|
+|Dysgerminoma|Seminoma|ALP & LDH|
+|Choriocarcinoma|Choriocarcinoma|hCG|
+|Endodermal sinus tumor (EST)|Endodermal sinus tumor (EST)|AFP|
+|Embryonal carcinoma|Embryonal carcinoma|hCG & AFP|
+|Teratoma|Teratoma|hCG & AFP|
 
 ## Triad of Meigs Syndrome
 
@@ -600,17 +600,18 @@
 
 ## Breast Tumors
 
-|Origin|Tumors|Subtype|
-|-|-|-|
-|Nipple|Paget disease|-|
-|Duct|Fibrocystic change|-|
-||Intraductal papilloma|-|
-||Ductal carcinoma in situ (DCIS)|Comedocarcinoma|
-||Invasive ductal carcinoma (IDC)|Medullary carcinoma|
-|Lobule|Lobular carcinoma in situ (LCIS)|-|
-||Invasive lobular carcinoma (ILC)|-|
-|Stroma|Fibroadenoma|-|
-||Phyllodes tumor|-|
+### Epithelial Tumors
+
+- Fibrocystic change
+- Intraductal papilloma
+- Ductal carcinoma in situ (DCIS)<br>Invasive ductal carcinoma (IDC)
+- Lobular carcinoma in situ (LCIS)<br>Invasive lobular carcinoma (ILC)
+- Medullary carcinoma
+
+### Stromal Tumors
+
+- Fibroadenoma
+- Phyllodes tumor
 
 ## Molecular Subtypes of Breast Cancer
 
