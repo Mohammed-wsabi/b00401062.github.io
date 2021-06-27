@@ -613,6 +613,8 @@
 - Fibroadenoma
 - Phyllodes tumor
 
+![](../Figures/Breast%20Tumors.png)
+
 ## Molecular Subtypes of Breast Cancer
 
 |Subtype|Receptors|Mutations|
