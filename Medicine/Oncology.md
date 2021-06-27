@@ -1,5 +1,23 @@
 # Oncology
 
+## Cancer Statistics
+
+### Leading Cancer Cases
+
+1. Breast
+2. Prostate
+3. Lung
+4. Colorectal
+5. Melanoma
+
+### Leading Cancer Deaths
+
+1. Lung
+2. Colorectal
+3. Pancreas
+4. Breast
+5. Prostate
+
 ## Oncogenes
 
 |Gene|Products|Tumors|
