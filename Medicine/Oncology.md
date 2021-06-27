@@ -70,6 +70,14 @@
 |PSA|Prostate cancer|
 |S-100|Melanoma<br>Schwannoma<br>Neurofibroma<br>Histiocytoma|
 
+## Common Metastases to Bone
+
+- Breat
+- Prostate
+- Lung
+- Kidney
+- Thyroid
+
 ## Presentation of Neurofibromatosis Type 1
 
 - Bone dysplasia
