@@ -65,6 +65,12 @@
 |Estradiol|Testosterone|Theca cells|Aromatase|Granulosa cells|Non-pregnancy|
 |Estriol|DHEA sulfate (DHEAS)|Adrenal gland|Sulfatase|Placenta|Pregnancy|
 
+## Incresed Exposure to Estrogen
+
+- Nulliparity
+- Early menarche
+- Late menopause
+
 ## Hormone Changes During Pregnancy
 
 |Item|Hormones|Sources|
