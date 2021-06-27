@@ -186,3 +186,14 @@
 |Cardiotoxicity|Anthracyclines<br>Trastuzumab|
 |Pulmonary fibrosis|Bleomycin<br>Busulfan|
 |Hemorrhagic cystitis|Cyclophosphamide|
+
+## Cancers Treated with Radiotherapy Only
+
+|Mnemonic|Cancer|
+|-|-|
+|O|Oral cancer|
+|N|Nasopharyngeal cancer|
+|L|Laryngeal cancer|
+|Y|Lymphoma|
+|Cure|Cervical cancer|
+|Possible|Prostate cancer|
