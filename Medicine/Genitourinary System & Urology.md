@@ -9,14 +9,6 @@
 |Membranous urethra|Urogenital sinus|Middle 1/3 urethra|
 |Penile urethra|Urogenital fold|Distal 1/3 urethra|
 
-## Urinary Incontinence
-
-|Type|Urgency|Nocturia|Residual volume|Etiology|
-|-|-|-|-|-|
-|Stress|-|-|-|Pelvic relaxation|
-|Urge|+|+|↓|Overactive bladder (OAB)|
-|Overflow|-|+|↑|Underactive bladder (UAB)|
-
 ## Etiology of Overactive Bladder (OAB)
 
 - Urinary tract infection (UTI)
@@ -31,6 +23,19 @@
 - Postoperative
 - Neurogenic bladder
 - Drug-induced
+
+## Urinary Incontinence
+
+|Type|Urgency|Nocturia|Residual volume|Etiology|
+|-|-|-|-|-|
+|Stress|-|-|-|Pelvic relaxation|
+|Urge|+|+|↓|Overactive bladder (OAB)|
+|Overflow|-|+|↑|Underactive bladder (UAB)|
+
+## Etiology of Urinary Retention
+
+- Obstruction
+- Underactive bladder (UAB)
 
 ## International Classification of Vesicoureteral Reflux (VUR)
 
