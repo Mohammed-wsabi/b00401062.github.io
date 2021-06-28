@@ -12,9 +12,17 @@
 
 ## Embryonic Development
 
-|Weeks|Milestones|
+|Week|Milestones|
 |-|-|
-|0 ~ 1|Implantation|
+|1|Implantation|
+|2|Bilaminar disc|
+|3|Trilaminar disc<br>Gastrulation<br>Neurulation|
+|4|Heart<br>Pharyngeal arches<br>Limb buds|
+|5|Lens pit<br>Nasal pit|
+|6|Hand plate<br>Foot plate|
+|7|Finger rays|
+|8|Fetal movement|
+|10|Genitalia|
 
 ## Extraembryonic Membranes {CAYA}
 
