@@ -116,14 +116,14 @@
 
 ## Prenatal Care
 
-|Weeks|Testing|
+|GA (weeks)|Testing|
 |-|-|
 |Initial visit|Pregnancy test<br>Dating|
 |10 ~ 12|PAPP-A<br>Nuchal translucency<br>± Chorionic villus sampling (CVS)|
 |16 ~ 20|Quad screening<br>± Amniocentesis|
 |20 ~ 24|Level II ultrasonagraphy|
 |24 ~ 28|100-g OGTT|
-|36|GBS culture|
+|35 ~ 37|GBS culture|
 
 ## Quad Screening {HAEI}
 
