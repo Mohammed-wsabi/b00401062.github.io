@@ -118,7 +118,8 @@
 
 |GA (weeks)|Testing|
 |-|-|
-|Initial visit|Pregnancy test<br>Dating|
+|3 ~ 4|Pregnancy test|
+|4 ~ 5|Gestational sac|
 |10 ~ 12|PAPP-A<br>Nuchal translucency<br>± Chorionic villus sampling (CVS)|
 |16 ~ 20|Quad screening<br>± Amniocentesis|
 |20 ~ 24|Level II ultrasonagraphy|
