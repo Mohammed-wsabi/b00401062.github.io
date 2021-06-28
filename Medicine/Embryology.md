@@ -10,6 +10,12 @@
     - Cytotrophoblast
     - Syncitiotrophoblast
 
+## Embryonic Development
+
+|Weeks|Milestones|
+|-|-|
+|0 ~ 1|Implantation|
+
 ## Extraembryonic Membranes {CAYA}
 
 |Membrane|Derivatives|Remnant|Markers|
