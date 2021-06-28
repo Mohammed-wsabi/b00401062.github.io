@@ -87,7 +87,7 @@
 
 - Uncertain LMP
 - Molar pregnancy
-- Multiple pregnancy
+- Multiple gestation
 - Macrosomia
 - Hydramnios
 - Obesity
