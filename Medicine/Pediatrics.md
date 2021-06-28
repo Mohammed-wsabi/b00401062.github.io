@@ -72,7 +72,7 @@
 |Rubella|Cataracts<br>Deafness<br>PDA<br>Blueberry muffin rash|Transplacental|
 |CMV|Periventricular calcifications<br>Chorioretinitis<br>Deafness<br>Blueberry muffin rash|Transplacental|
 |HSV|Encephalitis<br>Herpetic whitlow|Intrapartum|
-|HIV|AIDS|Intrapartum|
+|HIV|AIDS|Intrapartum<br>Breastfeeding|
 |Syphilis|Deafness<br>Saddle nose<br>Hutchinson teeth<br>Saber shins|Transplacental|
 |Parvovirus B19|Hydrops fetalis|Transplacental|
 |GBS<br>Escherichia coli<br>Listeria|Pneumonia<br>Meningitis|Intrapartum|
