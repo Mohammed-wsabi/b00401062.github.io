@@ -103,17 +103,6 @@
   - Germ cell tumors (GCT)
 - Aneuploidy
 
-## Hydatidiform Moles
-
-||Complete Mole|Partial Mole|
-|-|-|-|
-|Karyotype|46,XX / 46,XY|69,XXX / 69,XXY / 69,XYY|
-|hCG|↑↑↑↑|↑|
-|Uterine Size|↑|-|
-|Convert to Choriocarcinoma|2%|Rare|
-|Fetal Parts|-|+|
-|Components|2 sperms & 0 egg|2 sperms & 1 egg|
-
 ## Prenatal Care
 
 |GA (weeks)|Testing|
@@ -164,6 +153,30 @@
 - Head circumference (HC)
 - Abdominal circumference (AC)
 - Femur length (FL)
+
+## Spontaneous Abortion
+
+|Type|Bleeding|POC Expulsion|Cervical Os|POC Presence|FCA|Management|
+|-|-|-|-|-|-|-|
+|Threatened|+|-|Closed|+|+|Pelvic rest|
+|Missed|-|-|Closed|+|-|MUA / D&C|
+|Inevitable|+|-|Open|+|+|MUA / D&C|
+|Incomplete|+|+|Open|+|-|MUA / D&C|
+|Complete|-|-|Closed|-|-|-|
+
+- Product of conception (POC)
+- Fetal cardiac activity (FCA)
+
+## Hydatidiform Moles
+
+||Complete Mole|Partial Mole|
+|-|-|-|
+|Karyotype|46,XX / 46,XY|69,XXX / 69,XXY / 69,XYY|
+|hCG|↑↑↑↑|↑|
+|Uterine Size|↑|-|
+|Convert to Choriocarcinoma|2%|Rare|
+|Fetal Parts|-|+|
+|Components|2 sperms & 0 egg|2 sperms & 1 egg|
 
 ## Presentation of Preeclampsia
 
