@@ -881,8 +881,10 @@
   - Hepatitis virus
   - EBV
 - Drugs
-- Rheumatic fever & Rheumatoid arthritis
-- Lupus & Leprosy
+- Rheumatic fever
+- Rheumatoid arthritis
+- Lupus
+- Leprosy
 
 ## Presentation of Lyme Disease {FACE}
 
