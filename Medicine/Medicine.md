@@ -201,6 +201,12 @@
 |||Sigmoidoscopy|5|
 |||Colonoscopy|10|
 
+### Earlier Cancer Screening
+
+- Breast: 3 years after first sexual activity
+- Cervical: 10 years earlier than the first affected relative
+- Colon: 10 years earlier than the first affected relative
+
 ## Primary Survey for Trauma {ABCDE}
 
 - Airway
