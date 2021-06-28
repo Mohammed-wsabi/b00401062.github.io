@@ -83,7 +83,7 @@
 
 ![](../Figures/Hormone%20Change%20During%20Pregnancy.png)
 
-## Differential Diagnoses for Size/Date Discrepancy
+## Causes of Size/Date Discrepancy
 
 - Uncertain LMP
 - Molar pregnancy
@@ -93,6 +93,15 @@
 - Obesity
 - Distended bladder
 - Adnexal mass
+
+## Uses of hCG Level
+
+- Abortion
+- Ectopic pregnancy
+- Trophoblastic diseases (GTD)
+  - Hydatidiform moles
+  - Germ cell tumors (GCT)
+- Aneuploidy
 
 ## Hydatidiform Moles
 
