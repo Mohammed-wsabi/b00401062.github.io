@@ -125,19 +125,6 @@
 |24 ~ 28|100-g OGTT|
 |36|GBS culture|
 
-### Second Trimester
-
-- Ultrasonagraphy for HR & EBW & Anatomy
-- Blood pressure & Urinalysis
-- Blood glucose: 100-g 3-hour OGTT
-- Amniocentesis if indicated
-
-### Third Trimester
-
-- Ultrasonagraphy for HR & EBW & Presentation
-- Blood pressure & Urinalysis
-- Group B Streptococcus (GBS)
-
 ## Quad Screening {HAEI}
 
 - hCG
