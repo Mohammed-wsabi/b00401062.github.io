@@ -167,11 +167,19 @@
 - Product of conception (POC)
 - Fetal cardiac activity (FCA)
 
+## Management of Intrauterine Fetal Demise
+
+- 
+## Management of Induced Abortion
+
+- 
+
 ## Techniques of Surgical Evacuation
 
-- Manual uterine aspiration (MUA)
-- Dilatation and curettage (D&C)
-- Dilatation and evacuation (D&E)
+|Technique|GA (weeks)|
+|-|-|
+|Manual uterine aspiration (MUA)|< 12|
+|Dilatation and curettage (D&C)|12 ~ 24|
 
 ## Hydatidiform Moles
 
