@@ -316,11 +316,11 @@
 
 ### Pelvis
 
-|Class|Shape|Ischial Spines|Favored Presentation|
+|Class|Shape|Ischial Spines|Favored Positions|
 |-|-|-|-|
 |Gynecoid|Round|Non-prominent|All|
 |Android|Heart|Prominent|None|
-|Anthropoid|Vertical ellipse|Prominent|Vertex :: OP|
+|Anthropoid|Vertical ellipse|Prominent|OA & OP|
 |Platypelloid|Horizontal ellipse|Non-prominent|Tranverse|
 
 ![](../Figures/Pelvis%20Shapes.jpg)
