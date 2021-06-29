@@ -169,7 +169,7 @@
 
 ## Techniques of Surgical Evacuation
 
-- Manual uterine aspiration
+- Manual uterine aspiration (MUA)
 - Dilatation and curettage (D&C)
 - Dilatation and evacuation (D&E)
 
