@@ -335,10 +335,6 @@
 
 ![](../Figures/Bishop%20Score.png)
 
-## Apgar Score
-
-![](../Figures/Apgar%20Score.jpg)
-
 ## Classification of Perineal Lacerations
 
 |Degree|Depth|
