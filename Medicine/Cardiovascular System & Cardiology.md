@@ -558,6 +558,12 @@
 - Jugular vein distension (JVD) & Kussmaul sign
 - Distant heart sound
 
+## Blood Pressure
+
+- Hypotension: BP < 90/60 mmHg
+- Hypertension: BP > 140/90 mmHg
+- Hypertensive emergency: BP > 160/110 mmHg
+
 ## Treatment of Hypertension {ABVD}
 
 - ACEI & ARB
