@@ -198,7 +198,7 @@
 
 ## Presentation of Preeclampsia
 
-### Preeclampsia
+### Mild Preeclampsia
 
 - BP > 140/90 mmHg
 - Proteinuria :: dipstick ≥ 1+ / urine protein > 0.3 g/d
