@@ -201,7 +201,7 @@
 ### Preeclampsia
 
 - BP > 140/90 mmHg
-- Proteinuria :: Dipstick ≥ 1+ / Urine protein > 0.3 g/d
+- Proteinuria :: dipstick ≥ 1+ / urine protein > 0.3 g/d
 
 ### Severe Preeclampsia
 
@@ -214,7 +214,7 @@
 - Headache
 - Visual disturbances
 - Thrombocytopenia :: platelet count ≤ 100,000/µL
-- Disseminated Intravascular Coagulation (DIC)
+- Disseminated intravascular coagulation (DIC)
 
 ### HELLP Syndrome
 
