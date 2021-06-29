@@ -159,13 +159,19 @@
 |Type|Bleeding|POC Expulsion|Cervical Os|POC Presence|FCA|Management|
 |-|-|-|-|-|-|-|
 |Threatened|+|-|Closed|+|+|Pelvic rest|
-|Missed|-|-|Closed|+|-|MUA / D&C|
-|Inevitable|+|-|Open|+|+|MUA / D&C|
-|Incomplete|+|+|Open|+|-|MUA / D&C|
+|Missed|-|-|Closed|+|-|Expectant / Medical / Surgical|
+|Inevitable|+|-|Open|+|+|Expectant / Medical / Surgical|
+|Incomplete|+|+|Open|+|-|Expectant / Medical / Surgical|
 |Complete|-|-|Closed|-|-|-|
 
 - Product of conception (POC)
 - Fetal cardiac activity (FCA)
+
+## Techniques of Surgical Evacuation
+
+- Manual uterine aspiration
+- Dilatation and curettage (D&C)
+- Dilatation and evacuation (D&E)
 
 ## Hydatidiform Moles
 
