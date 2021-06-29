@@ -307,7 +307,7 @@
 - Lie: longitudinal & oblique & transverse
 - Presentation
   - Cephalic: vertex [occiput] & sinciput & brow & face & chin
-  - Breech: frank & complete & incomplete [footling]
+  - Breech: complete & incomplete [footling] & frank
   - Shoulder: arm & shoulder & trunk
 - Positions
   - Anterior: right anterior & anterior & left anterior
