@@ -154,6 +154,11 @@
 - Abdominal circumference (AC)
 - Femur length (FL)
 
+## Classification of Pregnancy Loss
+
+- Spontaneous abortion: < 20 weeks / < 500 g
+- Intrauterine fetal demise: > 20 weeks / > 500 g
+
 ## Spontaneous Abortion
 
 |Type|Bleeding|POC Expulsion|Cervical Os|POC Presence|FCA|Management|
@@ -167,19 +172,18 @@
 - Product of conception (POC)
 - Fetal cardiac activity (FCA)
 
-## Management of Intrauterine Fetal Demise
+## Mechanisms of Action of Medications for Medical Evacuation
 
-- 
-## Management of Induced Abortion
-
-- 
+|Mechanism|Medication|
+|-|-|
+|Progesterone antagonists|Mifepristone [RU486]|
+|PGE1 agonists|Misoprostol|
 
 ## Techniques of Surgical Evacuation
 
-|Technique|GA (weeks)|
-|-|-|
-|Manual uterine aspiration (MUA)|< 12|
-|Dilatation and curettage (D&C)|12 ~ 24|
+- Manual uterine aspiration (MUA): < 12 weeks
+- Dilatation and curettage (D&C): 12 ~ 24 weeks
+- Labor induction: > 24 weeks
 
 ## Hydatidiform Moles
 
