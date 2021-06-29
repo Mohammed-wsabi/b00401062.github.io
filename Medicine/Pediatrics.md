@@ -26,6 +26,10 @@
 |Normal (NBW)|2500 ~ 4000|
 |High (HBW)|> 4000|
 
+## Apgar Score
+
+![](../Figures/Apgar%20Score.jpg)
+
 ## New Ballard Score {HAPPSS}
 
 - Heel to ear
