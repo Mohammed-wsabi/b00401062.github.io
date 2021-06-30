@@ -206,8 +206,8 @@
 
 |Sequence|Control|Trigger|Mode|
 |-|-|-|-|
-|Continuous mandatory|Presure (PC) / Volume (VC)|Time|Assist-control ventilation (ACV)|
-|Intermittent mandatory|Presure (PC) / Volume (VC)|Time & Patient|Synchronized intermittent mandatory ventilation (SIMV)|
+|Continuous mandatory|Presure (PC)<br>Volume (VC)|Time|Assist-control ventilation (ACV)|
+|Intermittent mandatory|Presure (PC)<br>Volume (VC)|Time<br>Patient|Synchronized intermittent mandatory ventilation (SIMV)|
 |Continuous spontaneous|-|Patient|Pressure support ventilation (PSV)|
 
 ## Ventilation Weaning Parameters
