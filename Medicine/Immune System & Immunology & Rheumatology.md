@@ -423,6 +423,13 @@
 - Rashes :: salmon-colored
 - Splenomegaly
 
+## Types of Transplants
+
+- Autograft
+- Isograft
+- Allograft
+- Xenograft
+
 ## Types of Transplant Reactions
 
 |Type|Causes|Onset|
