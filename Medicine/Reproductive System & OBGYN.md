@@ -377,7 +377,7 @@
   - Vasa previa
 - Uterine rupture
 - Prior uterine surgery
-- Mechanical obstruction to vaginal birth
+- Cervical cancer
 
 ## Etiology of Postpartum Hemorrhage (PPH) {4T} {CARPIT}
 
