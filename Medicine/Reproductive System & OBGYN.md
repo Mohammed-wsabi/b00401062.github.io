@@ -408,6 +408,7 @@
 - Uterine rupture
 - Prior uterine surgery
 - Cervical cancer
+- HSV / HIV infection
 
 ## Etiology of Postpartum Hemorrhage (PPH) {4T} {CARPIT}
 
