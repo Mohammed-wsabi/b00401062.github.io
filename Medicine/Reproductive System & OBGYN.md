@@ -83,26 +83,6 @@
 
 ![](../Figures/Hormone%20Change%20During%20Pregnancy.png)
 
-## Causes of Size/Date Discrepancy
-
-- Inaccurate dating
-- Molar pregnancy
-- Multiple gestation
-- Macrosomia
-- Hydramnios
-- Obesity
-- Distended bladder
-- Adnexal mass
-
-## Uses of hCG Level
-
-- Abortion
-- Ectopic pregnancy
-- Trophoblastic diseases (GTD)
-  - Hydatidiform moles
-  - Germ cell tumors (GCT)
-- Aneuploidy
-
 ## Prenatal Care
 
 |GA (weeks)|Testing|
@@ -117,12 +97,32 @@
 |28 ~ 32|± Steroids|
 |35 ~ 37|GBS culture|
 
+## Causes of Size/Date Discrepancy
+
+- Inaccurate dating
+- Molar pregnancy
+- Multiple gestation
+- Macrosomia
+- Hydramnios
+- Obesity
+- Distended bladder
+- Adnexal mass
+
 ## Quad Screening {HAEI}
 
 - hCG
 - AFP
 - Estriol
 - Inhibin A
+
+## Etiology of Abnormal hCG Trending
+
+- Abortion
+- Ectopic pregnancy
+- Trophoblastic diseases (GTD)
+  - Hydatidiform moles
+  - Germ cell tumors (GCT)
+- Aneuploidy
 
 ## Etiology of Elevated AFP
 
