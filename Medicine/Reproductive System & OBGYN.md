@@ -274,7 +274,7 @@
 - Recurrent variable deceleration
 - Sinosoidal pattern
 
-## Treatment of Late Decelerations {STOP}
+## Management of Late Decelerations {STOP}
 
 - Sterile vaginal exam
 - Tocolysis
@@ -318,6 +318,15 @@
 |MgSO<sub>4</sub>|MgSO<sub>4</sub>|
 |NO donors|Glyceryl trinitrate|
 |Oxytocin antagonists|Atosiban|
+
+## Contraindications for Tocolysis
+
+- Gestational age (GA) > 34 weeks
+- Intrauterine fetal demise (IUFD)
+- Non-reassuring fetal status
+- Severe preeclampsia / eclampsia
+- Chorioamnionitis
+- Preterm premature rupture of membranes (PPROM)
 
 ## Stages of Labor
 
