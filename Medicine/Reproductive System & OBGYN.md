@@ -349,12 +349,14 @@
 - Lie: longitudinal & oblique & transverse
 - Presentation
   - Cephalic: vertex [occiput] & sinciput & brow & face & chin
-  - Breech: complete & incomplete [footling] & frank
+  - Breech: complete & incomplete & frank & footling
   - Shoulder: arm & shoulder & trunk
 - Positions
   - Anterior: right anterior & anterior & left anterior
   - Transverse: right transverse & left transverse
   - Posterior: right posterior & posterior & left posterior
+
+![](../Figures/Breech%20Presentation.jpg)
 
 ### Pelvis
 
