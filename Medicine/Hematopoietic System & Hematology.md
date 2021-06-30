@@ -410,39 +410,24 @@
 
 ## Mechanisms of Action of Antiplatelets
 
-|Mechanism|Medication|Indications|
-|-|-|-|
-|Gp2b/3a inhibitors|Abciximab|Antiplatelet|
-||Eptifibatide|Antiplatelet|
-||Tirofiban|Antiplatelet|
-|ADP antagonists|Clopidogrel|Antiplatelet|
-||Prasugrel|Antiplatelet|
-||Ticagrelor|Antiplatelet|
-||Ticlopidine|Antiplatelet|
-|PDE inhibitors|Dipyridamole|Antiplatelet|
-||Cilostazol|Antiplatelet|
-|COX inhibitors|NSAIDs|Antiplatelet|
+|Mechanism|Medication|
+|-|-|
+|Gp2b/3a inhibitors|Abciximab<br>Eptifibatide<br>Tirofiban|
+|ADP antagonists|Clopidogrel<br>Prasugrel<br>Ticagrelor<br>Ticlopidine|
+|PDE inhibitors|Dipyridamole<br>Cilostazol|
+|COX inhibitors|NSAIDs|
 
 ## Mechanisms of Action of Anticoagulants
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|VKOR inhibitors|Warfarin|Anticoagulant|
-||Coumadin|Anticoagulant|
-|Antithrombin inducers|Unfractionated heparin (UFH)|Anticoagulant|
-||Low-molecular-weight heparin (LMWH):<br>Enoxaparin<br>Dalteparin|Anticoagulant|
-||Fondaparinux|Anticoagulant|
-|Factor 10a inhibitors|Apixaban|Anticoagulant|
-||Rivaroxaban|Anticoagulant|
-|Factor 2a inhibitors|Hirudin|Anticoagulant|
-||Bivalirudin|Anticoagulant|
-||Argatroban|Anticoagulant|
-||Dabigatran|Anticoagulant|
-|Tissue plasminogen activators (tPAs)|Urokinase|Anticoagulant|
-||Streptokinase|Anticoagulant|
-||Alteplase|Anticoagulant|
-||Reteplase|Anticoagulant|
-||Tenecteplase|Anticoagulant|
+|VKOR inhibitors|Warfarin<br>Coumadin|
+|Antithrombin inducers|Unfractionated heparin (UFH)|
+||Low-molecular-weight heparin (LMWH):<br>Enoxaparin<br>Dalteparin|
+||Fondaparinux|
+|Factor 10a inhibitors|Apixaban<br>Rivaroxaban|
+|Factor 2a inhibitors|Hirudin<br>Bivalirudin<br>Argatroban<br>Dabigatran|
+|Tissue plasminogen activators (tPAs)|Urokinase<br>Streptokinase<br>Alteplase<br>Reteplase<br>Tenecteplase|
 
 ## Heparin Variants
 
