@@ -367,6 +367,13 @@
 
 ![](../Figures/Bishop%20Score.png)
 
+## Management of Shoulder Dystocia
+
+- Suprapubic pressure
+- McRoberts maneuver
+- Woods screw maneuver
+- Episiotomy
+
 ## Classification of Perineal Lacerations
 
 |Degree|Depth|
