@@ -410,7 +410,7 @@
 - Cervical cancer
 - HSV / HIV infection
 
-## Etiology of Postpartum Hemorrhage (PPH) {4T} {CARPIT}
+## Etiology of Postpartum Hemorrhage (PPH) {4T}
 
 |Mnemonic|Etiology|
 |-|-|
