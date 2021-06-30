@@ -415,11 +415,9 @@
 |Mnemonic|Etiology|
 |-|-|
 |Thrombin|Coagulopathy|
-|Tone|Atonic uterus|
-|-|Ruptured uterus|
-|Tissue|Plancental retention|
-|-|Implantation site bleeding|
-|Trauma|Trauma to the GU tract|
+|Tone|Atonic uterus<br>Ruptured uterus|
+|Tissue|Plancental retention<br>Implantation site bleeding|
+|Trauma|Genitourinary tract|
 
 ## Etiology of Abnormal Uterine Bleeding (AUB) {PALM-COEIN}
 
