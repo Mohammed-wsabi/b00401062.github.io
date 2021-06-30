@@ -286,8 +286,8 @@
 ## Amniotic Fluid Index (AFI)
 
 - Oligohydramnios: AFI < 5 cm / the deepest vertical pool < 2 cm
-- Normal: AFI 5 ~ 24 cm
-- Polyhydramnios: AFI > 24 cm
+- Normal: AFI 5 ~ 25 cm
+- Polyhydramnios: AFI > 25 cm
 
 ## Sterile Speculum Exam
 
