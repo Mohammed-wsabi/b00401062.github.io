@@ -211,7 +211,7 @@
 |Karyotype|46,XX / 46,XY|69,XXX / 69,XXY / 69,XYY|
 |hCG|↑↑↑↑|↑|
 |Uterine Size|↑|-|
-|Convert to Choriocarcinoma|2%|Rare|
+|Choriocarcinoma|2%|Rare|
 |Fetal Parts|-|+|
 |Components|2 sperms & 0 egg|2 sperms & 1 egg|
 
