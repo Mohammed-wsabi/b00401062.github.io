@@ -85,7 +85,7 @@
 
 ## Causes of Size/Date Discrepancy
 
-- Uncertain LMP
+- Inaccurate dating
 - Molar pregnancy
 - Multiple gestation
 - Macrosomia
@@ -126,6 +126,7 @@
 
 ## Etiology of Elevated AFP
 
+- Inaccurate dating
 -  Germ cell tumors (GCT)
   - Endodermal sinus tumor (EST)
   - Embryonal carcinoma
@@ -142,13 +143,12 @@
 - Fetal demise
 - Multiple gestation
 - Placental abruption
-- Inaccurate gestational dating
 
 ## Etiology of Reduced AFP
 
+- Inaccurate dating
 - Trisomy 21 & 18
 - Fetal demise
-- Inaccurate gestational dating
 
 ## Fetal Biometric Parameters on Ultrasound
 
