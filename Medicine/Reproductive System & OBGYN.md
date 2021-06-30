@@ -157,33 +157,54 @@
 ## Classification of Pregnancy Loss
 
 - Spontaneous abortion: < 20 weeks / < 500 g
-- Intrauterine fetal demise: > 20 weeks / > 500 g
+- Intrauterine fetal demise (IUFD): > 20 weeks / > 500 g
 
 ## Spontaneous Abortion
 
 |Type|Bleeding|POC Expulsion|Cervical Os|POC Presence|FCA|Management|
 |-|-|-|-|-|-|-|
 |Threatened|+|-|Closed|+|+|Pelvic rest|
-|Missed|-|-|Closed|+|-|Expectant / Medical / Surgical|
 |Inevitable|+|-|Open|+|+|Expectant / Medical / Surgical|
 |Incomplete|+|+|Open|+|-|Expectant / Medical / Surgical|
-|Complete|-|-|Closed|-|-|-|
+|Missed|-|-|Closed|+|-|Expectant / Medical / Surgical|
+|Complete|+|+|Closed|-|-|-|
 
 - Product of conception (POC)
 - Fetal cardiac activity (FCA)
 
-## Mechanisms of Action of Medications for Medical Evacuation
+## Management of Irreversible Spontaneous Abortion
+
+- Expectant management
+- Medical evacuation: Mifepristone [RU486] & Misoprostol
+- Surgical evacuation
+  - Manual uterine aspiration (MUA): < 12 weeks
+  - Dilatation and curettage (D&C): > 12 weeks
+
+## Management of Intrauterine Fetal Demise (IUFD)
+
+- Dilatation and curettage (D&C): < 24 weeks
+- Labor induction: > 24 weeks / autopsy
+
+## Management of Induced Abortion
+
+### First Trimester
+
+- Medical abortion
+  - Misoprostol & Mifepristone
+  - Misoprostol & Methotrexate
+  - Misoprostol
+- Manual uterine aspiration (MUA)
+
+### Second Trimester
+
+- Labor induction
+- Dilatation and curettage (D&C)
+
+## Mechanisms of Action of Medications for Labor Induction
 
 |Mechanism|Medication|
 |-|-|
-|Progesterone antagonists|Mifepristone [RU486]|
 |PGE1 agonists|Misoprostol|
-
-## Techniques of Surgical Evacuation
-
-- Manual uterine aspiration (MUA): < 12 weeks
-- Dilatation and curettage (D&C): 12 ~ 24 weeks
-- Labor induction: > 24 weeks
 
 ## Hydatidiform Moles
 
