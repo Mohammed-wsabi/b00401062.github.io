@@ -218,6 +218,7 @@
 ## Multiple Gestation
 
 |Type|Cleavage|
+|-|-|
 |Dichorionic diamniotic (DCDA)|Before Morula|
 |Monochorionic diamniotic (MCDA)|Morula ~ Blastocyst|
 |Monochorionic monoamniotic (MCMA)|After blastocyst|
