@@ -113,6 +113,8 @@
 |16 ~ 20|Quad screening<br>± Amniocentesis|
 |20 ~ 24|Level II ultrasonagraphy|
 |24 ~ 28|100-g OGTT|
+|26 ~ 28|± RhoGAM|
+|28 ~ 32|± Steroids|
 |35 ~ 37|GBS culture|
 
 ## Quad Screening {HAEI}
@@ -131,7 +133,9 @@
 - Neural tube defects :: open
   - Anencephaly
   - Encephalocele
-  - Spina bifida
+  - Spina bifida aperta
+    - Meningocele
+    - Myelomeningocele
 - Abdominal wall defects
   - Gastroschisis
   - Omphalocele
