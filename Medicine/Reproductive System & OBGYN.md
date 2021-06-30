@@ -248,7 +248,7 @@
 - Elevated liver enzymes
 - Low platelet count
 
-## Indications of Intrapartum Prophylaxis Against GBS
+## Indications of Intrapartum GBS Prophylaxis
 
 - Fever
 - History of GBS-affected neonates
