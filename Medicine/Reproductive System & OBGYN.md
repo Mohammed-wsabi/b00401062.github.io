@@ -215,6 +215,13 @@
 |Fetal Parts|-|+|
 |Components|2 sperms & 0 egg|2 sperms & 1 egg|
 
+## Multiple Gestation
+
+|Type|Cleavage|
+|Dichorionic diamniotic (DCDA)|Before Morula|
+|Monochorionic diamniotic (MCDA)|Morula ~ Blastocyst|
+|Monochorionic monoamniotic (MCMA)|After blastocyst|
+
 ## Presentation of Preeclampsia
 
 ### Mild Preeclampsia
