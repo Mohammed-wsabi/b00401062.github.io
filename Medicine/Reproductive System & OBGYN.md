@@ -204,12 +204,6 @@
 - Labor induction
 - Dilatation and curettage (D&C)
 
-## Mechanisms of Action of Medications for Labor Induction
-
-|Mechanism|Medication|
-|-|-|
-|PGE1 agonists|Misoprostol|
-
 ## Hydatidiform Moles
 
 ||Complete Mole|Partial Mole|
@@ -300,16 +294,22 @@
 - Ferning
 - Nitrazine
 
+## Medications for Labor Induction
+
+|Mechanism|Medication|
+|-|-|
+|PGE1 agonists|Misoprostol|
+
 ## Medications for Tocolysis
 
-|Mechanism|Medication|Indications|
-|-|-|-|
-|β<sub>2</sub> agonists|Terbutaline<br>Ritodrine|Tocolysis|
-|COX inhibitors|Indomethacin|Tocolysis|
-|Ca channel blockers|Nifedipine|Tocolysis|
-|MgSO<sub>4</sub>|MgSO<sub>4</sub>|Tocolysis|
-|NO donors|Glyceryl trinitrate|Tocolysis|
-|Oxytocin antagonists|Atosiban|Tocolysis|
+|Mechanism|Medication|
+|-|-|
+|β<sub>2</sub> agonists|Terbutaline<br>Ritodrine|
+|COX inhibitors|Indomethacin|
+|Ca channel blockers|Nifedipine|
+|MgSO<sub>4</sub>|MgSO<sub>4</sub>|
+|NO donors|Glyceryl trinitrate|
+|Oxytocin antagonists|Atosiban|
 
 ## Stages of Labor
 
