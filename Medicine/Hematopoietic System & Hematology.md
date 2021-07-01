@@ -419,8 +419,8 @@
 
 ## Mechanisms of Action of Anticoagulants
 
-|Mechanism|Medication|Indications|
-|-|-|-|
+|Mechanism|Medication|
+|-|-|
 |VKOR inhibitors|Warfarin<br>Coumadin|
 |Antithrombin inducers|Unfractionated heparin (UFH)|
 ||Low-molecular-weight heparin (LMWH):<br>Enoxaparin<br>Dalteparin|
