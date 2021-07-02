@@ -117,6 +117,16 @@
 - 1° Hypoparathyroidism → Hypocalcemia
 - 22q11 microdeletion
 
+## Presentation of Fetal Alcohol Syndrome (FAS)
+
+- Intrauterine growth retardation (IUGR)
+- Short palpebral fissure
+- Midfacial hypoplasia
+- Smooth philtum
+- Thin vermilion border
+- Microcephaly
+- Mental retardation
+
 ## Presentation of Kawasaki Disease {F-SCARE}
 
 - Fever :: > 40°C for > 5 days
