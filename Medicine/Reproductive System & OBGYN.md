@@ -307,6 +307,7 @@
 |Mechanism|Medication|
 |-|-|
 |PGE1 agonists|Misoprostol|
+|Oxytocin agonists|Carbetocin|
 
 ## Medications for Tocolysis
 
