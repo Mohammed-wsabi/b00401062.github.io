@@ -148,18 +148,19 @@
 - Glossitis
 - Squamous cell carcinoma
 
-## Etiology of Gastritis {BANISH}
+## Etiology of Gastritis
 
+- Achlorhydria
+- Alcohol
+- Autoimmune gastritis
 - Biliary reflux
 - Brain injury → Cushing ulcer
 - Burns → Curling ulcer
-- Achlorhydria
-- Alcohol
-- Autoimmunity → Autoimmune gastritis
-- NSAIDs
+- Drugs
+  - NSAIDs
+  - Corticosteroids
 - Ischemia
 - Smoking
-- Steroids
 - Stress
 - Helicobacter pylori
 
