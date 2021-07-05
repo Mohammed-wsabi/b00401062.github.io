@@ -82,13 +82,6 @@
 |GBS<br>Escherichia coli<br>Listeria|Pneumonia<br>Meningitis|Intrapartum|
 |Neisseria gonorrhoea<br>Chlamydia trachomatis|Conjunctivitis|Intrapartum|
 
-## Developmental Dysplasia of Hip (DDH)
-
-- Barlow test
-- Ortolani test
-
-![](../Figures/Developmental%20Dysplasia%20of%20Hip%20(DDH)%20>%20Barlow%20and%20Ortolani%20Test.jpg)
-
 ## VACTERL Association {VACTERL}
 
 - Vertebral anomalies
