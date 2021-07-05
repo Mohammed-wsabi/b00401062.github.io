@@ -12,14 +12,14 @@
 |G<sub>i</sub>PCR|-|
 |Receptor tyrosine kinase (RTK): AMPK pathway|Insulin & GF|
 |Non-receptor tyrosine kinase (NRTK): JAK/STAT pathway|GH & PRL & Cytokines|
-|Steroid receptor|TH & Aldosterone & Cortisol & SH|
+|Steroid receptor|TH & Mineralocorticoid & Glucocorticoid & SH|
 
 ## Hypothalamic-Pituitary Axises
 
 |Hypothalamus|Pituitary|Periphery|
 |-|-|-|
 |TRH|↑ TSH & PRL|TH|
-|CRH|↑ ACTH & MSH|Cortisol & Melanin|
+|CRH|↑ ACTH & MSH|Glucocorticoid & Melanin|
 |GnRH|↑ LH & FSH|SH|
 |GHRH|↑ GH|IGF-1|
 |Somatostatin|↓ GH & TSH & 5-HT|-|
@@ -36,8 +36,8 @@
 |Thyroid|TH|↑ TSH|↑ TRH|↑ Metabolism|
 ||Calcitonin|-|-|↓ Ca|
 |Parathyroid|PTH|-|-|↑ Ca & ↓ Phosphate|
-|Adrenal|Aldosterone|↑ Angiotensin|↑ Renin|↑ Na & BP|
-||Cortisol|↑ ACTH|↑ CRH|↑ Glucose|
+|Adrenal|Mineralocorticoid|↑ Angiotensin|↑ Renin|↑ Na & BP|
+||Glucocorticoid|↑ ACTH|↑ CRH|↑ Glucose|
 ||SH|-|-|↑ Sex|
 |Gonad|SH|↑ LH & FSH|↑ GnRH|↑ Sex|
 |Liver|IGF-1|↑ GH|↑ GHRH|↑ Glucose|
@@ -155,8 +155,8 @@
 
 |Mnemonic|Layer|Mnemonic|Secretion|
 |-|-|-|-|
-|Glomerular|Zona glomerulosa|Salt|Aldosterone|
-|Filtration|Zona fasciculata|Sugar|Cortisol|
+|Glomerular|Zona glomerulosa|Salt|Mineralocorticoid|
+|Filtration|Zona fasciculata|Sugar|Glucocorticoid|
 |Rate|Zona reticularis|Sex|Androgen|
 
 ## Steroid Synthesis of Adrenal Gland
@@ -165,23 +165,23 @@
 
 ## Congenital Adrenal Hyperplasia
 
-|Deficiency|Aldosterone|Cortisol|Androgen|BP|
+|Deficiency|Mineralocorticoid|Glucocorticoid|Androgen|BP|
 |-|-|-|-|-|
-|17-Hydroxylase|↑|↓|↓|↑|
 |21-Hydroxylase|↓|↓|↑|↓|
 |11-Hydroxylase|↓|↓|↑|↑|
+|17-Hydroxylase|↑|↓|↓|↑|
 
-## Differential Diagnosis of Aldosterone Disorders
+## Differential Diagnosis of Mineralocorticoid Disorders
 
-|Diagnosis|Na & BP|Renin|Aldosterone|
+|Diagnosis|Na & BP|Renin|Mineralocorticoid|
 |-|-|-|-|
 |CAH :: 21-Hydroxylase deficiency|↓|↑|↓ (1°)|
-|CAH :: 11-Hydroxylase deficiency|↓/↑|↑/↓|↓ (1°)|
 |Waterhouse-Friderichsen syndrome|↓|↑|↓ (1°)|
 |Hypertension|↑ (1°)|↓|↓|
 |Liddle syndrome|↑ (1°)|↓|↓|
 |Conn syndrome|↑|↓|↑ (1°)|
 |Adrenal tumor|↑|↓|↑ (1°)|
+|CAH :: 11-Hydroxylase deficiency|↑|↓|↑ (1°)|
 |CAH :: 17-Hydroxylase deficiency|↑|↓|↑ (1°)|
 |Exogenous steroid|↑|↓|↑ (1°)|
 |Renin-secreting tumor|↑|↑ (1°)|↑|
@@ -190,9 +190,9 @@
 |Bartter syndrome|↓ (1°)|↑|↑|
 |Gitelman syndrome|↓ (1°)|↑|↑|
 
-## Differential Diagnosis of Cortisol Disorders
+## Differential Diagnosis of Glucocorticoid Disorders
 
-|Diagnosis|CRH|ACTH|Cortisol|
+|Diagnosis|CRH|ACTH|Glucocorticoid|
 |-|-|-|-|
 |Congenital adrenal hyperplasia (CAH)|↑|↑|↓ (1°)|
 |Addison disease|↑|↑|↓ (1°)|
@@ -227,7 +227,7 @@
 |-|-|-|-|
 |GH|↑|Lipid|Protein|
 |TH|↑|Glycogen & Protein & Lipid|Glucose|
-|Cortisol|↑|Protein & Lipid|Glucose|
+|Glucocorticoid|↑|Protein & Lipid|Glucose|
 |Catecholamine|↑|Glycogen & Lipid|Glucose|
 |Glucagon|↑|Glycogen & Lipid|Glucose|
 |Insulin|↓|Glucose|Glycogen & Protein & Lipid|
