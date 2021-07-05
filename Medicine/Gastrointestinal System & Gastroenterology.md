@@ -115,7 +115,7 @@
 |H<sub>1</sub> antagonists :: 1°|Chlorpheniramine<br>Diphenhydramine<br>Meclizine<br>Promethazine|Emesis :: motion sickness|
 |Neurokinin antagonists|Aprepitant|Emesis :: chemotherapy|
 |Cannabinoid agonists|Dronabinol|Emesis :: chemotherapy|
-|-|Steroids|Emesis :: chemotherapy|
+|-|Corticosteroids|Emesis :: chemotherapy|
 
 ## Etiology of Diarrhea
 
