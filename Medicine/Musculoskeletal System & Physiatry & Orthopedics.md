@@ -89,6 +89,21 @@
 - Scaphoid fracture
 - Hook of hamate fracture
 
+## Screening for Developmental Dysplasia of Hip (DDH)
+
+- Barlow test
+- Ortolani test
+
+![](../Figures/Screening%20for%20Developmental%20Dysplasia%20of%20Hip%20(DDH).jpg)
+
+## Management of Developmental Dysplasia of Hip (DDH)
+
+- Pavlik harness
+- Reduction
+  - Closed reduction: 6 ~ 18 months
+  - Open reduction: > 18 months
+- Hip spica cast
+
 ## Management of Scoliosis
 
 |Curvature|Management|
