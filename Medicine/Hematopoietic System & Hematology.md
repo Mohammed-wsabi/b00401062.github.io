@@ -405,7 +405,7 @@
 |Prothrombin gene mutation|↑ Factor 2|
 |Antithrombin deficiency|↓ Antithrombin|
 |Protein C/S deficiency|↓ Protein C/S|
-|Nephrosis|↓ Protein C/S|
+|Nephrosis|↓ Protein C/S|ro
 |Pregnancy|↑ Factor 1|
 
 ## Mechanisms of Action of Antiplatelets
@@ -469,7 +469,7 @@
 - Neurologic symptoms
 - Fever
 
-## Triad of Hemolytic Uremic Syndrome (HUS) {RAT}
+## Triad of Hemolytic Uremic Syndrome (HUS)
 
 - Renal symptoms
 - Anemia
@@ -478,14 +478,14 @@
 ## Treatment of Thrombotic Thrombocytopenic Purpura (TTP)
 
 - Immunosuppression
-  - Steroids
+  - Corticosteroids
   - Rituximab
 - Plasma exchange therapy (PEX)
 
 ## Treatment of Immune Thrombocytopenic Purpura (ITP)
 
 - Immunosuppression
-  - Steroids
+  - Corticosteroids
   - Rituximab
 - Intravenous immunoglobulin (IVIG)
 - Splenectomy
