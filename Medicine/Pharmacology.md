@@ -293,7 +293,7 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |Thyroid peroxidase inhibitors|Propylthiouracil<br>Methimazole<br>Iodine [Lugol] solution|Hyperthyroidism|
-|Deiodinase inhibitors|Propylthiouracil<br>Propranolol<br>Steroids|Hyperthyroidism|
+|Deiodinase inhibitors|Propylthiouracil<br>Propranolol<br>Corticosteroids|Hyperthyroidism|
 |TH agonists|Levothyroxine<br>Triiodothyronine|Hypothyroidism|
 
 ## Mechanisms of Action of Medications Targeting Sex Hormones
@@ -486,7 +486,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|NF-κB inhibitors|Steroids<br>Mesalazine|Immunosuppression|
+|NF-κB inhibitors|Corticosteroids<br>Mesalazine|Immunosuppression|
 |TNF-α inhibitors|Etanercept|Immunosuppression|
 |Calcineurin inhibitors|Cyclosporine<br>Tacrolimus|Immunosuppression|
 |mTOR inhibitors|Sirolimus<br>Everolimus|Immunosuppression|
