@@ -101,7 +101,7 @@
 |β<sub>2</sub> agonists|Albuterol|Asthma :: acute|
 ||Salmeterol & Formoterol|Asthma :: chronic|
 |M antagonists|Ipratropium & Tiotropium|Asthma|
-|NF-κB inhibitors|Steroids|Asthma|
+|NF-κB inhibitors|Corticosteroids|Asthma|
 |LOX inhibitors|Zileuton|Asthma|
 |LTD<sub>4</sub> antagonists|Montelukast|Asthma|
 ||Zafirlukast|Asthma|
