@@ -547,7 +547,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|NF-κB inhibitors|Steroids|Multiple sclerosis|
+|NF-κB inhibitors|Corticosteroids|Multiple sclerosis|
 |-|Plasmapheresis|Multiple sclerosis|
 |CD20 inhibitors|Ocrelizumab|Multiple sclerosis|
 |CD52 inhibitors|Alemtuzumab|Multiple sclerosis|
