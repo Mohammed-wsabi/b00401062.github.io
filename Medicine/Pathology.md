@@ -250,8 +250,7 @@
 
 |Steps|Enzyme|Cofactor|Diseases|
 |-|-|-|-|
-|Hydroxylation|Proline hydroxylase|Vitamin C|Scurvy|
-|Hydroxylation|Lysine hydroxylase|Vitamin C|Scurvy|
+|Hydroxylation|Proline hydroxylase<br>Lysine hydroxylase|Vitamin C|Scurvy|
 |Glycosylation|-|-|Osteogenesis imperfecta|
 |Exocytosis|-|-|-|
 |Cleavage|-|-|-|
