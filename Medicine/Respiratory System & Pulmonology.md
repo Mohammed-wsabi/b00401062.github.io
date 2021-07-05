@@ -129,13 +129,21 @@
 
 ## Modified Wells Criteria for Pulmonary Embolism
 
-- Signs/symptoms of DVT
-- PE is most likely clinical diagnosis
-- Tachycardia
-- Immobilization
-- Previous PE/DVT
-- Hemoptysis
-- Malignancy
+|Criteria|Points|
+|-|-|
+|DVT symptoms/signs|3|
+|Clinical suspicion|3|
+|Tachycardia|1.5|
+|Immobilization|1.5|
+|Previous PE/DVT|1.5|
+|Hemoptysis|1|
+|Malignancy|1|
+
+## Evaluation for Pulmonary Embolism
+
+- D-dimer
+- CT angiography
+- Ventilation/Perfusion (V/Q) scan
 
 ## Sputum Sample for Gram Stain
 
