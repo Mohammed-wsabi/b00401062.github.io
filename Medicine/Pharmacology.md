@@ -347,7 +347,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|PGE1 agonists|Misoprostol|Abortion<br>Peptic ulcer disease (PUD)|
+|PGE1 agonists|Misoprostol|Labor<br>Abortion<br>Peptic ulcer disease (PUD)|
 ||Alprostadil|Impotence<br>PDA maintenance|
 |PGF2 agonists|Latanoprost|Glaucoma|
 |PGI2 agonists|Epoprostenol|Pulmonary hypertension|
