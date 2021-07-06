@@ -178,9 +178,8 @@
 |H<sub>2</sub> antagonists|Cimetidine<br>Ranitidine<br>Famotidine<br>Nizatidine|
 |PGE<sub>1</sub> agonists|Misoprostol|
 |Antacids|Aluminum hydroxide<br>Calcium carbonate<br>Magnesium hydroxide|
-|Antimicrobials|Bismuth|
-||Amoxicillin / Metronidazole|
-||Macrolides|
+|Antimicrobials|Amoxicillin / Metronidazole<br>Macrolides|
+|-|Bismuth|
 |-|Sucralfate|
 
 ## Types of Gastrectomy
