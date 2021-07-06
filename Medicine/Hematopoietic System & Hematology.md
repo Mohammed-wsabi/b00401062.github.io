@@ -469,18 +469,18 @@
 - Neurologic symptoms
 - Fever
 
-## Triad of Hemolytic Uremic Syndrome (HUS)
-
-- Renal symptoms
-- Anemia
-- Thrombocytopenia
-
 ## Treatment of Thrombotic Thrombocytopenic Purpura (TTP)
 
 - Immunosuppression
   - Corticosteroids
   - Rituximab
-- Plasma exchange therapy (PEX)
+- Plasma exchange (PEX)
+
+## Triad of Hemolytic Uremic Syndrome (HUS)
+
+- Renal symptoms
+- Anemia
+- Thrombocytopenia
 
 ## Treatment of Immune Thrombocytopenic Purpura (ITP)
 
