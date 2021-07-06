@@ -137,7 +137,7 @@
 |-|-|
 |Estrogen modulators|Raloxifene|
 |PTH antagonists<br>Osteoblast inducers|Teriparatide :: pulsatile|
-|Osteoclast inhibitors|Bisphosphonate [-Dronates]|
+|Osteoclast inhibitors|Bisphosphonates [-Dronates]|
 |RANKL inhibitors|Denosumab|
 
 ## Synovial Fluid Analysis
