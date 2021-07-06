@@ -474,6 +474,16 @@
 - Pulmonary embolism
 - Variant angina
 
+## Coronay Artery Disease (CAD)
+
+|Type|Pathogenesis|T Wave|ST Segment|Q Wave|Triggers|Cardiac Enzymes|
+|-|-|-|-|-|-|-|
+|Variant [Prinzmetal] angina|Coronary artery spasm|HTW|STE|-|Drugs|-|
+|Stable angina|Coronary artery thrombosis|-|STD|-|Exertion|-|
+|Unstable angina|Coronary artery thrombosis|TWI|STD|-|Anytime|-|
+|NSTEMI [NQMI]|Subendocardial infarction|TWI|STD|-|Anytime|↑|
+|STEMI [QWMI]|Transmural infarction|HTW|STE|PQW|Anytime|↑|
+
 ## Risk Factors for Coronay Artery Disease (CAD)
 
 - Elderly
@@ -483,16 +493,6 @@
 - Hypertension
 - HDL < 40 mg/dL
 - Cigarette smoking
-
-## Acute Coronary Syndrome (ACS)
-
-|Types|Pathogenesis|T Wave|ST Segment|Q Wave|Triggers|Cardiac Enzymes|
-|-|-|-|-|-|-|-|
-|Variant [Prinzmetal] angina|Coronary artery spasm|HTW|STE|-|Drugs|-|
-|Stable angina|Coronary artery thrombosis|-|STD|-|Exertion|-|
-|Unstable angina|Coronary artery thrombosis|TWI|STD|-|Anytime|-|
-|NSTEMI [NQMI]|Subendocardial infarction|TWI|STD|-|Anytime|↑|
-|STEMI [QWMI]|Transmural infarction|HTW|STE|PQW|Anytime|↑|
 
 ## Complications of Myocardial Infarction
 
