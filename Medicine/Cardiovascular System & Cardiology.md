@@ -522,6 +522,10 @@
   - ADP antagonists
 - Anticoagulants :: Heparin
 - β<sub>1</sub> antagonists
+- Thrombolysis
+- Revascularization
+  - Percutaneous intervention (PCI)
+  - Coronary artery bypass grafting (CABG)
 
 ## Ideal Length of Time Between Presentation and Therapy for ACS
 
@@ -594,9 +598,10 @@
 - Antiplatelets
   - Aspirin
   - ADP antagonists
+- Anticoagulants :: Heparin
 - Revascularization
-  - Percutaneous intervention (PCI)
-  - Coronary artery bypass grafting (CABG)
+  - Percutaneous transluminal angioplasty (PTA)
+  - Arterial bypass surgery
 
 ## Vasculitis
 
