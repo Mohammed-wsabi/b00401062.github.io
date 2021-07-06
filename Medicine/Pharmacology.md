@@ -65,7 +65,7 @@
 |Ca channel blockers|Class 4 antiarrhythmics|Arrhythmia|
 ||-Dipines|Vasodilation|
 ||Dantrolene|Malignant hyperthermia<br>Neuroleptic malignant syndrome (NMS)|
-||Ethosuximide|Seizure :: absence|
+||Ethosuximide|Seizure|
 ||Gabapentin<br>Pregabalin|Seizure<br>Neuropathic pain|
 |Na-K pump blockers|Digoxin<br>Digitalis|Arrhythmia<br>Inotrope|
 ||Ouabain|-|
