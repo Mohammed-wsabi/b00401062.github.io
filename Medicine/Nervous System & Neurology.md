@@ -315,13 +315,13 @@
 ### Sympathetic
 
 - Adrenal gland
-- Aqueous humor
+- Ciliary epithelium → aqueous humor
 - Blood vessels
-- Bronchus
+- Bronchus → bronchodilation
 - Dilator pupillae → mydriasis
 - Ejaculation
 - Heart
-- Renin
+- Juxtaglomerular cell → Renin
 - Sphincter muscle
   - Intestine
   - Bladder
@@ -329,17 +329,15 @@
 
 ### Parasympathetic
 
-- Bronchus
-- Ciliary muscle
+- Bronchus → bronchoconstriction
+- Ciliary muscle → cycloplegia
 - Erection
-- Exocrine glands - sweat gland
-  - Lacrimal gland
-  - Salivary gland
+- Exocrine glands
 - Heart
 - Insulin
 - Smooth muscle
-  - Intestine → peristalsis
-  - Bladder → micturition
+  - GI tract → peristalsis
+  - GU tract → micturition
 - Sphincter pupillae → miosis
 
 ## Signalling Pathways of Neurotransmitters
