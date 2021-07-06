@@ -87,34 +87,34 @@
 
 ## Mechanisms of Action of Venodilators
 
-|Mechanism|Medication|Indications|
-|-|-|-|
-|μ-opioid agonists|Morphine|Venodilation|
-|NO donors|Nitroglycerin<br>Isosorbide|Venodilation|
+|Mechanism|Medication|
+|-|-|
+|μ-opioid agonists|Morphine|
+|NO donors|Nitroglycerin<br>Isosorbide|
 
 ## Mechanisms of Action of Vasodilators
 
-|Mechanism|Medication|Indications|
-|-|-|-|
-|α<sub>1</sub> antagonists|Terazosin<br>Doxazosin<br>Prazosin|Vasodilation|
-|α<sub>2</sub> agonists|Clonidine<br>Methyldopa|Vasodilation|
-|Ca channel blockers|-Dipines|Vasodilation|
-|K channel activators|Minoxidil<br>Diazoxide|Vasodilation|
-|NO donors|Nitroprusside<br>Hydralazine|Vasodilation|
-|PDE inhibitors|Dipyridamole<br>Cilostazol|Vasodilation|
-|A<sub>1</sub> agonists|Adenosine|Vasodilation|
+|Mechanism|Medication|
+|-|-|
+|α<sub>1</sub> antagonists|Terazosin<br>Doxazosin<br>Prazosin|
+|α<sub>2</sub> agonists|Clonidine<br>Methyldopa|
+|Ca channel blockers|-Dipines|
+|K channel activators|Minoxidil<br>Diazoxide|
+|NO donors|Nitroprusside<br>Hydralazine|
+|PDE inhibitors|Dipyridamole<br>Cilostazol|
+|A<sub>1</sub> agonists|Adenosine|
 
 ## Mechanisms of Action of Inotropes
 
-|Mechanism|Medication|Indications|
-|-|-|-|
-|β<sub>1</sub> agonists|Dopamine: D > β<sub>1</sub> > α<sub>1</sub>|Inotrope|
-||Dobutamine: β<sub>1</sub> > β<sub>2</sub>|Inotrope|
-||Norepinephrine: α<sub>1</sub> > β<sub>1</sub>|Inotrope|
-||Epinephrine: β > α<sub>1</sub>|Inotrope|
-||Isoproterenol: β<sub>1</sub> = β<sub>1</sub>|Inotrope|
-|PDE inhibitors|Inamrinone<br>Milrinone|Inotrope|
-|Na-K pump blockers|Digoxin<br>Digitalis|Inotrope|
+|Mechanism|Medication|
+|-|-|
+|β<sub>1</sub> agonists|Dopamine: D > β<sub>1</sub> > α<sub>1</sub>|
+||Dobutamine: β<sub>1</sub> > β<sub>2</sub>|
+||Norepinephrine: α<sub>1</sub> > β<sub>1</sub>|
+||Epinephrine: β > α<sub>1</sub>|
+||Isoproterenol: β<sub>1</sub> = β<sub>1</sub>|
+|PDE inhibitors|Inamrinone<br>Milrinone|
+|Na-K pump blockers|Digoxin<br>Digitalis|
 
 ## Inotropic Equivalent (IE)
 
