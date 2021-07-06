@@ -71,7 +71,7 @@
 
 ## Etiology of Postoperative Fever {5W}
 
-|Mnemonic|Etiology|POD|
+|Mnemonic|Etiology|Time (days)|
 |-|-|-|
 |Wind|Pneumonia & Atelectasis|1 ~ 3|
 |Water|Sepsis & UTI|3 ~ 5|
