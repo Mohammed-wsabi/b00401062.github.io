@@ -494,7 +494,7 @@
 
 - Acute coronary syndrome (ACS)
   - Duration < 12 ~ 24 hours
-  - PCI > 2 hours
+  - Door-to-bolloon > 2 hours
 - Ischemic stroke
   - Duration < 3 ~ 4.5 hours
   - BP < 185/110 mmHg
