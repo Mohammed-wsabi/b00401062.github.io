@@ -314,31 +314,33 @@
 
 ### Sympathetic
 
-- Adrenal gland
-- Ciliary epithelium → aqueous humor
-- Blood vessels
-- Bronchus → bronchodilation
-- Dilator pupillae → mydriasis
-- Ejaculation
-- Heart
-- Juxtaglomerular cell → Renin
-- Sphincter muscle
-  - Intestine
-  - Bladder
-- Sweat gland
+|Target|Effect|
+|-|-|
+|Adrenal gland|-|
+|Ciliary epithelium|Aqueous humor|
+|Blood vessels|-|
+|Bronchus|Bronchodilation|
+|Dilator pupillae|Mydriasis|
+|Heart|Tachycardia|
+|Juxtaglomerular cells|Renin|
+|Sphincter muscle :: GI|-|
+|Sphincter muscle :: GU|-|
+|Sweat gland|Sweat|
+|Sexual function|Ejaculation|
 
 ### Parasympathetic
 
-- Bronchus → bronchoconstriction
-- Ciliary muscle → cycloplegia
-- Erection
-- Exocrine glands
-- Heart
-- Insulin
-- Smooth muscle
-  - GI tract → peristalsis
-  - GU tract → micturition
-- Sphincter pupillae → miosis
+|Target|Effect|
+|-|-|
+|Beta cells|Insulin|
+|Bronchus|Bronchoconstriction|
+|Ciliary muscle|Cycloplegia|
+|Exocrine glands|-|
+|Heart|Tachycardia|
+|Smooth muscle :: GI|Peristalsis|
+|Smooth muscle :: GU|Urination|
+|Sphincter pupillae|Miosis|
+|Sexual function|Erection|
 
 ## Signalling Pathways of Neurotransmitters
 
