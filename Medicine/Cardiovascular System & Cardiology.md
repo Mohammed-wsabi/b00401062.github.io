@@ -509,12 +509,12 @@
 
 ## Thrombolysis in Myocardial Infarction (TIMI) Score for NSTEMI {ACS}
 
-- Age ≥ 75
+- Age ≥ 75 years
 - Aspirin use
 - Angina ≥ 2 in 24 hours
 - CAD risk factors ≥ 3
 - Cardiac enzymes
-- ST changes ≥ 0.5 mm
+- ST changes > 0.5 mm
 
 ## Treatment of Acute Coronary Syndrome (ACS) {MONAB}
 
