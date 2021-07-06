@@ -186,7 +186,7 @@
 |αβ antagonists|Carvedilol|Arrhythmia<br>Heart failure (HF)|
 ||Labetalol|Hypertension|
 
-## Cholinergic & Adrenergic Effects {DUMBBEELSS}
+## Cholinergic & Adrenergic Effects {DUMBBELSS}
 
 |Cholingeric|Adrenergic|
 |-|-|
@@ -196,7 +196,6 @@
 |Bronchoconstriction|Bronchodilation|
 |Bradycardia|Tachycardia|
 |Emesis|-|
-|Excitation|-|
 |Lacrimation|Xerophthalmia|
 |Salivation|Xerostomia|
 |Sweating|Sweating|
