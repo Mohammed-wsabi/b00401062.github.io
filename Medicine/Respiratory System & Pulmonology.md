@@ -200,7 +200,7 @@
 |CAP & Complicated|Amoxicillin & (Macrolides / Doxycycline)<br>Fluoroquinolones|
 |CAP & Inpatient|Anti-pseudomonal β-lactams & (Macrolides / Doxycycline)<br>Fluoroquinolones|
 |CAP & ICU|Anti-pseudomonal β-lactams & (Macrolides / Doxycycline / Fluoroquinolones)|
-|HAP|Anti-pseudomonal β-lactams & (Aminoglycosides / Fluoroquinolones)|
+|HAP|Anti-MRSA & Anti-pseudomonal β-lactams & (Aminoglycosides / Fluoroquinolones)|
 
 ### Complicated Patients
 
