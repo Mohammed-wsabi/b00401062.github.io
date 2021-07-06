@@ -8,10 +8,10 @@
 |Triangular ligaments|Diaphragm ~ Liver|-|
 |Falciform ligament|Anterior abdominal wall ~ Liver|Round ligament|
 |Round ligament|Umbilicus ~ Liver|Umbilical vein|
-|Hepatogastric ligament: lesser omentum|Liver ~ Stomach|Gastric arteries|
-|Hepatoduodenal ligament: lesser omentum|Liver ~ Duodenum|Portal triad|
+|Lesser omentum ::<br>Hepatogastric ligament|Liver ~ Stomach|Gastric arteries|
+|Lesser omentum ::<br>Hepatoduodenal ligament|Liver ~ Duodenum|Portal triad|
 |Gastrosplenic ligament|Stomach ~ Spleen|Short gastric artery|
-|Gastrocolic ligament: greater omentum|Stomach ~ Transverse colon|Gastroepiploic artery|
+|Greater omentum<br>Gastrocolic ligament|Stomach ~ Transverse colon|Gastroepiploic artery|
 |Splenorenal ligament|Spleen ~ Kidney|Splenic artery|
 
 ## Layers of Abdominal Wall & Spermatic Chord
