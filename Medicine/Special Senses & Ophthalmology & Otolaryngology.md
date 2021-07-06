@@ -51,7 +51,7 @@
 ||Pilocarpine|Glaucoma|
 |α<sub>2</sub> agonists|Brimonidine|Glaucoma|
 |β antagonists|Timolol|Glaucoma|
-|PGF2 agonists|Latanoprost|Glaucoma|
+|PGF<sub>2</sub> agonists|Latanoprost|Glaucoma|
 |Carbonic anhydrase inhibitors|Acetazolamide|Glaucoma|
 
 ## Treatment of Dry Eye Disease (DED)
