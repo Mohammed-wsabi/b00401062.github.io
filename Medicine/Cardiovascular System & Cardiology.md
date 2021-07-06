@@ -484,7 +484,7 @@
 - HDL < 40 mg/dL
 - Cigarette smoking
 
-## Pathogenesis & Presentation of Acute Coronary Syndrome (ACS)
+## Acute Coronary Syndrome (ACS)
 
 |Types|Pathogenesis|T Wave|ST Segment|Q Wave|Triggers|Cardiac Enzymes|
 |-|-|-|-|-|-|-|
@@ -496,12 +496,12 @@
 
 ## Complications of Myocardial Infarction
 
-|Time|Histology|Presentation|
+|Time (days)|Histology|Presentation|
 |-|-|-|
-|< 1 day|Coagulative necrosis<br>Contraction bank<br>Wavy fiber|Cardiogenic shock<br>Arrhythmia|
-|1 ~ 3 days|-|Post-infarction fibrinous pericarditis|
-|3 ~ 14 days|Granulation tissue|Pseudo-aneurysm<br>Cardiac tamponade|
-|> 14 days|Contracted scar|Aneurysm<br>Dressler syndrome|
+|< 1|Coagulative necrosis<br>Contraction bank<br>Wavy fiber|Cardiogenic shock<br>Arrhythmia|
+|1 ~ 3|-|Post-infarction fibrinous pericarditis|
+|3 ~ 14|Granulation tissue|Pseudo-aneurysm<br>Cardiac tamponade|
+|> 14|Contracted scar|Aneurysm<br>Dressler syndrome|
 
 ## Thrombolysis in Myocardial Infarction (TIMI) Score for NSTEMI {ACS}
 
