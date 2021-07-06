@@ -570,17 +570,17 @@
 |-|-|-|
 |GABA-A agonists|Barbiturate|Seizure|
 ||Benzodiazepine|Seizure|
-|Na channel blockers|Carbamazepine|Seizure<br>Bipolar|
+|Na channel blockers|Carbamazepine|Seizure|
 ||Phenytoin|Seizure|
 |Ca channel blockers|Ethosuximide|Seizure :: absence|
-||Gabapentin<br>Pregabalin|Seizure<br>Neuropathic pain|
-|↑ GABA|Valproate|Seizure<br>Bipolar|
+||Gabapentin<br>Pregabalin|Seizure|
+|↑ GABA|Valproate|Seizure|
 ||Tiagabine|Seizure|
 ||Vigabatrin|Seizure|
 |↓ Glutamate|Levetiracetam|Seizure|
 |-|Felbamate|Seizure|
 |-|Topiramate|Seizure|
-|-|Lamotrigine|Seizure<br>Bipolar|
+|-|Lamotrigine|Seizure|
 
 ## Risk of Progression of TIA to Stroke {ABCD2}
 
