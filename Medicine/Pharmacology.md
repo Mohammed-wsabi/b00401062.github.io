@@ -363,7 +363,7 @@
 ||Methylxanthines:<br>Theophylline<br>Caffeine|Asthma|
 ||Sildenafil<br>Vardenafil|Impotence<br>Pulmonary hypertension|
 ||Dipyridamole<br>Cilostazol|Antiplatelet<br>Vasodilation|
-|COX inhibitors|NSAIDs:<br>Aspirin<br>Ibuprofen<br>Naproxen<br>Diclofenac<br>Ketorolac<br>Meloxicam<br>Indomethacin|Antipyresis<br>Analgesia<br>Inflammation<br>Tocolysis<br>PDA closure|
+|COX inhibitors|NSAIDs:<br>Aspirin<br>Ibuprofen<br>Naproxen<br>Diclofenac<br>Ketorolac<br>Meloxicam<br>Indomethacin|Antipyresis<br>Analgesia<br>Inflammation<br>Antiplatelet<br>Tocolysis<br>PDA closure|
 ||Acetaminophen|Antipyresis<br>Analgesia|
 |COX-2 inhibitors|Celecoxib|Arthritis|
 |LOX inhibitors|Zileuton|Asthma|
