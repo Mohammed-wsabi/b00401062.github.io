@@ -46,7 +46,7 @@
 
 |Mechanism|Medication|
 |-|-|
-|ACh esterase inhibitors|Organophosphate & Sarin|
+|ACh esterase inhibitors|Organophosphate<br>Sarin|
 |M agonists|Cabachol<br>Pilocarpine|
 |α<sub>2</sub> agonists|Brimonidine|
 |β antagonists|Timolol|
