@@ -133,7 +133,7 @@
 |M antagonists|Atropine<br>Tropicamide|Mydriasis<br>Cycloplegia|
 ||Benztropine|Parkinson disease|
 ||Ipratropium<br>Tiotropium|Asthma|
-||Scopolamine|Emesis :: motion sickness|
+||Scopolamine|Emesis|
 ||Oxybutynin<br>Tolterodine|Urinary incontinence|
 ||Glycopyrrolate|-|
 ||Antipsychotics|-|
@@ -228,7 +228,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|H<sub>1</sub> antagonists|1° Antihistamines:<br>Chlorpheniramine<br>Diphenhydramine<br>Meclizine<br>Promethazine|Allergy<br>Emesis :: motion sickness|
+|H<sub>1</sub> antagonists|1° Antihistamines:<br>Chlorpheniramine<br>Diphenhydramine<br>Meclizine<br>Promethazine|Allergy<br>Emesis|
 ||2° Antihistamines:<br>Cetirizine<br>Fexofenadine<br>Loratadine|Allergy|
 ||Antipsychotics|-|
 ||Antidepressants :: TCA|-|
