@@ -44,15 +44,14 @@
 
 ## Mechanisms of Action of Medications for Glaucoma
 
-|Mechanism|Medication|Indications|
-|-|-|-|
-|ACh esterase inhibitors|Organophosphate & Sarin|Glaucoma|
-|M agonists|Cabachol|Glaucoma|
-||Pilocarpine|Glaucoma|
-|α<sub>2</sub> agonists|Brimonidine|Glaucoma|
-|β antagonists|Timolol|Glaucoma|
-|PGF<sub>2</sub> agonists|Latanoprost|Glaucoma|
-|Carbonic anhydrase inhibitors|Acetazolamide|Glaucoma|
+|Mechanism|Medication|
+|-|-|
+|ACh esterase inhibitors|Organophosphate & Sarin|
+|M agonists|Cabachol<br>Pilocarpine|
+|α<sub>2</sub> agonists|Brimonidine|
+|β antagonists|Timolol|
+|PGF<sub>2</sub> agonists|Latanoprost|
+|Carbonic anhydrase inhibitors|Acetazolamide|
 
 ## Treatment of Dry Eye Disease (DED)
 
