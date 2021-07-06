@@ -112,7 +112,7 @@
 |M antagonists|Scopolamine|Emesis :: motion sickness|
 |D<sub>2</sub> antagonists|Metoclopramide<br>Prochlorperazine<br>Domperidone<br>Droperidol|Emesis|
 |5-HT<sub>3</sub> antagonists|-Setrons|Emesis :: chemotherapy|
-|H<sub>1</sub> antagonists :: 1°|Chlorpheniramine<br>Diphenhydramine<br>Meclizine<br>Promethazine|Emesis :: motion sickness|
+|H<sub>1</sub> antagonists|1° Antihistamines:<br>Chlorpheniramine<br>Diphenhydramine<br>Meclizine<br>Promethazine|Emesis :: motion sickness|
 |Neurokinin antagonists|Aprepitant|Emesis :: chemotherapy|
 |Cannabinoid agonists|Dronabinol|Emesis :: chemotherapy|
 |-|Corticosteroids|Emesis :: chemotherapy|
