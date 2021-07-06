@@ -476,11 +476,13 @@
 
 ## Risk Factors for Coronay Artery Disease (CAD)
 
-- Age ≥ 45 in males / ≥ 55 in females
-- Cigarette smoking
-- Family history of premature CAD
+- Elderly
+  - Age ≥ 45 years in males
+  - Age ≥ 55 years in females
+- Family history
 - Hypertension
 - HDL < 40 mg/dL
+- Cigarette smoking
 
 ## Pathogenesis & Presentation of Acute Coronary Syndrome (ACS)
 
