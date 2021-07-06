@@ -100,7 +100,9 @@
 
 ## Etiology of Nausea and Vomiting
 
+- Gastroparesis
 - Motion sickness
+- Morning sickness
 - Radiation-induced emesis (RIE)
 - Chemotherapy-induced emesis (CIE)
 - Postoperative nausea and vomiting (PONV)
@@ -109,13 +111,13 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|M antagonists|Scopolamine|Emesis :: motion sickness|
-|D<sub>2</sub> antagonists|Metoclopramide<br>Prochlorperazine<br>Domperidone<br>Droperidol|Emesis|
-|5-HT<sub>3</sub> antagonists|-Setrons|Emesis :: chemotherapy|
-|H<sub>1</sub> antagonists|1° Antihistamines:<br>Chlorpheniramine<br>Diphenhydramine<br>Meclizine<br>Promethazine|Emesis :: motion sickness|
-|Neurokinin antagonists|Aprepitant|Emesis :: chemotherapy|
-|Cannabinoid agonists|Dronabinol|Emesis :: chemotherapy|
-|-|Corticosteroids|Emesis :: chemotherapy|
+|M antagonists|Scopolamine|Motion sickness|
+|D<sub>2</sub> antagonists|Metoclopramide<br>Prochlorperazine<br>Domperidone<br>Droperidol|Gastroparesis<br>Morning sickness<br>Chemotherapy|
+|5-HT<sub>3</sub> antagonists|-Setrons|Chemotherapy|
+|H<sub>1</sub> antagonists|1° Antihistamines:<br>Chlorpheniramine<br>Diphenhydramine<br>Meclizine<br>Promethazine<br>Doxylamine|Motion sickness<br>Morning sickness|
+|Neurokinin antagonists|Aprepitant|Chemotherapy|
+|Cannabinoid agonists|Dronabinol|Chemotherapy|
+|-|Corticosteroids|Chemotherapy|
 
 ## Etiology of Diarrhea
 
