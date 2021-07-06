@@ -69,7 +69,7 @@
 ||Gabapentin<br>Pregabalin|Seizure<br>Neuropathic pain|
 |Na-K pump blockers|Digoxin<br>Digitalis|Arrhythmia<br>Inotrope|
 ||Ouabain|-|
-|H-K pump blockers|Proton pump inhibitors (PPI) [-Prazoles]|Peptic ulcer disease (PUD)|
+|H-K pump blockers<br>Proton pump inhibitors (PPI)|-Prazoles|Peptic ulcer disease (PUD)|
 |Na-K-2Cl sympoter blockers|Loop diuretics:<br>Furosemide<br>Bumetanide<br>Torsemide|Diuretics|
 |Na-Cl sympoter blockers|Thiazide|Diuretics|
 |Na-I sympoter blockers|Thiocyanate<br>Perchlorate<br>Iodine|Hyperthyroidism|
