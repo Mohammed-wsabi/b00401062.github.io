@@ -148,6 +148,7 @@
 - Cerebral aqueduct of Sylvius
 - 4th ventricle
 - Central canal
+- Subarachnoid space
 - Arachnoid granulations
 
 ![](../Figures/Ventricular%20System%20of%20the%20Brain.png)
