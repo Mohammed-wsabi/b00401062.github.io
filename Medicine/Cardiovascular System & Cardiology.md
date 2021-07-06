@@ -488,15 +488,15 @@
 
 |Types|Pathogenesis|T Wave|ST Segment|Q Wave|Triggers|Cardiac Enzymes|
 |-|-|-|-|-|-|-|
+|Variant [Prinzmetal] angina|Coronary artery spasm|HTW|STE|-|Drugs|-|
 |Stable angina|Coronary artery thrombosis|-|STD|-|Exertion|-|
 |Unstable angina|Coronary artery thrombosis|TWI|STD|-|Anytime|-|
-|Variant [Prinzmetal] angina|Coronary artery spasm|HTW|STE|-|Drugs|-|
 |NSTEMI [NQMI]|Subendocardial infarction|TWI|STD|-|Anytime|↑|
 |STEMI [QWMI]|Transmural infarction|HTW|STE|PQW|Anytime|↑|
 
 ## Complications of Myocardial Infarction
 
-|Time (days)|Histology|Presentation|
+|Time (days)|Histology|Complications|
 |-|-|-|
 |< 1|Coagulative necrosis<br>Contraction bank<br>Wavy fiber|Cardiogenic shock<br>Arrhythmia|
 |1 ~ 3|-|Post-infarction fibrinous pericarditis|
