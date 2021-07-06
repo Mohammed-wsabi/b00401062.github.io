@@ -347,11 +347,11 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|PGE1 agonists|Misoprostol|Labor<br>Abortion<br>Peptic ulcer disease (PUD)|
+|PGE<sub>1</sub> agonists|Misoprostol|Labor<br>Abortion<br>Peptic ulcer disease (PUD)|
 ||Alprostadil|Impotence<br>PDA maintenance|
-|PGF2 agonists|Latanoprost|Glaucoma|
-|PGI2 agonists|Epoprostenol|Pulmonary hypertension|
-|TXA2 antagonists|-|-|
+|PGF<sub>2</sub> agonists|Latanoprost|Glaucoma|
+|PGI<sub>2</sub> agonists|Epoprostenol|Pulmonary hypertension|
+|TXA<sub>2</sub> antagonists|-|-|
 |LTD<sub>4</sub> antagonists|Montelukast|Asthma|
 ||Zafirlukast|Asthma|
 
