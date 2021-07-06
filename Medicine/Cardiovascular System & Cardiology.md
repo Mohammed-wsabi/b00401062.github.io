@@ -498,14 +498,10 @@
 
 |Time|Histology|Presentation|
 |-|-|-|
-|< 1 day|Coagulative necrosis|Cardiogenic shock|
-||Contraction bank|Arrhythmia|
-||Wavy fiber|-|
+|< 1 day|Coagulative necrosis<br>Contraction bank<br>Wavy fiber|Cardiogenic shock<br>Arrhythmia|
 |1 ~ 3 days|-|Post-infarction fibrinous pericarditis|
-|3 ~ 14 days|Granulation tissue|Pseudo-aneurysm|
-||-|Cardiac tamponade|
-|> 14 days|Contracted scar|Aneurysm|
-||-|Dressler syndrome|
+|3 ~ 14 days|Granulation tissue|Pseudo-aneurysm<br>Cardiac tamponade|
+|> 14 days|Contracted scar|Aneurysm<br>Dressler syndrome|
 
 ## Thrombolysis in Myocardial Infarction (TIMI) Score for NSTEMI {ACS}
 
