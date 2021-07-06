@@ -512,11 +512,12 @@
 - Cardiac enzymes
 - ST changes > 0.5 mm
 
-## Treatment of Acute Coronary Syndrome (ACS) {MONAB}
+## Treatment of Acute Coronary Syndrome (ACS) {MONA}
 
-- Morphine
 - Oxygen
-- Venodilators :: NO donors
+- Venodilators
+  - Morphine
+  - NO donors
 - Antiplatelets
   - Aspirin
   - ADP antagonists
