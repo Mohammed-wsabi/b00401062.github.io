@@ -103,9 +103,9 @@
 - Gastroparesis
 - Motion sickness
 - Morning sickness
-- Radiation-induced emesis (RIE)
-- Chemotherapy-induced emesis (CIE)
-- Postoperative nausea and vomiting (PONV)
+- Radiation
+- Chemotherapy
+- Postoperation
 
 ## Mechanisms of Action of Antiemetics
 
