@@ -462,7 +462,7 @@
 - Hydration
 - Diuretics :: Loop diuretics
 - Calcitonin
-- Bisphosphonate
+- Bisphosphonates
 - Glucocorticoids
 - Dialysis
 
