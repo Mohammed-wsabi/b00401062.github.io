@@ -660,8 +660,7 @@
 
 |Mechanism|Medication|
 |-|-|
-|Vesicular transporter inhibitors|Reserpine|
-||Tetrabenazine|
+|Vesicular transporter inhibitors|Reserpine<br>Tetrabenazine|
 |D<sub>2</sub> antagonists|2° Antipsychotics|
 
 ## Mechanisms of Action of Medications for Alzheimer Disease
