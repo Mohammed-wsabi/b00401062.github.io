@@ -112,7 +112,7 @@
 ||Dobutamine: β<sub>1</sub> > β<sub>2</sub>|
 ||Norepinephrine: α<sub>1</sub> > β<sub>1</sub>|
 ||Epinephrine: β > α<sub>1</sub>|
-||Isoproterenol: β<sub>1</sub> = β<sub>1</sub>|
+||Isoproterenol: β<sub>1</sub> = β<sub>2</sub>|
 |PDE inhibitors|Inamrinone<br>Milrinone|
 |Na-K pump blockers|Digoxin<br>Digitalis|
 
