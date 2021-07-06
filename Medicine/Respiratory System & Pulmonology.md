@@ -145,6 +145,13 @@
 - CT angiography
 - Ventilation/Perfusion (V/Q) scan
 
+## Treatment of Pulmonary Embolism
+
+- Anticoagulants
+- IVC filter
+- Thrombolysis
+- Thrombectomy
+
 ## Sputum Sample for Gram Stain
 
 - PMNs > 25/HPF
