@@ -595,7 +595,6 @@
 ## Treatment of Peripheral Artery Disease (PAD)
 
 - PDE inhibitors :: Cilostazol
-- PGE1 agonists :: Alprostadil
 - Antiplatelets
   - Aspirin
   - ADP antagonists
