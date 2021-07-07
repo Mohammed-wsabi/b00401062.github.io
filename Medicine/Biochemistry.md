@@ -114,9 +114,9 @@
 |Phosphoglycerate mutase (PGM)|-|-|-|
 |Dihydrofolate synthase|-|-|-|
 |Enolase|-|-|-|
-|Dihydropteroate synthase|-|-|Sulfonamide|
+|Dihydropteroate synthase|-|-|Sulfonamides|
 |Phosphoenolpyruvate carboxykinase|-|-|-|
-|Pyruvate kinase|-|-|Pyruvate kinase deficiency|
+|Pyruvate kinase|-|Pyruvate kinase deficiency|-|
 |Alanine transaminase (ALT)|Vitamin B<sub>6</sub>|-|-|
 |Lactate dehydrogenase (LDH)|-|-|-|
 
