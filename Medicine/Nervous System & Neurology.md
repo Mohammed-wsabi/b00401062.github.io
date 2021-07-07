@@ -332,7 +332,7 @@
 
 |Target|Effect|
 |-|-|
-|Beta cells|Insulin|
+|β islet cells|Insulin|
 |Bronchus|Bronchoconstriction|
 |Ciliary muscle|Cycloplegia|
 |Exocrine glands|-|
