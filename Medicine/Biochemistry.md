@@ -413,7 +413,7 @@
 
 ![](../Figures/Catecholamine%20Metabolism.png)
 
-## Urea Cycle Enzymes & Products
+## Urea Cycle Enzymes and Products
 
 |Mnemonic|Enzyme|Mnemonic|Substrate|
 |-|-|-|-|
@@ -422,8 +422,6 @@
 |A|Argininosuccinate synthetase|A|Argininosuccinate|
 |A|Argininosuccinase|A|Arginine|
 |A|Arginase|O|Ornithine|
-
-## Urea Cycle Enzymes and Products
 
 ![](../Figures/Urea%20Cycle%20Enzymes%20and%20Products.png)
 
