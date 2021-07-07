@@ -236,11 +236,11 @@
 
 |Transporter|Dependency|Monosaccharides|Location|
 |-|-|-|-|
-|GLUT-1|Insulin independent|Glc & Gal|Brain & RBC & Cornea|
-|GLUT-2|Insulin independent|Glc & Gal & Fru|β islet cell & Intestine & Liver & Kidney|
+|GLUT-1|Insulin independent|Glc & Gal|Brain<br>RBC<br>Cornea|
+|GLUT-2|Insulin independent|Glc & Gal & Fru|β islet cells<br>Intestine<br>Liver<br>Kidney|
 |GLUT-3|Insulin independent|Glc & Gal|Brain|
-|GLUT-4|Insulin dependent|Glc & Gal|Muscle & Fat|
-|GLUT-5|Insulin independent|Fru|Intestine & Sperm|
+|GLUT-4|Insulin dependent|Glc & Gal|Muscle<br>Fat|
+|GLUT-5|Insulin independent|Fru|Intestine<br>Sperm|
 |SGLT-1|Sodium dependent|Glc & Gal|Intestine|
 |SGLT-2|Sodium dependent|Glc & Gal|Kidney|
 
