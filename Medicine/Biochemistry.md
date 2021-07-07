@@ -13,7 +13,7 @@
 
 ### Dehydrogenase
 
-|Mnemonic|Coenzymes|
+|Mnemonic|Cofactor|
 |-|-|
 |Tender|TPP (B<sub>1</sub>)|
 |Loving|Lipoid acid|
@@ -23,7 +23,7 @@
 
 ### Carboxylase {ABC}
 
-|Mnemonic|Coenzymes|
+|Mnemonic|Cofactor|
 |-|-|
 |A|ATP|
 |B|Biotin (B<sub>7</sub>)|
@@ -44,7 +44,7 @@
 
 ## Vitamin as Cofactors
 
-|Vitamin|Enzyme|Diseases|
+|Vitamin|Enzyme|Deficiency|
 |-|-|-|
 |B<sub>1</sub> & B<sub>2</sub> & B<sub>3</sub> & B<sub>5</sub>|Pyruvate dehydrogenase|Pyruvate dehydrogenase deficiency|
 ||α-Ketoglutarate dehydrogenase|-|
@@ -68,7 +68,7 @@
 
 ## Summary of Pathways
 
-|Enzyme|Coenzyme|Deficiency|Drug Target|
+|Enzyme|Cofactor|Deficiency|Drug Target|
 |-|-|-|-|
 |Glycogen synthase|-|-|-|
 |Glycogen phosphorylase|Vitamin B<sub>6</sub>|McArdle disease<br>Hers disease|-|
