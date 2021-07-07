@@ -315,7 +315,7 @@
 
 |Disorder|Defects|Effects|
 |-|-|-|
-|Phenylketonuria (PKU)|Phenylalanine hydroxylase<br>Tetrahydrobiopterin|↓ Tyrosine|
+|Phenylketonuria (PKU)|Phenylalanine hydroxylase<br>Tetrahydrobiopterin|↑ Phenylalanine<br>↓ Tyrosine|
 |Alkaptonuria (AKU)|Homogentisate oxidase|↑ Homogentisic acid|
 |Homocystinuria|Cystathionine synthase|↑ Homocysteine<br>↓ Cysteine|
 ||Methionine synthase|↑ Homocysteine<br>↓ Methionine|
