@@ -317,9 +317,10 @@
 |-|-|-|
 |Phenylketonuria (PKU)|Phenylalanine hydroxylase<br>Tetrahydrobiopterin|↓ Tyrosine|
 |Alkaptonuria (AKU)|Homogentisate oxidase|↑ Homogentisic acid|
-|Homocystinuria|Cystathionine synthase<br>Methionine synthase|
-|Cystinuria|Proximal convoluted tubule (PCT)|↓ Cystine & Ornithine & Lysine & Arginine (COLA)|
+|Homocystinuria|Cystathionine synthase|↑ Homocysteine<br>↓ Cysteine|
+||Methionine synthase|↑ Homocysteine<br>↓ Methionine|
+|Cystinuria|Proximal convoluted tubule (PCT)|↓ COLA|
 |Hartnup disease|Proximal convoluted tubule (PCT)|↓ Tryptophan|
 |Maple syrup urine disease (MSUD)|Branched-chain α-ketoacid dehydrogenase|↑ α-ketoacids|
-|Ornithine transcarbamylase deficiency|Ornithine transcarbamylase|↑ Orotic acid<br>↑ Ammonia|
-|Orotic aciduria|UMP synthase|↑ Orotic acid|
+|Ornithine transcarbamylase deficiency|Ornithine transcarbamylase|↑ Orotic acid<br>↑ Ammonia<br>↓ Urea|
+|Orotic aciduria|UMP synthase|↑ Orotic acid<br>↓ DNA|
