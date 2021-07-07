@@ -701,7 +701,7 @@
 |Legionella pneumophilia|Macrolides|
 |GNB :: enteric|2° Cephalosporins<br>Fluoroquinolones<br>Trimethoprim<br>Sulfonamides|
 |Bacteroides fragilis|Carbapenems<br>Metronidazole|
-|Pseudomonas aeruginosa|Anti-pseudomonal β-lactams<br>Anti-pseudomonal fluoroquinolones|
+|Pseudomonas aeruginosa|Anti-pseudomonal β-lactams<br>Fluoroquinolones|
 |Bartonella henselae|Tetracyclines<br>Macrolides|
 |Helicobacter pylori|Penicillinase-sensitive penicillin<br>Macrolides<br>Metronidazole|
 |Borrelia burgdorferi|Tetracyclines<br>Penicillinase-sensitive penicillin<br>3° Cephalosporins|
