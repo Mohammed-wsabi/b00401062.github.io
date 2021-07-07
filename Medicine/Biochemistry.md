@@ -44,7 +44,7 @@
 
 ## Vitamin as Cofactors
 
-|Vitamin B|Enzyme|Diseases|
+|Vitamin|Enzyme|Diseases|
 |-|-|-|
 |B<sub>1</sub> & B<sub>2</sub> & B<sub>3</sub> & B<sub>5</sub>|Pyruvate dehydrogenase|Pyruvate dehydrogenase deficiency|
 ||α-Ketoglutarate dehydrogenase|-|
