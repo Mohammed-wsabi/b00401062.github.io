@@ -58,12 +58,12 @@
 ||Aminolevulinate (ALA) synthase|Sideroblastic anemia|
 ||Cystathionine synthase|Homocystinuria|
 ||Dopa decarboxylase|-|
-||Glycogen phosphorylase|McArdle & Hers disease|
+||Glycogen phosphorylase|McArdle disease<br>Hers disease|
 |7|Pyruvate carboxylase|-|
 ||Acetyl-CoA carboxylase|-|
 ||Propionyl-CoA carboxylase|-|
-|9 & 12|Methionine synthase|Homocystinuria & Megaloblastic anemia|
-|12|Methylmalonyl-CoA mutase|Methylmalonic acidemia & Subacute combined degeneration|
+|9 & 12|Methionine synthase|Homocystinuria<br>Megaloblastic anemia|
+|12|Methylmalonyl-CoA mutase|Methylmalonic acidemia<br>Subacute combined degeneration (SCD)|
 
 ## Summary of Pathways
 
