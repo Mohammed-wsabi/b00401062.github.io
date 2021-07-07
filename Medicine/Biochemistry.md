@@ -70,7 +70,7 @@
 |Enzyme|Coenzyme|Deficiency|Drug Target|
 |-|-|-|-|
 |Glycogen synthase|-|-|-|
-|Glycogen phosphorylase|Vitamin B<sub>6</sub>|McArdle & Hers disease|-|
+|Glycogen phosphorylase|Vitamin B<sub>6</sub>|McArdle disease<br>Hers disease|-|
 |Aldose reductase|-|-|-|
 |UDP-glucose epimerase|-|-|-|
 |Galactose-1-phosphate uridyltransferase|-|Classic galactosemia|-|
@@ -105,12 +105,12 @@
 |UMP synthase|-|Orotic aciduria|-|
 |Triose kinase|-|-|-|
 |Glyceraldehyde-3-phosphate dehydrogenase (G3PDH)|-|-|-|
-|PRPP amidotransferase|-|-|Azathioprine & 6-MP & 6-TG|
-|IMP dehydrogenase|-|-|Ribavirin & Mycophenolate|
+|PRPP amidotransferase|-|-|Azathioprine<br>6-MP & 6-TG|
+|IMP dehydrogenase|-|-|Ribavirin<br>Mycophenolate|
 |Phosphoglycerate kinase (PGK)|-|-|-|
 |Ribonucleotide reductase|-|-|Hydroxyurea|
 |Thymidylate synthase|-|-|Flucytosine & 5-FU|
-|Dihydrofolate reductase|-|-|Trimethoprim & Methotrexate & Pyrimethamine|
+|Dihydrofolate reductase|-|-|Trimethoprim<br>Pyrimethamine<br>Methotrexate|
 |Phosphoglycerate mutase (PGM)|-|-|-|
 |Dihydrofolate synthase|-|-|-|
 |Enolase|-|-|-|
