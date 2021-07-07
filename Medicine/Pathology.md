@@ -311,7 +311,7 @@
 |Hurler syndrome|α-Iduronidase|Corneal clouding|+|
 |Hunter syndrome: XR|Iduronate sulfatase|-|-|
 
-## Amino Acid Metabolism Disorders
+## Metabolism Disorders
 
 |Disorder|Defects|Effects|
 |-|-|-|
@@ -321,3 +321,5 @@
 |Cystinuria|Proximal convoluted tubule (PCT)|↓ Cystine & Ornithine & Lysine & Arginine (COLA)|
 |Hartnup disease|Proximal convoluted tubule (PCT)|↓ Tryptophan|
 |Maple syrup urine disease (MSUD)|Branched-chain α-ketoacid dehydrogenase|↑ α-ketoacids|
+|Ornithine transcarbamylase deficiency|Ornithine transcarbamylase|↑ Orotic acid<br>↑ Ammonia|
+|Orotic aciduria|UMP synthase|↑ Orotic acid|
