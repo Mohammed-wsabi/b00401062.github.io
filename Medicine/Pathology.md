@@ -265,8 +265,8 @@
 |Type 3 collagen|Vascular EDS|
 |Type 4 collagen|Alport syndrome & Goodpasture syndrome|
 |Type 5 collagen|Classical EDS|
-|Fibrillin|Marfan syndrome|
 |Elastin|α<sub>1</sub>-antitrypsin deficiency|
+|Fibrillin|Marfan syndrome|
 
 ## Glycogen Storage Diseases (GSD)
 
