@@ -50,10 +50,10 @@
 ||α-Ketoglutarate dehydrogenase|-|
 ||Branched-chain α-ketoacid dehydrogenase|Maple syrup urine disease (MSUD)|
 |B<sub>1</sub>|Transketolase|-|
-|B<sub>2</sub>|Succinate dehydrogenase (ETC complex 2)|-|
+|B<sub>2</sub>|Succinate dehydrogenase [ETC complex 2]|-|
 ||Acyl-CoA dehydrogenase|Acyl-CoA dehydrogenase deficiency|
 ||Retinal dehydrogenase|-|
-|B<sub>3</sub>|NADH dehydrogenase (ETC complex 1)|-|
+|B<sub>3</sub>|NADH dehydrogenase [ETC complex 1]|-|
 |B<sub>6</sub>|AST & ALT|-|
 ||Aminolevulinate (ALA) synthase|Sideroblastic anemia|
 ||Cystathionine synthase|Homocystinuria|
