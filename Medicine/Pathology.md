@@ -312,3 +312,12 @@
 |Hunter syndrome: XR|Iduronate sulfatase|-|-|
 
 ## Amino Acid Metabolism Disorders
+
+|Disorder|Defects|Effects|
+|-|-|-|
+|Phenylketonuria (PKU)|Phenylalanine hydroxylase<br>Tetrahydrobiopterin|↓ Tyrosine|
+|Alkaptonuria (AKU)|Homogentisate oxidase|↑ Homogentisic acid|
+|Homocystinuria|Cystathionine synthase<br>Methionine synthase|
+|Cystinuria|Proximal convoluted tubule (PCT)|↓ Cystine & Ornithine & Lysine & Arginine (COLA)|
+|Hartnup disease|Proximal convoluted tubule (PCT)|↓ Tryptophan|
+|Maple syrup urine disease (MSUD)|Branched-chain α-ketoacid dehydrogenase|↑ α-ketoacids|
