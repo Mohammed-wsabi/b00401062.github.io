@@ -31,16 +31,16 @@
 
 ## Vitamin B
 
-|Mnemonic|Vitamin|Derivatives|
-|-|-|-|
-|Try|Thiamin (B<sub>1</sub>)|Thiamine pyrophosphate (TPP)|
-|Remembering|Riboflavin (B<sub>2</sub>)|Flavin adenine dinucleotide (FAD)<br>Flavin mononucleotide (FMN)|
-|Not|Niacin (B<sub>3</sub>)|Nicotinamide adenine dinucleotide (NAD)<br>Nicotinamide adenine dinucleotide phosphate (NADP)|
-|P|Pantothenate (B<sub>5</sub>)|CoA|
-|P|Pyridoxine (B<sub>6</sub>)|Pyridoxal phosphate (PLP)|
-|But|Biotin (B<sub>7</sub>)|-|
-|First|Folate (B<sub>9</sub>)|-|
-|Choice|Cobalamin (B<sub>12</sub>)|-|
+|Vitamin|Mnemonic|Synonym|Derivatives|
+|-|-|-|-|
+|B<sub>1</sub>|Try|Thiamin|Thiamine pyrophosphate (TPP)|
+|B<sub>2</sub>|Remembering|Riboflavin|Flavin adenine dinucleotide (FAD)<br>Flavin mononucleotide (FMN)|
+|B<sub>3</sub>|Not|Niacin|Nicotinamide adenine dinucleotide (NAD)<br>Nicotinamide adenine dinucleotide phosphate (NADP)|
+|B<sub>5</sub>|P|Pantothenate|CoA|
+|B<sub>6</sub>|P|Pyridoxine|Pyridoxal phosphate (PLP)|
+|B<sub>7</sub>|But|Biotin|-|
+|B<sub>9</sub>|First|Folate|-|
+|B<sub>12</sub>|Choice|Cobalamin|-|
 
 ## Vitamin as Cofactors
 
