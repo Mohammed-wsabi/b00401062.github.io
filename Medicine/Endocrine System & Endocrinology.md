@@ -86,12 +86,21 @@
 - Edema :: myxedema
 - Dry skin
 
+## Presentation of Congenital Hypothyroidism
+
+- Developmental delay
+- Failure to thrive
+- Large anterior fontanelle
+- Coarse facies
+- Macroglossia
+- Umbilical hernia
+
 ## Presentation of Hyperthyroidism {SWEATING}
 
 - Sweating
 - Weight loss
 - Emotional lability
-- Appetite increased
+- ↑ Appetite
 - Tremor & Tachycardia
 - Intolerance to heat
 - Nervousness
