@@ -475,8 +475,8 @@
 |B<sub>2</sub> {2C}|Cheilosis<br>Corneal vascularization|
 |B<sub>3</sub> {3D}|Diarrhea<br>Dementia<br>Dermatitis :: pellagra|
 |B<sub>6</sub>|Homocystinuria<br>Sideroblastic anemia<br>Peripheral neuropathy|
-|B<sub>9</sub>|Homocystinuria<br>Megaloblastic anemia<br>Hypersegmented PMN|
-|B<sub>12</sub>|Homocystinuria<br>Megaloblastic anemia<br>Hypersegmented PMN<br>Methylmalonic acidemia<br>Subacute combined degeneration|
+|B<sub>9</sub>|Homocystinuria<br>Megaloblastic anemia<br>Neural tube defect|
+|B<sub>12</sub>|Homocystinuria<br>Megaloblastic anemia<br>Methylmalonic acidemia<br>Subacute combined degeneration|
 |C|Scurvy|
 
 ## Etiology of Vitamin B<sub>9</sub> Deficiency
