@@ -319,6 +319,7 @@
 |Alkaptonuria (AKU)|Homogentisate oxidase|↑ Homogentisic acid|
 |Homocystinuria|Cystathionine synthase|↑ Homocysteine<br>↓ Cysteine|
 ||Methionine synthase|↑ Homocysteine<br>↓ Methionine|
+|Methylmalonic acidemia|Methylmalonyl-CoA mutase|↑ Methylmalonic acid|
 |Cystinuria|Proximal convoluted tubule (PCT)|↓ COLA|
 |Hartnup disease|Proximal convoluted tubule (PCT)|↓ Tryptophan|
 |Maple syrup urine disease (MSUD)|Branched-chain α-ketoacid dehydrogenase|↑ α-ketoacids|
