@@ -9,20 +9,7 @@
 |Superoxide dismutase|2O<sub>2</sub><sup>-</sup> + 4H<sup>+</sup> → 2H<sub>2</sub>O + O<sub>2</sub>|
 |Vitamin A & C & E|-|
 
-## Vitamin B
-
-|Mnemonic|Vitamin|Derivatives|
-|-|-|-|
-|Try|Thiamin (B<sub>1</sub>)|Thiamine pyrophosphate (TPP)|
-|Remembering|Riboflavin (B<sub>2</sub>)|Flavin adenine dinucleotide (FAD)<br>Flavin mononucleotide (FMN)|
-|Not|Niacin (B<sub>3</sub>)|Nicotinamide adenine dinucleotide (NAD)<br>Nicotinamide adenine dinucleotide phosphate (NADP)|
-|P|Pantothenate (B<sub>5</sub>)|CoA|
-|P|Pyridoxine (B<sub>6</sub>)|Pyridoxal phosphate (PLP)|
-|But|Biotin (B<sub>7</sub>)|-|
-|First|Folate (B<sub>9</sub>)|-|
-|Choice|Cobalamin (B<sub>12</sub>)|-|
-
-## Vitamin B & Enzymes & Coenzymes
+## Cofactors of Enzymes
 
 ### Dehydrogenase
 
@@ -42,28 +29,42 @@
 |B|Biotin (B<sub>7</sub>)|
 |C|CO<sub>2</sub>|
 
-## Vitamin B & Enzymes & Diseases
+## Vitamin B
+
+|Mnemonic|Vitamin|Derivatives|
+|-|-|-|
+|Try|Thiamin (B<sub>1</sub>)|Thiamine pyrophosphate (TPP)|
+|Remembering|Riboflavin (B<sub>2</sub>)|Flavin adenine dinucleotide (FAD)<br>Flavin mononucleotide (FMN)|
+|Not|Niacin (B<sub>3</sub>)|Nicotinamide adenine dinucleotide (NAD)<br>Nicotinamide adenine dinucleotide phosphate (NADP)|
+|P|Pantothenate (B<sub>5</sub>)|CoA|
+|P|Pyridoxine (B<sub>6</sub>)|Pyridoxal phosphate (PLP)|
+|But|Biotin (B<sub>7</sub>)|-|
+|First|Folate (B<sub>9</sub>)|-|
+|Choice|Cobalamin (B<sub>12</sub>)|-|
+
+## Vitamin as Cofactors
 
 |Vitamin B|Enzyme|Diseases|
 |-|-|-|
-|1 & 2 & 3 & 5|Pyruvate dehydrogenase|Pyruvate dehydrogenase deficiency|
+|B<sub>1</sub> & B<sub>2</sub> & B<sub>3</sub> & B<sub>5</sub>|Pyruvate dehydrogenase|Pyruvate dehydrogenase deficiency|
 ||α-Ketoglutarate dehydrogenase|-|
 ||Branched-chain α-ketoacid dehydrogenase|Maple syrup urine disease (MSUD)|
-|1|Transketolase|-|
-|2|Succinate dehydrogenase (ETC complex 2)|-|
+|B<sub>1</sub>|Transketolase|-|
+|B<sub>2</sub>|Succinate dehydrogenase (ETC complex 2)|-|
 ||Acyl-CoA dehydrogenase|Acyl-CoA dehydrogenase deficiency|
 ||Retinal dehydrogenase|-|
-|3|NADH dehydrogenase (ETC complex 1)|-|
-|6|AST & ALT|-|
+|B<sub>3</sub>|NADH dehydrogenase (ETC complex 1)|-|
+|B<sub>6</sub>|AST & ALT|-|
 ||Aminolevulinate (ALA) synthase|Sideroblastic anemia|
 ||Cystathionine synthase|Homocystinuria|
 ||Dopa decarboxylase|-|
 ||Glycogen phosphorylase|McArdle disease<br>Hers disease|
-|7|Pyruvate carboxylase|-|
+|B<sub>7</sub>|Pyruvate carboxylase|-|
 ||Acetyl-CoA carboxylase|-|
 ||Propionyl-CoA carboxylase|-|
-|9 & 12|Methionine synthase|Homocystinuria<br>Megaloblastic anemia|
-|12|Methylmalonyl-CoA mutase|Methylmalonic acidemia<br>Subacute combined degeneration (SCD)|
+|B<sub>9</sub> & B<sub>12</sub>|Methionine synthase|Homocystinuria|
+|B<sub>12</sub>|Methylmalonyl-CoA mutase|Methylmalonic acidemia|
+|C|Proline hydroxylase<br>Lysine hydroxylase|Scurvy|
 
 ## Summary of Pathways
 
