@@ -532,10 +532,12 @@
 
 ## White Matters Affected By Multiple Sclerosis
 
-- Optic nerve
-- Medial longitudinal fasciculus (MLF)
-- Cerebellum
-- Spinal cord
+|White Matter|Symptoms|
+|-|-|
+|Optic nerve|Marcus Gunn pupil|
+|Medial longitudinal fasciculus (MLF)|Internuclear ophthalmoplegia<br>Nystagmus|
+|Cerebellum|Scanning speech<br>Intention tremor|
+|Spinal cord|Incontinence|
 
 ## Types of Multiple Sclerosis
 
