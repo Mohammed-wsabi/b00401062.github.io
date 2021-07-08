@@ -148,8 +148,9 @@
 
 |Disease|Antibodies|
 |-|-|
-|Allergy|IgE|
+|Allergy & Aanaphylaxis|IgE|
 |Transfusion reaction :: allergic|IgE|
+|Urticaria|IgE|
 
 ### Type 2
 
@@ -208,6 +209,8 @@
 |Hashimoto thyroiditis|Anti-thyroglobulin<br>Anti-TPO<br>Anti-microsome|
 |Multiple sclerosis|-|
 |PPD skin test|-|
+|Stevens-Johnson syndrome (SJS)|-|
+|Toxic epidermal necrolysis (TEN)|-|
 |Transplant reaction :: acute & chronic|-|
 
 ## HLA Subtypes Associated With Diseases
