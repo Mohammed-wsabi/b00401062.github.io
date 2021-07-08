@@ -112,8 +112,10 @@
 |-|-|-|
 |NE reuptake inhibitors|Cocaine|Anesthesia|
 ||Atomoxetine<br>Amphetamine<br>Methylphenidate<br>Modafinil|Attention-deficit hyperactivity disorder (ADHD)<br>Narcolepsy|
-||TCA & SNRI & NDRI|Depression|
-|5-HT reuptake inhibitors|TCA & SSRI & SNRI|Depression|
+|TCA|Triptylines<br>Pramines|Depression|
+|SSRI|Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|Depression|
+|SNRI|Venlafaxine<br>Duloxetine|Depression|
+|NDRI|Bupropion|Depression<br>Smoking cessation|
 
 ## Mechanisms of Action of Cholinergic Agonists
 
