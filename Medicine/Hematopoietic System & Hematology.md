@@ -125,9 +125,11 @@
 - Folate deficiency
 - Vitamin B<sub>12</sub> deficiency
 - Orotic aciduria
+- Fanconi anemia
 
 ### Macrocytic Anemia :: Non-megaloblastic
 
+- Diamond-Blackfan anemia
 - Alcoholism
 - Reticulocytosis
 
