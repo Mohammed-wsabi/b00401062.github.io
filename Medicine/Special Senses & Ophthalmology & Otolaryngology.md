@@ -42,6 +42,14 @@
 - Uncal herniation
 - Wernicke encephalopathy
 
+## Presentation of Glaucoma
+
+- Headache
+- Nausea ± vomiting
+- Visual disturbances
+- Non-reactive pupil
+- Mydriasis
+
 ## Mechanisms of Action of Medications for Glaucoma
 
 |Mechanism|Medication|
