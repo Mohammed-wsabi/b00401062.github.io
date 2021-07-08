@@ -100,10 +100,7 @@
 ||Guanethidine|Hypertension|
 |NE release inducers|Tyramine|-|
 ||Ephedrine|Decongestant|
-|MAO inhibitors|Tranylcypromine|Depression|
-||Phenelzine|Depression|
-||Isocarboxazid|Depression|
-||Selegiline|Depression<br>Parkinson disease|
+|MAO inhibitors|Tranylcypromine<br>Phenelzine<br>Isocarboxazid<br>Selegiline|Depression<br>Anxiety<br>Parkinson disease|
 |COMT inhibitors|-Capones|Parkinson disease|
 
 ## Mechanisms of Action of Medications Targeting Neurotransmitter Reuptake
@@ -112,9 +109,9 @@
 |-|-|-|
 |NE reuptake inhibitors|Cocaine|Anesthesia|
 ||Atomoxetine<br>Amphetamine<br>Methylphenidate<br>Modafinil|Attention-deficit hyperactivity disorder (ADHD)<br>Narcolepsy|
-|TCA|Triptylines<br>Pramines|Depression|
-|SSRI|Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|Depression|
-|SNRI|Venlafaxine<br>Duloxetine|Depression|
+|TCA|Triptylines<br>Pramines|Depression<br>Anxiety<br>Obsessive-compulsive disorder (OCD)|
+|SSRI|Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|Depression<br>Anxiety<br>Obsessive-compulsive disorder (OCD)|
+|SNRI|Venlafaxine<br>Duloxetine|Depression<br>Anxiety|
 |NDRI|Bupropion|Depression<br>Smoking cessation|
 
 ## Mechanisms of Action of Cholinergic Agonists
