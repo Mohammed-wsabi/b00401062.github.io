@@ -447,9 +447,9 @@
 |Species|Replication|Enzymes|
 |-|-|-|
 |dsDNA|dsDNA → dsDNA|DNA polymerase|
-|dsDNA :: hepadnavirus|dsDNA → RNA → dsDNA|RNA polymerase & Reverse transcriptase|
+|dsDNA :: hepadnavirus|dsDNA → RNA → dsDNA|RNA polymerase<br>Reverse transcriptase|
 |+ssRNA|+ssRNA → -ssRNA → +ssRNA|RNA polymerase|
-|+ssRNA :: retrovirus|+ssRNA → dsDNA → +ssRNA|Reverse transcriptase & RNA polymerase|
+|+ssRNA :: retrovirus|+ssRNA → dsDNA → +ssRNA|Reverse transcriptase<br>RNA polymerase|
 |-ssRNA|-ssRNA → +ssRNA → -ssRNA|RNA polymerase|
 
 ## Viral Transcription
@@ -459,7 +459,7 @@
 |dsDNA|dsDNA → +mRNA|RNA polymerase|
 |dsDNA :: hepadnavirus|dsDNA → +mRNA|RNA polymerase|
 |+ssRNA|+ssRNA → -ssRNA → +mRNA|RNA polymerase|
-|+ssRNA :: retrovirus|+ssRNA → dsDNA → +mRNA|Reverse transcriptase & RNA polymerase|
+|+ssRNA :: retrovirus|+ssRNA → dsDNA → +mRNA|Reverse transcriptase<br>RNA polymerase|
 |-ssRNA|-ssRNA → +mRNA|RNA polymerase|
 
 ## Classification of DNA Viruses
