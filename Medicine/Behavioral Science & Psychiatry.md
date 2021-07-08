@@ -264,10 +264,10 @@
 
 |Mechanism|Medication|
 |-|-|
-|Reuptake inhibitors|TCA:<br>Triptylines<br>Pramines|
-||SSRI:<br>Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|
-||SNRI:<br>Venlafaxine<br>Duloxetine|
-||NDRI:<br>Bupropion|
+|TCA|Triptylines<br>Pramines|
+|SSRI|Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|
+|SNRI|Venlafaxine<br>Duloxetine|
+|NDRI|Bupropion|
 |5-HT modulators|Trazodone|
 |α<sub>2</sub> antagonists|Mirtazapine|
 |MAO inhibitors|Tranylcypromine<br>Phenelzine<br>Isocarboxazid<br>Selegiline|
