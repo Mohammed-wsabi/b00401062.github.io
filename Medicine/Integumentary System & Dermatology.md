@@ -63,7 +63,7 @@
 |Atopic dermatitis|-|Joints|
 |Acanthosis nigricans|Insulin resistance<br>Visceral malignancy|Axilla & Neck|
 |Erythema toxicum|Neonates|Anywhere|
-|Erythema multiforme|Stevens-Johnson syndrome|Anywhere|
+|Erythema multiforme|Stevens-Johnson syndrome (SJS)<br>Toxic epidermal necrolysis (TEN)|Anywhere|
 |Erythema nodosum|Inflammatory bowel disease<br>Sarcoidosis<br>Non-Hodgkins lymphoma|Anywhere|
 |Necrolytic migratory erythema|Glucagonoma|Face & Extremities|
 
