@@ -53,7 +53,7 @@
 |Measles|Measles virus|Head → Toe|
 |Rubella|Rubella virus|Head → Toe|
 |Hand-foot-mouth disease|Coxsackie A virus|Extremities → Trunk|
-|Tinea [Dermatophytosis]|Microsporum & Epidermophyton & Trichophyton|Anywhere|
+|Tinea [Dermatophytosis]|Microsporum<br>Epidermophyton<br>Trichophyton|Anywhere|
 |Tinea versicolor|Malassezia|Trunk|
 
 ## Rashes Associated with Non-Infectious Diseases
@@ -61,10 +61,10 @@
 |Rash|Associations|Location|
 |-|-|-|
 |Atopic dermatitis|-|Joints|
-|Acanthosis nigricans|Insulin resistance & Visceral malignancy|Axilla & Neck|
+|Acanthosis nigricans|Insulin resistance<br>Visceral malignancy|Axilla & Neck|
 |Erythema toxicum|Neonates|Anywhere|
 |Erythema multiforme|Stevens-Johnson syndrome|Anywhere|
-|Erythema nodosum|Inflammatory bowel disease & Sarcoidosis & Non-Hodgkins lymphoma|Anywhere|
+|Erythema nodosum|Inflammatory bowel disease<br>Sarcoidosis<br>Non-Hodgkins lymphoma|Anywhere|
 |Necrolytic migratory erythema|Glucagonoma|Face & Extremities|
 
 ## Etiology of Erythema Nodosum {DOSUM}
