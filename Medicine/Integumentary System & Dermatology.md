@@ -36,8 +36,6 @@
 
 |Rash|Pathogens|Location|
 |-|-|-|
-|Impetigo|Group A streptococcus (GAS)|Face & Extremities|
-|Scarlet fever|Group A streptococcus (GAS)|Upper trunk|
 |Erythema marginatum ← Rheumatic fever|Group A streptococcus (GAS)|Trunk|
 |Erythema migrans ← Lyme disease|Borrelia burgdorferi|Anywhere|
 |Erythema multiforme|Mycoplasma & HSV|Anywhere|
