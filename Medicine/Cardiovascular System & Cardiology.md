@@ -524,8 +524,8 @@
   - ADP antagonists
 - Anticoagulants :: Heparin
 - β<sub>1</sub> antagonists
-- Thrombolysis
 - Revascularization
+  - Thrombolysis
   - Percutaneous intervention (PCI)
   - Coronary artery bypass grafting (CABG)
 
