@@ -149,8 +149,9 @@
 
 - Anticoagulants
 - IVC filter
-- Thrombolysis
-- Thrombectomy
+- Revascularization
+  - Thrombolysis
+  - Thrombectomy
 
 ## Sputum Sample for Gram Stain
 
