@@ -188,8 +188,8 @@
 
 |Patient|Antibiotics|
 |-|-|
-|CAP & & Outpatient & Uncomplicated|Amoxicillin<br>Macrolides / Doxycycline|
-|CAP & & Outpatient & Complicated|Amoxicillin & (Macrolides / Doxycycline)<br>Fluoroquinolones|
+|CAP & Outpatient & Uncomplicated|Amoxicillin<br>Macrolides / Doxycycline|
+|CAP & Outpatient & Complicated|Amoxicillin & (Macrolides / Doxycycline)<br>Fluoroquinolones|
 |CAP & Inpatient|Anti-pneumococcal β-lactams & (Macrolides / Doxycycline)<br>Fluoroquinolones|
 |CAP & Inpatient & ICU|Anti-pneumococcal β-lactams & Fluoroquinolones|
 |HAP|Anti-MRSA & Anti-pseudomonal β-lactams & (Aminoglycosides / Fluoroquinolones)|
