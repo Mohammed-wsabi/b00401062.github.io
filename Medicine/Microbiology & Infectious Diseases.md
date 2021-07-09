@@ -345,22 +345,22 @@
 |-|-|-|
 |Acanthamoeba|Amebic meningoencephalitis|Azoles|
 |Naegleria fowleri|Amebic meningoencephalitis|Amphotericin B|
-|Toxoplasma gondii|Toxoplasmosis|Pyrimethamine & Sulfadiazine|
-|Trypanosoma brucei|African sleeping sickness|Suramin & Melarsoprol|
+|Toxoplasma gondii|Toxoplasmosis|Pyrimethamine<br>Sulfadiazine|
+|Trypanosoma brucei|African sleeping sickness|Suramin<br>Melarsoprol|
 
 ### Protozoan Parasites :: Hematologic Infections {BP}
 
 |Parasite|Disease|Treatment|
 |-|-|-|
-|Babesia|Babesiosis|Atovaquone & Azithromycin|
+|Babesia|Babesiosis|Atovaquone<br>Azithromycin|
 |Plasmodium|Malaria|Chloroquine<br>Primaquine<br>Mefloquine<br>Atovaquone-Proguanil<br>Artemisinin|
 
 ### Protozoan Parasites :: Visceral Infections
 
 |Parasite|Disease|Treatment|
 |-|-|-|
-|Trypanosoma cruzi|Chagas disease|Benznidazole & Nifurtimox|
-|Leishmania donovani|Leishmaniasis|Amphotericin B & Stibogluconate|
+|Trypanosoma cruzi|Chagas disease|Benznidazole<br>Nifurtimox|
+|Leishmania donovani|Leishmaniasis|Amphotericin B<br>Stibogluconate|
 
 ### Protozoan Parasites :: Sexually Transmitted Diseases (STD)
 
@@ -392,8 +392,8 @@
 
 |Parasite|Disease|Treatment|
 |-|-|-|
-|Enterobius vermicularis|Perianal pruritis|Benzimidazole & Pyrantel pamoate|
-|Ascaris lumbricoides|GI & respiratory symptoms|Benzimidazole & Pyrantel pamoate|
+|Enterobius vermicularis|Perianal pruritis|Benzimidazole<br>Pyrantel pamoate|
+|Ascaris lumbricoides|GI & respiratory symptoms|Benzimidazole<br>Pyrantel pamoate|
 |Trichuris trichiura|GI symptoms|Benzimidazole|
 |Trichinella spiralis|Myalgia & Periorbital edema|Benzimidazole|
 |Toxocara|Visceral larva migrans|Benzimidazole|
@@ -402,9 +402,9 @@
 
 |Parasite|Disease|Treatment|
 |-|-|-|
-|Strongyloides stercoralis|GI symptoms|Benzimidazole & Ivermectin|
-|Ancylostoma duodenale|IDA & Cutaneous larva migrans|Benzimidazole & Pyrantel pamoate|
-|Necator americanus|IDA|Benzimidazole & Pyrantel pamoate|
+|Strongyloides stercoralis|GI symptoms|Benzimidazole<br>Ivermectin|
+|Ancylostoma duodenale|Iron deficiency anemia (IDA)<br>Cutaneous larva migrans|Benzimidazole<br>Pyrantel pamoate|
+|Necator americanus|Iron deficiency anemia (IDA)|Benzimidazole<br>Pyrantel pamoate|
 
 ### Animalian Parasites :: Nematodes [Roundworms] :: Arthropod-Borne {WOLD}
 
@@ -413,7 +413,7 @@
 |Wucheria bancrofti|Elephantiasis|Diethylcarbamazine|
 |Onchocerca volvulus|River blindness|Ivermectin|
 |Loa loa|Calabar swelling|Diethylcarbamazine|
-|Dracunculus medinensis|Skin inflammation & ulceration|Niridazole|
+|Dracunculus medinensis|Skin ulceration|Niridazole|
 
 ## Characteristics of Parasites
 
