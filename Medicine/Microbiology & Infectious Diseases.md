@@ -381,7 +381,7 @@
 
 |Parasite|Disease|Treatment|
 |-|-|-|
-|Clonorchis sinensis|BTI & Cholangiocarcinoma|Praziquantel|
+|Clonorchis sinensis|Biliary Tract Infection (BTI)<br>Cholangiocarcinoma|Praziquantel|
 |Paragonimus westermani|Respiratory symptoms|Praziquantel|
 |Schistosoma|Katayama fever|Praziquantel|
 |Schistosoma haematobium|Hematuria & Bladder SCC|Praziquantel|
