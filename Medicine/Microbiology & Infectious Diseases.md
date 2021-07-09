@@ -396,7 +396,7 @@
 |Ascaris lumbricoides|GI symptoms<br>Respiratory symptoms|Benzimidazole<br>Pyrantel pamoate|
 |Trichuris trichiura|GI symptoms|Benzimidazole|
 |Trichinella spiralis|Myalgia & Periorbital edema|Benzimidazole|
-|Toxocara canis/cati|Visceral larva migrans|Benzimidazole|
+|Toxocara|Visceral larva migrans|Benzimidazole|
 
 ### Animalian Parasites :: Nematodes [Roundworms] :: Contact Transmission {SAN}
 
