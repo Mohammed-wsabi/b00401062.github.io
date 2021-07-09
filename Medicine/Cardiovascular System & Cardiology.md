@@ -523,7 +523,7 @@
   - ADP antagonists
 - Anticoagulants :: Heparin
 - β<sub>1</sub> antagonists
-- Thrombolysis: onset < 12 ~ 24 hours
+- Thrombolysis: duration < 12 ~ 24 hours
 - Revascularization
   - Percutaneous intervention (PCI)
   - Coronary artery bypass grafting (CABG)
