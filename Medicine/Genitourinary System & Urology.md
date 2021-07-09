@@ -83,13 +83,13 @@
 
 |Patient|Antibiotics|
 |-|-|
-|Child|3° Cephalosporins|
-|Adult|Nitrofurantoin<br>TMP-SMX<br>Fluoroquinolones|
-|Pregnant|Nitrofurantoin<br>Amoxicillin<br>3° Cephalosporins|
+|Outpatient & Child|3° Cephalosporins|
+|Outpatient & Adult|Nitrofurantoin<br>TMP-SMX<br>Fluoroquinolones|
+|Outpatient & Pregnant|Nitrofurantoin<br>Amoxicillin<br>3° Cephalosporins|
 |Inpatient|Anti-pseudomonal β-lactams<br>Fluoroquinolones|
-|ICU|Carbapenems & Vancomycin|
+|Inpatient & ICU|Carbapenems & Vancomycin|
 
-### Complicated Patients
+### Complicated Outpatients
 
 - Temperature > 38°C
 - Costovertebral angle tenderness
