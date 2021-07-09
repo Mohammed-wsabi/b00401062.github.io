@@ -494,11 +494,11 @@
 
 ## Indications for Thrombolytics
 
-- Acute coronary syndrome (ACS)
+- ST-elevation myocardial infarction (STEMI)
   - Duration < 12 ~ 24 hours
   - Door-to-bolloon > 2 hours
 - Ischemic stroke
   - Duration < 3 ~ 4.5 hours
   - BP < 185/110 mmHg
 - Pulmonary embolism (PE)
-  - BP < 90/60 mmHg
+  - Hemodynamically unstable
