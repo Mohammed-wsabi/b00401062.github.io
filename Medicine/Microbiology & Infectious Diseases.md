@@ -528,10 +528,10 @@
 |CAMP test|Group B streptococcus (GBS)|
 |Elek test|Corynebacterium diphtheriae|
 |Nitrite test|Gram negative bacteria|
-|Urea breath test & Fecal antigen test|Helicobacter pylori|
+|Urea breath test<br>Fecal antigen test|Helicobacter pylori|
 |Weil-Felix test|Rickettsia|
 |Amine whiff test|Gardnerella vaginalis|
-|VDRL/RPR & FTA-ABS|Treponema pallidum|
+|VDRL/RPR<br>FTA-ABS|Treponema pallidum|
 |Tzanck test|HSV & VZV|
 |Monospot test|EBV|
 |Cold agglutinin test|Mycoplasma & HCV & EBV|
