@@ -590,7 +590,7 @@
 |Mechanism|Targets|Medication|
 |-|-|-|
 |↑ Cell membrane damage|-|Daptomycin|
-|↑ Cell membrane damage|-|Polymyxin|
+|↑ Cell membrane damage|-|Polymyxins:<br>Polymyxin B<br>Colistin|
 
 ### Metabolite Inhibitors
 
@@ -714,9 +714,9 @@
 |-|-|
 |MRSA|Ceftaroline<br>Vancomycin<br>Linezolid<br>Daptomycin|
 |VRE|Linezolid<br>Daptomycin|
-|MDRAB|Tigecyclin<br>Polymyxin|
-|ESBL|Carbapenems<br>Tigecycline<br>Polymyxin|
-|CRE|Tigecycline<br>Polymyxin|
+|MDRAB|Tigecyclin<br>Polymyxins|
+|ESBL|Carbapenems<br>Tigecycline<br>Polymyxins|
+|CRE|Tigecycline<br>Polymyxins|
 
 ## Anti-anaerobic Antibiotics
 
