@@ -584,7 +584,7 @@
 |-|Topiramate|Seizure|
 |-|Lamotrigine|Seizure|
 
-## Risk of Progression of TIA to Stroke {ABCD2}
+## Risk of Progression of TIA to Ischemic Stroke {ABCD2}
 
 - Age > 60 years
 - BP > 140/90 mmHg
@@ -594,7 +594,7 @@
 - Duration
 - Diabetes
 
-## Presentation of Stroke
+## Presentation of Ischemic Stroke
 
 |Artery|Lesions|Symptoms|
 |-|-|-|
