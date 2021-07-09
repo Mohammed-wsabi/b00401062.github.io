@@ -607,6 +607,13 @@
 |Posterior inferior cerebellar artery (PICA)|Ambiguous nucleus<br>Lateral spinothalamic tract<br>Sympathetic fibers<br>Inferior cerebellar peduncle|Lateral medullary [Wallenberg] syndrome:<br>Dysphagia<br>Dysarthria<br>↓ Gag reflex<br>Contralateral palate deviation<br>Ipsilateral Horner syndrome<br>Ipsilateral ataxia|
 |Anterior spinal artery (ASA)|CN XII<br>Corticospinal tract<br>Medial lemniscus|Medial medullary syndrome:<br>Ipsilateral tongue deviation<br>Contralateral paralysis<br>Contralateral paresthesia|
 
+## Management of Ischemic Stroke
+
+- BP < 220/120 mmHg
+- Antiplatelets
+- Thrombolysis: duration < 3 ~ 4.5 hours & BP < 185/110 mmHg
+- Thrombectomy: duration < 6 hours
+
 ## Neurological Examination for Hemineglect
 
 - Cancellation test
