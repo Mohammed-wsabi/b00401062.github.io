@@ -611,8 +611,9 @@
 
 - BP < 220/120 mmHg
 - Antiplatelets
-- Thrombolysis: duration < 3 ~ 4.5 hours & BP < 185/110 mmHg
-- Thrombectomy: duration < 6 hours
+- Revascularization
+  - Thrombolysis: duration < 3 ~ 4.5 hours & BP < 185/110 mmHg
+  - Thrombectomy: duration < 6 hours
 
 ## Neurological Examination for Hemineglect
 
