@@ -384,7 +384,7 @@
 |Clonorchis sinensis|Biliary Tract Infection (BTI)<br>Cholangiocarcinoma|Praziquantel|
 |Paragonimus westermani|Respiratory symptoms|Praziquantel|
 |Schistosoma|Katayama fever|Praziquantel|
-|Schistosoma haematobium|Hematuria & Bladder SCC|Praziquantel|
+|Schistosoma haematobium|Hematuria<br>Bladder cancer|Praziquantel|
 |Schistosoma mansoni|Portal hypertension|Praziquantel|
 |Schistosoma japonicum|Portal hypertension|Praziquantel|
 
