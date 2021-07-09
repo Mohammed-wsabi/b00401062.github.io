@@ -695,7 +695,7 @@
 |Neisseria gonorrhoeae|3° Cephalosporins<br>Macrolides|
 |Acinetobacter baumannii|Anti-pseudomonal β-lactams|
 |Bordetella pertussis|Macrolides|
-|Haemophilus influenzae|Penicillinase-sensitive penicillin<br>2° Cephalosporins|
+|Haemophilus influenzae|Penicillinase-sensitive penicillin<br>3° Cephalosporins|
 |Legionella pneumophilia|Macrolides|
 |GNB :: enteric|3° Cephalosporins<br>Aminoglycosides<br>Fluoroquinolones<br>Trimethoprim<br>Sulfonamides|
 |Bacteroides fragilis|Carbapenems<br>Metronidazole|
