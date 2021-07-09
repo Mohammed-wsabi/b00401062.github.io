@@ -200,7 +200,7 @@
 - Antibiotics within 3 months
 - Commorbid
 
-### CURB-65 Score for Inpatient Treatment of Pneumonia
+### CURB-65 Score for Inpatient
 
 - Confusion
 - Uremia :: BUN > 19
