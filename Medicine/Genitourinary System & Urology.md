@@ -86,8 +86,8 @@
 |Outpatient & Child|3° Cephalosporins|
 |Outpatient & Adult|Nitrofurantoin<br>TMP-SMX<br>Fluoroquinolones|
 |Outpatient & Pregnant|Nitrofurantoin<br>Amoxicillin<br>3° Cephalosporins|
-|Inpatient|Anti-pseudomonal β-lactams<br>Fluoroquinolones|
-|Inpatient & ICU|Carbapenems & Vancomycin|
+|Inpatient|3° Cephalosporins<br>Aminoglycosides<br>Fluoroquinolones|
+|Inpatient & ICU|Vancomycin & Carbapenems|
 
 ### Complicated Outpatients
 
