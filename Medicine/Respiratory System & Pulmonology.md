@@ -184,29 +184,29 @@
 - Chlamydia
 - Mycoplasma
 
-## CURB-65 Score for Pneumonia Severity
+## Empirical Antibiotics for Pneumonia
+
+|Patient|Antibiotics|
+|-|-|
+|CAP & & Outpatient & Uncomplicated|Amoxicillin<br>Macrolides / Doxycycline|
+|CAP & & Outpatient & Complicated|Amoxicillin & (Macrolides / Doxycycline)<br>Fluoroquinolones|
+|CAP & Inpatient|Anti-pneumococcal β-lactams & (Macrolides / Doxycycline)<br>Fluoroquinolones|
+|CAP & Inpatient & ICU|Anti-pneumococcal β-lactams & Fluoroquinolones|
+|HAP|Anti-MRSA & Anti-pseudomonal β-lactams & (Aminoglycosides / Fluoroquinolones)|
+
+### Complicated Outpatients
+
+- Age > 65 years
+- Antibiotics within 3 months
+- Commorbid
+
+### CURB-65 Score for Inpatient Treatment of Pneumonia
 
 - Confusion
 - Uremia :: BUN > 19
 - Respiratory rate > 30
 - Blood pressure :: SBP/DBP < 90/60 mm Hg
 - Age > 65 years
-
-## Empirical Antibiotics for Pneumonia
-
-|Patient|Antibiotics|
-|-|-|
-|CAP & Uncomplicated|Amoxicillin<br>Macrolides / Doxycycline|
-|CAP & Complicated|Amoxicillin & (Macrolides / Doxycycline)<br>Fluoroquinolones|
-|CAP & Inpatient|Anti-pneumococcal β-lactams & (Macrolides / Doxycycline)<br>Fluoroquinolones|
-|CAP & ICU|Anti-pneumococcal β-lactams & Fluoroquinolones|
-|HAP|Anti-MRSA & Anti-pseudomonal β-lactams & (Aminoglycosides / Fluoroquinolones)|
-
-### Complicated Patients
-
-- Age > 65 years
-- Antibiotics within 3 months
-- Commorbid
 
 ## Respiratory Failure
 
