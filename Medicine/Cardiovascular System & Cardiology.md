@@ -505,9 +505,10 @@
 
 ## Thrombolysis in Myocardial Infarction (TIMI) Score for NSTEMI {ACS}
 
-- Age > 75 years
+- Age > 65 years
 - Aspirin use
 - Angina ≥ 2 in 24 hours
+- CAD history
 - CAD risk factors ≥ 3
 - Cardiac enzymes
 - ST changes > 0.5 mm
@@ -523,7 +524,7 @@
   - ADP antagonists
 - Anticoagulants :: Heparin
 - β<sub>1</sub> antagonists
-- Thrombolysis: duration < 12 ~ 24 hours
+- Thrombolysis
 - Revascularization
   - Percutaneous intervention (PCI)
   - Coronary artery bypass grafting (CABG)
