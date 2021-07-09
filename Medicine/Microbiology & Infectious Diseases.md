@@ -251,18 +251,16 @@
 - Pseudomonas aeruginosa
 - Salmonella typhi: Vi capsule
 
-## Catalase Positive Bacteria
+## Catalase Positive Bacteria {N-PLACESS}
 
-|Mnemonic|Bacteria|
-|-|-|
-|Need|Nocardia|
-|P|Pseudomonas|
-|L|Listeria|
-|A|Aspergillus|
-|C|Candida|
-|E|Escherichia|
-|S|Staphylococcus|
-|S|Serratia|
+- Nocardia
+- Pseudomonas
+- Listeria
+- Aspergillus
+- Candida
+- Escherichia
+- Staphylococcus
+- Serratia
 
 ## Oxidase Positive Bacteria {PVNCH}
 
@@ -678,8 +676,8 @@
 
 |Pathogens|Antibiotics|
 |-|-|
-|Staphylococcus aureus|Penicillinase-resistant penicillin|
-|Streptococcus pneumoniae|Penicillinase-sensitive penicillin<br>3° Cephalosporins<br>Macrolides|
+|Staphylococcus aureus|Penicillinase-resistant penicillin<br>Cephalosporins|
+|Streptococcus pneumoniae|Penicillinase-sensitive penicillin<br>Cephalosporins<br>Macrolides|
 |GAS :: Streptococcus pyogenes|Penicillinase-sensitive penicillin|
 |GBS :: Streptococcus agalactiae|Penicillinase-sensitive penicillin|
 |Enterococcus|Penicillinase-sensitive penicillin|
@@ -699,7 +697,7 @@
 |Bordetella pertussis|Macrolides|
 |Haemophilus influenzae|Penicillinase-sensitive penicillin<br>2° Cephalosporins|
 |Legionella pneumophilia|Macrolides|
-|GNB :: enteric|2° Cephalosporins<br>Fluoroquinolones<br>Trimethoprim<br>Sulfonamides|
+|GNB :: enteric|3° Cephalosporins<br>Aminoglycosides<br>Fluoroquinolones<br>Trimethoprim<br>Sulfonamides|
 |Bacteroides fragilis|Carbapenems<br>Metronidazole|
 |Pseudomonas aeruginosa|Anti-pseudomonal β-lactams<br>Fluoroquinolones|
 |Bartonella henselae|Tetracyclines<br>Macrolides|
