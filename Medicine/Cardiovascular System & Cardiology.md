@@ -234,6 +234,7 @@
 |Ventricular septal defect (VSD)|Down syndrome<br>Fetal alcohol syndrome<br>VACTERL association<br>Apert syndrome|
 |Patent ductus arteriosus (PDA)|Congenital rubella|
 |Tetralogy of Fallot (TOF)|DiGeorge syndrome<br>Velocardiofacial syndrome|
+|Mitral valve proplase (MVP)|Ehlers-Danlos syndrome (EDS)<br>Marfan syndrome<br>Fragile X syndrome<br>Rheumatic fever<br>ADPKD|
 |Supravalvular aortic stenosis|Williams syndrome|
 |Bicuspid aortic value<br>Coarctation of the aorta (CoA)|Turner syndrome|
 |Ebstein anomaly|Lithium|
