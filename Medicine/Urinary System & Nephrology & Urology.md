@@ -1,5 +1,14 @@
 # Urinary System & Nephrology & Urology
 
+## Urinary Tract Embryology
+
+|Male|Primordial|Female|
+|-|-|-|
+|Urinary bladder|Urogenital sinus|Urinary bladder|
+|Prostatic urethra|Urogenital sinus|Proximal 1/3 urethra|
+|Membranous urethra|Urogenital sinus|Middle 1/3 urethra|
+|Penile urethra|Urogenital fold|Distal 1/3 urethra|
+
 ## Hormones Acting on Kidney
 
 |Hormones|Locations|Effect|
@@ -195,3 +204,89 @@
 |2|Proximal|HCO<sub>3</sub> reabsorption|↓|↑|
 |3|Mixed|-|↓|↑|
 |4|Hyperkalemic|Aldosterone|↑|↑|
+
+## Etiology of Overactive Bladder (OAB)
+
+- Urinary tract infection (UTI)
+- Bladder stone
+- Urinary retention
+- Neurogenic bladder
+- Drug-induced
+
+## Etiology of Underactive Bladder (UAB)
+
+- Overdistension
+- Postoperative
+- Neurogenic bladder
+- Drug-induced
+
+## Urinary Incontinence
+
+|Type|Urgency|Nocturia|Residual volume|Etiology|
+|-|-|-|-|-|
+|Stress|-|-|-|Pelvic relaxation|
+|Urge|+|+|↓|Overactive bladder (OAB)|
+|Overflow|-|+|↑|Underactive bladder (UAB)|
+
+## Etiology of Urinary Retention
+
+- Obstruction
+- Underactive bladder (UAB)
+
+## International Classification of Vesicoureteral Reflux (VUR)
+
+- Grade 1: reflux to the ureter
+- Grade 2: reflux to the pelvis
+- Grade 3: dilatation of the ureter & pelvis & calyx
+- Grade 4: blunting of the fornix
+- Grade 5: loss of papillary impressions
+
+![](../Figures/International%20Classification%20of%20Vesicoureteral%20Reflux%20(VUR).jpg)
+
+## Indications for Voiding Cystourethrogram (VCUG)
+
+- Boys with first UTI
+- Girls < 3 y/o with first UTI
+- Girls < 5 y/o with febrile UTI
+- Girls with recurrent UTIs
+
+## Differentiation between Testicular Torsion and Epididymitis
+
+||Testicular Torsion|Epididymitis|
+|-|-|-|
+|Prehn sign|-|+|
+|Cremasteric reflex|-|+|
+|Blood flow|↓|↑|
+
+## Pathogens of Urinary Tract Infection (UTI)
+
+- Staphylococcus saprophyticus
+- Serratia marcescens
+- Escherichia coli
+- Enterobacter cloacae
+- Klebsiella pneumoniae
+- Pseudomonas aeruginosa
+- Proteus mirabilis
+- Candida
+
+## Diagnosis of Urinary Tract Infection (UTI)
+
+- Voided urine > 10<sup>5</sup> CFU/mL
+- Catheterized urine > 5 × 10<sup>4</sup> CFU/mL
+- Suprapubic aspirate > 10<sup>4</sup> CFU/mL
+
+## Empirical Antibiotics for Urinary Tract Infection (UTI)
+
+|Patient|Antibiotics|
+|-|-|
+|Outpatient & Child|3° Cephalosporins|
+|Outpatient & Adult|Nitrofurantoin<br>TMP-SMX<br>Fluoroquinolones|
+|Outpatient & Pregnant|Nitrofurantoin<br>Amoxicillin<br>3° Cephalosporins|
+|Inpatient|3° Cephalosporins<br>Aminoglycosides<br>Fluoroquinolones|
+|Inpatient & ICU|Vancomycin & Carbapenems|
+
+### Complicated Outpatients
+
+- Temperature > 38°C
+- Costovertebral angle tenderness
+- Pain :: pelvic / perineal
