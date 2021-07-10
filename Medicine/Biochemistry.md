@@ -155,9 +155,9 @@
 
 ![](../Figures/Carbohydrate%20Metabolism.png)
 
-## Glycolysis Enzymes & Products {KI-KAI-DK-MEK}
+## Glycolysis Enzymes {KI-KAI-DK-MEK}
 
-|Enzyme|Substrates|
+|Enzyme|Product|
 |-|-|
 |-|Glucose|
 |**Hexokinase & Glucokinase**|Glucose-6-phosphate (G6P)|
@@ -171,9 +171,9 @@
 |Enolase|Phosphoenolpyruvate (PEP)|
 |**Pyruvate kinase (PK)**|Pyruvate|
 
-## Krebs Cycle Enzymes & Products
+## Krebs Cycle Enzymes
 
-|Enzyme|Mnemonic|Substrate|
+|Enzyme|Mnemonic|Product|
 |-|-|-|
 |-|-|Acetyl-CoA: 2C|
 |**Citrate synthase**|Citrate|Citrate: 6C|
@@ -185,9 +185,9 @@
 |Fumarase|Mitochondrial|Malate: 4C|
 |Malate dehydrogenase|Oxidation|Oxaloacetate: 4C|
 
-## Gluconeogenesis Enzymes & Products
+## Gluconeogenesis Enzymes
 
-|Enzyme|Substrate|
+|Enzyme|Product|
 |-|-|
 |-|Pyruvate|
 |**Pyruvate carboxylase**|Oxaloacetate|
@@ -202,9 +202,9 @@
 |Phosphoglucose isomerase (PGI)|Glucose-6-phosphate (G6P)|
 |**Glucose-6-phosphatase (G6Pase)**|Glucose|
 
-## Glycogenesis Enzymes & Products
+## Glycogenesis Enzymes
 
-|Enzyme|Substrate|
+|Enzyme|Product|
 |-|-|
 |-|Glucose|
 |Hexokinase & Glucokinase|Glucose-6-phosphate (G6P)|
@@ -212,9 +212,9 @@
 |UDP-glucose phosphorylase|UDP-glucose|
 |**Glycogen synthase**|Glycogen|
 
-## Glycogenolysis Enzymes & Products
+## Glycogenolysis Enzymes
 
-|Enzyme|Substrate|
+|Enzyme|Product|
 |-|-|
 |-|Glycogen|
 |**Glycogen phosphorylase**|Glucose-1-phosphate (G1P)|
@@ -414,21 +414,21 @@
 
 ![](../Figures/Catecholamine%20Metabolism.png)
 
-## Urea Cycle Enzymes and Products
+## Urea Cycle
 
-|Mnemonic|Enzyme|Mnemonic|Substrate|
-|-|-|-|-|
-|-|-|C|Carbamoyl phosphate|
-|O|Ornithine transcarbamylase|C|Citrulline|
-|A|Argininosuccinate synthetase|A|Argininosuccinate|
-|A|Argininosuccinase|A|Arginine|
-|A|Arginase|O|Ornithine|
+|Enzyme|Product|
+|-|-|
+|-|Carbamoyl phosphate|
+|Ornithine transcarbamylase|Citrulline|
+|Argininosuccinate synthetase|Argininosuccinate|
+|Argininosuccinase|Arginine|
+|Arginase|Ornithine|
 
-![](../Figures/Urea%20Cycle%20Enzymes%20and%20Products.png)
+![](../Figures/Urea%20Cycle.png)
 
 ## Cori Cycle & Cahill Cycle
 
-![](../Figures/Cori%20and%20Cahill%20Cycle.png)
+![](../Figures/Cori%20Cycle%20&%20Cahill%20Cycle.png)
 
 ## Nucleobases & Nucleosides
 
