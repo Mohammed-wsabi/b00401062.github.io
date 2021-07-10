@@ -207,7 +207,7 @@
 |Marfan syndrome|FBN1|Fibrillin|
 |Multiple endocrine neoplasia (MEN) 1|MEN1|Tyrosine kinase|
 |Multiple endocrine neoplasia (MEN) 2|RET|Menin|
-|Neurofibromatosis (NF)|NF1<br>NF2|RAS activators|
+|Neurofibromatosis (NF) type 1<br>Neurofibromatosis (NF) type 2|NF1<br>NF2|RAS activators|
 |Tuberous sclerosis|TSC1<br>TSC2|Hamartin<br>Tuberlin|
 |Von Hippel-Lindau (VHL) disease|VHL|HIF inhibitors|
 |Acute intermittent porphyria|-|Porphobilinogen deaminase|
