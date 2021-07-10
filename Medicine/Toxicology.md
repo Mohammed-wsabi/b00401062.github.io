@@ -74,6 +74,7 @@
 |Opioids|Naloxone|
 |Salicylate<br>TCAs|NaHCO<sub>3</sub>|
 |Digitalis|Anti-digitalis|
-|Heparin|Protamine sulfate|
 |Warfarin|Fresh frozen plasma (FFP)<br>Vitamin K|
+|Heparin|Protamine sulfate|
+|Factor 10a inhibitors|Andexanet alfa|
 |tPAs|Aminocaproic acid|
