@@ -786,6 +786,23 @@
 - Erythema marginatum
 - Sydenham chorea [Chorea minor]
 
+## Tetanus Prophylaxis
+
+### Clean Wound
+
+|Setting|Management|
+|-|-|
+|< 3 lifetime toxoid<br>Last toxoid > 10 years ago|toxoid|
+|Otherwise|No prophylaxis|
+
+### Other Wounds
+
+|Setting|Management|
+|-|-|
+|< 3 lifetime toxoid|Toxoid & IVIG|
+|Last toxoid > 5 years ago|Toxoid|
+|Otherwise|No prophylaxis|
+
 ## Facts About Corynebacterium Diphtheria {ABCDEFG}
 
 - ADP-ribosylation
