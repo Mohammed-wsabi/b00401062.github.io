@@ -205,9 +205,10 @@
 |Familial hypercholesterolemia|LDLR|LDL receptor|
 |Huntington disease|HTT|Huntingtin|
 |Marfan syndrome|FBN1|Fibrillin|
-|Multiple endocrine neoplasia (MEN)|MEN1 & RET|Menin|
-|Neurofibromatosis (NF)|NF1 & NF2|-|
-|Tuberous sclerosis|TSC|Hamartin & Tuberlin|
+|Multiple endocrine neoplasia (MEN) 1|MEN1|Tyrosine kinase|
+|Multiple endocrine neoplasia (MEN) 2|RET|Menin|
+|Neurofibromatosis (NF)|NF1<br>NF2|RAS activators|
+|Tuberous sclerosis|TSC1<br>TSC2|Hamartin<br>Tuberlin|
 |Von Hippel-Lindau (VHL) disease|VHL|HIF inhibitors|
 |Acute intermittent porphyria|-|Porphobilinogen deaminase|
 |Porphyria cutanea tarda|-|Uroporphyrinogen decarboxylase|
