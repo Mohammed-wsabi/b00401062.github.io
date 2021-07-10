@@ -25,8 +25,8 @@
 |ABL1|Tyrosine kinase|CML|
 |BCL2|Anti-apoptotics|Follicular lymphoma|
 |BRAF|Serine/Threonine kinase (STK)|Melanoma|
-|EGFR<br>HER1<br>ERBB1|Tyrosine kinase|Non-small cell lung cancer (NSCLC)<br>Colorectal cancer|
-|NEU<br>HER2<br>ERBB2|Tyrosine kinase|Breast cancer|
+|EGFR<br>[HER1]<br>[ERBB1]|Tyrosine kinase|Non-small cell lung cancer (NSCLC)<br>Colorectal cancer|
+|NEU<br>[HER2]<br>[ERBB2]|Tyrosine kinase|Breast cancer|
 |C-KIT|Tyrosine kinase|Gastrointestinal stromal tumor (GIST)|
 |C-MYC|Transcription factor|Burkitt lymphoma|
 |L-MYC|Transcription factor|Small cell lung cancer (SCLC)|
