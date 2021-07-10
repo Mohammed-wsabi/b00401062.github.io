@@ -228,7 +228,7 @@
 |Kartagener syndrome|-|Dynein|
 |Sickle cell disease (SCD)|-|β-Globin|
 |Thalassemia|-|α-Globin<br>β-Globin|
-|Hemochromatosis|HFE|-|
+|Hemochromatosis|HFE|Iron regulator protein|
 |Wilson disease|ATP7B|Cu channel|
 |Glycogen storage disease (GSD)|-|-|
 |Lysosomal storage disease (LSD)|-|-|
