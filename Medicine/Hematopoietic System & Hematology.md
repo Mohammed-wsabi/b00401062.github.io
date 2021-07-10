@@ -78,8 +78,11 @@
 - Anemia of chronic disease (ACD)
 - Iron deficiency anemia (IDA)
 - Sideroblastic anemia
-  - Lead poisoning
+  - Alcoholism
+  - ALA synthase deficiency
   - Vitamin B<sub>6</sub> deficiency
+  - Lead poisoning
+  - Copper deficiency
 
 ### Normocytic Anemia :: Non-hemolytic Anemia
 
