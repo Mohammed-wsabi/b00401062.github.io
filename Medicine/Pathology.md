@@ -201,7 +201,7 @@
 
 |Disease|Gene|Product|
 |-|-|-|
-|ADPKD|PKD1<br>PKD2|-|
+|ADPKD|PKD1<br>PKD2|Polycystin 1<br>Polycystin 2|
 |Familial hypercholesterolemia|LDLR|LDL receptor|
 |Huntington disease|HTT|Huntingtin|
 |Marfan syndrome|FBN1|Fibrillin|
