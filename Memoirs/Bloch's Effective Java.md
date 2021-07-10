@@ -255,7 +255,7 @@
 
 ### Design interfaces for posterity
 
-- In the presence of default methods, existing implementations of an inter- face may compile without error or warning but fail at runtime.
+- In the presence of default methods, existing implementations of an interface may compile without error or warning but fail at runtime.
 
 ### Use interfaces only to define types
 
