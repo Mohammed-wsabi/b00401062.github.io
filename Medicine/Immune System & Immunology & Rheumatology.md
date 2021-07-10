@@ -241,12 +241,12 @@
 
 ### T Cell Deficiency {CHILD}
 
-|Disease|Gene|IgM|IgG|IgE|IgA|
-|-|-|-|-|-|-|
-|Chronic mucocutaneous candidiasis|-|-|-|-|-|
-|Hyper-IgE [Job] syndrome|STAT3|-|-|↑|-|
-|IL-12R deficiency|IL-12R|-|-|-|-|
-|DiGeorge syndrome|22q11|-|-|-|-|
+|Disease|Gene|Inheritance|IgM|IgG|IgE|IgA|
+|-|-|-|-|-|-|-|
+|Chronic mucocutaneous candidiasis|-|-|-|-|-|-|
+|Hyper-IgE [Job] syndrome|STAT3|AD|-|-|↑|-|
+|IL-12R deficiency|IL-12R|AR|-|-|-|-|
+|DiGeorge syndrome|22q11|AD|-|-|-|-|
 
 ### B Cell Deficiency {CBS}
 
