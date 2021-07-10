@@ -635,7 +635,7 @@
 - Sulbactam
 - Tazobactam
 
-## Combinations of β-lactams w/ β-lactamase Inhibitors
+## Combinations of β-lactams and β-lactamase Inhibitors
 
 |Brand|β-lactam|β-lactamase Inhibitor|
 |-|-|-|
@@ -717,7 +717,7 @@
 
 ## Anti-anaerobic Antibiotics
 
-- β-lactams w/ β-lactamase inhibitors
+- β-lactams & β-lactamase inhibitors
 - Carbapenems
 - Vancomycin
 - Clindamycin
