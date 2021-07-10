@@ -59,11 +59,11 @@
 
 ## Estrogens in Females
 
-|Hormone|Precursor|Precursor Site|Enzyme|Enzyme Site|Timing|
+|Estrogen|Estrogen Site|Precursor|Precursor Site|Enzyme|Timing|
 |-|-|-|-|-|-|
-|Estrone|Androstenedione|Adrenal gland|Aromatase|Adipose cells|Post-menopause|
-|Estradiol|Testosterone|Theca cells|Aromatase|Granulosa cells|Non-pregnancy|
-|Estriol|DHEA sulfate (DHEAS)|Adrenal gland|Sulfatase|Placenta|Pregnancy|
+|Estrone|Adipose cells|Androstenedione|Adrenal gland|Aromatase|Post-menopause|
+|Estradiol|Granulosa cells|Testosterone|Theca cells|Aromatase|Non-pregnancy|
+|Estriol|Placenta|DHEA sulfate (DHEAS)|Adrenal gland|Sulfatase|Pregnancy|
 
 ## Incresed Exposure to Estrogen
 
