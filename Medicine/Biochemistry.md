@@ -155,7 +155,7 @@
 
 ![](../Figures/Carbohydrate%20Metabolism.png)
 
-## Glycolysis Enzymes {KI-KAI-DK-MEK}
+## Glycolysis
 
 |Enzyme|Product|
 |-|-|
@@ -171,7 +171,7 @@
 |Enolase|Phosphoenolpyruvate (PEP)|
 |**Pyruvate kinase (PK)**|Pyruvate|
 
-## Krebs Cycle Enzymes
+## Krebs Cycle
 
 |Enzyme|Mnemonic|Product|
 |-|-|-|
@@ -185,7 +185,7 @@
 |Fumarase|Mitochondrial|Malate: 4C|
 |Malate dehydrogenase|Oxidation|Oxaloacetate: 4C|
 
-## Gluconeogenesis Enzymes
+## Gluconeogenesis
 
 |Enzyme|Product|
 |-|-|
@@ -202,7 +202,7 @@
 |Phosphoglucose isomerase (PGI)|Glucose-6-phosphate (G6P)|
 |**Glucose-6-phosphatase (G6Pase)**|Glucose|
 
-## Glycogenesis Enzymes
+## Glycogenesis
 
 |Enzyme|Product|
 |-|-|
@@ -212,7 +212,7 @@
 |UDP-glucose phosphorylase|UDP-glucose|
 |**Glycogen synthase**|Glycogen|
 
-## Glycogenolysis Enzymes
+## Glycogenolysis
 
 |Enzyme|Product|
 |-|-|
