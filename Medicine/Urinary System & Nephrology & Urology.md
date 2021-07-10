@@ -76,7 +76,7 @@
 
 ## Mechanisms of Dialysis
 
-||Dialysis|Ultrafiltration|
+|Mechanism|Dialysis|Ultrafiltration|
 |-|-|-|
 |Transport|Diffusion|Convection|
 |Drive|Concentration gradient|Pressure gradient|
