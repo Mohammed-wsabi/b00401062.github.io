@@ -240,7 +240,7 @@
 |Ebstein anomaly|Lithium|
 |Libman-Sacks endocarditis|Systemic lupus erythematosus (SLE)|
 |Coronary artery aneurysms|Kawasaki disease|
-|Aortic dissection|Tertiary syphilis<br>Marfan syndrome|
+|Aortic dissection|Ehlers-Danlos syndrome (EDS)<br>Marfan syndrome<br>Tertiary syphilis|
 
 ## Presentation of Tetralogy of Fallot (TOF) {PROV}
 
