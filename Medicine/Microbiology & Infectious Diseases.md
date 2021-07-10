@@ -792,7 +792,7 @@
 
 |Setting|Management|
 |-|-|
-|< 3 lifetime toxoid<br>Last toxoid > 10 years ago|toxoid|
+|< 3 lifetime toxoid<br>Last toxoid > 10 years ago|Toxoid|
 |Otherwise|No prophylaxis|
 
 ### Other Wounds
