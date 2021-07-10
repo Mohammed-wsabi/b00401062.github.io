@@ -44,15 +44,15 @@
 |ERCC|DNA repair|Xeroderma pigmentosum|
 |FANC|DNA repair|Fanconi anemia|
 |MEN1|Menin|MEN 1|
-|MLH1 & MSH2|DNA repair|Lynch syndrome|
-|NF1 & NF2|RAS activators|Neurofibromatosis type 1 & 2|
+|MLH1<br>MSH2|DNA repair|Lynch syndrome|
+|NF1<br>NF2|RAS activators|Neurofibromatosis type 1 & 2|
 |P16|CDK inhibitors|Melanoma|
 |P53|Transcription factor for P21|Li-Fraumeni syndrome|
 |PTEN|-|Breast cancer<br>Prostate cancer<br>Endometrial cancer|
 |RB|E2F inhibitors|Retinoblastoma<br>Osteosarcoma|
-|TSC1 & TSC2|Hamartin<br>Tuberlin|Tuberous sclerosis|
+|TSC1<br>TSC2|Hamartin<br>Tuberlin|Tuberous sclerosis|
 |VHL|HIF inhibitors|Von Hippel-Lindau (VHL) disease|
-|WT1 & WT2|-|Wilms tumor<br>WAGR syndrome|
+|WT1<br>WT2|-|Wilms tumor<br>WAGR syndrome|
 
 ## Tumor Markers
 
