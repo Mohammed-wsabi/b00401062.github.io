@@ -1,4 +1,4 @@
-# Renal System & Nephrology & Urology
+# Urinary System & Nephrology & Urology
 
 ## Hormones Acting on Kidney
 
