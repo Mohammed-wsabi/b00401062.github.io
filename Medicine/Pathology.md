@@ -244,7 +244,7 @@
 |Wiskott-Aldrich syndrome|WAS|
 |G6PD deficiency|G6PD|Glucose-6-phosphate dehydrogenase|
 |Ocular albinism|-|-|
-|Lesch-Nyhan syndrome|HGPRT1|HGPRT|
+|Lesch-Nyhan syndrome|HPRT1|HGPRT|
 |Duchenne muscular dystrophy (DMD)<br>Becker muscular dystrophy (BMD)|DMD|Dystrophin|
 |Fabry disease|-|α-Galactosidase|
 |Hunter syndrome|-|Iduronate sulfatase|
