@@ -667,9 +667,6 @@
 |-|-|
 |GPC|1° Cephalosporins|
 |MRSA|Vancomycin|
-|Enterococcus|Unasyn|
-|GNB :: GI|2° Cephalosporins<br>Aminoglycosides|
-|GNB :: GU|TMP-SMX<br>Fluoroquinolones|
 |Anaerobes|Clindamycin<br>Metronidazole|
 
 ## Therapeutic Antibiotics
