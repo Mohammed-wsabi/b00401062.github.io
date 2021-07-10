@@ -183,6 +183,14 @@
 |HPV|Condyloma accumulata|-|
 |HSV|Paniful ulcers|-|
 
+## Testicular Torsion and Epididymitis
+
+||Testicular Torsion|Epididymitis|
+|-|-|-|
+|Prehn sign|-|+|
+|Cremasteric reflex|-|+|
+|Blood flow|↓|↑|
+
 ## Reproductive Tumors
 
 ### Epithelial Tumors
@@ -361,11 +369,3 @@
 - Gluteal flap
 - Transverse upper gracilis (TUG) flap
 - Profunda artery perforator (PAP) flap
-
-## Differentiation between Testicular Torsion and Epididymitis
-
-||Testicular Torsion|Epididymitis|
-|-|-|-|
-|Prehn sign|-|+|
-|Cremasteric reflex|-|+|
-|Blood flow|↓|↑|
