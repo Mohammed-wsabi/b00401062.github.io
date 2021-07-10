@@ -15,7 +15,7 @@
 
 ### Gram-Positive Cocci (GPC)
 
-|Bacteria|Antibiotics|S/R|
+|Bacteria|Treatment|S/R|
 |-|-|-|
 |Staphylococcus epidermidis|Novobiocin|S|
 |Staphylococcus saprophyticus|Novobiocin|R|
@@ -23,6 +23,8 @@
 |Streptococcus viridans|Optochin|R|
 |GAS :: Streptococcus pyogenes|Bacitracin|S|
 |GBS :: Streptococcus agalactiae|Bacitracin|R|
+|GDS :: Streptococcus bovis|6.5% NaCl|S|
+|Enterococcus|6.5% NaCl|R|
 
 ### Gram-Positive Bacilli (GPB)
 
