@@ -1,6 +1,6 @@
 # Reproductive System & Gynecology & Andrology
 
-## Urogenital Embryonic Origins
+## Genital Tract Embryology
 
 |Primordial|Female|Male|
 |-|-|-|
