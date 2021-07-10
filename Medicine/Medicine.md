@@ -655,8 +655,8 @@
 |Homocystinuria|Cystathionine synthase|↑ Homocysteine<br>↓ Cysteine|
 ||Methionine synthase|↑ Homocysteine<br>↓ Methionine|
 |Methylmalonic acidemia|Methylmalonyl-CoA mutase|↑ Methylmalonic acid|
-|Cystinuria|Proximal convoluted tubule (PCT)|↓ COLA|
-|Hartnup disease|Proximal convoluted tubule (PCT)|↓ Tryptophan|
+|Cystinuria|Amino acid transporter|↓ COLA|
+|Hartnup disease|Amino acid transporter|↓ Tryptophan|
 |Maple syrup urine disease (MSUD)|Branched-chain α-ketoacid dehydrogenase|↑ α-ketoacids|
 |Ornithine transcarbamylase deficiency|Ornithine transcarbamylase|↑ Orotic acid<br>↑ Ammonia<br>↓ Urea|
 |Orotic aciduria|UMP synthase|↑ Orotic acid<br>↓ DNA|
