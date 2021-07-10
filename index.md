@@ -60,7 +60,7 @@ title: Life Code
 - [Special Senses & Ophthalmology & Otolaryngology](Medicine/Special%20Senses%20&%20Ophthalmology%20&%20Otolaryngology.html)
 - [Surgery](Medicine/Surgery.html)
 - [Toxicology](Medicine/Toxicology.html)
-- [Urinary System & Nephrology & Urology](Medicine/Urinary%20System%20&%20Nephrology%20Urology.html)
+- [Urinary System & Nephrology & Urology](Medicine/Urinary%20System%20&%20Nephrology%20&%20Urology.html)
 
 ## Memoirs
 
