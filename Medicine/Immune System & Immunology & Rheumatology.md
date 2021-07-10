@@ -231,7 +231,7 @@
 
 ### Combined Deficiency {WASH}
 
-|Disease|Mutation|Inheritance|IgM|IgG|IgE|IgA|
+|Disease|Gene|Inheritance|IgM|IgG|IgE|IgA|
 |-|-|-|-|-|-|
 |Wiskott-Aldrich syndrome (WAS)|WAS|XR|↓|-|↑|↑|
 |Ataxia telangiectasia|ATM|AR|-|↓|↓|↓|
@@ -241,7 +241,7 @@
 
 ### T Cell Deficiency {CHILD}
 
-|Disease|Mutation|IgM|IgG|IgE|IgA|
+|Disease|Gene|IgM|IgG|IgE|IgA|
 |-|-|-|-|-|-|
 |Chronic mucocutaneous candidiasis|-|-|-|-|-|
 |Hyper-IgE [Job] syndrome|STAT3|-|-|↑|-|
@@ -250,11 +250,11 @@
 
 ### B Cell Deficiency {CBS}
 
-|Disease|Mutation|IgM|IgG|IgE|IgA|
-|-|-|-|-|-|-|
-|Common variable immunodeficiency (CVID)|-|↓|↓|↓|↓|
-|Bruton agammaglobulinemia|BTK|↓|↓|↓|↓|
-|Selective IgA deficiency|-|-|-|-|↓|
+|Disease|Gene|Inheritance|IgM|IgG|IgE|IgA|
+|-|-|-|-|-|-|-|
+|Common variable immunodeficiency (CVID)|-|-|↓|↓|↓|↓|
+|Bruton agammaglobulinemia|BTK|XR|↓|↓|↓|↓|
+|Selective IgA deficiency|-|-|-|-|-|↓|
 
 ## Presentation of Wiskott-Aldrich syndrome (WAS) {WATER}
 
