@@ -266,9 +266,9 @@
 |-|-|
 |Type 1 collagen|Osteogenesis imperfecta|
 |Type 2 collagen|-|
-|Type 3 collagen|Vascular EDS|
+|Type 3 collagen|Vascular Ehlers-Danlos syndromes (EDS)|
 |Type 4 collagen|Alport syndrome & Goodpasture syndrome|
-|Type 5 collagen|Classical EDS|
+|Type 5 collagen|Classical Ehlers-Danlos syndromes (EDS)|
 |Elastin|α<sub>1</sub>-antitrypsin deficiency|
 |Fibrillin|Marfan syndrome|
 
