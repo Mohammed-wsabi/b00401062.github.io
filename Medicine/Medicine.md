@@ -581,6 +581,86 @@
   - Penicillamine
   - Trientine
 
+## Collagen Synthesis
+
+|Steps|Enzyme|Cofactor|Diseases|
+|-|-|-|-|
+|Hydroxylation|Proline hydroxylase<br>Lysine hydroxylase|Vitamin C|Scurvy|
+|Glycosylation|-|-|Osteogenesis imperfecta|
+|Exocytosis|-|-|-|
+|Cleavage|-|-|-|
+|Crosslinking|Lysyl oxidase|Cu|Menkes disease|
+
+## Collagen Releated Diseases
+
+|Component|Diseases|
+|-|-|
+|Type 1 collagen|Osteogenesis imperfecta|
+|Type 2 collagen|-|
+|Type 3 collagen|Vascular Ehlers-Danlos syndromes (EDS)|
+|Type 4 collagen|Alport syndrome<br>Goodpasture syndrome|
+|Type 5 collagen|Classical Ehlers-Danlos syndromes (EDS)|
+|Elastin|α<sub>1</sub>-antitrypsin deficiency|
+|Fibrillin|Marfan syndrome|
+
+## Glycogen Storage Diseases (GSD)
+
+|Mnemonic|Disease|Defects|Hypoglycemia|Hepatomegaly|Myopathy|
+|-|-|-|-|-|-|
+|Viagra|Von Gierke disease|Glucose-6-phosphatase|+|+|-|
+|Pills|Pompe disease|α-1,4-Glucosidase :: lysosomal|-|+|+|
+|Cause|Cori disease|Debranching enzyme|+|+|+|
+|A|Anderson disease|Branching enzyme|-|+|-|
+|Major|McArdle disease|Glycogen phosphorylase :: musclular|-|-|+|
+|Hardon|Hers disease|Glycogen phosphorylase :: hepatic|+|+|-|
+
+## Lysosomal Storage Diseases (LSD)
+
+### Glycogenosis
+
+|Disease|Defects|Findings|Hepatomegaly|
+|-|-|-|-|
+|Pompe disease|α-1,4-Glucosidase|-|+|
+
+### Sphingolipidosis
+
+|Disease|Defects|Findings|Hepatomegaly|
+|-|-|-|-|
+|Gaucher disease|Glucocerebrosidase|Gaucher cell|+|
+|Niemann-Pick disease|Sphingomyelinase|Cherry-red spot|+|
+|Tay-Sachs disease|Hexosaminidase|Cherry-red spot|-|
+|Fabry disease: XR|α-Galactosidase|Peripheral neuropathy|-|
+|Krabbe disease|Galactocerebrosidase|Leukodystrophy|-|
+|Metachromatic leukodystrophy|Arylsulfatase|Leukodystrophy|-|
+
+### Mucolipidosis
+
+|Disease|Defects|Findings|Hepatomegaly|
+|-|-|-|-|
+|I-cell disease|Phosphotransferase|Corneal clouding|+|
+
+### Mucopolysaccharidosis
+
+|Disease|Defects|Findings|Hepatomegaly|
+|-|-|-|-|
+|Hurler syndrome|α-Iduronidase|Corneal clouding|+|
+|Hunter syndrome: XR|Iduronate sulfatase|-|-|
+
+## Metabolism Disorders
+
+|Disorder|Defects|Effects|
+|-|-|-|
+|Phenylketonuria (PKU)|Phenylalanine hydroxylase<br>Tetrahydrobiopterin|↑ Phenylalanine<br>↓ Tyrosine|
+|Alkaptonuria (AKU)|Homogentisate oxidase|↑ Homogentisic acid|
+|Homocystinuria|Cystathionine synthase|↑ Homocysteine<br>↓ Cysteine|
+||Methionine synthase|↑ Homocysteine<br>↓ Methionine|
+|Methylmalonic acidemia|Methylmalonyl-CoA mutase|↑ Methylmalonic acid|
+|Cystinuria|Proximal convoluted tubule (PCT)|↓ COLA|
+|Hartnup disease|Proximal convoluted tubule (PCT)|↓ Tryptophan|
+|Maple syrup urine disease (MSUD)|Branched-chain α-ketoacid dehydrogenase|↑ α-ketoacids|
+|Ornithine transcarbamylase deficiency|Ornithine transcarbamylase|↑ Orotic acid<br>↑ Ammonia<br>↓ Urea|
+|Orotic aciduria|UMP synthase|↑ Orotic acid<br>↓ DNA|
+
 ## Symptoms of Lesch-Nyhan Syndrome {HGPRT}
 
 - Hyperuricemia
