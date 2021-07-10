@@ -271,6 +271,12 @@
 |I|Repeat screening in 1 year|
 |II<br>III|Loop electrosurgical excision procedure (LEEP)<br>Conization<br>Cryotherapy<br>Laser ablation|
 
+## Management of Seminoma
+
+- Radical orchiectomy
+- Radiotherapy
+- Chemotherapy
+
 ## Reference Limits of Semen Analysis
 
 - Volume > 1.5 mL
