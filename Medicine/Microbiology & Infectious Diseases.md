@@ -15,10 +15,14 @@
 
 ### Gram-Positive Cocci (GPC)
 
-|Bacteria|Stain|Culture|
+|Bacteria|Antibiotics|S/R|
 |-|-|-|
-|Staphylococcus|-|-|
-|Streptococcus|-|-|
+|Staphylococcus epidermidis|Novobiocin|S|
+|Staphylococcus saprophyticus|Novobiocin|R|
+|Streptococcus pnuemonia|Optochin|S|
+|Streptococcus viridans|Optochin|R|
+|GAS :: Streptococcus pyogenes|Bacitracin|S|
+|GBS :: Streptococcus agalactiae|Bacitracin|R|
 
 ### Gram-Positive Bacilli (GPB)
 
@@ -26,10 +30,10 @@
 |-|-|-|
 |Bacillus|-|-|
 |Clostridium|-|-|
-|Corynebacterium|-|Loeffler & Tellurite|
+|Corynebacterium|-|Loffler<br>Tellurite|
 |Lactobacillus|-|-|
 |Listeria|-|-|
-|Mycobacterium|Acid fast|Lowenstein-Jensen|
+|Mycobacterium|Acid fast|Lowenstein-Jensen<br>Middlebrook|
 
 ### Gram-Positive :: Branched
 
@@ -54,7 +58,7 @@
 |Bacteria|Stain|Culture|
 |-|-|-|
 |Acinetobacter|-|-|
-|Bordetella|-|Bordet-Gengou|
+|Bordetella|-|Bordet-Gengou<br>Regan-Lowe|
 |Haemophilus|-|Chocolate|
 |Legionella|Silver|Charcoal yeast|
 
@@ -64,7 +68,7 @@
 |-|-|-|-|-|-|
 |Bacteroides|-|-|+|±|-|
 |Serratia|-|MacConkey|+|-|-|
-|Escherichia|-|MacConkey & EMB|+|-|-|
+|Escherichia|-|MacConkey<br>Eosin-methylene blue (EMB)|+|-|-|
 |Enterobacter|-|MacConkey|+|-|-|
 |Klebsiella|-|MacConkey|+|-|-|
 |Pseudomonas|-|-|-|+|-|
@@ -113,17 +117,6 @@
 |-|-|-|
 |Mycoplasma|-|Eaton|
 |Ureaplasma|-|-|
-
-## Classification of Gram Positive Cocci
-
-|Bacteria|Antibiotics|S/R|
-|-|-|-|
-|Staphylococcus epidermidis|Novobiocin|S|
-|Staphylococcus saprophyticus|Novobiocin|R|
-|Streptococcus pnuemonia|Optochin|S|
-|Streptococcus viridans|Optochin|R|
-|GAS :: Streptococcus pyogenes|Bacitracin|S|
-|GBS :: Streptococcus agalactiae|Bacitracin|R|
 
 ## Stain & Culture Techniques
 
