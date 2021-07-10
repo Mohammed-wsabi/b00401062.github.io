@@ -250,14 +250,6 @@
 - Girls < 5 y/o with febrile UTI
 - Girls with recurrent UTIs
 
-## Differentiation between Testicular Torsion and Epididymitis
-
-||Testicular Torsion|Epididymitis|
-|-|-|-|
-|Prehn sign|-|+|
-|Cremasteric reflex|-|+|
-|Blood flow|↓|↑|
-
 ## Pathogens of Urinary Tract Infection (UTI)
 
 - Staphylococcus saprophyticus
