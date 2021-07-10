@@ -354,9 +354,9 @@
 |Non-receptor tyrosine kinase (NRTK): JAK/STAT pathway|-|
 |Steroid receptor|-|
 
-## Neurotransmitters & Breakdown Products
+## Neurotransmitters and Metabolites
 
-|Neurotransmitter|Precursor|Breakdown Products|
+|Neurotransmitter|Precursor|Metabolites|
 |-|-|-|
 |Acetylcholine (ACh)|-|Acetate & Choline|
 |Dopamine (DA)|Tyrosine|Homovanillic acid (HVA)|
