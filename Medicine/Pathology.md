@@ -235,6 +235,11 @@
 
 ### X-linked Dominant
 
+|Disease|Gene|Product|
+|-|-|-|
+|Fragile X syndrome|FMR1|FMR protein|
+|Alport syndrome|COL4|Type 4 collagen|
+
 ### X-linked Recessive
 
 |Disease|Gene|Product|
