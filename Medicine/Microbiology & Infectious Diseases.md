@@ -677,10 +677,7 @@
 |Pathogens|Antibiotics|
 |-|-|
 |Staphylococcus aureus|Penicillinase-resistant penicillin<br>Cephalosporins|
-|Streptococcus pneumoniae|Penicillinase-sensitive penicillin<br>Cephalosporins<br>Macrolides|
-|GAS :: Streptococcus pyogenes|Penicillinase-sensitive penicillin|
-|GBS :: Streptococcus agalactiae|Penicillinase-sensitive penicillin|
-|Enterococcus|Penicillinase-sensitive penicillin|
+|Streptococcus|Penicillinase-sensitive penicillin<br>Cephalosporins<br>Macrolides|
 |Bacillus anthracis|Carbapenems<br>Fluoroquinolones|
 |Clostridium perfringens|Penicillin<br>Clindamycin|
 |Clostridium difficile|Vancomycin<br>Metronidazole|
