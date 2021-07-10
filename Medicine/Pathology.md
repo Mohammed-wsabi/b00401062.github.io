@@ -14,7 +14,7 @@
 
 ## Cell Adaptation
 
-|Type|Size Change|Number Change|Shape Change|Function Change|
+|Type|Size|Number|Morphological Change|Functional Change|
 |-|-|-|-|-|
 |Atrophy|↓|-|-|-|
 |Hypertrophy|↑|-|-|-|
@@ -199,53 +199,53 @@
 
 ### Autosomal Dominant
 
-|Disease|Defects|
-|-|-|
-|ADPKD|PKD1 & PKD2 gene|
-|Familial hypercholesterolemia|LDL receptor|
-|Huntington disease|Huntingtin|
-|Marfan syndrome|Fibrillin|
-|Multiple endocrine neoplasia (MEN)|MEN1 & RET gene|
-|Neurofibromatosis (NF)|NF1 & NF2 gene|
-|Tuberous sclerosis|TSC gene & Hamartin & Tuberlin|
-|Von Hippel-Lindau (VHL) disease|VHL gene & HIF inhibitors|
-|Acute intermittent porphyria|Porphobilinogen deaminase|
-|Porphyria cutanea tarda|Uroporphyrinogen decarboxylase|
+|Disease|Gene|Product|
+|-|-|-|
+|ADPKD|PKD1 & PKD2|-|
+|Familial hypercholesterolemia|-|LDL receptor|
+|Huntington disease|-|Huntingtin|
+|Marfan syndrome|-|Fibrillin|
+|Multiple endocrine neoplasia (MEN)|MEN1 & RET|-|
+|Neurofibromatosis (NF)|NF1 & NF2|-|
+|Tuberous sclerosis|TSC|Hamartin & Tuberlin|
+|Von Hippel-Lindau (VHL) disease|VHL|HIF inhibitors|
+|Acute intermittent porphyria|-|Porphobilinogen deaminase|
+|Porphyria cutanea tarda|-|Uroporphyrinogen decarboxylase|
 
 ### Autosomal Recessive
 
-|Disease|Defects|
-|-|-|
-|ARPKD|PKHD1 gene|
-|Albinism|Tyrosinase|
-|Phenylketonuria (PKU)|Phenylalanine hydroxylase<br>Tetrahydrobiopterin|
-|Alkaptonuria (AKU)|Homogentisate oxidase|
-|Homocystinuria|Cystathionine synthase<br>Methionine synthase|
-|Cystinuria|Amino acid transporter|
-|Maple syrup urine disease (MSUD)|Branched-chain α-ketoacid dehydrogenase|
-|Cystic fibrosis (CF)|CFTR gene & Cl channel|
-|Kartagener syndrome|Dynein|
-|Sickle cell disease (SCD)|β-Globin|
-|Thalassemia|α-Globin<br>β-Globin|
-|Hemochromatosis|-|
-|Wilson disease|-|
-|Glycogen storage disease (GSD)|-|
-|Lysosomal storage disease (LSD)|-|
+|Disease|Gene|Product|
+|-|-|-|
+|ARPKD|PKHD1|-|
+|Albinism|-|Tyrosinase|
+|Phenylketonuria (PKU)|-|Phenylalanine hydroxylase<br>Tetrahydrobiopterin|
+|Alkaptonuria (AKU)|-|Homogentisate oxidase|
+|Homocystinuria|-|Cystathionine synthase<br>Methionine synthase|
+|Cystinuria|-|Amino acid transporter|
+|Maple syrup urine disease (MSUD)|-|Branched-chain α-ketoacid dehydrogenase|
+|Cystic fibrosis (CF)|CFTR|Cl channel|
+|Kartagener syndrome|-|Dynein|
+|Sickle cell disease (SCD)|-|β-Globin|
+|Thalassemia|-|α-Globin<br>β-Globin|
+|Hemochromatosis|HFE|-|
+|Wilson disease|ATP7B|Cu channel|
+|Glycogen storage disease (GSD)|-|-|
+|Lysosomal storage disease (LSD)|-|-|
 
 ### X-linked Dominant
 
 ### X-linked Recessive
 
-|Disease|Defects|
-|-|-|
-|Bruton agammaglobulinemia|Bruton tyrosine kinase (BTK)|
-|Menkes disease|Cu channel|
-|Wiskott-Aldrich syndrome|-|
-|G6PD deficiency|Glucose-6-phosphate dehydrogenase|
-|Ocular albinism|-|
-|Lesch-Nyhan syndrome|HGPRT|
-|Duchenne muscular dystrophy (DMD)<br>Becker muscular dystrophy (BMD)|Dystrophin|
-|Fabry disease|α-Galactosidase|
-|Hunter syndrome|Iduronate sulfatase|
-|Haemophilia A & B|Factor 8 & 9|
-|Ornithine transcarbamylase deficiency|Ornithine transcarbamylase|
+|Disease|Gene|Product|
+|-|-|-|
+|Bruton agammaglobulinemia|BTK|Bruton tyrosine kinase|
+|Menkes disease|ATP7A|Cu channel|
+|Wiskott-Aldrich syndrome|WAS|
+|G6PD deficiency|G6PD|Glucose-6-phosphate dehydrogenase|
+|Ocular albinism|-|-|
+|Lesch-Nyhan syndrome|HGPRT|HGPRT|
+|Duchenne muscular dystrophy (DMD)<br>Becker muscular dystrophy (BMD)|DMD|Dystrophin|
+|Fabry disease|-|α-Galactosidase|
+|Hunter syndrome|-|Iduronate sulfatase|
+|Haemophilia A & B & C|-|Factor 8 & 9 & 11|
+|Ornithine transcarbamylase deficiency|-|Ornithine transcarbamylase|
