@@ -241,7 +241,7 @@
 |-|-|-|
 |Bruton agammaglobulinemia|BTK|Bruton tyrosine kinase|
 |Menkes disease|ATP7A|Cu channel|
-|Wiskott-Aldrich syndrome|WAS|
+|Wiskott-Aldrich syndrome|WAS|WAS protein|
 |G6PD deficiency|G6PD|Glucose-6-phosphate dehydrogenase|
 |Ocular albinism|-|-|
 |Lesch-Nyhan syndrome|HPRT1|HGPRT|
