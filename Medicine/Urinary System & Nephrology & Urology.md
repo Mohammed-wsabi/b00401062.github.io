@@ -2,12 +2,12 @@
 
 ## Urinary Tract Embryology
 
-|Male|Primordial|Female|
+|Primordial|Female|Male|
 |-|-|-|
-|Urinary bladder|Urogenital sinus|Urinary bladder|
-|Prostatic urethra|Urogenital sinus|Proximal 1/3 urethra|
-|Membranous urethra|Urogenital sinus|Middle 1/3 urethra|
-|Penile urethra|Urogenital fold|Distal 1/3 urethra|
+|Urogenital sinus|Urinary bladder|Urinary bladder|
+||Proximal 1/3 urethra|Prostatic urethra|
+||Middle 1/3 urethra|Membranous urethra|
+|Urogenital fold|Distal 1/3 urethra|Penile urethra|
 
 ## Hormones Acting on Kidney
 
