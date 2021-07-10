@@ -195,7 +195,9 @@
 
 ![](../Figures/Presentation%20of%20Autosomal%20Trisomies.jpg)
 
-## Autosomal Dominant Disorders
+## Hereditary Disorders
+
+### Autosomal Dominant
 
 |Disease|Defects|
 |-|-|
@@ -210,7 +212,7 @@
 |Acute intermittent porphyria|Porphobilinogen deaminase|
 |Porphyria cutanea tarda|Uroporphyrinogen decarboxylase|
 
-## Autosomal Recessive Disorders
+### Autosomal Recessive
 
 |Disease|Defects|
 |-|-|
@@ -230,7 +232,9 @@
 |Glycogen storage disease (GSD)|-|
 |Lysosomal storage disease (LSD)|-|
 
-## X-linked Recessive Disorders
+### X-linked Dominant
+
+### X-linked Recessive
 
 |Disease|Defects|
 |-|-|
