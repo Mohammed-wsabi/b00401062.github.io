@@ -217,7 +217,7 @@
 
 |Disease|Gene|Product|
 |-|-|-|
-|ARPKD|PKHD1|-|
+|ARPKD|PKHD1|Fibrocystin|
 |Albinism|-|Tyrosinase|
 |Phenylketonuria (PKU)|-|Phenylalanine hydroxylase<br>Tetrahydrobiopterin|
 |Alkaptonuria (AKU)|-|Homogentisate oxidase|
