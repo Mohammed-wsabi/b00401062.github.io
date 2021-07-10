@@ -202,10 +202,10 @@
 |Disease|Gene|Product|
 |-|-|-|
 |ADPKD|PKD1 & PKD2|-|
-|Familial hypercholesterolemia|-|LDL receptor|
-|Huntington disease|-|Huntingtin|
-|Marfan syndrome|-|Fibrillin|
-|Multiple endocrine neoplasia (MEN)|MEN1 & RET|-|
+|Familial hypercholesterolemia|LDLR|LDL receptor|
+|Huntington disease|HTT|Huntingtin|
+|Marfan syndrome|FBN1|Fibrillin|
+|Multiple endocrine neoplasia (MEN)|MEN1 & RET|Menin|
 |Neurofibromatosis (NF)|NF1 & NF2|-|
 |Tuberous sclerosis|TSC|Hamartin & Tuberlin|
 |Von Hippel-Lindau (VHL) disease|VHL|HIF inhibitors|
@@ -243,7 +243,7 @@
 |Wiskott-Aldrich syndrome|WAS|
 |G6PD deficiency|G6PD|Glucose-6-phosphate dehydrogenase|
 |Ocular albinism|-|-|
-|Lesch-Nyhan syndrome|HGPRT|HGPRT|
+|Lesch-Nyhan syndrome|HGPRT1|HGPRT|
 |Duchenne muscular dystrophy (DMD)<br>Becker muscular dystrophy (BMD)|DMD|Dystrophin|
 |Fabry disease|-|α-Galactosidase|
 |Hunter syndrome|-|Iduronate sulfatase|
