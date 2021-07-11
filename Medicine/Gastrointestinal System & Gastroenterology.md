@@ -36,18 +36,18 @@
 
 ## Layers of Gastrointestinal Tract {MSMS}
 
-- Mucosa layer
+- Mucosa
   - Epithelium
   - Lamina propria
   - Muscularis mucosa
-- Submucosa layer
+- Submucosa
   - Submucosal gland
   - Submucosal [Meissner] plexus
-- Muscular layer
+- Muscularis
   - Inner circular layer
   - Myenteric [Auerbach] plexus
   - Outer longitudinal layer
-- Serous layer
+- Serosa
 
 ![](../Figures/Layers%20of%20Gastrointestinal%20Tract.png)
 
