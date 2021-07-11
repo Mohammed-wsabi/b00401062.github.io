@@ -1,5 +1,25 @@
 # Urinary System & Nephrology & Urology
 
+## Kidney Embryology
+
+- Pronephros
+- Mesonephros
+- Metanephros
+  - Metanephric blastema
+  - Metanephric diverticulum
+
+### Metanephric Blastema
+
+- Glomerulus
+- Renal tubules
+
+### Metanephric Diverticulum
+
+- Collecting ducts
+- Renal calyces
+- Renal pelvis
+- Ureter
+
 ## Urinary Tract Embryology
 
 |Primordial|Female|Male|
