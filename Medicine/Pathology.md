@@ -59,7 +59,7 @@
 |Intermediate filament|Keratin|Epithelial cell|Carcinoma|
 ||Vimentin|Connective tissue|Sarcoma|
 ||Desmin|Muscle cell|Myoma<br>Myosarcoma|
-||Neurofilament|Neuron|Neuroblastoma & Pheochromocytoma|
+||Neurofilament|Neuron|Neuroblastoma<br>Pheochromocytoma|
 ||GFAP|Glial cell|Glioma|
 |Microfilament|Actin|Adherens junction|-|
 ||Actin<br>Myosin|Muscle cell<br>Microvilli|-|
