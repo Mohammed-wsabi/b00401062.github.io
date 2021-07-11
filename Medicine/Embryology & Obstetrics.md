@@ -94,11 +94,14 @@
 - Pancreas
 - Parathyroid
 - Thymus
-- Thyroid follicular cell
-- Thyroid parafollicular cell
+- Thyroid
+  - Follicular cell
+  - Parafollicular [C] cell
 - Urogenital sinus
 - Urinary bladder
-- Urethra :: prostatic & membranous
+- Urethra
+  - Prostatic urethra
+  - Membranous urethra
 
 ## Pharyngeal Apparatus {CAP}
 
@@ -113,7 +116,7 @@
 ||Derivatives|
 |-|-|
 |1|External auditory meatus|
-|2 ~ 4|Cervical sinus<br>Pharyngeal cleft cyst|
+|2<br>3<br>4|Cervical sinus<br>Pharyngeal cleft cyst|
 
 ### Pharyngeal Arch
 
@@ -132,7 +135,7 @@
 |1|Middle ear<br>Eustachian tube|
 |2|Tonsil|
 |3|Thymus<br>Inferior parathyroids|
-|4|Superior parathyroids|
+|4|Superior parathyroids<br>Parafollicular [C] cells|
 
 ## Hormone Changes During Pregnancy
 
