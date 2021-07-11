@@ -71,7 +71,7 @@
 |Heinz body|Denatured hemoglobin|G6PD deficiency|
 |Howell-Jolly body|Nuclear remnants|Asplenia|
 |Asteroid body<br>Schaumann body|Calcium<br>Protein|Sarcoidosis|
-|Mallory body|Keratin filament|Alcoholic hepatitis|
+|Mallory body|Keratin|Alcoholic hepatitis|
 |Lewy body|α-Synuclein|Parkinson disease<br>Lewy body dementia|
 |Pick body|Tau protein|Frontotemporal dementia|
 |Neurofibrillary tangle|Tau protein|Alzheimer disease|
