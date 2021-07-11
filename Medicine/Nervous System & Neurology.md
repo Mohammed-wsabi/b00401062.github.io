@@ -635,7 +635,7 @@
 |Lewy body dementia|Cortex|Lewy body|α-Synuclein|
 |Vascular dementia|Cortex|-|-|
 |Normal pressure hydrocephalus (NPH)|-|-|-|
-|Creutzfeldt-Jakob disease|Striatum|Prion|Prion protein|
+|Creutzfeldt-Jakob disease|Striatum|Prion|Prion protein (PrP)|
 
 ## Basal Ganglia and Diseases
 
