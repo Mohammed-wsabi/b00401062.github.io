@@ -63,7 +63,6 @@
 
 - Aorticopulmonary septum
 - Adrenal medulla
-- Parafollicular cell
 - Ganglion
 - Melanocyte
 - Odontoblast
@@ -94,6 +93,7 @@
 - Parathyroid
 - Thymus
 - Thyroid follicular cell
+- Thyroid parafollicular cell
 - Urogenital sinus
 - Urinary bladder
 - Urethra :: prostatic & membranous
