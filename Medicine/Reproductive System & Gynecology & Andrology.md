@@ -6,10 +6,10 @@
 |-|-|-|
 |Gubernaculum|Ovarian ligament<br>Round ligament|-|
 |Processus vaginalis|-|Tunica vaginalis|
-|Indifferent gonad|Ovary|Testis|
+|Indifferent gonads|Ovary|Testis|
 ||Theca cell|Leydig cell|
 ||Granulosa cell|Sertoli cell|
-|Mullerian & Wolffian duct|Frimbriae|Epididymis|
+|Genital ducts|Frimbriae|Epididymis|
 ||Fallopian tube|Vas deferens|
 ||Uterus|Seminal vesicle|
 ||Upper vagina|Ejaculatory duct|
