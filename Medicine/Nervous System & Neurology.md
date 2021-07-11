@@ -624,16 +624,18 @@
 
 ## Neurodegenerative Disorders
 
-|Disorder|Findings|Lesions|
-|-|-|-|
-|Parkinson disease|Lewy body ← α-synuclein|Substantia nigra pars compacta|
-|Huntington disease|-|Striatum|
-|Alzheimer disease|Senile plaque ← Amyloid β (Aβ)<br>Neurofibrillary tangle ← Tau protein<br>Hirano body|Cortex<br>Hippocampus|
-|Frontotemporal dementia|Pick body ← Tau protein|Frontotemporal lobe|
-|Lewy body dementia|Lewy body ← α-synuclein|Cortex|
-|Vascular dementia|-|Cortex|
-|Normal pressure hydrocephalus (NPH)|-|-|
-|Creutzfeldt-Jakob disease|Prion|Striatum|
+|Disorder|Lesions|Findings|Precursor|
+|-|-|-|-|
+|Parkinson disease|Substantia nigra pars compacta|Lewy body|α-Synuclein|
+|Huntington disease|Striatum|-|-|
+|Alzheimer disease|Cortex<br>Hippocampus|Senile plaque|Amyloid β (Aβ)|
+|||Neurofibrillary tangle|Tau protein|
+|||Hirano body|Actin|
+|Frontotemporal dementia|Frontotemporal lobe|Pick body|Tau protein|
+|Lewy body dementia|Cortex|Lewy body|α-Synuclein|
+|Vascular dementia|Cortex|-|-|
+|Normal pressure hydrocephalus (NPH)|-|-|-|
+|Creutzfeldt-Jakob disease|Striatum|Prion|Prion protein|
 
 ## Basal Ganglia and Diseases
 
