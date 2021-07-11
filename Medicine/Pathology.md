@@ -33,7 +33,7 @@
 
 ## Metaplasia
 
-|Tissue|Normal|Metaplasia|Stimulus|Disease|
+|Organ|Normal|Metaplasia|Stimulus|Disease|
 |-|-|-|-|-|
 |Airways|Pseudostratified columnar epithelium|Squamous epithelium|Cigarette|Lung SCC|
 |Esophagus|Squamous epithelium|Columnar epithelium|Low pH & GERD|Esophageal adenocarcinoma|
@@ -46,9 +46,9 @@
 |Tissue|Infection|Non-infection|
 |-|-|-|
 |General|Liquefactive<br>Caseous|Coagulative|
-|CNS|Liquefactive|Liquefactive|
-|Vessels|Fibrinoid|Fibrinoid|
-|Fat|Fatty|Fatty|
+|Brain|Liquefactive|Liquefactive|
+|Blood vessel|Fibrinoid|Fibrinoid|
+|Adipose|Fatty|Fatty|
 |Soft tissue<br>GI tract|Wet gangrene|Dry gangrene|
 
 ## Cytoskeletons
