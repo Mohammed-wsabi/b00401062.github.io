@@ -71,7 +71,7 @@
 |Heinz body|Denatured hemoglobin|G6PD deficiency<br>Thalassemia|
 |Howell-Jolly body|Nuclear remnants|Asplenia|
 |Aschoff body|-|Rheumatic fever|
-|Asteroid body|<br>Schaumann body|Calcium<br>Protein|Sarcoidosis|
+|Asteroid body<br>Schaumann body|Calcium<br>Protein|Sarcoidosis|
 |Mallory body|Keratin filament|Alcoholic hepatitis|
 |Lewy body|α-Synuclein|Parkinson disease|
 |Schiller-Duval body|-|Yolk sac tumor|
