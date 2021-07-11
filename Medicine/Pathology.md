@@ -159,7 +159,7 @@
 ## Trinucleotide Repeat Expansion Disorders
 
 |Mnemonic|Disorder|Inheritance|Gene|Product|Repeat|
-|-|-|-|-|-|
+|-|-|-|-|-|-|
 |Hunting|Huntington disease|AD|HTT|Huntingtin|CAG|
 |For|Friedreich ataxia|AR|FXN|Frataxin|GAA|
 |My|Myotonic dystrophy|AD|MDPK||Protein kinase|CTG|
