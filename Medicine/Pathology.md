@@ -12,8 +12,6 @@
 |Bone|ALP|-|
 |Pancreas|Amylase|Lipase|
 |Prostate|-|PSA|
-|Neuroendocrine|-|Chromogranin<br>Synaptophysin<br>Neuron-specific enolase (NSE)|
-|Neural crest|-|S-100|
 
 ## Cell Adaptation
 
