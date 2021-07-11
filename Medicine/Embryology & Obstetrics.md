@@ -50,7 +50,7 @@
 
 ### Neuroectoderm :: Neural Tube
 
-- CNS neuron
+- CNS neurons
 - CNS glial cells
   - Astrocytes
   - Ependymal cells
