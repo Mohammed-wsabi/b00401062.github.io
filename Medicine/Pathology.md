@@ -72,7 +72,8 @@
 |Howell-Jolly body|Nuclear remnants|Asplenia|
 |Asteroid body<br>Schaumann body|Calcium<br>Protein|Sarcoidosis|
 |Mallory body|Keratin filament|Alcoholic hepatitis|
-|Lewy body|α-Synuclein|Parkinson disease|
+|Lewy body|α-Synuclein|Parkinson disease<br>Lewy body dementia|
+|Pick body|Tau protein|Frontotemporal dementia|
 |Schiller-Duval body|-|Yolk sac tumor|
 |Auer body|Peroxidase|AML M3|
 |Ferruginous body|Asbestos|Asbestosis|
@@ -89,6 +90,8 @@
 |Cowdry type A|HSV & VZV|HSV & VZV|
 |Cowdry type B|Poliovirus<br>Adenovirus|Poliovirus<br>Adenovirus|
 |Reinke crystal|-|Leydig cell tumor|
+|Charcot-Leyden crystal|Eosinophil|Asthma|
+|Curschmann spirals|Epithelium|Asthma|
 
 ## Psammoma Body
 
