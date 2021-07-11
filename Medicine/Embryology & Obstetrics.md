@@ -65,9 +65,9 @@
 
 - Aorticopulmonary septum
 - Adrenal medulla
-- Ganglion
 - Melanocyte
 - Odontoblast
+- PNS Ganglion
 - Schwannoma
 
 ## Mesoderm
