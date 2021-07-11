@@ -37,14 +37,16 @@
 
 ### Surface Ectoderm
 
-- Anterior pituitary [Adenohypophysis]
+- Anterior pituitary<br>[Adenohypophysis]
 - Epidermis
 - Lens
 - Mammary gland
-- Sensory organ
+- Parotid gland
 - Salivary gland
+- Sensory organs
 - Sweat gland
 - Urethra :: penile
+- Urogenital fold
 
 ### Neuroectoderm :: Neural Tube
 
@@ -75,6 +77,7 @@
 - Connective tissue
 - Cardiovascular
 - Dermis
+- Gonads
 - Genitalia
   - Mullerian duct
   - Wolffian duct
@@ -97,11 +100,9 @@
 - Thyroid
   - Follicular cell
   - Parafollicular [C] cell
-- Urogenital sinus
+- Urethra :: prostatic & membranous
 - Urinary bladder
-- Urethra
-  - Prostatic urethra
-  - Membranous urethra
+- Urogenital sinus
 
 ## Pharyngeal Apparatus {CAP}
 
