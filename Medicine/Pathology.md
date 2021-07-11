@@ -47,7 +47,7 @@
 |CNS|Liquefactive|Liquefactive|
 |Vessels|Fibrinoid|Fibrinoid|
 |Fat|Fatty|Fatty|
-|Limbs<br>GI tract|Wet gangrene|Dry gangrene|
+|Soft tissue<br>GI tract|Wet gangrene|Dry gangrene|
 
 ## Cytoskeletons
 
