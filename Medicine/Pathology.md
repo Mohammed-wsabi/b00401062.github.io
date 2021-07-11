@@ -120,7 +120,7 @@
 |Congo red stain|Amyloid|Amyloidosis|
 |Leukocyte alkaline phosphatase (LAP) stain|Leukocyte alkaline phosphatase (LAP)|AML & CML|
 |Methylene blue stain|Denatured hemoglobin|G6PD deficiency<br>Thalassemia|
-|Nitroblue tetrazolium dye reduction test|NADPH oxidase|Chronic granulomatous disease|
+|Nitroblue tetrazolium dye reduction test|NADPH oxidase|Chronic granulomatous disease (CGD)|
 |Prussian blue stain|Iron|Hemochromatosis<br>Sideroblastic anemia|
 |Cyanide-nitroprusside test|Disulfide bond|Cystinuria|
 |Tartrate-resistant acid phosphatase (TRAP) stain|Tartrate-resistant acid phosphatase (TRAP)|Hairy cell leukemia|
