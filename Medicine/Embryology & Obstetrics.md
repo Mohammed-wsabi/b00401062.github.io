@@ -78,20 +78,19 @@
 - Cardiovascular
 - Dermis
 - Gonads
-- Genitalia
-  - Mullerian duct
-  - Wolffian duct
+- Internal genitalia
+  - Mullerian duct<br>[Paramesonephric duct]
+  - Wolffian duct<br>[Mesonephric duct]
 - Kidney
 - Lymphatics
 - Muscle
-- Nucleus pulposus
+- Notochord
 - Spleen
 
 ## Endoderm
 
 - Eustachian tube
 - Gastrointestinal tract
-- Genitalia from urogenital sinus
 - Liver
 - Lung
 - Pancreas
