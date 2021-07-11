@@ -123,7 +123,7 @@
 |Warm agglutinin test|Anti-RBC IgG|CLL & SLE|
 |Congo red stain|Amyloid|Amyloidosis|
 |Leukocyte alkaline phosphatase (LAP) stain|Leukocyte alkaline phosphatase (LAP)|AML & CML|
-|Methylene blue stain|Denatured hemoglobin|G6PD deficiency<br>Thalassemia|
+|Methylene blue stain|Hemoglobin|G6PD deficiency|
 |Nitroblue tetrazolium dye reduction test|NADPH oxidase|Chronic granulomatous disease (CGD)|
 |Prussian blue stain|Iron|Hemochromatosis<br>Sideroblastic anemia|
 |Cyanide-nitroprusside test|Disulfide bond|Cystinuria|
