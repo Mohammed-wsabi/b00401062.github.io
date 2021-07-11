@@ -64,36 +64,36 @@
 
 |Finding|Ingredients|Indications|
 |-|-|-|
-|Russell body|Immunoglobulin|Multiple myeloma|
-|Psammoma body|Calcium|Tumor|
-|Zebra body|Sphingolipid|Lysosomal storage disease|
-|Negri body|Rabies|Rabies|
-|Heinz body|Hemoglobin|G6PD deficiency|
-|Howell-Jolly body|Nuclear remnants|Asplenia|
-|Asteroid body<br>Schaumann body|Calcium<br>Protein|Sarcoidosis|
-|Mallory body|Keratin|Alcoholic hepatitis|
-|Lewy body|α-Synuclein|Parkinson disease<br>Lewy body dementia|
-|Pick body|Tau protein|Frontotemporal dementia|
-|Neurofibrillary tangle|Tau protein|Alzheimer disease|
-|Hirano body|Actin|Alzheimer disease|
-|Schiller-Duval body|-|Yolk sac tumor|
-|Auer body|Peroxidase|AML M3|
-|Ferruginous body|Asbestos|Asbestosis|
-|Call-Exner body|-|Granulosa cell tumor|
-|Giant cell|Macrophage|Granuloma|
-|Foam cell|Lipid|Atherosclerosis|
-|Gaucher cell|Glucocerebroside|Gaucher disease|
-|Heart failure cell|Hemosiderin|Left heart failure|
 |Anitschkow cell<br>Aschoff body|Macrophage|Rheumatic fever|
-|Hurthle cell|-|Hashimoto thyroiditis|
+|Asteroid body<br>Schaumann body|Calcium<br>Protein|Sarcoidosis|
+|Auer body|Peroxidase|AML M3|
+|Call-Exner body|-|Granulosa cell tumor|
+|Charcot-Leyden crystal|Eosinophil|Asthma|
 |Clue cell|Gardnerella vaginalis|Gardnerella vaginalis|
-|Orphan Annie eye|-|Papillary carcinoma of thyroid|
-|Owl eye|CMV|CMV|
 |Cowdry type A|HSV & VZV|HSV & VZV|
 |Cowdry type B|Poliovirus<br>Adenovirus|Poliovirus<br>Adenovirus|
-|Reinke crystal|-|Leydig cell tumor|
-|Charcot-Leyden crystal|Eosinophil|Asthma|
 |Curschmann spirals|Epithelium|Asthma|
+|Ferruginous body|Asbestos|Asbestosis|
+|Foam cell|Lipid|Atherosclerosis|
+|Gaucher cell|Glucocerebroside|Gaucher disease|
+|Giant cell|Macrophage|Granuloma|
+|Heart failure cell|Hemosiderin|Left heart failure|
+|Heinz body|Hemoglobin|G6PD deficiency|
+|Hirano body|Actin|Alzheimer disease|
+|Howell-Jolly body|Nuclear remnants|Asplenia|
+|Hurthle cell|-|Hashimoto thyroiditis|
+|Lewy body|α-Synuclein|Parkinson disease<br>Lewy body dementia|
+|Mallory body|Keratin|Alcoholic hepatitis|
+|Negri body|Rabies|Rabies|
+|Neurofibrillary tangle|Tau protein|Alzheimer disease|
+|Orphan Annie eye|-|Papillary carcinoma of thyroid|
+|Owl eye|CMV|CMV|
+|Pick body|Tau protein|Frontotemporal dementia|
+|Psammoma body|Calcium|Tumor|
+|Reinke crystal|-|Leydig cell tumor|
+|Russell body|Immunoglobulin|Multiple myeloma|
+|Schiller-Duval body|-|Yolk sac tumor|
+|Zebra body|Sphingolipid|Lysosomal storage disease (LSD)|
 
 ## Psammoma Body
 
@@ -205,16 +205,16 @@
 |Disease|Gene|Product|
 |-|-|-|
 |ADPKD|PKD1<br>PKD2|Polycystin 1<br>Polycystin 2|
+|Acute intermittent porphyria|-|Porphobilinogen deaminase|
 |Familial hypercholesterolemia|LDLR|LDL receptor|
 |Huntington disease|HTT|Huntingtin|
 |Marfan syndrome|FBN1|Fibrillin|
 |Multiple endocrine neoplasia (MEN) 1|MEN1|Tyrosine kinase|
 |Multiple endocrine neoplasia (MEN) 2|RET|Menin|
 |Neurofibromatosis (NF) type 1<br>Neurofibromatosis (NF) type 2|NF1<br>NF2|RAS activators|
+|Porphyria cutanea tarda|-|Uroporphyrinogen decarboxylase|
 |Tuberous sclerosis|TSC1<br>TSC2|Hamartin<br>Tuberlin|
 |Von Hippel-Lindau (VHL) disease|VHL|HIF inhibitors|
-|Acute intermittent porphyria|-|Porphobilinogen deaminase|
-|Porphyria cutanea tarda|-|Uroporphyrinogen decarboxylase|
 
 ### Autosomal Recessive (AR)
 
@@ -241,21 +241,21 @@
 
 |Disease|Gene|Product|
 |-|-|-|
-|Fragile X syndrome|FMR1|FMR protein|
 |Alport syndrome|COL4|Type 4 collagen|
+|Fragile X syndrome|FMR1|FMR protein|
 
 ### X-linked Recessive (XR)
 
 |Disease|Gene|Product|
 |-|-|-|
 |Bruton agammaglobulinemia|BTK|Bruton tyrosine kinase|
-|Menkes disease|ATP7A|Cu channel|
-|Wiskott-Aldrich syndrome|WAS|WAS protein|
-|G6PD deficiency|G6PD|Glucose-6-phosphate dehydrogenase|
-|Ocular albinism|-|-|
-|Lesch-Nyhan syndrome|HPRT1|HGPRT|
 |Duchenne muscular dystrophy (DMD)<br>Becker muscular dystrophy (BMD)|DMD|Dystrophin|
 |Fabry disease|-|α-Galactosidase|
-|Hunter syndrome|-|Iduronate sulfatase|
+|G6PD deficiency|G6PD|Glucose-6-phosphate dehydrogenase|
 |Haemophilia A & B & C|-|Factor 8 & 9 & 11|
+|Hunter syndrome|-|Iduronate sulfatase|
+|Lesch-Nyhan syndrome|HPRT1|HGPRT|
+|Menkes disease|ATP7A|Cu channel|
+|Ocular albinism|-|-|
 |Ornithine transcarbamylase deficiency|-|Ornithine transcarbamylase|
+|Wiskott-Aldrich syndrome|WAS|WAS protein|
