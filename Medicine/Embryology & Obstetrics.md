@@ -75,7 +75,9 @@
 - Connective tissue
 - Cardiovascular
 - Dermis
-- Genitalia from Wolffian & Mullerian duct
+- Genitalia
+  - Mullerian duct
+  - Wolffian duct
 - Kidney
 - Lymphatics
 - Muscle
@@ -85,7 +87,7 @@
 ## Endoderm
 
 - Eustachian tube
-- Gastrointestinal tract2
+- Gastrointestinal tract
 - Genitalia from urogenital sinus
 - Liver
 - Lung
