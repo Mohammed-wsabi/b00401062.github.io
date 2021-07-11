@@ -102,9 +102,9 @@
 
 ## Psammoma Body
 
-- Papillary carcinoma of thyroid
+- Papillary thyroid carcinoma
 - Prolactinoma
-- Serous cystadenocarcinoma of ovary
+- Serous cystadenocarcinoma
 - Meningioma
 - Mesothelioma
 
