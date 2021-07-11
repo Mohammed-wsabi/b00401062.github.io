@@ -14,7 +14,7 @@
 
 ## Cell Adaptation
 
-|Type|Size|Number|Morphological Change|Functional Change|
+|Type|Size|Number|MC|FC|
 |-|-|-|-|-|
 |Atrophy|↓|-|-|-|
 |Hypertrophy|↑|-|-|-|
@@ -25,6 +25,9 @@
 |Neoplasia|-|↑|-|-|
 |Metaplasia|-|-|+|+|
 |Dysplasia|-|-|+|+|
+
+- Morphological change (MC)
+- Functional change (FC)
 
 ## Metaplasia
 
