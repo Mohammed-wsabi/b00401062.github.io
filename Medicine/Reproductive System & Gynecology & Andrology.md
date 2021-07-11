@@ -4,13 +4,11 @@
 
 |Primordial|Female|Male|
 |-|-|-|
-|Gubernaculum|Ovarian & Round ligament|-|
+|Gubernaculum|Ovarian ligament<br>Round ligament|-|
 |Processus vaginalis|-|Tunica vaginalis|
 |Indifferent gonad|Ovary|Testis|
 ||Theca cell|Leydig cell|
 ||Granulosa cell|Sertoli cell|
-|Mesoderm|Paramesonephric duct|Mesonephric duct|
-||Mullerian duct|Wolffian duct|
 |Mullerian & Wolffian duct|Frimbriae|Epididymis|
 ||Fallopian tube|Vas deferens|
 ||Uterus|Seminal vesicle|
