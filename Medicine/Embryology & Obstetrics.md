@@ -85,6 +85,10 @@
 - Lymphatics
 - Muscle
 - Notochord
+- Serosa
+  - Pleura
+  - Pericardium
+  - Peritoneum
 - Spleen
 
 ## Endoderm
