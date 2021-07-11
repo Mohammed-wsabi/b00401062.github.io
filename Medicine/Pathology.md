@@ -48,7 +48,7 @@
 |Brain|Liquefactive|Liquefactive|
 |Blood vessel|Fibrinoid|Fibrinoid|
 |Fat|Fatty|Fatty|
-|Skin<br>GI tract|Wet gangrene|Dry gangrene|
+|Limbs<br>GI tract|Wet gangrene|Dry gangrene|
 
 ## Cytoskeletons
 
