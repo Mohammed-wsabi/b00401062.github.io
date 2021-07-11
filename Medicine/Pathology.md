@@ -125,9 +125,10 @@
 |Cold agglutinin test|Anti-RBC IgM|CLL<br>Mycoplasma<br>Mononucleosis|
 |Congo red stain|Amyloid|Amyloidosis|
 |Cyanide-nitroprusside test|Disulfide bond|Cystinuria|
+|Dihydrorhodamine test|NADPH oxidase|Chronic granulomatous disease (CGD)|
 |Leukocyte alkaline phosphatase (LAP) stain|Leukocyte alkaline phosphatase (LAP)|AML & CML|
 |Methylene blue stain|Hemoglobin|G6PD deficiency|
-|Nitroblue tetrazolium dye reduction test|NADPH oxidase|Chronic granulomatous disease (CGD)|
+|Nitroblue tetrazolium test|NADPH oxidase|Chronic granulomatous disease (CGD)|
 |Prussian blue stain|Iron|Hemochromatosis<br>Sideroblastic anemia|
 |Tartrate-resistant acid phosphatase (TRAP) stain|Tartrate-resistant acid phosphatase (TRAP)|Hairy cell leukemia|
 |Warm agglutinin test|Anti-RBC IgG|CLL & SLE|
