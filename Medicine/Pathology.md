@@ -55,7 +55,7 @@
 
 |Type|Examples|Locations|Tumor|
 |-|-|-|-|
-|Microtubule|Kinesin<br>Dynein|Cilia<br>Flagella|-|
+|Microtubule|Kinesin<br>Dynein|Centrioles<br>Cilia<br>Flagella|-|
 |Intermediate filament|Keratin|Epithelial cells|Carcinoma|
 ||Vimentin|Mesenchymal cells|Sarcoma|
 ||Desmin|Muscle cells|Myoma<br>Myosarcoma|
