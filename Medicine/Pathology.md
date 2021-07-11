@@ -2,7 +2,7 @@
 
 ## Cell Markers
 
-|Organ|Sensitive Markers|Specific Markers|
+|Organ|Sensitive|Specific|
 |-|-|-|
 |General|LDH|-|
 |Muscle|AST<br>Myoglobin|CK-MM|
