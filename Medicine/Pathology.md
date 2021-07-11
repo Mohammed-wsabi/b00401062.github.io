@@ -200,7 +200,7 @@
 
 ## Hereditary Disorders
 
-### Autosomal Dominant
+### Autosomal Dominant (AD)
 
 |Disease|Gene|Product|
 |-|-|-|
@@ -216,16 +216,17 @@
 |Acute intermittent porphyria|-|Porphobilinogen deaminase|
 |Porphyria cutanea tarda|-|Uroporphyrinogen decarboxylase|
 
-### Autosomal Recessive
+### Autosomal Recessive (AR)
 
 |Disease|Gene|Product|
 |-|-|-|
 |ARPKD|PKHD1|Fibrocystin|
-|Albinism|-|Tyrosinase|
-|Phenylketonuria (PKU)|-|Phenylalanine hydroxylase<br>Tetrahydrobiopterin|
-|Alkaptonuria (AKU)|-|Homogentisate oxidase|
+|Oculocutaneous albinism|TYR|Tyrosinase|
+|Phenylketonuria (PKU)|PAH|Phenylalanine hydroxylase<br>Tetrahydrobiopterin|
+|Alkaptonuria (AKU)|HGD|Homogentisate oxidase|
 |Homocystinuria|-|Cystathionine synthase<br>Methionine synthase|
 |Cystinuria|-|Amino acid transporter|
+|Hartnup disease|-|Amino acid transporter|
 |Maple syrup urine disease (MSUD)|-|Branched-chain α-ketoacid dehydrogenase|
 |Cystic fibrosis (CF)|CFTR|Cl channel|
 |Kartagener syndrome|-|Dynein|
@@ -236,14 +237,14 @@
 |Glycogen storage disease (GSD)|-|-|
 |Lysosomal storage disease (LSD)|-|-|
 
-### X-linked Dominant
+### X-linked Dominant (XD)
 
 |Disease|Gene|Product|
 |-|-|-|
 |Fragile X syndrome|FMR1|FMR protein|
 |Alport syndrome|COL4|Type 4 collagen|
 
-### X-linked Recessive
+### X-linked Recessive (XR)
 
 |Disease|Gene|Product|
 |-|-|-|
