@@ -1,6 +1,6 @@
 # Embryology & Obstetrics
 
-## Early Stages of Embryogenesis
+## Embryogenesis
 
 - Zygote
 - Morula
@@ -46,7 +46,7 @@
 - Sweat gland
 - Urethra :: penile
 
-### Neuroectoderm
+### Neuroectoderm :: Neural Tube
 
 - Astrocyte
 - CNS neuron
@@ -59,7 +59,7 @@
 - Retina
 - Skull bone
 
-### Neural Crest
+### Neuroectoderm :: Neural Crest
 
 - Aorticopulmonary septum
 - Adrenal medulla
