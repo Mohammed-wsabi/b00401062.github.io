@@ -50,25 +50,26 @@
 
 ### Neuroectoderm :: Neural Tube
 
-- Astrocyte
 - CNS neuron
-- Ependymal cell
-- Oligodendrocyte
+- CNS glial cells
+  - Astrocytes
+  - Ependymal cells
+  - Oligodendrocytes
 - Olfactory nerve
 - Optic nerve
 - Pineal gland
 - Posterior pituitary<br>[Neurohypophysis]
 - Retina
-- Skull bone
 
 ### Neuroectoderm :: Neural Crest
 
-- Aorticopulmonary septum
 - Adrenal medulla
-- Melanocyte
-- Odontoblast
-- PNS Ganglion
-- Schwannoma
+- Endocardial cushions
+- Melanocytes
+- Odontoblasts
+- PNS ganglion
+- Schwann cells
+- Spiral membrane
 
 ## Mesoderm
 
@@ -77,10 +78,10 @@
 - Connective tissue
 - Cardiovascular
 - Dermis
-- Gonads
 - Genital ducts
   - Mullerian duct<br>[Paramesonephric duct]
   - Wolffian duct<br>[Mesonephric duct]
+- Gonads
 - Kidney
 - Lymphatics
 - Muscle
