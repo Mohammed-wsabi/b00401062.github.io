@@ -54,7 +54,6 @@
 ||Amiloride<br>Triamterene|Diuretics :: K-sparing diuretics|
 ||Carbamazepine|Seizure<br>Bipolar disorder|
 ||Phenytoin|Seizure|
-||Calcium|-|
 ||Saxitoxin<br>Tetrodotoxin|-|
 |K channel activators|Diazoxide|Vasodilation<br>Insulinoma|
 ||Minoxidil|Vasodilation<br>Alopecia|
@@ -238,12 +237,11 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |NMDA agonists|-|-|
-|NMDA antagonists|Ketamine|Anesthesia|
-||Memantine|Alzheimer disease|
+|NMDA antagonists|Memantine|Alzheimer disease|
 ||Amantadine|Parkinson disease|
 ||Riluzole|Amyotrophic lateral sclerosis (ALS)|
 ||Dextromethorphan|Coughing|
-||Phencyclidine (PCP)|-|
+||Ketamine<br>Phencyclidine (PCP)|Anesthesia<br>Hallucinogen|
 
 ## Mechanisms of Action of Medications Targeting GABA Receptor
 
