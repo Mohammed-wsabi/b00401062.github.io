@@ -121,6 +121,7 @@
 - Shield chest
 - Bicuspid aortic valve
 - Coarctation of the aorta
+- Cystic hygroma
 
 ## Indicators of Ovarian Reserve
 
