@@ -68,7 +68,7 @@
 |Psammoma body|Calcium|Tumor|
 |Zebra body|Sphingolipid|Lysosomal storage disease|
 |Negri body|Rabies|Rabies|
-|Heinz body|Denatured hemoglobin|G6PD deficiency|
+|Heinz body|Hemoglobin|G6PD deficiency|
 |Howell-Jolly body|Nuclear remnants|Asplenia|
 |Asteroid body<br>Schaumann body|Calcium<br>Protein|Sarcoidosis|
 |Mallory body|Keratin|Alcoholic hepatitis|
