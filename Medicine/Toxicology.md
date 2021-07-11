@@ -14,13 +14,13 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |GABA-A agonists|Alcohol|Depressant|
-|GABA-B agonists|γ-Hydroxybutyrate (GHB)|
+|GABA-B agonists|γ-Hydroxybutyrate (GHB)|Depressant|
 |μ-opioid agonists|Heroin|Depressant|
 |Adenosine antagonists|Caffeine|Stimulant|
 |N<sub>N</sub> [Ganglionic] agonists|Nicotine|Stimulant|
 |NE reuptake inhibitors|Cocaine<br>Amphetamine|Stimulant|
-|NMDA antagonists|Ketamine<br>Phencyclidine (PCP) [Angel dust]|Hallucinogen & Stimulant|
-|-|MDMA [Ecstasy]|Hallucinogen & Stimulant|
+|NMDA antagonists|Ketamine<br>Phencyclidine (PCP) [Angel dust]|Hallucinogen|
+|-|MDMA [Ecstasy]|Hallucinogen|
 |-|Lysergic acid diethylamide (LSD)|Hallucinogen|
 |-|Cannabis [Marijuana]|Hallucinogen|
 
