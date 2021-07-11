@@ -123,14 +123,14 @@
 |Test|Target|Diagnosis|
 |-|-|-|
 |Cold agglutinin test|Anti-RBC IgM|CLL<br>Mycoplasma<br>Mononucleosis|
-|Warm agglutinin test|Anti-RBC IgG|CLL & SLE|
 |Congo red stain|Amyloid|Amyloidosis|
+|Cyanide-nitroprusside test|Disulfide bond|Cystinuria|
 |Leukocyte alkaline phosphatase (LAP) stain|Leukocyte alkaline phosphatase (LAP)|AML & CML|
 |Methylene blue stain|Hemoglobin|G6PD deficiency|
 |Nitroblue tetrazolium dye reduction test|NADPH oxidase|Chronic granulomatous disease (CGD)|
 |Prussian blue stain|Iron|Hemochromatosis<br>Sideroblastic anemia|
-|Cyanide-nitroprusside test|Disulfide bond|Cystinuria|
 |Tartrate-resistant acid phosphatase (TRAP) stain|Tartrate-resistant acid phosphatase (TRAP)|Hairy cell leukemia|
+|Warm agglutinin test|Anti-RBC IgG|CLL & SLE|
 
 ## Genetic Disorders
 
