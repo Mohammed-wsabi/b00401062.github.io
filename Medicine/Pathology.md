@@ -68,9 +68,8 @@
 |Psammoma body|Calcium|Tumor|
 |Zebra body|Sphingolipid|Lysosomal storage disease|
 |Negri body|Rabies|Rabies|
-|Heinz body|Denatured hemoglobin|G6PD deficiency<br>Thalassemia|
+|Heinz body|Denatured hemoglobin|G6PD deficiency|
 |Howell-Jolly body|Nuclear remnants|Asplenia|
-|Aschoff body|-|Rheumatic fever|
 |Asteroid body<br>Schaumann body|Calcium<br>Protein|Sarcoidosis|
 |Mallory body|Keratin filament|Alcoholic hepatitis|
 |Lewy body|α-Synuclein|Parkinson disease|
@@ -78,11 +77,11 @@
 |Auer body|Peroxidase|AML M3|
 |Ferruginous body|Asbestos|Asbestosis|
 |Call-Exner body|-|Granulosa cell tumor|
-|Giant cell|-|Granuloma|
+|Giant cell|Macrophage|Granuloma|
 |Foam cell|Lipid|Atherosclerosis|
 |Gaucher cell|Glucocerebroside|Gaucher disease|
 |Heart failure cell|Hemosiderin|Left heart failure|
-|Anitschkow cell|-|Rheumatic fever|
+|Anitschkow cell<br>Aschoff body|Macrophage|Rheumatic fever|
 |Hurthle cell|-|Hashimoto thyroiditis|
 |Clue cell|Gardnerella vaginalis|Gardnerella vaginalis|
 |Orphan Annie eye|-|Papillary carcinoma of thyroid|
