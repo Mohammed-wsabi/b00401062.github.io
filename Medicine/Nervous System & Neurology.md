@@ -626,7 +626,7 @@
 
 |Disorder|Lesions|Findings|Precursor|
 |-|-|-|-|
-|Parkinson disease|Substantia nigra pars compacta|Lewy body|α-Synuclein|
+|Parkinson disease|Substantia nigra|Lewy body|α-Synuclein|
 |Huntington disease|Striatum|-|-|
 |Alzheimer disease|Cortex<br>Hippocampus|Senile plaque|Amyloid β (Aβ)|
 |||Neurofibrillary tangle|Tau protein|
