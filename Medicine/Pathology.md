@@ -5,8 +5,8 @@
 |Cell|Sensitive Markers|Specific Markers|
 |-|-|-|
 |General|LDH|-|
-|Muscle|AST & Myoglobin|CK-MM|
-|Heart|AST & Myoglobin|CK-MB & Troponin|
+|Muscle|AST<br>Myoglobin|CK-MM|
+|Heart|AST<br>Myoglobin|CK-MB<br>Troponin|
 |Liver|AST|ALT|
 |Biliary tract|ALP|GGT|
 |Bone|ALP|-|
@@ -36,28 +36,28 @@
 |Endocervix|Columnar epithelium|Squamous epithelium|Low vaginal pH|
 |Muscle|Muscle tissue|Bone tissue|Trauma|
 
-## Necrosis & Tissues
+## Tissue Necrosis
 
 |Tissue|Infection|Non-infection|
 |-|-|-|
-|General|Liquefactive & Caseous|Coagulative|
+|General|Liquefactive<br>Caseous|Coagulative|
 |CNS|Liquefactive|Liquefactive|
 |Vessels|Fibrinoid|Fibrinoid|
 |Fat|Fatty|Fatty|
-|Limbs & GI|Wet gangrene|Dry gangrene|
+|Limbs<br>GI tract|Wet gangrene|Dry gangrene|
 
 ## Cytoskeletons
 
 |Type|Examples|Locations|Tumor|
 |-|-|-|-|
-|Microtubule|Kinesin & Dynein|Cilia & Flagella|-|
+|Microtubule|Kinesin<br>Dynein|Cilia<br>Flagella|-|
 |Intermediate filament|Keratin|Epithelial cell|Carcinoma|
 ||Vimentin|Connective tissue|Sarcoma|
-||Desmin|Muscle cell|Myoma & Myosarcoma|
+||Desmin|Muscle cell|Myoma<br>Myosarcoma|
 ||Neurofilament|Neuron|Neuroblastoma & Pheochromocytoma|
 ||GFAP|Glial cell|Glioma|
 |Microfilament|Actin|Adherens junction|-|
-||Actin & Myosin|Muscle cell & Microvilli|-|
+||Actin<br>Myosin|Muscle cell<br>Microvilli|-|
 ||Tropomyosin|Muscle cell|-|
 
 ## Pathological Bodies & Cells
@@ -68,11 +68,10 @@
 |Psammoma body|Calcium|Tumor|
 |Zebra body|Sphingolipid|Lysosomal storage disease|
 |Negri body|Rabies|Rabies|
-|Heinz body|Denatured hemoglobin|G6PD deficiency & Thalassemia|
+|Heinz body|Denatured hemoglobin|G6PD deficiency<br>Thalassemia|
 |Howell-Jolly body|Nuclear remnants|Asplenia|
 |Aschoff body|-|Rheumatic fever|
-|Asteroid body|Calcium & Protein|Sarcoidosis|
-|Schaumann body|Calcium & Protein|Sarcoidosis|
+|Asteroid body|<br>Schaumann body|Calcium<br>Protein|Sarcoidosis|
 |Mallory body|Keratin filament|Alcoholic hepatitis|
 |Lewy body|α-Synuclein|Parkinson disease|
 |Schiller-Duval body|-|Yolk sac tumor|
@@ -89,7 +88,7 @@
 |Orphan Annie eye|-|Papillary carcinoma of thyroid|
 |Owl eye|CMV|CMV|
 |Cowdry type A|HSV & VZV|HSV & VZV|
-|Cowdry type B|Poliovirus & Adenovirus|Poliovirus & Adenovirus|
+|Cowdry type B|Poliovirus<br>Adenovirus|Poliovirus<br>Adenovirus|
 |Reinke crystal|-|Leydig cell tumor|
 
 ## Psammoma Body
@@ -116,15 +115,15 @@
 
 |Test|Target|Diagnosis|
 |-|-|-|
-|Cold agglutinin test|Anti-RBC IgM|CLL & Mycoplasma & Mononucleosis|
+|Cold agglutinin test|Anti-RBC IgM|CLL<br>Mycoplasma<br>Mononucleosis|
+|Warm agglutinin test|Anti-RBC IgG|CLL & SLE|
 |Congo red stain|Amyloid|Amyloidosis|
 |Leukocyte alkaline phosphatase (LAP) stain|Leukocyte alkaline phosphatase (LAP)|AML & CML|
-|Methylene blue stain|Denatured hemoglobin|G6PD deficiency & Thalassemia|
+|Methylene blue stain|Denatured hemoglobin|G6PD deficiency<br>Thalassemia|
 |Nitroblue tetrazolium dye reduction test|NADPH oxidase|Chronic granulomatous disease|
-|Prussian blue stain|Iron|Hemochromatosis & Sideroblastic anemia|
+|Prussian blue stain|Iron|Hemochromatosis<br>Sideroblastic anemia|
 |Cyanide-nitroprusside test|Disulfide bond|Cystinuria|
 |Tartrate-resistant acid phosphatase (TRAP) stain|Tartrate-resistant acid phosphatase (TRAP)|Hairy cell leukemia|
-|Warm agglutinin test|Anti-RBC IgG|CLL & SLE|
 
 ## Genetic Disorders
 
@@ -155,13 +154,13 @@
 
 ## Trinucleotide Repeat Expansion Disorders
 
-|Mnemonic|Disorder|Inheritance|Gene|Repeat|
+|Mnemonic|Disorder|Inheritance|Gene|Product|Repeat|
 |-|-|-|-|-|
-|Hunting|Huntington disease|AD|Huntingtin|CAG|
-|For|Friedreich ataxia|AR|Frataxin|GAA|
-|My|Myotonic dystrophy|AD|Myotonic dystrophy protein kinase (MDPK)|CTG|
-|Sexy|Spinobulbar muscular atrophy (SBMA)|XR|Androgen receptor|CAG|
-|X|Fragile X syndrome|XD|Fragile X mental retardation 1 (FMR1)|CGG|
+|Hunting|Huntington disease|AD|HTT|Huntingtin|CAG|
+|For|Friedreich ataxia|AR|FXN|Frataxin|GAA|
+|My|Myotonic dystrophy|AD|MDPK||Protein kinase|CTG|
+|Sexy|Spinobulbar muscular atrophy (SBMA)|XR|AR|Androgen receptor|CAG|
+|X|Fragile X syndrome|XD|FMR1|FMR protein|CGG|
 
 ## Microdeletion Disorders
 
