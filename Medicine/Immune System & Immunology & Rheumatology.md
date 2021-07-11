@@ -30,6 +30,14 @@
 |Degradation|-|NADPH oxidase|Chronic granulomatous disease (CGD)|
 ||-|Myeloperoxidase|Myeloperoxidase deficiency|
 
+## Presentation of Chediak-Higashi Syndrome (CHS)
+
+- Lymphohistiocytosis
+- Albinism :: partial
+- Recurrent infections
+- Neurodegeneration
+- Peripheral neuropathy
+
 ## Toll-Like Receptors (TLR) on Antigen-Presenting Cells (APC)
 
 ![](../Figures/Toll-Like%20Receptors%20(TLR)%20on%20Antigen-Presenting%20Cells%20(APC).png)
@@ -142,6 +150,51 @@
 |Random combination of heavy and light chains|-|
 |Somatic hypermutation|-|
 
+## Immunodeficiency {WASH-CHILD-CBS}
+
+### Combined Deficiency {WASH}
+
+|Disease|Gene|Inheritance|IgM|IgG|IgE|IgA|
+|-|-|-|-|-|-|
+|Wiskott-Aldrich syndrome (WAS)|WAS|XR|↓|-|↑|↑|
+|Ataxia telangiectasia|ATM|AR|-|↓|↓|↓|
+|Severe combined immunodeficiency (SCID)|ADA|AR|↓|↓|↓|↓|
+||IL-2R|XR|↓|↓|↓|↓|
+|Hyper-IgM syndrome|CD40L|XR|↑|↓|↓|↓|
+
+### T Cell Deficiency {CHILD}
+
+|Disease|Gene|Inheritance|IgM|IgG|IgE|IgA|
+|-|-|-|-|-|-|-|
+|Chronic mucocutaneous candidiasis|-|-|-|-|-|-|
+|Hyper-IgE [Job] syndrome|STAT3|AD|-|-|↑|-|
+|IL-12R deficiency|IL-12R|AR|-|-|-|-|
+|DiGeorge syndrome|22q11|AD|-|-|-|-|
+
+### B Cell Deficiency {CBS}
+
+|Disease|Gene|Inheritance|IgM|IgG|IgE|IgA|
+|-|-|-|-|-|-|-|
+|Common variable immunodeficiency (CVID)|-|-|↓|↓|↓|↓|
+|Bruton agammaglobulinemia|BTK|XR|↓|↓|↓|↓|
+|Selective IgA deficiency|-|-|-|-|-|↓|
+
+## Presentation of Wiskott-Aldrich syndrome (WAS) {WATER}
+
+- Wiskott
+- Aldrich
+- Thrombocytopenia
+- Eczema ← ↑ IgE & IgA
+- Recurrent infections
+
+## Presentation of Hyper-IgE [Job] Syndrome {FATE}
+
+- Facies :: coarse
+- Abscess
+- Teeth :: primary
+- Eosinophilia
+- Eczema ← ↑ IgE
+
 ## Hypersensitivity
 
 ### Type 1
@@ -227,51 +280,6 @@
 |DR4|Rheumatoid arthritis<br>DM type 1|
 |DR5|Pernicious anemia<br>Hashimoto thyroiditis|
 
-## Immunodeficiency {WASH-CHILD-CBS}
-
-### Combined Deficiency {WASH}
-
-|Disease|Gene|Inheritance|IgM|IgG|IgE|IgA|
-|-|-|-|-|-|-|
-|Wiskott-Aldrich syndrome (WAS)|WAS|XR|↓|-|↑|↑|
-|Ataxia telangiectasia|ATM|AR|-|↓|↓|↓|
-|Severe combined immunodeficiency (SCID)|ADA|AR|↓|↓|↓|↓|
-||IL-2R|XR|↓|↓|↓|↓|
-|Hyper-IgM syndrome|CD40L|XR|↑|↓|↓|↓|
-
-### T Cell Deficiency {CHILD}
-
-|Disease|Gene|Inheritance|IgM|IgG|IgE|IgA|
-|-|-|-|-|-|-|-|
-|Chronic mucocutaneous candidiasis|-|-|-|-|-|-|
-|Hyper-IgE [Job] syndrome|STAT3|AD|-|-|↑|-|
-|IL-12R deficiency|IL-12R|AR|-|-|-|-|
-|DiGeorge syndrome|22q11|AD|-|-|-|-|
-
-### B Cell Deficiency {CBS}
-
-|Disease|Gene|Inheritance|IgM|IgG|IgE|IgA|
-|-|-|-|-|-|-|-|
-|Common variable immunodeficiency (CVID)|-|-|↓|↓|↓|↓|
-|Bruton agammaglobulinemia|BTK|XR|↓|↓|↓|↓|
-|Selective IgA deficiency|-|-|-|-|-|↓|
-
-## Presentation of Wiskott-Aldrich syndrome (WAS) {WATER}
-
-- Wiskott
-- Aldrich
-- Thrombocytopenia
-- Eczema ← ↑ IgE & IgA
-- Recurrent infection
-
-## Presentation of Hyper-IgE [Job] Syndrome {FATE}
-
-- Facies :: coarse
-- Abscess
-- Teeth :: primary
-- Eosinophilia
-- Eczema ← ↑ IgE
-
 ## Etiology of Cold Sensitive Antibodies (CSA)
 
 - Infection
@@ -281,7 +289,7 @@
 - Autoimmune disorders
 - IgM monoclonal gammopathy
   - Waldenström macroglobulinemia
-  - IgM monoclonal gammopathy of undetermined signifi- cance (MGUS)
+  - IgM monoclonal gammopathy of undetermined significance (MGUS)
 
 ## Presentation of Sarcoidosis {GAUSH}
 
