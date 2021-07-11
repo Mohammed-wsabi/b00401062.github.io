@@ -47,8 +47,8 @@
 |General|Liquefactive<br>Caseous|Coagulative|
 |Brain|Liquefactive|Liquefactive|
 |Blood vessel|Fibrinoid|Fibrinoid|
-|Adipose|Fatty|Fatty|
-|Soft tissue<br>GI tract|Wet gangrene|Dry gangrene|
+|Fat|Fatty|Fatty|
+|Skin<br>GI tract|Wet gangrene|Dry gangrene|
 
 ## Cytoskeletons
 
