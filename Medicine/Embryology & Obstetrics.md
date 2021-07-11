@@ -78,7 +78,7 @@
 - Cardiovascular
 - Dermis
 - Gonads
-- Internal genitalia
+- Genital ducts
   - Mullerian duct<br>[Paramesonephric duct]
   - Wolffian duct<br>[Mesonephric duct]
 - Kidney
