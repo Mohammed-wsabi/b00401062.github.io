@@ -60,9 +60,9 @@
 ||Actin<br>Myosin|Muscle cell<br>Microvilli|-|
 ||Tropomyosin|Muscle cell|-|
 
-## Pathological Bodies & Cells
+## Pathological Findings
 
-|Body & Cell|Ingredients|Indications|
+|Finding|Ingredients|Indications|
 |-|-|-|
 |Russell body|Immunoglobulin|Multiple myeloma|
 |Psammoma body|Calcium|Tumor|
@@ -74,6 +74,8 @@
 |Mallory body|Keratin filament|Alcoholic hepatitis|
 |Lewy body|α-Synuclein|Parkinson disease<br>Lewy body dementia|
 |Pick body|Tau protein|Frontotemporal dementia|
+|Neurofibrillary tangle|Tau protein|Alzheimer disease|
+|Hirano body|Actin|Alzheimer disease|
 |Schiller-Duval body|-|Yolk sac tumor|
 |Auer body|Peroxidase|AML M3|
 |Ferruginous body|Asbestos|Asbestosis|
