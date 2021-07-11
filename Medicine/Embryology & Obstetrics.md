@@ -65,9 +65,10 @@
 
 - Adrenal medulla
 - Endocardial cushions
+- Leptomeninges
 - Melanocytes
 - Odontoblasts
-- PNS ganglion
+- PNS ganglia
 - Schwann cells
 - Spiral membrane
 
