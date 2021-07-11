@@ -56,14 +56,13 @@
 |Type|Examples|Locations|Tumor|
 |-|-|-|-|
 |Microtubule|Kinesin<br>Dynein|Centrioles<br>Cilia<br>Flagella|-|
-|Intermediate filament|Keratin|Epithelial cells|Carcinoma|
+|Intermediate filament|Keratin|Epithelial cells<br>Desmosome<br>Hemidesmosome|Carcinoma|
 ||Vimentin|Mesenchymal cells|Sarcoma|
 ||Desmin|Muscle cells|Myoma<br>Myosarcoma|
 ||Neurofilament|Neurons|Neuroblastoma<br>Pheochromocytoma|
 ||GFAP|Glial cells|Glioma|
-|Microfilament|Actin|Adherens junction|-|
-||Actin<br>Myosin|Muscle cells<br>Microvilli|-|
-||Tropomyosin|Muscle cells|-|
+|Microfilament|Actin|Adherens junction<br>Microvilli|-|
+||Actin<br>Myosin<br>Tropomyosin|Muscle cells|-|
 
 ## Pathological Findings
 
