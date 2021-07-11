@@ -628,7 +628,7 @@
 |-|-|-|-|
 |Parkinson disease|Substantia nigra|Lewy body|α-Synuclein|
 |Huntington disease|Striatum|-|-|
-|Alzheimer disease|Cortex<br>Hippocampus|Senile plaque|Amyloid β (Aβ)|
+|Alzheimer disease|Cortex<br>Hippocampus|Senile plaque|Amyloid precursor protein (APP)|
 |||Neurofibrillary tangle|Tau protein|
 |||Hirano body|Actin|
 |Frontotemporal dementia|Frontotemporal lobe|Pick body|Tau protein|
