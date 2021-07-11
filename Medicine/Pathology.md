@@ -162,7 +162,7 @@
 |-|-|-|-|-|-|
 |Hunting|Huntington disease|AD|HTT|Huntingtin|CAG|
 |For|Friedreich ataxia|AR|FXN|Frataxin|GAA|
-|My|Myotonic dystrophy|AD|MDPK||Protein kinase|CTG|
+|My|Myotonic dystrophy|AD|MDPK|Protein kinase|CTG|
 |Sexy|Spinobulbar muscular atrophy (SBMA)|XR|AR|Androgen receptor|CAG|
 |X|Fragile X syndrome|XD|FMR1|FMR protein|CGG|
 
