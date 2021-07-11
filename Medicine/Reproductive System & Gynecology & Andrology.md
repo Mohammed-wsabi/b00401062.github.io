@@ -52,14 +52,14 @@
 |Progesterone|LH<br>FSH|Corpus luteum|Testis|
 |Testosterone|LH|Theca cells<br>Corpus luteum|Leydig cells|
 |Anti-Mullerian hormone (AMH)<br>Estradiol<br>Inhibin|FSH|Granulosa cells<br>Corpus luteum|Sertoli cells|
-|Estrone|-|Adipose cells|Adipose cells|
+|Estrone|-|Adipocytes|Adipocytes|
 |Dihydrotestosterone (DHT)|-|Peripheral cells|Peripheral cells|
 
 ## Estrogens in Females
 
 |Estrogen|Estrogen Site|Precursor|Precursor Site|Enzyme|Timing|
 |-|-|-|-|-|-|
-|Estrone|Adipose cells|Androstenedione|Adrenal gland|Aromatase|Post-menopause|
+|Estrone|Adipocytes|Androstenedione|Adrenal gland|Aromatase|Post-menopause|
 |Estradiol|Granulosa cells|Testosterone|Theca cells|Aromatase|Non-pregnancy|
 |Estriol|Placenta|DHEA sulfate (DHEAS)|Adrenal gland|Sulfatase|Pregnancy|
 
