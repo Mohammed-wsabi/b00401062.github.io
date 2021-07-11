@@ -155,7 +155,7 @@
 ### Combined Deficiency {WASH}
 
 |Disease|Gene|Inheritance|IgM|IgG|IgE|IgA|
-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|
 |Wiskott-Aldrich syndrome (WAS)|WAS|XR|↓|-|↑|↑|
 |Ataxia telangiectasia|ATM|AR|-|↓|↓|↓|
 |Severe combined immunodeficiency (SCID)|ADA|AR|↓|↓|↓|↓|
