@@ -254,6 +254,7 @@
 ||Zolpidem<br>Zaleplon<br>Eszopiclone|Insomnia|
 ||Alcohol|-|
 |GABA-B agonists|Baclofen|Muscle relaxant|
+||γ-Hydroxybutyrate (GHB)|-|
 |GABA-A antagonists|Flumazenil|Benzodiazepine antidote|
 |GABA-B antagonists|-|-|
 
