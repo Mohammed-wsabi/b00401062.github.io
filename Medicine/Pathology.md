@@ -33,13 +33,13 @@
 
 ## Metaplasia
 
-|Tissue|Normal|Metaplasia|Stimulus|
-|-|-|-|-|
-|Airways|Pseudostratified columnar epithelium|Squamous epithelium|Cigarette|
-|Esophagus|Squamous epithelium|Columnar epithelium|Gastroesophageal reflux disease (GERD)|
-|Urinary bladder|Transitional epithelium|Squamous epithelium|Bladder stone|
-|Endocervix|Columnar epithelium|Squamous epithelium|Low vaginal pH|
-|Muscle|Muscle tissue|Bone tissue|Trauma|
+|Tissue|Normal|Metaplasia|Stimulus|Disease|
+|-|-|-|-|-|
+|Airways|Pseudostratified columnar epithelium|Squamous epithelium|Cigarette|Lung SCC|
+|Esophagus|Squamous epithelium|Columnar epithelium|Low pH & GERD|Esophageal adenocarcinoma|
+|Urinary bladder|Transitional epithelium|Squamous epithelium|Bladder stone|Bladder SCC|
+|Endocervix|Columnar epithelium|Squamous epithelium|Low pH|Cervical SCC|
+|Muscle|Muscle tissue|Bone tissue|Trauma|Myositis ossificans|
 
 ## Tissue Necrosis
 
