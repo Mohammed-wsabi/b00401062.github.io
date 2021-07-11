@@ -106,12 +106,12 @@
 |Disease|Amyloid|Precursor|
 |-|-|-|
 |Primary amyloidosis|Amyloid light-chain (AL)|Immunoglobulin light-chain|
-||Amyloid transthyretin (ATTR)|Transthyretin|
 |Secondary amyloidosis|Amyloid A (AA)|Serum amyloid A (SAA)|
 |Dialysis-related amyloidosis|Amyloid β<sub>2</sub>-microglobulin (Aβ<sub>2</sub>M)|β<sub>2</sub>-microglobulin|
-|Senile plaque|Amyloid β (Aβ)|Amyloid precursor protein (APP)|
 |DM type 2|Amyloid islet amyloid polypeptide (AIAPP)|Islet amyloid polypeptide (IAPP)|
-|Creutzfeldt-Jakob disease|Amyloid prion protein (APrP)|Prion|
+|Alzheimer disease|Amyloid β (Aβ)|Amyloid precursor protein (APP)|
+|Creutzfeldt-Jakob disease|Amyloid prion protein (APrP)|Prion protein (PrP)|
+|Familial amyloidosis|Amyloid transthyretin (ATTR)|Transthyretin|
 
 ## Biochemical Reactions for Diagnostic Tests
 
