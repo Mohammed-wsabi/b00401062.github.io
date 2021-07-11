@@ -16,7 +16,7 @@
 |GABA-A agonists|Alcohol|Depressant|
 |GABA-B agonists|γ-Hydroxybutyrate (GHB)|
 |μ-opioid agonists|Heroin|Depressant|
-|A antagonists|Caffeine|Stimulant|
+|Adenosine antagonists|Caffeine|Stimulant|
 |N<sub>N</sub> [Ganglionic] agonists|Nicotine|Stimulant|
 |NE reuptake inhibitors|Cocaine<br>Amphetamine|Stimulant|
 |NMDA antagonists|Ketamine<br>Phencyclidine (PCP) [Angel dust]|Hallucinogen & Stimulant|
