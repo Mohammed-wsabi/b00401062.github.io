@@ -58,17 +58,23 @@
 
 |Marker|Tumors|
 |-|-|
-|ALP|Bone metastasis<br>Seminoma|
+|ALP|Bone metastasis<br>Liver metastasis<br>Seminoma|
 |AFP|Hepatocellular carcinoma<br>Germ cell tumors (GCT)|
 |hCG|Hydatidiform moles<br>Germ cell tumors (GCT)|
-|CA 15-3|Breast cancer|
+|CA 15-3<br>CA 27-29|Breast cancer|
 |CA 19-9|Pancreatic adenocarcinoma|
 |CA 125|Ovarian cancer|
 |Calcitonin|Medullary thyroid carcinoma|
 |CEA|Colorectal cancer<br>Pancreatic adenocarcinoma|
-|Chromogranin|Neuroendocrine tumors (NET)|
+|Chromogranin<br>Synaptophysin<br>Neuron-specific enolase (NSE)|Neuroendocrine tumors (NET)|
+|Desmin|Myoma<br>Myosarcoma|
+|GFAP|Glioma<br>Glioblastoma<br>Schwannoma|
+|Keratin|Carcinoma|
+|Neurofilament|Neuroma<br>Neuroblastoma|
 |PSA|Prostate cancer|
-|S-100|Melanoma<br>Schwannoma<br>Neurofibroma<br>Histiocytoma|
+|S-100|Melanoma<br>Schwannoma<br>Histiocytoma|
+|TRAP|Hairy cell leukemia|
+|Vimentin|Sarcoma|
 
 ## Common Metastases to Bone
 
