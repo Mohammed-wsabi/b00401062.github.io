@@ -38,7 +38,7 @@
 |Esophagus|Squamous epithelium|Columnar epithelium|Low pH & GERD|Esophageal adenocarcinoma|
 |Urinary bladder|Transitional epithelium|Squamous epithelium|Bladder stone|Bladder SCC|
 |Endocervix|Columnar epithelium|Squamous epithelium|Low pH|Cervical SCC|
-|Muscle|Muscle tissue|Bone tissue|Trauma|Myositis ossificans|
+|Muscle|Muscle|Bone|Trauma|Myositis ossificans|
 
 ## Tissue Necrosis
 
