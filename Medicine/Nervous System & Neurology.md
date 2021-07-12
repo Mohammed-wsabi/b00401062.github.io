@@ -762,7 +762,7 @@
 
 |Cell|Origin|Tumors|
 |-|-|-|
-|Neurons|Neural tube|-|
+|Neurons|Neural tube|Neuroblastoma|
 |Astrocytes|Neural tube|Grade 1: Pilocytic astrocytoma<br>Grade 2: Fibrillary astrocytoma<br>Grade 3: Anaplastic astrocytoma<br>Grade 4: Glioblastoma multiforme|
 |Ependymal cells|Neural tube|Ependymoma|
 |Oligodendrocytes|Neural tube|Oligodendroglioma|
@@ -774,7 +774,7 @@
 
 |Cell|Origin|Tumors|
 |-|-|-|
-|Neurons|Neural crest|-|
+|Neurons|Neural crest|Neuroblastoma|
 |Schwann cells|Neural crest|Schwannoma|
 |Neuroendocrine cells|Neural crest|Pheochromocytoma<br>Paraganglioma|
 
