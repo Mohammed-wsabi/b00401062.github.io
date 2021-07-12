@@ -59,17 +59,18 @@
 |Marker|Tumors|
 |-|-|
 |5-HIAA|Carcinoid tumors|
-|ALP|Bone metastasis<br>Liver metastasis<br>Seminoma|
 |AFP|Hepatocellular carcinoma<br>Germ cell tumors (GCT)|
-|hCG|Hydatidiform moles<br>Germ cell tumors (GCT)|
+|ALP|Bone metastasis<br>Liver metastasis<br>Seminoma|
+|CA 125|Ovarian cancer|
 |CA 15-3<br>CA 27-29|Breast cancer|
 |CA 19-9|Pancreatic adenocarcinoma|
-|CA 125|Ovarian cancer|
-|Calcitonin|Medullary thyroid carcinoma|
 |CEA|Colorectal cancer<br>Pancreatic adenocarcinoma|
+|Calcitonin|Medullary thyroid carcinoma|
 |Chromogranin<br>Synaptophysin<br>NSE|Neuroendocrine tumors (NET)|
 |Desmin|Myoma<br>Myosarcoma|
 |GFAP|Glioma<br>Glioblastoma<br>Schwannoma|
+|hCG|Hydatidiform moles<br>Germ cell tumors (GCT)|
+|HVA & VMA|Pheochromocytoma|
 |Keratin|Carcinoma|
 |Neurofilament|Neuroblastoma|
 |PSA|Prostate cancer|
