@@ -151,8 +151,7 @@
 |α<sub>2</sub> agonists|Clonidine|Hypertension<br>Attention-deficit hyperactivity disorder (ADHD)<br>Tourette syndrome<br>Opioid withdrawal|
 ||Brimonidine|Glaucoma|
 ||Methyldopa|Hypertension (HTN)|
-|β<sub>1</sub> agonists|Dopamine: D > β<sub>1</sub> > α<sub>1</sub>|Inotrope|
-||Dobutamine: β<sub>1</sub> > β<sub>2</sub>|Inotrope|
+|β<sub>1</sub> agonists|Dobutamine: β<sub>1</sub> > β<sub>2</sub>|Inotrope|
 |β<sub>2</sub> agonists|Albuterol|Asthma :: acute|
 ||Salmeterol<br>Formoterol|Asthma :: chronic|
 ||Terbutaline<br>Ritodrine|Tocolysis|
@@ -202,6 +201,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
+|D agonists||Dopamine: D > β<sub>1</sub> > α<sub>1</sub>|Inotrope|
 |D<sub>2</sub> agonists|Bromocriptine|Parkinson disease<br>Prolactinoma|
 ||Cabergoline|Parkinson disease<br>Prolactinoma|
 ||Pramipexole|Parkinson disease|
