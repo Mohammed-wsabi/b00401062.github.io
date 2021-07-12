@@ -361,9 +361,15 @@
 
 ## Neuroendocrine Tumors (NET)
 
-- Pituitary adenoma
-- Neuroblastoma
-- Paraganglioma
+### Ectodermal Origin
+|Origin|Tumors|
+|-|-|
+|Surface ectoderm|Craniopharyngioma<br>Pituitary adenoma|
+|Neuroectoderm ::<br>neural tube|Pinealoma|
+|Neuroectoderm ::<br>neural crest|Neuroblastoma<br>Pheochromocytoma<br>Paraganglioma|
+
+### Endodermal Orign
+
 - Medullary thyroid carcinoma
 - Parathyroid tumors
 - Carcinoid tumors
@@ -372,7 +378,6 @@
   - Insulinoma
   - Glucagonoma
   - VIPoma
-- Pheochromocytoma
 - Small cell carcinoma
 - Large cell carcinoma
 
