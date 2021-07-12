@@ -15,7 +15,7 @@
 
 - Horizontal [Cajal] cell
 - Granular cell
-- Pyramidal cell
+- Pyramidal cella
 - Fusiform cell
 - Martinotti cell
 
@@ -152,6 +152,10 @@
 - Arachnoid granulations
 
 ![](../Figures/Ventricular%20System%20of%20the%20Brain.png)
+
+## Arachnoid Granulation
+
+![](../Figures/Arachnoid%20Granulation.jpg)
 
 ## Groups of Cranial Nerves
 
