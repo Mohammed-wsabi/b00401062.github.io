@@ -73,6 +73,20 @@
 |Na-Cl sympoter blockers|Thiazide|Diuretics|
 |Na-I sympoter blockers|Thiocyanate<br>Perchlorate<br>Iodine|Hyperthyroidism|
 
+## Autonomic Effects {DUMBBELSS}
+
+|Cholingeric|Adrenergic|
+|-|-|
+|Diarrhea|Constipation|
+|Urinary incontinence|Urinary retention|
+|Miosis|Mydriasis<br>Cycloplegia|
+|Bronchoconstriction|Bronchodilation|
+|Bradycardia|Tachycardia|
+|Emesis|-|
+|Lacrimation|Xerophthalmia|
+|Salivation|Xerostomia|
+|Sweating|Sweating|
+
 ## Mechanisms of Action of Medications Targeting Cholinergic Neurons
 
 |Mechanism|Medication|Indications|
@@ -182,20 +196,6 @@
 ||Timolol|Arrhythmia<br>Glaucoma|
 |αβ antagonists|Carvedilol|Arrhythmia<br>Heart failure (HF)|
 ||Labetalol|Hypertension|
-
-## Cholinergic & Adrenergic Effects {DUMBBELSS}
-
-|Cholingeric|Adrenergic|
-|-|-|
-|Diarrhea|Constipation|
-|Urinary incontinence|Urinary retention|
-|Miosis|Mydriasis<br>Cycloplegia|
-|Bronchoconstriction|Bronchodilation|
-|Bradycardia|Tachycardia|
-|Emesis|-|
-|Lacrimation|Xerophthalmia|
-|Salivation|Xerostomia|
-|Sweating|Sweating|
 
 ## Mechanisms of Action of Medications Targeting Dopamine Receptor
 
