@@ -58,6 +58,7 @@
 
 |Marker|Tumors|
 |-|-|
+|5-HIAA|Carcinoid tumors|
 |ALP|Bone metastasis<br>Liver metastasis<br>Seminoma|
 |AFP|Hepatocellular carcinoma<br>Germ cell tumors (GCT)|
 |hCG|Hydatidiform moles<br>Germ cell tumors (GCT)|
