@@ -758,7 +758,7 @@
 
 ## Nervous System Tumors
 
-### Central Nervous System (CNS)
+### Central Nervous System (CNS) Tumors
 
 |Cell|Origin|Tumors|
 |-|-|-|
@@ -770,7 +770,7 @@
 |Neuroendocrine cells|Surface ectoderm|Craniopharyngioma<br>Pituitary adenoma|
 |Microglia|Mesoderm|-|
 
-### Peripheral Nervous System (PNS)
+### Peripheral Nervous System (PNS) Tumors
 
 |Cell|Origin|Tumors|
 |-|-|-|
