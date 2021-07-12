@@ -752,26 +752,34 @@
   - Dental infection
 - Direct innoculation
 
-## CNS & PNS Tumors
+## Nervous System Tumors
+
+### Central Nervous System (CNS)
 
 |Cell|Origin|Tumors|
 |-|-|-|
-|CNS neurons|Neuroectoderm|Medulloblastoma<br>Retinoblastoma|
+|Neurons|Neuroectoderm|Medulloblastoma<br>Retinoblastoma|
+|Neuroendocrine cells|Surface ectoderm|Craniopharyngioma<br>Pituitary adenoma|
 |Astrocytes|Neuroectoderm|Grade 1: Pilocytic astrocytoma<br>Grade 2: Fibrillary astrocytoma<br>Grade 3: Anaplastic astrocytoma<br>Grade 4: Glioblastoma multiforme|
 |Ependymal cells|Neuroectoderm|Ependymoma|
 |Oligodendrocytes|Neuroectoderm|Oligodendroglioma|
-|Endocrine cells|Surface ectoderm|Craniopharyngioma<br>Pituitary adenoma|
 |Microglia|Mesoderm|-|
-|PNS neurons|Neural crest|Neuroblastoma<br>Pheochromocytoma|
+
+### Peripheral Nervous System (PNS)
+
+|Cell|Origin|Tumors|
+|-|-|-|
+|Neurons|Neural crest|Neuroma<br>Ganglioneuroma|
+|Neuroendocrine cells|Surface ectoderm|Neuroblastoma<br>Pheochromocytoma<br>Paraganglioma|
 |Schwann cells|Neural crest|Schwannoma|
 
 ## Neural Crest Tumors
 
 - Neuroma
 - Ganglioneuroma
-- Paraganglioma
 - Neuroblastoma
 - Pheochromocytoma
+- Paraganglioma
 - Schwannoma
 - Neurofibroma
 - Melanoma
