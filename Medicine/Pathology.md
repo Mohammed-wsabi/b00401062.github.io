@@ -58,7 +58,7 @@
 |Intermediate filament|Keratin|Epithelial cells<br>Desmosome<br>Hemidesmosome|Carcinoma|
 ||Vimentin|Mesenchymal cells|Sarcoma|
 ||Desmin|Muscle cells|Myoma<br>Myosarcoma|
-||Neurofilament|Neurons|Neuroma<br>Neuroblastoma|
+||Neurofilament|Neurons|Neuroblastoma|
 ||GFAP|Glial cells|Glioma<br>Glioblastoma|
 |Microfilament|Actin|Adherens junction<br>Microvilli|-|
 ||Actin<br>Myosin<br>Tropomyosin|Muscle cells|-|
