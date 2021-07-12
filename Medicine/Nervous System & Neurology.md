@@ -771,7 +771,7 @@
 |-|-|-|
 |Neurons|Neural crest|Neuroma<br>Ganglioneuroma|
 |Schwann cells|Neural crest|Schwannoma|
-|Neuroendocrine cells|Surface ectoderm|Neuroblastoma<br>Pheochromocytoma<br>Paraganglioma|
+|Neuroendocrine cells|Neural crest|Neuroblastoma<br>Pheochromocytoma<br>Paraganglioma|
 
 ## Neural Crest Tumors
 
