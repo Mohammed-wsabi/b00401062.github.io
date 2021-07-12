@@ -71,6 +71,27 @@
 |Fixed|ASD|
 |Paradoxical|Aortic stenosis & LBBB|
 
+## Hormones Acting on Vessels
+
+<sub>1</sub>
+
+|Hormone|Receptor|Effect|
+|-|-|-|
+|Dopamine|D<sub>1</sub>|Vasodilation|
+|Norepinephrine|α<sub>1</sub>|Vasoconstriction|
+|Epinephrine|α<sub>1</sub>|Vasoconstriction|
+||β<sub>2</sub>|Vasodilation|
+|Serotonin|5-HT<sub>1</sub>|Vasoconstriction|
+|Histamine|H<sub>1</sub>|Vasodilation|
+|Vasopressin|V<sub>1</sub>|Vasoconstriction|
+|Prostaglandin|PGE<sub>1</sub>|Vasodilation|
+|Prostacyclin|PGI<sub>2</sub>|Vasodilation|
+|Thromboxane|TXA<sub>2</sub>|Vasoconstriction|
+|Bradykinin|B<sub>1</sub>|Vasodilation|
+|Angiotensin|AT<sub>1</sub>|Vasoconstriction|
+|Nitric oxide|-|Vasodilation|
+|Substance P|NK<sub>1</sub>|Vasodilation|
+
 ## Effects of Adrenergic Agents
 
 |Agent|CO|SVR|MAP|
