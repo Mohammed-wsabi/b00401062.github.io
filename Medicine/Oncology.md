@@ -95,7 +95,7 @@
 
 ## Presentation of Neurofibromatosis Type 2
 
-- Acoustic schwannomas :: bilateral
+- Vestibular schwannoma :: bilateral
 - Cataract
 - Meningioma
 - Ependymoma
