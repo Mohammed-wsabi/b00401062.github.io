@@ -759,10 +759,10 @@
 |Cell|Origin|Tumors|
 |-|-|-|
 |Neurons|Neuroectoderm|Medulloblastoma<br>Retinoblastoma|
-|Neuroendocrine cells|Surface ectoderm|Craniopharyngioma<br>Pituitary adenoma|
 |Astrocytes|Neuroectoderm|Grade 1: Pilocytic astrocytoma<br>Grade 2: Fibrillary astrocytoma<br>Grade 3: Anaplastic astrocytoma<br>Grade 4: Glioblastoma multiforme|
 |Ependymal cells|Neuroectoderm|Ependymoma|
 |Oligodendrocytes|Neuroectoderm|Oligodendroglioma|
+|Neuroendocrine cells|Surface ectoderm|Craniopharyngioma<br>Pituitary adenoma|
 |Microglia|Mesoderm|-|
 
 ### Peripheral Nervous System (PNS)
@@ -770,8 +770,8 @@
 |Cell|Origin|Tumors|
 |-|-|-|
 |Neurons|Neural crest|Neuroma<br>Ganglioneuroma|
-|Neuroendocrine cells|Surface ectoderm|Neuroblastoma<br>Pheochromocytoma<br>Paraganglioma|
 |Schwann cells|Neural crest|Schwannoma|
+|Neuroendocrine cells|Surface ectoderm|Neuroblastoma<br>Pheochromocytoma<br>Paraganglioma|
 
 ## Neural Crest Tumors
 
