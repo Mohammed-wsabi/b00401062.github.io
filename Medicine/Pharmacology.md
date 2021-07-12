@@ -201,7 +201,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|D agonists||Dopamine: D > β<sub>1</sub> > α<sub>1</sub>|Inotrope|
+|D agonists|Dopamine: D > β<sub>1</sub> > α<sub>1</sub>|Inotrope|
 |D<sub>2</sub> agonists|Bromocriptine|Parkinson disease<br>Prolactinoma|
 ||Cabergoline|Parkinson disease<br>Prolactinoma|
 ||Pramipexole|Parkinson disease|
