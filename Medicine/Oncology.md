@@ -70,7 +70,7 @@
 |Desmin|Myoma<br>Myosarcoma|
 |GFAP|Glioma<br>Glioblastoma<br>Schwannoma|
 |hCG|Hydatidiform moles<br>Germ cell tumors (GCT)|
-|HVA & VMA|Pheochromocytoma|
+|HVA<br>VMA|Pheochromocytoma|
 |Keratin|Carcinoma|
 |Neurofilament|Neuroblastoma|
 |PSA|Prostate cancer|
