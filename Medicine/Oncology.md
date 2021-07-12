@@ -70,11 +70,19 @@
 |Desmin|Myoma<br>Myosarcoma|
 |GFAP|Glioma<br>Glioblastoma<br>Schwannoma|
 |Keratin|Carcinoma|
-|Neurofilament|Neuroma<br>Neuroblastoma<br>Neuroendocrine tumors (NET)|
+|Neurofilament|Neuroblastoma<br>Neuroendocrine tumors (NET)|
 |PSA|Prostate cancer|
 |S-100|Neural crest tumors<br>Histiocytosis|
 |TRAP|Hairy cell leukemia|
 |Vimentin|Sarcoma|
+
+## Embryonal Tumors
+
+- Neuroblastoma
+- Medulloblastoma
+- Pineoblastoma
+- Retinoblastoma
+- Nephroblastoma
 
 ## Common Metastases to Bone
 
