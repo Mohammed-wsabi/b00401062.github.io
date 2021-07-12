@@ -70,7 +70,7 @@
 |Desmin|Myoma<br>Myosarcoma|
 |GFAP|Glioma<br>Glioblastoma<br>Schwannoma|
 |Keratin|Carcinoma|
-|Neurofilament|Neuroblastoma<br>Neuroendocrine tumors (NET)|
+|Neurofilament|Neuroblastoma|
 |PSA|Prostate cancer|
 |S-100|Neural crest tumors<br>Histiocytosis|
 |TRAP|Hairy cell leukemia|
