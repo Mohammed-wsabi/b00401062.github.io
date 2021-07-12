@@ -756,11 +756,11 @@
 
 |Cell|Origin|Tumors|
 |-|-|-|
-|CNS neuron|Neuroectoderm|PNET:<br>Medulloblastoma<br>Retinoblastoma|
-|Astrocyte|Neuroectoderm|Grade 1: Pilocytic astrocytoma<br>Grade 2: Fibrillary astrocytoma<br>Grade 3: Anaplastic astrocytoma<br>Grade 4: Glioblastoma multiforme|
-|Ependymal cell|Neuroectoderm|Ependymoma|
-|Oligodendrocyte|Neuroectoderm|Oligodendroglioma|
-|Endocrine cell|Surface ectoderm|Craniopharyngioma<br>Pituitary adenoma|
+|CNS neurons|Neuroectoderm|Medulloblastoma<br>Retinoblastoma|
+|Astrocytes|Neuroectoderm|Grade 1: Pilocytic astrocytoma<br>Grade 2: Fibrillary astrocytoma<br>Grade 3: Anaplastic astrocytoma<br>Grade 4: Glioblastoma multiforme|
+|Ependymal cells|Neuroectoderm|Ependymoma|
+|Oligodendrocytes|Neuroectoderm|Oligodendroglioma|
+|Endocrine cells|Surface ectoderm|Craniopharyngioma<br>Pituitary adenoma|
 |Microglia|Mesoderm|-|
-|PNS neuron|Neural crest|-|
-|Schwann cell|Neural crest|Schwannoma|
+|PNS neurons|Neural crest|Neuroblastoma<br>Pheochromocytoma|
+|Schwann cells|Neural crest|Schwannoma|
