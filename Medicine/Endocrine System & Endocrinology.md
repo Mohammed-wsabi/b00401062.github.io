@@ -139,7 +139,8 @@
 - Stones
 - Renal stones
 - Bones
-- Osteitis fibrosa cystica & Brown tumor
+- Brown tumor
+- Osteitis fibrosa cystica
 - Groans
 - Constipation
 - Psychiatric overtones
@@ -358,17 +359,34 @@
 - Hyperreflexia
 - Myoclonus
 
+## Neuroendocrine Tumors (NET)
+
+- Pituitary adenoma
+- Neuroblastoma
+- Paraganglioma
+- Medullary thyroid carcinoma
+- Parathyroid tumors
+- Carcinoid tumors
+- Gastrinoma
+- Islet cell tumors
+  - Insulinoma
+  - Glucagonoma
+  - VIPoma
+- Pheochromocytoma
+- Small cell carcinoma
+- Large cell carcinoma
+
 ## Multiple Endocrine Neoplasias (MEN)
 
 ### MEN Type 1
 
 - Pituitary adenoma
-- Parathyroid adenoma
+- Parathyroid tumors
 - Pancreatic endocrine tumors
 
 ### MEN Type 2A
 
-- Parathyroid adenoma
+- Parathyroid tumors
 - Medullary thyroid carcinoma
 - Pheochromocytoma
 
