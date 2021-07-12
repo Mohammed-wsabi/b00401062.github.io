@@ -758,10 +758,11 @@
 
 |Cell|Origin|Tumors|
 |-|-|-|
-|Neurons|Neuroectoderm|Medulloblastoma<br>Retinoblastoma|
-|Astrocytes|Neuroectoderm|Grade 1: Pilocytic astrocytoma<br>Grade 2: Fibrillary astrocytoma<br>Grade 3: Anaplastic astrocytoma<br>Grade 4: Glioblastoma multiforme|
-|Ependymal cells|Neuroectoderm|Ependymoma|
-|Oligodendrocytes|Neuroectoderm|Oligodendroglioma|
+|Neurons|Neural tube|Medulloblastoma<br>Retinoblastoma|
+|Astrocytes|Neural tube|Grade 1: Pilocytic astrocytoma<br>Grade 2: Fibrillary astrocytoma<br>Grade 3: Anaplastic astrocytoma<br>Grade 4: Glioblastoma multiforme|
+|Ependymal cells|Neural tube|Ependymoma|
+|Oligodendrocytes|Neural tube|Oligodendroglioma|
+|Neuroendocrine cells|Neural tube|Pinealoma|
 |Neuroendocrine cells|Surface ectoderm|Craniopharyngioma<br>Pituitary adenoma|
 |Microglia|Mesoderm|-|
 
