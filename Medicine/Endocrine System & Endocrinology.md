@@ -362,11 +362,12 @@
 ## Neuroendocrine Tumors (NET)
 
 ### Ectodermal Origin
+
 |Origin|Tumors|
 |-|-|
 |Surface ectoderm|Craniopharyngioma<br>Pituitary adenoma|
 |Neuroectoderm ::<br>neural tube|Pinealoma|
-|Neuroectoderm ::<br>neural crest|Neuroblastoma<br>Pheochromocytoma<br>Paraganglioma|
+|Neuroectoderm ::<br>neural crest|Pheochromocytoma<br>Paraganglioma|
 
 ### Endodermal Orign
 
