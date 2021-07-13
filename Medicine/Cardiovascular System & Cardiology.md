@@ -76,19 +76,20 @@
 |Hormone|Receptor|Effect|
 |-|-|-|
 |Norepinephrine|α<sub>1</sub>|Vasoconstriction|
-|Epinephrine|α<sub>1</sub>|Vasoconstriction|
-||β<sub>2</sub>|Vasodilation|
+|Epinephrine|β<sub>2</sub>|Vasodilation|
+||α<sub>1</sub>|Vasoconstriction|
 |Dopamine|D<sub>1</sub>|Vasodilation|
+||α<sub>1</sub>|Vasoconstriction|
 |Serotonin|5-HT<sub>1</sub>|Vasoconstriction|
 |Histamine|H<sub>1</sub>|Vasodilation|
 |Vasopressin|V<sub>1</sub>|Vasoconstriction|
+|Angiotensin|AT<sub>1</sub>|Vasoconstriction|
 |Prostaglandin|PGE<sub>1</sub>|Vasodilation|
 |Prostacyclin|PGI<sub>2</sub>|Vasodilation|
 |Thromboxane|TXA<sub>2</sub>|Vasoconstriction|
 |Bradykinin|B<sub>1</sub>|Vasodilation|
-|Angiotensin|AT<sub>1</sub>|Vasoconstriction|
-|Nitric oxide|-|Vasodilation|
 |Substance P|NK<sub>1</sub>|Vasodilation|
+|Nitric oxide|-|Vasodilation|
 
 ## Effects of Adrenergic Receptors
 
