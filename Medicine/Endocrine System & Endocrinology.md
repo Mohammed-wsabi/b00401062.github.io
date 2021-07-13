@@ -4,7 +4,8 @@
 
 |Hypothalamus|Pituitary|Periphery|
 |-|-|-|
-|TRH|↑ TSH & PRL|TH|
+|TRH|↑ TSH|TH|
+||↑ PRL|Milk|
 |CRH|↑ ACTH|Glucocorticoid|
 ||↑ MSH|Melanin|
 |GnRH|↑ LH & FSH|SH|
@@ -16,10 +17,18 @@
 
 ## Endocrine Glands
 
+### Central
+
+|Gland|Hormone|Effect|
+|-|-|-|
+|Hypothalamus|Vasopressin|↓ Na & ↑ BP|
+||Oxytocin|↑ Contraction|
+|Pineal|Melatonin|Circadian rhythm|
+
+### Peripheral
+
 |Endocrine Gland|1° Hormones|2° Stimulation|3° Stimulation|Effect|
 |-|-|-|-|-|
-|Hypothalamus|Vasopressin|-|-|↓ Na & ↑ BP|
-||Oxytocin|-|-|↑ Contraction|
 |Thyroid|TH|↑ TSH|↑ TRH|↑ Metabolism|
 ||Calcitonin|-|-|↓ Ca|
 |Parathyroid|PTH|-|-|↑ Ca & ↓ Phosphate|
