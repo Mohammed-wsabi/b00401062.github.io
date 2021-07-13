@@ -31,7 +31,7 @@
 
 ## Hormones Acting on Kidney
 
-|Hormones|Locations|Effect|
+|Hormone|Locations|Effect|
 |-|-|-|
 |ANP|Arterioles|Vasodilation|
 |Catecholamine|Arterioles|Vasoconstriction|
