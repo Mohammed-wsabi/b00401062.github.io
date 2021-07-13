@@ -190,6 +190,13 @@
 |Cremasteric reflex|-|+|
 |Blood flow|↓|↑|
 
+## Mechanisms of Action of Medications for BPH
+
+|Mechanism|Medication|
+|-|-|
+|α<sub>1</sub> antagonists|Tamsulosin<br>Terazosin<br>Doxazosin<br>Prazosin|
+|5α-Reductase inhibitors|Finasteride|
+
 ## Reproductive Tumors
 
 ### Epithelial Tumors
