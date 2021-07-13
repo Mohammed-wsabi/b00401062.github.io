@@ -363,10 +363,9 @@
 - Parathyroid tumors
 - Carcinoid tumors
 - Gastrinoma
-- Islet cell tumors
-  - Insulinoma
-  - Glucagonoma
-  - VIPoma
+- VIPoma
+- Insulinoma
+- Glucagonoma
 - Small cell carcinoma
 - Large cell carcinoma
 
