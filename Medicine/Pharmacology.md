@@ -120,12 +120,14 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|NE reuptake inhibitors|Cocaine|Anesthesia|
-||Atomoxetine<br>Amphetamine<br>Methylphenidate<br>Modafinil|ADHD<br>Narcolepsy|
+|NRI|Atomoxetine|ADHD|
+||Cocaine|-|
+|DRI|Modafinil|Narcolepsy|
 |TCA|Triptylines<br>Pramines|Neuropathic pain<br>Depression<br>Anxiety<br>OCD|
 |SSRI|Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|Depression<br>Anxiety<br>OCD|
 |SNRI|Venlafaxine<br>Duloxetine|Depression<br>Anxiety<br>OCD|
-|NDRI|Bupropion|Depression<br>Smoking cessation|
+|NDRI|Amphetamine<br>Methylphenidate|ADHD<br>Narcolepsy|
+||Bupropion|Depression<br>Smoking cessation|
 
 ## Mechanisms of Action of Cholinergic Agonists
 
