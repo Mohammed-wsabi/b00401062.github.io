@@ -64,16 +64,21 @@
 
 ## Neurotransmitters and Hormones in Brain
 
-|Secretion|Location|
-|-|-|
-|Acetylcholine|Basal nucleus of Meynert|
-|Dopamine|Ventral tegmentum<br>Substantia nigra|
-|Norepinephrine|Nucleus ceruleus|
-|Serotonin|Raphe nucleus|
-|GABA|Nucleus accumbens|
-|Vasopressin|Supraoptic nucleus|
-|Oxytocin|Paraventricular nucleus|
-|Melatonin|Pineal gland|
+
+## Neurotransmitters and Metabolites
+
+|Neurotransmitter|Location|Precursor|Metabolites|
+|-|-|-|-|
+|Acetylcholine|Basal nucleus of Meynert|-|Acetate & Choline|
+|Dopamine|Ventral tegmentum<br>Substantia nigra|Tyrosine|Homovanillic acid (HVA)|
+|Norepinephrine|Nucleus ceruleus|Tyrosine|Vanillylmandelic acid (VMA)|
+|Epinephrine|Adrenal medulla|Tyrosine|Vanillylmandelic acid (VMA)|
+|Serotonin|Raphe nucleus|Tryptophan|5-hydroxyindoleacetic acid (5-HIAA)|
+|Histamine|-|Histidine|-|
+|Glutamate|-|Glutamate|-|
+|GABA|Nucleus accumbens|Glutamate|-|
+|Glycine|-|Glycine|-|
+|Opioid|-|-|-|
 
 ## Cerebellum
 
