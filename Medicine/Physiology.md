@@ -129,7 +129,11 @@
 |Sphincter pupillae|Miosis|
 |Sexual function|Erection|
 
-## Signalling Pathways of Neurotransmitters
+![](../Figures/Autonomic%20Nervous%20System.png)
+
+## Signalling Pathways
+
+### Neurotransmitters
 
 |Pathways|Receptors|
 |-|-|
@@ -140,6 +144,20 @@
 |Receptor tyrosine kinase (RTK): AMPK pathway|-|
 |Non-receptor tyrosine kinase (NRTK): JAK/STAT pathway|-|
 |Steroid receptor|-|
+
+### Hormones
+
+|Pathway|Receptors|
+|-|-|
+|Ionotropic receptor|-|
+|G<sub>q</sub>PCR|TRH & GnRH & V<sub>1</sub> & Oxytocin|
+|G<sub>s</sub>PCR|CRH & GHRH & V<sub>2</sub>|
+||TSH & ACTH & LH & FSH|
+||Calcitonin & PTH & Glucagon|
+|G<sub>i</sub>PCR|-|
+|Receptor tyrosine kinase (RTK): AMPK pathway|Insulin & GF|
+|Non-receptor tyrosine kinase (NRTK): JAK/STAT pathway|GH & PRL & Cytokines|
+|Steroid receptor|TH & Mineralocorticoid & Glucocorticoid & SH|
 
 ## Neurotransmitters and Metabolites
 
