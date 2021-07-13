@@ -171,14 +171,6 @@
 - Intermittent explosive disorder
 - Conduct disorder
 
-## Treatment of ADHD
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|NE reuptake inhibitors|Atomoxetine<br>Amphetamine<br>Methylphenidate<br>Modafinil|ADHD|
-||TCA & NDRI|ADHD|
-|α<sub>2</sub> agonists|Clonidine|ADHD|
-
 ## Types of Delusions
 
 - Delusion of control
@@ -300,6 +292,15 @@
 |GABA-A agonists|Benzodiazepines|
 |5-HT<sub>1</sub> agonists|Buspirone|
 |β antagonists|Propranolol|
+
+## Treatment of ADHD
+
+|Mechanism|Medication|
+|-|-|
+|NE reuptake inhibitors|Atomoxetine<br>Amphetamine<br>Methylphenidate<br>Modafinil|
+|TCA|Triptylines<br>Pramines|
+|NDRI|Bupropion|
+|α<sub>2</sub> agonists|Clonidine|
 
 ## Mechanisms of Action of Medications for Tourette Syndrome
 
