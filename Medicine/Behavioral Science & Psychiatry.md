@@ -228,7 +228,7 @@
 - Enzyme elevation :: creatine kinase (CK)
 - Rigidity
 
-## Treatment of Neuroleptic Malignant Syndrome (NMS)
+## Mechanisms of Action of Medications for NMS
 
 |Mechanism|Medication|
 |-|-|
