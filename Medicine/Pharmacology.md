@@ -159,18 +159,18 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|α<sub>1</sub> agonists|Norepinephrine: α<sub>1</sub> > β<sub>1</sub>|Hypotension|
+|α<sub>1</sub> agonists|Norepinephrine|Hypotension|
 ||Phenylephrine|Hypotension<br>Decongestant|
 ||Midodrine|Hypotension|
 |α<sub>2</sub> agonists|Clonidine|Hypertension<br>Attention-deficit hyperactivity disorder (ADHD)<br>Tourette syndrome<br>Opioid withdrawal|
 ||Brimonidine|Glaucoma|
 ||Methyldopa|Hypertension (HTN)|
-|β<sub>1</sub> agonists|Dobutamine: β<sub>1</sub> > β<sub>2</sub>|Inotrope|
+|β<sub>1</sub> agonists|Dobutamine|Inotrope|
 |β<sub>2</sub> agonists|Albuterol|Asthma :: acute|
 ||Salmeterol<br>Formoterol|Asthma :: chronic|
 ||Terbutaline<br>Ritodrine|Tocolysis|
-|β agonists|Epinephrine: β > α<sub>1</sub>|Hypotension<br>Asthma|
-||Isoproterenol: β<sub>1</sub> = β<sub>2</sub>|-|
+|β agonists|Epinephrine|Hypotension<br>Asthma|
+||Isoproterenol|-|
 
 ## Mechanisms of Action of Adrenergic Antagonists
 
@@ -201,7 +201,8 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|D agonists|Dopamine: D > β<sub>1</sub> > α<sub>1</sub>|Inotrope|
+|D agonists|Dopamine|Inotrope|
+|D<sub>1</sub> agonists|Fenoldopam|Hypertension|
 |D<sub>2</sub> agonists|Bromocriptine|Parkinson disease<br>Prolactinoma|
 ||Cabergoline|Parkinson disease<br>Prolactinoma|
 ||Pramipexole|Parkinson disease|
