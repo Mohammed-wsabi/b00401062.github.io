@@ -62,21 +62,6 @@
 |Supraoptic|Vasopressin|
 |Paraventricular|Oxytocin|
 
-## Neurotransmitters
-
-|Neurotransmitter|Location|Precursor|Metabolites|
-|-|-|-|-|
-|Acetylcholine|Basal nucleus of Meynert|-|Acetate & Choline|
-|Dopamine|Ventral tegmentum<br>Substantia nigra|Tyrosine|Homovanillic acid (HVA)|
-|Norepinephrine|Nucleus ceruleus|Tyrosine|Vanillylmandelic acid (VMA)|
-|Epinephrine|Adrenal medulla|Tyrosine|Vanillylmandelic acid (VMA)|
-|Serotonin|Raphe nucleus|Tryptophan|5-hydroxyindoleacetic acid (5-HIAA)|
-|Histamine|-|Histidine|-|
-|Glutamate|-|Glutamate|-|
-|GABA|Nucleus accumbens|Glutamate|-|
-|Glycine|-|Glycine|-|
-|Opioid|-|-|-|
-
 ## Cerebellum
 
 ### Layers
@@ -197,27 +182,6 @@
 - Vestibulospinal tract
 - Reticulospinal tract
 
-## Cranial Nerve Reflexes
-
-|Reflex|Afferent|Efferent|
-|-|-|-|
-|Pupillary|CN II|CN III|
-|Corneal|CN V<sub>1</sub>|CN VII|
-|Lacrimation|CN V<sub>1</sub>|CN VII|
-|Jaw jerk|CN V<sub>3</sub>|CN VII|
-|Vestibulo-ocular|CN VIII|CN III & IV & VI|
-|Acoustic|CN VIII|CN VII|
-|Gag|CN IX|CN X|
-
-## Primitive Reflexes
-
-- Moro reflex
-- Rooting reflex
-- Sucking reflex
-- Galant reflex
-- Palmar reflex
-- Plantar reflex
-
 ## Spinal Tracts
 
 |Tract|Side|Functions|
@@ -281,17 +245,6 @@
 |Lumbosacral plexus|T12 ~ S4|
 |Lumbar puncture|L3 ~ L5|
 
-## Demyelinating Diseases
-
-- Multiple sclerosis
-- Central pontine myelinolysis (CPM)
-- Progressive multifocal leukoencephalopathy (PML)
-- Tabes dorsalis
-- Subacute combined degeneration (SCD)
-- Leukodystrophies
-- Guillain-Barre syndrome
-- Charcot-Marie-Tooth disease
-
 ## Afferent Neurons
 
 |Neuron|Fiber|Mnemonic|Sensation|
@@ -301,9 +254,21 @@
 |III|A-δ|Stress|Sharp pain<br>Cold|
 |IV|C|Disorder|Dull pain<br>Warm|
 
-## Nerve Roots & Motor Functions
+## Cranial Nerve Reflexes
 
-|Nerve root|Motor functions|Reflex|
+|Reflex|Afferent|Efferent|
+|-|-|-|
+|Pupillary|CN II|CN III|
+|Corneal|CN V<sub>1</sub>|CN VII|
+|Lacrimation|CN V<sub>1</sub>|CN VII|
+|Jaw jerk|CN V<sub>3</sub>|CN VII|
+|Vestibulo-ocular|CN VIII|CN III & IV & VI|
+|Acoustic|CN VIII|CN VII|
+|Gag|CN IX|CN X|
+
+## Spinal Nerve Motor Functions and Reflexes
+
+|Nerve|Motor Function|Reflex|
 |-|-|-|
 |C5|Elbow flexion|Biceps reflex<br>Brachioradialis reflex|
 |C6|Wrist extension|-|
@@ -315,6 +280,15 @@
 |L4|Ankle dorsiflexion|Patellar reflex|
 |L5|Big toe extension|-|
 |S1|Ankle plantar flexion<br>Hip extension|Achilles reflex|
+
+## Primitive Reflexes
+
+- Moro reflex
+- Rooting reflex
+- Sucking reflex
+- Galant reflex
+- Palmar reflex
+- Plantar reflex
 
 ## Factors Affecting Cerebral Blood Flow
 
@@ -456,18 +430,16 @@
 - Suspected brain abscess
 - Bleeding tendency
 
-## Spinal Cord Lesions
+## Demyelinating Diseases
 
-|Lesion|Dorsal Column|Spinothalamic|Corticospinal|Anterior Horn|
-|-|-|-|-|-|
-|Syringomyelia|-|-|-|-|
-|Poliomyelitis|-|-|-|+|
-|Spinal muscular atrophy (SMA)|-|-|-|+|
-|Amyotrophic lateral sclerosis (ALS)|-|-|+|+|
-|Tabes dorsalis|+|-|-|-|
-|Subacute combined degeneration (SCD)|+|-|+|-|
-|Anterior spinal artery syndrome|-|+|+|+|
-|Brown-Sequard syndrome|+|+|+|+|
+- Multiple sclerosis
+- Central pontine myelinolysis (CPM)
+- Progressive multifocal leukoencephalopathy (PML)
+- Tabes dorsalis
+- Subacute combined degeneration (SCD)
+- Leukodystrophies
+- Guillain-Barre syndrome
+- Charcot-Marie-Tooth disease
 
 ## Charcot Triad of Multiple Sclerosis {SIN}
 
@@ -502,6 +474,19 @@
 |CD20 inhibitors|Ocrelizumab|Multiple sclerosis|
 |CD52 inhibitors|Alemtuzumab|Multiple sclerosis|
 |α4-integrin inhibitors|Natalizumab|Multiple sclerosis|
+
+## Spinal Cord Lesions
+
+|Lesion|Dorsal Column|Spinothalamic|Corticospinal|Anterior Horn|
+|-|-|-|-|-|
+|Syringomyelia|-|-|-|-|
+|Poliomyelitis|-|-|-|+|
+|Spinal muscular atrophy (SMA)|-|-|-|+|
+|Amyotrophic lateral sclerosis (ALS)|-|-|+|+|
+|Tabes dorsalis|+|-|-|-|
+|Subacute combined degeneration (SCD)|+|-|+|-|
+|Anterior spinal artery syndrome|-|+|+|+|
+|Brown-Sequard syndrome|+|+|+|+|
 
 ## Classic Triad of Wernicke Encephalopathy {CAO}
 
