@@ -172,18 +172,3 @@
 |Receptor tyrosine kinase (RTK): AMPK pathway|Insulin & GF|
 |Non-receptor tyrosine kinase (NRTK): JAK/STAT pathway|GH & PRL & Cytokines|
 |Steroid receptor|TH & Mineralocorticoid & Glucocorticoid & SH|
-
-## Neurotransmitters and Metabolites
-
-|Neurotransmitter|Precursor|Metabolites|
-|-|-|-|
-|Acetylcholine|-|Acetate & Choline|
-|Dopamine|Tyrosine|Homovanillic acid (HVA)|
-|Norepinephrine|Tyrosine|Vanillylmandelic acid (VMA)|
-|Epinephrine|Tyrosine|Vanillylmandelic acid (VMA)|
-|Serotonin|Tryptophan|5-hydroxyindoleacetic acid (5-HIAA)|
-|Histamine|Histidine|-|
-|Glutamate|Glutamate|-|
-|GABA|Glutamate|-|
-|Glycine|Glycine|-|
-|Opioid|-|-|
