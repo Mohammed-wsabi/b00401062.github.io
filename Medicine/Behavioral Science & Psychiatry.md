@@ -293,7 +293,7 @@
 |TCA|Triptylines<br>Pramines|
 |SSRI|Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|
 |SNRI|Venlafaxine<br>Duloxetine|
-|MAO inhibitors|
+|MAO inhibitors|Tranylcypromine<br>Phenelzine<br>Isocarboxazid<br>Selegiline|
 |5-HT<sub>1</sub> agonists|Buspirone|
 |β antagonists|Propranolol|
 |GABA-A agonists|Benzodiazepines|
