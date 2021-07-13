@@ -9,7 +9,7 @@
 ||↑ MSH|Melanin|
 |GnRH|↑ LH & FSH|SH|
 |GHRH|↑ GH|IGF-1|
-|Somatostatin|↓ GH & TSH & 5-HT|-|
+|Somatostatin|↓ GH & TSH|-|
 |Dopamine|↓ TSH & PRL|-|
 |Vasopressin|↑ ACTH|-|
 |Oxytocin|-|-|
