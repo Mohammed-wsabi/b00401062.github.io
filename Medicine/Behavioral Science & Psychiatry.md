@@ -328,14 +328,14 @@
 |Mechanism|Medication|
 |-|-|
 |NE reuptake inhibitors|Atomoxetine<br>Amphetamine<br>Methylphenidate<br>Modafinil|
-|α<sub>2</sub> agonists|Clonidine|
+|α<sub>2</sub> agonists|Clonidine<br>Guanfacine|
 
 ## Mechanisms of Action of Medications for Tourette Syndrome
 
 |Mechanism|Medication|
 |-|-|
 |Vesicular transporter inhibitors|Tetrabenazine|
-|α<sub>2</sub> agonists|Clonidine|
+|α<sub>2</sub> agonists|Clonidine<br>Guanfacine|
 |D<sub>2</sub> antagonists|Antipsychotics|
 
 ## Somatic Disorders
