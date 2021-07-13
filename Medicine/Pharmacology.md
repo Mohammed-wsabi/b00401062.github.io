@@ -68,7 +68,7 @@
 ||Gabapentin<br>Pregabalin|Seizure<br>Neuropathic pain|
 |Na-K pump blockers|Digoxin<br>Digitalis|Arrhythmia<br>Inotrope|
 ||Ouabain|-|
-|H-K pump blockers<br>[Proton pump inhibitors (PPI)]|-Prazoles|Peptic ulcer disease (PUD)|
+|H-K pump blockers<br>[Proton pump inhibitors (PPI)]|-Prazoles|PUD|
 |Na-K-2Cl sympoter blockers|Loop diuretics:<br>Furosemide<br>Bumetanide<br>Torsemide|Diuretics|
 |Na-Cl sympoter blockers|Thiazide|Diuretics|
 |Na-I sympoter blockers|Thiocyanate<br>Perchlorate<br>Iodine|Hyperthyroidism|
@@ -230,7 +230,7 @@
 ||2° Antihistamines:<br>Cetirizine<br>Fexofenadine<br>Loratadine|Allergy|
 ||Antipsychotics|-|
 ||Antidepressants :: TCA|-|
-|H<sub>2</sub> antagonists|Cimetidine<br>Ranitidine<br>Famotidine<br>Nizatidine|Peptic ulcer disease (PUD)|
+|H<sub>2</sub> antagonists|Cimetidine<br>Ranitidine<br>Famotidine<br>Nizatidine|PUD|
 
 ## Mechanisms of Action of Medications Targeting Glutamate Receptor
 
@@ -304,18 +304,18 @@
 |LH agonists|Lutropin<br>Menotropin|Infertility|
 |FSH agonists|Follitropin<br>Menotropin|Infertility|
 |hCG agonists|Choriogonadotropin|Infertility|
-|Estrogen agonists|Diethylstilbestrol (DES)<br>Mestranol|Hormone replacement therapy (HRT)<br>Contraception|
+|Estrogen agonists|Diethylstilbestrol (DES)<br>Mestranol|HRT<br>Contraception|
 |Estrogen modulators|Clomiphene|Anovulation|
 ||Tamoxifen|Breast cancer|
 ||Raloxifene|Breast cancer<br>Osteoporosis|
-|Progesterone agonists|Progestin<br>Medroxyprogesterone<br>Norethindrone<br>Desogestrel|Hormone replacement therapy (HRT)<br>Contraception|
+|Progesterone agonists|Progestin<br>Medroxyprogesterone<br>Norethindrone<br>Desogestrel|HRT<br>Contraception|
 |Progesterone antagonists|Mifepristone [RU486]|Abortion|
 |Aromatase inhibitors|Anastrozole<br>Letrozole<br>Exemestane|Breast cancer<br>Anovulation|
-|Androgen agonists|Methyltestosterone|Hormone replacement therapy (HRT)|
+|Androgen agonists|Methyltestosterone|HRT|
 ||Danazol|Endometriosis|
 |Androgen antagonists|Flutamide<br>Bicalutamide|Prostate cancer|
 |5α-Reductase inhibitors|Finasteride|BPH<br>Alopecia|
-|Androgen synthesis inhibitors|Ketoconazole<br>Spironolactone|Polycystic ovary syndrome (PCOS)|
+|Androgen synthesis inhibitors|Ketoconazole<br>Spironolactone|PCOS|
 
 ## Mechanisms of Action of Medications Targeting Mineralocorticoid
 
@@ -344,7 +344,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|PGE<sub>1</sub> agonists|Misoprostol|Labor<br>Abortion<br>Peptic ulcer disease (PUD)|
+|PGE<sub>1</sub> agonists|Misoprostol|Labor<br>Abortion<br>PUD|
 ||Alprostadil|Impotence<br>PDA maintenance|
 |PGF<sub>2</sub> agonists|Latanoprost|Glaucoma|
 |PGI<sub>2</sub> agonists|Epoprostenol|Pulmonary hypertension|
