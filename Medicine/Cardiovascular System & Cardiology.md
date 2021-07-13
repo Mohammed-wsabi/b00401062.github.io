@@ -73,8 +73,6 @@
 
 ## Hormones Acting on Vessels
 
-<sub>1</sub>
-
 |Hormone|Receptor|Effect|
 |-|-|-|
 |Dopamine|D<sub>1</sub>|Vasodilation|
