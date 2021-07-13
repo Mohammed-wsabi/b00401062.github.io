@@ -259,10 +259,8 @@
 
 |Mechanism|Medication|
 |-|-|
-|TCA|Triptylines<br>Pramines|
-|SSRI|Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|
-|SNRI|Venlafaxine<br>Duloxetine|
-|NDRI|Bupropion|
+|Reuptake inhibitors|TCA<br>SSRI<br>SNRI|
+||NDRI :: Bupropion|
 |MAO inhibitors|Tranylcypromine<br>Phenelzine<br>Isocarboxazid<br>Selegiline|
 |α<sub>2</sub> antagonists|Mirtazapine|
 |5-HT modulators|Trazodone|
@@ -299,9 +297,7 @@
 
 |Mechanism|Medication|
 |-|-|
-|TCA|Triptylines<br>Pramines|
-|SSRI|Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|
-|SNRI|Venlafaxine<br>Duloxetine|
+|Reuptake inhibitors|TCA<br>SSRI<br>SNRI|
 |MAO inhibitors|Tranylcypromine<br>Phenelzine<br>Isocarboxazid<br>Selegiline|
 |β antagonists|Propranolol|
 |5-HT<sub>1</sub> agonists|Buspirone|
@@ -319,15 +315,14 @@
 
 |Mechanism|Medication|
 |-|-|
-|TCA|Triptylines<br>Pramines|
-|SSRI|Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|
-|SNRI|Venlafaxine<br>Duloxetine|
+|Reuptake inhibitors|TCA<br>SSRI<br>SNRI|
 
 ## Mechanisms of Action of Medications for ADHD
 
 |Mechanism|Medication|
 |-|-|
-|NE reuptake inhibitors|Atomoxetine<br>Amphetamine<br>Methylphenidate<br>Modafinil|
+|Reuptake inhibitors|NRI :: Atomoxetine|
+||NDRI ::<br>Amphetamine<br>Methylphenidate|
 |α<sub>2</sub> agonists|Clonidine<br>Guanfacine|
 
 ## Mechanisms of Action of Medications for Tourette Syndrome
