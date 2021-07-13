@@ -122,10 +122,10 @@
 |-|-|-|
 |NE reuptake inhibitors|Cocaine|Anesthesia|
 ||Atomoxetine<br>Amphetamine<br>Methylphenidate<br>Modafinil|ADHD<br>Narcolepsy|
-|TCA|Triptylines<br>Pramines|Neuropathic pain<br>Depression<br>Anxiety<br>OCD<br>ADHD|
+|TCA|Triptylines<br>Pramines|Neuropathic pain<br>Depression<br>Anxiety<br>OCD|
 |SSRI|Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|Depression<br>Anxiety<br>OCD|
 |SNRI|Venlafaxine<br>Duloxetine|Depression<br>Anxiety<br>OCD|
-|NDRI|Bupropion|Depression<br>ADHD<br>Smoking cessation|
+|NDRI|Bupropion|Depression<br>Smoking cessation|
 
 ## Mechanisms of Action of Cholinergic Agonists
 
