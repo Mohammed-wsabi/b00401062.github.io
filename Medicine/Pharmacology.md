@@ -161,7 +161,7 @@
 |-|-|-|
 |α<sub>1</sub> agonists|Phenylephrine|Hypotension<br>Decongestant|
 ||Midodrine|Hypotension|
-|α<sub>2</sub> agonists|Clonidine|Hypertension<br>ADHD<br>Tourette syndrome<br>Opioid withdrawal|
+|α<sub>2</sub> agonists|Clonidine<br>Guanfacine|Hypertension<br>ADHD<br>Tourette syndrome<br>Opioid withdrawal|
 ||Brimonidine|Glaucoma|
 ||Methyldopa|Hypertension|
 |β<sub>1</sub> agonists|Dobutamine|Inotrope|
