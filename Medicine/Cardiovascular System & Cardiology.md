@@ -82,8 +82,8 @@
 ||α<sub>1</sub>|Vasoconstriction|
 |Serotonin|5-HT<sub>1</sub>|Vasoconstriction|
 |Histamine|H<sub>1</sub>|Vasodilation|
-|Vasopressin|V<sub>1</sub>|Vasoconstriction|
 |Angiotensin|AT<sub>1</sub>|Vasoconstriction|
+|Vasopressin|V<sub>1</sub>|Vasoconstriction|
 |Prostaglandin|PGE<sub>1</sub>|Vasodilation|
 |Prostacyclin|PGI<sub>2</sub>|Vasodilation|
 |Thromboxane|TXA<sub>2</sub>|Vasoconstriction|
