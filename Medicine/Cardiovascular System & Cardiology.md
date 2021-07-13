@@ -75,10 +75,10 @@
 
 |Hormone|Receptor|Effect|
 |-|-|-|
-|Dopamine|D<sub>1</sub>|Vasodilation|
 |Norepinephrine|α<sub>1</sub>|Vasoconstriction|
 |Epinephrine|α<sub>1</sub>|Vasoconstriction|
 ||β<sub>2</sub>|Vasodilation|
+|Dopamine|D<sub>1</sub>|Vasodilation|
 |Serotonin|5-HT<sub>1</sub>|Vasoconstriction|
 |Histamine|H<sub>1</sub>|Vasodilation|
 |Vasopressin|V<sub>1</sub>|Vasoconstriction|
