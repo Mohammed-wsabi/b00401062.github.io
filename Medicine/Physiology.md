@@ -131,6 +131,20 @@
 
 ![](../Figures/Autonomic%20Nervous%20System.png)
 
+## Autonomic Effects {DUMBBELSS}
+
+|Cholingeric|Adrenergic|
+|-|-|
+|Diarrhea|Constipation|
+|Urinary incontinence|Urinary retention|
+|Miosis|Mydriasis<br>Cycloplegia|
+|Bronchoconstriction|Bronchodilation|
+|Bradycardia|Tachycardia|
+|Emesis|-|
+|Lacrimation|Xerophthalmia|
+|Salivation|Xerostomia|
+|Sweating|Sweating|
+
 ## Signalling Pathways
 
 ### Neurotransmitters
