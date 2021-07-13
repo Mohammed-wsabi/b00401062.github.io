@@ -260,7 +260,7 @@
 |Mechanism|Medication|
 |-|-|
 |Reuptake inhibitors|TCA<br>SSRI<br>SNRI|
-||NDRI :: Bupropion|
+||NDRI ::<br>Bupropion|
 |MAO inhibitors|Tranylcypromine<br>Phenelzine<br>Isocarboxazid<br>Selegiline|
 |α<sub>2</sub> antagonists|Mirtazapine|
 |5-HT modulators|Trazodone|
@@ -321,7 +321,7 @@
 
 |Mechanism|Medication|
 |-|-|
-|Reuptake inhibitors|NRI :: Atomoxetine|
+|Reuptake inhibitors|NRI ::<br>Atomoxetine|
 ||NDRI ::<br>Amphetamine<br>Methylphenidate|
 |α<sub>2</sub> agonists|Clonidine<br>Guanfacine|
 
