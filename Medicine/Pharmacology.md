@@ -163,7 +163,7 @@
 ||Midodrine|Hypotension|
 |α<sub>2</sub> agonists|Clonidine|Hypertension<br>ADHD<br>Tourette syndrome<br>Opioid withdrawal|
 ||Brimonidine|Glaucoma|
-||Methyldopa|Hypertension (HTN)|
+||Methyldopa|Hypertension|
 |β<sub>1</sub> agonists|Dobutamine|Inotrope|
 |β<sub>2</sub> agonists|Albuterol|Asthma :: acute|
 ||Salmeterol<br>Formoterol|Asthma :: chronic|
