@@ -79,7 +79,9 @@
 - Communication disorder
 - Autism spectrum disorder
 - Attention-deficit hyperactivity disorder (ADHD)
-- Motor disorder :: Tourette disorder
+- Motor disorder
+  - Tic disorder
+  - Tourette syndrome
 
 ### Neurocognitive Disorder
 
@@ -260,9 +262,9 @@
 |SSRI|Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|
 |SNRI|Venlafaxine<br>Duloxetine|
 |NDRI|Bupropion|
-|5-HT modulators|Trazodone|
-|α<sub>2</sub> antagonists|Mirtazapine|
 |MAO inhibitors|Tranylcypromine<br>Phenelzine<br>Isocarboxazid<br>Selegiline|
+|α<sub>2</sub> antagonists|Mirtazapine|
+|5-HT modulators|Trazodone|
 
 ## Presentation of Manic Episode {DIG-FAST}
 
@@ -288,12 +290,17 @@
 
 |Mechanism|Medication|
 |-|-|
-|Antidepressants|TCA & SSRI & SNRI<br>MAO inhibitors|
-|GABA-A agonists|Benzodiazepines|
+|TCA|Triptylines<br>Pramines|
+|SSRI|Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|
+|SNRI|Venlafaxine<br>Duloxetine|
+|MAO inhibitors|
 |5-HT<sub>1</sub> agonists|Buspirone|
 |β antagonists|Propranolol|
+|GABA-A agonists|Benzodiazepines|
 
-## Treatment of ADHD
+## Mechanisms of Action of Medications for Insomnia
+
+## Mechanisms of Action of Medications for ADHD
 
 |Mechanism|Medication|
 |-|-|
