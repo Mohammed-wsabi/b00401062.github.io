@@ -230,12 +230,12 @@
 
 ## Treatment of Neuroleptic Malignant Syndrome (NMS)
 
-|Mechanism|Medication|Indications|
-|-|-|-|
-|Ca channel blockers|Dantrolene|Neuroleptic malignant syndrome|
-|D<sub>2</sub> agonists|Bromocriptine|Neuroleptic malignant syndrome|
-|NMDA antagonists|Amantadine|Neuroleptic malignant syndrome|
-|GABA-A agonists|Benzodiazepines|Neuroleptic malignant syndrome|
+|Mechanism|Medication|
+|-|-|
+|Ca channel blockers|Dantrolene|
+|D<sub>2</sub> agonists|Bromocriptine|
+|NMDA antagonists|Amantadine|
+|GABA-A agonists|Benzodiazepines|
 
 ## Presentation of Major Depressive Episode {FDA-GPS}
 
