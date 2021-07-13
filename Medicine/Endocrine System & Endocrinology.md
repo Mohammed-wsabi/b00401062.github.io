@@ -22,24 +22,24 @@
 |Gland|Hormone|Effect|
 |-|-|-|
 |Hypothalamus|Vasopressin|↓ Na & ↑ BP|
-||Oxytocin|↑ Contraction|
+||Oxytocin|Contraction|
 |Pineal|Melatonin|Circadian rhythm|
 
 ### Peripheral
 
-|Endocrine Gland|1° Hormones|2° Stimulation|3° Stimulation|Effect|
+|Endocrine Gland|3° Stimulation|2° Stimulation|1° Hormones|Effect|
 |-|-|-|-|-|
-|Thyroid|TH|↑ TSH|↑ TRH|↑ Metabolism|
-||Calcitonin|-|-|↓ Ca|
-|Parathyroid|PTH|-|-|↑ Ca & ↓ Phosphate|
-|Adrenal|Mineralocorticoid|↑ Angiotensin|↑ Renin|↑ Na & BP|
-||Glucocorticoid|↑ ACTH|↑ CRH|↑ Glucose|
-||SH|-|-|↑ Sex|
-|Gonad|SH|↑ LH & FSH|↑ GnRH|↑ Sex|
-|Liver|IGF-1|↑ GH|↑ GHRH|↑ Glucose|
-|Pancreas|Glucagon|-|-|↑ Glucose|
-||Insulin|-|-|↓ Glucose|
-|Kidney|EPO|-|-|↑ O<sub>2</sub> & Hb|
+|Thyroid|TRH|TSH|TH|↑ Metabolism|
+||-|-|Calcitonin|↓ Ca|
+|Parathyroid|-|-|PTH|↑ Ca & ↓ Phosphate|
+|Adrenal|Renin|Angiotensin|Mineralocorticoid|↑ Na & BP|
+||CRH|ACTH|Glucocorticoid|↑ Glucose|
+||-|-|SH|↑ Sex|
+|Gonad|GnRH|LH & FSH|SH|↑ Sex|
+|Liver|GHRH|GH|IGF-1|↑ Glucose|
+|Pancreas|-|-|Glucagon|↑ Glucose|
+||-|-|Insulin|↓ Glucose|
+|Kidney|-|-|EPO|↑ O<sub>2</sub> & Hb|
 
 ## Insensitivity of Endocrine Receptors
 
