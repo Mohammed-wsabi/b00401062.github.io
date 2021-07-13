@@ -122,8 +122,8 @@
 |-|-|-|
 |NE reuptake inhibitors|Cocaine|Anesthesia|
 ||Atomoxetine<br>Amphetamine<br>Methylphenidate<br>Modafinil|ADHD<br>Narcolepsy|
-|TCA|Triptylines<br>Pramines|Depression<br>Anxiety<br>Obsessive-compulsive disorder (OCD)|
-|SSRI|Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|Depression<br>Anxiety<br>Obsessive-compulsive disorder (OCD)|
+|TCA|Triptylines<br>Pramines|Depression<br>Anxiety<br>OCD|
+|SSRI|Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|Depression<br>Anxiety<br>OCD|
 |SNRI|Venlafaxine<br>Duloxetine|Depression<br>Anxiety|
 |NDRI|Bupropion|Depression<br>Smoking cessation|
 
