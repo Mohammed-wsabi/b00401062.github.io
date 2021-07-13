@@ -273,6 +273,14 @@
 - Cardiac :: QT prolongation
 - Serotonin syndrome
 
+## Presentation of Serotonin Syndrome
+
+- Altered mental status (AMS)
+- Hyperthermia
+- Cardiovascular collapse
+- Hyperreflexia
+- Myoclonus
+
 ## Presentation of Manic Episode {DIG-FAST}
 
 - Distractibility
