@@ -90,19 +90,14 @@
 |Nitric oxide|-|Vasodilation|
 |Substance P|NK<sub>1</sub>|Vasodilation|
 
-## Effects of Adrenergic Agents
+## Effects of Adrenergic Receptors
 
-|Agent|CO|SVR|MAP|
+|Receptor|CO|SVR|MAP|
 |-|-|-|-|
 |α<sub>1</sub>|↓|↑ (1°)|↑|
 |α<sub>2</sub>|↓|↓|↓|
 |β<sub>1</sub>|↑ (1°)|-|↑|
 |β<sub>2</sub>|↑|↓ (1°)|↓|
-|Dopamine: D > β<sub>1</sub> > α<sub>1</sub>|↑ (1°)|-|↑|
-|Dobutamine: β<sub>1</sub> > β<sub>2</sub>|↑ (1°)|↓|↑|
-|Norepinephrine: α<sub>1</sub> > β<sub>1</sub>|-|↑ (1°)|↑|
-|Epinephrine: β > α<sub>1</sub>|↑ (1°)|-|↑|
-|Isoproterenol: β<sub>1</sub> = β<sub>2</sub>|↑ (1°)|↓ (1°)|-|
 
 ## Mechanisms of Action of Venodilators
 
@@ -127,24 +122,25 @@
 
 |Mechanism|Medication|
 |-|-|
-|β<sub>1</sub> agonists|Dopamine: D > β<sub>1</sub> > α<sub>1</sub>|
-||Dobutamine: β<sub>1</sub> > β<sub>2</sub>|
-||Norepinephrine: α<sub>1</sub> > β<sub>1</sub>|
-||Epinephrine: β > α<sub>1</sub>|
-||Isoproterenol: β<sub>1</sub> = β<sub>2</sub>|
+|β<sub>1</sub> agonists|Norepinephrine<br>Epinephrine<br>Isoproterenol<br>Dobutamine<br>Dopamine|
 |PDE inhibitors|Inamrinone<br>Milrinone|
 |Na-K pump blockers|Digoxin<br>Digitalis|
 
-## Inotropic Equivalent (IE)
+## Effects of Inotropes
 
-|Inotrope|Equivalent|
-|-|-|
-|Dopamine|1|
-|Dobutamine|1|
-|Milrinone|15|
-|Norepinephrine|100|
-|Epinephrine|100|
-|Isoproterenol|100|
+|Inotrope|Mechanism|CO|SVR|MAP|IE|
+|-|-|-|-|-|-|
+|Norepinephrine|α<sub>1</sub> > β<sub>1</sub>|-|↑ (1°)|↑|100|
+|Epinephrine|β > α<sub>1</sub>|↑ (1°)|-|↑|100|
+|Isoproterenol|β<sub>1</sub> = β<sub>2</sub>|↑ (1°)|↓ (1°)|-|100|
+|Dobutamine|β<sub>1</sub> > β<sub>2</sub>|↑ (1°)|↓|↑|1|
+|Dopamine|D > β<sub>1</sub> > α<sub>1</sub>|↑ (1°)|-|↑|1|
+|Inamrinone<br>Milrinone|-|↑ (1°)|-|↑|15|
+
+- Cardiac output (CO)
+- Systemic vascular resistance (SVR)
+- Mean arterial pressure (MAP)
+- Inotropic equivalent (IE)
 
 ## Medications Slowing Conduction {ABCD}
 
