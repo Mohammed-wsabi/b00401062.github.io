@@ -27,7 +27,7 @@
 
 ### Peripheral
 
-|Endocrine Gland|3° Stimulation|2° Stimulation|1° Hormones|Effect|
+|Gland|3° Stimulation|2° Stimulation|1° Hormones|Effect|
 |-|-|-|-|-|
 |Thyroid|TRH|TSH|TH|↑ Metabolism|
 ||-|-|Calcitonin|↓ Ca|
