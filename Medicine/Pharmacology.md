@@ -176,7 +176,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|α<sub>1</sub> antagonists|Tamsulosin<br>Terazosin<br>Doxazosin<br>Prazosin|Benign prostatic hyperplasia (BPH)<br>Hypertension<br>Pheochromocytoma|
+|α<sub>1</sub> antagonists|Tamsulosin<br>Terazosin<br>Doxazosin<br>Prazosin|BPH<br>Hypertension<br>Pheochromocytoma|
 |α<sub>2</sub> antagonists|Mirtazapine|Depression|
 |α antagonists|Phentolamine<br>Phenoxybenzamine|Pheochromocytoma|
 ||Antipsychotics|-|
@@ -314,7 +314,7 @@
 |Androgen agonists|Methyltestosterone|Hormone replacement therapy (HRT)|
 ||Danazol|Endometriosis|
 |Androgen antagonists|Flutamide<br>Bicalutamide|Prostate cancer|
-|5α-Reductase inhibitors|Finasteride|Benign prostatic hyperplasia (BPH)<br>Alopecia|
+|5α-Reductase inhibitors|Finasteride|BPH<br>Alopecia|
 |Androgen synthesis inhibitors|Ketoconazole<br>Spironolactone|Polycystic ovary syndrome (PCOS)|
 
 ## Mechanisms of Action of Medications Targeting Mineralocorticoid
