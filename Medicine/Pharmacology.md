@@ -319,7 +319,7 @@
 |5α-Reductase inhibitors|Finasteride|Benign prostatic hyperplasia (BPH)<br>Alopecia|
 |Androgen synthesis inhibitors|Ketoconazole<br>Spironolactone|Polycystic ovary syndrome (PCOS)|
 
-## Mechanisms of Action of Medications Targeting RAAS
+## Mechanisms of Action of Medications Targeting Mineralocorticoid
 
 |Mechanism|Medication|Indications|
 |-|-|-|
