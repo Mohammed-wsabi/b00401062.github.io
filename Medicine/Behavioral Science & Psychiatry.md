@@ -215,9 +215,9 @@
 
 |Onset|Symptoms|
 |-|-|
-|4 hours|Dystonia :: muscle spasm & stiffness & oculogyric crisis|
-|4 days|Akathisia :: restlessness|
-|4 weeks|Bradykinesia :: parkinsonism|
+|4 hours|Dystonia|
+|4 days|Bradykinesia|
+|4 weeks|Akathisia|
 |4 months|Tardive dyskinesia|
 
 ## Presentation of Neuroleptic Malignant Syndrome (NMS) {FEVER}
