@@ -334,54 +334,6 @@
 
 ![](../Figures/Craniosynostosis.jpg)
 
-## Primary Headaches
-
-||Cluster|Migraine|Tension|
-|-|-|-|-|
-|Sex|Male|Female|-|
-|Laterality|Unilateral|Unilateral|Bilateral|
-|Location|Periorbital|Head|Band|
-|Duration|15 minutes ~ 3 hours|4 hours ~ 3 days|30 minutes ~ 7 days|
-|Triggers|-|+|+|
-
-## Red Flags for Secondary Headaches
-
-- Sudden onset
-- Onset after 50 y/o
-- ↑ frequency or severity
-- New onset with an underlying medical condition
-- Focal neurologic sequelae
-- Papilledema
-- Preceding head trauma
-
-## Presentation of Horner Syndrome {MAP}
-
-- Miosis
-- Anhidrosis
-- Ptosis :: superior tarsal muscle
-
-## Brain Lesions & Breathing Patterns
-
-|Brain Lesion|Respiratory Pattern|
-|-|-|
-|Cerebrum|Cheyne-Stokes respiration|
-|Midbrain|Tachypnea|
-|Upper pons|Apneustic respiration|
-|Lower pons|Cluster respiration|
-|Medulla|Ataxic [Biot] respiration|
-
-## Aphasia
-
-|Aphasia|Comprehension|Repetition|Fluency|
-|-|-|-|-|
-|Global|↓|↓|↓|
-|Broca|-|↓|↓|
-|Wernicke|↓|↓|-|
-|Conduction|-|↓|-|
-|Mixed transcortical|↓|-|↓|
-|Transcortical motor|-|-|↓|
-|Transcortical sensory|↓|-|-|
-
 ## Hemorrhage
 
 ### Extracranial
@@ -400,6 +352,74 @@
 |Subdural|Bridging veins|+|
 |Subarachnoid|Aneurysm<br>Arteriovenous malformation (AVM)|+|
 |Intraparenchymal|Microaneurysm|+|
+
+## Risk of Progression of TIA to Ischemic Stroke {ABCD2}
+
+- Age > 60 years
+- BP > 140/90 mmHg
+- Clinical features
+  - Unilateral weakness
+  - Speech impairment
+- Duration
+- Diabetes
+
+## Presentation of Ischemic Stroke
+
+|Artery|Lesions|Symptoms|
+|-|-|-|
+|Middle cerebral artery (MCA)|Motor & sensory cortices :: face & upper limb<br>Wernicke area<br>Broca area|Contralateral facial palsy<br>Contralateral paralysis<br>Contralateral paresthesia<br>Aphasia<br>Hemineglect|
+|Anterior cerebral artery (ACA)|Motor & sensory cortices :: lower limb|Contralateral paralysis<br>Contralateral paresthesia|
+|Posterior cerebral artery (PCA)|Occipital lobe|Contralateral hemianopia w/ macular sparing|
+|Lenticulo-striate artery|Internal capsule<br>Striatum|Contralateral paralysis|
+|Basilar artery|CN VI<br>Paramedian pontine reticular formation (PPRF)<br>Corticobulbar tract<br>Corticospinal tract|Locked-in syndrome<br>Medial pontine syndrome:<br>Horizontal gaze palsy<br>Pseudobulbar palsy<br>Contralateral paralysis|
+|Anterior inferior cerebellar artery (AICA)|CN VII & CN VIII<br>Sympathetic fibers<br>Cerebellar peduncles|Lateral pontine syndrome:<br>Ipsilateral facial palsy<br>Ipsilateral deafness<br>Ipsilateral vertigo<br>Ipsilateral Horner syndrome<br>Ipsilateral ataxia|
+|Posterior inferior cerebellar artery (PICA)|Ambiguous nucleus<br>Lateral spinothalamic tract<br>Sympathetic fibers<br>Inferior cerebellar peduncle|Lateral medullary [Wallenberg] syndrome:<br>Dysphagia<br>Dysarthria<br>↓ Gag reflex<br>Contralateral palate deviation<br>Ipsilateral Horner syndrome<br>Ipsilateral ataxia|
+|Anterior spinal artery (ASA)|CN XII<br>Corticospinal tract<br>Medial lemniscus|Medial medullary syndrome:<br>Ipsilateral tongue deviation<br>Contralateral paralysis<br>Contralateral paresthesia|
+
+## Management of Ischemic Stroke
+
+- BP < 220/120 mmHg
+- Antiplatelets
+- Revascularization
+  - Thrombolysis: duration < 3 ~ 4.5 hours & BP < 185/110 mmHg
+  - Thrombectomy: duration < 6 hours
+
+## Brain Lesions & Breathing Patterns
+
+|Brain Lesion|Breathing Pattern|
+|-|-|
+|Cerebrum|Cheyne-Stokes respiration|
+|Midbrain|Tachypnea|
+|Upper pons|Apneustic respiration|
+|Lower pons|Cluster respiration|
+|Medulla|Ataxic [Biot] respiration|
+
+## Neurological Examination for Hemineglect
+
+- Cancellation test
+- Reading test
+- Bisection of lines
+- Copy of drawings
+
+## Aphasia
+
+|Aphasia|Comprehension|Repetition|Fluency|
+|-|-|-|-|
+|Global|↓|↓|↓|
+|Broca|-|↓|↓|
+|Wernicke|↓|↓|-|
+|Conduction|-|↓|-|
+|Mixed transcortical|↓|-|↓|
+|Transcortical motor|-|-|↓|
+|Transcortical sensory|↓|-|-|
+
+## Triad of Normal Pressure Hydrocephalus (NPH) {3W}
+
+|Mnemonic|Presentation|
+|-|-|
+|Wet|Urinary incontinence|
+|Wobbly|Ataxia|
+|Wacky|Cognitive dysfunction|
 
 ## Presentation of Increased Intracranial Pressure (ICP)
 
@@ -431,19 +451,106 @@
 - Shunting
 - Optic nerve sheath fenestration
 
-## Triad of Normal Pressure Hydrocephalus (NPH) {3W}
-
-|Mnemonic|Presentation|
-|-|-|
-|Wet|Urinary incontinence|
-|Wobbly|Ataxia|
-|Wacky|Cognitive dysfunction|
-
 ## Contraindications for Lumbar Puncture
 
 - Increased intracranial pressure (ICP)
 - Suspected brain abscess
 - Bleeding tendency
+
+## Primary Headaches
+
+||Cluster|Migraine|Tension|
+|-|-|-|-|
+|Sex|Male|Female|-|
+|Laterality|Unilateral|Unilateral|Bilateral|
+|Location|Periorbital|Head|Band|
+|Duration|15 minutes ~ 3 hours|4 hours ~ 3 days|30 minutes ~ 7 days|
+|Triggers|-|+|+|
+
+## Red Flags for Secondary Headaches
+
+- Sudden onset
+- Onset after 50 y/o
+- ↑ frequency or severity
+- New onset with an underlying medical condition
+- Focal neurologic sequelae
+- Papilledema
+- Preceding head trauma
+
+## Seizures
+
+![](../Figures/Seizures.png)
+
+## Mechanisms of Action of Anticonvulsants
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|GABA-A agonists|Barbiturate|Seizure|
+||Benzodiazepine|Seizure|
+|Na channel blockers|Carbamazepine|Seizure|
+||Phenytoin|Seizure|
+|Ca channel blockers|Ethosuximide|Seizure :: absence|
+||Gabapentin<br>Pregabalin|Seizure|
+|↑ GABA|Valproate|Seizure|
+||Tiagabine|Seizure|
+||Vigabatrin|Seizure|
+|↓ Glutamate|Levetiracetam|Seizure|
+|-|Felbamate|Seizure|
+|-|Topiramate|Seizure|
+|-|Lamotrigine|Seizure|
+
+## Neurodegenerative Disorders
+
+|Disorder|Lesions|Findings|Precursor|
+|-|-|-|-|
+|Parkinson disease|Substantia nigra|Lewy body|α-Synuclein|
+|Huntington disease|Striatum|-|-|
+|Alzheimer disease|Cortex<br>Hippocampus|Senile plaque|Amyloid precursor protein (APP)|
+|||Neurofibrillary tangle|Tau protein|
+|||Hirano body|Actin|
+|Frontotemporal dementia|Frontotemporal lobe|Pick body|Tau protein|
+|Lewy body dementia|Cortex|Lewy body|α-Synuclein|
+|Vascular dementia|Cortex|-|-|
+|Normal pressure hydrocephalus (NPH)|-|-|-|
+|Creutzfeldt-Jakob disease|Striatum|Prion|Prion protein (PrP)|
+
+## Basal Ganglia and Diseases
+
+![](../Figures/Basal%20Ganglia%20and%20Diseases.png)
+
+## Presentation of Parkinson Disease {PARTS}
+
+- Postural instability
+- Akinesia & Bradykinesia
+- Rigidity :: cogwheel
+- Tremor :: resting & pill-rolling
+- Shuffling gait
+
+## Mechanisms of Action of Medications for Parkinson Disease
+
+|Mechanism|Medication|
+|-|-|
+|M antagonists|Benztropine|
+|D<sub>2</sub> agonists|Bromocriptine<br>Cabergoline<br>Pramipexole<br>Ropinirole|
+|MAO inhibitors|Selegiline|
+|COMT inhibitors|-Capones|
+|Dopa|Levodopa|
+|Dopa decarboxylase inhibitors|Carbidopa<br>Benserazide|
+|NMDA antagonists|Amantadine|
+
+## Mechanisms of Action of Medications for Huntington Disease
+
+|Mechanism|Medication|
+|-|-|
+|Vesicular transporter inhibitors|Reserpine<br>Tetrabenazine|
+|D<sub>2</sub> antagonists|2° Antipsychotics|
+
+## Mechanisms of Action of Medications for Alzheimer Disease
+
+|Mechanism|Medication|
+|-|-|
+|ACh esterase inhibitors|Rivastigmine<br>Galantamine<br>Donepezil|
+|NMDA antagonists|Memantine|
 
 ## Demyelinating Diseases
 
@@ -509,125 +616,11 @@
 - Ataxia
 - Ophthalmoplegia
 
-## Seizures
+## Presentation of Horner Syndrome {MAP}
 
-![](../Figures/Seizures.png)
-
-## Mechanisms of Action of Anticonvulsants
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|GABA-A agonists|Barbiturate|Seizure|
-||Benzodiazepine|Seizure|
-|Na channel blockers|Carbamazepine|Seizure|
-||Phenytoin|Seizure|
-|Ca channel blockers|Ethosuximide|Seizure :: absence|
-||Gabapentin<br>Pregabalin|Seizure|
-|↑ GABA|Valproate|Seizure|
-||Tiagabine|Seizure|
-||Vigabatrin|Seizure|
-|↓ Glutamate|Levetiracetam|Seizure|
-|-|Felbamate|Seizure|
-|-|Topiramate|Seizure|
-|-|Lamotrigine|Seizure|
-
-## Risk of Progression of TIA to Ischemic Stroke {ABCD2}
-
-- Age > 60 years
-- BP > 140/90 mmHg
-- Clinical features
-  - Unilateral weakness
-  - Speech impairment
-- Duration
-- Diabetes
-
-## Presentation of Ischemic Stroke
-
-|Artery|Lesions|Symptoms|
-|-|-|-|
-|Middle cerebral artery (MCA)|Motor & sensory cortices :: face & upper limb<br>Wernicke area<br>Broca area|Contralateral facial palsy<br>Contralateral paralysis<br>Contralateral paresthesia<br>Aphasia<br>Hemineglect|
-|Anterior cerebral artery (ACA)|Motor & sensory cortices :: lower limb|Contralateral paralysis<br>Contralateral paresthesia|
-|Posterior cerebral artery (PCA)|Occipital lobe|Contralateral hemianopia w/ macular sparing|
-|Lenticulo-striate artery|Internal capsule<br>Striatum|Contralateral paralysis|
-|Basilar artery|CN VI<br>Paramedian pontine reticular formation (PPRF)<br>Corticobulbar tract<br>Corticospinal tract|Locked-in syndrome<br>Medial pontine syndrome:<br>Horizontal gaze palsy<br>Pseudobulbar palsy<br>Contralateral paralysis|
-|Anterior inferior cerebellar artery (AICA)|CN VII & CN VIII<br>Sympathetic fibers<br>Cerebellar peduncles|Lateral pontine syndrome:<br>Ipsilateral facial palsy<br>Ipsilateral deafness<br>Ipsilateral vertigo<br>Ipsilateral Horner syndrome<br>Ipsilateral ataxia|
-|Posterior inferior cerebellar artery (PICA)|Ambiguous nucleus<br>Lateral spinothalamic tract<br>Sympathetic fibers<br>Inferior cerebellar peduncle|Lateral medullary [Wallenberg] syndrome:<br>Dysphagia<br>Dysarthria<br>↓ Gag reflex<br>Contralateral palate deviation<br>Ipsilateral Horner syndrome<br>Ipsilateral ataxia|
-|Anterior spinal artery (ASA)|CN XII<br>Corticospinal tract<br>Medial lemniscus|Medial medullary syndrome:<br>Ipsilateral tongue deviation<br>Contralateral paralysis<br>Contralateral paresthesia|
-
-## Management of Ischemic Stroke
-
-- BP < 220/120 mmHg
-- Antiplatelets
-- Revascularization
-  - Thrombolysis: duration < 3 ~ 4.5 hours & BP < 185/110 mmHg
-  - Thrombectomy: duration < 6 hours
-
-## Neurological Examination for Hemineglect
-
-- Cancellation test
-- Reading test
-- Bisection of lines
-- Copy of drawings
-
-## Neurodegenerative Disorders
-
-|Disorder|Lesions|Findings|Precursor|
-|-|-|-|-|
-|Parkinson disease|Substantia nigra|Lewy body|α-Synuclein|
-|Huntington disease|Striatum|-|-|
-|Alzheimer disease|Cortex<br>Hippocampus|Senile plaque|Amyloid precursor protein (APP)|
-|||Neurofibrillary tangle|Tau protein|
-|||Hirano body|Actin|
-|Frontotemporal dementia|Frontotemporal lobe|Pick body|Tau protein|
-|Lewy body dementia|Cortex|Lewy body|α-Synuclein|
-|Vascular dementia|Cortex|-|-|
-|Normal pressure hydrocephalus (NPH)|-|-|-|
-|Creutzfeldt-Jakob disease|Striatum|Prion|Prion protein (PrP)|
-
-## Basal Ganglia and Diseases
-
-![](../Figures/Basal%20Ganglia%20and%20Diseases.png)
-
-## Presentation of Parkinson Disease {PARTS}
-
-- Postural instability
-- Akinesia & Bradykinesia
-- Rigidity :: cogwheel
-- Tremor :: resting & pill-rolling
-- Shuffling gait
-
-## Extrapyramidal Symptoms (EPS)
-
-- Dystonia
-- Bradykinesia
-- Akathisia
-- Tardive dyskinesia
-
-## Mechanisms of Action of Medications for Parkinson Disease
-
-|Mechanism|Medication|
-|-|-|
-|M antagonists|Benztropine|
-|D<sub>2</sub> agonists|Bromocriptine<br>Cabergoline<br>Pramipexole<br>Ropinirole|
-|MAO inhibitors|Selegiline|
-|COMT inhibitors|-Capones|
-|Dopa|Levodopa|
-|Dopa decarboxylase inhibitors|Carbidopa<br>Benserazide|
-|NMDA antagonists|Amantadine|
-
-## Mechanisms of Action of Medications for Huntington Disease
-
-|Mechanism|Medication|
-|-|-|
-|Vesicular transporter inhibitors|Reserpine<br>Tetrabenazine|
-|D<sub>2</sub> antagonists|2° Antipsychotics|
-
-## Mechanisms of Action of Medications for Alzheimer Disease
-
-|Mechanism|Medication|
-|-|-|
-|ACh esterase inhibitors|Rivastigmine<br>Galantamine<br>Donepezil|
-|NMDA antagonists|Memantine|
+- Miosis
+- Anhidrosis
+- Ptosis :: superior tarsal muscle
 
 ## Etiology of Neurogenic Bladder
 
@@ -643,14 +636,6 @@
 
 ![](../Figures/Neurogenic%20Bladder.jpg)
 
-## Disorders of Consciousness
-
-||Aware|Sleep-wake cycles|Brainstem reflexes|Respiration|
-|-|-|-|-|-|
-|Locked-in syndrome|+|+|±|+|
-|Persistent vegetative state|-|+|±|+|
-|Brain death|-|-|-|-|
-
 ## CSF Analysis
 
 ||Pressure|WBCs|Glucose|Protein|
@@ -660,6 +645,16 @@
 |Bacterial|↑|↑ PMNs|↓|↑|
 |TB & Fungal|↑|↑ Lymphocytes|↓|↑|
 |Viral|↑|↑ Lymphocytes|-|↑|
+
+## Routes of Brain Abscess Transmission
+
+- Hematogenous spread
+- Direct spread
+  - Paranasal sinusitis
+  - Otitis media
+  - Mastoiditis
+  - Dental infection
+- Direct innoculation
 
 ## Pathogens of Encephalitis
 
@@ -688,16 +683,6 @@
 |1 ~ 3 months|3° Cephalosporins & Vancomycin|
 |3 months ~ 60 years|3° Cephalosporins & Vancomycin|
 |≥ 60 years / Complicated|Ampicillin & 3° Cephalosporins & Vancomycin|
-
-## Routes of Brain Abscess Transmission
-
-- Hematogenous spread
-- Direct spread
-  - Paranasal sinusitis
-  - Otitis media
-  - Mastoiditis
-  - Dental infection
-- Direct innoculation
 
 ## Nervous System Tumors
 
@@ -730,3 +715,11 @@
 - Schwannoma
 - Neurofibroma
 - Melanoma
+
+## Disorders of Consciousness
+
+||Aware|Sleep-wake cycles|Brainstem reflexes|Respiration|
+|-|-|-|-|-|
+|Locked-in syndrome|+|+|±|+|
+|Persistent vegetative state|-|+|±|+|
+|Brain death|-|-|-|-|
