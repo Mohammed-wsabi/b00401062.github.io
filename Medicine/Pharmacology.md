@@ -159,8 +159,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|α<sub>1</sub> agonists|Norepinephrine|Hypotension|
-||Phenylephrine|Hypotension<br>Decongestant|
+|α<sub>1</sub> agonists|Phenylephrine|Hypotension<br>Decongestant|
 ||Midodrine|Hypotension|
 |α<sub>2</sub> agonists|Clonidine|Hypertension<br>Attention-deficit hyperactivity disorder (ADHD)<br>Tourette syndrome<br>Opioid withdrawal|
 ||Brimonidine|Glaucoma|
@@ -169,8 +168,9 @@
 |β<sub>2</sub> agonists|Albuterol|Asthma :: acute|
 ||Salmeterol<br>Formoterol|Asthma :: chronic|
 ||Terbutaline<br>Ritodrine|Tocolysis|
-|β agonists|Epinephrine|Hypotension<br>Asthma|
-||Isoproterenol|-|
+|β agonists|Isoproterenol|-|
+|αβ agonists|Norepinephrine|Hypotension|
+||Epinephrine|Hypotension<br>Asthma|
 
 ## Mechanisms of Action of Adrenergic Antagonists
 
@@ -189,9 +189,10 @@
 ||Bisoprolol|Heart failure (HF)|
 ||Esmolol|Arrhythmia|
 ||Metoprolol|Arrhythmia<br>Heart failure (HF)|
+|β<sub>2</sub> antagonists|-|-|
 |β antagonists|Nadolol|-|
 ||Pindolol|Partial agonists|
-||Propranolol|Arrhythmia|
+||Propranolol|Arrhythmia<br>Hyperthyroidism|
 ||Sotalol|Arrhythmia|
 ||Timolol|Arrhythmia<br>Glaucoma|
 |αβ antagonists|Carvedilol|Arrhythmia<br>Heart failure (HF)|
