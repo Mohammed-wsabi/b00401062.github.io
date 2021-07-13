@@ -144,13 +144,13 @@
 - SSRI & SNRI
 - Calcium & Vitamin D supplements
 
-## Rotterdam Criteria for Diagnosis of Polycystic Ovary Syndrome (PCOS)
+## Rotterdam Criteria for Diagnosis of PCOS
 
 - Anovulation
 - Hyperandrogenism
 - Polycystic ovaries
 
-## Treatment of Polycystic Ovary Syndrome (PCOS)
+## Treatment of PCOS
 
 - Ovulation induction
   - Estrogen modulators :: Clomiphene
