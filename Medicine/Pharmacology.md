@@ -121,7 +121,7 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |NE reuptake inhibitors|Cocaine|Anesthesia|
-||Atomoxetine<br>Amphetamine<br>Methylphenidate<br>Modafinil|Attention-deficit hyperactivity disorder (ADHD)<br>Narcolepsy|
+||Atomoxetine<br>Amphetamine<br>Methylphenidate<br>Modafinil|ADHD<br>Narcolepsy|
 |TCA|Triptylines<br>Pramines|Depression<br>Anxiety<br>Obsessive-compulsive disorder (OCD)|
 |SSRI|Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|Depression<br>Anxiety<br>Obsessive-compulsive disorder (OCD)|
 |SNRI|Venlafaxine<br>Duloxetine|Depression<br>Anxiety|
@@ -161,7 +161,7 @@
 |-|-|-|
 |α<sub>1</sub> agonists|Phenylephrine|Hypotension<br>Decongestant|
 ||Midodrine|Hypotension|
-|α<sub>2</sub> agonists|Clonidine|Hypertension<br>Attention-deficit hyperactivity disorder (ADHD)<br>Tourette syndrome<br>Opioid withdrawal|
+|α<sub>2</sub> agonists|Clonidine|Hypertension<br>ADHD<br>Tourette syndrome<br>Opioid withdrawal|
 ||Brimonidine|Glaucoma|
 ||Methyldopa|Hypertension (HTN)|
 |β<sub>1</sub> agonists|Dobutamine|Inotrope|
