@@ -132,7 +132,7 @@
 |Inotrope|Mechanism|CO|SVR|MAP|IE|
 |-|-|-|-|-|-|
 |Norepinephrine|α<sub>1</sub> > β<sub>1</sub>|-|↑ (1°)|↑|100|
-|Epinephrine|β > α<sub>1</sub>|↑ (1°)|↓|↑|100|
+|Epinephrine|β<sub>1</sub> > β<sub>2</sub> > α<sub>1</sub>|↑ (1°)|↓|↑|100|
 |Isoproterenol|β<sub>1</sub> = β<sub>2</sub>|↑ (1°)|↓ (1°)|-|100|
 |Dobutamine|β<sub>1</sub> > β<sub>2</sub>|↑ (1°)|↓|↑|1|
 |Dopamine|D > β<sub>1</sub> > α<sub>1</sub>|↑|↓ (1°)|↓|1|
