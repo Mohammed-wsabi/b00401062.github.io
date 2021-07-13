@@ -303,8 +303,8 @@
 |SSRI|Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|
 |SNRI|Venlafaxine<br>Duloxetine|
 |MAO inhibitors|Tranylcypromine<br>Phenelzine<br>Isocarboxazid<br>Selegiline|
-|5-HT<sub>1</sub> agonists|Buspirone|
 |β antagonists|Propranolol|
+|5-HT<sub>1</sub> agonists|Buspirone|
 |GABA-A agonists|Benzodiazepines|
 
 ## Mechanisms of Action of Medications for Insomnia
