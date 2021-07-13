@@ -2,7 +2,7 @@
 
 ## Signalling Pathways of Hormones
 
-|Pathways|Hormones|
+|Pathway|Receptors|
 |-|-|
 |Ionotropic receptor|-|
 |G<sub>q</sub>PCR|TRH & GnRH & V<sub>1</sub> & Oxytocin|
