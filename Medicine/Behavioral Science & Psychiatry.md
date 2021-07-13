@@ -306,6 +306,13 @@
 |GABA-A agonists|Benzodiazepines|
 ||Zolpidem<br>Zaleplon<br>Eszopiclone|
 
+## Mechanisms of Action of Medications for OCD
+
+|Mechanism|Medication|
+|-|-|
+|TCA|Triptylines<br>Pramines|
+|SSRI|Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|
+
 ## Mechanisms of Action of Medications for ADHD
 
 |Mechanism|Medication|
