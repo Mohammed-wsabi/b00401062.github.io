@@ -155,8 +155,8 @@
 |G<sub>q</sub>PCR|M<sub>1</sub> & M<sub>3</sub> & α<sub>1</sub> & 5-HT<sub>2</sub> & H<sub>1</sub>|
 |G<sub>s</sub>PCR|β<sub>1</sub> & β<sub>2</sub> & D<sub>1</sub> & 5-HT<sub>4</sub> & H<sub>2</sub>|
 |G<sub>i</sub>PCR|M<sub>2</sub> & α<sub>2</sub> & D<sub>2</sub> & 5-HT<sub>1</sub> & GABA-B & Opioid|
-|Receptor tyrosine kinase (RTK): AMPK pathway|-|
-|Non-receptor tyrosine kinase (NRTK): JAK/STAT pathway|-|
+|RTK|-|
+|NRTK|-|
 |Steroid receptor|-|
 
 ### Hormones
@@ -169,6 +169,9 @@
 ||TSH & ACTH & LH & FSH|
 ||Calcitonin & PTH & Glucagon|
 |G<sub>i</sub>PCR|-|
-|Receptor tyrosine kinase (RTK): AMPK pathway|Insulin & GF|
-|Non-receptor tyrosine kinase (NRTK): JAK/STAT pathway|GH & PRL & Cytokines|
+|RTK|Insulin & GF|
+|NRTK|GH & PRL & Cytokines|
 |Steroid receptor|TH & Mineralocorticoid & Glucocorticoid & SH|
+
+- Receptor tyrosine kinase (RTK)
+- Non-receptor tyrosine kinase (NRTK)
