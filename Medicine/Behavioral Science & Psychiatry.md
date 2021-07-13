@@ -321,14 +321,13 @@
 |-|-|
 |TCA|Triptylines<br>Pramines|
 |SSRI|Fluoxetine<br>Paroxetine<br>Sertraline<br>Citalopram|
+|SNRI|Venlafaxine<br>Duloxetine|
 
 ## Mechanisms of Action of Medications for ADHD
 
 |Mechanism|Medication|
 |-|-|
 |NE reuptake inhibitors|Atomoxetine<br>Amphetamine<br>Methylphenidate<br>Modafinil|
-|TCA|Triptylines<br>Pramines|
-|NDRI|Bupropion|
 |α<sub>2</sub> agonists|Clonidine|
 
 ## Mechanisms of Action of Medications for Tourette Syndrome
