@@ -300,6 +300,12 @@
 
 ## Mechanisms of Action of Medications for Insomnia
 
+|Mechanism|Medication|
+|-|-|
+|5-HT modulators|Trazodone|
+|GABA-A agonists|Benzodiazepines|
+||Zolpidem<br>Zaleplon<br>Eszopiclone|
+
 ## Mechanisms of Action of Medications for ADHD
 
 |Mechanism|Medication|
@@ -314,8 +320,8 @@
 |Mechanism|Medication|
 |-|-|
 |Vesicular transporter inhibitors|Tetrabenazine|
-|D<sub>2</sub> antagonists|Antipsychotics|
 |α<sub>2</sub> agonists|Clonidine|
+|D<sub>2</sub> antagonists|Antipsychotics|
 
 ## Somatic Disorders
 
