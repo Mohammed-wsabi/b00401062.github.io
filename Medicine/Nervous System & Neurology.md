@@ -314,65 +314,6 @@
 |L5|Big toe extension|-|
 |S1|Ankle plantar flexion<br>Hip extension|Achilles reflex|
 
-## Autonomic Nervous System
-
-### Sympathetic
-
-|Target|Effect|
-|-|-|
-|Adrenal gland|-|
-|Ciliary epithelium|Aqueous humor|
-|Blood vessels|-|
-|Bronchus|Bronchodilation|
-|Dilator pupillae|Mydriasis|
-|Heart|Tachycardia|
-|Juxtaglomerular cells|Renin|
-|Sphincter muscle :: GI|-|
-|Sphincter muscle :: GU|-|
-|Sweat gland|Sweat|
-|Sexual function|Ejaculation|
-
-### Parasympathetic
-
-|Target|Effect|
-|-|-|
-|β islet cells|Insulin|
-|Bronchus|Bronchoconstriction|
-|Ciliary muscle|Cycloplegia|
-|Exocrine glands|-|
-|Heart|Tachycardia|
-|Smooth muscle :: GI|Peristalsis|
-|Smooth muscle :: GU|Urination|
-|Sphincter pupillae|Miosis|
-|Sexual function|Erection|
-
-## Signalling Pathways of Neurotransmitters
-
-|Pathways|Receptors|
-|-|-|
-|Ionotropic receptor|N<sub>N</sub> & N<sub>M</sub> & 5-HT<sub>3</sub> & AMPA & NMDA & GABA-A & Glycine|
-|G<sub>q</sub>PCR|M<sub>1</sub> & M<sub>3</sub> & α<sub>1</sub> & 5-HT<sub>2</sub> & H<sub>1</sub>|
-|G<sub>s</sub>PCR|β<sub>1</sub> & β<sub>2</sub> & D<sub>1</sub> & 5-HT<sub>4</sub> & H<sub>2</sub>|
-|G<sub>i</sub>PCR|M<sub>2</sub> & α<sub>2</sub> & D<sub>2</sub> & 5-HT<sub>1</sub> & GABA-B & Opioid|
-|Receptor tyrosine kinase (RTK): AMPK pathway|-|
-|Non-receptor tyrosine kinase (NRTK): JAK/STAT pathway|-|
-|Steroid receptor|-|
-
-## Neurotransmitters and Metabolites
-
-|Neurotransmitter|Precursor|Metabolites|
-|-|-|-|
-|Acetylcholine (ACh)|-|Acetate & Choline|
-|Dopamine (DA)|Tyrosine|Homovanillic acid (HVA)|
-|Norepinephrine (NE)|Tyrosine|Vanillylmandelic acid (VMA)|
-|Epinephrine|Tyrosine|Vanillylmandelic acid (VMA)|
-|Serotonin (5-HT)|Tryptophan|5-hydroxyindoleacetic acid (5-HIAA)|
-|Histamine|Histidine|-|
-|Glutamate|Glutamate|-|
-|GABA|Glutamate|-|
-|Glycine|Glycine|-|
-|Opioid|-|-|
-
 ## Factors Affecting Cerebral Blood Flow
 
 ![](../Figures/Factors%20Affecting%20Cerebral%20Blood%20Flow.jpg)
