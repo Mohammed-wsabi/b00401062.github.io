@@ -62,10 +62,7 @@
 |Supraoptic|Vasopressin|
 |Paraventricular|Oxytocin|
 
-## Neurotransmitters and Hormones in Brain
-
-
-## Neurotransmitters and Metabolites
+## Neurotransmitters
 
 |Neurotransmitter|Location|Precursor|Metabolites|
 |-|-|-|-|
