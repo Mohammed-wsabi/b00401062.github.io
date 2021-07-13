@@ -18,7 +18,8 @@
 |μ-opioid agonists|Heroin|Depressant|
 |Adenosine antagonists|Caffeine|Stimulant|
 |N<sub>N</sub> [Ganglionic] agonists|Nicotine|Stimulant|
-|NE reuptake inhibitors|Cocaine<br>Amphetamine|Stimulant|
+|NRI|Cocaine|Stimulant|
+|NDRI|Amphetamine|Stimulant|
 |NMDA antagonists|Ketamine<br>Phencyclidine (PCP) [Angel dust]|Hallucinogen|
 |Cannabinoid agonists|Cannabis [Marijuana]|Hallucinogen|
 |-|MDMA [Ecstasy]|Hallucinogen|
