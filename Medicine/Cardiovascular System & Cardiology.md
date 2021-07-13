@@ -87,6 +87,7 @@
 |Prostaglandin|PGE<sub>1</sub>|Vasodilation|
 |Prostacyclin|PGI<sub>2</sub>|Vasodilation|
 |Thromboxane|TXA<sub>2</sub>|Vasoconstriction|
+|Adenosine|A<sub>1</sub>|
 |Bradykinin|B<sub>1</sub>|Vasodilation|
 |Substance P|NK<sub>1</sub>|Vasodilation|
 |Nitric oxide|-|Vasodilation|
