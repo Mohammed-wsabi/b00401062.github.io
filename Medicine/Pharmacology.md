@@ -161,9 +161,9 @@
 |-|-|-|
 |α<sub>1</sub> agonists|Phenylephrine|Hypotension<br>Decongestant|
 ||Midodrine|Hypotension|
-|α<sub>2</sub> agonists|Clonidine<br>Guanfacine|Hypertension<br>ADHD<br>Tourette syndrome<br>Opioid withdrawal|
+|α<sub>2</sub> agonists|Methyldopa|Hypertension|
+||Clonidine<br>Guanfacine|Hypertension<br>ADHD<br>Tourette syndrome<br>Opioid withdrawal|
 ||Brimonidine|Glaucoma|
-||Methyldopa|Hypertension|
 |β<sub>1</sub> agonists|Dobutamine|Inotrope|
 |β<sub>2</sub> agonists|Albuterol|Asthma :: acute|
 ||Salmeterol<br>Formoterol|Asthma :: chronic|
