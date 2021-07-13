@@ -84,10 +84,10 @@
 |Histamine|H<sub>1</sub>|Vasodilation|
 |Angiotensin|AT<sub>1</sub>|Vasoconstriction|
 |Vasopressin|V<sub>1</sub>|Vasoconstriction|
+|Adenosine|A<sub>1</sub>|Vasodilation|
 |Prostaglandin|PGE<sub>1</sub>|Vasodilation|
 |Prostacyclin|PGI<sub>2</sub>|Vasodilation|
 |Thromboxane|TXA<sub>2</sub>|Vasoconstriction|
-|Adenosine|A<sub>1</sub>|
 |Bradykinin|B<sub>1</sub>|Vasodilation|
 |Substance P|NK<sub>1</sub>|Vasodilation|
 |Nitric oxide|-|Vasodilation|
@@ -112,22 +112,22 @@
 
 |Mechanism|Medication|
 |-|-|
+|K channel activators|Minoxidil<br>Diazoxide|
+|Ca channel blockers|-Dipines|
 |α<sub>1</sub> antagonists|Terazosin<br>Doxazosin<br>Prazosin|
 |α<sub>2</sub> agonists|Clonidine<br>Methyldopa|
 |D<sub>1</sub> agonists|Fenoldopam|
-|Ca channel blockers|-Dipines|
-|K channel activators|Minoxidil<br>Diazoxide|
-|NO donors|Nitroprusside<br>Hydralazine|
-|PDE inhibitors|Dipyridamole<br>Cilostazol|
 |A<sub>1</sub> agonists|Adenosine|
+|PDE inhibitors|Dipyridamole<br>Cilostazol|
+|NO donors|Nitroprusside<br>Hydralazine|
 
 ## Mechanisms of Action of Inotropes
 
 |Mechanism|Medication|
 |-|-|
+|Na-K pump blockers|Digoxin<br>Digitalis|
 |β<sub>1</sub> agonists|Norepinephrine<br>Epinephrine<br>Isoproterenol<br>Dobutamine<br>Dopamine|
 |PDE inhibitors|Inamrinone<br>Milrinone|
-|Na-K pump blockers|Digoxin<br>Digitalis|
 
 ## Effects of Inotropes
 
