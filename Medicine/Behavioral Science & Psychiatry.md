@@ -204,6 +204,7 @@
 
 - Anticholinergic symptoms
 - Antiadrenergic symptoms
+- Antihistamine symptoms
 - Cardiac :: QT prolongation
 - Extrapyramidal symptoms (EPS)
 - Endocrine :: hyperprolactinemia
@@ -265,6 +266,14 @@
 |MAO inhibitors|Tranylcypromine<br>Phenelzine<br>Isocarboxazid<br>Selegiline|
 |α<sub>2</sub> antagonists|Mirtazapine|
 |5-HT modulators|Trazodone|
+
+## Side Effects of Antidepressants
+
+- Anticholinergic symptoms
+- Antiadrenergic symptoms
+- Antihistamine symptoms
+- Cardiac :: QT prolongation
+- Serotonin syndrome
 
 ## Presentation of Manic Episode {DIG-FAST}
 
