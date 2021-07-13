@@ -176,11 +176,9 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|α<sub>1</sub> antagonists|Tamsulosin|Benign prostatic hyperplasia (BPH)|
-||Terazosin<br>Doxazosin<br>Prazosin|Benign prostatic hyperplasia (BPH)<br>Hypertension<br>Pheochromocytoma (PCC)|
+|α<sub>1</sub> antagonists|Tamsulosin<br>Terazosin<br>Doxazosin<br>Prazosin|Benign prostatic hyperplasia (BPH)<br>Hypertension<br>Pheochromocytoma|
 |α<sub>2</sub> antagonists|Mirtazapine|Depression|
-|α antagonists|Phentolamine|Pheochromocytoma (PCC)|
-||Phenoxybenzamine|Pheochromocytoma (PCC)|
+|α antagonists|Phentolamine<br>Phenoxybenzamine|Pheochromocytoma|
 ||Antipsychotics|-|
 ||Antidepressants :: TCA|-|
 ||1° Antihistamines|-|
