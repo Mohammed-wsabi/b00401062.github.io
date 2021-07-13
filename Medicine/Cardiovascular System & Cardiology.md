@@ -115,7 +115,7 @@
 |K channel activators|Minoxidil<br>Diazoxide|
 |Ca channel blockers|-Dipines|
 |α<sub>1</sub> antagonists|Terazosin<br>Doxazosin<br>Prazosin|
-|α<sub>2</sub> agonists|Clonidine<br>Methyldopa|
+|α<sub>2</sub> agonists|Clonidine<br><br>Guanfacine<br>Methyldopa|
 |D<sub>1</sub> agonists|Fenoldopam|
 |A<sub>1</sub> agonists|Adenosine|
 |PDE inhibitors|Dipyridamole<br>Cilostazol|
