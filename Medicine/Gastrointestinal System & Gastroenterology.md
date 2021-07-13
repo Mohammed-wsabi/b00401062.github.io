@@ -172,7 +172,7 @@
 - Inability to vomit
 - Difficult passage of nasogastric (NG) tube
 
-## Mechanisms of Action of Medications for Peptic Ulcer Disease (PUD)
+## Mechanisms of Action of Medications for PUD
 
 |Mechanism|Medication|
 |-|-|
