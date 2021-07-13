@@ -320,7 +320,7 @@
 
 ![](../Figures/Factors%20Affecting%20Cerebral%20Blood%20Flow.jpg)
 
-## Sleep-wake Cycle
+## Sleep-Wake Cycle
 
 |Stage|Waves|
 |-|-|
@@ -331,7 +331,7 @@
 |NREM sleep :: stage 3 & 4|δ wave|
 |REM sleep|β wave|
 
-![](../Figures/Sleep-wake%20Cycle.jpg)
+![](../Figures/Sleep-Wake%20Cycle.jpg)
 
 ## Craniosynostosis
 
