@@ -18,7 +18,7 @@
 
 |Endocrine Gland|1° Hormones|2° Stimulation|3° Stimulation|Effect|
 |-|-|-|-|-|
-|Hypothalamus|Vasopressin|-|-|↓ Osmolarity & ↑ BP|
+|Hypothalamus|Vasopressin|-|-|↓ Na & ↑ BP|
 ||Oxytocin|-|-|↑ Contraction|
 |Thyroid|TH|↑ TSH|↑ TRH|↑ Metabolism|
 ||Calcitonin|-|-|↓ Ca|
