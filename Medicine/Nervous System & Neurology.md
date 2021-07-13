@@ -1,5 +1,20 @@
 # Nervous System & Neurology
 
+## Neurotransmitters
+
+|Neurotransmitter|Location|Precursor|Metabolites|
+|-|-|-|-|
+|Acetylcholine|Basal nucleus of Meynert|-|Acetate & Choline|
+|Dopamine|Ventral tegmentum<br>Substantia nigra|Tyrosine|Homovanillic acid (HVA)|
+|Norepinephrine|Nucleus ceruleus|Tyrosine|Vanillylmandelic acid (VMA)|
+|Epinephrine|Adrenal medulla|Tyrosine|Vanillylmandelic acid (VMA)|
+|Serotonin|Raphe nucleus|Tryptophan|5-hydroxyindoleacetic acid (5-HIAA)|
+|Histamine|-|Histidine|-|
+|Glutamate|-|Glutamate|-|
+|GABA|Nucleus accumbens|Glutamate|-|
+|Glycine|-|Glycine|-|
+|Opioid|-|-|-|
+
 ## Cerebral Cortex
 
 ### Layers
