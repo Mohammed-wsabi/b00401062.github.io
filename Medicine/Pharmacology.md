@@ -63,7 +63,7 @@
 |Ca channel activators|-|-|
 |Ca channel blockers|Class 4 antiarrhythmics|Arrhythmia|
 ||-Dipines|Vasodilation|
-||Dantrolene|Malignant hyperthermia<br>Neuroleptic malignant syndrome (NMS)|
+||Dantrolene|Malignant hyperthermia<br>NMS|
 ||Ethosuximide|Seizure|
 ||Gabapentin<br>Pregabalin|Seizure<br>Neuropathic pain|
 |Na-K pump blockers|Digoxin<br>Digitalis|Arrhythmia<br>Inotrope|
@@ -202,7 +202,7 @@
 |-|-|-|
 |D agonists|Dopamine|Inotrope|
 |D<sub>1</sub> agonists|Fenoldopam|Hypertension|
-|D<sub>2</sub> agonists|Bromocriptine|Parkinson disease<br>Prolactinoma|
+|D<sub>2</sub> agonists|Bromocriptine|Parkinson disease<br>Prolactinoma<br>NMS|
 ||Cabergoline|Parkinson disease<br>Prolactinoma|
 ||Pramipexole|Parkinson disease|
 ||Ropinirole|Parkinson disease|
@@ -238,7 +238,7 @@
 |-|-|-|
 |NMDA agonists|-|-|
 |NMDA antagonists|Memantine|Alzheimer disease|
-||Amantadine|Parkinson disease|
+||Amantadine|Parkinson disease<br>NMS|
 ||Riluzole|Amyotrophic lateral sclerosis (ALS)|
 ||Dextromethorphan|Coughing|
 ||Ketamine<br>Phencyclidine (PCP)|Anesthesia<br>Hallucinogen|
@@ -248,7 +248,7 @@
 |Mechanism|Medication|Indications|
 |-|-|-|
 |GABA-A agonists|Barbiturates|Anesthesia<br>Seizure|
-||Benzodiazepines|Anesthesia<br>Seizure<br>Insomnia|
+||Benzodiazepines|Anesthesia<br>Seizure<br>Insomnia<br>NMS|
 ||Propofol|Anesthesia|
 ||Etomidate|Anesthesia|
 ||Zolpidem<br>Zaleplon<br>Eszopiclone|Insomnia|
