@@ -41,7 +41,7 @@
 - Furosemide
 - Acetazolamide
 - Celecoxib
-- Thiazide
+- Thiazides
 - Sulfonamides
 - Sulfonylureas
 
