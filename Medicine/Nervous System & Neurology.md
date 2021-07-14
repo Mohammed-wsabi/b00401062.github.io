@@ -554,12 +554,12 @@
 
 ## Demyelinating Diseases
 
-- Multiple sclerosis
 - Central pontine myelinolysis (CPM)
+- Multiple sclerosis
 - Progressive multifocal leukoencephalopathy (PML)
+- Leukodystrophies
 - Tabes dorsalis
 - Subacute combined degeneration (SCD)
-- Leukodystrophies
 - Guillain-Barre syndrome
 - Charcot-Marie-Tooth disease
 
@@ -609,6 +609,16 @@
 |Subacute combined degeneration (SCD)|+|-|+|-|
 |Anterior spinal artery syndrome|-|+|+|+|
 |Brown-Sequard syndrome|+|+|+|+|
+
+## Etiology of Peripheral Polyneuropathy
+
+- Disbetic neuropathy
+- Porphyria
+- Chemotherapy toxicity
+- Tabes dorsalis
+- Subacute combined degeneration (SCD)
+- Guillain-Barre syndrome
+- Charcot-Marie-Tooth disease
 
 ## Classic Triad of Wernicke Encephalopathy {CAO}
 
