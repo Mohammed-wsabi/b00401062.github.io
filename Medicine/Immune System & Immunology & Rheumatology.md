@@ -223,7 +223,7 @@
 |Pernicious anemia|Anti-parietal cell<br>Anti-intrinsic factor|
 |Rheumatic fever|Anti-M protein|
 |Transfusion reaction :: hemolytic|Anti-ABO<br>Anti-Rh|
-|Transplant reaction :: hyperacute|-|
+|Transplant reaction :: hyperacute|Anti-graft|
 
 ### Type 3
 
@@ -445,7 +445,7 @@
 
 |Type|Causes|Onset|
 |-|-|-|
-|Hyperacute|Anti-ABO<br>Anti-Rh|Minutes|
+|Hyperacute|Anti-graft|Minutes|
 |Acute|T-cell|Days ~ Months|
 |Chronic|T-cell|Years|
 
