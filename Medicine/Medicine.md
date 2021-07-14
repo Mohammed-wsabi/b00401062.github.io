@@ -466,18 +466,22 @@
 - Glucocorticoids
 - Dialysis
 
-## Presentation of Vitamin Deficiency and Intoxication
+## Presentation of Vitamin Deficiency
 
-|Vitamin|Deficiency|Intoxication|
+|Vitamin|Deficiency|
 |-|-|
 |A|Night blindness<br>Xeroderma<br>Xerophthalmia<br>Bitot spots|
 |B<sub>1</sub>|Dry beriberi<br>Wet beriberi<br>Wernicke-Korsakoff syndrome|
 |B<sub>2</sub> {2C}|Cheilosis<br>Corneal vascularization|
 |B<sub>3</sub> {3D}|Diarrhea<br>Dementia<br>Dermatitis :: pellagra|
 |B<sub>6</sub>|Homocystinuria<br>Sideroblastic anemia<br>Peripheral neuropathy|
+|B<sub>7</sub>|Dermatitis<br>Alopecia|
 |B<sub>9</sub>|Homocystinuria<br>Megaloblastic anemia<br>Neural tube defect|
 |B<sub>12</sub>|Homocystinuria<br>Megaloblastic anemia<br>Methylmalonic acidemia<br>Subacute combined degeneration|
 |C|Scurvy|
+|D|Ricket<br>Osteomalacia<br>Hypocalcemia<br>Hypophosphatemia|
+|E|Hemolytic anemia|
+|K|Coagulopathy|
 
 ## Etiology of Vitamin B<sub>9</sub> Deficiency
 
@@ -547,7 +551,6 @@
 
 - Pericarditis
 - Pancreatitis
-
 
 ## Iron Disorders
 
