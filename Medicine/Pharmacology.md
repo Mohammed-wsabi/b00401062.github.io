@@ -2,13 +2,13 @@
 
 ## Cytochrome P-450 (CYP450) Interactions
 
-### Inducers
+### Inducers {CGR-MASP}
 
 - Carbamazepine
 - Griseofulvin
-- Alcohol :: chronic
 - Rifampin
 - Modafinil
+- Alcohol :: chronic
 - St. John wort
 - Phenytoin
 - Phenobarbital
@@ -20,17 +20,17 @@
 - Warfarin
 - Oral contraceptives (OCPs)
 
-### Inhibitors
+### Inhibitors {CIGAR-MASQ}
 
 - Cimetidine
 - -Conazoles
 - Isoniazid
 - Grapefruit
-- Alcohol :: acute
+- Amiodarone
 - Ritonavir
 - Macrolides
 - Metronidazole
-- Amiodarone
+- Alcohol :: acute
 - Sulfonamides
 - Quinolone
 - Quinidine
