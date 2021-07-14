@@ -646,7 +646,7 @@
 
 ## Side Effects of Antibiotics
 
-|Side Effects|Antibiotics|
+|Side Effects|Drugs|
 |-|-|
 |Nephrotoxicity|Cephalosporins<br>Vancomycin<br>Aminoglycosides|
 |Ototoxicity|Vancomycin<br>Aminoglycosides|
