@@ -191,12 +191,12 @@
 ||Avelumab|Cancer|
 ||Durvalumab|Cancer|
 
-## Side Effects of Antineoplastics
+## Side Effects of Chemotherapy
 
-|Side Effect|Antibiotics|
+|Side Effect|Drugs|
 |-|-|
-|Marrow suppression|-|
 |Immunosuppression|-|
+|Marrow toxicity|-|
 |Nephrotoxicity|Platinums|
 |Neurotoxicity|Nitrosoureas<br>Platinums<br>Vincas<br>Taxanes|
 |Cardiotoxicity|Anthracyclines<br>Trastuzumab|
