@@ -24,6 +24,15 @@
 
 ![](../Figures/Vestibulo-ocular%20Reflex.png)
 
+## Fundoscopic findings
+
+|Finding|Diseases|
+|-|-|
+|Cherry-red sports|Retinal artery occlusion<br>Lysosomal storage diseases (LSD)|
+|Cotton-wool spots|Hypertensive retinopathy<br>Diabetic retinopathy<br>Retinal vein occlusion|
+|Optic nerve cupping|Open-angle glaucoma|
+|Drusen|Atrophic macular degeneration|
+
 ## Etiology of Ophthalmoplegia & Nystagmus
 
 - Cavernous sinus thrombosis
