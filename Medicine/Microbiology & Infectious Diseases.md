@@ -338,7 +338,7 @@
 
 |Parasite|Disease|Treatment|
 |-|-|-|
-|Acanthamoeba|Amebic meningoencephalitis|Azoles|
+|Acanthamoeba|Amebic meningoencephalitis|-Conazoles|
 |Naegleria fowleri|Amebic meningoencephalitis|Amphotericin B|
 |Toxoplasma gondii|Toxoplasmosis|Pyrimethamine<br>Sulfadiazine|
 |Trypanosoma brucei|African sleeping sickness|Suramin<br>Melarsoprol|
