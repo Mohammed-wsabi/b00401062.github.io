@@ -2,35 +2,36 @@
 
 ## Cytochrome P-450 (CYP450) Interactions
 
-### Inducers {CSGAR-PP}
+### Inducers
 
 - Carbamazepine
-- St. John wort
 - Griseofulvin
 - Alcohol :: chronic
 - Rifampin
+- Modafinil
+- St. John wort
 - Phenytoin
 - Phenobarbital
 
 ### Substrates {ATWO}
 
 - Anticonvulsants
-- Acetaminophen
 - Theophylline
 - Warfarin
 - Oral contraceptives (OCPs)
 
-### Inhibitors {CIGAR-MASK-QQ}
+### Inhibitors
 
 - Cimetidine
+- -Conazoles
 - Isoniazid
 - Grapefruit
 - Alcohol :: acute
 - Ritonavir
-- Macrolide
+- Macrolides
+- Metronidazole
 - Amiodarone
 - Sulfonamides
-- Ketoconazole
 - Quinolone
 - Quinidine
 
