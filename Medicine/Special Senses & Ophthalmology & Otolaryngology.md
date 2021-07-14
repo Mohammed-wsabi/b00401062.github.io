@@ -29,7 +29,7 @@
 |Finding|Diseases|
 |-|-|
 |Cherry-red sports|Retinal artery occlusion<br>Lysosomal storage diseases (LSD)|
-|Cotton-wool spots|Hypertensive retinopathy<br>Diabetic retinopathy<br>Retinal vein occlusion|
+|Cotton-wool spots|Hypertensive retinopathy<br>Diabetic retinopathy<br>Retinal vein occlusion<br>CMV retinitis|
 |Optic nerve cupping|Open-angle glaucoma|
 |Drusen|Atrophic macular degeneration|
 
