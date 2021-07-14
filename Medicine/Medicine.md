@@ -466,11 +466,11 @@
 - Glucocorticoids
 - Dialysis
 
-## Presentation of Vitamin Deficiency
+## Presentation of Vitamin Deficiency and Intoxication
 
-|Vitamin|Presentation|
+|Vitamin|Deficiency|Intoxication|
 |-|-|
-|A|Night blindness<br>Xeroderma|
+|A|Night blindness<br>Xeroderma<br>Xerophthalmia<br>Bitot spots|
 |B<sub>1</sub>|Dry beriberi<br>Wet beriberi<br>Wernicke-Korsakoff syndrome|
 |B<sub>2</sub> {2C}|Cheilosis<br>Corneal vascularization|
 |B<sub>3</sub> {3D}|Diarrhea<br>Dementia<br>Dermatitis :: pellagra|
