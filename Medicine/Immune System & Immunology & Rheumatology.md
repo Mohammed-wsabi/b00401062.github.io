@@ -229,16 +229,16 @@
 
 |Disease|Antibodies|
 |-|-|
-|Vasculitis :: granulomatosis with polyangiitis (GPA)|PR3-ANCA [c-ANCA]|
-|Vasculitis :: eosinophilic granulomatosis with polyangiitis (EGPA)|MPO-ANCA [p-ANCA]|
-|Vasculitis :: microscopic polyangiitis|MPO-ANCA [p-ANCA]|
+|ANCA-associated vasculitis (AAV) ::<br>granulomatosis with polyangiitis (GPA)|PR3-ANCA [c-ANCA]|
+|ANCA-associated vasculitis (AAV) ::<br>eosinophilic granulomatosis with polyangiitis (EGPA)|MPO-ANCA [p-ANCA]|
+|ANCA-associated vasculitis (AAV) ::<br>microscopic polyangiitis|MPO-ANCA [p-ANCA]|
 |Antiphospholipid syndrome (APS)|Anti-cardiolipin<br>Anti-β2-glycoprotein I<br>Lupus anticoagulant|
 |Arthus reaction|-|
 |Autoimmune hepatitis|Anti-smooth muscle<br>Anti-liver cytosol|
 |Dermatitis herpetiformis|Anti-tissue transglutaminase (Anti-tTG) IgA|
 |Drug-induced lupus|Anti-histone|
-|IgA vasculitis [Henoch-Schonlein purpura (HSP)]|IgA|
 |IgA nephropathy [Berger disease]|IgA|
+|IgA vasculitis [Henoch-Schonlein purpura (HSP)]|IgA|
 |Membranoproliferative glomerulonephritis (MPGN)|C3 nephritic factor|
 |Mixed connective tissue disease (MCTD)|Anti-U1 RNP|
 |Polyarteritis nodosa|-|
@@ -264,7 +264,8 @@
 |PPD skin test|-|
 |Stevens-Johnson syndrome (SJS)|-|
 |Toxic epidermal necrolysis (TEN)|-|
-|Transplant reaction :: acute & chronic|-|
+|Transplant reaction :: acute|-|
+|Transplant reaction :: chronic|-|
 
 ## HLA Subtypes Associated With Diseases
 
