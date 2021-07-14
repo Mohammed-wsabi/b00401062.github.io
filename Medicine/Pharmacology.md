@@ -34,6 +34,7 @@
 - Sulfonamides
 - Quinolone
 - Quinidine
+- Valproate
 
 ## Sulfa Drugs {P-FACTSSS}
 
