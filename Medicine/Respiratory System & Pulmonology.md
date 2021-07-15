@@ -12,8 +12,8 @@
 
 |Indices|Methods|
 |-|-|
-|IRV & TV & ERV|Spirometry|
-|RV|Helium dilution method & Plethysmography|
+|IRV<br>TV<br>ERV|Spirometry|
+|RV|Helium dilution method<br>Plethysmography|
 
 ![](../Figures/Lung%20Volumes.png)
 
