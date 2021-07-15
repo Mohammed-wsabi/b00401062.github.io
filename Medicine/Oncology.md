@@ -198,6 +198,7 @@
 |Immunosuppression|-|
 |Marrow toxicity|-|
 |Nephrotoxicity|Platinums|
+|Ototoxicity|Platinums|
 |Neurotoxicity|Nitrosoureas<br>Platinums<br>Vincas<br>Taxanes|
 |Cardiotoxicity|Anthracyclines<br>Trastuzumab|
 |Pulmonary fibrosis|Bleomycin<br>Busulfan|
