@@ -148,6 +148,7 @@
 ## Medications Slowing Conduction {ABCD}
 
 - Adenosine
+- Amiodarone
 - β antagonists
 - Ca channel blockers
 - Digoxin & Digitalis
@@ -634,9 +635,6 @@
   - Thromboangiitis obliterans [Buerger disease]
 - Small-vessel
   - ANCA-associated vasculitis (AAV)
-    - Granulomatosis with polyangiitis (GPA) [Wegener's granulomatosis]
-    - Eosinophilic granulomatosis with polyangiitis (EGPA) [Churg-Strauss syndrome]
-    - Microscopic polyangiitis
   - IgA vasculitis [Henoch-Schonlein purpura (HSP)]
   - Cryoglobulinemic vasculitis
 
@@ -652,9 +650,9 @@
 
 ## Indications for Defibrillation
 
-- Pulseless monomorphic VT: 120 ~ 200 J
-- Polymorphic VT: 120 ~ 200 J
 - VF: 120 ~ 200 J
+- Pulseless VT: 120 ~ 200 J
+- Unstable polymorphic VT: 120 ~ 200 J
 
 ## Indications for Synchronized Cardioversion
 
@@ -665,7 +663,7 @@
 
 ## Indications for Permanent Pacemaker
 
-- Sinus bradycardia :: < 40 & symptomatic
+- Sinus bradycardia :: < 40/min & symptomatic
 - Sick sinus syndrome
 - AV blocks :: 2nd degree Mobitz II & 3rd degree
 
