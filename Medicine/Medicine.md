@@ -446,11 +446,14 @@
 ## Etiology of Hypercalcemia {CHIMPANZEES}
 
 - Calcium supplementation
-- Hyperparathyroidism / Hyperthyroidism
-- Iatrogenic / Immobility
+- Hyperparathyroidism
+- Hyperthyroidism
+- Iatrogenic
+- Immobility
 - Milk-alkali syndrome
-- Paget's disease
-- Adrenal insufficiency / Acromegaly
+- Paget disease
+- Adrenal insufficiency
+- Acromegaly
 - Neoplasm
 - Zollinger-Ellison syndrome
 - Excess vitamin A
@@ -495,7 +498,7 @@
 ## Etiology of Vitamin B<sub>12</sub> Deficiency
 
 - Achlorhydria
-- Crohn's disease
+- Crohn disease
 - Diphyllobothrium latum
 - Gastrectomy
 - Gastritis
@@ -507,7 +510,7 @@
 
 - Biliary atresia
 - Broad-spectrum antibiotics
-- Crohn's disease
+- Crohn disease
 - Cystic fibrosis
 - Primary biliary cholangitis (PBC)
 - Primary sclerosing cholangitis (PSC)
