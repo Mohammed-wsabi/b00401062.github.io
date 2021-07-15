@@ -35,6 +35,7 @@
 - Quinolone
 - Quinidine
 - Valproate
+- Omeprazole
 
 ## Sulfa Drugs {P-FACTSSS}
 
