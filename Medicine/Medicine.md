@@ -483,13 +483,53 @@
 - Steatorrhea
 - Vitamin E intoxication
 
+## Iron Disorders
+
+|Anemia|Fe|Ferritin|Transferrin [TIBC]|Saturation = Fe ÷ TIBC|
+|-|-|-|-|-|
+|Thalassemia|-|-|-|-|
+|Sideroblastic anemia|↑ (1°)|↑|↓|↑|
+|Anemia of chronic disorders|↓|↑ (1°)|↓|-|
+|Iron deficiency anemia (IDA)|↓ (1°)|↓|↑|↓|
+|Hemochromatosis|↑ (1°)|↑|↓|↑|
+|Pregnancy & OCP|-|-|↑ (1°)|↓|
+
+## Presentation of Iron Deficiency
+
+## Presentation of Copper Deficiency
+
+## Presentation of Zinc Deficiency
+
+## Triad of Hemochromatosis
+
+- Cirrhosis
+- Diabetes melitus
+- Skin pigmentation
+
+## Treatment of Hemochromatosis
+
+- Phlebotomy
+- Chelation
+  - Deferasirox
+  - Deferoxamine
+  - Deferiprone
+
+## Treatment of Wilson Disease
+
+- Zinc
+- Chelation
+  - Penicillamine
+  - Trientine
+
 ## Metabolic Syndrome
 
 - Abdominal obesity
 - Hypertension: BP ≥ 130/85 mmHg
 - Hyperglycemia: FBG ≥ 100 mg/dL
 - Hypertriglycemia: triglyceride ≥ 150 mg/dL
-- Low HDL cholesterol: HDL < 40 mg/dL in men / < 50 mg/dL in women
+- Low HDL cholesterol
+  - HDL < 40 mg/dL in men
+  - HDL < 50 mg/dL in women
 
 ## Indications for Low-Protein Diet
 
@@ -519,38 +559,6 @@
 
 - Pericarditis
 - Pancreatitis
-
-## Iron Disorders
-
-|Anemia|Fe|Ferritin|Transferrin [TIBC]|Saturation = Fe ÷ TIBC|
-|-|-|-|-|-|
-|Thalassemia|-|-|-|-|
-|Sideroblastic anemia|↑ (1°)|↑|↓|↑|
-|Anemia of chronic disorders|↓|↑ (1°)|↓|-|
-|Iron deficiency anemia (IDA)|↓ (1°)|↓|↑|↓|
-|Hemochromatosis|↑ (1°)|↑|↓|↑|
-|Pregnancy & OCP|-|-|↑ (1°)|↓|
-
-## Triad of Hemochromatosis
-
-- Cirrhosis
-- Diabetes melitus
-- Skin pigmentation
-
-## Treatment of Hemochromatosis
-
-- Phlebotomy
-- Chelation
-  - Deferasirox
-  - Deferoxamine
-  - Deferiprone
-
-## Treatment of Wilson Disease
-
-- Zinc
-- Chelation
-  - Penicillamine
-  - Trientine
 
 ## Collagen Synthesis
 
