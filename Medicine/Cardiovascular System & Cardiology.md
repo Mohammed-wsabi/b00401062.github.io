@@ -472,9 +472,9 @@
 
 |Mechanism|Medication|
 |-|-|
-|Class 1A: Na channel blockers|Quinidine<br>Procainamide<br>Disopyramide}
-|Class 1B: Na channel blockers|Lidocaine<br>Mexiletine|
-|Class 1C: Na channel blockers|Flecainide<br>Propafenone|
+|Class 1: Na channel blockers|Class 1A:<br>Quinidine<br>Procainamide<br>Disopyramide}
+||Class 1B:<br>Lidocaine<br>Mexiletine|
+||Class 1C:<br>Flecainide<br>Propafenone|
 |Class 2: β antagonists|-|
 |Class 3: K channel blockers|Amiodarone<br>Ibutilide<br>Dofetilide<br>Sotalol|
 |Class 4: Ca channel blockers|Verapamil<br>Diltiazem|
