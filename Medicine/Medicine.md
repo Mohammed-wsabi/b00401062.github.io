@@ -249,28 +249,6 @@
 - Thrombosis :: pulmonary embolism
 - Toxin
 
-## Etiology of Shortness of Breath (SOB)
-
-- Heart
-  - Pericardium
-  - Myocardium
-  - Endocardium
-  - Coronary arteries
-  - Conduction system
-- Chest
-  - Ribs
-  - Pleura
-    - **Pneumothorax**
-    - **Pleural effusions**
-    - **Hemothorax**
-  - Alveoli
-    - **Emphysema**
-    - **Pulmonary edema**
-    - **Pneumonia**
-  - Airways
-  - Vessels
-- Blood
-
 ## Etiology of Desaturation in Intubated Patients
 
 - Displacement
@@ -292,12 +270,12 @@
 - Acidosis
 - Electrolyte disturbances
 - Intoxication
-- Oxygen: hypoxemia & hypercarbia
+- Oxygen
 - Uremia
 - Trauma
 - Infection
 - Psychosis
-- Sugar: hypoglycemia & hyperglycemia
+- Sugar
 - Seizures
 - Strokes
 - Syncope
@@ -359,30 +337,6 @@
     - **Liddle syndrome**
     - **Syndrome of apparent mineralocorticoid excess (SAME)**
 
-## ECG Changes in Electrolyte Disturbances
-
-### Hypokalemia
-
-- Flattened T waves
-- U waves
-
-### Hyperkalemia
-
-- Flattened P waves
-- Widened QRS complexes
-- Peaked T waves
-- Sine waves
-
-### Hypocalcemia
-
-- Prolonged QT interval
-- Bradycardia
-
-### Hypercalcemia
-
-- Shortened QT interval
-- Tachycardia
-
 ## Workup of Hyponatremia
 
 - Serum osmolality < 280 mOsm/kg [Hypotonic]
@@ -435,8 +389,19 @@
 - Polystyrene sulfonate: Kalimate & Kayexalate
 - Diuretics :: Loop diuretics
 
+## Presentation of Hypocalcemia
+
+- Bradycardia
+- Prolonged QT interval
+- Tetany
+- Chvostek sign
+- Trousseau sign
+
 ## Presentation of Hypercalcemia
 
+- Tachycardia
+- Shortened QT interval
+- Weakness
 - Constipation
 - Polyuria
 - Kidney stones
