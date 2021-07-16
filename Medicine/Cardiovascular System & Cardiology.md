@@ -461,11 +461,12 @@
 
 ## Etiology of QT Prolongation
 
-## Etiology of Torsades de Pointes
-
-- QT prolongation
-- Hypokalemia
-- Hypomagnesemia
+- Drugs {ABCDE}
+- Electrolyte disturbances
+  - Hypokalemia
+  - Hypocalcemia
+  - Hypomagnesemia
+- Congenital long QT syndrome
 
 ## Mechanisms of Action of Antiarrhythmics
 
