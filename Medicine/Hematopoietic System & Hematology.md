@@ -410,7 +410,8 @@
 |Prothrombin gene mutation|↑ Factor 2|
 |Antithrombin deficiency|↓ Antithrombin|
 |Protein C/S deficiency|↓ Protein C/S|
-|Nephrosis|↓ Protein C/S|ro
+|Homocysteinemia|↑ Factor 7|
+|Nephrosis|↓ Protein C/S|
 |Pregnancy|↑ Factor 1|
 
 ## Mechanisms of Action of Antiplatelets
