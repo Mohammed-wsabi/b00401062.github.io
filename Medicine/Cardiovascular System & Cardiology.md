@@ -418,54 +418,6 @@
 
 ![](../Figures/Types%20of%20Pre-excitation.png)
 
-## Rules of Malignancy for PVC
-
-- Frequent PVC
-- Consecutive PVC
-- R-on-T phenomenon
-- Acute myocardial infraction
-- Multiform PVC
-
-## Effects of Antiarrhythmics on ECG
-
-|ECG|Heart|Phase|Ion Channel|Antiarrhythmics|
-|-|-|-|-|-|
-|Heart rate|SA node|4|Na & K|Class 2|
-|PR interval|AV node|0|Ca|Class 2 & 4|
-|QRS complex|Ventricle|0|Na|Class 1|
-|QT interval|Ventricle|2 & 3|K|Class 1 & 3|
-
-## Mechanisms of Action of Antiarrhythmics
-
-|Mechanism|Medication|Indications|
-|-|-|-|
-|Class 1A: Na channel blockers|Quinidine|Arrhythmia|
-||Procainamide|Arrhythmia|
-||Disopyramide|Arrhythmia|
-|Class 1B: Na channel blockers|Lidocaine|Arrhythmia|
-||Mexiletine|Arrhythmia|
-|Class 1C: Na channel blockers|Flecainide|Arrhythmia|
-||Propafenone|Arrhythmia|
-|Class 2: β antagonists|-|Arrhythmia|
-|Class 3: K channel blockers|Amiodarone|Arrhythmia|
-||Ibutilide|Arrhythmia|
-||Dofetilide|Arrhythmia|
-||Sotalol|Arrhythmia|
-|Class 4: Ca channel blockers|Verapamil|Arrhythmia|
-||Diltiazem|Arrhythmia|
-|Miscellaneous|Digoxin<br>Digitalis|Arrhythmia|
-||Adenosine|Arrhythmia|
-||Magnesium|Arrhythmia|
-
-## Contraindications for Amiodarone
-
-- Sinus bradycardia :: < 40 & symptomatic
-- Sick sinus syndrome
-- AV blocks :: 2nd & 3rd degree
-- QT prolongation
-- Wolff-Parkinson-White (WPW) syndrome
-- Cardiogenic shock
-
 ## Risk of Stroke from Atrial Fibrillation
 
 ### CHADS<sub>2</sub> Score
@@ -499,11 +451,80 @@
   - Rate control :: Class 2 & 4 & Digoxin
   - Rhythm control :: Class 1 & 3
 
+## Rules of Malignancy for PVC
+
+- Frequent PVC
+- Consecutive PVC
+- R-on-T phenomenon
+- Acute myocardial infraction
+- Multiform PVC
+
+## Etiology of QT Prolongation
+
 ## Etiology of Torsades de Pointes
 
 - QT prolongation
 - Hypokalemia
 - Hypomagnesemia
+
+## Mechanisms of Action of Antiarrhythmics
+
+|Mechanism|Medication|Indications|
+|-|-|-|
+|Class 1A: Na channel blockers|Quinidine|Arrhythmia|
+||Procainamide|Arrhythmia|
+||Disopyramide|Arrhythmia|
+|Class 1B: Na channel blockers|Lidocaine|Arrhythmia|
+||Mexiletine|Arrhythmia|
+|Class 1C: Na channel blockers|Flecainide|Arrhythmia|
+||Propafenone|Arrhythmia|
+|Class 2: β antagonists|-|Arrhythmia|
+|Class 3: K channel blockers|Amiodarone|Arrhythmia|
+||Ibutilide|Arrhythmia|
+||Dofetilide|Arrhythmia|
+||Sotalol|Arrhythmia|
+|Class 4: Ca channel blockers|Verapamil|Arrhythmia|
+||Diltiazem|Arrhythmia|
+|Miscellaneous|Digoxin<br>Digitalis|Arrhythmia|
+||Adenosine|Arrhythmia|
+||Magnesium|Arrhythmia|
+
+## Effects of Antiarrhythmics on ECG
+
+|ECG|Heart|Phase|Ion Channel|Antiarrhythmics|
+|-|-|-|-|-|
+|Heart rate|SA node|4|Na & K|Class 2|
+|PR interval|AV node|0|Ca|Class 2 & 4|
+|QRS complex|Ventricle|0|Na|Class 1|
+|QT interval|Ventricle|2 & 3|K|Class 1 & 3|
+
+## Contraindications for Amiodarone
+
+- Sinus bradycardia :: < 40 & symptomatic
+- Sick sinus syndrome
+- AV blocks :: 2nd & 3rd degree
+- QT prolongation
+- Wolff-Parkinson-White (WPW) syndrome
+- Cardiogenic shock
+
+## Indications for Defibrillation
+
+- VF: 120 ~ 200 J
+- Pulseless VT: 120 ~ 200 J
+- Unstable polymorphic VT: 120 ~ 200 J
+
+## Indications for Synchronized Cardioversion
+
+- Unstable narrow-QRS tachycardia: 50 ~ 100 J
+- Unstable atrial flutter: 50 ~ 100 J
+- Unstable atrial fibrillation: 120 ~ 200 J
+- Unstable monomorphic VT: > 100 J
+
+## Indications for Permanent Pacemaker
+
+- Sinus bradycardia :: < 40/min & symptomatic
+- Sick sinus syndrome
+- AV blocks :: 2nd degree Mobitz II & 3rd degree
 
 ## Etiology of ST Segment Elevation
 
@@ -671,25 +692,6 @@
 |Granulomatosis with polyangiitis (GPA) [Wegener granulomatosis]|PR3-ANCA [c-ANCA]|Nasopharynx & & Sinus & Lung & Kidney|
 |Eosinophilic granulomatosis with polyangiitis (EGPA) [Churg-Strauss syndrome]|MPO-ANCA [p-ANCA]|Sinus & Asthma & Kidney & Nerve|
 |Microscopic polyangiitis|MPO-ANCA [p-ANCA]|Lung & Kidney|
-
-## Indications for Defibrillation
-
-- VF: 120 ~ 200 J
-- Pulseless VT: 120 ~ 200 J
-- Unstable polymorphic VT: 120 ~ 200 J
-
-## Indications for Synchronized Cardioversion
-
-- Unstable narrow-QRS tachycardia: 50 ~ 100 J
-- Unstable atrial flutter: 50 ~ 100 J
-- Unstable atrial fibrillation: 120 ~ 200 J
-- Unstable monomorphic VT: > 100 J
-
-## Indications for Permanent Pacemaker
-
-- Sinus bradycardia :: < 40/min & symptomatic
-- Sick sinus syndrome
-- AV blocks :: 2nd degree Mobitz II & 3rd degree
 
 ## Pathogens of Infective Endocarditis
 
