@@ -472,7 +472,7 @@
 
 |Mechanism|Medication|
 |-|-|
-|Class 1: Na channel blockers|Class 1A:<br>Quinidine<br>Procainamide<br>Disopyramide}
+|Class 1: Na channel blockers|Class 1A:<br>Quinidine<br>Procainamide<br>Disopyramide|
 ||Class 1B:<br>Lidocaine<br>Mexiletine|
 ||Class 1C:<br>Flecainide<br>Propafenone|
 |Class 2: β antagonists|-|
