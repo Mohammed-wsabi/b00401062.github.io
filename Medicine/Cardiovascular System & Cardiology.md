@@ -342,26 +342,6 @@
 - Doxorubicin
 - Duchenne muscular dystrophy
 
-## Etiology of Arrhythmia {HIS-BEDS}
-
-- Hypoxia
-- Ischemia
-- Irritability
-- Sympathetic tone
-- Bradycardia
-- Electrolyte disturbances
-- Drugs
-- Stretch
-
-## Pathogenesis of Arrhythmias
-
-- Automaticity
-- Triggered activity
-  - Early after-depolarization (EAD)
-  - Delayed after-depolarization (DAD)
-- Reentry
-- Conduction delay
-
 ## ECG Changes in Electrolyte Disturbances
 
 ### Hypokalemia
@@ -385,6 +365,26 @@
 
 - Shortened QT interval
 - Tachycardia
+
+## Etiology of Arrhythmia {HIS-BEDS}
+
+- Hypoxia
+- Ischemia
+- Irritability
+- Sympathetic tone
+- Bradycardia
+- Electrolyte disturbances
+- Drugs
+- Stretch
+
+## Pathogenesis of Arrhythmias
+
+- Automaticity
+- Triggered activity
+  - Early after-depolarization (EAD)
+  - Delayed after-depolarization (DAD)
+- Reentry
+- Conduction delay
 
 ## Classification of Arrhythmias
 
