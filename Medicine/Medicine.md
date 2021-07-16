@@ -488,9 +488,9 @@
 |Anemia|Fe|Ferritin|Transferrin [TIBC]|Saturation = Fe ÷ TIBC|
 |-|-|-|-|-|
 |Thalassemia|-|-|-|-|
-|Sideroblastic anemia|↑ (1°)|↑|↓|↑|
 |Anemia of chronic disorders|↓|↑ (1°)|↓|-|
 |Iron deficiency anemia (IDA)|↓ (1°)|↓|↑|↓|
+|Sideroblastic anemia|↑ (1°)|↑|↓|↑|
 |Hemochromatosis|↑ (1°)|↑|↓|↑|
 |Pregnancy & OCP|-|-|↑ (1°)|↓|
 
