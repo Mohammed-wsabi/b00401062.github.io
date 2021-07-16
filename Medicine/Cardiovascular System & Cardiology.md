@@ -362,6 +362,30 @@
 - Reentry
 - Conduction delay
 
+## ECG Changes in Electrolyte Disturbances
+
+### Hypokalemia
+
+- Flattened T waves
+- U waves
+
+### Hyperkalemia
+
+- Flattened P waves
+- Widened QRS complexes
+- Peaked T waves
+- Sine waves
+
+### Hypocalcemia
+
+- Prolonged QT interval
+- Bradycardia
+
+### Hypercalcemia
+
+- Shortened QT interval
+- Tachycardia
+
 ## Classification of Arrhythmias
 
 ### Sinus Arrhythmias
@@ -402,7 +426,7 @@
 - Acute myocardial infraction
 - Multiform PVC
 
-## Correlation of ECG with Antiarrhythmics
+## Effects of Antiarrhythmics on ECG
 
 |ECG|Heart|Phase|Ion Channel|Antiarrhythmics|
 |-|-|-|-|-|
