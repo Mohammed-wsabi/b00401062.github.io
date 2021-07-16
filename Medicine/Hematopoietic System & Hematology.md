@@ -406,11 +406,11 @@
 
 |Etiology|Mechanism|
 |-|-|
+|Homocysteinemia|↑ Factor 7|
 |Factor 5 Leiden mutation|↑ Factor 5|
 |Prothrombin gene mutation|↑ Factor 2|
 |Antithrombin deficiency|↓ Antithrombin|
 |Protein C/S deficiency|↓ Protein C/S|
-|Homocysteinemia|↑ Factor 7|
 |Nephrosis|↓ Protein C/S|
 |Pregnancy|↑ Factor 1|
 
