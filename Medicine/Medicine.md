@@ -454,7 +454,7 @@
 ## Etiology of Vitamin B<sub>9</sub> Deficiency
 
 - Alcoholism
-- Crohn's disease
+- Crohn disease
 - Malabsorption syndrome
 - Methotrexate
 - Phenytoin
@@ -500,6 +500,9 @@
 - Koilonychia
 - Pica
 - Plummer-Vinson syndrome
+  - Dysphagia
+  - Esophageal web
+  - Squamous cell carcinoma
 
 ## Triad of Hemochromatosis
 
