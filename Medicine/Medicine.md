@@ -496,6 +496,11 @@
 
 ## Presentation of Iron Deficiency
 
+- Iron deficiency anemia
+- Koilonychia
+- Pica
+- Plummer-Vinson syndrome
+
 ## Presentation of Copper Deficiency
 
 ## Presentation of Zinc Deficiency
