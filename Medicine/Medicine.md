@@ -501,10 +501,6 @@
 - Pica
 - Plummer-Vinson syndrome
 
-## Presentation of Copper Deficiency
-
-## Presentation of Zinc Deficiency
-
 ## Triad of Hemochromatosis
 
 - Cirrhosis
@@ -519,12 +515,35 @@
   - Deferoxamine
   - Deferiprone
 
+## Presentation of Copper Deficiency
+
+- ↓ Wound healing
+- Brittle hair
+- Ataxia
+- Peripheral neuropathy
+
+## Presentation of Wilson Disease
+
+- Kayser-Fleischer rings
+- Cirrhosis
+- Fanconi syndrome
+- Parkinsonism
+
 ## Treatment of Wilson Disease
 
 - Zinc
 - Chelation
   - Penicillamine
   - Trientine
+
+## Presentation of Zinc Deficiency
+
+- ↓ Wound healing
+- Dermatitis
+- Alopecia
+- Male hypogonadism
+- Dysgeusia
+- Anosmia
 
 ## Metabolic Syndrome
 
