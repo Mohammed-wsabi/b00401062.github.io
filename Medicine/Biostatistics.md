@@ -73,6 +73,11 @@
 |High type 1 error|Low type 1 error|
 |Low type 2 error|High type 2 error|
 
+## Likelihood Ratios
+
+- Positive likelihood ratio = sensitivity / (1 - specificity)
+- Negative likelihood ratio = (1 - sensitivity) / specificity
+
 ## Supervised Learning Steps
 
 - Collection
