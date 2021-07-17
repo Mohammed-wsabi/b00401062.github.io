@@ -428,6 +428,7 @@
 |↓ DNA methylation|DNA methyltransferase|Azacitidine|Human|
 |||Decitabine|Human|
 |↑ DNA intercalation|DNA|Metronidazole|Bacterium|
+|||Benznidazole|Parasite|
 |||Streptomycin|Mycobacterium|
 |||Anthracyclines [-Rubicins]|Human|
 |||Bleomycin|Human|
