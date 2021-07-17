@@ -145,13 +145,6 @@
 |Lubricants|Mineral oil|Constipation|
 |Bulk-formers|Psyllium|Constipation|
 
-## Triad of Plummer-Vinson Syndrome {DIGS}
-
-- Dysphagia ← esophageal web
-- Iron deficiency anemia
-- Glossitis
-- Squamous cell carcinoma
-
 ## Etiology of Gastritis
 
 - Achlorhydria
