@@ -179,7 +179,7 @@
 |Gardnerella vaginalis|Discharge :: grayish & fishy|Metronidazole|
 |Candida albicans|Discharge :: white & curdy|Azoles|
 |Trichomonas vaginalis|Discharge :: greenish-yellow & frothy|Metronidazole|
-|HPV|Condyloma accumulata|-|
+|HPV|Condyloma accumulata<br>Verruca vulgaris|-|
 |HSV|Paniful ulcers|-|
 
 ## Testicular Torsion and Epididymitis
