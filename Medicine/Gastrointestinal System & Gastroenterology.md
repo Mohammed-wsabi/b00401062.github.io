@@ -97,6 +97,8 @@
 
 - Cullen sign
 - Grey Turner sign
+- Fox sign
+- Bryant sign
 
 ## Etiology of Nausea and Vomiting
 
@@ -464,8 +466,6 @@
 
 ## Presentation of VIPoma {WDHA}
 
-|Mnemonic|Presentation|
-|-|-|
-|WD|Watery diarrhea|
-|H|Hypokalemia|
-|A|Achlorhydria|
+- Watery diarrhea
+- Hypokalemia
+- Achlorhydria
