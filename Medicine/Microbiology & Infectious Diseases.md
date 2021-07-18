@@ -529,7 +529,7 @@
 |VDRL/RPR<br>FTA-ABS|Treponema pallidum|
 |Tzanck test|HSV & VZV|
 |Monospot test|EBV|
-|Cold agglutinin test|Mycoplasma & HCV & EBV & CMV|
+|Cold agglutinin test|Mycoplasma<br>HCV & EBV & CMV|
 |Latex agglutination test|Cryptococcus neoformans|
 |Germ tube test|Candida albicans|
 
