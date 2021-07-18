@@ -656,16 +656,17 @@
 
 |Disorder|Defects|Effects|
 |-|-|-|
-|Phenylketonuria (PKU)|Phenylalanine hydroxylase<br>Tetrahydrobiopterin|↑ Phenylalanine<br>↓ Tyrosine|
 |Alkaptonuria (AKU)|Homogentisate oxidase|↑ Homogentisic acid|
-|Homocystinuria|Cystathionine synthase|↑ Homocysteine<br>↓ Cysteine|
-||Methionine synthase|↑ Homocysteine<br>↓ Methionine|
-|Methylmalonic acidemia|Methylmalonyl-CoA mutase|↑ Methylmalonic acid|
 |Cystinuria|Amino acid transporter|↓ COLA|
 |Hartnup disease|Amino acid transporter|↓ Tryptophan|
+|Homocystinuria|Cystathionine synthase|↑ Homocysteine<br>↓ Cysteine|
+||Methionine synthase|↑ Homocysteine<br>↓ Methionine|
+|Lesch-Nyhan syndrome|HGPRT|↑ Uric acid|
 |Maple syrup urine disease (MSUD)|Branched-chain α-ketoacid dehydrogenase|↑ α-ketoacids|
+|Methylmalonic acidemia|Methylmalonyl-CoA mutase|↑ Methylmalonic acid|
 |Ornithine transcarbamylase deficiency|Ornithine transcarbamylase|↑ Orotic acid<br>↑ Ammonia<br>↓ Urea|
 |Orotic aciduria|UMP synthase|↑ Orotic acid<br>↓ DNA|
+|Phenylketonuria (PKU)|Phenylalanine hydroxylase<br>Tetrahydrobiopterin|↑ Phenylalanine<br>↓ Tyrosine|
 
 ## Symptoms of Lesch-Nyhan Syndrome {HGPRT}
 
