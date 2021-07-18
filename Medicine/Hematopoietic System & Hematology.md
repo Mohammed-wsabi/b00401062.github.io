@@ -52,14 +52,12 @@
 |Everything|Eosinophil|3%|
 |Better|Basophil|1%|
 
-## Myeloproliferative Disorders
+## Etiology of Target Cells {HALT}
 
-|Tumors|Genetics|RBC|WBC|PLT|
-|-|-|-|-|-|
-|Polycythemia vera|JAK2|↑|↑|↑|
-|Chronic myelogenous leukemia (CML)|t(9;22)|↓|↑|↑|
-|Essential thrombocytosis|JAK2|-|-|↑|
-|Myelofibrosis|JAK2|↓|?|?|
+- HbC disease
+- Asplenia
+- Liver disease
+- Thalassemia
 
 ## Etiology of Anemia
 
@@ -150,13 +148,6 @@
 - Folate deficiency anemia
 - Vitamin B<sub>12</sub> deficiency anemia
 - Mixed anemia
-
-## Etiology of Target Cells {HALT}
-
-- HbC disease
-- Asplenia
-- Liver disease
-- Thalassemia
 
 ## Etiology of Aplastic Anemia
 
@@ -270,6 +261,15 @@
 |Mantle cell lymphoma|t(11;14) → Cyclin D (CCND)|
 |Follicular lymphoma|t(14;18) → BCL2|
 
+## Workup of Leukemia
+
+- Peripheral blood smear
+- Bone marrow smear
+- Cytochemistry
+- Immunophenotyping
+- Karyotyping
+- Genotyping
+
 ## B Symptoms of Lymphoma
 
 - Fever
@@ -310,7 +310,7 @@
 - Bone lesions
 - Bence-Jones protein
 
-## Approach to Multiple Myeloma
+## Diagnostic Tests for Multiple Myeloma
 
 - Protein electrophoresis
 - Bone marrow biopsy
@@ -318,7 +318,7 @@
 
 ## Diagnosis of Multiple Myeloma
 
-- Histology of bone marrow &/ tumors
+- Histology of bone marrow
   - Clonal bone marrow plasma cells > 10%
   - Plasmacytoma
 - Evidence of end-organ damages {CRAB}
@@ -334,7 +334,7 @@
 ## Presentation of Hemophagocytic Lymphohisticytosis (HLH)
 
 - Fever
-- Ferritin ↑
+- ↑ Ferritin
 - Hypertriglyceridemia
 - Hemophagocytosis
 - NK cell activity decreased
@@ -342,14 +342,14 @@
 - Rashes
 - Splenomegaly
 
-## Workup of Leukemia
+## Myeloproliferative Disorders
 
-- Peripheral blood smear
-- Bone marrow smear
-- Cytochemistry
-- Immunophenotyping
-- Karyotyping
-- Genotyping
+|Tumors|Genetics|RBC|WBC|PLT|
+|-|-|-|-|-|
+|Polycythemia vera|JAK2|↑|↑|↑|
+|Chronic myelogenous leukemia (CML)|t(9;22)|↓|↑|↑|
+|Essential thrombocytosis|JAK2|-|-|↑|
+|Myelofibrosis|JAK2|↓|?|?|
 
 ## Coagulation Pathway
 
