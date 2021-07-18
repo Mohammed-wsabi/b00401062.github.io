@@ -59,6 +59,10 @@
 - Liver disease
 - Thalassemia
 
+## Coombs Tests
+
+![](../Figures/Coombs%20Tests.png)
+
 ## Etiology of Anemia
 
 ![](../Figures/Differential%20Diagnosis%20of%20Anemia.png)
