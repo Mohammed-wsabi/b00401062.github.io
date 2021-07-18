@@ -296,9 +296,9 @@
 
 ![](../Figures/Park%20Classification%20of%20Anal%20Fistulas.jpg)
 
-## Goodsall Rule for Anal Fistula
+## Goodsall Rule for Anal Fistulas
 
-![](../Figures/Goodsall%20Rule%20for%20Anal%20Fistula.jpg)
+![](../Figures/Goodsall%20Rule%20for%20Anal%20Fistulas.jpg)
 
 ## Anorectal Malformation
 
