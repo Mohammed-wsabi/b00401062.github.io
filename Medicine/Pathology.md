@@ -124,7 +124,7 @@
 
 |Test|Target|Diagnosis|
 |-|-|-|
-|Cold agglutinin test|Anti-RBC IgM|CLL<br>Mycoplasma<br>Mononucleosis|
+|Cold agglutinin test|Anti-RBC IgM|CLL<br>Mycoplasma<br>HCV & EBV & CMV|
 |Congo red stain|Amyloid|Amyloidosis|
 |Cyanide-nitroprusside test|Disulfide bond|Cystinuria|
 |Dihydrorhodamine test|NADPH oxidase|Chronic granulomatous disease (CGD)|
