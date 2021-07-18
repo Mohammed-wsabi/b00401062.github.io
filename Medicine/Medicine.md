@@ -451,6 +451,12 @@
 |E|Hemolytic anemia|
 |K|Coagulopathy|
 
+## Classic Triad of Wernicke Encephalopathy {CAO}
+
+- Confusion
+- Ataxia
+- Ophthalmoplegia
+
 ## Etiology of Vitamin B<sub>9</sub> Deficiency
 
 - Alcoholism
