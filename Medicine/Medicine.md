@@ -449,7 +449,7 @@
 |C|Scurvy<br>↓ Wound healing<br>Easy bruising|
 |D|Ricket<br>Osteomalacia<br>Hypocalcemia<br>Hypophosphatemia|
 |E|Hemolytic anemia|
-|K|Coagulopathy|
+|K|Coagulopathy<br>Easy bruising|
 
 ## Classic Triad of Wernicke Encephalopathy {CAO}
 
@@ -550,6 +550,7 @@
 ## Presentation of Zinc Deficiency
 
 - ↓ Wound healing
+- Easy bruising
 - Alopecia
 - Dermatitis
 - Diarrhea
