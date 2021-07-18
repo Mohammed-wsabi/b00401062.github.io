@@ -620,12 +620,6 @@
 - Guillain-Barre syndrome
 - Charcot-Marie-Tooth disease
 
-## Classic Triad of Wernicke Encephalopathy {CAO}
-
-- Confusion
-- Ataxia
-- Ophthalmoplegia
-
 ## Presentation of Horner Syndrome {MAP}
 
 - Miosis
