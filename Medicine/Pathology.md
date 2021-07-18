@@ -70,7 +70,7 @@
 |Anitschkow cell<br>Aschoff body|Macrophage|Rheumatic fever|
 |Asteroid body<br>Schaumann body|Calcium<br>Protein|Sarcoidosis|
 |Auer body|Peroxidase|AML M3|
-|Basophilic stippling|Sideroblastic anemia|
+|Basophilic stippling|Ribosomes|Sideroblastic anemia|
 |Call-Exner body|-|Granulosa cell tumor|
 |Charcot-Leyden crystal|Eosinophil|Asthma|
 |Clue cell|Gardnerella vaginalis|Gardnerella vaginalis|
@@ -92,7 +92,7 @@
 |Neurofibrillary tangle|Tau protein|Alzheimer disease|
 |Orphan Annie eye|-|Papillary carcinoma of thyroid|
 |Owl eye|CMV|CMV|
-|Pappenheimer body|Sideroblastic anemia|
+|Pappenheimer body|Ferritin|Sideroblastic anemia|
 |Pick body|Tau protein|Frontotemporal dementia|
 |Psammoma body|Calcium|Tumor|
 |Reinke crystal|-|Leydig cell tumor|
