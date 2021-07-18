@@ -446,7 +446,7 @@
 |B<sub>7</sub>|Dermatitis<br>Alopecia|
 |B<sub>9</sub>|Homocystinuria<br>Megaloblastic anemia<br>Neural tube defect|
 |B<sub>12</sub>|Homocystinuria<br>Megaloblastic anemia<br>Methylmalonic acidemia<br>Subacute combined degeneration|
-|C|Scurvy|
+|C|Scurvy<br>↓ Wound healing<br>Easy bruising|
 |D|Ricket<br>Osteomalacia<br>Hypocalcemia<br>Hypophosphatemia|
 |E|Hemolytic anemia|
 |K|Coagulopathy|
@@ -524,6 +524,7 @@
 - Brittle hair
 - Ataxia
 - Peripheral neuropathy
+- Sideroblastic anemia
 
 ## Presentation of Wilson Disease
 
