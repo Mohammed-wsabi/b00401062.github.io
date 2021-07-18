@@ -104,7 +104,7 @@
 |Urine bilirubin|-|-|
 |Urine urobilinogen|-|↑|
 |LDH|↑|↑|
-|DAT|-|+|
+|Coombs|-|+|
 |Jaundice|-|+|
 
 - Intravascular {TIMP}
