@@ -441,7 +441,7 @@
 |A|Night blindness<br>Xeroderma<br>Xerophthalmia<br>Bitot spots|
 |B<sub>1</sub>|Dry beriberi<br>Wet beriberi<br>Wernicke-Korsakoff syndrome|
 |B<sub>2</sub> {2C}|Cheilosis<br>Corneal vascularization|
-|B<sub>3</sub> {3D}|Diarrhea<br>Dementia<br>Dermatitis :: pellagra|
+|B<sub>3</sub> {3D}|Dermatitis :: pellagra<br>Diarrhea<br>Dementia|
 |B<sub>6</sub>|Homocystinuria<br>Sideroblastic anemia<br>Peripheral neuropathy|
 |B<sub>7</sub>|Dermatitis<br>Alopecia|
 |B<sub>9</sub>|Homocystinuria<br>Megaloblastic anemia<br>Neural tube defect|
@@ -521,6 +521,7 @@
 ## Presentation of Copper Deficiency
 
 - ↓ Wound healing
+- Easy bruising
 - Brittle hair
 - Ataxia
 - Peripheral neuropathy
@@ -543,8 +544,9 @@
 ## Presentation of Zinc Deficiency
 
 - ↓ Wound healing
-- Dermatitis
 - Alopecia
+- Dermatitis
+- Diarrhea
 - Male hypogonadism
 - Dysgeusia
 - Anosmia
