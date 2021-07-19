@@ -39,11 +39,12 @@
 - Cerebellopontine angle tumor → Bruns nystagmus
 - Chiari malformation
 - Epilepsy
+- Frontal eye fields
 - Idiopathic intracranial hypertension (IIH)
 - Multiple sclerosis → internuclear ophthalmoplegia (INO)
 - Myasthenic syndrome
-- Parinaud syndrome → convergence-retraction nystagmus
 - Paramedian pontine reticular formation (PPRF)
+- Parinaud syndrome → convergence-retraction nystagmus
 - Peripheral vestibular nystagmus
 - Posterior communicating artery aneurysm
 - Stroke
