@@ -63,6 +63,7 @@
 
 |Nerve|Injury|Muscles|Signs|
 |-|-|-|-|
+|Brachial plexus|Clavicle fracture<br>Pancoast tumor|Arm|Thoracic outlet syndrome|
 |Upper trunk:<br>Suprascapular nerve<br>Axillary nerve<br>Musculocutaneous nerve|Clavicle fracture<br>Lateral traction on neck|Supraspinatus<br>Infraspinatus<br>Teres minor<br>Deltoid<br>Biceps brachii|Erb palsy<br>Waiter's tip|
 |Lower trunk:<br>Median nerve<br>Ulnar nerve<br>Radial nerve|Clavicle fracture<br>Upward force on arm|Flexor digitorum profundus<br>Lumbrical muscle|Klumpke palsy<br>Thoracic outlet syndrome<br>Total claw hand|
 |Long thoracic nerve|Clavicle fracture|Serratus anterior|Winged scapula|
