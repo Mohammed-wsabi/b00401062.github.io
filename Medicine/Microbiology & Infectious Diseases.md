@@ -781,7 +781,7 @@
 ## Jones Criteria for Rheumatic Fever {JONES}
 
 - Joint :: migratory polyarthritis
-- Heart :: mitral valve regurgitation & stenosis
+- Heart :: mitral regurgitation & stenosis
 - Nodules :: subcutaneous
 - Erythema marginatum
 - Sydenham chorea [Chorea minor]
