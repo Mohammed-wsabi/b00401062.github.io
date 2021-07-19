@@ -160,7 +160,7 @@
 |Muscle|Nerve|Function|
 |-|-|-|
 |Palatoglossus|CN X|Elevation|
-|Styloglossus|CN XII|Elevation & Retraction|
+|Styloglossus|CN XII|Elevation<br>Retraction|
 |Hyoglossus|CN XII|Depression & Retraction|
 |Genioglossus|CN XII|Depression & Protrusion|
 
@@ -177,6 +177,12 @@
 |Sternothyroid|AC|-|
 |Sternohyoid|AC|-|
 |Omohyoid|AC|-|
+
+## Salivary Glands
+
+- Parotid glands
+- Submandibular glands
+- Sublingual glands
 
 ## Laryngeal Cartilages {EAT-CCC}
 
@@ -210,15 +216,19 @@
 
 |Structure|Contents|
 |-|-|
-|Anterior|Submental triangle<br>Submandibular triangle<br>Carotid triangle<br>Muscular triangle|
-|Posterior|Occipital triangle<br>Supraclavicular triangle|
+|Submental|Mylohyoid|
+|Submandibular|Submandibular gland|
+|Carotid|CN X<br>Common carotid artery<br>Internal jugular vein|
+|Muscular|Thyroid<br>Trachea<br>Esophagus|
+|Occipital|-|
+|Subclavian|-|
 
 ### Compartments
 
 |Structure|Contents|
 |-|-|
 |Visceral|Thyroid<br>Trachea<br>Esophagus|
-|Vascular|Internal jugular vein<br>Common carotid artery<br>Vagus nerve|
+|Vascular|CN X<br>Common carotid artery<br>Internal jugular vein|
 |Vertebral|Spine<br>Paraspinal muscles|
 
 ### Spaces
