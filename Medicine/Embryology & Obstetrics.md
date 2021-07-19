@@ -252,7 +252,8 @@
 ## Management of Irreversible Spontaneous Abortion
 
 - Expectant management
-- Medical evacuation: Mifepristone [RU486] & Misoprostol
+- Medical evacuation
+  - Misoprostol
 - Surgical evacuation
   - Manual uterine aspiration (MUA): < 12 weeks
   - Dilatation and curettage (D&C): > 12 weeks
@@ -267,9 +268,9 @@
 ### First Trimester
 
 - Medical abortion
+  - Misoprostol
   - Misoprostol & Mifepristone
   - Misoprostol & Methotrexate
-  - Misoprostol
 - Manual uterine aspiration (MUA)
 
 ### Second Trimester
