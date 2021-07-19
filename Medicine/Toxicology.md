@@ -36,10 +36,10 @@
 
 |BAC (mg/dL)|Effects|
 |-|-|
-|20 ~ 50|Diminished fine motor coordination|
-|50 ~ 100|Impaired judgment & Impaired coordination|
-|100 ~ 150|Difficulty with gait and balance|
-|150 ~ 250|Lethargy & Difficulty sitting upright|
+|20 ~ 50|↓ fine motor coordination|
+|50 ~ 100|↓ judgment & coordination|
+|100 ~ 150|Gait disturbance|
+|150 ~ 250|Lethargy|
 |300|Coma|
 |400|Respiratory depression|
 
@@ -49,12 +49,6 @@
 - Hallucinosis
 - Seizure & Sleep deprivation
 - Delirium tremens
-
-## Treatment of Cyanide Poisoning {HTN}
-
-- Hydroxocobalamin
-- Thiosulfate
-- Nitrites
 
 ## Antidotes for Toxins
 
