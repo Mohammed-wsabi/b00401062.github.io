@@ -161,8 +161,8 @@
 |-|-|-|
 |Palatoglossus|CN X|Elevation|
 |Styloglossus|CN XII|Elevation<br>Retraction|
-|Hyoglossus|CN XII|Depression & Retraction|
-|Genioglossus|CN XII|Depression & Protrusion|
+|Hyoglossus|CN XII|Depression<br>Retraction|
+|Genioglossus|CN XII|Depression<br>Protrusion|
 
 ### Hyoid
 
