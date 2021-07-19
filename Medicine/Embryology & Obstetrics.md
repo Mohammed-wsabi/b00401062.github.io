@@ -41,7 +41,6 @@
 - Epidermis
 - Lens
 - Mammary gland
-- Parotid gland
 - Salivary gland
 - Sensory organs
 - Sweat gland
