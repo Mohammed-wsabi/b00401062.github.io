@@ -496,7 +496,7 @@
 |α4-integrin inhibitors|Natalizumab|Multiple sclerosis<br>Crohn disease|
 |EGFR inhibitors|Cetuximab|Colorectal cancer|
 |HER2 inhibitors|Trastuzumab|Breast cancer|
-|VEGF inhibitors|Bevacizumab|Solid tumors<br>Age-related macular degeneration (AMD)|
+|VEGF inhibitors|Bevacizumab|Solid tumors<br>Diabetic retinopathy<br>Age-related macular degeneration (AMD)|
 ||Ranibizumab|Diabetic retinopathy<br>Age-related macular degeneration (AMD)|
 |F protein inhibitors|Palivizumab|RSV|
 
