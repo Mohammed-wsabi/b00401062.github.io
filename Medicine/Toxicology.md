@@ -62,8 +62,8 @@
 |Methemoglobin|Methylene blue<br>Vitamin C|
 |Arsenic [As]<br>Mercury [Hg]<br>Gold [Au]|Succimer<br>Dimercaprol|
 |Iron [Fe]|Deferasirox<br>Deferoxamine<br>Deferiprone|
-|Copper|Penicillamin<br>Trientine|
-|Lead|EDTA<br>Dimercaprol<br>Succimer<br>Penicillamine|
+|Copper [Cu]|Penicillamin<br>Trientine|
+|Lead [Pb]|EDTA<br>Dimercaprol<br>Succimer<br>Penicillamine|
 |Methanol<br>Ethylene glycol|Fomepizole<br>Ethanol|
 |Barbiturates|NaHCO<sub>3</sub>|
 |Benzodiazepines|Flumazenil|
