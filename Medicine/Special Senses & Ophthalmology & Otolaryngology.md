@@ -31,7 +31,7 @@
 |Cherry-red sports|Retinal artery occlusion<br>Lysosomal storage diseases (LSD)|
 |Cotton-wool spots|Diabetic retinopathy<br>Hypertensive retinopathy<br>Retinal vein occlusion<br>CMV retinitis|
 |Optic nerve cupping|Open-angle glaucoma|
-|Drusen|Age-related macular degeneration|
+|Drusen|Age-related macular degeneration (AMD)|
 
 ## Etiology of Ophthalmoplegia & Nystagmus
 
