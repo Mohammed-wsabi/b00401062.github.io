@@ -510,11 +510,16 @@
   - Esophageal web
   - Squamous cell carcinoma
 
-## Triad of Hemochromatosis
+## Presentation of Hemochromatosis
 
+- Skin pigmentation
+- Cardiomyopathy
+- Hepatomegaly
 - Cirrhosis
 - Diabetes melitus
-- Skin pigmentation
+- Hypogonadism
+- Arthropathy
+- Chondrocalcinosis
 
 ## Treatment of Hemochromatosis
 
