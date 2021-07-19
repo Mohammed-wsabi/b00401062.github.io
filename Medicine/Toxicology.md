@@ -1,5 +1,30 @@
 # Toxicology
 
+## Antidotes for Toxins
+
+|Toxin|Antidotes|
+|-|-|
+|Acetaminophen|N-acetylcysteine|
+|Anticholinesterases<br>Organophosphates|Atropine<br>pralidoxime|
+|Anticholinergics|Physostigmine|
+|Carbon monoxide [CO]|100% O<sub>2</sub><br>Hyperbaric O<sub>2</sub>|
+|Cyanide|Hydroxocobalamin<br>Thiosulfate<br>Nitrites|
+|Methemoglobin|Methylene blue<br>Vitamin C|
+|Arsenic [As]<br>Mercury [Hg]<br>Gold [Au]|Succimer<br>Dimercaprol|
+|Iron [Fe]|Deferasirox<br>Deferoxamine<br>Deferiprone|
+|Copper [Cu]|Penicillamin<br>Trientine|
+|Lead [Pb]|EDTA<br>Dimercaprol<br>Succimer<br>Penicillamine|
+|Methanol<br>Ethylene glycol|Fomepizole<br>Ethanol|
+|Barbiturates|NaHCO<sub>3</sub>|
+|Benzodiazepines|Flumazenil|
+|Opioids|Naloxone|
+|Salicylate<br>TCAs|NaHCO<sub>3</sub>|
+|Digitalis|Anti-digitalis|
+|Warfarin|Fresh frozen plasma (FFP)<br>Vitamin K|
+|Heparin|Protamine sulfate|
+|Factor 10a inhibitors|Andexanet alfa|
+|tPAs|Aminocaproic acid|
+
 ## Presentation of Lead Poisoning {LEAD}
 
 - Lead [Burton] line
@@ -50,27 +75,12 @@
 - Seizure & Sleep deprivation
 - Delirium tremens
 
-## Antidotes for Toxins
+## Presentation of Fetal Alcohol Syndrome (FAS)
 
-|Toxin|Antidotes|
-|-|-|
-|Acetaminophen|N-acetylcysteine|
-|Anticholinesterases<br>Organophosphates|Atropine<br>pralidoxime|
-|Anticholinergics|Physostigmine|
-|Carbon monoxide [CO]|100% O<sub>2</sub><br>Hyperbaric O<sub>2</sub>|
-|Cyanide|Hydroxocobalamin<br>Thiosulfate<br>Nitrites|
-|Methemoglobin|Methylene blue<br>Vitamin C|
-|Arsenic [As]<br>Mercury [Hg]<br>Gold [Au]|Succimer<br>Dimercaprol|
-|Iron [Fe]|Deferasirox<br>Deferoxamine<br>Deferiprone|
-|Copper [Cu]|Penicillamin<br>Trientine|
-|Lead [Pb]|EDTA<br>Dimercaprol<br>Succimer<br>Penicillamine|
-|Methanol<br>Ethylene glycol|Fomepizole<br>Ethanol|
-|Barbiturates|NaHCO<sub>3</sub>|
-|Benzodiazepines|Flumazenil|
-|Opioids|Naloxone|
-|Salicylate<br>TCAs|NaHCO<sub>3</sub>|
-|Digitalis|Anti-digitalis|
-|Warfarin|Fresh frozen plasma (FFP)<br>Vitamin K|
-|Heparin|Protamine sulfate|
-|Factor 10a inhibitors|Andexanet alfa|
-|tPAs|Aminocaproic acid|
+- Intrauterine growth retardation (IUGR)
+- Short palpebral fissure
+- Midfacial hypoplasia
+- Smooth philtum
+- Thin vermilion border
+- Microcephaly
+- Mental retardation
