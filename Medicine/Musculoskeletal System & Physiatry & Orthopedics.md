@@ -53,6 +53,7 @@
 |ACh release inhibitors|Botulinum toxin|
 |N<sub>M</sub> [Neuromuscular] agonists|Succinylcholine|
 |N<sub>M</sub> [Neuromuscular] antagonists|Atracurium<br>Rocuronium|
+|α<sub>2</sub> agonists|Tizanidine|
 |GABA-B agonists|Baclofen|
 
 ## Types of Fracture
