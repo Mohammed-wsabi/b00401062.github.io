@@ -6,7 +6,7 @@
 |-|-|-|
 |Gubernaculum|Ovarian ligament<br>Round ligament|-|
 |Processus vaginalis|-|Tunica vaginalis|
-|Indifferent gonads|Ovary|Testis|
+|Undifferentiated gonads|Ovary|Testis|
 ||Theca cell|Leydig cell|
 ||Granulosa cell|Sertoli cell|
 |Genital ducts|Frimbriae|Epididymis|
