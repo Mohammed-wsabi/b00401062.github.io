@@ -393,7 +393,7 @@
 |-|-|-|-|
 |↑ Cell membrane damage|-|Daptomycin<br>Polymyxin|Bacterium|
 ||Ergosterol|Polyenes:<br>Amphotericin B<br>Nystatin|Fungus|
-|↓ Ergosterol synthesis|Squalene epoxidase|Terbinafine|Fungus|
+|↓ Cell membrane synthesis|Squalene epoxidase|Terbinafine|Fungus|
 ||Demethylase|-Conazoles|Fungus|
 
 ### Nucleotide Inhibitors
