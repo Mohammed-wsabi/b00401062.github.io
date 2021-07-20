@@ -155,6 +155,7 @@
 |α<sub>2</sub> agonists|Methyldopa|Hypertension|
 ||Clonidine<br>Guanfacine|Hypertension<br>ADHD<br>Tourette syndrome<br>Opioid withdrawal|
 ||Brimonidine|Glaucoma|
+||Tizanidine|Muscle relaxant|
 |β<sub>1</sub> agonists|Dobutamine|Inotrope|
 |β<sub>2</sub> agonists|Albuterol|Asthma :: acute|
 ||Salmeterol<br>Formoterol|Asthma :: chronic|
