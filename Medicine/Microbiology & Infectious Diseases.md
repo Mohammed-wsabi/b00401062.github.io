@@ -519,19 +519,22 @@
 
 |Test|Pathogens|
 |-|-|
-|Quellung reaction|Encapsulated bacteria|
-|CAMP test|Group B streptococcus (GBS)|
-|Elek test|Corynebacterium diphtheriae|
-|Nitrite test|Gram negative bacteria|
-|Urea breath test<br>Fecal antigen test|Helicobacter pylori|
-|Weil-Felix test|Rickettsia|
 |Amine whiff test|Gardnerella vaginalis|
-|VDRL/RPR<br>FTA-ABS|Treponema pallidum|
-|Tzanck test|HSV & VZV|
-|Monospot test|EBV|
+|CAMP test|GBS :: Streptococcus agalactiae|
 |Cold agglutinin test|Mycoplasma<br>HCV & EBV & CMV|
-|Latex agglutination test|Cryptococcus neoformans|
+|ELISA<br>Western blot|HIV|
+|Elek test|Corynebacterium diphtheriae|
 |Germ tube test|Candida albicans|
+|Latex agglutination test|Cryptococcus neoformans<br>EBV|
+|Monospot test|EBV|
+|Nitrite test|Gram negative bacteria|
+|Quellung reaction|Encapsulated bacteria|
+|Strep test|GAS :: Streptococcus pyogenes|
+|Tzanck test|HSV & VZV|
+|Urea breath test<br>Fecal antigen test|Helicobacter pylori|
+|Urine antigen test|Legionella|
+|VDRL/RPR<br>FTA-ABS|Treponema pallidum|
+|Weil-Felix test|Rickettsia|
 
 ## Arthropod-Borne Pathogens
 
