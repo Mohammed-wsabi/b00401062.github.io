@@ -5,9 +5,9 @@
 |Organ|Sensitive|Specific|
 |-|-|-|
 |General|LDH|-|
-|Muscle|AST<br>Myoglobin|CK-MM|
-|Heart|AST<br>Myoglobin|CK-MB<br>Troponin|
-|Liver|AST|ALT|
+|Muscle|AST<br>Aldolase<br>Myoglobin|CK-MM|
+|Heart|AST<br>Aldolase<br>Myoglobin|CK-MB<br>Troponin|
+|Liver|AST<br>Aldolase|ALT|
 |Biliary tract|ALP|GGT|
 |Bone|ALP|-|
 |Pancreas|Amylase|Lipase|
