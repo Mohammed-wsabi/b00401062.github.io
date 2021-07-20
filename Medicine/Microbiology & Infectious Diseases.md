@@ -322,7 +322,7 @@
 - Aspergillus
 - Mucor & Rhizopus
 - Malassezia
-- Dermatophyte
+- Dermatophytes
 
 ## Classification of Parasites
 
@@ -719,6 +719,15 @@
 - Metronidazole
 
 ## Mechanisms of Action of Antifungals
+
+|Mechanism|Target|Medication|Indications|
+|-|-|-|-|
+|↓ β-glucan synthesis|Glucan synthase|Echinocandins [-Fungins]:<br>Anidulafungin<br>Capsofungin<br>Micafungin|Candida<br>Aspergillosis|
+|↑ Cell membrane damage|Ergosterol|Polyenes:<br>Amphotericin B<br>Nystatin|-|
+|↓ Cell membrane synthesis|Squalene epoxidase|Terbinafine|Dermatophytes|
+||Demethylase|-Conazoles|-|
+|↓ Pyrimidine synthesis|Thymidylate synthase|Flucytosine|Cryptococcus|
+|↓ Microtubule assembly|Microtubule|Griseofulvin|Dermatophytes|
 
 ![](../Figures/Mechanisms%20of%20Action%20of%20Antifungals.png)
 
