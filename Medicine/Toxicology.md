@@ -61,8 +61,8 @@
 
 |BAC (mg/dL)|Effects|
 |-|-|
-|20 ~ 50|↓ fine motor coordination|
-|50 ~ 100|↓ judgment & coordination|
+|20 ~ 50|↓ Fine motor coordination|
+|50 ~ 100|↓ Judgment<br>↓ Coordination|
 |100 ~ 150|Gait disturbance|
 |150 ~ 250|Lethargy|
 |300|Coma|
