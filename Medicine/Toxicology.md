@@ -52,7 +52,7 @@
 
 ## CAGE Questions for Alcohol Use {CAGE}
 
-- Cut down on alcohol
+- Cut down
 - Anger
 - Guilty
 - Eye-opener
