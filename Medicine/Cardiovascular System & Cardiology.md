@@ -624,7 +624,7 @@
 
 - Hypotension: BP < 90/60 mmHg
 - Hypertension: BP > 140/90 mmHg
-- Hypertensive emergency: BP > 160/110 mmHg
+- Hypertensive urgency: BP > 180/120 mmHg
 
 ## Treatment of Hypertension {ABVD}
 
