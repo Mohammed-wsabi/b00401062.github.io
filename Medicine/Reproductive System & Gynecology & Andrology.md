@@ -182,7 +182,7 @@
 |HPV|Condyloma accumulata<br>Verruca vulgaris|-|
 |HSV|Paniful ulcers|-|
 
-## Testicular Torsion and Epididymitis
+## Comparison of Testicular Torsion and Epididymitis
 
 ||Testicular Torsion|Epididymitis|
 |-|-|-|
