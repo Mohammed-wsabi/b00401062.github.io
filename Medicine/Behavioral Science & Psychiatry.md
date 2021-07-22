@@ -236,7 +236,7 @@
 |Ca channel blockers|Dantrolene|
 |D<sub>2</sub> agonists|Bromocriptine|
 |NMDA antagonists|Amantadine|
-|GABA-A agonists|Benzodiazepines|
+|GABA<sub>A</sub> agonists|Benzodiazepines|
 
 ## Presentation of Major Depressive Episode {FDA-GPS}
 
