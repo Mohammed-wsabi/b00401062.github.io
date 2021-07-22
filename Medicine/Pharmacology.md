@@ -343,6 +343,7 @@
 |TXA<sub>2</sub> antagonists|-|-|
 |LTD<sub>4</sub> antagonists|Montelukast|Asthma|
 ||Zafirlukast|Asthma|
+|ET<sub>A</sub> antagonists|Bosenetan|Pulmonary hypertension|
 
 ## Mechanisms of Action of Medications Targeting Enzymes
 
