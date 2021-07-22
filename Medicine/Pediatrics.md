@@ -133,14 +133,14 @@
 - Rashes :: desquamating
 - Edema :: limbs
 
-## Common Skin Rashes in Neonates
+## Benign Skin Rashes in Neonates
 
-- Erythema toxicum
-- Seborrheic dermatitis :: cradle cap
+- Cradle cap
 - Diaper rash
-- Cherry angioma
-- Mongolian spots
+- Erythema toxicum
 - Milia
+- Mongolian spots
+- Strawberry angioma
 
 ## Presentation of Non-accidental Trauma (NAT)
 
