@@ -10,7 +10,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|GABA-A agonists|Barbiturate|Anesthesia :: intravenous|
+|GABA<sub>A</sub> agonists|Barbiturate|Anesthesia :: intravenous|
 ||Benzodiazepine|Anesthesia :: intravenous|
 ||Propofol|Anesthesia :: intravenous|
 ||Etomidate|Anesthesia :: intravenous|
