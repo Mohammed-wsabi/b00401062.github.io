@@ -151,10 +151,10 @@
 
 |Pathways|Receptors|
 |-|-|
-|Ionotropic receptor|N<sub>N</sub> & N<sub>M</sub> & 5-HT<sub>3</sub> & AMPA & NMDA & GABA-A & Glycine|
+|Ionotropic receptor|N<sub>N</sub> & N<sub>M</sub> & 5-HT<sub>3</sub> & AMPA & NMDA & GABA<sub>A</sub> & Glycine|
 |G<sub>q</sub>PCR|M<sub>1</sub> & M<sub>3</sub> & α<sub>1</sub> & 5-HT<sub>2</sub> & H<sub>1</sub>|
 |G<sub>s</sub>PCR|β<sub>1</sub> & β<sub>2</sub> & D<sub>1</sub> & 5-HT<sub>4</sub> & H<sub>2</sub>|
-|G<sub>i</sub>PCR|M<sub>2</sub> & α<sub>2</sub> & D<sub>2</sub> & 5-HT<sub>1</sub> & GABA-B & Opioid|
+|G<sub>i</sub>PCR|M<sub>2</sub> & α<sub>2</sub> & D<sub>2</sub> & 5-HT<sub>1</sub> & GABA<sub>B</sub> & Opioid|
 |RTK|-|
 |NRTK|-|
 |Steroid receptor|-|
