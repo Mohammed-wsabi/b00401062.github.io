@@ -103,13 +103,6 @@
 |β<sub>1</sub>|↑ (1°)|-|↑|
 |β<sub>2</sub>|↑|↓ (1°)|↓|
 
-## Mechanisms of Action of Venodilators
-
-|Mechanism|Medication|
-|-|-|
-|μ-opioid agonists|Morphine|
-|NO donors|Nitroglycerin<br>Isosorbide|
-
 ## Mechanisms of Action of Vasodilators
 
 |Mechanism|Medication|
@@ -123,6 +116,13 @@
 |ET<sub>A</sub> antagonists|Bosentan|
 |PDE inhibitors|Dipyridamole<br>Cilostazol|
 |NO donors|Nitroprusside<br>Hydralazine|
+
+## Mechanisms of Action of Venodilators
+
+|Mechanism|Medication|
+|-|-|
+|μ-opioid agonists|Morphine|
+|NO donors|Nitroglycerin<br>Isosorbide|
 
 ## Mechanisms of Action of Inotropes
 
