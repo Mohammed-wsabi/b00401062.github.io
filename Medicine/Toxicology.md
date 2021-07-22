@@ -25,6 +25,13 @@
 |Factor 10a inhibitors|Andexanet alfa|
 |tPAs|Aminocaproic acid|
 
+## Comparison of CO Poisoning and Methemoglobinemia
+
+|Disorder|SpO<sub>2</sub>|SaO<sub>2</sub>|PaO<sub>2</sub>|
+|-|-|-|-|
+|CO Poisoning|-|↓|-|
+|Methemoglobinemia|↓|↓|-|
+
 ## Presentation of Lead Poisoning {LEAD}
 
 - Lead [Burton] line
