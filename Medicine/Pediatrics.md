@@ -101,6 +101,20 @@
 - Extremity defects
 - Renal failure
 
+## Presentation of Fragile X Syndrome
+
+- Long face
+- Large jaw
+- Everted ears
+- Macroorchidism
+- Autism
+
+## Presentation of Cri-du-chat Syndrome
+
+- Microcephaly
+- Cardiac anomalies
+- High-pitched crying
+
 ## Presentation of DiGeorge Syndrome {CATCH22}
 
 - Cardiac anomalies :: tetralogy of Fallot (TOF)
