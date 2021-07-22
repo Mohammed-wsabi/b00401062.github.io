@@ -239,16 +239,16 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|GABA-A agonists|Barbiturates|Anesthesia<br>Seizure|
+|GABA<sub>A</sub> agonists|Barbiturates|Anesthesia<br>Seizure|
 ||Benzodiazepines|Anesthesia<br>Seizure<br>Insomnia<br>NMS|
 ||Propofol|Anesthesia|
 ||Etomidate|Anesthesia|
 ||Zolpidem<br>Zaleplon<br>Eszopiclone|Insomnia|
 ||Alcohol|-|
-|GABA-B agonists|Baclofen|Muscle relaxant|
+|GABA<sub>B</sub> agonists|Baclofen|Muscle relaxant|
 ||γ-Hydroxybutyrate (GHB)|-|
-|GABA-A antagonists|Flumazenil|Benzodiazepine antidote|
-|GABA-B antagonists|-|-|
+|GABA<sub>A</sub> antagonists|Flumazenil|Benzodiazepine antidote|
+|GABA<sub>B</sub> antagonists|-|-|
 
 ## Mechanisms of Action of Medications Targeting Opioid Receptor
 
