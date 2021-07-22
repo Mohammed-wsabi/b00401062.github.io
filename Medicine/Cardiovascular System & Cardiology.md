@@ -80,7 +80,8 @@
 ||α<sub>1</sub>|Vasoconstriction|
 |Dopamine|D<sub>1</sub>|Vasodilation|
 ||α<sub>1</sub>|Vasoconstriction|
-|Serotonin|5-HT<sub>1</sub>|Vasoconstriction|
+|Serotonin|5-HT<sub>1</sub>|Vasodilation<br>Vasoconstriction|
+||5-HT<sub>2</sub>|Vasoconstriction|
 |Histamine|H<sub>1</sub>|Vasodilation|
 |Angiotensin|AT<sub>1</sub>|Vasoconstriction|
 |Vasopressin|V<sub>1</sub>|Vasoconstriction|
