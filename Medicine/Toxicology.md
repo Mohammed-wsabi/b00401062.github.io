@@ -38,8 +38,8 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|GABA-A agonists|Alcohol|Depressant|
-|GABA-B agonists|γ-Hydroxybutyrate (GHB)|Depressant|
+|GABA<sub>A</sub> agonists|Alcohol|Depressant|
+|GABA<sub>B</sub> agonists|γ-Hydroxybutyrate (GHB)|Depressant|
 |μ-opioid agonists|Heroin|Depressant|
 |Adenosine antagonists|Caffeine|Stimulant|
 |N<sub>N</sub> [Ganglionic] agonists|Nicotine|Stimulant|
