@@ -485,7 +485,7 @@
 
 |Mechanism|Medication|Indications|
 |-|-|-|
-|GABA-A agonists|Barbiturate|Seizure|
+|GABA<sub>A</sub> agonists|Barbiturate|Seizure|
 ||Benzodiazepine|Seizure|
 |Na channel blockers|Carbamazepine|Seizure|
 ||Phenytoin|Seizure|
