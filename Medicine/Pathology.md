@@ -98,7 +98,7 @@
 |Reinke crystal|-|Leydig cell tumor|
 |Russell body|Immunoglobulin|Multiple myeloma|
 |Schiller-Duval body|-|Yolk sac tumor|
-|Zebra body|Sphingolipid|Lysosomal storage disease (LSD)|
+|Zebra body|Sphingolipid|Lysosomal storage diseases (LSD)|
 
 ## Psammoma Body
 
@@ -243,8 +243,8 @@
 |Thalassemia|-|α-Globin<br>β-Globin|
 |Hemochromatosis|HFE|Iron regulator protein|
 |Wilson disease|ATP7B|Cu channel|
-|Glycogen storage disease (GSD)|-|-|
-|Lysosomal storage disease (LSD)|-|-|
+|Glycogen storage diseases (GSD)|-|-|
+|Lysosomal storage diseases (LSD)|-|-|
 
 ### X-linked Dominant (XD)
 
