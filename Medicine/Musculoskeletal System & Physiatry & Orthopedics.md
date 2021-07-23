@@ -30,6 +30,7 @@
 |Valgus & Varus stress test|Knee MCL & LCL|
 |McMurray test|Knee meniscus|
 |Apley Test|Knee meniscus|
+|Patellar grind test|Patellofemoral pain syndrome|
 |Thompson test|Achilles tendon tear|
 
 ## Electromyograghy (EMG)
