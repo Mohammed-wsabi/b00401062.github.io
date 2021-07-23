@@ -36,23 +36,24 @@
 
 |Rash|Pathogens|Location|
 |-|-|-|
-|Erythema marginatum ← Rheumatic fever|Group A streptococcus (GAS)|Trunk|
-|Erythema migrans ← Lyme disease|Borrelia burgdorferi|Anywhere|
+|Condyloma accumulata|HPV|Genital|
+|Condyloma lata|Treponema pallidum|Genital|
+|Erythema infectiosum [Fifth disease]|Parvovirus B19|Face → Trunk & Extremities|
+|Erythema marginatum|Group A streptococcus (GAS)|Trunk|
+|Erythema migrans|Borrelia burgdorferi|Anywhere|
 |Erythema multiforme|Mycoplasma & HSV|Anywhere|
-|Condyloma lata|Treponema pallidum|Genitals|
-|Condyloma accumulata|HPV|Genitals|
-|Verruca vulgaris|HPV|Face & Extremities|
-|Molluscum contagiosum|Poxvirus|Anywhere|
-|Erythema infectiosum ← Fifth disease|Parvovirus B19|Face → Thighs|
-|Herpes simplex|HSV1 & HSV2|Mouth & Genitals|
-|Herpes zoster [Shingles]|VZV|Dermatome|
-|Varicella [Chickenpox]|VZV|Face & Trunk → Extremities|
-|Roseola infantum|Roseolovirus|Trunk → Face & Extremities|
-|Measles|Measles virus|Head → Toe|
-|Rubella|Rubella virus|Head → Toe|
 |Hand-foot-mouth disease|Coxsackie A virus|Extremities → Trunk|
+|Herpes simplex|HSV1 & HSV2|Mouth & Genital|
+|Herpes zoster [Shingles]|VZV|Dermatome|
+|Measles|Measles virus|Head → Toe|
+|Molluscum contagiosum|Poxvirus|Anywhere|
+|Rocky Mountain spotted fever|Rickettsia rickettsii|Extremities → Trunk|
+|Roseola infantum|Roseolovirus|Trunk → Face & Extremities|
+|Rubella|Rubella virus|Head → Toe|
 |Tinea [Dermatophytosis]|Microsporum<br>Epidermophyton<br>Trichophyton|Anywhere|
 |Tinea versicolor|Malassezia|Trunk|
+|Varicella [Chickenpox]|VZV|Face & Trunk → Extremities|
+|Verruca vulgaris|HPV|Face & Extremities|
 
 ## Rashes Associated with Non-Infectious Diseases
 
@@ -60,7 +61,7 @@
 |-|-|-|
 |Atopic dermatitis|-|Joints|
 |Acanthosis nigricans|Insulin resistance<br>Visceral malignancy|Axilla & Neck|
-|Erythema toxicum|Neonates|Anywhere|
+|Erythema toxicum|Neonates|Face & Trunk & Extremities|
 |Erythema multiforme|Stevens-Johnson syndrome (SJS)<br>Toxic epidermal necrolysis (TEN)|Anywhere|
 |Erythema nodosum|Inflammatory bowel disease<br>Sarcoidosis<br>Non-Hodgkins lymphoma|Anywhere|
 |Necrolytic migratory erythema|Glucagonoma|Face & Extremities|
