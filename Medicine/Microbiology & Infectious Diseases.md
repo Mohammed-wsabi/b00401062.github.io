@@ -972,9 +972,11 @@
 
 ## Pathogens of Rashes Beginning on the Palms & Soles {CARS}
 
-- Coxsackie A virus → hand-foot-mouth disease
-- Rickettsia rickettsii → Rocky Mountain spotted fever (RMSF)
-- Treponema pallidum → syphilis
+|Pathogen|Rash|
+|-|-|
+|Coxsackie A virus|Hand-foot-mouth disease|
+|Rickettsia rickettsii|Rocky Mountain spotted fever| (RMSF)
+|Treponema pallidum|Syphilis|
 
 ## Sporotrichoid Lymphocutaneous Infection {LMNS}
 
