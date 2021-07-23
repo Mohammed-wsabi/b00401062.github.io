@@ -120,16 +120,19 @@
 |Creutzfeldt-Jakob disease|Amyloid prion protein (APrP)|Prion protein (PrP)|
 |Familial amyloidosis|Amyloid transthyretin (ATTR)|Transthyretin (TTR)|
 
-## Biochemical Reactions for Diagnostic Tests
+## Laboratory Tests
 
 |Test|Target|Diagnosis|
 |-|-|-|
+|Acidified glycerol lysis test|Spherocytes|Hereditary spherocytosis|
 |Cold agglutinin test|Anti-RBC IgM|CLL<br>Mycoplasma<br>HCV & EBV & CMV|
+|Coombs test|Anti-RBC|Autoimmune hemolytic anemia (AHA)|
 |Congo red stain|Amyloid|Amyloidosis|
 |Cyanide-nitroprusside test|Disulfide bond|Cystinuria|
 |Dihydrorhodamine test|NADPH oxidase|Chronic granulomatous disease (CGD)|
+|Fluorescent spot test|G6PD|G6PD deficiency|
 |Leukocyte alkaline phosphatase (LAP) stain|Leukocyte alkaline phosphatase (LAP)|AML & CML|
-|Methylene blue stain|Hemoglobin|G6PD deficiency|
+|Methylene blue reduction stain|G6PD|G6PD deficiency|
 |Nitroblue tetrazolium test|NADPH oxidase|Chronic granulomatous disease (CGD)|
 |Prussian blue stain|Iron|Hemochromatosis<br>Sideroblastic anemia|
 |Tartrate-resistant acid phosphatase (TRAP) stain|Tartrate-resistant acid phosphatase (TRAP)|Hairy cell leukemia|
