@@ -432,7 +432,7 @@
 |↑ DNA intercalation|DNA|Metronidazole|Bacterium|
 |||Benznidazole|Parasite|
 |||Streptomycin|Mycobacterium|
-|||Anthracyclines [-Rubicins]|Human|
+|||Anthracyclines [-Rubicins]:<br>Doxorubicin<br>Daunorubicin|Human|
 |||Bleomycin|Human|
 |↑ DNA crosslinking|DNA|Busulfan|Human|
 |||Cyclophosphamide|Human|
