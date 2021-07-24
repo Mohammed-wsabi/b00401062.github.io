@@ -373,7 +373,7 @@
 ||β-glucan|Fungus|
 |Cell membrane inhibitors|Ergosterol|Fungus|
 ||Cholesterol|Human|
-|Nucleotide inhibitors|Purine<br>Pyrimidine<br>Folate|-|
+|Nucleotide inhibitors|Folate<br>Purine<br>Pyrimidine|-|
 |DNA inhibitors|DNA|-|
 |RNA inhibitors|RNA|-|
 |Microtubule inhibitors|Microtubule|-|
@@ -402,6 +402,10 @@
 
 |Mechanism|Target|Medication|Species|
 |-|-|-|-|
+|↓ Folate synthesis|Dihydropteroate synthase|Sulfonamides:<br>Sulfamethoxazole<br>Sulfisoxazole<br>Sulfadiazine<br>Sulfapyridine|Bacterium<br>Protozoa|
+||Dihydrofolate reductase|Trimethoprim|Bacterium|
+|||Pyrimethamine|Protozoa|
+|||Methotrexate|Human|
 |↓ Purine synthesis|IMP dehydrogenase|Ribavirin|Virus|
 |||Mycophenolate|Human|
 ||PRPP amidotransferase|Azathioprine|Human|
@@ -410,10 +414,6 @@
 |↓ Pyrimidine synthesis|Dihydroorotate dehydrogenase|Leflunomide|Human|
 ||Thymidylate synthase|Flucytosine|Fungus|
 |||5-Fluorouracil (5-FU)|Human|
-|↓ Folate synthesis|Dihydropteroate synthase|Sulfonamides:<br>Sulfamethoxazole<br>Sulfisoxazole<br>Sulfadiazine<br>Sulfapyridine|Bacterium<br>Protozoa|
-||Dihydrofolate reductase|Trimethoprim|Bacterium|
-|||Pyrimethamine|Protozoa|
-|||Methotrexate|Human|
 |↓ dNTP synthesis|Ribonucleotide reductase|Hydroxyurea|Human|
 
 ### DNA Inhibitors
