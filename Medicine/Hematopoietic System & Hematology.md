@@ -291,7 +291,7 @@
 
 - Rituximab
 - Cyclophosphamide
-- Doxorubicin
+- Doxorubicin [Hydroxydaunorubicin]
 - Vincristine [Oncovin]
 - Prednisolone
 
