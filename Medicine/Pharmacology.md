@@ -436,7 +436,7 @@
 |||Dactinomycin|Human|
 |↑ DNA crosslinking|DNA|Busulfan|Human|
 |||Cyclophosphamide|Human|
-|||Nitrosourea|Human|
+|||Nitrosoureas|Human|
 |||Platinums [-Platins]|Human|
 
 ### RNA Inhibitors
