@@ -410,11 +410,11 @@
 |↓ Pyrimidine synthesis|Dihydroorotate dehydrogenase|Leflunomide|Human|
 ||Thymidylate synthase|Flucytosine|Fungus|
 |||5-Fluorouracil (5-FU)|Human|
-|↓ dNTP synthesis|Ribonucleotide reductase|Hydroxyurea|Human|
 |↓ Folate synthesis|Dihydropteroate synthase|Sulfonamides:<br>Sulfamethoxazole<br>Sulfisoxazole<br>Sulfadiazine<br>Sulfapyridine|Bacterium<br>Protozoa|
 ||Dihydrofolate reductase|Trimethoprim|Bacterium|
 |||Pyrimethamine|Protozoa|
 |||Methotrexate|Human|
+|↓ dNTP synthesis|Ribonucleotide reductase|Hydroxyurea|Human|
 
 ### DNA Inhibitors
 
