@@ -454,7 +454,7 @@
 |↓ Microtubule assembly|Microtubule|Benzimidazole|Parasite|
 |||Griseofulvin|Fungus|
 |||Colchicine|Human|
-|||Vinca alkaloids|Human|
+|||Vinca alkaloids:<br>Vinblastine<br>Vincristine|Human|
 |↓ Microtubule disassembly|Microtubule|Taxanes [-Taxels]|Human|
 
 ### Protein Inhibitors
