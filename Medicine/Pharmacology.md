@@ -420,8 +420,7 @@
 
 |Mechanism|Target|Medication|Species|
 |-|-|-|-|
-|↓ DNA synthesis|Reverse transcriptase|NRTI|Virus|
-|||NNRTI|Virus|
+|↓ DNA synthesis|Reverse transcriptase|NRTI<br>NNRTI|Virus|
 ||DNA polymerase|Acyclovir<br>Famciclovir<br>Ganciclovir<br>Cidofovir<br>Foscarnet|Virus|
 |||Cladribine<br>Cytarabine<br>Gemcitabine|Human|
 ||Topoisomerase|Fluoroquinolone|Bacterium|
@@ -434,6 +433,7 @@
 |||Streptomycin|Mycobacterium|
 |||Anthracyclines [-Rubicins]:<br>Doxorubicin<br>Daunorubicin|Human|
 |||Bleomycin|Human|
+|||Dactinomycin|Human|
 |↑ DNA crosslinking|DNA|Busulfan|Human|
 |||Cyclophosphamide|Human|
 |||Nitrosourea|Human|
@@ -444,7 +444,6 @@
 |Mechanism|Target|Medication|Species|
 |-|-|-|-|
 |↓ RNA synthesis|RNA polymerase|Rifampin|Mycobacterium|
-|||Dactinomycin|Human|
 |||α-Amanitin|Human|
 
 ### Microtubule Inhibitors
