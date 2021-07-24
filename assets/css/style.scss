@@ -1,6 +1,8 @@
 ---
 ---
 
+@import "{{ site.theme }}";
+
 header, section, footer {
     float: none;
     position: static;
