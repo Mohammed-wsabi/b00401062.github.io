@@ -160,12 +160,12 @@
 
 |Finding|Indications|
 |-|-|
+|Kussmaul sign|Cardiac tamponade<br>Right heart failure<br>Restrictive cardiomyopathy|
 |Pulsus paradoxus|Cardiac tamponade<br>Obstructive lung diseases|
 |Pulsus parvus et tardus|Aortic stenosis|
 |Pulsus alternans|LV systolic dysfunction|
-|Differential cyanosis :: lower limbs|Eisenmenger syndrome of PDA|
-|Reverse differential cyanosis :: upper limbs|Transposition of great artery (TGA)|
-|Kussmaul sign|Cardiac tamponade<br>Right heart failure<br>Restrictive cardiomyopathy|
+|Differential cyanosis|Eisenmenger syndrome of PDA|
+|Reverse differential cyanosis|Transposition of great artery (TGA)|
 
 ## Grading of Murmurs
 
