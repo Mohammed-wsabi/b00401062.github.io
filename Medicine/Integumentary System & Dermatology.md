@@ -59,11 +59,11 @@
 
 |Rash|Associations|Location|
 |-|-|-|
-|Atopic dermatitis|-|Joints|
 |Acanthosis nigricans|Insulin resistance<br>Visceral malignancy|Axilla & Neck|
-|Erythema toxicum|Neonates|Face & Trunk & Extremities|
+|Atopic dermatitis|-|Joints|
 |Erythema multiforme|Stevens-Johnson syndrome (SJS)<br>Toxic epidermal necrolysis (TEN)|Anywhere|
 |Erythema nodosum|Inflammatory bowel disease<br>Sarcoidosis<br>Non-Hodgkins lymphoma|Anywhere|
+|Erythema toxicum|Neonates|Face & Trunk & Extremities|
 |Necrolytic migratory erythema|Glucagonoma|Face & Extremities|
 
 ## Etiology of Erythema Nodosum {DOSUM}
