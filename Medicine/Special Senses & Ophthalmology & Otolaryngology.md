@@ -28,10 +28,10 @@
 
 |Finding|Diseases|
 |-|-|
-|Cherry-red sports|Retinal artery occlusion<br>Lysosomal storage diseases (LSD)|
+|Cherry-red spots|Retinal artery occlusion<br>Lysosomal storage diseases (LSD)|
 |Cotton-wool spots|Diabetic retinopathy<br>Hypertensive retinopathy<br>Retinal vein occlusion<br>CMV retinitis|
-|Optic nerve cupping|Open-angle glaucoma|
 |Drusen|Age-related macular degeneration (AMD)|
+|Optic nerve cupping|Open-angle glaucoma|
 
 ## Etiology of Ophthalmoplegia & Nystagmus
 
