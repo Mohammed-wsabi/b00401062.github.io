@@ -229,12 +229,11 @@
 
 |Disease|Antibodies|
 |-|-|
-|ANCA-associated vasculitis (AAV) ::<br>granulomatosis with polyangiitis (GPA)|PR3-ANCA [c-ANCA]|
-|ANCA-associated vasculitis (AAV) ::<br>eosinophilic granulomatosis with polyangiitis (EGPA)|MPO-ANCA [p-ANCA]|
-|ANCA-associated vasculitis (AAV) ::<br>microscopic polyangiitis|MPO-ANCA [p-ANCA]|
+|ANCA-associated vasculitis (AAV)|Anti-PR3 [c-ANCA]<br>Anti-MPO [p-ANCA]|
 |Antiphospholipid syndrome (APS)|Anti-cardiolipin<br>Anti-β2-glycoprotein I<br>Lupus anticoagulant|
 |Arthus reaction|-|
 |Autoimmune hepatitis|Anti-smooth muscle<br>Anti-liver cytosol|
+|Crohn disease|ASCA|
 |Dermatitis herpetiformis|Anti-tissue transglutaminase (Anti-tTG) IgA|
 |Drug-induced lupus|Anti-histone|
 |IgA nephropathy [Berger disease]|IgA|
@@ -250,6 +249,7 @@
 |Serum sickness|-|
 |Sjogren syndrome|Anti-Ro [Anti-SSA]<br>Anti-La [Anti-SSB]|
 |Systemic lupus erythematosus (SLE)|Anti-dsDNA<br>Anti-Smith [Anti-snRNP]|
+|Ulcerative colitis|Anti-MPO [p-ANCA]|
 
 ### Type 4
 
