@@ -4,11 +4,11 @@
 
 |Mnemonic|Layer|
 |-|-|
-|Californians|Stratum corneum|
-|Like|Stratum lucidum|
-|Girls|Stratum granulosum|
-|String|Stratum spinosum|
-|Bikinis|Stratum basalis|
+|Come|Stratum corneum|
+|Let's|Stratum lucidum|
+|Get|Stratum granulosum|
+|Sun|Stratum spinosum|
+|Burned|Stratum basalis|
 
 ## Epithelial Cell Junctions {TAGDH}
 
