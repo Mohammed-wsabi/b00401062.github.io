@@ -271,10 +271,11 @@
 |-|-|-|
 |Involvement|Ileum & Colon|Colon & Rectum|
 |Pattern|Skip|Contiguous|
-|Depth|Transmural|Mucosal & Submucosal|
+|Depth|Transmural|Mucosal<br>Submucosal|
 |Radiography|String sign|Lead pipe|
 |Colonoscopy|Cobblestones|Pseudopolyps|
 |Immunology|Th1|Th2|
+|Autoantibody|ASCA|Anti-MPO [p-ANCA]|
 |Risk of colorectal cancer|↑|↑↑|
 
 ## Grading of Hemorrhoids
