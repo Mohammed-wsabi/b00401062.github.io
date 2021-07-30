@@ -394,7 +394,7 @@
 |Mechanism|Target|Medication|Species|
 |-|-|-|-|
 |↑ Cell membrane damage|-|Daptomycin<br>Polymyxin|Bacterium|
-||Ergosterol|Polyenes:<br>Amphotericin B<br>Nystatin|Fungus|
+||Ergosterol|Amphotericin B<br>Nystatin|Fungus|
 |↓ Cell membrane synthesis|Squalene epoxidase|Terbinafine|Fungus|
 ||Demethylase|-Conazoles|Fungus|
 
