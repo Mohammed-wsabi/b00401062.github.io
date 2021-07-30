@@ -50,6 +50,17 @@
 - Periventricular leukomalacia (PVL)
 - Retinopathy of prematurity
 
+## Primitive Reflexes
+
+- Asymmetrical tonic neck reflex (ATNR)
+- Galant reflex
+- Moro reflex
+- Parachute reflex
+- Palmar reflex
+- Plantar reflex
+- Rooting reflex
+- Sucking reflex
+
 ## Vaccination
 
 |Vaccine|Month|
