@@ -404,9 +404,9 @@
 
 ## Stages of Labor
 
-|Stage|Phase|Mom & Fetus|Primipara|Multipara|
+|Stage|Phase|Events|Primipara|Multipara|
 |-|-|-|-|-|
-|1|Latent|Effacement & Dilation: 0 → 6 cm<br>Engagement & Descent: high → 0|< 20 hours|< 14 hours|
+|1|Latent|Effacement<br>Dilation: 0 → 6 cm<br>Engagement<br>Descent: high → 0|< 20 hours|< 14 hours|
 ||Active|Dilation: 6 → 10 cm<br>Descent: 0 → +2|> 0.7 cm/h|> 1 cm/h|
 |2|-|Expulsion :: fetus|< 2 hours<br>< 3 hours if epidural|< 1 hours<br>< 2 hours if epidural|
 |3|-|Expulsion :: umbilical cord & placenta|< 30 minutes|< 30 minutes|
