@@ -14,10 +14,11 @@
 |Iron [Fe]|Deferasirox<br>Deferoxamine<br>Deferiprone|
 |Copper [Cu]|Penicillamin<br>Trientine|
 |Lead [Pb]|EDTA<br>Dimercaprol<br>Succimer<br>Penicillamine|
-|Methanol<br>Ethylene glycol|Fomepizole<br>Ethanol|
+|Methanol<br>Propylene glycol<br>Ethylene glycol|Fomepizole<br>Ethanol|
 |Barbiturates|NaHCO<sub>3</sub>|
 |Benzodiazepines|Flumazenil|
 |Opioids|Naloxone|
+|Valproate|L-carnitine|
 |Salicylate<br>TCAs|NaHCO<sub>3</sub>|
 |Digitalis|Anti-digitalis|
 |Warfarin|Fresh frozen plasma (FFP)<br>Vitamin K|
