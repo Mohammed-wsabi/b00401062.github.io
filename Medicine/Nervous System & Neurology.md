@@ -296,15 +296,6 @@
 |L5|Big toe extension|-|
 |S1|Ankle plantar flexion<br>Hip extension|Achilles reflex|
 
-## Primitive Reflexes
-
-- Moro reflex
-- Rooting reflex
-- Sucking reflex
-- Galant reflex
-- Palmar reflex
-- Plantar reflex
-
 ## Factors Affecting Cerebral Blood Flow
 
 ![](../Figures/Factors%20Affecting%20Cerebral%20Blood%20Flow.jpg)
