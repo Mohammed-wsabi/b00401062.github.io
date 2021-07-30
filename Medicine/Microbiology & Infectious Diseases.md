@@ -723,7 +723,8 @@
 |Mechanism|Target|Medication|Indications|
 |-|-|-|-|
 |↓ β-glucan synthesis|Glucan synthase|Echinocandins [-Fungins]:<br>Anidulafungin<br>Capsofungin<br>Micafungin|Candida<br>Aspergillosis|
-|↑ Cell membrane damage|Ergosterol|Polyenes:<br>Amphotericin B<br>Nystatin|Fungus|
+|↑ Cell membrane damage|Ergosterol|Amphotericin B|Fungus|
+||Nystatin|Candida|
 |↓ Cell membrane synthesis|Squalene epoxidase|Terbinafine|Dermatophytes|
 ||Demethylase|-Conazoles|Fungus|
 |↓ Pyrimidine synthesis|Thymidylate synthase|Flucytosine|Cryptococcus|
