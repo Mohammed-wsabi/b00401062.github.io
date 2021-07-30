@@ -570,7 +570,7 @@
 |↓ Peptidoglycan crosslinking|Penicillin binding protein|Critical|Cephalosporins|
 |↓ Peptidoglycan crosslinking|Penicillin binding protein|Care|Carbapenems|
 |↓ Peptidoglycan crosslinking|Penicillin binding protein|Medical|Monobactams|
-|↓ Peptidoglycan synthesis|Peptidoglycan|Group|Glycopeptides|
+|↓ Peptidoglycan synthesis|Peptidoglycan|Group|Glycopeptides:<br>Vancomycin<br>Teicoplanin|
 
 ### Protein Inhibitors
 
@@ -704,8 +704,8 @@
 
 |Pathogens|Antibiotics|
 |-|-|
-|MRSA|Ceftaroline<br>Vancomycin<br>Linezolid<br>Daptomycin|
-|VRE|Linezolid<br>Daptomycin|
+|MRSA|Ceftaroline<br>Vancomycin<br>Teicoplanin<br>Linezolid<br>Daptomycin|
+|VRE|Teicoplanin<br>Linezolid<br>Daptomycin|
 |MDRAB|Tigecyclin<br>Polymyxins|
 |ESBL|Carbapenems<br>Tigecycline<br>Polymyxins|
 |CRE|Tigecycline<br>Polymyxins|
