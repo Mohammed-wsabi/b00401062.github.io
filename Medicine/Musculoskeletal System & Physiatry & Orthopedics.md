@@ -125,6 +125,7 @@
 |Renal osteodystrophy|↑|↓ (1°)|↑ (1°)|↑|
 |Osteomalacia & Rickets|↑|↓ (1°)|↓|↑|
 |Hypophosphatemic rickets|↑|-|↓ (1°)|-|
+|Albright hereditary osteodystrophy|↑|↓ (1°)|↑ (1°)|↑|
 |Paget disease|↑|-|-|-|
 
 ## Presentation of Osteogenesis Imperfecta
