@@ -61,9 +61,9 @@
 |Coupling|Thyroperoxidase (TPO)|
 |Deiodination|5'-deiodinase|
 
-## Differential Diagnosis of TH Disorders
+## Thyroid Hormone Disorders
 
-|Diagnosis|TRH|TSH|TH|
+|Disorder|TRH|TSH|TH|
 |-|-|-|-|
 |1° hypothyroidism|↑|↑|↓ (1°)|
 |2° hypothyroidism|↑|↓ (1°)|↓|
@@ -117,9 +117,9 @@
 - Radioiodine ablation
 - Surgery
 
-## Differential Diagnosis of PTH Disorders
+## Parathyroidism Hormone Disorders
 
-|Diagnosis|Calcium|Phosphate|PTH|Bone Disorder|
+|Disorder|Calcium|Phosphate|PTH|Bone Disorder|
 |-|-|-|-|-|
 |1° Hypoparathyroidism|↓|↑|↓ (1°)|-|
 |PTH-independent hypercalcemia|↑ (1°)|↑|↓|-|
@@ -178,9 +178,9 @@
 |11-Hydroxylase|↓|↓|↑|↑|
 |17-Hydroxylase|↑|↓|↓|↑|
 
-## Differential Diagnosis of Mineralocorticoid Disorders
+## Mineralocorticoid Disorders
 
-|Diagnosis|Na & BP|Renin|Mineralocorticoid|
+|Disorder|Na & BP|Renin|Mineralocorticoid|
 |-|-|-|-|
 |CAH :: 21-Hydroxylase deficiency|↓|↑|↓ (1°)|
 |Waterhouse-Friderichsen syndrome|↓|↑|↓ (1°)|
@@ -197,9 +197,9 @@
 |Bartter syndrome|↓ (1°)|↑|↑|
 |Gitelman syndrome|↓ (1°)|↑|↑|
 
-## Differential Diagnosis of Glucocorticoid Disorders
+## Glucocorticoid Disorders
 
-|Diagnosis|CRH|ACTH|Glucocorticoid|
+|Disorder|CRH|ACTH|Glucocorticoid|
 |-|-|-|-|
 |Congenital adrenal hyperplasia (CAH)|↑|↑|↓ (1°)|
 |Addison disease|↑|↑|↓ (1°)|
@@ -210,9 +210,9 @@
 |Ectopic ACTH|↓|↑ (1°)|↑|
 |Cushing disease|↓|↑ (1°)|↑|
 
-## Differential Diagnosis of Sex Hormone Disorders
+## Sex Hormone Disorders
 
-|Diagnosis|GnRH|LH & FSH|SH|
+|Disorder|GnRH|LH & FSH|SH|
 |-|-|-|-|
 |Kallmann syndrome|↓ (1°)|↓|↓|
 |Hypothyroidism|↓|↓|↓|
@@ -257,9 +257,9 @@
 |D<sub>2</sub> agonists|Bromocriptine|Acromegaly|
 ||Cabergoline|Acromegaly|
 
-## Differential Diagnosis of Insulin Disorders
+## Insulin Disorders
 
-|Diagnosis|Glucose|Insulin|
+|Disorder|Glucose|Insulin|
 |-|-|-|
 |Starvation|↓ (1°)|↓|
 |DM type 1|↑|↓ (1°)|
@@ -316,7 +316,7 @@
 - Bicarbonate if indicated
 - Phosphate if indicated
 
-## Differential Diagnosis of ADH Disorders
+## ADH Disorders
 
 |Diagnosis|Osmolarity|ADH|
 |-|-|-|
