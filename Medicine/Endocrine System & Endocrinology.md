@@ -119,17 +119,17 @@
 
 ## Differential Diagnosis of PTH Disorders
 
-|Diagnosis|Calcium|Phosphate|PTH|
-|-|-|-|-|
-|1° Hypoparathyroidism|↓|↑|↓ (1°)|
-|PTH-independent hypercalcemia|↑ (1°)|↑|↓|
-|1° Hyperparathyroidism → osteitis fibrosa cystica|↑|↓|↑ (1°)|
-|Familial hypocalciuric hypercalcemia (FHH)|↑|↓|↑ (1°)|
-|2° Hyperparathyroidism → renal osteodystrophy|↓ (1°)|↑ (1°)|↑|
-|3° Hyperparathyroidism → renal osteodystrophy|↑|↑|↑|
-|Vitamin D deficiency → osteomalacia & rickets|↓ (1°)|↓|↑|
-|Pseudohypoparathyroidism (PHP) → Albright hereditary osteodystrophy|↓ (1°)|↑ (1°)|↑|
-|Pseudopseudohypoparathyroidism|-|-|-|
+|Diagnosis|Calcium|Phosphate|PTH|Bone Disorder|
+|-|-|-|-|-|
+|1° Hypoparathyroidism|↓|↑|↓ (1°)|-|
+|PTH-independent hypercalcemia|↑ (1°)|↑|↓|-|
+|1° Hyperparathyroidism|↑|↓|↑ (1°)|Osteitis fibrosa cystica|
+|Familial hypocalciuric hypercalcemia (FHH)|↑|↓|↑ (1°)|-|
+|2° Hyperparathyroidism|↓ (1°)|↑ (1°)|↑|Renal osteodystrophy|
+|3° Hyperparathyroidism|↑|↑|↑|Renal osteodystrophy|
+|Vitamin D deficiency|↓ (1°)|↓|↑|Osteomalacia & Rickets|
+|Pseudohypoparathyroidism (PHP)|↓ (1°)|↑ (1°)|↑|Albright hereditary osteodystrophy|
+|Pseudopseudohypoparathyroidism|-|-|-|-|
 
 ## Presentation of Hyperparathyroidism
 
