@@ -262,15 +262,11 @@
 
 ---
 
-### Approach
+### Workup
 
 ---
 
 ### Diagnosis
-
----
-
-### Workup
 
 ---
 
