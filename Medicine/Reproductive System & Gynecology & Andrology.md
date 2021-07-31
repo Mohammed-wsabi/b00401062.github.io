@@ -177,7 +177,7 @@
 |Treponema pallidum|Painless chancre<br>Condyloma lata|Penicillin|
 |Chlamydia trachomatis|Discharge :: greenish-yellow<br>Lymphogranuloma venereum (LGV)<br>Pelvic inflammatory disease (PID)|Macrolides<br>Doxycycline|
 |Gardnerella vaginalis|Discharge :: grayish & fishy|Metronidazole|
-|Candida albicans|Discharge :: white & curdy|Azoles|
+|Candida albicans|Discharge :: white & curdy|-Conazoles|
 |Trichomonas vaginalis|Discharge :: greenish-yellow & frothy|Metronidazole|
 |HPV|Condyloma accumulata<br>Verruca vulgaris|-|
 |HSV|Paniful ulcers|-|
