@@ -127,7 +127,7 @@
 |Familial hypocalciuric hypercalcemia (FHH)|↑|↓|↑ (1°)|-|
 |2° Hyperparathyroidism|↓ (1°)|↑ (1°)|↑|Renal osteodystrophy|
 |3° Hyperparathyroidism|↑|↑|↑|Renal osteodystrophy|
-|Vitamin D deficiency|↓ (1°)|↓|↑|Osteomalacia & Rickets|
+|Vitamin D deficiency|↓ (1°)|↓|↑|Rickets<br>Osteomalacia|
 |Pseudohypoparathyroidism (PHP)|↓ (1°)|↑ (1°)|↑|Albright hereditary osteodystrophy|
 |Pseudopseudohypoparathyroidism|-|-|-|-|
 
