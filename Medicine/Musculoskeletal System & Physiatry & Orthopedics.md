@@ -115,18 +115,18 @@
 |20° ~ 50°|Spinal bracing|
 |> 50°|Spinal fusion|
 
-## Lab Values in Bone Disorders
+## Etiology of Bone Disorders
 
-|Disorder|ALP|Calcium|Phosphate|PTH|
-|-|-|-|-|-|
-|Osteopetrosis|-|-|-|-|
-|Osteopenia & Osteoporosis|-|-|-|-|
-|Osteitis fibrosa cystica|↑|↑|↓|↑ (1°)|
-|Renal osteodystrophy|↑|↓ (1°)|↑ (1°)|↑|
-|Osteomalacia & Rickets|↑|↓ (1°)|↓|↑|
-|Hypophosphatemic rickets|↑|-|↓ (1°)|-|
-|Albright hereditary osteodystrophy|↑|↓ (1°)|↑ (1°)|↑|
-|Paget disease|↑|-|-|-|
+|Disorder|ALP|Calcium|Phosphate|PTH|Etiology|
+|-|-|-|-|-|-|
+|Osteopetrosis|-|-|-|-|-|
+|Osteopenia & Osteoporosis|-|-|-|-|-|-|
+|Osteitis fibrosa cystica|↑|↑|↓|↑ (1°)|1° Hyperparathyroidism|
+|Renal osteodystrophy|↑|↓ (1°)|↑ (1°)|↑|2° Hyperparathyroidism<br>3° Hyperparathyroidism|
+|Osteomalacia & Rickets|↑|↓ (1°)|↓|↑|Vitamin D deficiency|
+|Hypophosphatemic rickets|↑|-|↓ (1°)|-|-|
+|Albright hereditary osteodystrophy|↑|↓ (1°)|↑ (1°)|↑|Pseudohypoparathyroidism (PHP)|
+|Paget disease|↑|-|-|-|-|
 
 ## Presentation of Osteogenesis Imperfecta
 
