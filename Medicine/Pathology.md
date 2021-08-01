@@ -90,7 +90,7 @@
 |Mallory body|Keratin|Alcoholic hepatitis|
 |Negri body|Rabies|Rabies|
 |Neurofibrillary tangle|Tau protein|Alzheimer disease|
-|Orphan Annie eye|-|Papillary carcinoma of thyroid|
+|Orphan Annie eye|-|Papillary thyroid carcinoma|
 |Owl eye|CMV|CMV|
 |Pappenheimer body|Ferritin|Sideroblastic anemia|
 |Pick body|Tau protein|Frontotemporal dementia|
