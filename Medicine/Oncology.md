@@ -214,3 +214,14 @@
 |Y|Lymphoma|
 |Cure|Cervical|
 |Possible|Prostate|
+
+## Paraneoplastic Syndromes
+
+|Syndrome|Cancer|
+|-|-|
+|ACTH|Small cell carcinoma|
+|hCG|Large cell carcinoma|
+|Lambert-Eaton myasthenic syndrome|Small cell carcinoma|
+|Myasthenia gravis|Thymoma|
+|PTHrP|Squamous cell carcinoma<br>Renal cell carcinoma|
+|SIADH|Small cell carcinoma|
