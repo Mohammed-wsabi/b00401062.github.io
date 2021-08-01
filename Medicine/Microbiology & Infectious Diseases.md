@@ -786,7 +786,6 @@
 - Lymphangitis
 - Necrotizing fasciitis
 - Pharyngitis
-- Pyogenic
 - Rheumatic fever
 - Scarlet fever
 - Toxic shock-like syndrome
