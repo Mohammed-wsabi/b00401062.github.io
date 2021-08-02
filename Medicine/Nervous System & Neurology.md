@@ -57,7 +57,7 @@
 
 ## Thalamus
 
-|Nuclueus|Function|
+|Nucleus|Function|
 |-|-|
 |Lateral geniculate nucleus (LGN)|Vision|
 |Medial geniculate nucleus (MGN)|Audition|
@@ -67,7 +67,7 @@
 
 ## Hypothalamus
 
-|Nuclueus|Function|
+|Nucleus|Function|
 |-|-|
 |Lateral|Hunger|
 |Ventromedial|Satiety|
