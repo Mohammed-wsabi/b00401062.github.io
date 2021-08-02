@@ -35,22 +35,23 @@
 
 ## Etiology of Ophthalmoplegia & Nystagmus
 
-- Cavernous sinus thrombosis
-- Cerebellopontine angle tumor → Bruns nystagmus
-- Chiari malformation
-- Epilepsy
-- Frontal eye fields
-- Idiopathic intracranial hypertension (IIH)
-- Multiple sclerosis → internuclear ophthalmoplegia (INO)
-- Myasthenic syndrome
-- Paramedian pontine reticular formation (PPRF)
-- Parinaud syndrome → convergence-retraction nystagmus
-- Peripheral vestibular nystagmus
-- Posterior communicating artery aneurysm
-- Stroke
-- Thyroid ophthalmopathy
-- Uncal herniation
-- Wernicke encephalopathy
+|Etiology|Lesion|Presentation|
+|-|-|-|
+|Cavernous sinus thrombosis|CN III & IV & VI|-|
+|Cerebellopontine angle tumor|CN VIII|Bruns nystagmus|
+|Chiari malformation|-|-|
+|Conjugate gaze center lesions|Frontal eye fields<br>Paramedian pontine reticular formation (PPRF)|Horizontal gaze palsy|
+|Epilepsy|-|-|
+|Idiopathic intracranial hypertension (IIH)|-|-|
+|Multiple sclerosis|Medial longitudinal fasciculus (MLF)|Internuclear ophthalmoplegia (INO)|
+|Myasthenic syndrome|Extraocular muscle|-|
+|Parinaud syndrome|Superior colliculus|Vertical gaze palsy<br>Convergence-retraction nystagmus|
+|Peripheral vestibular nystagmus|CN VIII|-|
+|Posterior communicating artery aneurysm|CN III|-|
+|Stroke|-|-|
+|Thyroid ophthalmopathy|Extraocular muscle|-|
+|Uncal herniation|CN III|-|
+|Wernicke encephalopathy|Mammillary body|-|
 
 ## Presentation of Glaucoma
 
