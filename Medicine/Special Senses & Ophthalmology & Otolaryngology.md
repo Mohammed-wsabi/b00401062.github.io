@@ -16,9 +16,9 @@
 
 ![](../Figures/Pupillary%20Reflex.png)
 
-## Conjugate Eye Movements
+## Conjugate Gaze
 
-![](../Figures/Conjugate%20Eye%20Movements.jpg)
+![](../Figures/Conjugate%Gaze.png)
 
 ## Vestibulo-ocular Reflex
 
