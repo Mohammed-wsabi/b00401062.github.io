@@ -39,23 +39,17 @@
 
 ## Etiology of Ophthalmoplegia & Nystagmus
 
-|Etiology|Lesion|Presentation|
+|Lesion|Presention|Etiology|
 |-|-|-|
-|Cavernous sinus thrombosis|CN III & IV & VI|-|
-|Cerebellopontine angle tumor|CN VIII|Bruns nystagmus|
-|Chiari malformation|-|-|
-|Conjugate gaze center lesions|Frontal eye fields (FEF)<br>Paramedian pontine reticular formation (PPRF)|Horizontal gaze palsy|
-|Epilepsy|-|-|
-|Idiopathic intracranial hypertension (IIH)|-|-|
-|Multiple sclerosis|Medial longitudinal fasciculus (MLF)|Internuclear ophthalmoplegia (INO)|
-|Myasthenic syndrome|Extraocular muscle|-|
-|Parinaud syndrome|Superior colliculus|Vertical gaze palsy<br>Convergence-retraction nystagmus|
-|Peripheral vertigo|CN VIII|Peripheral vestibular nystagmus|
-|Posterior communicating artery aneurysm|CN III|-|
-|Stroke|-|-|
-|Thyroid ophthalmopathy|Extraocular muscle|-|
-|Uncal herniation|CN III|-|
-|Wernicke encephalopathy|Mammillary body|-|
+|Inner ear|Peripheral vertigo|-|
+|CN VIII|Bruns nystagmus|Cerebellopontine angle tumors|
+|Superior colliculus|Vertical gaze palsy<br>Convergence-retraction nystagmus|Parinaud syndrome|
+|Frontal eye fields (FEF)<br>Paramedian pontine reticular formation (PPRF)|Horizontal gaze palsy|-|
+|Medial longitudinal fasciculus (MLF)|Internuclear ophthalmoplegia (INO)|Multiple sclerosis|
+|CN III|Down-and-out gaze|Cavernous sinus thrombosis<br>Posterior communicating artery aneurysm<br>Uncal herniation|
+|Extraocular muscles|-|Myasthenic syndrome<br>Thyroid ophthalmopathy|
+|Mammillary body|-|Wernicke encephalopathy|
+|-|-|Epilepsy<br>Stroke<br>Migraine<br>Chiari malformation|
 
 ## Presentation of Glaucoma
 
