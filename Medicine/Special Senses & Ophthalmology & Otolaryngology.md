@@ -162,6 +162,7 @@
 ## Etiology of Peripheral Vertigo
 
 - Benign paroxysmal positional vertigo (BPPV)
+- Labyrinthitis
 - Labyrinthine concussion
 - Meniere disease
 - Vestibular neuritis
