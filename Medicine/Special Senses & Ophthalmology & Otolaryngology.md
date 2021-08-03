@@ -20,6 +20,10 @@
 
 ![](../Figures/Conjugate%20Gaze.png)
 
+- Frontal eye fields (FEF)
+- Paramedian pontine reticular formation (PPRF)
+- Medial longitudinal fasciculus (MLF)
+
 ## Vestibulo-ocular Reflex
 
 ![](../Figures/Vestibulo-ocular%20Reflex.png)
@@ -40,13 +44,13 @@
 |Cavernous sinus thrombosis|CN III & IV & VI|-|
 |Cerebellopontine angle tumor|CN VIII|Bruns nystagmus|
 |Chiari malformation|-|-|
-|Conjugate gaze center lesions|Frontal eye fields<br>Paramedian pontine reticular formation (PPRF)|Horizontal gaze palsy|
+|Conjugate gaze center lesions|Frontal eye fields (FEF)<br>Paramedian pontine reticular formation (PPRF)|Horizontal gaze palsy|
 |Epilepsy|-|-|
 |Idiopathic intracranial hypertension (IIH)|-|-|
 |Multiple sclerosis|Medial longitudinal fasciculus (MLF)|Internuclear ophthalmoplegia (INO)|
 |Myasthenic syndrome|Extraocular muscle|-|
 |Parinaud syndrome|Superior colliculus|Vertical gaze palsy<br>Convergence-retraction nystagmus|
-|Peripheral vestibular nystagmus|CN VIII|-|
+|Peripheral vertigo|CN VIII|Peripheral vestibular nystagmus|
 |Posterior communicating artery aneurysm|CN III|-|
 |Stroke|-|-|
 |Thyroid ophthalmopathy|Extraocular muscle|-|
