@@ -26,7 +26,7 @@
 
 ## Vestibulo-ocular Reflex
 
-![](../Figures/Vestibulo-ocular%20Reflex.png)
+![](../Figures/Vestibulo-ocular%20Reflex.jpg)
 
 ## Fundoscopic findings
 
