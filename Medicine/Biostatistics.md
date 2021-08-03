@@ -8,8 +8,6 @@
 - Measurement bias
 - Procedure bias
 - Observer-expectancy bias
-- Pygmalion effect
-- Hawthorne effect
 - Confounding bias
 - Lead-time bias
 - Late-look bias
