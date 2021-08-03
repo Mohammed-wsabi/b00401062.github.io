@@ -18,7 +18,7 @@
 
 ## Conjugate Gaze
 
-![](../Figures/Conjugate%Gaze.png)
+![](../Figures/Conjugate%20Gaze.png)
 
 ## Vestibulo-ocular Reflex
 
