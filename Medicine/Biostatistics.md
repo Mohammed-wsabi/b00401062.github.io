@@ -1,6 +1,6 @@
 # Biostatistics
 
-## Bias & Study Errors
+## Research Bias
 
 - Sampling bias
 - Selection bias
